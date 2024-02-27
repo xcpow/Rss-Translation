@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>安全最新动态</title>
+    <link>https://www.wired.com</link>
+    <description>频道说明</description>
+    <lastBuildDate>Tue, 27 Feb 2024 04:31:15 GMT</lastBuildDate>
+    <item>
+      <title>右翼争议如何破坏美国选举安全</title>
+      <link>https://www.wired.com/story/gop-secretaries-of-state-cisa-controversy/</link>
+      <description><![CDATA[参加选举的共和党人对于是否继续与网络安全和基础设施安全局合作打击黑客、网络虚假信息和投票站威胁存在分歧。]]></description>
+      <guid>https://www.wired.com/story/gop-secretaries-of-state-cisa-controversy/</guid>
+      <pubDate>Mon, 26 Feb 2024 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>自动售货机错误揭示了人脸识别技术的秘密</title>
+      <link>https://www.wired.com/story/facial-recognition-vending-machine-error-investigation/</link>
+      <description><![CDATA[滑铁卢大学的一项学生调查发现，一个系统在未经同意的情况下扫描了无数本科生。]]></description>
+      <guid>https://www.wired.com/story/facial-recognition-vending-machine-error-investigation/</guid>
+      <pubDate>Sat, 24 Feb 2024 22:02:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>神秘泄密暴露了中国黑客的秘密</title>
+      <link>https://www.wired.com/story/isoon-china-hack-for-hire-leak/</link>
+      <description><![CDATA[另外：骗子试图用 5,000 部假 iPhone 欺骗 Apple，Avast 因出售浏览数据而被罚款，研究人员找到了如何从手机屏幕克隆指纹的方法。]]></description>
+      <guid>https://www.wired.com/story/isoon-china-hack-for-hire-leak/</guid>
+      <pubDate>Sat, 24 Feb 2024 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>这里是 ShotSpotter 枪火传感器的秘密位置</title>
+      <link>https://www.wired.com/story/shotspotter-secret-sensor-locations-leak/</link>
+      <description><![CDATA[用于检测枪声的麦克风的位置一直对警察和公众隐藏。 《连线》对泄露坐标的分析证实了批评者反对该技术的论点。]]></description>
+      <guid>https://www.wired.com/story/shotspotter-secret-sensor-locations-leak/</guid>
+      <pubDate>Fri, 23 Feb 2024 01:18:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>泄露揭示了“紧急”俄罗斯威胁警告的不寻常途径</title>
+      <link>https://www.wired.com/story/hpsci-russia-urgent-threat-leak/</link>
+      <description><![CDATA[美国国会上周准备就一项重要的外国监控计划进行投票。然后，俄罗斯的狂野威胁出现了。]]></description>
+      <guid>https://www.wired.com/story/hpsci-russia-urgent-threat-leak/</guid>
+      <pubDate>Thu, 22 Feb 2024 19:57:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple iOS 17.4：iMessage 在新更新中获得后量子加密</title>
+      <link>https://www.wired.com/story/apple-pq3-post-quantum-encryption/</link>
+      <description><![CDATA[有用的量子计算机尚未成为现实。但苹果正在将这项技术引入 iMessage，这是迄今为止最大规模的后量子加密部署之一。]]></description>
+      <guid>https://www.wired.com/story/apple-pq3-post-quantum-encryption/</guid>
+      <pubDate>Wed, 21 Feb 2024 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>白宫高级网络官员 Anne Neuberger 看到人工智能的“前景与危险”</title>
+      <link>https://www.wired.com/story/anne-neuberger-cybersecurity-q-and-a/</link>
+      <description><![CDATA[拜登政府负责网络事务的副国家安全顾问安妮·纽伯格 (Anne Neuberger) 向《连线》杂志讲述了新出现的网络安全威胁以及美国计划采取的应对措施。]]></description>
+      <guid>https://www.wired.com/story/anne-neuberger-cybersecurity-q-and-a/</guid>
+      <pubDate>Wed, 21 Feb 2024 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Signal 终于推出用户名，这样你就可以保密你的电话号码</title>
+      <link>https://www.wired.com/story/signal-launches-usersnames-phone-number-privacy/</link>
+      <description><![CDATA[我们测试了端到端加密信使的新功能，旨在解决批评者最持久的抱怨。这是它的工作原理。]]></description>
+      <guid>https://www.wired.com/story/signal-launches-usersnames-phone-number-privacy/</guid>
+      <pubDate>Tue, 20 Feb 2024 18:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>臭名昭著的 Lockbit 勒索软件团伙已被执法部门瓦解</title>
+      <link>https://www.wired.com/story/lockbit-ransomware-takedown-website-nca-fbi/</link>
+      <description><![CDATA[LockBit 的网站、基础设施和数据已被执法部门查封，这对世界上最多产的勒索软件组织之一造成了巨大打击。]]></description>
+      <guid>https://www.wired.com/story/lockbit-ransomware-takedown-website-nca-fbi/</guid>
+      <pubDate>Tue, 20 Feb 2024 12:50:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>潜伏在乌克兰地表之下的危险</title>
+      <link>https://www.wired.com/story/ukraine-mine-problem/</link>
+      <description><![CDATA[地雷的广泛使用使得乌克兰人争先恐后地寻找清除爆炸物的方法。开发扫雷技术的新努力可能有助于他们击退俄罗斯的入侵部队。]]></description>
+      <guid>https://www.wired.com/story/ukraine-mine-problem/</guid>
+      <pubDate>Mon, 19 Feb 2024 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何避免被骗 50,000 美元</title>
+      <link>https://www.wired.com/story/how-to-not-get-scammed-out-of-50000/</link>
+      <description><![CDATA[另外：国家支持的黑客测试了生成式人工智能，美国摧毁了俄罗斯的一个主要军事僵尸网络，罗马尼亚的 100 家医院在一次重大勒索软件攻击中瘫痪。]]></description>
+      <guid>https://www.wired.com/story/how-to-not-get-scammed-out-of-50000/</guid>
+      <pubDate>Sat, 17 Feb 2024 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>SpaceX 发射旨在追踪高超音速导弹的军用卫星</title>
+      <link>https://www.wired.com/story/spacex-hypersonic-missile-satellites/</link>
+      <description><![CDATA[原型卫星搭乘猎鹰 9 号火箭。]]></description>
+      <guid>https://www.wired.com/story/spacex-hypersonic-missile-satellites/</guid>
+      <pubDate>Fri, 16 Feb 2024 22:45:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>消息人士称，俄罗斯“威胁”的泄露是其破坏美国监控改革的一部分</title>
+      <link>https://www.wired.com/story/section-702-privacy-reforms-sabotage-campaign/</link>
+      <description><![CDATA[众议院情报主席意外披露了国家安全威胁，这是阻止旨在限制警察和间谍购买美国人私人数据的立法的努力的一部分。]]></description>
+      <guid>https://www.wired.com/story/section-702-privacy-reforms-sabotage-campaign/</guid>
+      <pubDate>Fri, 16 Feb 2024 20:30:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>报告称，埃隆·马斯克的 X 给恐怖组织领导人打了勾</title>
+      <link>https://www.wired.com/story/elon-musk-x-checkmarks-terrorist-groups/</link>
+      <description><![CDATA[一份新报告引用了 X 上的 28 个“经过验证”的账户，这些账户似乎与受制裁的团体或个人有关。]]></description>
+      <guid>https://www.wired.com/story/elon-musk-x-checkmarks-terrorist-groups/</guid>
+      <pubDate>Thu, 15 Feb 2024 23:17:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>702条款监控之争让白宫与生殖权利对立</title>
+      <link>https://www.wired.com/story/surveillance-fight-pits-the-white-house-opposite-reproductive-rights/</link>
+      <description><![CDATA[孕妇权利的杰出倡导者敦促国会议员支持禁止未经授权访问敏感数据的立法，而白宫对此表示反对。]]></description>
+      <guid>https://www.wired.com/story/surveillance-fight-pits-the-white-house-opposite-reproductive-rights/</guid>
+      <pubDate>Wed, 14 Feb 2024 16:05:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>“人工智能女友”是隐私噩梦</title>
+      <link>https://www.wired.com/story/ai-girlfriends-privacy-nightmare/</link>
+      <description><![CDATA[Mozilla 的新研究称，浪漫聊天机器人收集大量数据，提供有关如何使用这些数据的模糊信息，使用弱密码保护，而且不透明。]]></description>
+      <guid>https://www.wired.com/story/ai-girlfriends-privacy-nightmare/</guid>
+      <pubDate>Wed, 14 Feb 2024 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>702 节监控之争即将发生幕后交易</title>
+      <link>https://www.wired.com/story/section-702-reform-backroom-deal/</link>
+      <description><![CDATA[国会高层立法者正在私下开会，讨论广泛不受欢迎的监控计划的未来，这让致力于改革第 702 条的议员们感到担忧。]]></description>
+      <guid>https://www.wired.com/story/section-702-reform-backroom-deal/</guid>
+      <pubDate>Mon, 12 Feb 2024 19:15:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>卫星图像显示以色列对加沙医疗设施进行了不分青红皂白的袭击</title>
+      <link>https://www.wired.com/story/israel-hamas-war-health-care-facilities-attack-study/</link>
+      <description><![CDATA[新的研究发现，以色列对加沙的袭击对医院和其他医疗设施的破坏程度与其他建筑物相同，这可能违反了国际法。]]></description>
+      <guid>https://www.wired.com/story/israel-hamas-war-health-care-facilities-attack-study/</guid>
+      <pubDate>Mon, 12 Feb 2024 13:34:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>网络攻击隐藏的不公正现象</title>
+      <link>https://www.wired.com/story/cybersecurity-marginalized-communities-problem/</link>
+      <description><![CDATA[网络攻击和犯罪诈骗可能会影响任何人。但有色人种社区和其他边缘群体往往受到不成比例的影响，并且缺乏更好保护自己的支持。]]></description>
+      <guid>https://www.wired.com/story/cybersecurity-marginalized-communities-problem/</guid>
+      <pubDate>Mon, 12 Feb 2024 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2054，第六部分：阿灵顿对峙</title>
+      <link>https://www.wired.com/story/2054-part-vi-standoff-at-arlington/</link>
+      <description><![CDATA[“这场暴力的爆发已经酝酿多年，经历了连续的经济崩溃、流行病以及美国人生活的彻底失调。” 《2054：小说》的独家摘录。]]></description>
+      <guid>https://www.wired.com/story/2054-part-vi-standoff-at-arlington/</guid>
+      <pubDate>Mon, 12 Feb 2024 11:00:00 GMT</pubDate>
+    </item>
+    </channel>
+</rss>
