@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>ACM 技术新闻</title>
+    <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
+    <description>ACM 技术新闻</description>
+    <lastBuildDate>Tue, 27 Feb 2024 04:56:43 GMT</lastBuildDate>
+    <item>
+      <title>科学家将法学硕士大脑放入机器人体内</title>
+      <link>https://www.scientificamerican.com/article/scientists-are-putting-chatgpt-brains-inside-robot-bodies-what-could-possibly-go-wrong/</link>
+      <description><![CDATA[《科学美国人》机器人研究人员正在使用大型语言模型 (LLM) 来规避预编程限制。南加州大学的计算机科学家开发了 ProgPrompt，其中涉及用 Python 编程语言提供法学硕士提示，其中包括示例问题和解决方案，以帮助限制机器人可以执行的任务范围的答案。 Google 研究人员制定了一项策略，其中包括向 PaLM LLM 提供机器人可以执行的行为列表，PaLM LLM 会使用列表中的行为以会话语言响应人类向机器人发出的请求。摘自《科学家将法学硕士大脑放入机器人体内》
+《科学美国人》 (02/21/24) David Berreby 查看全文]]></description>
+      <guid>https://www.scientificamerican.com/article/scientists-are-putting-chatgpt-brains-inside-robot-bodies-what-could-possibly-go-wrong/</guid>
+      <pubDate>Tue, 27 Feb 2024 04:56:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>海岸警卫队启动船只警报系统以确保鲸鱼的安全</title>
+      <link>https://apnews.com/article/orcas-humpbacks-ferries-seattle-ca034b8cb584f9aca7200a83a51cd0a2</link>
+      <description><![CDATA[美联社美国海岸警卫队推出的一项试点计划旨在防止华盛顿州萨利什海的船只与海洋哺乳动物发生碰撞，并减少船只发出的噪音，这些噪音会干扰虎鲸捕食。美国海岸警卫队的“鲸类服务台”将通过观鲸应用程序和水下监听设备的数据整合海员和平民的鲸鱼目击事件，并通过移动应用程序向商业船只和区域渡轮发送警报，以减慢和/或调整其路径。 br /&gt;摘自“海岸警卫队启动船只警报系统以确保鲸鱼安全”
+美联社 (02/21/24) Manuel Valdes 查看全文&lt; /a&gt;]]></description>
+      <guid>https://apnews.com/article/orcas-humpbacks-ferries-seattle-ca034b8cb584f9aca7200a83a51cd0a2</guid>
+      <pubDate>Tue, 27 Feb 2024 04:56:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>最长距离的无人机送货服务在挪威启动</title>
+      <link>https://www.euronews.com/next/2024/02/20/worlds-longest-distance-drone-delivery-service-makes-shopping-more-exclusive-in-norway</link>
+      <description><![CDATA[EuroNews挪威初创公司 Aviant 在滑雪度假小镇利勒哈默尔的郊区启动了世界上距离最远的无人机送货服务，当地人和游客可以通过其 Kyte 应用程序订购约 1.5 公斤的货物，并在 24 天内送货平均分钟数。无人机的送货半径为 17 公里（近 11 英里）；它们可以在高达每秒 12 米（超过 26 英里/小时）的风速和低于 -15 摄氏度（5 华氏度）的温度下运行。摘自“最长距离无人机送货服务在挪威”
+欧洲新闻 (02/20/24) 帕斯卡尔·戴维斯 查看全文]]></description>
+      <guid>https://www.euronews.com/next/2024/02/20/worlds-longest-distance-drone-delivery-service-makes-shopping-more-exclusive-in-norway</guid>
+      <pubDate>Tue, 27 Feb 2024 04:56:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>自适应智能手套触摸老师</title>
+      <link>https://interestingengineering.com/innovation/mit-unveils-adaptive-smart-glove-that-makes-touch-the-teacher</link>
+      <description><![CDATA[有趣的工程麻省理工学院计算机科学家开发的智能手套通过提供触觉反馈帮助用户学习新技能。为了促进通过触摸进行学习，研究人员将触觉传感器和触觉执行器嵌入到纺织品中。智能手套可以根据人的手部规格进行定制，只需最少的用户数据即可提供个性化反馈。摘自“自适应智能手套让老师感动”
+有趣的工程 (02/21/24) 埃米尔可以 查看全文]]></description>
+      <guid>https://interestingengineering.com/innovation/mit-unveils-adaptive-smart-glove-that-makes-touch-the-teacher</guid>
+      <pubDate>Tue, 27 Feb 2024 04:56:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>iMessage 升级可抵御量子计算机解密</title>
+      <link>https://www.reuters.com/technology/cybersecurity/apple-rolls-out-imessage-upgrade-withstand-decryption-by-quantum-computers-2024-02-21/</link>
+      <description><![CDATA[路透社苹果 iMessage 短信平台的升级旨在防止未来量子计算机潜在的解密。苹果表示，从头开始重建的新 PQ3 加密协议“今年将在所有支持的对话中完全取代现有协议”。澳大利亚量子科技公司 Q-CTRL 的创始人兼首席执行官 Michael Biercuk 表示，苹果公开强化防御措施的事实是对先进计算机对现有保护构成威胁这一观点的“信任票”。&lt; br /&gt;摘自《iMessage升级可抵御量子计算机解密》
+路透社 (02/21/24) Christopher Bing；拉斐尔·萨特 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/cybersecurity/apple-rolls-out-imessage-upgrade-withstand-decryption-by-quantum-computers-2024-02-21/</guid>
+      <pubDate>Tue, 27 Feb 2024 04:56:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>生成式人工智能位居薪酬最高技术技能榜首</title>
+      <link>https://www.fastcompany.com/91033776/generative-ai-is-the-highest-paying-skill-in-tech</link>
+      <description><![CDATA[Fast Company招聘网站 Indeed 列出了 1 月份薪资最高的 10 种技术技能，其中 Generative AI 位居榜首，平均薪资为 174,727 美元。排在前 10 名的生成式 AI 之后是 SoC、深度学习、Torch、PyTorch、计算机视觉、SystemVerilog、Mesos、Rust 和 Elixir。 Indeed 表示，最需要这些技能的职位包括数据科学家、机器学习工程师、软件工程师和研究科学家。摘自“生成式人工智能位居薪酬最高技术技能列表”
+《快公司》 (02/21/24) Emily Price 查看全文]]></description>
+      <guid>https://www.fastcompany.com/91033776/generative-ai-is-the-highest-paying-skill-in-tech</guid>
+      <pubDate>Tue, 27 Feb 2024 04:56:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国将投资数十亿美元更换港口高科技起重机</title>
+      <link>https://www.wsj.com/politics/national-security/u-s-to-invest-billions-to-replace-china-made-cranes-at-nations-ports-d451ef8f</link>
+      <description><![CDATA[《华尔街日报》美国提议斥资超过 200 亿美元来加强国内港口安全，包括增加配备先进软件的货物起重机的国内制造，以减轻对中国制造的起重机的依赖。尽管价格相对便宜，但中国振华重工制造的起重机配备了先进的传感器，可以记录和跟踪集装箱的来源和目的地，这导致人们担心它们可能被用来跟踪军事和其他货物。它们占美国港口使用的船岸起重机的近 80%。摘自《美国将投资数十亿美元更换港口高科技起重机》
+华尔街日报 (02/21/24) 达斯汀·沃尔兹 (Dustin Volz)；戈登·卢伯德；道格·卡梅伦 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/politics/national-security/u-s-to-invest-billions-to-replace-china-made-cranes-at-nations-ports-d451ef8f</guid>
+      <pubDate>Tue, 27 Feb 2024 04:56:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>仅用一种墨水进行多色打印</title>
+      <link>https://www.forbes.com/sites/evaamsen/2024/02/20/multi-color-printing-with-just-one-ink-opens-the-door-to-new-materials/</link>
+      <description><![CDATA[福布斯伊利诺伊大学厄巴纳-香槟分校贝克曼高级科学技术研究所的研究人员开发了一种使用单一墨水 3D 打印多种颜色的方法。该技术的灵感来自变色龙改变颜色的方式，涉及使用“瓶刷嵌段共聚物”，该共聚物允许使用紫外线辐射改变化合物的形状和结构。 Beckman 的 Ying Diao 表示：“通过设计新的化学物质和印刷工艺，我们可以动态调节结构色，产生以前不可能实现的颜色渐变。”摘自《仅用一种墨水进行多色印刷》 
+福布斯 (02/20/24) 伊娃·阿姆森 查看全文]]></description>
+      <guid>https://www.forbes.com/sites/evaamsen/2024/02/20/multi-color-printing-with-just-one-ink-opens-the-door-to-new-materials/</guid>
+      <pubDate>Tue, 27 Feb 2024 04:56:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>天生一只手的男孩获得蜘蛛侠仿生手臂</title>
+      <link>https://www.bristolpost.co.uk/news/local-news/boy-born-one-hand-now-9116286</link>
+      <description><![CDATA[布里斯托尔邮报（英国）英国布里斯托尔的 Open Bionics 最近为两名儿童配备了带有蜘蛛侠封面的仿生手臂。其中一位来自北萨默塞特的九岁女孩卡登·泰勒（Kaden Taylor）出生时就没有左手，在看到超级英雄的设计之前，她从未想过要安装假肢。收到装有传感器的假臂后一小时内，卡登就可以吃午饭、打开袋子、用双手拿起水果。摘自《生来一只手的男孩得到蜘蛛侠仿生手臂》&lt; br/&gt;
+布里斯托尔邮报（英国）(02/22/24) Mike Taylor]]></description>
+      <guid>https://www.bristolpost.co.uk/news/local-news/boy-born-one-hand-now-9116286</guid>
+      <pubDate>Tue, 27 Feb 2024 04:56:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>机器人在水下山脉中发现了 100 多种物种</title>
+      <link>https://www.nbcrightnow.com/national/over-100-alien-looking-species-discovered-in-underwater-mountains/article_45cdb094-36bd-5d34-8deb-bc08008a29de.html</link>
+      <description><![CDATA[NBC 现在一个国际科学家小组使用遥控水下机器人，在智利海岸附近未经探索的海山中发现了 100 多种以前未知的物种。 SuBastian机器人能够下潜至4500米深处，用于收集10座海山的数据。这些数据将用于支持国际公海海洋保护区的指定。摘自《机器人在水下山脉发现 100 多种物种》
+NBC 现在 (02/22/24) 查看全文]]></description>
+      <guid>https://www.nbcrightnow.com/national/over-100-alien-looking-species-discovered-in-underwater-mountains/article_45cdb094-36bd-5d34-8deb-bc08008a29de.html</guid>
+      <pubDate>Tue, 27 Feb 2024 04:56:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>软件调整使计算机处理速度加倍，能源消耗减半</title>
+      <link>https://newatlas.com/computers/smht-parallel-processing/</link>
+      <description><![CDATA[新图集加州大学河滨分校的研究人员开发了一个框架，可以提高计算机处理速度，同时降低能耗。新框架称为同时异构多线程（SHMT），是一种并行处理类型，其中多个组件的计算功能被分解和共享。 SHMT 的运行时系统将虚拟操作分成一个或多个高级操作 (HLOP)，以同时利用多个硬件资源，将 HLOP 分配给目标硬件的任务队列，并根据需要调整任务分配。测试中发现，SHMT 比基准方法快 1.95 倍，能耗减少 51%。摘自“软件调整使计算机处理速度加倍，能耗减半”
+新地图集 (02/22/24) Paul McClure 查看全文]]></description>
+      <guid>https://newatlas.com/computers/smht-parallel-processing/</guid>
+      <pubDate>Tue, 27 Feb 2024 04:56:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国团队将数据中心存储容量缩减为 DVD 大小的磁盘</title>
+      <link>https://www.scmp.com/news/china/science/article/3252737/chinese-teams-memory-leap-shrinks-data-centre-storage-capacity-dvd-sized-disk</link>
+      <description><![CDATA[南华早报来自中国上海理工大学、北京大学和中国科学院的研究人员团队开发了一项技术，可以在设备中存储约 58 亿个索引网页台式电脑的大小。研究人员创建了3D架构，可以在磁盘上存储数百层数据，从而使光数据存储容量达到PB级。摘自“中国团队将数据中心存储容量缩小到DVD大小的磁盘” 
+南华早报 (02/22/24) Holly Chik 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.scmp.com/news/china/science/article/3252737/chinese-teams-memory-leap-shrinks-data-centre-storage-capacity-dvd-sized-disk</guid>
+      <pubDate>Tue, 27 Feb 2024 04:56:38 GMT</pubDate>
+    </item>
+    </channel>
+</rss>
