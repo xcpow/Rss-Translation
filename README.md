@@ -11,7 +11,7 @@
  📢查看[ 已翻译的订阅源列表 ](https://xcpow.github.io/Rss-Translation) 修改自[ rss-translate ](https://github.com/rcy1314/Rss-Translation)
 
 ## 已转换翻译源
- - source001 [https://rss.acm.org/technews/TechNews.xml](https://rss.acm.org/technews/TechNews.xml) -> [ACM TechNews](rss/ACM%20TechNews.xml)
+ - source001 [https://rss.acm.org/technews/TechNews.xml](https://rss.acm.org/technews/TechNews.xml) -> [ACM_TechNews](rss/ACM_TechNews.xml)
  - source002 [https://www.wired.com/feed/category/business/latest/rss](https://www.wired.com/feed/category/business/latest/rss) -> [ACM Business Latest](rss/ACM%20Business%20Latest.xml)
  - source003 [https://www.wired.com/feed/tag/ai/latest/rss](https://www.wired.com/feed/tag/ai/latest/rss) -> [ACM Feed: Artificial Intelligence Latest](rss/ACM%20Feed%3A%20Artificial%20Intelligence%20Latest.xml)
  - source004 [https://www.wired.com/feed/category/gear/latest/rss](https://www.wired.com/feed/category/gear/latest/rss) -> [ACM Gear Latest](rss/ACM%20Gear%20Latest.xml)
@@ -19,6 +19,6 @@
  - source006 [https://www.wired.com/feed/category/backchannel/latest/rss](https://www.wired.com/feed/category/backchannel/latest/rss) -> [ACM Backchannel Latest](rss/ACM%20Backchannel%20Latest.xml)
  - source008 [https://www.wired.com/feed/tag/wired-guide/latest/rss](https://www.wired.com/feed/tag/wired-guide/latest/rss) -> [ACM WIRED Guides Latest](rss/ACM%20WIRED%20Guides%20Latest.xml)
  - source009 [https://techcrunch.com/feed/](https://techcrunch.com/feed/) -> [TechCrunch](rss/TechCrunch.xml)
- - source010 [http://techcrunch.com/tag/fintech/feed/](http://techcrunch.com/tag/fintech/feed/) -> [TechCrunch Fintech](rss/TechCrunch%20Fintech.xml)
- - source011 [https://techcrunch.com/tag/artificial-intelligence/feed/](https://techcrunch.com/tag/artificial-intelligence/feed/) -> [TechCrunch artificial intelligence](rss/TechCrunch%20artificial%20intelligence.xml)
- - source012 [https://techcrunch.com/tag/machine-learning/](https://techcrunch.com/tag/machine-learning/) -> [TechCrunch machine learning](rss/TechCrunch%20machine%20learning.xml)
+ - source010 [http://techcrunch.com/tag/fintech/feed/](http://techcrunch.com/tag/fintech/feed/) -> [TechCrunch_Fintech](rss/TechCrunch_Fintech.xml)
+ - source011 [https://techcrunch.com/tag/artificial-intelligence/feed/](https://techcrunch.com/tag/artificial-intelligence/feed/) -> [TechCrunch_artificial_intelligence](rss/TechCrunch_artificial_intelligence.xml)
+ - source012 [https://techcrunch.com/tag/machine-learning/](https://techcrunch.com/tag/machine-learning/) -> [TechCrunch_machine_learning](rss/TechCrunch_machine_learning.xml)
