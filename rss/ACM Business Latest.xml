@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Wed, 28 Feb 2024 18:08:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 21:06:45 GMT</lastBuildDate>
+    <item>
+      <title>亚马逊刚刚被禁止进入欧盟议会</title>
+      <link>https://www.wired.com/story/amazon-european-parliament-ban/</link>
+      <description><![CDATA[在接受《连线》杂志采访时，该禁令背后的政客猛烈抨击亚马逊对其仓库的工作条件避而不谈。]]></description>
+      <guid>https://www.wired.com/story/amazon-european-parliament-ban/</guid>
+      <pubDate>Wed, 28 Feb 2024 18:20:25 GMT</pubDate>
+    </item>
     <item>
       <title>安息吧苹果汽车。这就是它死的原因</title>
       <link>https://www.wired.com/story/rip-apple-car-this-is-why-it-died/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[科技公司以溺爱员工而闻名，但在大规模裁员之后，该行业的文化已经发生了转变。工程师们表示，要想获得聘用，可能需要花费数天的无薪工作时间。]]></description>
       <guid>https://www.wired.com/story/tech-job-interviews-out-of-control/</guid>
       <pubDate>Thu, 22 Feb 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>英特尔的人工智能重启是美国芯片制造的未来</title>
-      <link>https://www.wired.com/story/intel-ai-reboot-future-us-chipmaking/</link>
-      <description><![CDATA[美国最大的芯片制造商希望生成式人工智能以及美国政府对中国科技雄心的担忧能够重振其业务。]]></description>
-      <guid>https://www.wired.com/story/intel-ai-reboot-future-us-chipmaking/</guid>
-      <pubDate>Wed, 21 Feb 2024 18:25:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
