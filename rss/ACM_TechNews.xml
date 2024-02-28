@@ -4,102 +4,114 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Tue, 27 Feb 2024 04:56:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 18:08:28 GMT</lastBuildDate>
     <item>
-      <title>科学家将法学硕士大脑放入机器人体内</title>
-      <link>https://www.scientificamerican.com/article/scientists-are-putting-chatgpt-brains-inside-robot-bodies-what-could-possibly-go-wrong/</link>
-      <description><![CDATA[《科学美国人》机器人研究人员正在使用大型语言模型 (LLM) 来规避预编程限制。南加州大学的计算机科学家开发了 ProgPrompt，其中涉及用 Python 编程语言提供法学硕士提示，其中包括示例问题和解决方案，以帮助限制机器人可以执行的任务范围的答案。 Google 研究人员制定了一项策略，其中包括向 PaLM LLM 提供机器人可以执行的行为列表，PaLM LLM 会使用列表中的行为以会话语言响应人类向机器人发出的请求。摘自《科学家将法学硕士大脑放入机器人体内》
-《科学美国人》 (02/21/24) David Berreby 查看全文]]></description>
-      <guid>https://www.scientificamerican.com/article/scientists-are-putting-chatgpt-brains-inside-robot-bodies-what-could-possibly-go-wrong/</guid>
-      <pubDate>Tue, 27 Feb 2024 04:56:43 GMT</pubDate>
+      <title>机器狗学会用一条腿开门</title>
+      <link>https://www.newscientist.com/article/2418439-a-robot-dog-has-learned-to-open-doors-with-its-leg/</link>
+      <description><![CDATA[新科学家瑞士苏黎世联邦理工学院的研究人员使用机器学习模型教会一只现成的机器狗用一条腿执行任务，同时用另外三条腿保持平衡。在被指示使用其一条腿找到空间中的某一点后，该模型自行学习了如何在站立或行走时用机器人的另一条腿保持平衡。最终，研究人员希望机器人能够在自主操作的同时用一条腿操纵物体。
+
+摘自《机器狗学会用一条腿开门》
+新科学家 (02/23/24) Alex Wilkins 查看完整文章 - 可能需要付费订阅]]></description>
+      <guid>https://www.newscientist.com/article/2418439-a-robot-dog-has-learned-to-open-doors-with-its-leg/</guid>
+      <pubDate>Wed, 28 Feb 2024 18:08:28 GMT</pubDate>
     </item>
     <item>
-      <title>海岸警卫队启动船只警报系统以确保鲸鱼的安全</title>
-      <link>https://apnews.com/article/orcas-humpbacks-ferries-seattle-ca034b8cb584f9aca7200a83a51cd0a2</link>
-      <description><![CDATA[美联社美国海岸警卫队推出的一项试点计划旨在防止华盛顿州萨利什海的船只与海洋哺乳动物发生碰撞，并减少船只发出的噪音，这些噪音会干扰虎鲸捕食。美国海岸警卫队的“鲸类服务台”将通过观鲸应用程序和水下监听设备的数据整合海员和平民的鲸鱼目击事件，并通过移动应用程序向商业船只和区域渡轮发送警报，以减慢和/或调整其路径。 br /&gt;摘自“海岸警卫队启动船只警报系统以确保鲸鱼安全”
-美联社 (02/21/24) Manuel Valdes 查看全文&lt; /a&gt;]]></description>
-      <guid>https://apnews.com/article/orcas-humpbacks-ferries-seattle-ca034b8cb584f9aca7200a83a51cd0a2</guid>
-      <pubDate>Tue, 27 Feb 2024 04:56:42 GMT</pubDate>
+      <title>国际空间站上的 VR 耳机对宇航员锻炼“确实产生了影响”</title>
+      <link>https://www.space.com/iss-vr-headset-astronaut-mental-health-exercise</link>
+      <description><![CDATA[Space.com国际空间站 (ISS) 上的宇航员可以借助 VR 耳机和新型健身车体验地球上的骑行路线。 HTC VIVE Focus 3 VR 耳机（配备可在零重力下运行的特殊传感器）与 Teal CEVIS 健身车相结合，是改善国际空间站宇航员心理健康的努力的一部分。欧洲航天局国际空间站 70 号远征队指挥官安德烈亚斯·摩根森 (Andreas Mogensen) 表示，这让他感觉就像在乡村骑自行车。摘自“国际空间站上的 VR 耳机对宇航员锻炼‘确实产生了影响’”
+Space.com (02/23/24) 伊丽莎白·豪厄尔 查看全文]]></description>
+      <guid>https://www.space.com/iss-vr-headset-astronaut-mental-health-exercise</guid>
+      <pubDate>Wed, 28 Feb 2024 18:08:27 GMT</pubDate>
     </item>
     <item>
-      <title>最长距离的无人机送货服务在挪威启动</title>
-      <link>https://www.euronews.com/next/2024/02/20/worlds-longest-distance-drone-delivery-service-makes-shopping-more-exclusive-in-norway</link>
-      <description><![CDATA[EuroNews挪威初创公司 Aviant 在滑雪度假小镇利勒哈默尔的郊区启动了世界上距离最远的无人机送货服务，当地人和游客可以通过其 Kyte 应用程序订购约 1.5 公斤的货物，并在 24 天内送货平均分钟数。无人机的送货半径为 17 公里（近 11 英里）；它们可以在高达每秒 12 米（超过 26 英里/小时）的风速和低于 -15 摄氏度（5 华氏度）的温度下运行。摘自“最长距离无人机送货服务在挪威”
-欧洲新闻 (02/20/24) 帕斯卡尔·戴维斯 查看全文]]></description>
-      <guid>https://www.euronews.com/next/2024/02/20/worlds-longest-distance-drone-delivery-service-makes-shopping-more-exclusive-in-norway</guid>
-      <pubDate>Tue, 27 Feb 2024 04:56:42 GMT</pubDate>
+      <title>ConnectWise 远程访问软件中的安全漏洞受到大规模攻击</title>
+      <link>https://techcrunch.com/2024/02/26/researchers-say-easy-to-exploit-security-bugs-in-connectwise-remote-access-software-now-under-mass-attack/</link>
+      <description><![CDATA[Tech Crunch网络安全公司 Mandiant 的研究人员发现 ConnectWise ScreenConnect 中的两个漏洞被“各种威胁行为者”“大规模利用”，该工具为技术支持提供远程在线访问客户系统的途径。 ”他们表示，身份验证绕过漏洞和路径遍历漏洞很容易被利用，这些漏洞可以远程植入恶意代码。 WithSecure 的研究人员发现，黑客正在利用这些缺陷来部署密码窃取程序、后门和勒索软件，其中包括 KrustyLoader 后门的 Windows 变体。摘自“大规模 ConnectWise 远程访问软件中的安全漏洞”攻击”
+Tech Crunch (02/26/24) 卡莉·佩奇 查看全文]]></description>
+      <guid>https://techcrunch.com/2024/02/26/researchers-say-easy-to-exploit-security-bugs-in-connectwise-remote-access-software-now-under-mass-attack/</guid>
+      <pubDate>Wed, 28 Feb 2024 18:08:27 GMT</pubDate>
     </item>
     <item>
-      <title>自适应智能手套触摸老师</title>
-      <link>https://interestingengineering.com/innovation/mit-unveils-adaptive-smart-glove-that-makes-touch-the-teacher</link>
-      <description><![CDATA[有趣的工程麻省理工学院计算机科学家开发的智能手套通过提供触觉反馈帮助用户学习新技能。为了促进通过触摸进行学习，研究人员将触觉传感器和触觉执行器嵌入到纺织品中。智能手套可以根据人的手部规格进行定制，只需最少的用户数据即可提供个性化反馈。摘自“自适应智能手套让老师感动”
-有趣的工程 (02/21/24) 埃米尔可以 查看全文]]></description>
-      <guid>https://interestingengineering.com/innovation/mit-unveils-adaptive-smart-glove-that-makes-touch-the-teacher</guid>
-      <pubDate>Tue, 27 Feb 2024 04:56:42 GMT</pubDate>
+      <title>加拿大大学自动售货机错误揭示了面部识别的使用</title>
+      <link>https://www.theguardian.com/world/2024/feb/23/vending-machine-facial-recognition-canada-univeristy-waterloo</link>
+      <description><![CDATA[英国卫报加拿大滑铁卢大学的自动售货机上显示的错误消息显示，该售货机一直在使用面部识别技术，但未通知用户。自动售货机本月早些时候显示以下错误消息：Invenda.Vending.FacialRecognition.App.exe。该大学表示，它要求 Invenda 禁用该软件，直到可以移除机器为止。摘自“加拿大大学自动售货机错误揭示了面部识别的使用”
+英国卫报 (02/23/24) Leyland Cecco]]></description>
+      <guid>https://www.theguardian.com/world/2024/feb/23/vending-machine-facial-recognition-canada-univeristy-waterloo</guid>
+      <pubDate>Wed, 28 Feb 2024 18:08:27 GMT</pubDate>
     </item>
     <item>
-      <title>iMessage 升级可抵御量子计算机解密</title>
-      <link>https://www.reuters.com/technology/cybersecurity/apple-rolls-out-imessage-upgrade-withstand-decryption-by-quantum-computers-2024-02-21/</link>
-      <description><![CDATA[路透社苹果 iMessage 短信平台的升级旨在防止未来量子计算机潜在的解密。苹果表示，从头开始重建的新 PQ3 加密协议“今年将在所有支持的对话中完全取代现有协议”。澳大利亚量子科技公司 Q-CTRL 的创始人兼首席执行官 Michael Biercuk 表示，苹果公开强化防御措施的事实是对先进计算机对现有保护构成威胁这一观点的“信任票”。&lt; br /&gt;摘自《iMessage升级可抵御量子计算机解密》
-路透社 (02/21/24) Christopher Bing；拉斐尔·萨特 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/cybersecurity/apple-rolls-out-imessage-upgrade-withstand-decryption-by-quantum-computers-2024-02-21/</guid>
-      <pubDate>Tue, 27 Feb 2024 04:56:41 GMT</pubDate>
+      <title>随着联合国网络规则生效，汽车制造商停止老化模型</title>
+      <link>https://www.wsj.com/articles/carmakers-park-aging-models-as-u-n-cyber-rule-comes-into-effect-546396da</link>
+      <description><![CDATA[华尔街日报 Pro 网络安全在 7 月份联合国网络安全法规全面实施之前，一些欧洲汽车制造商将停产旧款车型。该法规要求制造商记录如何防止特定类型的网络攻击，测试车辆的防御系统以确保其防范新漏洞，使用取证工具分析尝试和成功的网络攻击，并向当局提交年度报告。该规定适用于在欧盟、日本和韩国销售的车辆，包括美国品牌。摘自《联合国网络规则生效后汽车制造商停放老化模型》
+《华尔街日报》专业网络安全 (02/20/24) Catherine Stupp 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/articles/carmakers-park-aging-models-as-u-n-cyber-rule-comes-into-effect-546396da</guid>
+      <pubDate>Wed, 28 Feb 2024 18:08:26 GMT</pubDate>
     </item>
     <item>
-      <title>生成式人工智能位居薪酬最高技术技能榜首</title>
-      <link>https://www.fastcompany.com/91033776/generative-ai-is-the-highest-paying-skill-in-tech</link>
-      <description><![CDATA[Fast Company招聘网站 Indeed 列出了 1 月份薪资最高的 10 种技术技能，其中 Generative AI 位居榜首，平均薪资为 174,727 美元。排在前 10 名的生成式 AI 之后是 SoC、深度学习、Torch、PyTorch、计算机视觉、SystemVerilog、Mesos、Rust 和 Elixir。 Indeed 表示，最需要这些技能的职位包括数据科学家、机器学习工程师、软件工程师和研究科学家。摘自“生成式人工智能位居薪酬最高技术技能列表”
-《快公司》 (02/21/24) Emily Price 查看全文]]></description>
-      <guid>https://www.fastcompany.com/91033776/generative-ai-is-the-highest-paying-skill-in-tech</guid>
-      <pubDate>Tue, 27 Feb 2024 04:56:41 GMT</pubDate>
+      <title>设备克服了健身监测的局限性</title>
+      <link>https://indianexpress.com/article/cities/ahmedabad/research-scholar-at-iitgn-develops-device-to-overcome-fitness-monitoring-limitations-9180741/</link>
+      <description><![CDATA[印度快报印度理工学院甘地讷格尔的 Rishiraj Adhikary 开发了一种基于智能手机热像仪的系统，可监测用户的呼吸速率以估计卡路里燃烧量。 JoulesEye 系统配备超低分辨率热像仪，可监测鼻孔温度变化，并通过信号处理和人工智能技术提取呼吸和热量消耗数据。 JoulesEye 对 54 名参与者进行骑车或跑步测试，结果显示错误率仅为 5.8%，而商用智能手表的错误率超过 40%。摘自“设备克服健身监测限制”
+印度快报 (02/26/24) Ritu Sharma 查看全文]]></description>
+      <guid>https://indianexpress.com/article/cities/ahmedabad/research-scholar-at-iitgn-develops-device-to-overcome-fitness-monitoring-limitations-9180741/</guid>
+      <pubDate>Wed, 28 Feb 2024 18:08:26 GMT</pubDate>
     </item>
     <item>
-      <title>美国将投资数十亿美元更换港口高科技起重机</title>
-      <link>https://www.wsj.com/politics/national-security/u-s-to-invest-billions-to-replace-china-made-cranes-at-nations-ports-d451ef8f</link>
-      <description><![CDATA[《华尔街日报》美国提议斥资超过 200 亿美元来加强国内港口安全，包括增加配备先进软件的货物起重机的国内制造，以减轻对中国制造的起重机的依赖。尽管价格相对便宜，但中国振华重工制造的起重机配备了先进的传感器，可以记录和跟踪集装箱的来源和目的地，这导致人们担心它们可能被用来跟踪军事和其他货物。它们占美国港口使用的船岸起重机的近 80%。摘自《美国将投资数十亿美元更换港口高科技起重机》
-华尔街日报 (02/21/24) 达斯汀·沃尔兹 (Dustin Volz)；戈登·卢伯德；道格·卡梅伦 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/politics/national-security/u-s-to-invest-billions-to-replace-china-made-cranes-at-nations-ports-d451ef8f</guid>
-      <pubDate>Tue, 27 Feb 2024 04:56:40 GMT</pubDate>
+      <title>可穿戴式人脸传感器“抓住”了我们</title>
+      <link>https://newatlas.com/wearables/wearable-face-sensors/</link>
+      <description><![CDATA[New Atlas韩国蔚山国立科学技术研究院的研究人员开发的可穿戴技术系统最终可以帮助人形机器人更好地融入社会。可拉伸、可穿戴的面部系统通过皮肤摩擦和振动监测来评估人类情绪，并通过压电产生自己的能量。该设备具有灵活、可定制的传感器，可粘附在用户的面部并连接到能够评估面部应变模式和语音振动的集成系统。摘自“可穿戴面部传感器“获取”我们”&lt; br/&gt;
+新地图集 (02/24/24) Michael Franco 查看全文]]></description>
+      <guid>https://newatlas.com/wearables/wearable-face-sensors/</guid>
+      <pubDate>Wed, 28 Feb 2024 18:08:26 GMT</pubDate>
     </item>
     <item>
-      <title>仅用一种墨水进行多色打印</title>
-      <link>https://www.forbes.com/sites/evaamsen/2024/02/20/multi-color-printing-with-just-one-ink-opens-the-door-to-new-materials/</link>
-      <description><![CDATA[福布斯伊利诺伊大学厄巴纳-香槟分校贝克曼高级科学技术研究所的研究人员开发了一种使用单一墨水 3D 打印多种颜色的方法。该技术的灵感来自变色龙改变颜色的方式，涉及使用“瓶刷嵌段共聚物”，该共聚物允许使用紫外线辐射改变化合物的形状和结构。 Beckman 的 Ying Diao 表示：“通过设计新的化学物质和印刷工艺，我们可以动态调节结构色，产生以前不可能实现的颜色渐变。”摘自《仅用一种墨水进行多色印刷》 
-福布斯 (02/20/24) 伊娃·阿姆森 查看全文]]></description>
-      <guid>https://www.forbes.com/sites/evaamsen/2024/02/20/multi-color-printing-with-just-one-ink-opens-the-door-to-new-materials/</guid>
-      <pubDate>Tue, 27 Feb 2024 04:56:40 GMT</pubDate>
+      <title>无人机飞入受损的福岛反应堆研究熔化的燃料</title>
+      <link>https://apnews.com/article/japan-fukushima-nuclear-reactor-drone-radiation-water-af1640b8ae800066d5bfc728a211d34b</link>
+      <description><![CDATA[美联社上周，四架机队中的一架小型无人机飞入日本失事的福岛第一核电站的一个受损反应堆内，以检查早先发生事故的地区的熔融燃料碎片。机器人未能到达。这些反应堆在 2011 年 3 月的 9.0 级地震和海啸中受损。无人机两侧长约 18 厘米（7 英寸），厚 5 厘米（2 英寸），每架无人机都携带前置高清摄像机来传输实时视频视频和高质量图像。
+
+摘自《无人机飞入受损的福岛反应堆研究熔化燃料》
+美联社 (02/28/24) Mari Yamaguchi 查看全文]]></description>
+      <guid>https://apnews.com/article/japan-fukushima-nuclear-reactor-drone-radiation-water-af1640b8ae800066d5bfc728a211d34b</guid>
+      <pubDate>Wed, 28 Feb 2024 18:08:25 GMT</pubDate>
     </item>
     <item>
-      <title>天生一只手的男孩获得蜘蛛侠仿生手臂</title>
-      <link>https://www.bristolpost.co.uk/news/local-news/boy-born-one-hand-now-9116286</link>
-      <description><![CDATA[布里斯托尔邮报（英国）英国布里斯托尔的 Open Bionics 最近为两名儿童配备了带有蜘蛛侠封面的仿生手臂。其中一位来自北萨默塞特的九岁女孩卡登·泰勒（Kaden Taylor）出生时就没有左手，在看到超级英雄的设计之前，她从未想过要安装假肢。收到装有传感器的假臂后一小时内，卡登就可以吃午饭、打开袋子、用双手拿起水果。摘自《生来一只手的男孩得到蜘蛛侠仿生手臂》&lt; br/&gt;
-布里斯托尔邮报（英国）(02/22/24) Mike Taylor]]></description>
-      <guid>https://www.bristolpost.co.uk/news/local-news/boy-born-one-hand-now-9116286</guid>
-      <pubDate>Tue, 27 Feb 2024 04:56:39 GMT</pubDate>
+      <title>未来的计算机编码</title>
+      <link>https://spie.org/news/encoding-computers-of-the-future#_=_</link>
+      <description><![CDATA[SPIE新加坡国立大学和新加坡科学技术研究局的研究人员开发了一种系统，利用垂直腔表面发射激光器 (VCSEL) 解决 Ising 问题。该过程涉及以 VCSEL 的线性偏振状态对信息进行编码，每个状态都对应一个可能的解决方案。研究人员在 2 位、3 位和 4 位 Ising 问题上测试了系统，并确定了最小 VCSEL 激光各向异性的需求是开发基于全光学 VCSEL 的计算机架构必须克服的挑战。 摘自《编码未来的计算机》
+SPIE (02/23/24) 查看全文]]></description>
+      <guid>https://spie.org/news/encoding-computers-of-the-future#_=_</guid>
+      <pubDate>Wed, 28 Feb 2024 18:08:25 GMT</pubDate>
     </item>
     <item>
-      <title>机器人在水下山脉中发现了 100 多种物种</title>
-      <link>https://www.nbcrightnow.com/national/over-100-alien-looking-species-discovered-in-underwater-mountains/article_45cdb094-36bd-5d34-8deb-bc08008a29de.html</link>
-      <description><![CDATA[NBC 现在一个国际科学家小组使用遥控水下机器人，在智利海岸附近未经探索的海山中发现了 100 多种以前未知的物种。 SuBastian机器人能够下潜至4500米深处，用于收集10座海山的数据。这些数据将用于支持国际公海海洋保护区的指定。摘自《机器人在水下山脉发现 100 多种物种》
-NBC 现在 (02/22/24) 查看全文]]></description>
-      <guid>https://www.nbcrightnow.com/national/over-100-alien-looking-species-discovered-in-underwater-mountains/article_45cdb094-36bd-5d34-8deb-bc08008a29de.html</guid>
-      <pubDate>Tue, 27 Feb 2024 04:56:39 GMT</pubDate>
+      <title>利用 3D 打印快速制作义眼</title>
+      <link>https://www.livescience.com/health/anatomy/super-realistic-prosthetic-eyes-made-in-record-time-with-3d-printing</link>
+      <description><![CDATA[LiveScience德国弗劳恩霍夫计算机图形研究所的研究人员开发了一种 3D 打印方法，可以在 90 分钟内创造出看起来自然的假眼，而熟练的技术人员需要 8 个小时才能完成手工制作一件。新方法涉及捕获患者空眼窝和健康眼睛的专门图像，这些图像用于起草 3D 打印的蓝图。 摘自《3D打印快速制作义眼》
+生活科学 (02/27/24) 艾米丽·库克 查看全文]]></description>
+      <guid>https://www.livescience.com/health/anatomy/super-realistic-prosthetic-eyes-made-in-record-time-with-3d-printing</guid>
+      <pubDate>Wed, 28 Feb 2024 18:08:24 GMT</pubDate>
     </item>
     <item>
-      <title>软件调整使计算机处理速度加倍，能源消耗减半</title>
-      <link>https://newatlas.com/computers/smht-parallel-processing/</link>
-      <description><![CDATA[新图集加州大学河滨分校的研究人员开发了一个框架，可以提高计算机处理速度，同时降低能耗。新框架称为同时异构多线程（SHMT），是一种并行处理类型，其中多个组件的计算功能被分解和共享。 SHMT 的运行时系统将虚拟操作分成一个或多个高级操作 (HLOP)，以同时利用多个硬件资源，将 HLOP 分配给目标硬件的任务队列，并根据需要调整任务分配。测试中发现，SHMT 比基准方法快 1.95 倍，能耗减少 51%。摘自“软件调整使计算机处理速度加倍，能耗减半”
-新地图集 (02/22/24) Paul McClure 查看全文]]></description>
-      <guid>https://newatlas.com/computers/smht-parallel-processing/</guid>
-      <pubDate>Tue, 27 Feb 2024 04:56:39 GMT</pubDate>
+      <title>白宫敦促开发者停止使用 C、C++</title>
+      <link>https://www.infoworld.com/article/3713203/white-house-urges-developers-to-dump-c-and-c.html</link>
+      <description><![CDATA[InfoWorld在周一发布的一份报告中，白宫国家网络主任办公室呼吁开发人员通过使用不存在内存安全漏洞的编程语言来降低网络攻击的风险。该报告引用了 C 和 C++ 作为存在此类漏洞的编程语言的例子，并将 Rust 列为它认为安全的编程语言。微软和谷歌研究发现，大约70%的安全漏洞是由内存安全问题引起的。摘自《白宫敦促开发者停止使用C、C++》
+InfoWorld (02/27/24) 格兰特·格罗斯 查看全文]]></description>
+      <guid>https://www.infoworld.com/article/3713203/white-house-urges-developers-to-dump-c-and-c.html</guid>
+      <pubDate>Wed, 28 Feb 2024 18:08:24 GMT</pubDate>
     </item>
     <item>
-      <title>中国团队将数据中心存储容量缩减为 DVD 大小的磁盘</title>
-      <link>https://www.scmp.com/news/china/science/article/3252737/chinese-teams-memory-leap-shrinks-data-centre-storage-capacity-dvd-sized-disk</link>
-      <description><![CDATA[南华早报来自中国上海理工大学、北京大学和中国科学院的研究人员团队开发了一项技术，可以在设备中存储约 58 亿个索引网页台式电脑的大小。研究人员创建了3D架构，可以在磁盘上存储数百层数据，从而使光数据存储容量达到PB级。摘自“中国团队将数据中心存储容量缩小到DVD大小的磁盘” 
-南华早报 (02/22/24) Holly Chik 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.scmp.com/news/china/science/article/3252737/chinese-teams-memory-leap-shrinks-data-centre-storage-capacity-dvd-sized-disk</guid>
-      <pubDate>Tue, 27 Feb 2024 04:56:38 GMT</pubDate>
+      <title>高通芯片将 AI 引入 Wi-Fi</title>
+      <link>https://spectrum.ieee.org/wifi-7-qualcomm</link>
+      <description><![CDATA[IEEE 频谱高通公司周一在西班牙举行的世界移动通信大会上展示了其FastConnect 7900芯片。该公司表示，FastConnect 7900 将启用人工智能增强型 Wi-Fi 7；促进 Wi-Fi、蓝牙和超宽带在消费类应用中的集成；并支持在同一频段内对同一设备进行两个 Wi-Fi 连接。该芯片可以识别设备正在使用哪些应用程序，然后相应地优化功耗和延迟，为设备节省高达 30% 的功耗。摘自《高通芯片将 AI 带入 Wi-Fi》 
+IEEE Spectrum (02/27/24) Michael Koziol 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/wifi-7-qualcomm</guid>
+      <pubDate>Wed, 28 Feb 2024 18:08:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>NIST 发布里程碑式网络安全框架 2.0 版</title>
+      <link>https://www.nist.gov/news-events/news/2024/02/nist-releases-version-20-landmark-cybersecurity-framework</link>
+      <description><![CDATA[NIST美国国家标准与技术研究所的网络安全框架 (CSF) 2.0 版面向所有受众、行业部门和组织类型，无论其网络安全知识水平如何。 CSF 2.0 的范围从保护关键基础设施扩展到保护各个部门的组织，并包括强调将网络安全视为主要企业风险的重要性的治理组件。新的 CSF 2.0 参考工具可让用户浏览、搜索和导出核心 CSF 指南中的数据。摘自“NIST 发布了 Landmark 网络安全框架 2.0 版”
+NIST (02/26/24) 查看全文]]></description>
+      <guid>https://www.nist.gov/news-events/news/2024/02/nist-releases-version-20-landmark-cybersecurity-framework</guid>
+      <pubDate>Wed, 28 Feb 2024 18:08:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
