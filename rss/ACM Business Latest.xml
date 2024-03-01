@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Thu, 29 Feb 2024 21:07:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 00:34:49 GMT</lastBuildDate>
+    <item>
+      <title>谷歌与 Stack Overflow 的交易是人工智能巨头愿意为数据付费的最新证明</title>
+      <link>https://www.wired.com/story/google-deal-stackoverflow-ai-giants-pay-for-data/</link>
+      <description><![CDATA[Stack Overflow 的编程社区将为 Google Gemini 聊天机器人的一个版本提供支持。这是新型人工智能数据许可协议的一部分，该协议与寻求从生成式人工智能热潮中分得一杯羹的网站合作。]]></description>
+      <guid>https://www.wired.com/story/google-deal-stackoverflow-ai-giants-pay-for-data/</guid>
+      <pubDate>Thu, 29 Feb 2024 22:07:43 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能文化之战才刚刚开始</title>
       <link>https://www.wired.com/story/fast-forward-ai-culture-wars-just-getting-started/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[Reddit 的两位联合创始人中只有一位在一份新文件中被提及，这使得该公司距离上市还有几周时间。奥哈尼安和现任首席执行官史蒂夫·霍夫曼 (Steve Huffman) 在 2020 年发生了争执。]]></description>
       <guid>https://www.wired.com/story/reddit-ipo-filing-s-1-cofounder-alexis-ohanian-huffman/</guid>
       <pubDate>Fri, 23 Feb 2024 00:54:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>英特尔首席执行官表示人工智能是公司东山再起的关键</title>
-      <link>https://www.wired.com/story/intel-ceo-pat-gelsinger-ai-comeback/</link>
-      <description><![CDATA[Pat Gelsinger 表示，英特尔对尖端制造技术的重新投资将使其成为人工智能芯片的领先供应商。微软已经加入其中。]]></description>
-      <guid>https://www.wired.com/story/intel-ceo-pat-gelsinger-ai-comeback/</guid>
-      <pubDate>Thu, 22 Feb 2024 21:55:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
