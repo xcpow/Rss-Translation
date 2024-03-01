@@ -4,7 +4,21 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Fri, 01 Mar 2024 12:11:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 15:07:13 GMT</lastBuildDate>
+    <item>
+      <title>即时答复的聊天机器人令人惊叹的体验</title>
+      <link>https://www.wired.com/story/plaintext-groq-mindblowing-chatbot-answers-instantly/</link>
+      <description><![CDATA[初创公司 Groq 的人工智能芯片使聊天机器人几乎可以立即回答查询。这可能会为生成人工智能助手开辟全新的用例。]]></description>
+      <guid>https://www.wired.com/story/plaintext-groq-mindblowing-chatbot-answers-instantly/</guid>
+      <pubDate>Fri, 01 Mar 2024 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>埃隆·马斯克 (Elon Musk) 起诉 OpenAI 和 Sam Altman“公然违反”合同</title>
+      <link>https://www.wired.com/story/elon-musk-sues-sam-altman-openai/</link>
+      <description><![CDATA[在诉讼中，马斯克声称 OpenAI 已经放弃了开发人工智能造福人类的使命。]]></description>
+      <guid>https://www.wired.com/story/elon-musk-sues-sam-altman-openai/</guid>
+      <pubDate>Fri, 01 Mar 2024 13:54:14 GMT</pubDate>
+    </item>
     <item>
       <title>埃隆·马斯克 (Elon Musk) 对一个发现 X 上存在仇恨言论的组织提起的诉讼进展不顺利</title>
       <link>https://www.wired.com/story/elon-musk-lawsuit-hate-speech-x/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[克雷格·赖特（Craig Wright）多年来一直声称自己是比特币的创造者中本聪（Satoshi Nakamoto）。本周，中本聪的早期合作者在英国高等法院出庭作证。]]></description>
       <guid>https://www.wired.com/story/craig-wright-trial-bitcoin-royalty-testimony/</guid>
       <pubDate>Fri, 23 Feb 2024 16:33:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>我修复崩溃的 Roku 应用程序的任务提供了有关人工智能的警告</title>
-      <link>https://www.wired.com/story/plaintext-my-quest-to-fix-a-crashing-app/</link>
-      <description><![CDATA[消费技术已经训练用户预见和处理崩溃和其他错误。当整个世界都在人工智能上运行时，不可避免的故障将产生更大的后果。]]></description>
-      <guid>https://www.wired.com/story/plaintext-my-quest-to-fix-a-crashing-app/</guid>
-      <pubDate>Fri, 23 Feb 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nvidia 首席执行官黄仁勋正在推动人工智能革命</title>
-      <link>https://www.wired.com/story/nvidia-hardware-is-eating-the-world-jensen-huang/</link>
-      <description><![CDATA[科技公司对这家科技公司的了解不够。收入破纪录。 《连线》探究了其首席执行官黄仁勋的想法。]]></description>
-      <guid>https://www.wired.com/story/nvidia-hardware-is-eating-the-world-jensen-huang/</guid>
-      <pubDate>Fri, 23 Feb 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
