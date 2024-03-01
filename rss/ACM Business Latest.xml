@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Fri, 01 Mar 2024 09:08:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 12:11:55 GMT</lastBuildDate>
+    <item>
+      <title>埃隆·马斯克 (Elon Musk) 对一个发现 X 上存在仇恨言论的组织提起的诉讼进展不顺利</title>
+      <link>https://www.wired.com/story/elon-musk-lawsuit-hate-speech-x/</link>
+      <description><![CDATA[X 声称，打击数字仇恨中心因展示仇恨言论在平台上传播而花费了数百万美元。在周四的听证会上，一名联邦法官对这些说法表示怀疑。]]></description>
+      <guid>https://www.wired.com/story/elon-musk-lawsuit-hate-speech-x/</guid>
+      <pubDate>Fri, 01 Mar 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>AI蠕虫来了</title>
       <link>https://www.wired.com/story/here-come-the-ai-worms/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>亚马逊刚刚被禁止进入欧盟议会</title>
       <link>https://www.wired.com/story/amazon-european-parliament-ban/</link>
-      <description><![CDATA[在接受《连线》采访时，该禁令背后的政客猛烈抨击亚马逊对其仓库的工作条件避而不谈。]]></description>
+      <description><![CDATA[在接受《连线》杂志采访时，该禁令背后的政客猛烈抨击亚马逊对其仓库的工作条件避而不谈。]]></description>
       <guid>https://www.wired.com/story/amazon-european-parliament-ban/</guid>
       <pubDate>Wed, 28 Feb 2024 18:20:25 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[科技公司对这家科技公司的了解不够。收入破纪录。 《连线》探究了其首席执行官黄仁勋的想法。]]></description>
       <guid>https://www.wired.com/story/nvidia-hardware-is-eating-the-world-jensen-huang/</guid>
       <pubDate>Fri, 23 Feb 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌调整了搜索以遵守欧盟规则。 Yelp 称这使得结果更加不公平</title>
-      <link>https://www.wired.com/story/google-search-eu-yelp-unfair/</link>
-      <description><![CDATA[谷歌表示，其新设计符合《数字市场法案》，该法案禁止平台偏爱自己的工具。 Yelp 表示，测试表明，一项调整可以让人们更有可能坚持使用谷歌。]]></description>
-      <guid>https://www.wired.com/story/google-search-eu-yelp-unfair/</guid>
-      <pubDate>Fri, 23 Feb 2024 07:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
