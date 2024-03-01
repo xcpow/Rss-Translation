@@ -4,114 +4,94 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Wed, 28 Feb 2024 18:08:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 18:08:05 GMT</lastBuildDate>
     <item>
-      <title>机器狗学会用一条腿开门</title>
-      <link>https://www.newscientist.com/article/2418439-a-robot-dog-has-learned-to-open-doors-with-its-leg/</link>
-      <description><![CDATA[新科学家瑞士苏黎世联邦理工学院的研究人员使用机器学习模型教会一只现成的机器狗用一条腿执行任务，同时用另外三条腿保持平衡。在被指示使用其一条腿找到空间中的某一点后，该模型自行学习了如何在站立或行走时用机器人的另一条腿保持平衡。最终，研究人员希望机器人能够在自主操作的同时用一条腿操纵物体。
-
-摘自《机器狗学会用一条腿开门》
-新科学家 (02/23/24) Alex Wilkins 查看完整文章 - 可能需要付费订阅]]></description>
-      <guid>https://www.newscientist.com/article/2418439-a-robot-dog-has-learned-to-open-doors-with-its-leg/</guid>
-      <pubDate>Wed, 28 Feb 2024 18:08:28 GMT</pubDate>
+      <title>司法部任命普林斯顿大学计算机科学家担任首席人工智能官</title>
+      <link>https://fedscoop.com/doj-chief-ai-officer-jonathan-mayer/</link>
+      <description><![CDATA[FedScoop普林斯顿大学计算机科学教授 Jonathan Mayer 被任命为美国司法部 (DOJ) 首任首席人工智能官和首席科学技术顾问。梅耶尔拥有博士学位。拥有计算机科学和法学学位，将负责 DOJ 的新兴技术委员会，并负责与 AI 相关的跨机构和部门内工作。摘自“DOJ 选择普林斯顿计算机科学家作为首席 AI军官”
+FedScoop (02/22/24) Matt Bracken 查看全文&lt; /a&gt;]]></description>
+      <guid>https://fedscoop.com/doj-chief-ai-officer-jonathan-mayer/</guid>
+      <pubDate>Fri, 01 Mar 2024 18:08:04 GMT</pubDate>
     </item>
     <item>
-      <title>国际空间站上的 VR 耳机对宇航员锻炼“确实产生了影响”</title>
-      <link>https://www.space.com/iss-vr-headset-astronaut-mental-health-exercise</link>
-      <description><![CDATA[Space.com国际空间站 (ISS) 上的宇航员可以借助 VR 耳机和新型健身车体验地球上的骑行路线。 HTC VIVE Focus 3 VR 耳机（配备可在零重力下运行的特殊传感器）与 Teal CEVIS 健身车相结合，是改善国际空间站宇航员心理健康的努力的一部分。欧洲航天局国际空间站 70 号远征队指挥官安德烈亚斯·摩根森 (Andreas Mogensen) 表示，这让他感觉就像在乡村骑自行车。摘自“国际空间站上的 VR 耳机对宇航员锻炼‘确实产生了影响’”
-Space.com (02/23/24) 伊丽莎白·豪厄尔 查看全文]]></description>
-      <guid>https://www.space.com/iss-vr-headset-astronaut-mental-health-exercise</guid>
-      <pubDate>Wed, 28 Feb 2024 18:08:27 GMT</pubDate>
+      <title>3D 打印机被黑客攻击“激光打印”聚合物</title>
+      <link>https://interestingengineering.com/innovation/3d-printing-like-laser-printing</link>
+      <description><![CDATA[有趣的工程瑞典 KTH 皇家理工学院和斯德哥尔摩大学的研究人员证明，通过将 3D 打印机修改为像激光打印机一样工作，可以在没有溶剂、化学品或洁净室环境的情况下打印聚合物。这最终可能会带来更简单、更实惠的医疗植入物、可穿戴电子产品、生物传感器和类似设备的生产工艺，并允许使用更可持续的材料。研究人员利用他们的技术创建了互补逆变器和酶促葡萄糖监测仪。从“3D 打印机黑客攻击‘激光打印’聚合物”
+有趣的工程 (02/27/24) Ameya Paleja 查看全文&lt; /a&gt;]]></description>
+      <guid>https://interestingengineering.com/innovation/3d-printing-like-laser-printing</guid>
+      <pubDate>Fri, 01 Mar 2024 18:08:04 GMT</pubDate>
     </item>
     <item>
-      <title>ConnectWise 远程访问软件中的安全漏洞受到大规模攻击</title>
-      <link>https://techcrunch.com/2024/02/26/researchers-say-easy-to-exploit-security-bugs-in-connectwise-remote-access-software-now-under-mass-attack/</link>
-      <description><![CDATA[Tech Crunch网络安全公司 Mandiant 的研究人员发现 ConnectWise ScreenConnect 中的两个漏洞被“各种威胁行为者”“大规模利用”，该工具为技术支持提供远程在线访问客户系统的途径。 ”他们表示，身份验证绕过漏洞和路径遍历漏洞很容易被利用，这些漏洞可以远程植入恶意代码。 WithSecure 的研究人员发现，黑客正在利用这些缺陷来部署密码窃取程序、后门和勒索软件，其中包括 KrustyLoader 后门的 Windows 变体。摘自“大规模 ConnectWise 远程访问软件中的安全漏洞”攻击”
-Tech Crunch (02/26/24) 卡莉·佩奇 查看全文]]></description>
-      <guid>https://techcrunch.com/2024/02/26/researchers-say-easy-to-exploit-security-bugs-in-connectwise-remote-access-software-now-under-mass-attack/</guid>
-      <pubDate>Wed, 28 Feb 2024 18:08:27 GMT</pubDate>
+      <title>追踪动物运动可能有助于拯救地球</title>
+      <link>https://www.technologyreview.com/2024/02/22/1088116/internet-of-animals-movement-research-earth/</link>
+      <description><![CDATA[麻省理工学院技术评论技术进步使研究人员越来越有可能跟踪动物运动，更好地了解动物行为并改进天气模型。由于物联网、更小的锂电池、配备低成本 GPS 和加速计的智能手机以及更好的数据系统，追踪能力得到了改善。德国马克斯·普朗克动物行为研究所的 Martin Wikelski 领导的研究人员开发了价格实惠、轻便的 GPS 传感器，动物可以佩戴这些传感器来跟踪其位置和生命体征，目标是结合地面和卫星数据来生成实时的全球动物监测地图。摘自“追踪动物运动可能有助于拯救地球”
+麻省理工学院技术评论 (02/22/24) 马修·庞斯福德 查看全文]]></description>
+      <guid>https://www.technologyreview.com/2024/02/22/1088116/internet-of-animals-movement-research-earth/</guid>
+      <pubDate>Fri, 01 Mar 2024 18:08:04 GMT</pubDate>
     </item>
     <item>
-      <title>加拿大大学自动售货机错误揭示了面部识别的使用</title>
-      <link>https://www.theguardian.com/world/2024/feb/23/vending-machine-facial-recognition-canada-univeristy-waterloo</link>
-      <description><![CDATA[英国卫报加拿大滑铁卢大学的自动售货机上显示的错误消息显示，该售货机一直在使用面部识别技术，但未通知用户。自动售货机本月早些时候显示以下错误消息：Invenda.Vending.FacialRecognition.App.exe。该大学表示，它要求 Invenda 禁用该软件，直到可以移除机器为止。摘自“加拿大大学自动售货机错误揭示了面部识别的使用”
-英国卫报 (02/23/24) Leyland Cecco]]></description>
-      <guid>https://www.theguardian.com/world/2024/feb/23/vending-machine-facial-recognition-canada-univeristy-waterloo</guid>
-      <pubDate>Wed, 28 Feb 2024 18:08:27 GMT</pubDate>
+      <title>法官停止政府监控加密货币挖矿能源使用的努力</title>
+      <link>https://www.theguardian.com/technology/2024/feb/27/crypto-mining-electricity-use</link>
+      <description><![CDATA[《卫报》德克萨斯州的一名联邦法官暂时阻止了美国能源部的一项命令，要求加密货币矿工在电力需求激增的情况下提供有关其能源使用的信息。法官表示，加密货币挖矿行业表明，遵守该命令将对其造成“无法弥补的伤害”。摘自“美国法官停止政府监控加密货币挖矿能源使用的努力”
+卫报 (02/27/24) Oliver Milman 查看全文]]></description>
+      <guid>https://www.theguardian.com/technology/2024/feb/27/crypto-mining-electricity-use</guid>
+      <pubDate>Fri, 01 Mar 2024 18:08:03 GMT</pubDate>
     </item>
     <item>
-      <title>随着联合国网络规则生效，汽车制造商停止老化模型</title>
-      <link>https://www.wsj.com/articles/carmakers-park-aging-models-as-u-n-cyber-rule-comes-into-effect-546396da</link>
-      <description><![CDATA[华尔街日报 Pro 网络安全在 7 月份联合国网络安全法规全面实施之前，一些欧洲汽车制造商将停产旧款车型。该法规要求制造商记录如何防止特定类型的网络攻击，测试车辆的防御系统以确保其防范新漏洞，使用取证工具分析尝试和成功的网络攻击，并向当局提交年度报告。该规定适用于在欧盟、日本和韩国销售的车辆，包括美国品牌。摘自《联合国网络规则生效后汽车制造商停放老化模型》
-《华尔街日报》专业网络安全 (02/20/24) Catherine Stupp 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/articles/carmakers-park-aging-models-as-u-n-cyber-rule-comes-into-effect-546396da</guid>
-      <pubDate>Wed, 28 Feb 2024 18:08:26 GMT</pubDate>
+      <title>Meta 将开始收集有关 Quest 耳机使用情况的“匿名”数据</title>
+      <link>https://arstechnica.com/gaming/2024/02/meta-will-start-collecting-anonymized-data-about-quest-headset-usage/</link>
+      <description><![CDATA[Ars TechnicaMeta Quest VR 耳机的用户被告知，该公司将在下一个软件更新中开始收集和汇总匿名设备使用数据，“以便为每个人打造更好的体验和改进 Meta Quest 产品。 ”这包括与化身的嘴唇和面部运动相关的音频数据；手部、身体和眼睛跟踪数据；健身相关数据；有关用户物理环境的数据；音频命令或听写；以及用户的 VR 活动。用户是否能够选择退出新的数据收集政策仍不确定。摘自“Meta 将开始收集有关 Quest 耳机使用情况的‘匿名’数据”
+Ars Technica (02/27/24) 凯尔·奥兰 查看全文]]></description>
+      <guid>https://arstechnica.com/gaming/2024/02/meta-will-start-collecting-anonymized-data-about-quest-headset-usage/</guid>
+      <pubDate>Fri, 01 Mar 2024 18:08:03 GMT</pubDate>
     </item>
     <item>
-      <title>设备克服了健身监测的局限性</title>
-      <link>https://indianexpress.com/article/cities/ahmedabad/research-scholar-at-iitgn-develops-device-to-overcome-fitness-monitoring-limitations-9180741/</link>
-      <description><![CDATA[印度快报印度理工学院甘地讷格尔的 Rishiraj Adhikary 开发了一种基于智能手机热像仪的系统，可监测用户的呼吸速率以估计卡路里燃烧量。 JoulesEye 系统配备超低分辨率热像仪，可监测鼻孔温度变化，并通过信号处理和人工智能技术提取呼吸和热量消耗数据。 JoulesEye 对 54 名参与者进行骑车或跑步测试，结果显示错误率仅为 5.8%，而商用智能手表的错误率超过 40%。摘自“设备克服健身监测限制”
-印度快报 (02/26/24) Ritu Sharma 查看全文]]></description>
-      <guid>https://indianexpress.com/article/cities/ahmedabad/research-scholar-at-iitgn-develops-device-to-overcome-fitness-monitoring-limitations-9180741/</guid>
-      <pubDate>Wed, 28 Feb 2024 18:08:26 GMT</pubDate>
+      <title>外骨骼帮助残疾人行走、站立</title>
+      <link>https://newatlas.com/robotics/twin-exoskeleton-walking-standing/</link>
+      <description><![CDATA[新地图集由意大利理工学院 (Istituto Italiano di Tecnologia) 和意大利国家工作事故保险研究所 (Istituto Nazionale Assicurazione Infortuni sul Lavoro) 的研究人员开发的机器人外骨骼可以提供帮助下半身几乎没有运动能力的人可以站起来行走。 Twin 下半身外骨骼在膝关节和髋关节处设有电机，可移动用户的双腿，以帮助那些无法使用双腿的人行走，帮助那些具有一定下肢运动功能的人，或支持那些只能充分使用双腿的人摘自《外骨骼让残疾人行走、站立》
+新地图集 (02/23/24) Ben Coxworth 查看全文]]></description>
+      <guid>https://newatlas.com/robotics/twin-exoskeleton-walking-standing/</guid>
+      <pubDate>Fri, 01 Mar 2024 18:08:02 GMT</pubDate>
     </item>
     <item>
-      <title>可穿戴式人脸传感器“抓住”了我们</title>
-      <link>https://newatlas.com/wearables/wearable-face-sensors/</link>
-      <description><![CDATA[New Atlas韩国蔚山国立科学技术研究院的研究人员开发的可穿戴技术系统最终可以帮助人形机器人更好地融入社会。可拉伸、可穿戴的面部系统通过皮肤摩擦和振动监测来评估人类情绪，并通过压电产生自己的能量。该设备具有灵活、可定制的传感器，可粘附在用户的面部并连接到能够评估面部应变模式和语音振动的集成系统。摘自“可穿戴面部传感器“获取”我们”&lt; br/&gt;
-新地图集 (02/24/24) Michael Franco 查看全文]]></description>
-      <guid>https://newatlas.com/wearables/wearable-face-sensors/</guid>
-      <pubDate>Wed, 28 Feb 2024 18:08:26 GMT</pubDate>
+      <title>视频游戏奖励研究显示玩家是好心人</title>
+      <link>https://www.qut.edu.au/news?id=193029&amp;utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news</link>
+      <description><![CDATA[昆士兰科技大学（澳大利亚）澳大利亚昆士兰科技大学 (QUT) 的研究人员开发了一款视频游戏来评估游戏内奖励对游戏后亲社会行为的影响。在一项对近 200 名参与者进行的研究中，当游戏角色布鲁斯迫切需要帮助时，玩家的任务是决定是否使用硬币为他购买一瓶水。 55 名参与者在知道不会有奖励的情况下仍提供了帮助，59 名参与者对奖励感到惊讶，61 名参与者知道他们会获得奖励而提供帮助。摘自“视频游戏奖励研究揭示了玩家好撒玛利亚人”&lt; br/&gt;
+昆士兰科技大学（澳大利亚）（02/26/24） 查看全文]]></description>
+      <guid>https://www.qut.edu.au/news?id=193029&amp;utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news</guid>
+      <pubDate>Fri, 01 Mar 2024 18:08:02 GMT</pubDate>
     </item>
     <item>
-      <title>无人机飞入受损的福岛反应堆研究熔化的燃料</title>
-      <link>https://apnews.com/article/japan-fukushima-nuclear-reactor-drone-radiation-water-af1640b8ae800066d5bfc728a211d34b</link>
-      <description><![CDATA[美联社上周，四架机队中的一架小型无人机飞入日本失事的福岛第一核电站的一个受损反应堆内，以检查早先发生事故的地区的熔融燃料碎片。机器人未能到达。这些反应堆在 2011 年 3 月的 9.0 级地震和海啸中受损。无人机两侧长约 18 厘米（7 英寸），厚 5 厘米（2 英寸），每架无人机都携带前置高清摄像机来传输实时视频视频和高质量图像。
-
-摘自《无人机飞入受损的福岛反应堆研究熔化燃料》
-美联社 (02/28/24) Mari Yamaguchi 查看全文]]></description>
-      <guid>https://apnews.com/article/japan-fukushima-nuclear-reactor-drone-radiation-water-af1640b8ae800066d5bfc728a211d34b</guid>
-      <pubDate>Wed, 28 Feb 2024 18:08:25 GMT</pubDate>
+      <title>现实的计算机模型将帮助机器人收集月球尘埃</title>
+      <link>https://www.bristol.ac.uk/news/2024/february-/moon-dust.html</link>
+      <description><![CDATA[布里斯托大学新闻（英国）英国布里斯托大学研究人员开发的计算机模型可以通过模拟风化层（月球尘埃）来帮助训练宇航员在月球上操作机器人。研究人员扩展了德国航空航天中心的模型，以考虑额外的风化层，同时确保其足够轻以实时运行，然后对其进行修改以实现可扩展性。布里斯托尔的乔·卢卡 (Joe Louca) 表示，“把它想象成一款以月球为背景的现实视频游戏——我们希望确保虚拟版本的月球尘埃的行为与真实的一样。”来自“Realistic Computer”模型将帮助机器人收集月球尘埃”
+布里斯托大学新闻（英国）（02/22/24） 查看全文]]></description>
+      <guid>https://www.bristol.ac.uk/news/2024/february-/moon-dust.html</guid>
+      <pubDate>Fri, 01 Mar 2024 18:08:01 GMT</pubDate>
     </item>
     <item>
-      <title>未来的计算机编码</title>
-      <link>https://spie.org/news/encoding-computers-of-the-future#_=_</link>
-      <description><![CDATA[SPIE新加坡国立大学和新加坡科学技术研究局的研究人员开发了一种系统，利用垂直腔表面发射激光器 (VCSEL) 解决 Ising 问题。该过程涉及以 VCSEL 的线性偏振状态对信息进行编码，每个状态都对应一个可能的解决方案。研究人员在 2 位、3 位和 4 位 Ising 问题上测试了系统，并确定了最小 VCSEL 激光各向异性的需求是开发基于全光学 VCSEL 的计算机架构必须克服的挑战。 摘自《编码未来的计算机》
-SPIE (02/23/24) 查看全文]]></description>
-      <guid>https://spie.org/news/encoding-computers-of-the-future#_=_</guid>
-      <pubDate>Wed, 28 Feb 2024 18:08:25 GMT</pubDate>
+      <title>美国限制向中国和其他对手出售美国人的个人数据</title>
+      <link>https://www.wsj.com/politics/national-security/u-s-to-limit-sales-of-americans-personal-data-to-china-other-adversaries-e82a3ca5</link>
+      <description><![CDATA[华尔街日报乔·拜登总统发布的一项行政命令将禁止将美国居民的某些类别的敏感数据出售给中国、俄罗斯、朝鲜和其他敌对国家。这包括基因组、生物识别、个人健康、地理位置、财务信息以及某些个人标识符。此类数据通常由移动应用程序、智能手表、车辆传感器和其他数字设备收集，并可能被用于黑客攻击、间谍活动、勒索、恐吓或“开发人工智能功能和算法......从而损害美国国家安全”。安全。”摘自“美国限制向中国和其他对手出售美国人的个人数据”
+华尔街日报 (02/28/24) 达斯汀·沃尔兹；魏玲玲 查看完整文章 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/politics/national-security/u-s-to-limit-sales-of-americans-personal-data-to-china-other-adversaries-e82a3ca5</guid>
+      <pubDate>Fri, 01 Mar 2024 18:08:00 GMT</pubDate>
     </item>
     <item>
-      <title>利用 3D 打印快速制作义眼</title>
-      <link>https://www.livescience.com/health/anatomy/super-realistic-prosthetic-eyes-made-in-record-time-with-3d-printing</link>
-      <description><![CDATA[LiveScience德国弗劳恩霍夫计算机图形研究所的研究人员开发了一种 3D 打印方法，可以在 90 分钟内创造出看起来自然的假眼，而熟练的技术人员需要 8 个小时才能完成手工制作一件。新方法涉及捕获患者空眼窝和健康眼睛的专门图像，这些图像用于起草 3D 打印的蓝图。 摘自《3D打印快速制作义眼》
-生活科学 (02/27/24) 艾米丽·库克 查看全文]]></description>
-      <guid>https://www.livescience.com/health/anatomy/super-realistic-prosthetic-eyes-made-in-record-time-with-3d-printing</guid>
-      <pubDate>Wed, 28 Feb 2024 18:08:24 GMT</pubDate>
+      <title>YouTube 停止其算法提供极端视频</title>
+      <link>https://www.newscientist.com/article/2419033-youtube-has-managed-to-stop-its-algorithm-serving-up-extreme-videos/</link>
+      <description><![CDATA[New Scientist瑞士联邦理工学院的研究人员发现，个人选择对于 YouTube 的推荐算法是否会让用户接触极端政治内容起着重要作用。研究人员使用控制机器人来跟踪 YouTube 推荐算法对该平台上 125 个现实生活用户的影响，并使用反事实机器人来评估该算法在用户观看 60 个视频后的影响。他们发现反事实机器人接触激进内容的程度低于典型用户。摘自“YouTube 停止提供极端视频的算法”
+新科学家 (02/27/24) Chris Stokel-Walker 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.newscientist.com/article/2419033-youtube-has-managed-to-stop-its-algorithm-serving-up-extreme-videos/</guid>
+      <pubDate>Fri, 01 Mar 2024 18:08:00 GMT</pubDate>
     </item>
     <item>
-      <title>白宫敦促开发者停止使用 C、C++</title>
-      <link>https://www.infoworld.com/article/3713203/white-house-urges-developers-to-dump-c-and-c.html</link>
-      <description><![CDATA[InfoWorld在周一发布的一份报告中，白宫国家网络主任办公室呼吁开发人员通过使用不存在内存安全漏洞的编程语言来降低网络攻击的风险。该报告引用了 C 和 C++ 作为存在此类漏洞的编程语言的例子，并将 Rust 列为它认为安全的编程语言。微软和谷歌研究发现，大约70%的安全漏洞是由内存安全问题引起的。摘自《白宫敦促开发者停止使用C、C++》
-InfoWorld (02/27/24) 格兰特·格罗斯 查看全文]]></description>
-      <guid>https://www.infoworld.com/article/3713203/white-house-urges-developers-to-dump-c-and-c.html</guid>
-      <pubDate>Wed, 28 Feb 2024 18:08:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>高通芯片将 AI 引入 Wi-Fi</title>
-      <link>https://spectrum.ieee.org/wifi-7-qualcomm</link>
-      <description><![CDATA[IEEE 频谱高通公司周一在西班牙举行的世界移动通信大会上展示了其FastConnect 7900芯片。该公司表示，FastConnect 7900 将启用人工智能增强型 Wi-Fi 7；促进 Wi-Fi、蓝牙和超宽带在消费类应用中的集成；并支持在同一频段内对同一设备进行两个 Wi-Fi 连接。该芯片可以识别设备正在使用哪些应用程序，然后相应地优化功耗和延迟，为设备节省高达 30% 的功耗。摘自《高通芯片将 AI 带入 Wi-Fi》 
-IEEE Spectrum (02/27/24) Michael Koziol 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/wifi-7-qualcomm</guid>
-      <pubDate>Wed, 28 Feb 2024 18:08:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>NIST 发布里程碑式网络安全框架 2.0 版</title>
-      <link>https://www.nist.gov/news-events/news/2024/02/nist-releases-version-20-landmark-cybersecurity-framework</link>
-      <description><![CDATA[NIST美国国家标准与技术研究所的网络安全框架 (CSF) 2.0 版面向所有受众、行业部门和组织类型，无论其网络安全知识水平如何。 CSF 2.0 的范围从保护关键基础设施扩展到保护各个部门的组织，并包括强调将网络安全视为主要企业风险的重要性的治理组件。新的 CSF 2.0 参考工具可让用户浏览、搜索和导出核心 CSF 指南中的数据。摘自“NIST 发布了 Landmark 网络安全框架 2.0 版”
-NIST (02/26/24) 查看全文]]></description>
-      <guid>https://www.nist.gov/news-events/news/2024/02/nist-releases-version-20-landmark-cybersecurity-framework</guid>
-      <pubDate>Wed, 28 Feb 2024 18:08:23 GMT</pubDate>
+      <title>美国考虑监管联网车辆以防止施虐者追踪受害者</title>
+      <link>https://apnews.com/article/domestic-abuse-tracking-vehicles-prevention-ef3dbac114275e18aa71f3674b0aff1b</link>
+      <description><![CDATA[美联社美国联邦通信委员会 (FCC) 正在制定法规，以防止家庭暴力受害者通过使用联网车辆而被追踪。 FCC 主席杰西卡·罗森沃塞尔 (Jessica Rosenworcel) 致信九家美国汽车制造商，询问其联网汽车系统的详细信息，并询问他们为保护家庭暴力受害者免受骚扰和跟踪所做的努力。丰田和福特回应称，他们将根据要求取消家庭暴力受害者对车辆位置信息的访问，但其他制造商没有具体说明他们将如何（如果有的话）提供此类支持。来自“U.S.着眼于监管联网车辆以防止施虐者追踪受害者”
+美联社 (02/28/24) Tom Krisher 查看全文文章]]></description>
+      <guid>https://apnews.com/article/domestic-abuse-tracking-vehicles-prevention-ef3dbac114275e18aa71f3674b0aff1b</guid>
+      <pubDate>Fri, 01 Mar 2024 18:08:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
