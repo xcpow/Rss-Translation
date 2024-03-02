@@ -4,7 +4,21 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Fri, 01 Mar 2024 21:08:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Mar 2024 00:30:35 GMT</lastBuildDate>
+    <item>
+      <title>Waymo 将把自动驾驶出租车带到洛杉矶——迄今为止最大的挑战</title>
+      <link>https://www.wired.com/story/waymo-los-angeles-robotaxi-autonomous-car-approval/</link>
+      <description><![CDATA[周五下午，Waymo 获得了加州监管机构的批准，可以在美国第二大城市以及旧金山湾区的更多地区提供付费机器人出租车服务。]]></description>
+      <guid>https://www.wired.com/story/waymo-los-angeles-robotaxi-autonomous-car-approval/</guid>
+      <pubDate>Fri, 01 Mar 2024 23:00:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>埃隆·马斯克 OpenAI 诉讼的核心疯狂主张</title>
+      <link>https://www.wired.com/story/wild-claim-at-the-heart-of-elon-musks-openai-lawsuit/</link>
+      <description><![CDATA[埃隆·马斯克 (Elon Musk) 对 OpenAI 的诉讼取决于一项可疑的说法，即该公司已经开发出“通用人工智能”，并将其交给了微软。]]></description>
+      <guid>https://www.wired.com/story/wild-claim-at-the-heart-of-elon-musks-openai-lawsuit/</guid>
+      <pubDate>Fri, 01 Mar 2024 22:50:40 GMT</pubDate>
+    </item>
     <item>
       <title>即时答复的聊天机器人令人惊叹的体验</title>
       <link>https://www.wired.com/story/plaintext-groq-mindblowing-chatbot-answers-instantly/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>埃隆·马斯克 (Elon Musk) 起诉 OpenAI 和 Sam Altman“公然违反”合同</title>
       <link>https://www.wired.com/story/elon-musk-sues-sam-altman-openai/</link>
-      <description><![CDATA[在诉讼中，马斯克声称 OpenAI 已经放弃了为人类造福而开发人工智能的使命。]]></description>
+      <description><![CDATA[在诉讼中，马斯克声称 OpenAI 已经放弃了开发人工智能造福人类的使命。]]></description>
       <guid>https://www.wired.com/story/elon-musk-sues-sam-altman-openai/</guid>
       <pubDate>Fri, 01 Mar 2024 13:54:14 GMT</pubDate>
     </item>
@@ -64,7 +78,7 @@
     <item>
       <title>亚马逊刚刚被禁止进入欧盟议会</title>
       <link>https://www.wired.com/story/amazon-european-parliament-ban/</link>
-      <description><![CDATA[在接受《连线》采访时，该禁令背后的政客猛烈抨击亚马逊对其仓库的工作条件避而不谈。]]></description>
+      <description><![CDATA[在接受《连线》杂志采访时，该禁令背后的政客猛烈抨击亚马逊对其仓库的工作条件避而不谈。]]></description>
       <guid>https://www.wired.com/story/amazon-european-parliament-ban/</guid>
       <pubDate>Wed, 28 Feb 2024 18:20:25 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[帕夫·吉尔 (Pav Gill) 表示，他在向德国支付巨头 Wirecard 发出欺诈警报后遭到报复。他的初创公司 Confide 旨在保护未来的举报人免受伤害。]]></description>
       <guid>https://www.wired.com/story/pav-gill-wirecard-confide-shield-whistleblowers/</guid>
       <pubDate>Mon, 26 Feb 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reddit 正在让高级用户参与其 IPO。并非所有人都购买</title>
-      <link>https://www.wired.com/story/reddit-power-users-ipo/</link>
-      <description><![CDATA[Reddit 表示，它希望通过让用户购买该公司的公开上市股票来奖励他们。一些人说这太冒险了，另一些人则说他们不会向已经提供了数小时免费劳动力的公司付款。]]></description>
-      <guid>https://www.wired.com/story/reddit-power-users-ipo/</guid>
-      <pubDate>Fri, 23 Feb 2024 21:23:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>中本聪审判导致比特币版税下降</title>
-      <link>https://www.wired.com/story/craig-wright-trial-bitcoin-royalty-testimony/</link>
-      <description><![CDATA[克雷格·赖特（Craig Wright）多年来一直声称自己是比特币的创造者中本聪（Satoshi Nakamoto）。本周，中本聪的早期合作者在英国高等法院出庭作证。]]></description>
-      <guid>https://www.wired.com/story/craig-wright-trial-bitcoin-royalty-testimony/</guid>
-      <pubDate>Fri, 23 Feb 2024 16:33:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
