@@ -4,94 +4,102 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Fri, 01 Mar 2024 18:08:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2024 18:09:27 GMT</lastBuildDate>
     <item>
-      <title>司法部任命普林斯顿大学计算机科学家担任首席人工智能官</title>
-      <link>https://fedscoop.com/doj-chief-ai-officer-jonathan-mayer/</link>
-      <description><![CDATA[FedScoop普林斯顿大学计算机科学教授 Jonathan Mayer 被任命为美国司法部 (DOJ) 首任首席人工智能官和首席科学技术顾问。梅耶尔拥有博士学位。拥有计算机科学和法学学位，将负责 DOJ 的新兴技术委员会，并负责与 AI 相关的跨机构和部门内工作。摘自“DOJ 选择普林斯顿计算机科学家作为首席 AI军官”
-FedScoop (02/22/24) Matt Bracken 查看全文&lt; /a&gt;]]></description>
-      <guid>https://fedscoop.com/doj-chief-ai-officer-jonathan-mayer/</guid>
-      <pubDate>Fri, 01 Mar 2024 18:08:04 GMT</pubDate>
+      <title>看见就是沟通</title>
+      <link>https://www.nasa.gov/directorates/stmd/tech-transfer/spinoffs/nasa-tech-tuesday-seeing-is-communicating/</link>
+      <description><![CDATA[NASAEyegaze 眼球追踪系统是 NASA 喷气推进实验室与 Eyegaze Inc. 合作开发的，可帮助患有创伤性脑损伤、中风或疾病的个人进行交流。该系统于 1988 年首次开发，现在可以集成到可安装在标准计算机屏幕上的小型相机中。 Eyegaze摄像头可以作为配备Eyeworld的设备的外部鼠标和键盘，允许用户在社交媒体上发帖、发送电子邮件和短信、拨打电话以及操作Amazon Echo和Google Home设备。除此之外，Eyegaze 已与 Zoom 和 WhatsApp 集成，并允许用户控制电动移动设备。摘自“看见就是交流”
+NASA (02/20/24) 玛戈·皮尔斯 查看全文]]></description>
+      <guid>https://www.nasa.gov/directorates/stmd/tech-transfer/spinoffs/nasa-tech-tuesday-seeing-is-communicating/</guid>
+      <pubDate>Mon, 04 Mar 2024 18:09:27 GMT</pubDate>
     </item>
     <item>
-      <title>3D 打印机被黑客攻击“激光打印”聚合物</title>
-      <link>https://interestingengineering.com/innovation/3d-printing-like-laser-printing</link>
-      <description><![CDATA[有趣的工程瑞典 KTH 皇家理工学院和斯德哥尔摩大学的研究人员证明，通过将 3D 打印机修改为像激光打印机一样工作，可以在没有溶剂、化学品或洁净室环境的情况下打印聚合物。这最终可能会带来更简单、更实惠的医疗植入物、可穿戴电子产品、生物传感器和类似设备的生产工艺，并允许使用更可持续的材料。研究人员利用他们的技术创建了互补逆变器和酶促葡萄糖监测仪。从“3D 打印机黑客攻击‘激光打印’聚合物”
-有趣的工程 (02/27/24) Ameya Paleja 查看全文&lt; /a&gt;]]></description>
-      <guid>https://interestingengineering.com/innovation/3d-printing-like-laser-printing</guid>
-      <pubDate>Fri, 01 Mar 2024 18:08:04 GMT</pubDate>
+      <title>研究显示人工智能聊天机器人尚未为选举黄金时间做好准备</title>
+      <link>https://www.bloomberg.com/news/articles/2024-02-27/ai-chatbots-not-ready-for-election-prime-time-study-shows</link>
+      <description><![CDATA[彭博社人工智能民主项目的研究人员开发的软件门户评估了流行的大型语言模型是否可以处理与全球国家选举相关的主题问题。 Open AI 的 GPT-4、Alphabet 的 Gemini、Anthropic 的 Claude、Meta 的 Llama 2 和 Mistral AI 的 Mixtral 被问及与选举相关的问题。在 130 份回复中，略多于 50% 的回复被发现不准确，40% 的回复被认为有害。最不准确的模型是 Gemini、Llama 2 和 Mixtral，最准确的是 GPT-4。与此同时，双子座的回答最不完整，而克劳德的回答最有偏见。摘自“研究表明，人工智能聊天机器人尚未为选举黄金时间做好准备”
+彭博社 (02/27/24) Antonia Mufarech 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-02-27/ai-chatbots-not-ready-for-election-prime-time-study-shows</guid>
+      <pubDate>Mon, 04 Mar 2024 18:09:26 GMT</pubDate>
     </item>
     <item>
-      <title>追踪动物运动可能有助于拯救地球</title>
-      <link>https://www.technologyreview.com/2024/02/22/1088116/internet-of-animals-movement-research-earth/</link>
-      <description><![CDATA[麻省理工学院技术评论技术进步使研究人员越来越有可能跟踪动物运动，更好地了解动物行为并改进天气模型。由于物联网、更小的锂电池、配备低成本 GPS 和加速计的智能手机以及更好的数据系统，追踪能力得到了改善。德国马克斯·普朗克动物行为研究所的 Martin Wikelski 领导的研究人员开发了价格实惠、轻便的 GPS 传感器，动物可以佩戴这些传感器来跟踪其位置和生命体征，目标是结合地面和卫星数据来生成实时的全球动物监测地图。摘自“追踪动物运动可能有助于拯救地球”
-麻省理工学院技术评论 (02/22/24) 马修·庞斯福德 查看全文]]></description>
-      <guid>https://www.technologyreview.com/2024/02/22/1088116/internet-of-animals-movement-research-earth/</guid>
-      <pubDate>Fri, 01 Mar 2024 18:08:04 GMT</pubDate>
+      <title>针对重工业的网络威胁加剧</title>
+      <link>https://www.wsj.com/articles/cyber-threats-against-heavy-industry-intensify-c27a157a</link>
+      <description><![CDATA[WSJ Pro Cyber​​security网络安全公司 Dragos 报告称，去年针对工业企业的勒索软件攻击数量为 905 起，同比增长 50%。 Dragos 表示，针对“运营技术”（即制造工厂和自来水公司等使用的重型机械和工业控制系统）的勒索软件团体数量比 2022 年增加了 28%。制造业信息共享和分析中心的 Mark Orsi 指出， “绝大多数勒索软件变体仅针对组织的 IT 基础设施，但制造工厂车间的运营常常因 IT 系统受到损害而中断。”与此同时，人们对勒索软件之外的黑客使用的工具日益复杂感到担忧。摘自“针对重工业的网络威胁加剧”
+《华尔街日报》专业网络安全 (02/21/24) James Rundle；凯瑟琳·斯塔普 查看全文  - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/articles/cyber-threats-against-heavy-industry-intensify-c27a157a</guid>
+      <pubDate>Mon, 04 Mar 2024 18:09:26 GMT</pubDate>
     </item>
     <item>
-      <title>法官停止政府监控加密货币挖矿能源使用的努力</title>
-      <link>https://www.theguardian.com/technology/2024/feb/27/crypto-mining-electricity-use</link>
-      <description><![CDATA[《卫报》德克萨斯州的一名联邦法官暂时阻止了美国能源部的一项命令，要求加密货币矿工在电力需求激增的情况下提供有关其能源使用的信息。法官表示，加密货币挖矿行业表明，遵守该命令将对其造成“无法弥补的伤害”。摘自“美国法官停止政府监控加密货币挖矿能源使用的努力”
-卫报 (02/27/24) Oliver Milman 查看全文]]></description>
-      <guid>https://www.theguardian.com/technology/2024/feb/27/crypto-mining-electricity-use</guid>
-      <pubDate>Fri, 01 Mar 2024 18:08:03 GMT</pubDate>
+      <title>超灵敏触摸传感器“感知”4 英寸外的物体</title>
+      <link>https://newatlas.com/robotics/non-contact-sensor-detects-objects-4-inches-away/</link>
+      <description><![CDATA[New Atlas中国青岛大学研究人员开发的 3D 打印传感器可以识别 10 厘米（约 4 英寸）外的物体，而无需物理接触它们。该传感器由石墨氮化碳和聚二甲基硅氧烷制成，通过 3D 打印成网格，从而产生低介电常数的材料。研究人员创建了一个统一的系统，能够通过将传感器集成到印刷电路板上来远程跟踪人体运动。青岛的李新林表示：“该产品在灵敏度、响应速度以及多次使用的稳定性方面表现出色，这为可穿戴设备和电子皮肤领域开辟了新的可能性。”摘自“超灵敏触摸传感器‘感觉’4 英寸外的物体”
+新地图集 (02/27/24) Paul McClure 查看全文]]></description>
+      <guid>https://newatlas.com/robotics/non-contact-sensor-detects-objects-4-inches-away/</guid>
+      <pubDate>Mon, 04 Mar 2024 18:09:25 GMT</pubDate>
     </item>
     <item>
-      <title>Meta 将开始收集有关 Quest 耳机使用情况的“匿名”数据</title>
-      <link>https://arstechnica.com/gaming/2024/02/meta-will-start-collecting-anonymized-data-about-quest-headset-usage/</link>
-      <description><![CDATA[Ars TechnicaMeta Quest VR 耳机的用户被告知，该公司将在下一个软件更新中开始收集和汇总匿名设备使用数据，“以便为每个人打造更好的体验和改进 Meta Quest 产品。 ”这包括与化身的嘴唇和面部运动相关的音频数据；手部、身体和眼睛跟踪数据；健身相关数据；有关用户物理环境的数据；音频命令或听写；以及用户的 VR 活动。用户是否能够选择退出新的数据收集政策仍不确定。摘自“Meta 将开始收集有关 Quest 耳机使用情况的‘匿名’数据”
-Ars Technica (02/27/24) 凯尔·奥兰 查看全文]]></description>
-      <guid>https://arstechnica.com/gaming/2024/02/meta-will-start-collecting-anonymized-data-about-quest-headset-usage/</guid>
-      <pubDate>Fri, 01 Mar 2024 18:08:03 GMT</pubDate>
+      <title>3D 打印螺线管将使复杂电子产品变得更加经济实惠</title>
+      <link>https://interestingengineering.com/innovation/mit-pioneers-3d-printed-solenoids-for-electronics</link>
+      <description><![CDATA[有趣的工程麻省理工学院的研究人员开发了 3D 打印的 3D 电磁体，可以让电子元件变得更便宜。研究人员改进了商用挤出 3D 打印机，以生产颗粒而不是细丝，从而允许他们使用软磁尼龙。打印机还经过修改，可以处理多种材料，以便可以精确地分层排列必要的介电、导电和软磁组件。测试表明，3D 打印螺线管在性能方面超越了传统制造的螺线管。摘自“3D 打印螺线管将实现更经济实惠的复杂电子产品”
+有趣的工程 (02/23/24) 埃米尔可以 查看全文]]></description>
+      <guid>https://interestingengineering.com/innovation/mit-pioneers-3d-printed-solenoids-for-electronics</guid>
+      <pubDate>Mon, 04 Mar 2024 18:09:25 GMT</pubDate>
     </item>
     <item>
-      <title>外骨骼帮助残疾人行走、站立</title>
-      <link>https://newatlas.com/robotics/twin-exoskeleton-walking-standing/</link>
-      <description><![CDATA[新地图集由意大利理工学院 (Istituto Italiano di Tecnologia) 和意大利国家工作事故保险研究所 (Istituto Nazionale Assicurazione Infortuni sul Lavoro) 的研究人员开发的机器人外骨骼可以提供帮助下半身几乎没有运动能力的人可以站起来行走。 Twin 下半身外骨骼在膝关节和髋关节处设有电机，可移动用户的双腿，以帮助那些无法使用双腿的人行走，帮助那些具有一定下肢运动功能的人，或支持那些只能充分使用双腿的人摘自《外骨骼让残疾人行走、站立》
-新地图集 (02/23/24) Ben Coxworth 查看全文]]></description>
-      <guid>https://newatlas.com/robotics/twin-exoskeleton-walking-standing/</guid>
-      <pubDate>Fri, 01 Mar 2024 18:08:02 GMT</pubDate>
+      <title>机器人、快乐的工人：生产率的飙升有助于解释美国经济惊人的弹性</title>
+      <link>https://apnews.com/article/inflation-pay-economy-productivity-workers-technology-prices-c1e0163d51b430fcb18f0c80e32b2d81</link>
+      <description><![CDATA[美联社美国生产率的跃升归因于更多公司在劳动力短缺的情况下部署机器人以及更多工人对当前职位感到满意。例如，总部位于印第安纳州的 Batesville Tool &amp; Die 公司去年只能填补 70 个职位空缺中的 40 个职位，因此被迫投资能够模仿人类工人的机器人。对设备、研发和其他形式知识产权的投资增加导致了生产率的提高，经济学家认为这解释了经济如何在高利率时期保持强劲。与此同时，研究表明人工智能可以刺激生产力的持续提高。摘自《机器人，快乐的工人：生产力激增有助于解释美国经济惊人的弹性》
+美联社 (02/21/24) Paul Wiseman 查看全文]]></description>
+      <guid>https://apnews.com/article/inflation-pay-economy-productivity-workers-technology-prices-c1e0163d51b430fcb18f0c80e32b2d81</guid>
+      <pubDate>Mon, 04 Mar 2024 18:09:24 GMT</pubDate>
     </item>
     <item>
-      <title>视频游戏奖励研究显示玩家是好心人</title>
-      <link>https://www.qut.edu.au/news?id=193029&amp;utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news</link>
-      <description><![CDATA[昆士兰科技大学（澳大利亚）澳大利亚昆士兰科技大学 (QUT) 的研究人员开发了一款视频游戏来评估游戏内奖励对游戏后亲社会行为的影响。在一项对近 200 名参与者进行的研究中，当游戏角色布鲁斯迫切需要帮助时，玩家的任务是决定是否使用硬币为他购买一瓶水。 55 名参与者在知道不会有奖励的情况下仍提供了帮助，59 名参与者对奖励感到惊讶，61 名参与者知道他们会获得奖励而提供帮助。摘自“视频游戏奖励研究揭示了玩家好撒玛利亚人”&lt; br/&gt;
-昆士兰科技大学（澳大利亚）（02/26/24） 查看全文]]></description>
-      <guid>https://www.qut.edu.au/news?id=193029&amp;utm_source=miragenews&amp;utm_medium=miragenews&amp;utm_campaign=news</guid>
-      <pubDate>Fri, 01 Mar 2024 18:08:02 GMT</pubDate>
+      <title>ALS 患者的大脑植入物可将他的想法转化为计算机命令</title>
+      <link>https://www.cnn.com/2024/02/28/tech/brain-implant-als-patient-bci/index.html</link>
+      <description><![CDATA[CNN Business一名 ALS 患者接受了脑机接口 (BCI)，可将其大脑中的神经活动转化为计算机命令。这位名叫 Mark 的患者于 8 月份接受了 BCI，作为 Synchron 人体试验的一部分。该公司的 Stentrode 是一种带有电极传感器的支架，它根据马克脑电波的独特电信号开发出个性化的运动词典。马克已经可以使用脑机接口来玩类似乒乓球的乒乓球游戏，并向他的提供者发送健康通知或疼痛报告。最终，他希望学会发短信、控制 Alexa、打开 Netflix 等等。摘自“ALS 患者植入大脑，将他的想法转化为计算机命令”
+美国有线电视新闻网商业频道 (02/28/24) 凯瑟琳·索贝克；阿曼达西利；纳迪亚·库南 查看全文]]></description>
+      <guid>https://www.cnn.com/2024/02/28/tech/brain-implant-als-patient-bci/index.html</guid>
+      <pubDate>Mon, 04 Mar 2024 18:09:24 GMT</pubDate>
     </item>
     <item>
-      <title>现实的计算机模型将帮助机器人收集月球尘埃</title>
-      <link>https://www.bristol.ac.uk/news/2024/february-/moon-dust.html</link>
-      <description><![CDATA[布里斯托大学新闻（英国）英国布里斯托大学研究人员开发的计算机模型可以通过模拟风化层（月球尘埃）来帮助训练宇航员在月球上操作机器人。研究人员扩展了德国航空航天中心的模型，以考虑额外的风化层，同时确保其足够轻以实时运行，然后对其进行修改以实现可扩展性。布里斯托尔的乔·卢卡 (Joe Louca) 表示，“把它想象成一款以月球为背景的现实视频游戏——我们希望确保虚拟版本的月球尘埃的行为与真实的一样。”来自“Realistic Computer”模型将帮助机器人收集月球尘埃”
-布里斯托大学新闻（英国）（02/22/24） 查看全文]]></description>
-      <guid>https://www.bristol.ac.uk/news/2024/february-/moon-dust.html</guid>
-      <pubDate>Fri, 01 Mar 2024 18:08:01 GMT</pubDate>
+      <title>可穿戴贴纸将手部动作转化为交流</title>
+      <link>https://www.optica.org/about/newsroom/news_releases/2024/february/wearable_sticker_turns_hand_movements_into_communication/</link>
+      <description><![CDATA[Optica中国北京师范大学、中山大学和桂林电子科技大学的研究人员开发的可穿戴传感器贴纸可以让康复患者或残疾人通过微妙的手势进行交流。该贴纸由聚二甲基硅氧烷、柔软且有弹性的有机硅弹性体和光纤布拉格光栅光学传感器组成。在使用将简单手势转换为命令或消息的系统进行的测试中，发现传感器能够高精度地检测最小的动作。摘自“可穿戴贴纸将手部动作转化为交流”
+Optica (02/27/24) 查看全文&lt; /a&gt;]]></description>
+      <guid>https://www.optica.org/about/newsroom/news_releases/2024/february/wearable_sticker_turns_hand_movements_into_communication/</guid>
+      <pubDate>Mon, 04 Mar 2024 18:09:23 GMT</pubDate>
     </item>
     <item>
-      <title>美国限制向中国和其他对手出售美国人的个人数据</title>
-      <link>https://www.wsj.com/politics/national-security/u-s-to-limit-sales-of-americans-personal-data-to-china-other-adversaries-e82a3ca5</link>
-      <description><![CDATA[华尔街日报乔·拜登总统发布的一项行政命令将禁止将美国居民的某些类别的敏感数据出售给中国、俄罗斯、朝鲜和其他敌对国家。这包括基因组、生物识别、个人健康、地理位置、财务信息以及某些个人标识符。此类数据通常由移动应用程序、智能手表、车辆传感器和其他数字设备收集，并可能被用于黑客攻击、间谍活动、勒索、恐吓或“开发人工智能功能和算法......从而损害美国国家安全”。安全。”摘自“美国限制向中国和其他对手出售美国人的个人数据”
-华尔街日报 (02/28/24) 达斯汀·沃尔兹；魏玲玲 查看完整文章 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/politics/national-security/u-s-to-limit-sales-of-americans-personal-data-to-china-other-adversaries-e82a3ca5</guid>
-      <pubDate>Fri, 01 Mar 2024 18:08:00 GMT</pubDate>
+      <title>解决粮食不安全问题的玉米多年研究的超级计算模拟揭示了令人惊讶的分子结果</title>
+      <link>https://www.hpcwire.com/off-the-wire/supercomputing-simulations-in-multiyear-study-of-corn-to-address-food-insecurity-reveal-surprising-molecular-results/</link>
+      <description><![CDATA[HPCwire作为粮食不安全长期研究的一部分，加州大学圣地亚哥分校的计算机科学家 Edwin Solares 依靠加州大学圣地亚哥分校圣地亚哥超级计算机中心 (SDSC) 的超级计算资源）和加州大学欧文分校。 Solares 进行了数百万次模拟来分析玉米的基因组特征，并发现基因中存在一种小核糖核酸 (RNA)。 Solares 说：“它是被纳入基因中，还是被纳入重复序列和古老的病毒感染中？我们不太确定，但我们接下来将使用 SDSC 的 Expanse 来更好地理解这种现象。”&lt; br /&gt;摘自“玉米多年研究超级计算模拟解决粮食不安全问题揭示了令人惊讶的分子结果”
+HPCwire (02/29/24) 查看全文]]></description>
+      <guid>https://www.hpcwire.com/off-the-wire/supercomputing-simulations-in-multiyear-study-of-corn-to-address-food-insecurity-reveal-surprising-molecular-results/</guid>
+      <pubDate>Mon, 04 Mar 2024 18:09:23 GMT</pubDate>
     </item>
     <item>
-      <title>YouTube 停止其算法提供极端视频</title>
-      <link>https://www.newscientist.com/article/2419033-youtube-has-managed-to-stop-its-algorithm-serving-up-extreme-videos/</link>
-      <description><![CDATA[New Scientist瑞士联邦理工学院的研究人员发现，个人选择对于 YouTube 的推荐算法是否会让用户接触极端政治内容起着重要作用。研究人员使用控制机器人来跟踪 YouTube 推荐算法对该平台上 125 个现实生活用户的影响，并使用反事实机器人来评估该算法在用户观看 60 个视频后的影响。他们发现反事实机器人接触激进内容的程度低于典型用户。摘自“YouTube 停止提供极端视频的算法”
-新科学家 (02/27/24) Chris Stokel-Walker 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.newscientist.com/article/2419033-youtube-has-managed-to-stop-its-algorithm-serving-up-extreme-videos/</guid>
-      <pubDate>Fri, 01 Mar 2024 18:08:00 GMT</pubDate>
+      <title>机器人，自我修复：为自我修复机器奠定基础</title>
+      <link>https://www.nature.com/articles/d41586-024-00597-5</link>
+      <description><![CDATA[自然自愈机器人非常适合难以修复的环境，例如太空或深海。大多数自愈机器人使用的聚合物可以在加热后冷却时自行修复，但研究人员已经找到了自主修复的方法，包括使用具有氢键的聚合物，不同的键强度可产生坚固、柔韧的材料。研究人员还开发了导电自修复材料，例如通过在自修复聚合物中添加液态金属或电介质和半导体。现在，比利时布鲁塞尔自由大学的 Bram Vanderborght 表示，应该开发一系列自我修复产品，这样“我们就可以购买不同的材料，并将它们组合到一个大的应用中。”来自“机器人，自我修复：为自我修复机器奠定基础”
+《自然》 (02/29/24) 西蒙·马金 查看全文]]></description>
+      <guid>https://www.nature.com/articles/d41586-024-00597-5</guid>
+      <pubDate>Mon, 04 Mar 2024 18:09:22 GMT</pubDate>
     </item>
     <item>
-      <title>美国考虑监管联网车辆以防止施虐者追踪受害者</title>
-      <link>https://apnews.com/article/domestic-abuse-tracking-vehicles-prevention-ef3dbac114275e18aa71f3674b0aff1b</link>
-      <description><![CDATA[美联社美国联邦通信委员会 (FCC) 正在制定法规，以防止家庭暴力受害者通过使用联网车辆而被追踪。 FCC 主席杰西卡·罗森沃塞尔 (Jessica Rosenworcel) 致信九家美国汽车制造商，询问其联网汽车系统的详细信息，并询问他们为保护家庭暴力受害者免受骚扰和跟踪所做的努力。丰田和福特回应称，他们将根据要求取消家庭暴力受害者对车辆位置信息的访问，但其他制造商没有具体说明他们将如何（如果有的话）提供此类支持。来自“U.S.着眼于监管联网车辆以防止施虐者追踪受害者”
-美联社 (02/28/24) Tom Krisher 查看全文文章]]></description>
-      <guid>https://apnews.com/article/domestic-abuse-tracking-vehicles-prevention-ef3dbac114275e18aa71f3674b0aff1b</guid>
-      <pubDate>Fri, 01 Mar 2024 18:08:00 GMT</pubDate>
+      <title>自毁电路，更多安全方案</title>
+      <link>https://spectrum.ieee.org/hardwired-to-self-destruct</link>
+      <description><![CDATA[IEEE Spectrum哥伦比亚大学研究人员开发的探针感应电路可以启动保护引擎，在检测到小至 0.5 皮法的电容变化后指示处理器对数据流量进行加密。与此同时，德克萨斯大学奥斯汀分校的研究人员开发了一种技术，通过将 AES 加密过程的 SMA 组件分解为四个并行步骤，并稍微改变每个子步骤的时间，来模糊芯片的侧通道信号。他们还插入了可调复制电路来隐藏真实信号。此外，佛蒙特大学的研究人员开发了一种自毁电路，通过增加最长互连中的电流或加速晶体管栅极电介质的击穿。来自“自毁电路，更多安全方案” “
+IEEE Spectrum (02/28/24) Samuel K. Moore 查看全文&lt; /a&gt;]]></description>
+      <guid>https://spectrum.ieee.org/hardwired-to-self-destruct</guid>
+      <pubDate>Mon, 04 Mar 2024 18:09:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>宣布 2024 年 ACM SIGCHI 奖！</title>
+      <link>https://medium.com/sigchi/announcing-the-2024-acm-sigchi-awards-8cac7abda8be</link>
+      <description><![CDATA[Medium2024年ACM SIGCHI奖获奖者已揭晓。 ACM SIGCHI 终身研究奖的获得者是丹麦奥胡斯大学的 Susanne Bödker、卡内基梅隆大学的 Jodi Forlizzi、斯坦福大学的 James A. Landay 和法国 Inria 的 Wendy Mackay。 Google 的伊丽莎白·丘吉尔荣获 ACM SIGCHI 终身实践奖。其他获奖者包括瑞典皇家理工学院的 Jan Gulliksen、卡内基梅隆大学的 Amy Ogan 和华盛顿大学的 Kate Starbird，他们都是 ACM SIGCHI 社会影响奖的获得者。摘自《宣布2024 ACM SIGCHI 奖！&quot;
+中 (02/29/24) Niklas Elmqvist 查看全文]]></description>
+      <guid>https://medium.com/sigchi/announcing-the-2024-acm-sigchi-awards-8cac7abda8be</guid>
+      <pubDate>Mon, 04 Mar 2024 18:09:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
