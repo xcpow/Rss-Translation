@@ -4,16 +4,30 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Mon, 04 Mar 2024 09:32:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2024 12:18:16 GMT</lastBuildDate>
     <item>
-      <title>Waymo 将把自动驾驶出租车带到洛杉矶——迄今为止最大的挑战</title>
+      <title>JavaScript 统治世界——甚至可能是字面上的意思</title>
+      <link>https://www.wired.com/story/javascript-runs-the-world-maybe-literally/</link>
+      <description><![CDATA[捍卫一种备受嘲笑的编程语言。]]></description>
+      <guid>https://www.wired.com/story/javascript-runs-the-world-maybe-literally/</guid>
+      <pubDate>Mon, 04 Mar 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么科技工作面试变得如此噩梦</title>
+      <link>https://www.wired.com/story/why-tech-job-interviews-became-such-a-nightmare/</link>
+      <description><![CDATA[利率上升导致科技公司对潜在员工的要求变得更高。从低价录用到无休止的面试，程序员找工作的难度很大。]]></description>
+      <guid>https://www.wired.com/story/why-tech-job-interviews-became-such-a-nightmare/</guid>
+      <pubDate>Mon, 04 Mar 2024 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Waymo 将把自动驾驶出租车引入洛杉矶——迄今为止最大的挑战</title>
       <link>https://www.wired.com/story/waymo-los-angeles-robotaxi-autonomous-car-approval/</link>
       <description><![CDATA[周五下午，Waymo 获得了加州监管机构的批准，可以在美国第二大城市以及旧金山湾区的更多地区提供付费机器人出租车服务。]]></description>
       <guid>https://www.wired.com/story/waymo-los-angeles-robotaxi-autonomous-car-approval/</guid>
       <pubDate>Fri, 01 Mar 2024 23:00:47 GMT</pubDate>
     </item>
     <item>
-      <title>埃隆·马斯克 (Elon Musk) OpenAI 诉讼核心的疯狂主张</title>
+      <title>埃隆·马斯克 OpenAI 诉讼的核心疯狂主张</title>
       <link>https://www.wired.com/story/wild-claim-at-the-heart-of-elon-musks-openai-lawsuit/</link>
       <description><![CDATA[埃隆·马斯克 (Elon Musk) 对 OpenAI 的诉讼取决于一项可疑的说法，即该公司已经开发出“通用人工智能”，并将其交给了微软。]]></description>
       <guid>https://www.wired.com/story/wild-claim-at-the-heart-of-elon-musks-openai-lawsuit/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[如果法院支持德克萨斯州和佛罗里达州的挑衅性法律，限制社交平台审核在线内容的能力，生活可能会变得截然不同。]]></description>
       <guid>https://www.wired.com/story/supreme-court-future-of-the-internet/</guid>
       <pubDate>Mon, 26 Feb 2024 22:57:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>爱荷华州一家小报纸的网站如何成为人工智能生成的标题诱饵工厂</title>
-      <link>https://www.wired.com/story/iowa-newspaper-website-ai-generated-clickbait-factory/</link>
-      <description><![CDATA[当两名前 Meta 员工深入探究爱荷华州克莱顿县纪事报网站为何不断发布有关股票的可疑帖子时，他们发现了一个网站网络，该网络上散布着看似人工智能制作的内容。]]></description>
-      <guid>https://www.wired.com/story/iowa-newspaper-website-ai-generated-clickbait-factory/</guid>
-      <pubDate>Mon, 26 Feb 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>他帮助揭露了 Wirecard 的欺诈行为。现在他的初创公司试图让举报更加安全</title>
-      <link>https://www.wired.com/story/pav-gill-wirecard-confide-shield-whistleblowers/</link>
-      <description><![CDATA[帕夫·吉尔 (Pav Gill) 表示，他在向德国支付巨头 Wirecard 发出欺诈警报后遭到报复。他的初创公司 Confide 旨在保护未来的举报人免受伤害。]]></description>
-      <guid>https://www.wired.com/story/pav-gill-wirecard-confide-shield-whistleblowers/</guid>
-      <pubDate>Mon, 26 Feb 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
