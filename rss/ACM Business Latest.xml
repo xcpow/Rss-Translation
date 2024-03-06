@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Wed, 06 Mar 2024 15:07:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2024 18:09:37 GMT</lastBuildDate>
+    <item>
+      <title>官员称，Meta 放弃了黑客攻击受害者，耗尽了执法资源</title>
+      <link>https://www.wired.com/story/meta-hacked-users-draining-resources/</link>
+      <description><![CDATA[由 41 名州总检察长组成的联盟表示，Meta 未能帮助账户遭到黑客攻击的 Facebook 和 Instagram 用户，他们希望该公司“立即采取行动”。]]></description>
+      <guid>https://www.wired.com/story/meta-hacked-users-draining-resources/</guid>
+      <pubDate>Wed, 06 Mar 2024 15:38:30 GMT</pubDate>
+    </item>
     <item>
       <title>对于德克萨斯州的比特币矿场来说，蜜月已经结束</title>
       <link>https://www.wired.com/story/bitcoin-mining-texas-energy-grid/</link>
@@ -78,7 +85,7 @@
     <item>
       <title>为什么科技工作面试变得如此噩梦</title>
       <link>https://www.wired.com/story/why-tech-job-interviews-became-such-a-nightmare/</link>
-      <description><![CDATA[利率上升导致科技公司对潜在员工的要求变得更高。从低价录用到无休止的面试，程序员找工作的难度很大。]]></description>
+      <description><![CDATA[利率上升导致科技公司对潜在员工的要求变得更高。从低价录用到无休无止的面试，程序员找工作的过程非常艰难。]]></description>
       <guid>https://www.wired.com/story/why-tech-job-interviews-became-such-a-nightmare/</guid>
       <pubDate>Mon, 04 Mar 2024 10:00:00 GMT</pubDate>
     </item>
@@ -90,9 +97,9 @@
       <pubDate>Fri, 01 Mar 2024 23:00:47 GMT</pubDate>
     </item>
     <item>
-      <title>埃隆·马斯克 (Elon Musk) OpenAI 诉讼核心的疯狂主张</title>
+      <title>埃隆·马斯克 OpenAI 诉讼的核心疯狂主张</title>
       <link>https://www.wired.com/story/wild-claim-at-the-heart-of-elon-musks-openai-lawsuit/</link>
-      <description><![CDATA[埃隆·马斯克 (Elon Musk) 对 OpenAI 的诉讼取决于一项可疑的说法，即该公司已经开发出“通用人工智能”，并将其交给了微软。]]></description>
+      <description><![CDATA[埃隆·马斯克 (Elon Musk) 对 OpenAI 的诉讼取决于一个可疑的说法，即该公司已经开发出“通用人工智能”，并将其交给了微软。]]></description>
       <guid>https://www.wired.com/story/wild-claim-at-the-heart-of-elon-musks-openai-lawsuit/</guid>
       <pubDate>Fri, 01 Mar 2024 22:50:40 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[初创公司 Groq 的人工智能芯片使聊天机器人几乎可以立即回答查询。这可能会为生成人工智能助手开辟全新的用例。]]></description>
       <guid>https://www.wired.com/story/plaintext-groq-mindblowing-chatbot-answers-instantly/</guid>
       <pubDate>Fri, 01 Mar 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>埃隆·马斯克 (Elon Musk) 起诉 OpenAI 和 Sam Altman“公然违反”合同</title>
-      <link>https://www.wired.com/story/elon-musk-sues-sam-altman-openai/</link>
-      <description><![CDATA[在诉讼中，马斯克声称 OpenAI 已经放弃了为人类造福而开发人工智能的使命。]]></description>
-      <guid>https://www.wired.com/story/elon-musk-sues-sam-altman-openai/</guid>
-      <pubDate>Fri, 01 Mar 2024 13:54:14 GMT</pubDate>
     </item>
     </channel>
 </rss>

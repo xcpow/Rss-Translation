@@ -4,102 +4,110 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Mon, 04 Mar 2024 18:09:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2024 18:09:31 GMT</lastBuildDate>
     <item>
-      <title>看见就是沟通</title>
-      <link>https://www.nasa.gov/directorates/stmd/tech-transfer/spinoffs/nasa-tech-tuesday-seeing-is-communicating/</link>
-      <description><![CDATA[NASAEyegaze 眼球追踪系统是 NASA 喷气推进实验室与 Eyegaze Inc. 合作开发的，可帮助患有创伤性脑损伤、中风或疾病的个人进行交流。该系统于 1988 年首次开发，现在可以集成到可安装在标准计算机屏幕上的小型相机中。 Eyegaze摄像头可以作为配备Eyeworld的设备的外部鼠标和键盘，允许用户在社交媒体上发帖、发送电子邮件和短信、拨打电话以及操作Amazon Echo和Google Home设备。除此之外，Eyegaze 已与 Zoom 和 WhatsApp 集成，并允许用户控制电动移动设备。摘自“看见就是交流”
-NASA (02/20/24) 玛戈·皮尔斯 查看全文]]></description>
-      <guid>https://www.nasa.gov/directorates/stmd/tech-transfer/spinoffs/nasa-tech-tuesday-seeing-is-communicating/</guid>
-      <pubDate>Mon, 04 Mar 2024 18:09:27 GMT</pubDate>
+      <title>人工智能使手机能够根据面部线索检测抑郁症</title>
+      <link>https://www.upi.com/Health_News/2024/02/27/artificial-intelligence-depression-smartphones/4131708976594/</link>
+      <description><![CDATA[UPIMoodCapture 智能手机应用程序利用人工智能和面部图像处理软件，可以根据用户的面部线索确定用户何时感到沮丧。该应用程序由达特茅斯学院的研究人员开发，可以为早期诊断和实时数字心理健康支持铺平道路。在一项对 177 名被诊断为重度抑郁症的个体进行的研究中，该应用程序检测症状的准确率为 75%。摘自“人工智能使手机能够从面部线索检测抑郁症”
+UPI (02/27/24) Susan Kreimer 查看全文]]></description>
+      <guid>https://www.upi.com/Health_News/2024/02/27/artificial-intelligence-depression-smartphones/4131708976594/</guid>
+      <pubDate>Wed, 06 Mar 2024 18:09:31 GMT</pubDate>
     </item>
     <item>
-      <title>研究显示人工智能聊天机器人尚未为选举黄金时间做好准备</title>
-      <link>https://www.bloomberg.com/news/articles/2024-02-27/ai-chatbots-not-ready-for-election-prime-time-study-shows</link>
-      <description><![CDATA[彭博社人工智能民主项目的研究人员开发的软件门户评估了流行的大型语言模型是否可以处理与全球国家选举相关的主题问题。 Open AI 的 GPT-4、Alphabet 的 Gemini、Anthropic 的 Claude、Meta 的 Llama 2 和 Mistral AI 的 Mixtral 被问及与选举相关的问题。在 130 份回复中，略多于 50% 的回复被发现不准确，40% 的回复被认为有害。最不准确的模型是 Gemini、Llama 2 和 Mixtral，最准确的是 GPT-4。与此同时，双子座的回答最不完整，而克劳德的回答最有偏见。摘自“研究表明，人工智能聊天机器人尚未为选举黄金时间做好准备”
-彭博社 (02/27/24) Antonia Mufarech 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-02-27/ai-chatbots-not-ready-for-election-prime-time-study-shows</guid>
-      <pubDate>Mon, 04 Mar 2024 18:09:26 GMT</pubDate>
+      <title>辅助技术扩展了四肢瘫痪志愿者的能力</title>
+      <link>https://bnnbreaking.com/breaking-news/health/revolutionizing-independence-carnegie-mellons-groundbreaking-assistive-technology-tested-by-quadriplegic-volunteer</link>
+      <description><![CDATA[BNN卡内基梅隆大学研究人员开发的头戴式辅助远程操作（HAT）系统使用户能够使用头部运动和语音识别技术来控制移动机器人完成日常任务。在最近为期一周的试验中，HAT 系统使四肢瘫痪的人能够喝水、自己吃饭、操作百叶窗等活动。研究参与者表示，在执行某些任务时，他们更喜欢辅助技术，而不是计算机屏幕控制。摘自“辅助技术扩展了四肢瘫痪志愿者的能力”
+BNN (02/27/24) 查看全文]]></description>
+      <guid>https://bnnbreaking.com/breaking-news/health/revolutionizing-independence-carnegie-mellons-groundbreaking-assistive-technology-tested-by-quadriplegic-volunteer</guid>
+      <pubDate>Wed, 06 Mar 2024 18:09:30 GMT</pubDate>
     </item>
     <item>
-      <title>针对重工业的网络威胁加剧</title>
-      <link>https://www.wsj.com/articles/cyber-threats-against-heavy-industry-intensify-c27a157a</link>
-      <description><![CDATA[WSJ Pro Cyber​​security网络安全公司 Dragos 报告称，去年针对工业企业的勒索软件攻击数量为 905 起，同比增长 50%。 Dragos 表示，针对“运营技术”（即制造工厂和自来水公司等使用的重型机械和工业控制系统）的勒索软件团体数量比 2022 年增加了 28%。制造业信息共享和分析中心的 Mark Orsi 指出， “绝大多数勒索软件变体仅针对组织的 IT 基础设施，但制造工厂车间的运营常常因 IT 系统受到损害而中断。”与此同时，人们对勒索软件之外的黑客使用的工具日益复杂感到担忧。摘自“针对重工业的网络威胁加剧”
-《华尔街日报》专业网络安全 (02/21/24) James Rundle；凯瑟琳·斯塔普 查看全文  - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/articles/cyber-threats-against-heavy-industry-intensify-c27a157a</guid>
-      <pubDate>Mon, 04 Mar 2024 18:09:26 GMT</pubDate>
+      <title>GitHub 遭受数百万恶意存储库持续攻击</title>
+      <link>https://arstechnica.com/security/2024/02/github-besieged-by-millions-of-malicious-repositories-in-ongoing-attack/</link>
+      <description><![CDATA[Ars TechnicaGitHub 正在进行的网络攻击已导致数以百万计的恶意代码存储库使用恶意软件窃取开发人员的密码和加密货币。 Apiiro 安全研究人员 Matan Giladi 和 Gil David 认为，GitHub 的“自动化检测似乎错过了许多存储库”，“手动上传的存储库得以幸存。因为整个攻击链似乎大多是大规模自动化的，所以 1幸存下来的恶意代码库仍达数千个。”摘自“GitHub 在持续攻击中被数百万恶意代码库围困”
+Ars Technica (02/28/24) Dan Goodin 查看全文]]></description>
+      <guid>https://arstechnica.com/security/2024/02/github-besieged-by-millions-of-malicious-repositories-in-ongoing-attack/</guid>
+      <pubDate>Wed, 06 Mar 2024 18:09:30 GMT</pubDate>
     </item>
     <item>
-      <title>超灵敏触摸传感器“感知”4 英寸外的物体</title>
-      <link>https://newatlas.com/robotics/non-contact-sensor-detects-objects-4-inches-away/</link>
-      <description><![CDATA[New Atlas中国青岛大学研究人员开发的 3D 打印传感器可以识别 10 厘米（约 4 英寸）外的物体，而无需物理接触它们。该传感器由石墨氮化碳和聚二甲基硅氧烷制成，通过 3D 打印成网格，从而产生低介电常数的材料。研究人员创建了一个统一的系统，能够通过将传感器集成到印刷电路板上来远程跟踪人体运动。青岛的李新林表示：“该产品在灵敏度、响应速度以及多次使用的稳定性方面表现出色，这为可穿戴设备和电子皮肤领域开辟了新的可能性。”摘自“超灵敏触摸传感器‘感觉’4 英寸外的物体”
-新地图集 (02/27/24) Paul McClure 查看全文]]></description>
-      <guid>https://newatlas.com/robotics/non-contact-sensor-detects-objects-4-inches-away/</guid>
-      <pubDate>Mon, 04 Mar 2024 18:09:25 GMT</pubDate>
+      <title>人工智能战争已经来临</title>
+      <link>https://www.bloomberg.com/features/2024-ai-warfare-project-maven/</link>
+      <description><![CDATA[彭博社最近几周，美国国防部的Maven智能系统被用来识别也门的火箭发射器和红海的水面舰艇，并协助缩小伊拉克和叙利亚的目标范围。 Maven 将卫星图像、传感器数据和地理定位数据合并到一个计算机界面中，利用机器学习来识别战场上的人员和设备，并在各种环境条件下检测武器工厂和其他感兴趣的物体。摘自《人工智能战争已经来临》
+彭博社 (02/28/24) 卡特里娜·曼森 查看完整内容文章 - 可能需要付费订阅]]></description>
+      <guid>https://www.bloomberg.com/features/2024-ai-warfare-project-maven/</guid>
+      <pubDate>Wed, 06 Mar 2024 18:09:29 GMT</pubDate>
     </item>
     <item>
-      <title>3D 打印螺线管将使复杂电子产品变得更加经济实惠</title>
-      <link>https://interestingengineering.com/innovation/mit-pioneers-3d-printed-solenoids-for-electronics</link>
-      <description><![CDATA[有趣的工程麻省理工学院的研究人员开发了 3D 打印的 3D 电磁体，可以让电子元件变得更便宜。研究人员改进了商用挤出 3D 打印机，以生产颗粒而不是细丝，从而允许他们使用软磁尼龙。打印机还经过修改，可以处理多种材料，以便可以精确地分层排列必要的介电、导电和软磁组件。测试表明，3D 打印螺线管在性能方面超越了传统制造的螺线管。摘自“3D 打印螺线管将实现更经济实惠的复杂电子产品”
-有趣的工程 (02/23/24) 埃米尔可以 查看全文]]></description>
-      <guid>https://interestingengineering.com/innovation/mit-pioneers-3d-printed-solenoids-for-electronics</guid>
-      <pubDate>Mon, 04 Mar 2024 18:09:25 GMT</pubDate>
+      <title>带有 256 个传感器的背心可检测心肌疾病的早期症状</title>
+      <link>https://interestingengineering.com/innovation/vest-with-256-sensors-to-detect-early-signs-of-heart-muscle-disease</link>
+      <description><![CDATA[有趣的工程通过监测心脏的电脉冲，心电图成像（ECGI）背心可用于肥厚型心肌病的早期诊断。该背心由英国伦敦大学学院的研究人员开发，配有 256 个嵌入式传感器，只需五分钟即可生成详细的心脏电图。在涉及 174 名患者和 37 名健康参与者的测试中，ECGI 背心发现 24% 的受试者存在电异常，其中包括一些无症状的人。摘自“带有 256 个传感器的背心，可检测心肌疾病的早期迹象” “
+有趣的工程 (02/29/24) Mrigakshi Dixit 查看全文]]></description>
+      <guid>https://interestingengineering.com/innovation/vest-with-256-sensors-to-detect-early-signs-of-heart-muscle-disease</guid>
+      <pubDate>Wed, 06 Mar 2024 18:09:29 GMT</pubDate>
     </item>
     <item>
-      <title>机器人、快乐的工人：生产率的飙升有助于解释美国经济惊人的弹性</title>
-      <link>https://apnews.com/article/inflation-pay-economy-productivity-workers-technology-prices-c1e0163d51b430fcb18f0c80e32b2d81</link>
-      <description><![CDATA[美联社美国生产率的跃升归因于更多公司在劳动力短缺的情况下部署机器人以及更多工人对当前职位感到满意。例如，总部位于印第安纳州的 Batesville Tool &amp; Die 公司去年只能填补 70 个职位空缺中的 40 个职位，因此被迫投资能够模仿人类工人的机器人。对设备、研发和其他形式知识产权的投资增加导致了生产率的提高，经济学家认为这解释了经济如何在高利率时期保持强劲。与此同时，研究表明人工智能可以刺激生产力的持续提高。摘自《机器人，快乐的工人：生产力激增有助于解释美国经济惊人的弹性》
-美联社 (02/21/24) Paul Wiseman 查看全文]]></description>
-      <guid>https://apnews.com/article/inflation-pay-economy-productivity-workers-technology-prices-c1e0163d51b430fcb18f0c80e32b2d81</guid>
-      <pubDate>Mon, 04 Mar 2024 18:09:24 GMT</pubDate>
+      <title>无硅计算机使用光波，超越现有的分类系统</title>
+      <link>https://www.techradar.com/pro/a-single-optical-fiber-scientists-build-a-silicon-less-computer-that-use-light-waves-and-surpasses-existing-systems-for-classification-could-this-be-the-ultimate-ai-cpu</link>
+      <description><![CDATA[TechRadar德国莱布尼茨光子技术研究所 (Leibniz IPHT) 的研究人员开发了一种使用单根光纤来模拟众多神经网络计算能力的计算机，作为硅的替代品。莱布尼茨研究所智能光子学系主任马里奥·开姆尼茨 (Mario Chemnitz) 表示：“通过利用光独特的物理特性，该系统将能够在未来快速高效地处理大量数据。”&lt; br /&gt;摘自《无硅计算机利用光波，超越现有的分类系统》
+TechRadar (03/01/24) 韦恩·威廉姆斯 查看完整文章]]></description>
+      <guid>https://www.techradar.com/pro/a-single-optical-fiber-scientists-build-a-silicon-less-computer-that-use-light-waves-and-surpasses-existing-systems-for-classification-could-this-be-the-ultimate-ai-cpu</guid>
+      <pubDate>Wed, 06 Mar 2024 18:09:28 GMT</pubDate>
     </item>
     <item>
-      <title>ALS 患者的大脑植入物可将他的想法转化为计算机命令</title>
-      <link>https://www.cnn.com/2024/02/28/tech/brain-implant-als-patient-bci/index.html</link>
-      <description><![CDATA[CNN Business一名 ALS 患者接受了脑机接口 (BCI)，可将其大脑中的神经活动转化为计算机命令。这位名叫 Mark 的患者于 8 月份接受了 BCI，作为 Synchron 人体试验的一部分。该公司的 Stentrode 是一种带有电极传感器的支架，它根据马克脑电波的独特电信号开发出个性化的运动词典。马克已经可以使用脑机接口来玩类似乒乓球的乒乓球游戏，并向他的提供者发送健康通知或疼痛报告。最终，他希望学会发短信、控制 Alexa、打开 Netflix 等等。摘自“ALS 患者植入大脑，将他的想法转化为计算机命令”
-美国有线电视新闻网商业频道 (02/28/24) 凯瑟琳·索贝克；阿曼达西利；纳迪亚·库南 查看全文]]></description>
-      <guid>https://www.cnn.com/2024/02/28/tech/brain-implant-als-patient-bci/index.html</guid>
-      <pubDate>Mon, 04 Mar 2024 18:09:24 GMT</pubDate>
+      <title>丰田的软人形机器人用它的整个身体来拾取东西</title>
+      <link>https://newatlas.com/robotics/toyota-punyo-humanoid-soft-robot/</link>
+      <description><![CDATA[New Atlas软体人形机器人利用其整个身体来拥抱、拾取和搬运物体。这款躯干机器人名为 Punyo，由丰田研究集团的机器人专家开发，具有由抓握材料制成的硬金属骨架、带有触觉传感器的织物覆盖物，使其能够感觉到它拥抱或携带的物体、摄像头监控的充气垫它手臂的末端，以及从肩膀到手腕的 13 个充气气囊，根据分配的任务单独调节压力。摘自“丰田的软人形机器人用全身拾取东西” “
+新地图集 (02/28/24) Loz Blain 查看全文]]></description>
+      <guid>https://newatlas.com/robotics/toyota-punyo-humanoid-soft-robot/</guid>
+      <pubDate>Wed, 06 Mar 2024 18:09:28 GMT</pubDate>
     </item>
     <item>
-      <title>可穿戴贴纸将手部动作转化为交流</title>
-      <link>https://www.optica.org/about/newsroom/news_releases/2024/february/wearable_sticker_turns_hand_movements_into_communication/</link>
-      <description><![CDATA[Optica中国北京师范大学、中山大学和桂林电子科技大学的研究人员开发的可穿戴传感器贴纸可以让康复患者或残疾人通过微妙的手势进行交流。该贴纸由聚二甲基硅氧烷、柔软且有弹性的有机硅弹性体和光纤布拉格光栅光学传感器组成。在使用将简单手势转换为命令或消息的系统进行的测试中，发现传感器能够高精度地检测最小的动作。摘自“可穿戴贴纸将手部动作转化为交流”
-Optica (02/27/24) 查看全文&lt; /a&gt;]]></description>
-      <guid>https://www.optica.org/about/newsroom/news_releases/2024/february/wearable_sticker_turns_hand_movements_into_communication/</guid>
-      <pubDate>Mon, 04 Mar 2024 18:09:23 GMT</pubDate>
+      <title>乌克兰的“手机中的城市”应用程序在 GLOMOs 上荣获最高荣誉</title>
+      <link>https://www.kyivpost.com/post/28879</link>
+      <description><![CDATA[基辅邮报（乌克兰）被称为“手机中的城市”，基辅数字应用程序在世界移动大会的全球移动大奖上荣获“最佳城市创新”和“最佳数字生活移动创新”奖。该应用程序允许乌克兰基辅的居民补充交通卡、支付停车费、为城市改善项目投票以及接收住房和社区服务通知等。自与俄罗斯的战争开始以来，该应用程序还提供有关防空洞位置、军事行动、志愿者援助和警报消息等信息。来自“乌克兰的‘手机中的城市’” ；应用程序荣获 GLOMO 最高荣誉”
+基辅邮报（乌克兰）(03/01/24) 查看全文]]></description>
+      <guid>https://www.kyivpost.com/post/28879</guid>
+      <pubDate>Wed, 06 Mar 2024 18:09:27 GMT</pubDate>
     </item>
     <item>
-      <title>解决粮食不安全问题的玉米多年研究的超级计算模拟揭示了令人惊讶的分子结果</title>
-      <link>https://www.hpcwire.com/off-the-wire/supercomputing-simulations-in-multiyear-study-of-corn-to-address-food-insecurity-reveal-surprising-molecular-results/</link>
-      <description><![CDATA[HPCwire作为粮食不安全长期研究的一部分，加州大学圣地亚哥分校的计算机科学家 Edwin Solares 依靠加州大学圣地亚哥分校圣地亚哥超级计算机中心 (SDSC) 的超级计算资源）和加州大学欧文分校。 Solares 进行了数百万次模拟来分析玉米的基因组特征，并发现基因中存在一种小核糖核酸 (RNA)。 Solares 说：“它是被纳入基因中，还是被纳入重复序列和古老的病毒感染中？我们不太确定，但我们接下来将使用 SDSC 的 Expanse 来更好地理解这种现象。”&lt; br /&gt;摘自“玉米多年研究超级计算模拟解决粮食不安全问题揭示了令人惊讶的分子结果”
-HPCwire (02/29/24) 查看全文]]></description>
-      <guid>https://www.hpcwire.com/off-the-wire/supercomputing-simulations-in-multiyear-study-of-corn-to-address-food-insecurity-reveal-surprising-molecular-results/</guid>
-      <pubDate>Mon, 04 Mar 2024 18:09:23 GMT</pubDate>
+      <title>人工智能的狂热使保持高耗电数据站点绿色的努力变得更加复杂</title>
+      <link>https://www.nytimes.com/2024/02/29/business/artificial-intelligence-data-centers-green-power.html</link>
+      <description><![CDATA[纽约时报数据中心以前建在互联网用户附近，但靠近用户的必要性已经降低，而获得电源已成为优先考虑的事项。开发已从成熟的一二线市场进一步扩展到土地廉价且电力充足的地区。北美数据中心管理负责人吉姆·克里根 (Jim Kerrigan) 表示：“任何拥有重要电力来源的人现在都已成为新的数据中心市场。”站点绿色”
+纽约时报 (02/29/24) Patrick Sisson 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/02/29/business/artificial-intelligence-data-centers-green-power.html</guid>
+      <pubDate>Wed, 06 Mar 2024 18:09:27 GMT</pubDate>
     </item>
     <item>
-      <title>机器人，自我修复：为自我修复机器奠定基础</title>
-      <link>https://www.nature.com/articles/d41586-024-00597-5</link>
-      <description><![CDATA[自然自愈机器人非常适合难以修复的环境，例如太空或深海。大多数自愈机器人使用的聚合物可以在加热后冷却时自行修复，但研究人员已经找到了自主修复的方法，包括使用具有氢键的聚合物，不同的键强度可产生坚固、柔韧的材料。研究人员还开发了导电自修复材料，例如通过在自修复聚合物中添加液态金属或电介质和半导体。现在，比利时布鲁塞尔自由大学的 Bram Vanderborght 表示，应该开发一系列自我修复产品，这样“我们就可以购买不同的材料，并将它们组合到一个大的应用中。”来自“机器人，自我修复：为自我修复机器奠定基础”
-《自然》 (02/29/24) 西蒙·马金 查看全文]]></description>
-      <guid>https://www.nature.com/articles/d41586-024-00597-5</guid>
-      <pubDate>Mon, 04 Mar 2024 18:09:22 GMT</pubDate>
+      <title>Anycubic 3D 打印机遭到黑客攻击，试图通知所有者安全漏洞</title>
+      <link>https://www.tomshardware.com/3d-printing/anycubic-3d-printers-hacked-in-bold-attempt-to-inform-owners-of-security-hole</link>
+      <description><![CDATA[Tom&#39;s Hardware据报道，黑客在 Anycubic 3D 打印机中发现了安全漏洞，并正在打印机显示屏上使用自述文件来告知用户该问题，并鼓励他们禁用互联网连接，直到发布补丁为止。黑客表示，他们已就发现的两个关键安全漏洞联系了 Anycubic，但在没有收到该公司的回复后，他们直接通知用户。摘自“Anycubic 3D 打印机遭到黑客攻击，试图通知所有者”安全漏洞”
+汤姆的硬件 (03/01/24) Christopher Harper 查看全文]]></description>
+      <guid>https://www.tomshardware.com/3d-printing/anycubic-3d-printers-hacked-in-bold-attempt-to-inform-owners-of-security-hole</guid>
+      <pubDate>Wed, 06 Mar 2024 18:09:26 GMT</pubDate>
     </item>
     <item>
-      <title>自毁电路，更多安全方案</title>
-      <link>https://spectrum.ieee.org/hardwired-to-self-destruct</link>
-      <description><![CDATA[IEEE Spectrum哥伦比亚大学研究人员开发的探针感应电路可以启动保护引擎，在检测到小至 0.5 皮法的电容变化后指示处理器对数据流量进行加密。与此同时，德克萨斯大学奥斯汀分校的研究人员开发了一种技术，通过将 AES 加密过程的 SMA 组件分解为四个并行步骤，并稍微改变每个子步骤的时间，来模糊芯片的侧通道信号。他们还插入了可调复制电路来隐藏真实信号。此外，佛蒙特大学的研究人员开发了一种自毁电路，通过增加最长互连中的电流或加速晶体管栅极电介质的击穿。来自“自毁电路，更多安全方案” “
-IEEE Spectrum (02/28/24) Samuel K. Moore 查看全文&lt; /a&gt;]]></description>
-      <guid>https://spectrum.ieee.org/hardwired-to-self-destruct</guid>
-      <pubDate>Mon, 04 Mar 2024 18:09:22 GMT</pubDate>
+      <title>恶意软件蠕虫可以毒害 ChatGPT、Gemini 支持的助手</title>
+      <link>https://www.pcmag.com/news/malware-worm-poison-chatgpt-gemini-powered-assistants</link>
+      <description><![CDATA[PC 杂志康奈尔大学、Intuit 和以色列理工学院的研究人员开发了一种“零点击”人工智能蠕虫，能够通过文本和图像输入启动“对抗性自我复制提示”技术来利用 OpenAI 的 ChatGPT-4、Google 的 Gemini 和 LLaVA 开源 AI 模型。在对受影响的人工智能电子邮件助手的测试中，研究人员发现该蠕虫可以提取个人数据、发起网络钓鱼攻击并发送垃圾邮件。研究人员将自我复制恶意软件的成功归因于“糟糕的架构设计”。 来自“恶意软件蠕虫可以毒害 ChatGPT，Gemini 支持的助手”
+PC 杂志 (03/01/24) Kate Irwin 查看全文]]></description>
+      <guid>https://www.pcmag.com/news/malware-worm-poison-chatgpt-gemini-powered-assistants</guid>
+      <pubDate>Wed, 06 Mar 2024 18:09:26 GMT</pubDate>
     </item>
     <item>
-      <title>宣布 2024 年 ACM SIGCHI 奖！</title>
-      <link>https://medium.com/sigchi/announcing-the-2024-acm-sigchi-awards-8cac7abda8be</link>
-      <description><![CDATA[Medium2024年ACM SIGCHI奖获奖者已揭晓。 ACM SIGCHI 终身研究奖的获得者是丹麦奥胡斯大学的 Susanne Bödker、卡内基梅隆大学的 Jodi Forlizzi、斯坦福大学的 James A. Landay 和法国 Inria 的 Wendy Mackay。 Google 的伊丽莎白·丘吉尔荣获 ACM SIGCHI 终身实践奖。其他获奖者包括瑞典皇家理工学院的 Jan Gulliksen、卡内基梅隆大学的 Amy Ogan 和华盛顿大学的 Kate Starbird，他们都是 ACM SIGCHI 社会影响奖的获得者。摘自《宣布2024 ACM SIGCHI 奖！&quot;
-中 (02/29/24) Niklas Elmqvist 查看全文]]></description>
-      <guid>https://medium.com/sigchi/announcing-the-2024-acm-sigchi-awards-8cac7abda8be</guid>
-      <pubDate>Mon, 04 Mar 2024 18:09:21 GMT</pubDate>
+      <title>谷歌设立 500 万美元奖金以寻找量子计算机的用途</title>
+      <link>https://www.newscientist.com/article/2420137-google-launches-5m-prize-to-find-actual-uses-for-quantum-computers/</link>
+      <description><![CDATA[新科学家Google 和 XPRIZE 基金会发起了一项为期三年的竞赛，奖励 500 万美元，奖励那些使用量子计算机开发可以解决现实世界问题的算法的研究人员，例如联合国可持续发展目标。研究人员不需要在实践中解决问题，而是解释如何应用算法以及所需的量子计算规范。摘自“Google 颁发 500 万美元奖金以寻找量子计算机的用途”
+新科学家 (03/04/24) Alex Wilkins 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.newscientist.com/article/2420137-google-launches-5m-prize-to-find-actual-uses-for-quantum-computers/</guid>
+      <pubDate>Wed, 06 Mar 2024 18:09:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>超过 200 万篇研究论文从互联网上消失</title>
+      <link>https://www.nature.com/articles/d41586-024-00616-5</link>
+      <description><![CDATA[Nature英国伦敦大学的 Martin Eve 评估了 7,438,037 篇带有数字对象标识符 (DOI) 的研究论文是否已保存在档案中，并确定大约 28%（即超过 200 万篇）没有保存。尽管拥有有效的 DOI，但仍保存在主要的数字档案中。只有 58% 的样本至少存储在一个档案中。然而，Eve 的研究仅关注带有 DOI 的文章，并没有涉及对每个数字存储库的搜索。摘自《超过 200 万篇研究论文从互联网上消失》
+自然 (03/04/24) 莎拉·怀尔德 查看全文]]></description>
+      <guid>https://www.nature.com/articles/d41586-024-00616-5</guid>
+      <pubDate>Wed, 06 Mar 2024 18:09:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
