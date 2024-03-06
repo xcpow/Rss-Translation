@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Wed, 06 Mar 2024 12:13:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2024 15:07:30 GMT</lastBuildDate>
+    <item>
+      <title>对于德克萨斯州的比特币矿场来说，蜜月已经结束</title>
+      <link>https://www.wired.com/story/bitcoin-mining-texas-energy-grid/</link>
+      <description><![CDATA[比特币开采的能源需求在这个曾经张开双臂欢迎这些公司的州引发了争议。]]></description>
+      <guid>https://www.wired.com/story/bitcoin-mining-texas-energy-grid/</guid>
+      <pubDate>Wed, 06 Mar 2024 13:44:40 GMT</pubDate>
+    </item>
     <item>
       <title>开源人工智能图像生成器的黑暗面</title>
       <link>https://www.wired.com/story/dark-side-open-source-ai-image-generators/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[在诉讼中，马斯克声称 OpenAI 已经放弃了为人类造福而开发人工智能的使命。]]></description>
       <guid>https://www.wired.com/story/elon-musk-sues-sam-altman-openai/</guid>
       <pubDate>Fri, 01 Mar 2024 13:54:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>埃隆·马斯克 (Elon Musk) 对一个发现 X 上存在仇恨言论的组织提起的诉讼进展不顺利</title>
-      <link>https://www.wired.com/story/elon-musk-lawsuit-hate-speech-x/</link>
-      <description><![CDATA[X 声称，打击数字仇恨中心因展示仇恨言论在平台上传播而花费了数百万美元。在周四的听证会上，一名联邦法官对这些说法表示怀疑。]]></description>
-      <guid>https://www.wired.com/story/elon-musk-lawsuit-hate-speech-x/</guid>
-      <pubDate>Fri, 01 Mar 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
