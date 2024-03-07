@@ -4,7 +4,21 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Wed, 06 Mar 2024 21:05:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2024 00:25:09 GMT</lastBuildDate>
+    <item>
+      <title>旧金山禁止人脸识别 5 年后，选民要求加强监控</title>
+      <link>https://www.wired.com/story/san-francisco-banned-face-recognition-voters-ask-for-more-surveillance/</link>
+      <description><![CDATA[周二，这个国家科技含量最高的城市支持了一项投票提案，该提案利用了人们对犯罪的担忧，让警方可以更自由地使用无人机和其他监控技术。]]></description>
+      <guid>https://www.wired.com/story/san-francisco-banned-face-recognition-voters-ask-for-more-surveillance/</guid>
+      <pubDate>Wed, 06 Mar 2024 23:05:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧洲数字市场法案正在打破大型科技帝国</title>
+      <link>https://www.wired.com/story/europe-dma-breaking-open-big-tech/</link>
+      <description><![CDATA[科技巨头必须遵守一项旨在改变互联网的新欧盟法律。它的目的是迫使最大的平台开放，以鼓励竞争，并为用户的数字生活提供更多选择。]]></description>
+      <guid>https://www.wired.com/story/europe-dma-breaking-open-big-tech/</guid>
+      <pubDate>Wed, 06 Mar 2024 21:01:41 GMT</pubDate>
+    </item>
     <item>
       <title>官员称，Meta 放弃了黑客攻击受害者，耗尽了执法资源</title>
       <link>https://www.wired.com/story/meta-hacked-users-draining-resources/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[周五下午，Waymo 获得了加州监管机构的批准，可以在美国第二大城市以及旧金山湾区的更多地区提供付费机器人出租车服务。]]></description>
       <guid>https://www.wired.com/story/waymo-los-angeles-robotaxi-autonomous-car-approval/</guid>
       <pubDate>Fri, 01 Mar 2024 23:00:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>埃隆·马斯克 OpenAI 诉讼的核心疯狂主张</title>
-      <link>https://www.wired.com/story/wild-claim-at-the-heart-of-elon-musks-openai-lawsuit/</link>
-      <description><![CDATA[埃隆·马斯克 (Elon Musk) 对 OpenAI 的诉讼取决于一项可疑的说法，即该公司已经开发出“通用人工智能”，并将其交给了微软。]]></description>
-      <guid>https://www.wired.com/story/wild-claim-at-the-heart-of-elon-musks-openai-lawsuit/</guid>
-      <pubDate>Fri, 01 Mar 2024 22:50:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>即时答复的聊天机器人令人惊叹的体验</title>
-      <link>https://www.wired.com/story/plaintext-groq-mindblowing-chatbot-answers-instantly/</link>
-      <description><![CDATA[初创公司 Groq 的人工智能芯片使聊天机器人几乎可以立即回答查询。这可能会为生成人工智能助手开辟全新的用例。]]></description>
-      <guid>https://www.wired.com/story/plaintext-groq-mindblowing-chatbot-answers-instantly/</guid>
-      <pubDate>Fri, 01 Mar 2024 14:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
