@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Thu, 07 Mar 2024 15:06:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2024 18:08:56 GMT</lastBuildDate>
+    <item>
+      <title>恐惧激发埃隆·马斯克和萨姆·奥尔特曼创建 OpenAI</title>
+      <link>https://www.wired.com/story/the-fear-that-inspired-elon-musk-sam-altman-openai/</link>
+      <description><![CDATA[OpenAI 发布的反驳埃隆·马斯克诉讼的电子邮件表明，他、萨姆·奥尔特曼和其他联合创始人是如何出于对谷歌主导地位的恐惧而动机的。]]></description>
+      <guid>https://www.wired.com/story/the-fear-that-inspired-elon-musk-sam-altman-openai/</guid>
+      <pubDate>Thu, 07 Mar 2024 17:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌利用一名聋哑黑人员工来宣扬其多元化。现在她因歧视而提起诉讼</title>
       <link>https://www.wired.com/story/google-black-deaf-worker-diversity-suing-discrimination/</link>
@@ -27,13 +34,6 @@
       <pubDate>Wed, 06 Mar 2024 21:01:41 GMT</pubDate>
     </item>
     <item>
-      <title>官员称，Meta 放弃了黑客攻击受害者，耗尽了执法资源</title>
-      <link>https://www.wired.com/story/meta-hacked-users-draining-resources/</link>
-      <description><![CDATA[由 41 名州总检察长组成的联盟表示，Meta 未能帮助账户遭到黑客攻击的 Facebook 和 Instagram 用户，他们希望该公司“立即采取行动”。]]></description>
-      <guid>https://www.wired.com/story/meta-hacked-users-draining-resources/</guid>
-      <pubDate>Wed, 06 Mar 2024 15:38:30 GMT</pubDate>
-    </item>
-    <item>
       <title>对于德克萨斯州的比特币矿场来说，蜜月已经结束</title>
       <link>https://www.wired.com/story/bitcoin-mining-texas-energy-grid/</link>
       <description><![CDATA[比特币开采的能源需求在这个曾经张开双臂欢迎这些公司的州引发了争议。]]></description>
@@ -46,13 +46,6 @@
       <description><![CDATA[开源工具允许任何人制作人工智能艺术。它们还被用来制作未经同意的深度伪造色情内容。]]></description>
       <guid>https://www.wired.com/story/dark-side-open-source-ai-image-generators/</guid>
       <pubDate>Wed, 06 Mar 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何关闭 Facebook 的双因素身份验证更改</title>
-      <link>https://www.wired.com/story/facebook-two-factor-authentication-2fa-change/</link>
-      <description><![CDATA[通过 Meta 更新的 2FA 流程，该公司现在会自动信任您经常使用的设备。]]></description>
-      <guid>https://www.wired.com/story/facebook-two-factor-authentication-2fa-change/</guid>
-      <pubDate>Tue, 05 Mar 2024 22:28:19 GMT</pubDate>
     </item>
     <item>
       <title>谷歌最终试图消灭人工智能标题诱饵</title>
@@ -76,13 +69,6 @@
       <pubDate>Tue, 05 Mar 2024 18:27:49 GMT</pubDate>
     </item>
     <item>
-      <title>纽约禁止 Airbnb 6 个月后，新泽西州表现出色</title>
-      <link>https://www.wired.com/story/6-months-after-new-york-banned-airbnb-new-jersey/</link>
-      <description><![CDATA[纽约去年对短期租赁实行了严格限制。租金仍然居高不下，一些前房东感到沮丧。与此同时，新泽西州的 Airbnb 租赁业务正在蓬勃发展。]]></description>
-      <guid>https://www.wired.com/story/6-months-after-new-york-banned-airbnb-new-jersey/</guid>
-      <pubDate>Tue, 05 Mar 2024 12:42:00 GMT</pubDate>
-    </item>
-    <item>
       <title>600 多名 Google 员工敦促公司终止与以色列科技会议的联系</title>
       <link>https://www.wired.com/story/google-workers-letter-cut-ties-israeli-tech-conference/</link>
       <description><![CDATA[《连线》杂志查阅了一封信，信中显示数百名谷歌员工要求该公司放弃对 MindTheTech 的赞助，MindTheTech 是本周在纽约举行的一场旨在推广以色列科技公司的会议。]]></description>
@@ -90,25 +76,39 @@
       <pubDate>Tue, 05 Mar 2024 01:58:19 GMT</pubDate>
     </item>
     <item>
-      <title>欧洲支持 Spotify，苹果被罚款 20 亿美元</title>
-      <link>https://www.wired.com/story/apple-spotify-2-billion-fine-eu/</link>
-      <description><![CDATA[音乐流媒体服务 Spotify 长期以来一直抱怨苹果的 App Store 规则对其业务施加了不公平的限制。今天欧盟委员会同意了，对苹果公司处以 20 亿美元的罚款。]]></description>
-      <guid>https://www.wired.com/story/apple-spotify-2-billion-fine-eu/</guid>
-      <pubDate>Mon, 04 Mar 2024 19:44:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>JavaScript 统治世界——甚至可能是字面上的意思</title>
-      <link>https://www.wired.com/story/javascript-runs-the-world-maybe-literally/</link>
-      <description><![CDATA[捍卫一种备受嘲笑的编程语言。]]></description>
-      <guid>https://www.wired.com/story/javascript-runs-the-world-maybe-literally/</guid>
-      <pubDate>Mon, 04 Mar 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>为什么科技工作面试变得如此噩梦</title>
       <link>https://www.wired.com/story/why-tech-job-interviews-became-such-a-nightmare/</link>
       <description><![CDATA[利率上升导致科技公司对潜在员工的要求变得更高。从低价录用到无休止的面试，程序员找工作的难度很大。]]></description>
       <guid>https://www.wired.com/story/why-tech-job-interviews-became-such-a-nightmare/</guid>
       <pubDate>Mon, 04 Mar 2024 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>埃隆·马斯克 OpenAI 诉讼的核心疯狂主张</title>
+      <link>https://www.wired.com/story/wild-claim-at-the-heart-of-elon-musks-openai-lawsuit/</link>
+      <description><![CDATA[埃隆·马斯克 (Elon Musk) 对 OpenAI 的诉讼取决于一项可疑的说法，即该公司已经开发出“通用人工智能”，并将其交给了微软。]]></description>
+      <guid>https://www.wired.com/story/wild-claim-at-the-heart-of-elon-musks-openai-lawsuit/</guid>
+      <pubDate>Fri, 01 Mar 2024 22:50:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>即时答复的聊天机器人令人惊叹的体验</title>
+      <link>https://www.wired.com/story/plaintext-groq-mindblowing-chatbot-answers-instantly/</link>
+      <description><![CDATA[初创公司 Groq 的人工智能芯片使聊天机器人几乎可以立即回答查询。这可能会为生成人工智能助手开辟全新的用例。]]></description>
+      <guid>https://www.wired.com/story/plaintext-groq-mindblowing-chatbot-answers-instantly/</guid>
+      <pubDate>Fri, 01 Mar 2024 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>埃隆·马斯克 (Elon Musk) 对一个发现 X 上存在仇恨言论的组织提起的诉讼进展不顺利</title>
+      <link>https://www.wired.com/story/elon-musk-lawsuit-hate-speech-x/</link>
+      <description><![CDATA[X 声称，打击数字仇恨中心因展示仇恨言论在平台上传播而花费了数百万美元。在周四的听证会上，一名联邦法官对这些说法表示怀疑。]]></description>
+      <guid>https://www.wired.com/story/elon-musk-lawsuit-hate-speech-x/</guid>
+      <pubDate>Fri, 01 Mar 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI蠕虫来了</title>
+      <link>https://www.wired.com/story/here-come-the-ai-worms/</link>
+      <description><![CDATA[安全研究人员在测试环境中创建了一种人工智能蠕虫，它可以在生成人工智能代理之间自动传播——可能会窃取数据并一路发送垃圾邮件。]]></description>
+      <guid>https://www.wired.com/story/here-come-the-ai-worms/</guid>
+      <pubDate>Fri, 01 Mar 2024 09:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
