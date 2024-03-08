@@ -4,110 +4,102 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Wed, 06 Mar 2024 18:09:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 18:08:55 GMT</lastBuildDate>
     <item>
-      <title>人工智能使手机能够根据面部线索检测抑郁症</title>
-      <link>https://www.upi.com/Health_News/2024/02/27/artificial-intelligence-depression-smartphones/4131708976594/</link>
-      <description><![CDATA[UPIMoodCapture 智能手机应用程序利用人工智能和面部图像处理软件，可以根据用户的面部线索确定用户何时感到沮丧。该应用程序由达特茅斯学院的研究人员开发，可以为早期诊断和实时数字心理健康支持铺平道路。在一项对 177 名被诊断为重度抑郁症的个体进行的研究中，该应用程序检测症状的准确率为 75%。摘自“人工智能使手机能够从面部线索检测抑郁症”
-UPI (02/27/24) Susan Kreimer 查看全文]]></description>
-      <guid>https://www.upi.com/Health_News/2024/02/27/artificial-intelligence-depression-smartphones/4131708976594/</guid>
-      <pubDate>Wed, 06 Mar 2024 18:09:31 GMT</pubDate>
+      <title>人工智能建立在过时、有缺陷的动作捕捉数据之上</title>
+      <link>https://spectrum.ieee.org/motion-capture-standards</link>
+      <description><![CDATA[IEEE Spectrum密歇根大学领导的研究小组的一项研究发现，用于设计一些基于人工智能的应用程序的动作捕捉数据存在缺陷，可能会危及预先设定的“典型”参数之外的用户。 “ 体型。除其他技术外，智能手表跌倒检测算法和自动驾驶车辆行人检测系统开发人员使用的基准和标准并不包括所有体型的代表。在对早在 20 世纪 30 年代的 278 项研究进行系统性文献回顾中，研究人员发现，大多数动作捕捉系统捕获的数据都来自“体重不显着”的身体健全的白人男性。一些研究使用了肢解尸体的数据。摘自“人工智能正在建立在过时的、有缺陷的运动捕捉数据之上”
+IEEE Spectrum (03/01/24) Julianne Pepitone 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/motion-capture-standards</guid>
+      <pubDate>Fri, 08 Mar 2024 18:08:55 GMT</pubDate>
     </item>
     <item>
-      <title>辅助技术扩展了四肢瘫痪志愿者的能力</title>
-      <link>https://bnnbreaking.com/breaking-news/health/revolutionizing-independence-carnegie-mellons-groundbreaking-assistive-technology-tested-by-quadriplegic-volunteer</link>
-      <description><![CDATA[BNN卡内基梅隆大学研究人员开发的头戴式辅助远程操作（HAT）系统使用户能够使用头部运动和语音识别技术来控制移动机器人完成日常任务。在最近为期一周的试验中，HAT 系统使四肢瘫痪的人能够喝水、自己吃饭、操作百叶窗等活动。研究参与者表示，在执行某些任务时，他们更喜欢辅助技术，而不是计算机屏幕控制。摘自“辅助技术扩展了四肢瘫痪志愿者的能力”
-BNN (02/27/24) 查看全文]]></description>
-      <guid>https://bnnbreaking.com/breaking-news/health/revolutionizing-independence-carnegie-mellons-groundbreaking-assistive-technology-tested-by-quadriplegic-volunteer</guid>
-      <pubDate>Wed, 06 Mar 2024 18:09:30 GMT</pubDate>
+      <title>无疤痕手术将活体皮肤打印到伤口中</title>
+      <link>https://newatlas.com/medical/3d-printing-skin-during-surgery/</link>
+      <description><![CDATA[New Atlas宾夕法尼亚州立大学的研究人员在手术过程中在老鼠的头部3D打印了全层活体皮肤。研究人员对皮肤的皮下组织和真皮层进行了生物打印，外表皮自行形成。两周内伤口几乎完全愈合。值得注意的是，3D 打印的皮下组织支持向下生长的形成，标志着毛囊发育的开始。摘自“无疤手术将活体皮肤打印到伤口中”
+新地图集 (03/04/24) Paul McClure 查看全文]]></description>
+      <guid>https://newatlas.com/medical/3d-printing-skin-during-surgery/</guid>
+      <pubDate>Fri, 08 Mar 2024 18:08:54 GMT</pubDate>
     </item>
     <item>
-      <title>GitHub 遭受数百万恶意存储库持续攻击</title>
-      <link>https://arstechnica.com/security/2024/02/github-besieged-by-millions-of-malicious-repositories-in-ongoing-attack/</link>
-      <description><![CDATA[Ars TechnicaGitHub 正在进行的网络攻击已导致数以百万计的恶意代码存储库使用恶意软件窃取开发人员的密码和加密货币。 Apiiro 安全研究人员 Matan Giladi 和 Gil David 认为，GitHub 的“自动化检测似乎错过了许多存储库”，“手动上传的存储库得以幸存。因为整个攻击链似乎大多是大规模自动化的，所以 1幸存下来的恶意代码库仍达数千个。”摘自“GitHub 在持续攻击中被数百万恶意代码库围困”
-Ars Technica (02/28/24) Dan Goodin 查看全文]]></description>
-      <guid>https://arstechnica.com/security/2024/02/github-besieged-by-millions-of-malicious-repositories-in-ongoing-attack/</guid>
-      <pubDate>Wed, 06 Mar 2024 18:09:30 GMT</pubDate>
+      <title>可穿戴设备可以在中风后重新训练大脑</title>
+      <link>https://www.medscape.com/viewarticle/promising-new-wearable-could-retrain-brain-after-stroke-2024a100044f?form=fpf</link>
+      <description><![CDATA[Medscape斯坦福大学和佐治亚理工学院研究人员开发的智能手套可以通过在家中提供振动触觉刺激来帮助缓解中风患者的痉挛。斯坦福大学的艾莉森·冈村说：“刺激向大脑发送额外的感觉信号，这有助于大脑解释并重新连接任何丢失的电路。”一项针对在八周内每天佩戴该设备三小时的患者进行的临床试验显示，在停止使用该设备两周后，一些患者的症状持续缓解或有所改善。摘自“可穿戴设备可以重新训练中风后的大脑”
+Medscape (03/04/24) Sarah Amandolare 查看全文]]></description>
+      <guid>https://www.medscape.com/viewarticle/promising-new-wearable-could-retrain-brain-after-stroke-2024a100044f?form=fpf</guid>
+      <pubDate>Fri, 08 Mar 2024 18:08:54 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能战争已经来临</title>
-      <link>https://www.bloomberg.com/features/2024-ai-warfare-project-maven/</link>
-      <description><![CDATA[彭博社最近几周，美国国防部的Maven智能系统被用来识别也门的火箭发射器和红海的水面舰艇，并协助缩小伊拉克和叙利亚的目标范围。 Maven 将卫星图像、传感器数据和地理定位数据合并到一个计算机界面中，利用机器学习来识别战场上的人员和设备，并在各种环境条件下检测武器工厂和其他感兴趣的物体。摘自《人工智能战争已经来临》
-彭博社 (02/28/24) 卡特里娜·曼森 查看完整内容文章 - 可能需要付费订阅]]></description>
-      <guid>https://www.bloomberg.com/features/2024-ai-warfare-project-maven/</guid>
-      <pubDate>Wed, 06 Mar 2024 18:09:29 GMT</pubDate>
+      <title>萨姆·奥尔特曼的眼部扫描世界币在西班牙被禁止</title>
+      <link>https://www.reuters.com/markets/currencies/spain-blocks-sam-altmans-eyeball-scanning-venture-worldcoin-ft-reports-2024-03-06/</link>
+      <description><![CDATA[路透社西班牙因该项目存在隐私风险而禁止 Worldcoin 长达三个月。该项目由 OpenAI 首席执行官 Sam Altman 于 2019 年共同创立，该项目通过扫描虹膜来换取数字 ID 和免费加密货币。据 Worldcoin 网站称，120 个国家/地区的超过 400 万人已报名使用 Worldcoin 的“orb”设备扫描虹膜。但该项目因收集、存储和使用个人数据而招致隐私活动人士的批评。 Altman 表示，除其他外，世界币的 ID 将允许用户在线证明自己是人类。来自“山姆·奥尔特曼的眼睛扫描世界币在西班牙被禁止”
+路透社 (03/06/24) Jaspreet Singh；尼基特·尼山；大卫·拉托纳；等 查看全文]]></description>
+      <guid>https://www.reuters.com/markets/currencies/spain-blocks-sam-altmans-eyeball-scanning-venture-worldcoin-ft-reports-2024-03-06/</guid>
+      <pubDate>Fri, 08 Mar 2024 18:08:54 GMT</pubDate>
     </item>
     <item>
-      <title>带有 256 个传感器的背心可检测心肌疾病的早期症状</title>
-      <link>https://interestingengineering.com/innovation/vest-with-256-sensors-to-detect-early-signs-of-heart-muscle-disease</link>
-      <description><![CDATA[有趣的工程通过监测心脏的电脉冲，心电图成像（ECGI）背心可用于肥厚型心肌病的早期诊断。该背心由英国伦敦大学学院的研究人员开发，配有 256 个嵌入式传感器，只需五分钟即可生成详细的心脏电图。在涉及 174 名患者和 37 名健康参与者的测试中，ECGI 背心发现 24% 的受试者存在电异常，其中包括一些无症状的人。摘自“带有 256 个传感器的背心，可检测心肌疾病的早期迹象” “
-有趣的工程 (02/29/24) Mrigakshi Dixit 查看全文]]></description>
-      <guid>https://interestingengineering.com/innovation/vest-with-256-sensors-to-detect-early-signs-of-heart-muscle-disease</guid>
-      <pubDate>Wed, 06 Mar 2024 18:09:29 GMT</pubDate>
+      <title>机器人船扬帆起航</title>
+      <link>https://www.bbc.com/news/science-environment-68486462</link>
+      <description><![CDATA[BBC在挪威，美国和英国 Ocean Infinity 的研究人员正在测试一艘配备摄像头、麦克风、雷达、GPS 和卫星技术的机器人船，该船最终将成为由 23 艘此类船组成的舰队的一部分为海上风电场运营商评估海底，并为石油和天然气公司进行水下基础设施检查。这艘 255 英尺长的船只有 16 名船员，随着更多角色使用类似游戏的控制和触摸屏远程执行，这一数字最终可能会进一步下降。减少船员数量可以让船舶更小，使用更少的燃料，碳足迹也更小。摘自《机器人船起航》
+BBC (03/06/24) 乔纳森·阿莫斯；丽贝卡·莫雷尔；艾莉森·弗朗西斯；等 查看全文]]></description>
+      <guid>https://www.bbc.com/news/science-environment-68486462</guid>
+      <pubDate>Fri, 08 Mar 2024 18:08:53 GMT</pubDate>
     </item>
     <item>
-      <title>无硅计算机使用光波，超越现有的分类系统</title>
-      <link>https://www.techradar.com/pro/a-single-optical-fiber-scientists-build-a-silicon-less-computer-that-use-light-waves-and-surpasses-existing-systems-for-classification-could-this-be-the-ultimate-ai-cpu</link>
-      <description><![CDATA[TechRadar德国莱布尼茨光子技术研究所 (Leibniz IPHT) 的研究人员开发了一种使用单根光纤来模拟众多神经网络计算能力的计算机，作为硅的替代品。莱布尼茨研究所智能光子学系主任马里奥·开姆尼茨 (Mario Chemnitz) 表示：“通过利用光独特的物理特性，该系统将能够在未来快速高效地处理大量数据。”&lt; br /&gt;摘自《无硅计算机利用光波，超越现有的分类系统》
-TechRadar (03/01/24) 韦恩·威廉姆斯 查看完整文章]]></description>
-      <guid>https://www.techradar.com/pro/a-single-optical-fiber-scientists-build-a-silicon-less-computer-that-use-light-waves-and-surpasses-existing-systems-for-classification-could-this-be-the-ultimate-ai-cpu</guid>
-      <pubDate>Wed, 06 Mar 2024 18:09:28 GMT</pubDate>
+      <title>数据中心很快就会在月球上破土动工</title>
+      <link>https://www.eetimes.com/data-centers-could-soon-break-lunar-ground/</link>
+      <description><![CDATA[EE Times当 Intuitive Machines 的 Nova-C 着陆器降落在月球南极时，Lonestar Data Holdings 的原型月球数据中心就位于该着陆器上，该数据中心存储在着陆器机载计算机上的软件应用程序中。 Lonestar 报告称，其在月球飞行期间和月球表面传输、存储和接收数字文档的测试取得了成功。今年晚些时候，Lonestar 计划将具有 8 TB 存储空间的 Yocto Linux 系统发送到月球表面。摘自“数据中心即将突破月球地面”
+EE 时报 (03/04/24) David Ariosto 查看全文]]></description>
+      <guid>https://www.eetimes.com/data-centers-could-soon-break-lunar-ground/</guid>
+      <pubDate>Fri, 08 Mar 2024 18:08:53 GMT</pubDate>
     </item>
     <item>
-      <title>丰田的软人形机器人用它的整个身体来拾取东西</title>
-      <link>https://newatlas.com/robotics/toyota-punyo-humanoid-soft-robot/</link>
-      <description><![CDATA[New Atlas软体人形机器人利用其整个身体来拥抱、拾取和搬运物体。这款躯干机器人名为 Punyo，由丰田研究集团的机器人专家开发，具有由抓握材料制成的硬金属骨架、带有触觉传感器的织物覆盖物，使其能够感觉到它拥抱或携带的物体、摄像头监控的充气垫它手臂的末端，以及从肩膀到手腕的 13 个充气气囊，根据分配的任务单独调节压力。摘自“丰田的软人形机器人用全身拾取东西” “
-新地图集 (02/28/24) Loz Blain 查看全文]]></description>
-      <guid>https://newatlas.com/robotics/toyota-punyo-humanoid-soft-robot/</guid>
-      <pubDate>Wed, 06 Mar 2024 18:09:28 GMT</pubDate>
+      <title>您的医生办公室可能被窃听</title>
+      <link>https://www.forbes.com/sites/jessepines/2024/03/04/your-doctors-office-might-be-bugged-heres-why/</link>
+      <description><![CDATA[福布斯更多的医生实践正在实施环境人工智能抄写，其中人工智能聆听患者的就诊情况并写下总结它们的临床记录。北加州永久医疗集团 (Permanente Medical Group) 最近的一项研究显示，自 10 月份以来，已有 3,400 多名医生在超过 300,000 名患者就诊中使用了环境人工智能抄写员。医生报告说，该技术减少了下班后写笔记的时间，并允许与患者进行更有意义的互动。然而，它的使用引起了对安全、隐私和文档错误的担忧。来自“你的医生办公室可能被窃听”
+福布斯 (03/04/24) 杰西·派恩斯 查看全文]]></description>
+      <guid>https://www.forbes.com/sites/jessepines/2024/03/04/your-doctors-office-might-be-bugged-heres-why/</guid>
+      <pubDate>Fri, 08 Mar 2024 18:08:53 GMT</pubDate>
     </item>
     <item>
-      <title>乌克兰的“手机中的城市”应用程序在 GLOMOs 上荣获最高荣誉</title>
-      <link>https://www.kyivpost.com/post/28879</link>
-      <description><![CDATA[基辅邮报（乌克兰）被称为“手机中的城市”，基辅数字应用程序在世界移动大会的全球移动大奖上荣获“最佳城市创新”和“最佳数字生活移动创新”奖。该应用程序允许乌克兰基辅的居民补充交通卡、支付停车费、为城市改善项目投票以及接收住房和社区服务通知等。自与俄罗斯的战争开始以来，该应用程序还提供有关防空洞位置、军事行动、志愿者援助和警报消息等信息。来自“乌克兰的‘手机中的城市’” ；应用程序荣获 GLOMO 最高荣誉”
-基辅邮报（乌克兰）(03/01/24) 查看全文]]></description>
-      <guid>https://www.kyivpost.com/post/28879</guid>
-      <pubDate>Wed, 06 Mar 2024 18:09:27 GMT</pubDate>
+      <title>地球数字孪生模拟可能发生的自然灾害</title>
+      <link>https://www.space.com/digital-twin-earth-natural-disaster-climate-change</link>
+      <description><![CDATA[Space.com意大利国家研究委员会卢卡·布罗卡（Luca Brocca）领导的研究人员创建了地球的数字孪生体，使任何人都可以对地中海盆地陆地水循环的自然灾害场景进行交互式模拟。该模型是通过将卫星数据与土壤湿度、降水、雪深、蒸发和河流流量测量相结合而创建的。洪水和山体滑坡的模拟有助于为水资源管理和抗灾策略提供信息。摘自“地球数字孪生模拟可能的自然灾害”
+Space.com (03/05/24) Meredith Garofalo 查看全文]]></description>
+      <guid>https://www.space.com/digital-twin-earth-natural-disaster-climate-change</guid>
+      <pubDate>Fri, 08 Mar 2024 18:08:52 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能的狂热使保持高耗电数据站点绿色的努力变得更加复杂</title>
-      <link>https://www.nytimes.com/2024/02/29/business/artificial-intelligence-data-centers-green-power.html</link>
-      <description><![CDATA[纽约时报数据中心以前建在互联网用户附近，但靠近用户的必要性已经降低，而获得电源已成为优先考虑的事项。开发已从成熟的一二线市场进一步扩展到土地廉价且电力充足的地区。北美数据中心管理负责人吉姆·克里根 (Jim Kerrigan) 表示：“任何拥有重要电力来源的人现在都已成为新的数据中心市场。”站点绿色”
-纽约时报 (02/29/24) Patrick Sisson 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/02/29/business/artificial-intelligence-data-centers-green-power.html</guid>
-      <pubDate>Wed, 06 Mar 2024 18:09:27 GMT</pubDate>
+      <title>智能眼镜使用声纳来确定你正在看的地方</title>
+      <link>https://www.newscientist.com/article/2418742-smart-glasses-use-sonar-to-work-out-where-youre-looking/</link>
+      <description><![CDATA[新科学家康奈尔大学的研究人员开发了智能眼镜，可以使用声音而不是摄像头来跟踪用户的眼球运动。 GazeTrak 的每只眼睛都有一个朝向脸部的小型扬声器，每侧有四个麦克风。人工智能模型对眼镜拾取的声音进行分析，根据眼球和眼睑形状的不一致来确定用户的眼睛指向哪个方向。 GazeTrak 的功耗比其他运动检测技术低 95%。摘自“智能眼镜使用声纳来确定您正在看的位置”
+新科学家 (03/04/24) 马修·斯帕克斯 查看完整文章 - 可能需要付费订阅]]></description>
+      <guid>https://www.newscientist.com/article/2418742-smart-glasses-use-sonar-to-work-out-where-youre-looking/</guid>
+      <pubDate>Fri, 08 Mar 2024 18:08:52 GMT</pubDate>
     </item>
     <item>
-      <title>Anycubic 3D 打印机遭到黑客攻击，试图通知所有者安全漏洞</title>
-      <link>https://www.tomshardware.com/3d-printing/anycubic-3d-printers-hacked-in-bold-attempt-to-inform-owners-of-security-hole</link>
-      <description><![CDATA[Tom&#39;s Hardware据报道，黑客在 Anycubic 3D 打印机中发现了安全漏洞，并正在打印机显示屏上使用自述文件来告知用户该问题，并鼓励他们禁用互联网连接，直到发布补丁为止。黑客表示，他们已就发现的两个关键安全漏洞联系了 Anycubic，但在没有收到该公司的回复后，他们直接通知用户。摘自“Anycubic 3D 打印机遭到黑客攻击，试图通知所有者”安全漏洞”
-汤姆的硬件 (03/01/24) Christopher Harper 查看全文]]></description>
-      <guid>https://www.tomshardware.com/3d-printing/anycubic-3d-printers-hacked-in-bold-attempt-to-inform-owners-of-security-hole</guid>
-      <pubDate>Wed, 06 Mar 2024 18:09:26 GMT</pubDate>
+      <title>Linux 市场份额首次突破 4%； macOS 主导地位下降</title>
+      <link>https://arstechnica.com/gadgets/2024/03/linux-continues-growing-market-share-reaches-4-of-desktops/</link>
+      <description><![CDATA[Ars TechnicaStatcounter 的桌面操作系统使用统计数据显示，Linux 的全球市场份额从 2023 年 6 月的 3% 跃升至 2024 年 2 月的 4.03%。如果将 ChromeOS 纳入 Linux 操作系统，则市场份额为 6.34%。 ChromeOS 的全球市场份额下降至 2.27%。 2 月份 Windows 全球市场份额上升至 72.17%，macOS 下降至 15.42%。摘自《Linux 市场份额首次超过 4%；macOS 主导地位下降》
+Ars Technica (03/05/24) Scharon Harding 查看全文]]></description>
+      <guid>https://arstechnica.com/gadgets/2024/03/linux-continues-growing-market-share-reaches-4-of-desktops/</guid>
+      <pubDate>Fri, 08 Mar 2024 18:08:52 GMT</pubDate>
     </item>
     <item>
-      <title>恶意软件蠕虫可以毒害 ChatGPT、Gemini 支持的助手</title>
-      <link>https://www.pcmag.com/news/malware-worm-poison-chatgpt-gemini-powered-assistants</link>
-      <description><![CDATA[PC 杂志康奈尔大学、Intuit 和以色列理工学院的研究人员开发了一种“零点击”人工智能蠕虫，能够通过文本和图像输入启动“对抗性自我复制提示”技术来利用 OpenAI 的 ChatGPT-4、Google 的 Gemini 和 LLaVA 开源 AI 模型。在对受影响的人工智能电子邮件助手的测试中，研究人员发现该蠕虫可以提取个人数据、发起网络钓鱼攻击并发送垃圾邮件。研究人员将自我复制恶意软件的成功归因于“糟糕的架构设计”。 来自“恶意软件蠕虫可以毒害 ChatGPT，Gemini 支持的助手”
-PC 杂志 (03/01/24) Kate Irwin 查看全文]]></description>
-      <guid>https://www.pcmag.com/news/malware-worm-poison-chatgpt-gemini-powered-assistants</guid>
-      <pubDate>Wed, 06 Mar 2024 18:09:26 GMT</pubDate>
+      <title>AutoCAD 的普及者约翰·沃克 (John Walker) 去世，享年 74 岁</title>
+      <link>https://www.nytimes.com/2024/03/06/technology/john-walker-dead.html</link>
+      <description><![CDATA[《纽约时报》欧特克 (Autodesk) 前首席执行官约翰·沃克 (John Walker) 于 2 月 2 日在瑞士纳沙泰尔逝世，该公司将 AutoCAD 软件程序带给了设计和建筑大众。 74 岁。沃克因其在商业上的成功和作为程序员的技能而在科技圈中广为人知。他还因开发了计算机病毒的早期原型而受到赞誉。摘自“普及 AutoCAD 的约翰·沃克，逝世于 74 岁”
+纽约时报 (03/07/24) Alex Williams 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/03/06/technology/john-walker-dead.html</guid>
+      <pubDate>Fri, 08 Mar 2024 18:08:51 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌设立 500 万美元奖金以寻找量子计算机的用途</title>
-      <link>https://www.newscientist.com/article/2420137-google-launches-5m-prize-to-find-actual-uses-for-quantum-computers/</link>
-      <description><![CDATA[新科学家Google 和 XPRIZE 基金会发起了一项为期三年的竞赛，奖励 500 万美元，奖励那些使用量子计算机开发可以解决现实世界问题的算法的研究人员，例如联合国可持续发展目标。研究人员不需要在实践中解决问题，而是解释如何应用算法以及所需的量子计算规范。摘自“Google 颁发 500 万美元奖金以寻找量子计算机的用途”
-新科学家 (03/04/24) Alex Wilkins 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.newscientist.com/article/2420137-google-launches-5m-prize-to-find-actual-uses-for-quantum-computers/</guid>
-      <pubDate>Wed, 06 Mar 2024 18:09:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>超过 200 万篇研究论文从互联网上消失</title>
-      <link>https://www.nature.com/articles/d41586-024-00616-5</link>
-      <description><![CDATA[Nature英国伦敦大学的 Martin Eve 评估了 7,438,037 篇带有数字对象标识符 (DOI) 的研究论文是否已保存在档案中，并确定大约 28%（即超过 200 万篇）没有保存。尽管拥有有效的 DOI，但仍保存在主要的数字档案中。只有 58% 的样本至少存储在一个档案中。然而，Eve 的研究仅关注带有 DOI 的文章，并没有涉及对每个数字存储库的搜索。摘自《超过 200 万篇研究论文从互联网上消失》
-自然 (03/04/24) 莎拉·怀尔德 查看全文]]></description>
-      <guid>https://www.nature.com/articles/d41586-024-00616-5</guid>
-      <pubDate>Wed, 06 Mar 2024 18:09:25 GMT</pubDate>
+      <title>“自毁”芯片可以减少假冒行为</title>
+      <link>https://www.techradar.com/pro/self-destruct-chips-could-help-combat-a-criminal-plague-that-costs-businesses-billions-every-year-new-technique-could-mitigate-counterfeiting-through-electromigration</link>
+      <description><![CDATA[TechRadar由佛蒙特大学 Eric Hunt-Schroeder 领导的团队开发的“自毁”芯片可以防止假冒芯片进入市场。这些芯片会生成自己独特的数字指纹或物理不可克隆功能（PUF），以确保其真实性。如果受到损害，PUF 会使用两种电路自杀方法自我毁灭，这两种方法都涉及电压增加，从而导致电迁移或快速的时间相关电介质击穿。摘自“‘自毁’芯片可以缓解仿冒”
+TechRadar (03/07/24) 韦恩·威廉姆斯 查看全文]]></description>
+      <guid>https://www.techradar.com/pro/self-destruct-chips-could-help-combat-a-criminal-plague-that-costs-businesses-billions-every-year-new-technique-could-mitigate-counterfeiting-through-electromigration</guid>
+      <pubDate>Fri, 08 Mar 2024 18:08:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
