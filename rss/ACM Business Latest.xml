@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Fri, 08 Mar 2024 06:09:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 09:07:03 GMT</lastBuildDate>
+    <item>
+      <title>苹果可能成为欧洲严厉新技术法的第一个目标</title>
+      <link>https://www.wired.com/story/apple-target-dma-europe-tough-new-law/</link>
+      <description><![CDATA[欧盟严厉的新《数字市场法案》的一位设计者表示，苹果将成为根据该法案进行调查的合乎逻辑的第一个候选者，该法案旨在“打破开放”的技术平台。]]></description>
+      <guid>https://www.wired.com/story/apple-target-dma-europe-tough-new-law/</guid>
+      <pubDate>Fri, 08 Mar 2024 07:05:47 GMT</pubDate>
+    </item>
     <item>
       <title>恐惧激发埃隆·马斯克和萨姆·奥尔特曼创建 OpenAI</title>
       <link>https://www.wired.com/story/the-fear-that-inspired-elon-musk-sam-altman-openai/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[X 声称，打击数字仇恨中心因展示仇恨言论在平台上传播而花费了数百万美元。在周四的听证会上，一名联邦法官对这些说法表示怀疑。]]></description>
       <guid>https://www.wired.com/story/elon-musk-lawsuit-hate-speech-x/</guid>
       <pubDate>Fri, 01 Mar 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI蠕虫来了</title>
-      <link>https://www.wired.com/story/here-come-the-ai-worms/</link>
-      <description><![CDATA[安全研究人员在测试环境中创建了一种人工智能蠕虫，它可以在生成人工智能代理之间自动传播——可能会窃取数据并一路发送垃圾邮件。]]></description>
-      <guid>https://www.wired.com/story/here-come-the-ai-worms/</guid>
-      <pubDate>Fri, 01 Mar 2024 09:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
