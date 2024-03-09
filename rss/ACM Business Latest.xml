@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Fri, 08 Mar 2024 21:06:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2024 00:30:04 GMT</lastBuildDate>
+    <item>
+      <title>Sam Altman 重返 OpenAI 董事会</title>
+      <link>https://www.wired.com/story/sam-altman-is-reinstated-to-openais-board/</link>
+      <description><![CDATA[周五，OpenAI 任命其被解雇后重新聘用的首席执行官萨姆·奥尔特曼 (Sam Altman) 进入董事会。它还增加了三名在索尼、Meta 和比尔及梅琳达·盖茨基金会拥有管理经验的女性。]]></description>
+      <guid>https://www.wired.com/story/sam-altman-is-reinstated-to-openais-board/</guid>
+      <pubDate>Fri, 08 Mar 2024 22:51:57 GMT</pubDate>
+    </item>
     <item>
       <title>佛罗里达州中学生因涉嫌制作同学的 Deepfake 裸体而被捕</title>
       <link>https://www.wired.com/story/florida-teens-arrested-deepfake-nudes-classmates/</link>
@@ -22,14 +29,14 @@
     <item>
       <title>苹果可能成为欧洲严厉新技术法的第一个目标</title>
       <link>https://www.wired.com/story/apple-target-dma-europe-tough-new-law/</link>
-      <description><![CDATA[欧盟严厉的新《数字市场法案》的一位设计者表示，苹果将成为根据该法案进行调查的合乎逻辑的第一个候选者，该法案旨在“打破开放”的技术平台。]]></description>
+      <description><![CDATA[欧盟严厉的新《数字市场法案》的一位设计者表示，苹果公司将成为根据该法案进行调查的第一候选者，该法案旨在“打破开放”的技术平台。]]></description>
       <guid>https://www.wired.com/story/apple-target-dma-europe-tough-new-law/</guid>
       <pubDate>Fri, 08 Mar 2024 07:05:47 GMT</pubDate>
     </item>
     <item>
       <title>恐惧激发埃隆·马斯克和萨姆·奥尔特曼创建 OpenAI</title>
       <link>https://www.wired.com/story/the-fear-that-inspired-elon-musk-sam-altman-openai/</link>
-      <description><![CDATA[OpenAI 发布的反驳埃隆·马斯克诉讼的电子邮件表明，他、萨姆·奥尔特曼和其他联合创始人是如何出于对谷歌主导地位的恐惧而动机的。]]></description>
+      <description><![CDATA[OpenAI 发布的反驳埃隆·马斯克诉讼的电子邮件表明，他、山姆·奥尔特曼和其他联合创始人是如何出于对谷歌主导地位的恐惧而动机的。]]></description>
       <guid>https://www.wired.com/story/the-fear-that-inspired-elon-musk-sam-altman-openai/</guid>
       <pubDate>Thu, 07 Mar 2024 17:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[世界各地的人们报告称，Meta 的社交平台 Facebook、Instagram 和 Threads 今天早上出现了约两个小时的宕机。]]></description>
       <guid>https://www.wired.com/story/facebook-instagram-whatsapp-and-threads-back-online-outage/</guid>
       <pubDate>Tue, 05 Mar 2024 18:27:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>纽约禁止 Airbnb 6 个月后，新泽西州表现出色</title>
-      <link>https://www.wired.com/story/6-months-after-new-york-banned-airbnb-new-jersey/</link>
-      <description><![CDATA[纽约去年对短期租赁实行了严格限制。租金仍然居高不下，一些前房东感到沮丧。与此同时，新泽西州的 Airbnb 租赁业务正在蓬勃发展。]]></description>
-      <guid>https://www.wired.com/story/6-months-after-new-york-banned-airbnb-new-jersey/</guid>
-      <pubDate>Tue, 05 Mar 2024 12:42:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
