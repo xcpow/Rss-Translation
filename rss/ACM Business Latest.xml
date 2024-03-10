@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Sun, 10 Mar 2024 12:10:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Mar 2024 15:04:58 GMT</lastBuildDate>
+    <item>
+      <title>选择性遗忘可以帮助人工智能更好地学习</title>
+      <link>https://www.wired.com/story/how-selective-forgetting-can-help-ai-learn-better/</link>
+      <description><![CDATA[在训练过程中删除关键信息可以让机器学习模型更快、更轻松地学习新语言。]]></description>
+      <guid>https://www.wired.com/story/how-selective-forgetting-can-help-ai-learn-better/</guid>
+      <pubDate>Sun, 10 Mar 2024 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>有影响力的人通过付费推广来自中国的设计师仿冒品</title>
       <link>https://www.wired.com/story/influencers-paid-promote-designer-knockoffs-from-china/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[周二，谷歌宣布做出改变，以打击搜索中的人工智能垃圾邮件。一位搜索引擎优化专家表示，这些新规则可能“改变一切”。]]></description>
       <guid>https://www.wired.com/story/google-search-artificial-intelligence-clickbait-spam-crackdown/</guid>
       <pubDate>Tue, 05 Mar 2024 21:16:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Registered Agents Inc. 内部，这家神秘公司突破了商业隐私的极限</title>
-      <link>https://www.wired.com/story/registered-agents-inc-fake-personas/</link>
-      <description><![CDATA[Registered Agents Inc. 多年来一直允许企业以匿名方式进行注册。 《连线》杂志的一项调查显示，其神秘创始人已将这种做法发挥到了极致。]]></description>
-      <guid>https://www.wired.com/story/registered-agents-inc-fake-personas/</guid>
-      <pubDate>Tue, 05 Mar 2024 19:17:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
