@@ -4,102 +4,102 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Fri, 08 Mar 2024 18:08:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 15:08:23 GMT</lastBuildDate>
     <item>
-      <title>人工智能建立在过时、有缺陷的动作捕捉数据之上</title>
-      <link>https://spectrum.ieee.org/motion-capture-standards</link>
-      <description><![CDATA[IEEE Spectrum密歇根大学领导的研究小组的一项研究发现，用于设计一些基于人工智能的应用程序的动作捕捉数据存在缺陷，可能会危及预先设定的“典型”参数之外的用户。 “ 体型。除其他技术外，智能手表跌倒检测算法和自动驾驶车辆行人检测系统开发人员使用的基准和标准并不包括所有体型的代表。在对早在 20 世纪 30 年代的 278 项研究进行系统性文献回顾中，研究人员发现，大多数动作捕捉系统捕获的数据都来自“体重不显着”的身体健全的白人男性。一些研究使用了肢解尸体的数据。摘自“人工智能正在建立在过时的、有缺陷的运动捕捉数据之上”
-IEEE Spectrum (03/01/24) Julianne Pepitone 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/motion-capture-standards</guid>
-      <pubDate>Fri, 08 Mar 2024 18:08:55 GMT</pubDate>
+      <title>紧凑型芯片提高了计时精度</title>
+      <link>https://www.nist.gov/news-events/news/2024/03/shrinking-technology-expanding-horizons-compact-chips-advance-precision</link>
+      <description><![CDATA[NIST美国国家标准与技术研究院 (NIST) 的研究人员开发了紧凑型芯片，可以将光转换为微波，将定时抖动降低至 15 飞秒，并允许更稳定、更精确的微波信号。研究人员将半导体激光器发出的光引导到参考腔中，其中频率梳将高频光转换为低音调微波信号。 NIST 的弗兰克·昆兰 (Frank Quinlan) 表示，“这项研究的大部分内容是我们如何通过缩小组件的尺寸并使一切变得更容易访问来利用光信号的优势。”来自“紧凑型芯片推进精确计时”
+NIST (03/06/24) 查看全文]]></description>
+      <guid>https://www.nist.gov/news-events/news/2024/03/shrinking-technology-expanding-horizons-compact-chips-advance-precision</guid>
+      <pubDate>Mon, 11 Mar 2024 15:08:23 GMT</pubDate>
     </item>
     <item>
-      <title>无疤痕手术将活体皮肤打印到伤口中</title>
-      <link>https://newatlas.com/medical/3d-printing-skin-during-surgery/</link>
-      <description><![CDATA[New Atlas宾夕法尼亚州立大学的研究人员在手术过程中在老鼠的头部3D打印了全层活体皮肤。研究人员对皮肤的皮下组织和真皮层进行了生物打印，外表皮自行形成。两周内伤口几乎完全愈合。值得注意的是，3D 打印的皮下组织支持向下生长的形成，标志着毛囊发育的开始。摘自“无疤手术将活体皮肤打印到伤口中”
-新地图集 (03/04/24) Paul McClure 查看全文]]></description>
-      <guid>https://newatlas.com/medical/3d-printing-skin-during-surgery/</guid>
-      <pubDate>Fri, 08 Mar 2024 18:08:54 GMT</pubDate>
+      <title>欧洲最大的 3D 打印建筑在短短 140 小时内拔地而起</title>
+      <link>https://newatlas.com/architecture/wave-house-3d-print-europe-largest/</link>
+      <description><![CDATA[New Atlas位于德国海德堡的 6,600 平方英尺的波浪屋是欧洲最大的 3D 打印建筑。该数据中心由 Peri 3D Construction 使用 COBOD BOD2 打印机建造，该打印机可挤出一层可回收的水泥状混合物。波浪屋因其墙壁的波浪设计而得名，在大约 140 小时内建成，随后安装了屋顶、门、照明、布线和数据中心组件。外部由机器人绘制。摘自《欧洲最大的 3D 打印建筑在短短 140 小时内崛起》
+新地图集 (03/06/24) Adam Williams 查看全文]]></description>
+      <guid>https://newatlas.com/architecture/wave-house-3d-print-europe-largest/</guid>
+      <pubDate>Mon, 11 Mar 2024 15:08:22 GMT</pubDate>
     </item>
     <item>
-      <title>可穿戴设备可以在中风后重新训练大脑</title>
-      <link>https://www.medscape.com/viewarticle/promising-new-wearable-could-retrain-brain-after-stroke-2024a100044f?form=fpf</link>
-      <description><![CDATA[Medscape斯坦福大学和佐治亚理工学院研究人员开发的智能手套可以通过在家中提供振动触觉刺激来帮助缓解中风患者的痉挛。斯坦福大学的艾莉森·冈村说：“刺激向大脑发送额外的感觉信号，这有助于大脑解释并重新连接任何丢失的电路。”一项针对在八周内每天佩戴该设备三小时的患者进行的临床试验显示，在停止使用该设备两周后，一些患者的症状持续缓解或有所改善。摘自“可穿戴设备可以重新训练中风后的大脑”
-Medscape (03/04/24) Sarah Amandolare 查看全文]]></description>
-      <guid>https://www.medscape.com/viewarticle/promising-new-wearable-could-retrain-brain-after-stroke-2024a100044f?form=fpf</guid>
-      <pubDate>Fri, 08 Mar 2024 18:08:54 GMT</pubDate>
+      <title>诚聘 Java 开发人员</title>
+      <link>https://www.infoworld.com/article/3713288/java-developers-wanted-report-says.html</link>
+      <description><![CDATA[信息世界Perforce Software 的 Java 开发人员生产力报告基于对 72 个国家/地区数百名 Java 开发人员、架构师和团队领导的调查，显示 60% 的受访者表示他们的公司今年将增加 Java 开发人员，42% 表示他们的公司将增加 Java 工具预算。调查还发现，11% 的人使用 Java 21，24% 的人使用 Java 8，18% 的人使用 Java 11。来自“Java Developers Wanted”
+InfoWorld (03/06/24) Paul Krill 查看全文]]></description>
+      <guid>https://www.infoworld.com/article/3713288/java-developers-wanted-report-says.html</guid>
+      <pubDate>Mon, 11 Mar 2024 15:08:22 GMT</pubDate>
     </item>
     <item>
-      <title>萨姆·奥尔特曼的眼部扫描世界币在西班牙被禁止</title>
-      <link>https://www.reuters.com/markets/currencies/spain-blocks-sam-altmans-eyeball-scanning-venture-worldcoin-ft-reports-2024-03-06/</link>
-      <description><![CDATA[路透社西班牙因该项目存在隐私风险而禁止 Worldcoin 长达三个月。该项目由 OpenAI 首席执行官 Sam Altman 于 2019 年共同创立，该项目通过扫描虹膜来换取数字 ID 和免费加密货币。据 Worldcoin 网站称，120 个国家/地区的超过 400 万人已报名使用 Worldcoin 的“orb”设备扫描虹膜。但该项目因收集、存储和使用个人数据而招致隐私活动人士的批评。 Altman 表示，除其他外，世界币的 ID 将允许用户在线证明自己是人类。来自“山姆·奥尔特曼的眼睛扫描世界币在西班牙被禁止”
-路透社 (03/06/24) Jaspreet Singh；尼基特·尼山；大卫·拉托纳；等 查看全文]]></description>
-      <guid>https://www.reuters.com/markets/currencies/spain-blocks-sam-altmans-eyeball-scanning-venture-worldcoin-ft-reports-2024-03-06/</guid>
-      <pubDate>Fri, 08 Mar 2024 18:08:54 GMT</pubDate>
+      <title>研究人员使用 ASCII Art 越狱聊天机器人</title>
+      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-jailbreak-ai-chatbots-with-ascii-art-artprompt-bypasses-safety-measures-to-unlock-malicious-queries</link>
+      <description><![CDATA[Tom&#39;s HardwareArtPrompt 由华盛顿和芝加哥的研究人员开发，可以绕过大型语言模型 (LLM) 的内置安全功能。该工具生成 ASCII 艺术提示，让人工智能聊天机器人响应它们应该拒绝的查询，例如那些引用仇恨、暴力、非法或有害内容的查询。 ArtPrompt 将“安全词”（拒绝提交的原因）替换为该词的 ASCII 艺术表示，这不会触发阻止 LLM 响应的道德或安全措施。来自“研究人员使用 ASCII 艺术越狱聊天机器人”
+汤姆的硬件 (03/07/24) 马克·泰森 查看全文]]></description>
+      <guid>https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-jailbreak-ai-chatbots-with-ascii-art-artprompt-bypasses-safety-measures-to-unlock-malicious-queries</guid>
+      <pubDate>Mon, 11 Mar 2024 15:08:21 GMT</pubDate>
     </item>
     <item>
-      <title>机器人船扬帆起航</title>
-      <link>https://www.bbc.com/news/science-environment-68486462</link>
-      <description><![CDATA[BBC在挪威，美国和英国 Ocean Infinity 的研究人员正在测试一艘配备摄像头、麦克风、雷达、GPS 和卫星技术的机器人船，该船最终将成为由 23 艘此类船组成的舰队的一部分为海上风电场运营商评估海底，并为石油和天然气公司进行水下基础设施检查。这艘 255 英尺长的船只有 16 名船员，随着更多角色使用类似游戏的控制和触摸屏远程执行，这一数字最终可能会进一步下降。减少船员数量可以让船舶更小，使用更少的燃料，碳足迹也更小。摘自《机器人船起航》
-BBC (03/06/24) 乔纳森·阿莫斯；丽贝卡·莫雷尔；艾莉森·弗朗西斯；等 查看全文]]></description>
-      <guid>https://www.bbc.com/news/science-environment-68486462</guid>
-      <pubDate>Fri, 08 Mar 2024 18:08:53 GMT</pubDate>
+      <title>无人机击败了现场急救人员</title>
+      <link>https://spectrum.ieee.org/police-drones</link>
+      <description><![CDATA[IEEE Spectrum加利福尼亚州弗里蒙特市警察和消防部门发起的无人机急救计划，为调度员提供从无人机机载摄像机收集的信息，以便部署适当的资源，并且急救人员知道什么他们在到达之前正在处理。 DJI Matrice 30T 无人机在到达现场时会自动运行，一旦到达现场，操作员就会使用经过改造的 PlayStation 5 控制器手动操作无人机。摘自“无人机击败急救人员”前往现场》
+IEEE Spectrum (03/07/24) Edd Gent 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/police-drones</guid>
+      <pubDate>Mon, 11 Mar 2024 15:08:21 GMT</pubDate>
     </item>
     <item>
-      <title>数据中心很快就会在月球上破土动工</title>
-      <link>https://www.eetimes.com/data-centers-could-soon-break-lunar-ground/</link>
-      <description><![CDATA[EE Times当 Intuitive Machines 的 Nova-C 着陆器降落在月球南极时，Lonestar Data Holdings 的原型月球数据中心就位于该着陆器上，该数据中心存储在着陆器机载计算机上的软件应用程序中。 Lonestar 报告称，其在月球飞行期间和月球表面传输、存储和接收数字文档的测试取得了成功。今年晚些时候，Lonestar 计划将具有 8 TB 存储空间的 Yocto Linux 系统发送到月球表面。摘自“数据中心即将突破月球地面”
-EE 时报 (03/04/24) David Ariosto 查看全文]]></description>
-      <guid>https://www.eetimes.com/data-centers-could-soon-break-lunar-ground/</guid>
-      <pubDate>Fri, 08 Mar 2024 18:08:53 GMT</pubDate>
+      <title>黑客攻破了微软的关键系统</title>
+      <link>https://www.cnn.com/2024/03/08/tech/microsoft-russia-hack/index.html</link>
+      <description><![CDATA[CNN微软透露，俄罗斯国家支持的黑客对其系统的破坏比一月份首次披露时想象的要广泛。微软认为，黑客利用从微软公司电子邮件系统窃取的信息来访问“公司的一些源代码存储库和内部系统”。该公司在向美国证券交易委员会提交的文件中表示。随附的一篇博客文章称，该黑客组织可能正在利用其窃取的信息“积累攻击区域的图片并增强其攻击能力。”摘自“黑客破坏了 Microsoft 系统的关键密钥” “
+美国有线电视新闻网 (CNN) (03/08/24) Sean Lyngaas 查看全文]]></description>
+      <guid>https://www.cnn.com/2024/03/08/tech/microsoft-russia-hack/index.html</guid>
+      <pubDate>Mon, 11 Mar 2024 15:08:20 GMT</pubDate>
     </item>
     <item>
-      <title>您的医生办公室可能被窃听</title>
-      <link>https://www.forbes.com/sites/jessepines/2024/03/04/your-doctors-office-might-be-bugged-heres-why/</link>
-      <description><![CDATA[福布斯更多的医生实践正在实施环境人工智能抄写，其中人工智能聆听患者的就诊情况并写下总结它们的临床记录。北加州永久医疗集团 (Permanente Medical Group) 最近的一项研究显示，自 10 月份以来，已有 3,400 多名医生在超过 300,000 名患者就诊中使用了环境人工智能抄写员。医生报告说，该技术减少了下班后写笔记的时间，并允许与患者进行更有意义的互动。然而，它的使用引起了对安全、隐私和文档错误的担忧。来自“你的医生办公室可能被窃听”
-福布斯 (03/04/24) 杰西·派恩斯 查看全文]]></description>
-      <guid>https://www.forbes.com/sites/jessepines/2024/03/04/your-doctors-office-might-be-bugged-heres-why/</guid>
-      <pubDate>Fri, 08 Mar 2024 18:08:53 GMT</pubDate>
+      <title>D-Wave 表示其量子计算机可以解决原本不可能完成的任务</title>
+      <link>https://www.newscientist.com/article/2420543-d-wave-says-its-quantum-computers-can-solve-otherwise-impossible-tasks/</link>
+      <description><![CDATA[新科学家D-Wave 声称其 Advantage 量子计算机和原型 Advantage2 通过比世界上最强大的经典计算机更快地计算横向场伊辛模型问题实现了“计算霸权”。 D-Wave 研究人员认为 Frontier 超级计算机需要数百万年才能解决同样的问题。 D-Wave 的“量子退火”计算机与其他公司生产的量子计算机不同，并被批评为只能解决某些类别的优化问题。摘自“D-Wave 表示其量子计算机可以解决其他不可能完成的任务”
+新科学家 (03/07/24) 马修·斯帕克斯 查看完整文章 - 可能需要付费订阅]]></description>
+      <guid>https://www.newscientist.com/article/2420543-d-wave-says-its-quantum-computers-can-solve-otherwise-impossible-tasks/</guid>
+      <pubDate>Mon, 11 Mar 2024 15:08:20 GMT</pubDate>
     </item>
     <item>
-      <title>地球数字孪生模拟可能发生的自然灾害</title>
-      <link>https://www.space.com/digital-twin-earth-natural-disaster-climate-change</link>
-      <description><![CDATA[Space.com意大利国家研究委员会卢卡·布罗卡（Luca Brocca）领导的研究人员创建了地球的数字孪生体，使任何人都可以对地中海盆地陆地水循环的自然灾害场景进行交互式模拟。该模型是通过将卫星数据与土壤湿度、降水、雪深、蒸发和河流流量测量相结合而创建的。洪水和山体滑坡的模拟有助于为水资源管理和抗灾策略提供信息。摘自“地球数字孪生模拟可能的自然灾害”
-Space.com (03/05/24) Meredith Garofalo 查看全文]]></description>
-      <guid>https://www.space.com/digital-twin-earth-natural-disaster-climate-change</guid>
-      <pubDate>Fri, 08 Mar 2024 18:08:52 GMT</pubDate>
+      <title>科学家签署防止人工智能生物武器的协议</title>
+      <link>https://www.nytimes.com/2024/03/08/technology/biologists-ai-agreement-bioweapons.html</link>
+      <description><![CDATA[《纽约时报》上周，超过 90 名专门研究新蛋白质设计技术的生物学家和其他科学家签署了一项协议，旨在确保他们的人工智能辅助研究能够在不让世界面临严重威胁的情况下取得进展。伤害。包括诺贝尔奖获得者弗朗西斯·阿诺德在内的生物学家还表示，当前人工智能技术在蛋白质设计方面的好处“远远超过了潜在的危害”。该协议并非旨在抑制人工智能技术的开发或传播，而是规范制造新遗传物质所需设备的使用。摘自《科学家签署努力防止人工智能生物武器》
+纽约时报 (03/09/24) Cade Metz 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/03/08/technology/biologists-ai-agreement-bioweapons.html</guid>
+      <pubDate>Mon, 11 Mar 2024 15:08:19 GMT</pubDate>
     </item>
     <item>
-      <title>智能眼镜使用声纳来确定你正在看的地方</title>
-      <link>https://www.newscientist.com/article/2418742-smart-glasses-use-sonar-to-work-out-where-youre-looking/</link>
-      <description><![CDATA[新科学家康奈尔大学的研究人员开发了智能眼镜，可以使用声音而不是摄像头来跟踪用户的眼球运动。 GazeTrak 的每只眼睛都有一个朝向脸部的小型扬声器，每侧有四个麦克风。人工智能模型对眼镜拾取的声音进行分析，根据眼球和眼睑形状的不一致来确定用户的眼睛指向哪个方向。 GazeTrak 的功耗比其他运动检测技术低 95%。摘自“智能眼镜使用声纳来确定您正在看的位置”
-新科学家 (03/04/24) 马修·斯帕克斯 查看完整文章 - 可能需要付费订阅]]></description>
-      <guid>https://www.newscientist.com/article/2418742-smart-glasses-use-sonar-to-work-out-where-youre-looking/</guid>
-      <pubDate>Fri, 08 Mar 2024 18:08:52 GMT</pubDate>
+      <title>逼真的数字玛丽莲·梦露在技术会议上首次亮相</title>
+      <link>https://www.reuters.com/technology/some-like-it-bot-realistic-digital-marilyn-monroe-make-debut-tech-conference-2024-03-08/</link>
+      <description><![CDATA[路透社数字玛丽莲，在人工智能的帮助下创建的玛丽莲·梦露的数字版本，于周五在西南偏南科技会议上首次亮相。这位女演员的头像穿着黑色高领毛衣出现在电脑屏幕上，用她熟悉的声音交谈。数字玛丽莲由专门创造现实数字人物的 Soul Machines 公司与 Authentic Brands Group 合作打造，后者的品牌组合包括梦露和其他已故名人的肖像权。来自“逼真的数字玛丽莲梦露在技术会议上首次亮相“
+路透社 (03/08/24) Dawn Chmielewski 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/some-like-it-bot-realistic-digital-marilyn-monroe-make-debut-tech-conference-2024-03-08/</guid>
+      <pubDate>Mon, 11 Mar 2024 15:08:19 GMT</pubDate>
     </item>
     <item>
-      <title>Linux 市场份额首次突破 4%； macOS 主导地位下降</title>
-      <link>https://arstechnica.com/gadgets/2024/03/linux-continues-growing-market-share-reaches-4-of-desktops/</link>
-      <description><![CDATA[Ars TechnicaStatcounter 的桌面操作系统使用统计数据显示，Linux 的全球市场份额从 2023 年 6 月的 3% 跃升至 2024 年 2 月的 4.03%。如果将 ChromeOS 纳入 Linux 操作系统，则市场份额为 6.34%。 ChromeOS 的全球市场份额下降至 2.27%。 2 月份 Windows 全球市场份额上升至 72.17%，macOS 下降至 15.42%。摘自《Linux 市场份额首次超过 4%；macOS 主导地位下降》
-Ars Technica (03/05/24) Scharon Harding 查看全文]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/03/linux-continues-growing-market-share-reaches-4-of-desktops/</guid>
-      <pubDate>Fri, 08 Mar 2024 18:08:52 GMT</pubDate>
+      <title>微型游泳机器人能够独立思考</title>
+      <link>https://www.science.org/content/article/tiny-swimming-robot-can-think-itself</link>
+      <description><![CDATA[科学宾夕法尼亚大学马克·米斯金 (Marc Miskin) 领导的一组电气工程师推出了比沙粒还小的游泳微型机器人，具有足够的计算能力，可以自行执行一项简单的任务。这些机器人采用了宽度约为 100 微米、具有 128 位可编程存储器的微处理器芯片。研究人员通过一系列闪光对其进行编程，以测量周围液体的温度并将值传回，他们成功地完成了这一任务。摘自“微型游泳机器人独立思考”
+科学 (03/07/24) Adrian Cho 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.science.org/content/article/tiny-swimming-robot-can-think-itself</guid>
+      <pubDate>Mon, 11 Mar 2024 15:08:18 GMT</pubDate>
     </item>
     <item>
-      <title>AutoCAD 的普及者约翰·沃克 (John Walker) 去世，享年 74 岁</title>
-      <link>https://www.nytimes.com/2024/03/06/technology/john-walker-dead.html</link>
-      <description><![CDATA[《纽约时报》欧特克 (Autodesk) 前首席执行官约翰·沃克 (John Walker) 于 2 月 2 日在瑞士纳沙泰尔逝世，该公司将 AutoCAD 软件程序带给了设计和建筑大众。 74 岁。沃克因其在商业上的成功和作为程序员的技能而在科技圈中广为人知。他还因开发了计算机病毒的早期原型而受到赞誉。摘自“普及 AutoCAD 的约翰·沃克，逝世于 74 岁”
-纽约时报 (03/07/24) Alex Williams 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/03/06/technology/john-walker-dead.html</guid>
-      <pubDate>Fri, 08 Mar 2024 18:08:51 GMT</pubDate>
+      <title>更多州资助急救人员数字地图</title>
+      <link>https://apnews.com/article/school-shootings-digital-maps-53d7529be615ab15360b2e6a40b043d3</link>
+      <description><![CDATA[美联社全国各地的学区越来越多地聘请公司来生成其建筑物的数字地图，以缩短紧急情况下的响应时间。一些州已经实施或提议了数字学校地图立法，其中包括要求地图覆盖航空图像和网格坐标的标准，以及房间、门、走廊、楼梯间等的特定地点标签。这些地图可以与可穿戴式紧急按钮和其他安全系统集成。摘自“更多州为急救人员提供数字地图资助”
+美联社 (03/08/24) David A. Lieb 查看全文文章]]></description>
+      <guid>https://apnews.com/article/school-shootings-digital-maps-53d7529be615ab15360b2e6a40b043d3</guid>
+      <pubDate>Mon, 11 Mar 2024 15:08:18 GMT</pubDate>
     </item>
     <item>
-      <title>“自毁”芯片可以减少假冒行为</title>
-      <link>https://www.techradar.com/pro/self-destruct-chips-could-help-combat-a-criminal-plague-that-costs-businesses-billions-every-year-new-technique-could-mitigate-counterfeiting-through-electromigration</link>
-      <description><![CDATA[TechRadar由佛蒙特大学 Eric Hunt-Schroeder 领导的团队开发的“自毁”芯片可以防止假冒芯片进入市场。这些芯片会生成自己独特的数字指纹或物理不可克隆功能（PUF），以确保其真实性。如果受到损害，PUF 会使用两种电路自杀方法自我毁灭，这两种方法都涉及电压增加，从而导致电迁移或快速的时间相关电介质击穿。摘自“‘自毁’芯片可以缓解仿冒”
-TechRadar (03/07/24) 韦恩·威廉姆斯 查看全文]]></description>
-      <guid>https://www.techradar.com/pro/self-destruct-chips-could-help-combat-a-criminal-plague-that-costs-businesses-billions-every-year-new-technique-could-mitigate-counterfeiting-through-electromigration</guid>
-      <pubDate>Fri, 08 Mar 2024 18:08:51 GMT</pubDate>
+      <title>您的个人数据遍布网络——有更好的方法吗？</title>
+      <link>https://www.bbc.com/news/business-68286395</link>
+      <description><![CDATA[BBC 新闻ACM A.M.图灵奖获得者、万维网的发明者蒂姆·伯纳斯·李爵士表示，他的发明发展过程中的一个特殊问题是个人数据的处理方式。当您在网站上登录并存储此类数据时，这些数据只能在该网站内使用。 Solid 开源软件项目旨在改变这一现状，让个人能够选择哪些组织可以访问其数据、出于何种目的以及访问时长。伯纳斯-李表示，技术将允许个人数据存储“以人为中心，而不是以应用程序为中心”。来自“您的个人数据遍布网络—有更好的方法吗？”&lt; br/&gt;
+BBC 新闻 (03/08/24) Sean McManus 查看全文]]></description>
+      <guid>https://www.bbc.com/news/business-68286395</guid>
+      <pubDate>Mon, 11 Mar 2024 15:08:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
