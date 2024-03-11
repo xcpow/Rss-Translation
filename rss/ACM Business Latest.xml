@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Mon, 11 Mar 2024 18:08:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 21:07:19 GMT</lastBuildDate>
+    <item>
+      <title>为什么 Elon Musk 必须开源 Grok，他对 ChatGPT 的回应</title>
+      <link>https://www.wired.com/story/elon-musk-no-choice-open-chatbot-grok/</link>
+      <description><![CDATA[本月早些时候，埃隆·马斯克 (Elon Musk) 起诉 OpenAI 保守其技术机密。今天，他承诺免费赠送自己的“求真”聊天机器人 Grok。]]></description>
+      <guid>https://www.wired.com/story/elon-musk-no-choice-open-chatbot-grok/</guid>
+      <pubDate>Mon, 11 Mar 2024 18:15:56 GMT</pubDate>
+    </item>
     <item>
       <title>Airbnb 禁止所有室内监控摄像头</title>
       <link>https://www.wired.com/story/airbnb-indoor-security-camera-ban/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[由 41 名州总检察长组成的联盟表示，Meta 未能帮助账户遭到黑客攻击的 Facebook 和 Instagram 用户，他们希望该公司“立即采取行动”。]]></description>
       <guid>https://www.wired.com/story/meta-hacked-users-draining-resources/</guid>
       <pubDate>Wed, 06 Mar 2024 15:38:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于德克萨斯州的比特币矿场来说，蜜月已经结束</title>
-      <link>https://www.wired.com/story/bitcoin-mining-texas-energy-grid/</link>
-      <description><![CDATA[比特币开采的能源需求在这个曾经张开双臂欢迎这些公司的州引发了争议。]]></description>
-      <guid>https://www.wired.com/story/bitcoin-mining-texas-energy-grid/</guid>
-      <pubDate>Wed, 06 Mar 2024 13:44:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
