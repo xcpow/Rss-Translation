@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Tue, 12 Mar 2024 03:08:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2024 06:09:17 GMT</lastBuildDate>
+    <item>
+      <title>币安首席加密货币犯罪调查员在尼日利亚被拘留</title>
+      <link>https://www.wired.com/story/binance-top-investigator-detained-nigeria/</link>
+      <description><![CDATA[专注于加密货币的前美国联邦特工 Tigran Gambaryan 和币安第二任高管 Nadeem Anjarwalla 已在阿布贾被关押两周，没有护照。]]></description>
+      <guid>https://www.wired.com/story/binance-top-investigator-detained-nigeria/</guid>
+      <pubDate>Tue, 12 Mar 2024 04:03:36 GMT</pubDate>
+    </item>
     <item>
       <title>为什么 Elon Musk 必须开源 Grok，他对 ChatGPT 的回应</title>
       <link>https://www.wired.com/story/elon-musk-no-choice-open-chatbot-grok/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>Twitter 前信任与安全主管约尔·罗斯 (Yoel Roth) 正在尝试清理你的约会应用程序</title>
       <link>https://www.wired.com/story/yoel-roth-twitter-trust-safety-match-dating-apps/</link>
-      <description><![CDATA[尤尔·罗斯 (Yoel Roth) 辞去埃隆·马斯克 (Elon Musk) 推特顶级内容警察一职后，遭受了有针对性的骚扰。现在，他是约会巨头 Match Group 的信任和安全主管，也是 Tinder、Hinge 等公司的所有者。]]></description>
+      <description><![CDATA[尤尔·罗斯 (Yoel Roth) 辞去埃隆·马斯克 (Elon Musk) 推特顶级内容警察职务后，遭受了有针对性的骚扰。现在，他是约会巨头 Match Group 的信任和安全主管，也是 Tinder、Hinge 等公司的所有者。]]></description>
       <guid>https://www.wired.com/story/yoel-roth-twitter-trust-safety-match-dating-apps/</guid>
       <pubDate>Mon, 11 Mar 2024 10:00:00 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>Sam Altman 在调查无罪后重返 OpenAI 董事会</title>
       <link>https://www.wired.com/story/sam-altman-is-reinstated-to-openais-board/</link>
-      <description><![CDATA[周五，OpenAI 任命其被解雇后重新聘用的首席执行官萨姆·奥尔特曼 (Sam Altman) 进入董事会。它还增加了三名在索尼、Meta 和比尔及梅琳达·盖茨基金会拥有管理经验的女性。]]></description>
+      <description><![CDATA[OpenAI 周五任命其被解雇后重新聘任的首席执行官萨姆·奥尔特曼 (Sam Altman) 为董事会成员。它还增加了三名在索尼、Meta 和比尔及梅琳达·盖茨基金会拥有管理经验的女性。]]></description>
       <guid>https://www.wired.com/story/sam-altman-is-reinstated-to-openais-board/</guid>
       <pubDate>Fri, 08 Mar 2024 22:51:57 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[科技巨头必须遵守一项旨在改变互联网的新欧盟法律。它的目的是迫使最大的平台开放，以鼓励竞争，并为用户的数字生活提供更多选择。]]></description>
       <guid>https://www.wired.com/story/europe-dma-breaking-open-big-tech/</guid>
       <pubDate>Wed, 06 Mar 2024 21:01:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>官员称，Meta 放弃了黑客攻击受害者，耗尽了执法资源</title>
-      <link>https://www.wired.com/story/meta-hacked-users-draining-resources/</link>
-      <description><![CDATA[由 41 名州总检察长组成的联盟表示，Meta 未能帮助账户遭到黑客攻击的 Facebook 和 Instagram 用户，他们希望该公司“立即采取行动”。]]></description>
-      <guid>https://www.wired.com/story/meta-hacked-users-draining-resources/</guid>
-      <pubDate>Wed, 06 Mar 2024 15:38:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
