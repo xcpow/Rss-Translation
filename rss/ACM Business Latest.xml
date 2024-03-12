@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Tue, 12 Mar 2024 15:06:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2024 18:08:39 GMT</lastBuildDate>
+    <item>
+      <title>欧洲解除对 Yandex 联合创始人 Arkady Volozh 的制裁</title>
+      <link>https://www.wired.com/story/arkady-volozh-eu-sanctions-lifted/</link>
+      <description><![CDATA[2023年6月，“俄罗斯谷歌”联合创始人登陆欧盟制裁名单。现在，他可以再次自由地建造。]]></description>
+      <guid>https://www.wired.com/story/arkady-volozh-eu-sanctions-lifted/</guid>
+      <pubDate>Tue, 12 Mar 2024 16:18:11 GMT</pubDate>
+    </item>
     <item>
       <title>您的孩子可能已经在 YouTube 上观看人工智能生成的视频</title>
       <link>https://www.wired.com/story/your-kid-may-be-watching-ai-generated-videos-on-youtube/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>Twitter 前信任与安全主管约尔·罗斯 (Yoel Roth) 正在尝试清理你的约会应用程序</title>
       <link>https://www.wired.com/story/yoel-roth-twitter-trust-safety-match-dating-apps/</link>
-      <description><![CDATA[尤尔·罗斯 (Yoel Roth) 辞去埃隆·马斯克 (Elon Musk) 推特顶级内容警察一职后，遭受了有针对性的骚扰。现在，他是约会巨头 Match Group 的信任和安全主管，也是 Tinder、Hinge 等公司的所有者。]]></description>
+      <description><![CDATA[尤尔·罗斯 (Yoel Roth) 辞去埃隆·马斯克 (Elon Musk) 推特顶级内容警察职务后，遭受了有针对性的骚扰。现在，他是约会巨头 Match Group 的信任和安全主管，也是 Tinder、Hinge 等公司的所有者。]]></description>
       <guid>https://www.wired.com/story/yoel-roth-twitter-trust-safety-match-dating-apps/</guid>
       <pubDate>Mon, 11 Mar 2024 10:00:00 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>Sam Altman 在调查无罪后重返 OpenAI 董事会</title>
       <link>https://www.wired.com/story/sam-altman-is-reinstated-to-openais-board/</link>
-      <description><![CDATA[周五，OpenAI 任命其被解雇后重新聘用的首席执行官萨姆·奥尔特曼 (Sam Altman) 进入董事会。它还增加了三名在索尼、Meta 和比尔及梅琳达·盖茨基金会拥有管理经验的女性。]]></description>
+      <description><![CDATA[OpenAI 周五任命其被解雇后重新聘任的首席执行官萨姆·奥尔特曼 (Sam Altman) 为董事会成员。它还增加了三名在索尼、Meta 和比尔及梅琳达·盖茨基金会拥有管理经验的女性。]]></description>
       <guid>https://www.wired.com/story/sam-altman-is-reinstated-to-openais-board/</guid>
       <pubDate>Fri, 08 Mar 2024 22:51:57 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>恐惧激发埃隆·马斯克和萨姆·奥尔特曼创建 OpenAI</title>
       <link>https://www.wired.com/story/the-fear-that-inspired-elon-musk-sam-altman-openai/</link>
-      <description><![CDATA[OpenAI 发布的反驳埃隆·马斯克诉讼的电子邮件表明，他、萨姆·奥尔特曼和其他联合创始人是如何出于对谷歌主导地位的恐惧而动机的。]]></description>
+      <description><![CDATA[OpenAI 发布的反驳埃隆·马斯克诉讼的电子邮件表明，他、山姆·奥尔特曼和其他联合创始人是如何出于对谷歌主导地位的恐惧而动机的。]]></description>
       <guid>https://www.wired.com/story/the-fear-that-inspired-elon-musk-sam-altman-openai/</guid>
       <pubDate>Thu, 07 Mar 2024 17:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[Jalon Hall 出现在 Google 的企业社交媒体账户上，“因为它让 #LifeAtGoogle 更具包容性！”她说公司因她的残疾和种族而歧视她。]]></description>
       <guid>https://www.wired.com/story/google-black-deaf-worker-diversity-suing-discrimination/</guid>
       <pubDate>Thu, 07 Mar 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>旧金山禁止人脸识别 5 年后，选民要求加强监控</title>
-      <link>https://www.wired.com/story/san-francisco-banned-face-recognition-voters-ask-for-more-surveillance/</link>
-      <description><![CDATA[周二，这个国家科技含量最高的城市支持了一项投票提案，该提案利用了人们对犯罪的担忧，让警方可以更自由地使用无人机和其他监控技术。]]></description>
-      <guid>https://www.wired.com/story/san-francisco-banned-face-recognition-voters-ask-for-more-surveillance/</guid>
-      <pubDate>Wed, 06 Mar 2024 23:05:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
