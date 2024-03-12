@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Tue, 12 Mar 2024 18:08:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2024 21:07:16 GMT</lastBuildDate>
+    <item>
+      <title>比特币价格飙升的背后是什么？主要是共鸣</title>
+      <link>https://www.wired.com/story/bitcoin-price-record-economics/</link>
+      <description><![CDATA[比特币的价格已攀升至历史新高。但为加密货币分配一个值绝非易事。]]></description>
+      <guid>https://www.wired.com/story/bitcoin-price-record-economics/</guid>
+      <pubDate>Tue, 12 Mar 2024 18:13:56 GMT</pubDate>
+    </item>
     <item>
       <title>欧洲解除对 Yandex 联合创始人 Arkady Volozh 的制裁</title>
       <link>https://www.wired.com/story/arkady-volozh-eu-sanctions-lifted/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>Twitter 前信任与安全主管约尔·罗斯 (Yoel Roth) 正在尝试清理你的约会应用程序</title>
       <link>https://www.wired.com/story/yoel-roth-twitter-trust-safety-match-dating-apps/</link>
-      <description><![CDATA[尤尔·罗斯 (Yoel Roth) 辞去埃隆·马斯克 (Elon Musk) 推特顶级内容警察职务后，遭受了有针对性的骚扰。现在，他是约会巨头 Match Group 的信任和安全主管，也是 Tinder、Hinge 等公司的所有者。]]></description>
+      <description><![CDATA[尤尔·罗斯 (Yoel Roth) 辞去埃隆·马斯克 (Elon Musk) 推特顶级内容警察一职后，遭受了有针对性的骚扰。现在，他是约会巨头 Match Group 的信任和安全主管，也是 Tinder、Hinge 等公司的所有者。]]></description>
       <guid>https://www.wired.com/story/yoel-roth-twitter-trust-safety-match-dating-apps/</guid>
       <pubDate>Mon, 11 Mar 2024 10:00:00 GMT</pubDate>
     </item>
@@ -99,16 +106,9 @@
     <item>
       <title>恐惧激发埃隆·马斯克和萨姆·奥尔特曼创建 OpenAI</title>
       <link>https://www.wired.com/story/the-fear-that-inspired-elon-musk-sam-altman-openai/</link>
-      <description><![CDATA[OpenAI 发布的反驳埃隆·马斯克诉讼的电子邮件表明，他、山姆·奥尔特曼和其他联合创始人是如何出于对谷歌主导地位的恐惧而动机的。]]></description>
+      <description><![CDATA[OpenAI 发布的反驳埃隆·马斯克诉讼的电子邮件表明，他、萨姆·奥尔特曼和其他联合创始人是如何出于对谷歌主导地位的恐惧而动机的。]]></description>
       <guid>https://www.wired.com/story/the-fear-that-inspired-elon-musk-sam-altman-openai/</guid>
       <pubDate>Thu, 07 Mar 2024 17:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌利用一名聋哑黑人员工来宣扬其多元化。现在她因歧视而提起诉讼</title>
-      <link>https://www.wired.com/story/google-black-deaf-worker-diversity-suing-discrimination/</link>
-      <description><![CDATA[Jalon Hall 出现在 Google 的企业社交媒体账户上，“因为它让 #LifeAtGoogle 更具包容性！”她说公司因她的残疾和种族而歧视她。]]></description>
-      <guid>https://www.wired.com/story/google-black-deaf-worker-diversity-suing-discrimination/</guid>
-      <pubDate>Thu, 07 Mar 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
