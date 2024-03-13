@@ -4,102 +4,101 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Mon, 11 Mar 2024 15:08:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2024 18:08:27 GMT</lastBuildDate>
     <item>
-      <title>紧凑型芯片提高了计时精度</title>
-      <link>https://www.nist.gov/news-events/news/2024/03/shrinking-technology-expanding-horizons-compact-chips-advance-precision</link>
-      <description><![CDATA[NIST美国国家标准与技术研究院 (NIST) 的研究人员开发了紧凑型芯片，可以将光转换为微波，将定时抖动降低至 15 飞秒，并允许更稳定、更精确的微波信号。研究人员将半导体激光器发出的光引导到参考腔中，其中频率梳将高频光转换为低音调微波信号。 NIST 的弗兰克·昆兰 (Frank Quinlan) 表示，“这项研究的大部分内容是我们如何通过缩小组件的尺寸并使一切变得更容易访问来利用光信号的优势。”来自“紧凑型芯片推进精确计时”
-NIST (03/06/24) 查看全文]]></description>
-      <guid>https://www.nist.gov/news-events/news/2024/03/shrinking-technology-expanding-horizons-compact-chips-advance-precision</guid>
-      <pubDate>Mon, 11 Mar 2024 15:08:23 GMT</pubDate>
+      <title>6G 反射器芯片技术开辟了通往 33 Gb/s 的道路</title>
+      <link>https://spectrum.ieee.org/6g-wireless-reflector-chips</link>
+      <description><![CDATA[IEEE Spectrum康奈尔大学的研究人员证明，微芯片上的 3D 螺旋反射器可以帮助节省空间，同时允许真正的时间延迟，以避免信号模糊。微波元件的尺寸仅为 0.16 平方毫米，可在 14 GHz 带宽上实现真正的延时元件。研究人员估计该设备可以在 8 GHz 带宽内实现超过 33 GB/秒的数据速率，比移相器高出三倍，比真实时延元件高出 40%。来自“ 6G 反射器芯片技术开辟了通往 33 Gb/s 的道路
+IEEE Spectrum (03/08/24) Charles Q. Choi 查看全文&lt; /a&gt;]]></description>
+      <guid>https://spectrum.ieee.org/6g-wireless-reflector-chips</guid>
+      <pubDate>Wed, 13 Mar 2024 18:08:27 GMT</pubDate>
     </item>
     <item>
-      <title>欧洲最大的 3D 打印建筑在短短 140 小时内拔地而起</title>
-      <link>https://newatlas.com/architecture/wave-house-3d-print-europe-largest/</link>
-      <description><![CDATA[New Atlas位于德国海德堡的 6,600 平方英尺的波浪屋是欧洲最大的 3D 打印建筑。该数据中心由 Peri 3D Construction 使用 COBOD BOD2 打印机建造，该打印机可挤出一层可回收的水泥状混合物。波浪屋因其墙壁的波浪设计而得名，在大约 140 小时内建成，随后安装了屋顶、门、照明、布线和数据中心组件。外部由机器人绘制。摘自《欧洲最大的 3D 打印建筑在短短 140 小时内崛起》
-新地图集 (03/06/24) Adam Williams 查看全文]]></description>
-      <guid>https://newatlas.com/architecture/wave-house-3d-print-europe-largest/</guid>
-      <pubDate>Mon, 11 Mar 2024 15:08:22 GMT</pubDate>
+      <title>人对人机器人全身远程操作</title>
+      <link>https://interestingengineering.com/innovation/human-to-humanoid-teleoperation</link>
+      <description><![CDATA[有趣的工程卡内基梅隆大学研究人员使用强化学习开发的远程操作系统使个人能够对全尺寸人形机器人进行全身控制。基于可扩展强化学习的人对人 (H2O) 系统使用 RGB 摄像头将人类手势实时转换为机器人执行的行为。人类操作员可以指挥机器人拾取、放置物体，以及行走、踢腿等动作。摘自《人对人机器人全身远程操作》
+有趣的工程 (03/10/24) Jijomaleil 查看全文]]></description>
+      <guid>https://interestingengineering.com/innovation/human-to-humanoid-teleoperation</guid>
+      <pubDate>Wed, 13 Mar 2024 18:08:27 GMT</pubDate>
     </item>
     <item>
-      <title>诚聘 Java 开发人员</title>
-      <link>https://www.infoworld.com/article/3713288/java-developers-wanted-report-says.html</link>
-      <description><![CDATA[信息世界Perforce Software 的 Java 开发人员生产力报告基于对 72 个国家/地区数百名 Java 开发人员、架构师和团队领导的调查，显示 60% 的受访者表示他们的公司今年将增加 Java 开发人员，42% 表示他们的公司将增加 Java 工具预算。调查还发现，11% 的人使用 Java 21，24% 的人使用 Java 8，18% 的人使用 Java 11。来自“Java Developers Wanted”
-InfoWorld (03/06/24) Paul Krill 查看全文]]></description>
-      <guid>https://www.infoworld.com/article/3713288/java-developers-wanted-report-says.html</guid>
-      <pubDate>Mon, 11 Mar 2024 15:08:22 GMT</pubDate>
+      <title>CISA、NSA 分享保护云服务安全的最佳实践</title>
+      <link>https://www.bleepingcomputer.com/news/security/cisa-nsa-share-best-practices-for-securing-cloud-services/</link>
+      <description><![CDATA[BleepingComputer查看全文]]></description>
+      <guid>https://www.bleepingcomputer.com/news/security/cisa-nsa-share-best-practices-for-securing-cloud-services/</guid>
+      <pubDate>Wed, 13 Mar 2024 18:08:26 GMT</pubDate>
     </item>
     <item>
-      <title>研究人员使用 ASCII Art 越狱聊天机器人</title>
-      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-jailbreak-ai-chatbots-with-ascii-art-artprompt-bypasses-safety-measures-to-unlock-malicious-queries</link>
-      <description><![CDATA[Tom&#39;s HardwareArtPrompt 由华盛顿和芝加哥的研究人员开发，可以绕过大型语言模型 (LLM) 的内置安全功能。该工具生成 ASCII 艺术提示，让人工智能聊天机器人响应它们应该拒绝的查询，例如那些引用仇恨、暴力、非法或有害内容的查询。 ArtPrompt 将“安全词”（拒绝提交的原因）替换为该词的 ASCII 艺术表示，这不会触发阻止 LLM 响应的道德或安全措施。来自“研究人员使用 ASCII 艺术越狱聊天机器人”
-汤姆的硬件 (03/07/24) 马克·泰森 查看全文]]></description>
-      <guid>https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-jailbreak-ai-chatbots-with-ascii-art-artprompt-bypasses-safety-measures-to-unlock-malicious-queries</guid>
-      <pubDate>Mon, 11 Mar 2024 15:08:21 GMT</pubDate>
+      <title>自动驾驶系统获得“差”评级</title>
+      <link>https://www.cnn.com/2024/03/11/cars/insurance-group-rates-tesla-autopilot-safety/index.html</link>
+      <description><![CDATA[CNN美国公路安全保险协会 (IIHS) 对 14 款先进驾驶辅助系统进行测试后，给其中 11 款给出了“差”评级。被认为“较差”的包括特斯拉的自动驾驶仪和全自动驾驶系统，以及福特 Blue Cruise 和日产 ProPilot Assist 免提高速公路驾驶系统。 IIHS 将通用汽车的 Super Cruise 免提系统评为“边缘”，将雷克萨斯的 Teammate with Advanced Drive 系统评为“可接受”。 IIHS表示，这14个系统都没有充分监控驾驶员的注意力，其中7个系统未能对注意力不集中的驾驶员提供两种方法的警报，只有通用汽车的Super Cruise在收到警告后驾驶员不注意时做出了正确的反应。摘自《自动驾驶系统获得‘差’评级》
+CNN (03/12/24) Peter Valdes-Dapena 查看全文]]></description>
+      <guid>https://www.cnn.com/2024/03/11/cars/insurance-group-rates-tesla-autopilot-safety/index.html</guid>
+      <pubDate>Wed, 13 Mar 2024 18:08:26 GMT</pubDate>
     </item>
     <item>
-      <title>无人机击败了现场急救人员</title>
-      <link>https://spectrum.ieee.org/police-drones</link>
-      <description><![CDATA[IEEE Spectrum加利福尼亚州弗里蒙特市警察和消防部门发起的无人机急救计划，为调度员提供从无人机机载摄像机收集的信息，以便部署适当的资源，并且急救人员知道什么他们在到达之前正在处理。 DJI Matrice 30T 无人机在到达现场时会自动运行，一旦到达现场，操作员就会使用经过改造的 PlayStation 5 控制器手动操作无人机。摘自“无人机击败急救人员”前往现场》
-IEEE Spectrum (03/07/24) Edd Gent 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/police-drones</guid>
-      <pubDate>Mon, 11 Mar 2024 15:08:21 GMT</pubDate>
+      <title>存储设备可以阻止量子网络发生故障</title>
+      <link>https://www.newscientist.com/article/2420664-quantum-memory-device-could-stop-unhackable-networks-from-failing/</link>
+      <description><![CDATA[新科学家中国清华大学的研究人员开发出可读写信息1000次的随机存取量子存储器（RAQM）。量子信息在传输过程中很容易退化，沿着网络连接定期添加 RAQM 可以允许网络用户创建备份并挽救失败的量子数据传输。 RAQM 由 10 亿个铷原子组成，冷却至绝对零以上几亿分之一度，并排列成 144 个组。它可以一次存储 72 个量子位，持续时间为 0.5 毫秒。摘自“存储设备可以阻止量子网络发生故障”
+新科学家 (03/08/24) Karmela Padavic-Callaghan 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.newscientist.com/article/2420664-quantum-memory-device-could-stop-unhackable-networks-from-failing/</guid>
+      <pubDate>Wed, 13 Mar 2024 18:08:26 GMT</pubDate>
     </item>
     <item>
-      <title>黑客攻破了微软的关键系统</title>
-      <link>https://www.cnn.com/2024/03/08/tech/microsoft-russia-hack/index.html</link>
-      <description><![CDATA[CNN微软透露，俄罗斯国家支持的黑客对其系统的破坏比一月份首次披露时想象的要广泛。微软认为，黑客利用从微软公司电子邮件系统窃取的信息来访问“公司的一些源代码存储库和内部系统”。该公司在向美国证券交易委员会提交的文件中表示。随附的一篇博客文章称，该黑客组织可能正在利用其窃取的信息“积累攻击区域的图片并增强其攻击能力。”摘自“黑客破坏了 Microsoft 系统的关键密钥” “
-美国有线电视新闻网 (CNN) (03/08/24) Sean Lyngaas 查看全文]]></description>
-      <guid>https://www.cnn.com/2024/03/08/tech/microsoft-russia-hack/index.html</guid>
-      <pubDate>Mon, 11 Mar 2024 15:08:20 GMT</pubDate>
+      <title>蒙特利尔医生开发 VR 工具可以挽救儿童的生命</title>
+      <link>https://www.cbc.ca/news/health/pediatric-trauma-vr-1.7138336</link>
+      <description><![CDATA[CBC（加拿大）加拿大蒙特利尔儿童医​​院的研究人员开发了一个 VR 急诊室，以培训世界各地的医生治疗严重的儿科损伤。 VR 儿科创伤创新培训 (PeTIT VR) 提供了具有真实场景的沉浸式环境，可以在小型和偏远医院培训手术团队，而无需他们出差或购买昂贵的人体模型。蒙特利尔儿童队的丹·波纳鲁 (Dan Poenaru) 说道：“就像在任何多人游戏中一样，我们实际上在一起工作并相互互动，然后我们可以准确地了解互动是如何进行的，我们可以分析这些互动，并且我们实际上可以获得宝贵的反馈信息.&quot;摘自《蒙特利尔医生开发可以挽救儿童生命的 VR 工具》
+CBC（加拿大）（03/10/24）Marcy Cuttler 查看全文]]></description>
+      <guid>https://www.cbc.ca/news/health/pediatric-trauma-vr-1.7138336</guid>
+      <pubDate>Wed, 13 Mar 2024 18:08:25 GMT</pubDate>
     </item>
     <item>
-      <title>D-Wave 表示其量子计算机可以解决原本不可能完成的任务</title>
-      <link>https://www.newscientist.com/article/2420543-d-wave-says-its-quantum-computers-can-solve-otherwise-impossible-tasks/</link>
-      <description><![CDATA[新科学家D-Wave 声称其 Advantage 量子计算机和原型 Advantage2 通过比世界上最强大的经典计算机更快地计算横向场伊辛模型问题实现了“计算霸权”。 D-Wave 研究人员认为 Frontier 超级计算机需要数百万年才能解决同样的问题。 D-Wave 的“量子退火”计算机与其他公司生产的量子计算机不同，并被批评为只能解决某些类别的优化问题。摘自“D-Wave 表示其量子计算机可以解决其他不可能完成的任务”
-新科学家 (03/07/24) 马修·斯帕克斯 查看完整文章 - 可能需要付费订阅]]></description>
-      <guid>https://www.newscientist.com/article/2420543-d-wave-says-its-quantum-computers-can-solve-otherwise-impossible-tasks/</guid>
-      <pubDate>Mon, 11 Mar 2024 15:08:20 GMT</pubDate>
+      <title>学校推出印度首款人工智能教师机器人</title>
+      <link>https://timesofindia.indiatimes.com/education/news/kerala-school-introduces-iris-indias-first-ai-teacher-robot-redefining-education/articleshow/108292074.cms</link>
+      <description><![CDATA[印度时报在印度喀拉拉邦，Maker Labs 的人工智能教师机器人已在 KTCT 高中推出。这款由人工智能驱动的生成机器人被称为 Iris，可以根据个别学生的需求和偏好创建量身定制的课程。 Iris 可以回答问题、解释概念并提供交互式学习体验。该机器人还可以在学习空间中移动并用手操纵物体。摘自《学校推出印度首个人工智能教师机器人》
+印度时报 (03/07/24) Sanjay Sharma 查看全文]]></description>
+      <guid>https://timesofindia.indiatimes.com/education/news/kerala-school-introduces-iris-indias-first-ai-teacher-robot-redefining-education/articleshow/108292074.cms</guid>
+      <pubDate>Wed, 13 Mar 2024 18:08:25 GMT</pubDate>
     </item>
     <item>
-      <title>科学家签署防止人工智能生物武器的协议</title>
-      <link>https://www.nytimes.com/2024/03/08/technology/biologists-ai-agreement-bioweapons.html</link>
-      <description><![CDATA[《纽约时报》上周，超过 90 名专门研究新蛋白质设计技术的生物学家和其他科学家签署了一项协议，旨在确保他们的人工智能辅助研究能够在不让世界面临严重威胁的情况下取得进展。伤害。包括诺贝尔奖获得者弗朗西斯·阿诺德在内的生物学家还表示，当前人工智能技术在蛋白质设计方面的好处“远远超过了潜在的危害”。该协议并非旨在抑制人工智能技术的开发或传播，而是规范制造新遗传物质所需设备的使用。摘自《科学家签署努力防止人工智能生物武器》
-纽约时报 (03/09/24) Cade Metz 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/03/08/technology/biologists-ai-agreement-bioweapons.html</guid>
-      <pubDate>Mon, 11 Mar 2024 15:08:19 GMT</pubDate>
+      <title>电子战如何重塑乌克兰战场</title>
+      <link>https://www.nytimes.com/2024/03/12/world/europe/ukraine-drone-russia-jamming.html</link>
+      <description><![CDATA[纽约时报电子对抗已成为俄罗斯对抗乌克兰创新使用无人机的最有效武器之一。乌克兰军队描述了一方如何进行技术变革——例如对无人机使用不同的频率或干扰信号——然后另一方进行调整。乌克兰由于依赖商店购买的紧凑型竞赛无人机而受到阻碍，这些无人机以模拟频率运行，其中许多无人机开箱即设置为相同的频率。乌克兰无人机部队经常需要精通编码的士兵来改变无人机软件的频率。摘自“电子战如何重塑乌克兰战场”
+纽约时报 (03/13/24) Thomas Gibbons-Neff；尤里·希瓦拉 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/03/12/world/europe/ukraine-drone-russia-jamming.html</guid>
+      <pubDate>Wed, 13 Mar 2024 18:08:24 GMT</pubDate>
     </item>
     <item>
-      <title>逼真的数字玛丽莲·梦露在技术会议上首次亮相</title>
-      <link>https://www.reuters.com/technology/some-like-it-bot-realistic-digital-marilyn-monroe-make-debut-tech-conference-2024-03-08/</link>
-      <description><![CDATA[路透社数字玛丽莲，在人工智能的帮助下创建的玛丽莲·梦露的数字版本，于周五在西南偏南科技会议上首次亮相。这位女演员的头像穿着黑色高领毛衣出现在电脑屏幕上，用她熟悉的声音交谈。数字玛丽莲由专门创造现实数字人物的 Soul Machines 公司与 Authentic Brands Group 合作打造，后者的品牌组合包括梦露和其他已故名人的肖像权。来自“逼真的数字玛丽莲梦露在技术会议上首次亮相“
-路透社 (03/08/24) Dawn Chmielewski 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/some-like-it-bot-realistic-digital-marilyn-monroe-make-debut-tech-conference-2024-03-08/</guid>
-      <pubDate>Mon, 11 Mar 2024 15:08:19 GMT</pubDate>
+      <title>Python 在语言流行度指数中继续领先</title>
+      <link>https://www.infoworld.com/article/3714284/python-stretches-lead-in-language-popularity-index.html</link>
+      <description><![CDATA[信息世界最新的 Tiobe 编程社区指数显示，Python 在 3 月份的排名中成为最受欢迎的编程语言，其领先优势比排名第二的 C 近 4.5 个百分点。进入前 10 名的还有 C++、Java、C#、JavaScript、SQL、Go、Scratch 和 Visual Basic。同时，Pypl 3 月份编程语言流行度指数排名前 10 的语言为 Python、Java、JavaScript、C#、C/C++、R、PHP、TypeScript、Swift 和 Objective-C。摘自《Python 在语言流行度指数中继续领先》
+InfoWorld (03/11/24) Paul Krill 查看全文]]></description>
+      <guid>https://www.infoworld.com/article/3714284/python-stretches-lead-in-language-popularity-index.html</guid>
+      <pubDate>Wed, 13 Mar 2024 18:08:24 GMT</pubDate>
     </item>
     <item>
-      <title>微型游泳机器人能够独立思考</title>
-      <link>https://www.science.org/content/article/tiny-swimming-robot-can-think-itself</link>
-      <description><![CDATA[科学宾夕法尼亚大学马克·米斯金 (Marc Miskin) 领导的一组电气工程师推出了比沙粒还小的游泳微型机器人，具有足够的计算能力，可以自行执行一项简单的任务。这些机器人采用了宽度约为 100 微米、具有 128 位可编程存储器的微处理器芯片。研究人员通过一系列闪光对其进行编程，以测量周围液体的温度并将值传回，他们成功地完成了这一任务。摘自“微型游泳机器人独立思考”
-科学 (03/07/24) Adrian Cho 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.science.org/content/article/tiny-swimming-robot-can-think-itself</guid>
-      <pubDate>Mon, 11 Mar 2024 15:08:18 GMT</pubDate>
+      <title>4D 针织连衣裙利用热量和机器人技术实现完美合身、时尚</title>
+      <link>https://www.techtimes.com/articles/302433/20240309/mit-unveils-4d-knit-dress-uses-heat-robotic-tech-achieve.htm</link>
+      <description><![CDATA[科技时报麻省理工学院的研究人员开发了一种服装，可以使用热激活纱线、计算机针织方法和机器人激活为任何人定制合身和造型。 4D 针织连衣裙提供了可持续的时尚选择，因为后续的加热应用使其能够随着穿着者的风格偏好或体型而变化。摘自“4D 针织连衣裙利用热量、机器人技术实现完美贴合，风格”
+科技时报 (03/09/24) Jace Dela Cruz 查看全文]]></description>
+      <guid>https://www.techtimes.com/articles/302433/20240309/mit-unveils-4d-knit-dress-uses-heat-robotic-tech-achieve.htm</guid>
+      <pubDate>Wed, 13 Mar 2024 18:08:24 GMT</pubDate>
     </item>
     <item>
-      <title>更多州资助急救人员数字地图</title>
-      <link>https://apnews.com/article/school-shootings-digital-maps-53d7529be615ab15360b2e6a40b043d3</link>
-      <description><![CDATA[美联社全国各地的学区越来越多地聘请公司来生成其建筑物的数字地图，以缩短紧急情况下的响应时间。一些州已经实施或提议了数字学校地图立法，其中包括要求地图覆盖航空图像和网格坐标的标准，以及房间、门、走廊、楼梯间等的特定地点标签。这些地图可以与可穿戴式紧急按钮和其他安全系统集成。摘自“更多州为急救人员提供数字地图资助”
-美联社 (03/08/24) David A. Lieb 查看全文文章]]></description>
-      <guid>https://apnews.com/article/school-shootings-digital-maps-53d7529be615ab15360b2e6a40b043d3</guid>
-      <pubDate>Mon, 11 Mar 2024 15:08:18 GMT</pubDate>
+      <title>硅谷正在向学术界收取人工智能研究费用</title>
+      <link>https://www.washingtonpost.com/technology/2024/03/10/big-tech-companies-ai-research/</link>
+      <description><![CDATA[《华盛顿邮报》被称为“人工智能教母”的斯坦福大学 ACM 研究员李飞飞在发表国情咨文演讲后敦促乔·拜登总统资助国家计算仓库力量和数据集，以确保国家领先的人工智能研究人员能够跟上大型科技公司的步伐。李说：“与工业相比，公共部门目前在资源和人才方面明显落后。这将产生深远的影响，因为工业专注于开发以利润为导向的技术，而公共部门的人工智能目标则专注于创造公共产品.&quot;摘自《硅谷正在为人工智能研究定价学者》
+华盛顿邮报 (03/10/24) 娜奥米·尼克斯；猫·扎克热夫斯基；格里特·德文克 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.washingtonpost.com/technology/2024/03/10/big-tech-companies-ai-research/</guid>
+      <pubDate>Wed, 13 Mar 2024 18:08:23 GMT</pubDate>
     </item>
     <item>
-      <title>您的个人数据遍布网络——有更好的方法吗？</title>
-      <link>https://www.bbc.com/news/business-68286395</link>
-      <description><![CDATA[BBC 新闻ACM A.M.图灵奖获得者、万维网的发明者蒂姆·伯纳斯·李爵士表示，他的发明发展过程中的一个特殊问题是个人数据的处理方式。当您在网站上登录并存储此类数据时，这些数据只能在该网站内使用。 Solid 开源软件项目旨在改变这一现状，让个人能够选择哪些组织可以访问其数据、出于何种目的以及访问时长。伯纳斯-李表示，技术将允许个人数据存储“以人为中心，而不是以应用程序为中心”。来自“您的个人数据遍布网络—有更好的方法吗？”&lt; br/&gt;
-BBC 新闻 (03/08/24) Sean McManus 查看全文]]></description>
-      <guid>https://www.bbc.com/news/business-68286395</guid>
-      <pubDate>Mon, 11 Mar 2024 15:08:17 GMT</pubDate>
+      <title>万维网 35 周年之际，WWW 发明家的预测</title>
+      <link>https://www.cnbc.com/2024/03/12/world-wide-web-turns-35-tim-berners-lee-gives-predictions-for-future.html</link>
+      <description><![CDATA[CNBCACM A.M. 35 岁了。图灵奖获得者、万维网的发明者蒂姆·伯纳斯·李分享了对其发明未来 35 年的预测。 “有些人担心 35 年后，人工智能是否会比我们更强大，”伯纳斯·李说。 “我预测的一件事—但我们可能必须为之奋斗—你将拥有一个值得信赖的人工智能助手，它会像医生一样为你服务。” 摘自“WWW发明家对网络35岁的预测”
+CNBC (03/12/24) Ryan Browne 查看全文]]></description>
+      <guid>https://www.cnbc.com/2024/03/12/world-wide-web-turns-35-tim-berners-lee-gives-predictions-for-future.html</guid>
+      <pubDate>Wed, 13 Mar 2024 18:08:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
