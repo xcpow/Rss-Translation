@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Wed, 13 Mar 2024 12:12:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2024 15:07:34 GMT</lastBuildDate>
+    <item>
+      <title>谷歌 DeepMind 最新人工智能代理学会玩“模拟山羊 3”</title>
+      <link>https://www.wired.com/story/google-deepmind-ai-agent-learned-to-play-goat-simulator-3/</link>
+      <description><![CDATA[这些人工智能代理可以适应他们以前没有玩过的游戏。谷歌通过将人类如何玩不同视频游戏的数据提供给语言模型（例如最新聊天机器人背后的语言模型）来制造它们。]]></description>
+      <guid>https://www.wired.com/story/google-deepmind-ai-agent-learned-to-play-goat-simulator-3/</guid>
+      <pubDate>Wed, 13 Mar 2024 14:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>互联网也有黑暗的角落。然后是764</title>
       <link>https://www.wired.com/story/764-com-child-predator-network/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[OpenAI 周五任命其被解雇后重新聘任的首席执行官萨姆·奥尔特曼 (Sam Altman) 为董事会成员。它还增加了三名在索尼、Meta 和比尔及梅琳达·盖茨基金会拥有管理经验的女性。]]></description>
       <guid>https://www.wired.com/story/sam-altman-is-reinstated-to-openais-board/</guid>
       <pubDate>Fri, 08 Mar 2024 22:51:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>佛罗里达州中学生因涉嫌制作同学的 Deepfake 裸体而被捕</title>
-      <link>https://www.wired.com/story/florida-teens-arrested-deepfake-nudes-classmates/</link>
-      <description><![CDATA[这似乎是此类刑事案件中的首例，根据 2022 年佛罗里达州法律，两名男孩因涉嫌制作描绘中学同学的人工智能生成图像而被指控。]]></description>
-      <guid>https://www.wired.com/story/florida-teens-arrested-deepfake-nudes-classmates/</guid>
-      <pubDate>Fri, 08 Mar 2024 16:35:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
