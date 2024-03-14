@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Thu, 14 Mar 2024 12:12:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 15:07:24 GMT</lastBuildDate>
+    <item>
+      <title>法官宣布克雷格·赖特不是比特币创造者中本聪</title>
+      <link>https://www.wired.com/story/craig-wright-not-satoshi-nakamoto-bitcoin-creator-ruling/</link>
+      <description><![CDATA[英国高等法院在为期六周的审判结束后出人意料地迅速做出裁决，结束了克雷格·赖特 (Craig Wright) 被公认为比特币发明者的竞选活动。]]></description>
+      <guid>https://www.wired.com/story/craig-wright-not-satoshi-nakamoto-bitcoin-creator-ruling/</guid>
+      <pubDate>Thu, 14 Mar 2024 14:01:17 GMT</pubDate>
+    </item>
     <item>
       <title>监管机构需要人工智能专业知识。他们买不起</title>
       <link>https://www.wired.com/story/regulators-need-ai-expertise-cant-afford-it/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>谷歌 DeepMind 最新人工智能代理学会玩“模拟山羊 3”</title>
       <link>https://www.wired.com/story/google-deepmind-ai-agent-learned-to-play-goat-simulator-3/</link>
-      <description><![CDATA[这些人工智能代理可以适应他们以前没有玩过的游戏。谷歌通过将人类如何玩不同视频游戏的数据提供给最新聊天机器人背后的语言模型来制造它们。]]></description>
+      <description><![CDATA[这些人工智能代理可以适应他们以前没有玩过的游戏。谷歌通过将人类如何玩不同视频游戏的数据提供给语言模型（例如最新聊天机器人背后的语言模型）来制造它们。]]></description>
       <guid>https://www.wired.com/story/google-deepmind-ai-agent-learned-to-play-goat-simulator-3/</guid>
       <pubDate>Wed, 13 Mar 2024 14:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[尤尔·罗斯 (Yoel Roth) 辞去埃隆·马斯克 (Elon Musk) 推特顶级内容警察职务后，遭受了有针对性的骚扰。现在，他是约会巨头 Match Group 的信任和安全主管，也是 Tinder、Hinge 等公司的所有者。]]></description>
       <guid>https://www.wired.com/story/yoel-roth-twitter-trust-safety-match-dating-apps/</guid>
       <pubDate>Mon, 11 Mar 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>选择性遗忘可以帮助人工智能更好地学习</title>
-      <link>https://www.wired.com/story/how-selective-forgetting-can-help-ai-learn-better/</link>
-      <description><![CDATA[在训练过程中删除关键信息可以让机器学习模型更快、更轻松地学习新语言。]]></description>
-      <guid>https://www.wired.com/story/how-selective-forgetting-can-help-ai-learn-better/</guid>
-      <pubDate>Sun, 10 Mar 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
