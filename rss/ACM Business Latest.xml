@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Thu, 14 Mar 2024 15:07:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 18:08:31 GMT</lastBuildDate>
+    <item>
+      <title>忘记聊天机器人吧。人工智能代理是未来</title>
+      <link>https://www.wired.com/story/fast-forward-forget-chatbots-ai-agents-are-the-future/</link>
+      <description><![CDATA[初创公司和科技巨头正试图从通过文本提供帮助的聊天机器人转向可以完成工作的人工智能代理。最近的演示包括一个名为 Devin 的人工智能编码器和玩视频游戏的代理。]]></description>
+      <guid>https://www.wired.com/story/fast-forward-forget-chatbots-ai-agents-are-the-future/</guid>
+      <pubDate>Thu, 14 Mar 2024 16:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>法官宣布克雷格·赖特不是比特币创造者中本聪</title>
       <link>https://www.wired.com/story/craig-wright-not-satoshi-nakamoto-bitcoin-creator-ruling/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[机器人初创公司 Covariant 正在试验一种可以控制机械臂的 ChatGPT 式聊天机器人，以此来创建对现实世界更有帮助的机器。]]></description>
       <guid>https://www.wired.com/story/quest-ai-chatbots-a-hand-arm-robots/</guid>
       <pubDate>Mon, 11 Mar 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Twitter 前信任与安全主管约尔·罗斯 (Yoel Roth) 正在尝试清理你的约会应用程序</title>
-      <link>https://www.wired.com/story/yoel-roth-twitter-trust-safety-match-dating-apps/</link>
-      <description><![CDATA[尤尔·罗斯 (Yoel Roth) 辞去埃隆·马斯克 (Elon Musk) 推特顶级内容警察职务后，遭受了有针对性的骚扰。现在，他是约会巨头 Match Group 的信任和安全主管，也是 Tinder、Hinge 等公司的所有者。]]></description>
-      <guid>https://www.wired.com/story/yoel-roth-twitter-trust-safety-match-dating-apps/</guid>
-      <pubDate>Mon, 11 Mar 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
