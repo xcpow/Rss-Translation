@@ -4,101 +4,113 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Wed, 13 Mar 2024 18:08:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2024 15:07:01 GMT</lastBuildDate>
     <item>
-      <title>6G 反射器芯片技术开辟了通往 33 Gb/s 的道路</title>
-      <link>https://spectrum.ieee.org/6g-wireless-reflector-chips</link>
-      <description><![CDATA[IEEE Spectrum康奈尔大学的研究人员证明，微芯片上的 3D 螺旋反射器可以帮助节省空间，同时允许真正的时间延迟，以避免信号模糊。微波元件的尺寸仅为 0.16 平方毫米，可在 14 GHz 带宽上实现真正的延时元件。研究人员估计该设备可以在 8 GHz 带宽内实现超过 33 GB/秒的数据速率，比移相器高出三倍，比真实时延元件高出 40%。来自“ 6G 反射器芯片技术开辟了通往 33 Gb/s 的道路
-IEEE Spectrum (03/08/24) Charles Q. Choi 查看全文&lt; /a&gt;]]></description>
-      <guid>https://spectrum.ieee.org/6g-wireless-reflector-chips</guid>
-      <pubDate>Wed, 13 Mar 2024 18:08:27 GMT</pubDate>
+      <title>人工智能学习活着意味着什么</title>
+      <link>https://www.nytimes.com/2024/03/10/science/ai-learning-biology.html</link>
+      <description><![CDATA[纽约时报斯坦福大学的研究人员通过类似于 ChatGPT 的人工智能程序发现计算机可以自学生物学。除此之外，这个名为通用细胞嵌入（UCE）的基础模型仅用了六周时间就发现了 Norn 细胞，这是一种罕见的肾细胞，当氧气水平过低时，它会产生促红细胞生成素，这是人类科学家花了 100 多年的时间才取得的成就。 UCE 学会了将以前从未见过的细胞分类为 1,000 多种不同类型中的一种，并将其学习成果应用到新物种中。摘自“AI Learning What It Means to Be Alive”
+纽约时报 (03/10/24) Carl Zimmer 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/03/10/science/ai-learning-biology.html</guid>
+      <pubDate>Fri, 15 Mar 2024 15:07:00 GMT</pubDate>
     </item>
     <item>
-      <title>人对人机器人全身远程操作</title>
-      <link>https://interestingengineering.com/innovation/human-to-humanoid-teleoperation</link>
-      <description><![CDATA[有趣的工程卡内基梅隆大学研究人员使用强化学习开发的远程操作系统使个人能够对全尺寸人形机器人进行全身控制。基于可扩展强化学习的人对人 (H2O) 系统使用 RGB 摄像头将人类手势实时转换为机器人执行的行为。人类操作员可以指挥机器人拾取、放置物体，以及行走、踢腿等动作。摘自《人对人机器人全身远程操作》
-有趣的工程 (03/10/24) Jijomaleil 查看全文]]></description>
-      <guid>https://interestingengineering.com/innovation/human-to-humanoid-teleoperation</guid>
-      <pubDate>Wed, 13 Mar 2024 18:08:27 GMT</pubDate>
+      <title>深海无人机潜水寻找沉船、珊瑚礁</title>
+      <link>https://spectrum.ieee.org/underwater-drone</link>
+      <description><![CDATA[IEEE Spectrum由高级导航研究人员开发的小型自主水下航行器 (AUV) 将用于研究澳大利亚的珊瑚礁并搜寻沉船。 Hydrus 潜艇长度不到 1 米，配备 4k 分辨率摄像头，可以拍摄高清视频并生成详细的 3D 摄影测量模型，以及惯性导航技术和声纳系统。它采用无线方式运行，额定深度为 3,000 米，范围为 9 公里。 摘自“深海无人机潜水寻找沉船、珊瑚礁”
+IEEE Spectrum (03/11/24) Edd Gent 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/underwater-drone</guid>
+      <pubDate>Fri, 15 Mar 2024 15:07:00 GMT</pubDate>
     </item>
     <item>
-      <title>CISA、NSA 分享保护云服务安全的最佳实践</title>
-      <link>https://www.bleepingcomputer.com/news/security/cisa-nsa-share-best-practices-for-securing-cloud-services/</link>
-      <description><![CDATA[BleepingComputer查看全文]]></description>
-      <guid>https://www.bleepingcomputer.com/news/security/cisa-nsa-share-best-practices-for-securing-cloud-services/</guid>
-      <pubDate>Wed, 13 Mar 2024 18:08:26 GMT</pubDate>
+      <title>谷歌限制 Gemini 聊天机器人选举答案</title>
+      <link>https://www.bbc.com/news/business-68551206</link>
+      <description><![CDATA[BBC谷歌在一篇博客文章中宣布，它正在限制其 Gemini 聊天机器人可以提出的与选举相关的问题类型。印度已实施这一限制，该国下个月将举行选举。 BBC 工作人员向 AI 聊天机器人询问有关美国、英国和南非即将举行的选举的问题，Gemini 回答说：“我仍在学习如何回答这个问题。同时，请尝试使用 Google 搜索。”当被问及有关印度主要政党的后续问题时，Gemini 提供了更详细的答复。摘自“Google 限制 Gemini 聊天机器人选举答案”
+BBC (03/13/24) 彼得·霍斯金斯 查看全文]]></description>
+      <guid>https://www.bbc.com/news/business-68551206</guid>
+      <pubDate>Fri, 15 Mar 2024 15:06:59 GMT</pubDate>
     </item>
     <item>
-      <title>自动驾驶系统获得“差”评级</title>
-      <link>https://www.cnn.com/2024/03/11/cars/insurance-group-rates-tesla-autopilot-safety/index.html</link>
-      <description><![CDATA[CNN美国公路安全保险协会 (IIHS) 对 14 款先进驾驶辅助系统进行测试后，给其中 11 款给出了“差”评级。被认为“较差”的包括特斯拉的自动驾驶仪和全自动驾驶系统，以及福特 Blue Cruise 和日产 ProPilot Assist 免提高速公路驾驶系统。 IIHS 将通用汽车的 Super Cruise 免提系统评为“边缘”，将雷克萨斯的 Teammate with Advanced Drive 系统评为“可接受”。 IIHS表示，这14个系统都没有充分监控驾驶员的注意力，其中7个系统未能对注意力不集中的驾驶员提供两种方法的警报，只有通用汽车的Super Cruise在收到警告后驾驶员不注意时做出了正确的反应。摘自《自动驾驶系统获得‘差’评级》
-CNN (03/12/24) Peter Valdes-Dapena 查看全文]]></description>
-      <guid>https://www.cnn.com/2024/03/11/cars/insurance-group-rates-tesla-autopilot-safety/index.html</guid>
-      <pubDate>Wed, 13 Mar 2024 18:08:26 GMT</pubDate>
+      <title>Arm 推出首款自动驾驶汽车芯片设计</title>
+      <link>https://www.ft.com/content/e1b7641c-afaa-44ff-9de4-0d82f861a354</link>
+      <description><![CDATA[英国《金融时报》作为超越移动处理器的努力的一部分，芯片设计商 Arm 推出了旨在为自动驾驶汽车提供动力的新型芯片设计。 “Neoverse”芯片与一套针对汽车制造商及其供应商的新系统一起推出。新设计正在被纳入亚马逊网络服务、梅赛德斯-奔驰、英伟达和德州仪器的产品和开发系统中。 Arm 的 Dipti Vachani 表示，第一批搭载这些芯片的车辆最多需要五年时间才能发布。摘自“Arm Unveils First Chip Design for Self-Driving Cars”
+金融时报 (03/13/24) Tim Bradshaw 查看全文文章 - 可能需要付费订阅]]></description>
+      <guid>https://www.ft.com/content/e1b7641c-afaa-44ff-9de4-0d82f861a354</guid>
+      <pubDate>Fri, 15 Mar 2024 15:06:59 GMT</pubDate>
     </item>
     <item>
-      <title>存储设备可以阻止量子网络发生故障</title>
-      <link>https://www.newscientist.com/article/2420664-quantum-memory-device-could-stop-unhackable-networks-from-failing/</link>
-      <description><![CDATA[新科学家中国清华大学的研究人员开发出可读写信息1000次的随机存取量子存储器（RAQM）。量子信息在传输过程中很容易退化，沿着网络连接定期添加 RAQM 可以允许网络用户创建备份并挽救失败的量子数据传输。 RAQM 由 10 亿个铷原子组成，冷却至绝对零以上几亿分之一度，并排列成 144 个组。它可以一次存储 72 个量子位，持续时间为 0.5 毫秒。摘自“存储设备可以阻止量子网络发生故障”
-新科学家 (03/08/24) Karmela Padavic-Callaghan 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.newscientist.com/article/2420664-quantum-memory-device-could-stop-unhackable-networks-from-failing/</guid>
-      <pubDate>Wed, 13 Mar 2024 18:08:26 GMT</pubDate>
+      <title>触觉设备使机器人能够实现完美的柔软触摸</title>
+      <link>https://interestingengineering.com/innovation/innovative-haptic-device-enables-robots-to-perfect-soft-touch-abilities</link>
+      <description><![CDATA[有趣的工程瑞士洛桑联邦理工学院 (EPFL) 的研究人员开发了一种触觉设备，可以提高机器人的软触摸能力。 SORI（柔软度渲染接口）将皮肤输入（指尖皮肤的反馈）和动觉输入（手指关节施加的力的反馈）分开，以更好地模拟材料的柔软度。 EPFL 的 Mustafa Mete 解释说，这款新设备“并不是要充当机器人的柔软度传感器，而是以数字方式传输‘触摸’的感觉，就像发送照片或音乐一样。”来自“Haptic”设备使机器人能够实现完美的软触感”
+有趣的工程（03/12/24）Jijo Maleil 查看全文]]></description>
+      <guid>https://interestingengineering.com/innovation/innovative-haptic-device-enables-robots-to-perfect-soft-touch-abilities</guid>
+      <pubDate>Fri, 15 Mar 2024 15:06:59 GMT</pubDate>
     </item>
     <item>
-      <title>蒙特利尔医生开发 VR 工具可以挽救儿童的生命</title>
-      <link>https://www.cbc.ca/news/health/pediatric-trauma-vr-1.7138336</link>
-      <description><![CDATA[CBC（加拿大）加拿大蒙特利尔儿童医​​院的研究人员开发了一个 VR 急诊室，以培训世界各地的医生治疗严重的儿科损伤。 VR 儿科创伤创新培训 (PeTIT VR) 提供了具有真实场景的沉浸式环境，可以在小型和偏远医院培训手术团队，而无需他们出差或购买昂贵的人体模型。蒙特利尔儿童队的丹·波纳鲁 (Dan Poenaru) 说道：“就像在任何多人游戏中一样，我们实际上在一起工作并相互互动，然后我们可以准确地了解互动是如何进行的，我们可以分析这些互动，并且我们实际上可以获得宝贵的反馈信息.&quot;摘自《蒙特利尔医生开发可以挽救儿童生命的 VR 工具》
-CBC（加拿大）（03/10/24）Marcy Cuttler 查看全文]]></description>
-      <guid>https://www.cbc.ca/news/health/pediatric-trauma-vr-1.7138336</guid>
-      <pubDate>Wed, 13 Mar 2024 18:08:25 GMT</pubDate>
+      <title>Apple Vision Pro 帮助护士协助进行脊柱手术</title>
+      <link>https://www.techradar.com/computing/virtual-reality-augmented-reality/apples-vision-pro-successfully-helps-nurse-assist-in-spinal-surgery-and-theres-more-mixed-reality-medical-work-on-the-way</link>
+      <description><![CDATA[TechRadar英国伦敦克伦威尔医院的首席擦洗护士 Suvi Verho 最近戴着 Apple Vision Pro 混合现实耳机协助进行了脊柱手术。配备了 eXeX 的软件，重要信息叠加在耳机的虚拟屏幕上，使 Verho 能够监控手术并确定向外科医生提供哪些工具。苹果表示，其visionOS已被纳入其他几款医疗应用程序中，包括Stryker的myMako（帮助外科医生准备关节置换手术）和Siemens Healthineers的Cinematic Reality（为医学生培训提供交互式人体全息图） 摘自《Apple Vision Pro 帮助护士协助脊柱手术》
+TechRadar (03/13/24) 塞萨尔·卡德纳斯 查看全文]]></description>
+      <guid>https://www.techradar.com/computing/virtual-reality-augmented-reality/apples-vision-pro-successfully-helps-nurse-assist-in-spinal-surgery-and-theres-more-mixed-reality-medical-work-on-the-way</guid>
+      <pubDate>Fri, 15 Mar 2024 15:06:58 GMT</pubDate>
     </item>
     <item>
-      <title>学校推出印度首款人工智能教师机器人</title>
-      <link>https://timesofindia.indiatimes.com/education/news/kerala-school-introduces-iris-indias-first-ai-teacher-robot-redefining-education/articleshow/108292074.cms</link>
-      <description><![CDATA[印度时报在印度喀拉拉邦，Maker Labs 的人工智能教师机器人已在 KTCT 高中推出。这款由人工智能驱动的生成机器人被称为 Iris，可以根据个别学生的需求和偏好创建量身定制的课程。 Iris 可以回答问题、解释概念并提供交互式学习体验。该机器人还可以在学习空间中移动并用手操纵物体。摘自《学校推出印度首个人工智能教师机器人》
-印度时报 (03/07/24) Sanjay Sharma 查看全文]]></description>
-      <guid>https://timesofindia.indiatimes.com/education/news/kerala-school-introduces-iris-indias-first-ai-teacher-robot-redefining-education/articleshow/108292074.cms</guid>
-      <pubDate>Wed, 13 Mar 2024 18:08:25 GMT</pubDate>
+      <title>NFT 市场中知识产权侵权盛行</title>
+      <link>https://www.engadget.com/the-us-government-says-ip-infringement-is-all-over-nft-marketplaces-155757506.html</link>
+      <description><![CDATA[Engadget美国版权局和美国专利商标局的一份报告发现，现有的知识产权法可以处理不可替代代币（NFT）中的版权或商标侵权问题，但“商标侵权和滥用现象普遍存在”在 NFT 市场上。”该报告指出，鉴于 NFT 和区块链网络的去中心化性质，在 NFT 领域执行商标执法存在困难。这些机构指出，缺乏商标执法协议，也缺乏跨平台机制来删除侵权内容、解决商标纠纷或确认商标权的所有权。摘自《NFT 市场中知识产权侵权泛滥》 “
+Engadget (03/12/24) Kris Holt 查看全文]]></description>
+      <guid>https://www.engadget.com/the-us-government-says-ip-infringement-is-all-over-nft-marketplaces-155757506.html</guid>
+      <pubDate>Fri, 15 Mar 2024 15:06:58 GMT</pubDate>
     </item>
     <item>
-      <title>电子战如何重塑乌克兰战场</title>
-      <link>https://www.nytimes.com/2024/03/12/world/europe/ukraine-drone-russia-jamming.html</link>
-      <description><![CDATA[纽约时报电子对抗已成为俄罗斯对抗乌克兰创新使用无人机的最有效武器之一。乌克兰军队描述了一方如何进行技术变革——例如对无人机使用不同的频率或干扰信号——然后另一方进行调整。乌克兰由于依赖商店购买的紧凑型竞赛无人机而受到阻碍，这些无人机以模拟频率运行，其中许多无人机开箱即设置为相同的频率。乌克兰无人机部队经常需要精通编码的士兵来改变无人机软件的频率。摘自“电子战如何重塑乌克兰战场”
-纽约时报 (03/13/24) Thomas Gibbons-Neff；尤里·希瓦拉 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/03/12/world/europe/ukraine-drone-russia-jamming.html</guid>
-      <pubDate>Wed, 13 Mar 2024 18:08:24 GMT</pubDate>
+      <title>Meta 将取代广泛使用的数据工具，减少记者访问</title>
+      <link>https://www.wsj.com/tech/meta-to-replace-widely-used-data-tooland-largely-cut-off-reporter-access-43fc3f9d</link>
+      <description><![CDATA[华尔街日报Meta Platforms 周四表示，计划于 8 月 14 日停用其 CrowdTangle 数据工具，即距离下届美国总统大选还有三个月。它将被一种名为元内容库的工具所取代，该工具仅适用于学术和非营利研究人员，而不适用于大多数新闻媒体。 CrowdTangle 已被记者、研究人员和监管机构广泛使用，通过研究内容的病毒式传播来了解社交媒体，包括 Meta 的 Facebook 和 Instagram 平台上的虚假信息和阴谋论。从“Meta 到”取代广泛使用的数据工具，削减记者访问权限”
+华尔街日报 (03/15/24) Jeff Horwitz 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/tech/meta-to-replace-widely-used-data-tooland-largely-cut-off-reporter-access-43fc3f9d</guid>
+      <pubDate>Fri, 15 Mar 2024 15:06:57 GMT</pubDate>
     </item>
     <item>
-      <title>Python 在语言流行度指数中继续领先</title>
-      <link>https://www.infoworld.com/article/3714284/python-stretches-lead-in-language-popularity-index.html</link>
-      <description><![CDATA[信息世界最新的 Tiobe 编程社区指数显示，Python 在 3 月份的排名中成为最受欢迎的编程语言，其领先优势比排名第二的 C 近 4.5 个百分点。进入前 10 名的还有 C++、Java、C#、JavaScript、SQL、Go、Scratch 和 Visual Basic。同时，Pypl 3 月份编程语言流行度指数排名前 10 的语言为 Python、Java、JavaScript、C#、C/C++、R、PHP、TypeScript、Swift 和 Objective-C。摘自《Python 在语言流行度指数中继续领先》
-InfoWorld (03/11/24) Paul Krill 查看全文]]></description>
-      <guid>https://www.infoworld.com/article/3714284/python-stretches-lead-in-language-popularity-index.html</guid>
-      <pubDate>Wed, 13 Mar 2024 18:08:24 GMT</pubDate>
+      <title>世界上最大的计算机芯片将为超级计算机提供动力</title>
+      <link>https://www.livescience.com/technology/computing/worlds-largest-computer-chip-wse-3-will-power-massive-ai-supercomputer-8-times-faster-than-the-current-record-holder</link>
+      <description><![CDATA[LiveScienceCerebras 的 Wafer Scale Engine 3 (WSE-3) 目前是世界上最大的计算机芯片，预计将为 Condor Galaxy 3 超级计算机提供动力，该计算机将用于训练未来的人工智能系统。该芯片由 8.5 英寸 x 8.5 英寸硅晶圆制成，拥有 4 万亿个晶体管和 90 万个 AI 核心。目前正在建设中的 Condor Galaxy 3 将由 64 个 Cerebras CS-3 人工智能系统“构建块”组成，将产生 8 exaFLOPs 的计算能力。摘自“世界上最大的计算机芯片将为超级计算机提供动力” 
+生活科学 (03/14/24) Keumars Afifi-Sabet]]></description>
+      <guid>https://www.livescience.com/technology/computing/worlds-largest-computer-chip-wse-3-will-power-massive-ai-supercomputer-8-times-faster-than-the-current-record-holder</guid>
+      <pubDate>Fri, 15 Mar 2024 15:06:57 GMT</pubDate>
     </item>
     <item>
-      <title>4D 针织连衣裙利用热量和机器人技术实现完美合身、时尚</title>
-      <link>https://www.techtimes.com/articles/302433/20240309/mit-unveils-4d-knit-dress-uses-heat-robotic-tech-achieve.htm</link>
-      <description><![CDATA[科技时报麻省理工学院的研究人员开发了一种服装，可以使用热激活纱线、计算机针织方法和机器人激活为任何人定制合身和造型。 4D 针织连衣裙提供了可持续的时尚选择，因为后续的加热应用使其能够随着穿着者的风格偏好或体型而变化。摘自“4D 针织连衣裙利用热量、机器人技术实现完美贴合，风格”
-科技时报 (03/09/24) Jace Dela Cruz 查看全文]]></description>
-      <guid>https://www.techtimes.com/articles/302433/20240309/mit-unveils-4d-knit-dress-uses-heat-robotic-tech-achieve.htm</guid>
-      <pubDate>Wed, 13 Mar 2024 18:08:24 GMT</pubDate>
+      <title>各国正在逼近数字货币，而美国则落后</title>
+      <link>https://www.reuters.com/markets/currencies/countries-closing-digital-currencies-us-lagging-study-shows-2024-03-14/</link>
+      <description><![CDATA[路透社
+美国智库大西洋理事会的一份报告显示，代表全球经济 98% 的 134 个国家正在开发本国货币的数字版本。其中超过 50% 的工作处于高级开发、试点或发布阶段。该报告指出了 36 个正在进行的试点项目，其中包括中国的电子人民币，该项目正在 25 个城市的 2.6 亿人中进行试用。尽管报告称美国在为银行创建“批发”数字美元方面取得了一些进展，但报告发现为更广泛的人口开发数字美元的努力已经“停滞”。
+
+摘自《各国在数字货币方面日益接近，而美国则落后》
+路透社 (03/14/24) 马克·琼斯 查看全文]]></description>
+      <guid>https://www.reuters.com/markets/currencies/countries-closing-digital-currencies-us-lagging-study-shows-2024-03-14/</guid>
+      <pubDate>Fri, 15 Mar 2024 15:06:57 GMT</pubDate>
     </item>
     <item>
-      <title>硅谷正在向学术界收取人工智能研究费用</title>
-      <link>https://www.washingtonpost.com/technology/2024/03/10/big-tech-companies-ai-research/</link>
-      <description><![CDATA[《华盛顿邮报》被称为“人工智能教母”的斯坦福大学 ACM 研究员李飞飞在发表国情咨文演讲后敦促乔·拜登总统资助国家计算仓库力量和数据集，以确保国家领先的人工智能研究人员能够跟上大型科技公司的步伐。李说：“与工业相比，公共部门目前在资源和人才方面明显落后。这将产生深远的影响，因为工业专注于开发以利润为导向的技术，而公共部门的人工智能目标则专注于创造公共产品.&quot;摘自《硅谷正在为人工智能研究定价学者》
-华盛顿邮报 (03/10/24) 娜奥米·尼克斯；猫·扎克热夫斯基；格里特·德文克 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.washingtonpost.com/technology/2024/03/10/big-tech-companies-ai-research/</guid>
-      <pubDate>Wed, 13 Mar 2024 18:08:23 GMT</pubDate>
+      <title>欧盟议会批准人工智能法</title>
+      <link>https://www.france24.com/en/live-news/20240313-eu-parliament-adopts-historic-rules-on-ai</link>
+      <description><![CDATA[法国 24 日欧洲议会批准了影响深远的欧盟人工智能法规，目标是促进创新，同时保护公民免受快速发展技术带来的风险。所谓的《人工智能法案》将对风险较高的系统提出更严格的要求，禁止使用人工智能进行预测性警务；公共场所最实时的面部识别；用于推断种族、宗教或性取向的生物识别系统。该文本预计将于下个月获得欧盟国家的认可，预计最早于 5 月份在欧盟官方公报上发布。摘自“欧盟议会批准人工智能法”
+法国 24 小时 (03/13/24) 查看全文]]></description>
+      <guid>https://www.france24.com/en/live-news/20240313-eu-parliament-adopts-historic-rules-on-ai</guid>
+      <pubDate>Fri, 15 Mar 2024 15:06:56 GMT</pubDate>
     </item>
     <item>
-      <title>万维网 35 周年之际，WWW 发明家的预测</title>
-      <link>https://www.cnbc.com/2024/03/12/world-wide-web-turns-35-tim-berners-lee-gives-predictions-for-future.html</link>
-      <description><![CDATA[CNBCACM A.M. 35 岁了。图灵奖获得者、万维网的发明者蒂姆·伯纳斯·李分享了对其发明未来 35 年的预测。 “有些人担心 35 年后，人工智能是否会比我们更强大，”伯纳斯·李说。 “我预测的一件事—但我们可能必须为之奋斗—你将拥有一个值得信赖的人工智能助手，它会像医生一样为你服务。” 摘自“WWW发明家对网络35岁的预测”
-CNBC (03/12/24) Ryan Browne 查看全文]]></description>
-      <guid>https://www.cnbc.com/2024/03/12/world-wide-web-turns-35-tim-berners-lee-gives-predictions-for-future.html</guid>
-      <pubDate>Wed, 13 Mar 2024 18:08:23 GMT</pubDate>
+      <title>通过文化研究和刺绣机教孩子们编程</title>
+      <link>https://www.nationaltribune.com.au/uw-researchers-taught-kids-to-code-with-cultural-research-and-embroidery-machines/</link>
+      <description><![CDATA[《国家论坛报》（澳大利亚）华盛顿大学 (UW) 领导的研究小组使用“计算刺绣”来教高中生编程。该方法结合了文化研究和刺绣传统。它涉及使用开源 Turtlestitch 编码语言对刺绣图案进行编码，通过该语言将视觉块拼凑在一起，然后使用电动刺绣机将图案缝合到织物上。在深入研究 Turtlestitch 之前，学生们花了一周的时间探索刺绣文化传统。摘自《通过文化研究、刺绣机教孩子们编程》
+国家论坛报（澳大利亚）（03/15/24） 查看全文]]></description>
+      <guid>https://www.nationaltribune.com.au/uw-researchers-taught-kids-to-code-with-cultural-research-and-embroidery-machines/</guid>
+      <pubDate>Fri, 15 Mar 2024 15:06:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>TikTok 的安全威胁超出了众议院立法的范围</title>
+      <link>https://www.nytimes.com/2024/03/13/us/politics/tiktok-ban-house-bill.html</link>
+      <description><![CDATA[《纽约时报》美国众议院通过立法，要求 TikTok 以国家安全风险为由将其美国业务出售给非中国所有者，但这并没有解决 TikTok 代码和算法所有权所带来的安全问题。这些算法由中国母公司字节跳动的工程师开发，该算法根据用户的观看情况指导向用户显示的内容。由于中国不太可能允许这些算法授权给外部公司，美国拥有的 TikTok 将需要一种新的算法，该算法可能有效，也可能无效，并且可能使该应用程序变得毫无价值。摘自“TikTok 的安全”威胁超出了众议院立法的范围”
+纽约时报 (03/13/24) David E. Sanger；大卫·麦凯布 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/03/13/us/politics/tiktok-ban-house-bill.html</guid>
+      <pubDate>Fri, 15 Mar 2024 15:06:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
