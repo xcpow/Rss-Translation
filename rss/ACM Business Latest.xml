@@ -4,7 +4,7 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Fri, 15 Mar 2024 09:07:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2024 12:11:28 GMT</lastBuildDate>
     <item>
       <title>忘记聊天机器人吧。人工智能代理是未来</title>
       <link>https://www.wired.com/story/fast-forward-forget-chatbots-ai-agents-are-the-future/</link>
@@ -62,6 +62,20 @@
       <pubDate>Wed, 13 Mar 2024 06:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>比特币价格飙升的背后是什么？主要是共鸣</title>
+      <link>https://www.wired.com/story/bitcoin-price-record-economics/</link>
+      <description><![CDATA[比特币的价格已攀升至历史新高。但为加密货币分配一个值绝非易事。]]></description>
+      <guid>https://www.wired.com/story/bitcoin-price-record-economics/</guid>
+      <pubDate>Tue, 12 Mar 2024 18:13:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧洲解除对 Yandex 联合创始人 Arkady Volozh 的制裁</title>
+      <link>https://www.wired.com/story/arkady-volozh-eu-sanctions-lifted/</link>
+      <description><![CDATA[2023年6月，“俄罗斯谷歌”联合创始人登陆欧盟制裁名单。现在，他可以再次自由地建造。]]></description>
+      <guid>https://www.wired.com/story/arkady-volozh-eu-sanctions-lifted/</guid>
+      <pubDate>Tue, 12 Mar 2024 16:18:11 GMT</pubDate>
+    </item>
+    <item>
       <title>您的孩子可能已经在 YouTube 上观看人工智能生成的视频</title>
       <link>https://www.wired.com/story/your-kid-may-be-watching-ai-generated-videos-on-youtube/</link>
       <description><![CDATA[快速致富的骗子表示，现在是在 YouTube 上推送人工智能生成的儿童视频的好时机。 《连线》发现一些针对儿童的频道似乎已经接受了这项技术。]]></description>
@@ -95,20 +109,6 @@
       <description><![CDATA[机器人初创公司 Covariant 正在试验一种可以控制机械臂的 ChatGPT 式聊天机器人，以此来创建对现实世界更有帮助的机器。]]></description>
       <guid>https://www.wired.com/story/quest-ai-chatbots-a-hand-arm-robots/</guid>
       <pubDate>Mon, 11 Mar 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Twitter 前信任与安全主管约尔·罗斯 (Yoel Roth) 正在尝试清理你的约会应用程序</title>
-      <link>https://www.wired.com/story/yoel-roth-twitter-trust-safety-match-dating-apps/</link>
-      <description><![CDATA[尤尔·罗斯 (Yoel Roth) 辞去埃隆·马斯克 (Elon Musk) 推特顶级内容警察职务后，遭受了有针对性的骚扰。现在，他是约会巨头 Match Group 的信任和安全主管，也是 Tinder、Hinge 等公司的所有者。]]></description>
-      <guid>https://www.wired.com/story/yoel-roth-twitter-trust-safety-match-dating-apps/</guid>
-      <pubDate>Mon, 11 Mar 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>选择性遗忘可以帮助人工智能更好地学习</title>
-      <link>https://www.wired.com/story/how-selective-forgetting-can-help-ai-learn-better/</link>
-      <description><![CDATA[在训练过程中删除关键信息可以让机器学习模型更快、更轻松地学习新语言。]]></description>
-      <guid>https://www.wired.com/story/how-selective-forgetting-can-help-ai-learn-better/</guid>
-      <pubDate>Sun, 10 Mar 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
