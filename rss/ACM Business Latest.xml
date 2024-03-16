@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Fri, 15 Mar 2024 21:04:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Mar 2024 00:29:44 GMT</lastBuildDate>
+    <item>
+      <title>Reddit 出售用于人工智能培训的用户数据引起 FTC 调查</title>
+      <link>https://www.wired.com/story/reddits-sale-user-data-ai-training-draws-ftc-investigation/</link>
+      <description><![CDATA[该平台表示，未来几年它将从谷歌和其他希望用户评论为人工智能项目提供反馈的公司获得超过 2 亿美元的收入。监管机构有疑问。]]></description>
+      <guid>https://www.wired.com/story/reddits-sale-user-data-ai-training-draws-ftc-investigation/</guid>
+      <pubDate>Fri, 15 Mar 2024 22:34:18 GMT</pubDate>
+    </item>
     <item>
       <title>Y Combinator 的首席初创公司 Whisperer 正在自我降级</title>
       <link>https://www.wired.com/story/plaintext-y-combinator-michael-seibel-startup-whisperer/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[本月早些时候，埃隆·马斯克 (Elon Musk) 起诉 OpenAI 保守其技术机密。今天，他承诺免费赠送自己的“求真”聊天机器人 Grok。]]></description>
       <guid>https://www.wired.com/story/elon-musk-no-choice-open-chatbot-grok/</guid>
       <pubDate>Mon, 11 Mar 2024 18:15:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Airbnb 禁止所有室内监控摄像头</title>
-      <link>https://www.wired.com/story/airbnb-indoor-security-camera-ban/</link>
-      <description><![CDATA[从 4 月底开始，Airbnb 将不再允许房东在其出租房屋内安装安全摄像头，理由是承诺优先考虑客人的隐私。]]></description>
-      <guid>https://www.wired.com/story/airbnb-indoor-security-camera-ban/</guid>
-      <pubDate>Mon, 11 Mar 2024 14:38:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
