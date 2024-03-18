@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Mon, 18 Mar 2024 09:07:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 12:12:02 GMT</lastBuildDate>
+    <item>
+      <title>为什么 Slack Hold 音乐如此令人难以忘怀却又如此美妙？</title>
+      <link>https://www.wired.com/story/slack-huddle-hold-music-secret-history/</link>
+      <description><![CDATA[当你独自一人挤在一起时听到的那些声音不是预先录制的。他们很不可思议。]]></description>
+      <guid>https://www.wired.com/story/slack-huddle-hold-music-secret-history/</guid>
+      <pubDate>Mon, 18 Mar 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Reddit IPO 文件揭示了该公司的希望和担忧</title>
       <link>https://www.wired.com/story/reddit-ipo-filings-reveal-the-companys-hopes-and-fears/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>Y Combinator 的首席初创公司 Whisperer 正在自我降级</title>
       <link>https://www.wired.com/story/plaintext-y-combinator-michael-seibel-startup-whisperer/</link>
-      <description><![CDATA[随着这家颇具影响力的初创企业孵化器缩小规模并应对政治阻力，董事总经理迈克尔·塞贝尔(Michael Seibel)将担任新职务，花更多时间与创始人合作。]]></description>
+      <description><![CDATA[随着这家颇具影响力的初创企业孵化器缩小规模并应对政治阻力，董事总经理迈克尔·塞贝尔(Michael Seibel)将担任新角色，花更多时间与创始人合作。]]></description>
       <guid>https://www.wired.com/story/plaintext-y-combinator-michael-seibel-startup-whisperer/</guid>
       <pubDate>Fri, 15 Mar 2024 15:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[比特币的价格已攀升至历史新高。但为加密货币分配一个值绝非易事。]]></description>
       <guid>https://www.wired.com/story/bitcoin-price-record-economics/</guid>
       <pubDate>Tue, 12 Mar 2024 18:13:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧洲解除对 Yandex 联合创始人 Arkady Volozh 的制裁</title>
-      <link>https://www.wired.com/story/arkady-volozh-eu-sanctions-lifted/</link>
-      <description><![CDATA[2023年6月，“俄罗斯谷歌”联合创始人登陆欧盟制裁名单。现在，他可以再次自由地建造。]]></description>
-      <guid>https://www.wired.com/story/arkady-volozh-eu-sanctions-lifted/</guid>
-      <pubDate>Tue, 12 Mar 2024 16:18:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
