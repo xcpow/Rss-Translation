@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Mon, 18 Mar 2024 03:08:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 06:09:58 GMT</lastBuildDate>
+    <item>
+      <title>内置无人机摄像头的电动汽车已登陆中国</title>
+      <link>https://www.wired.com/story/evs-with-built-in-camera-drones-have-already-landed-in-china/</link>
+      <description><![CDATA[在西方，这仍然是概念和幻想的东西，世界另一端的汽车制造商正在将直升机放入他们的汽车中。]]></description>
+      <guid>https://www.wired.com/story/evs-with-built-in-camera-drones-have-already-landed-in-china/</guid>
+      <pubDate>Mon, 18 Mar 2024 06:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>FCC 现在表示宽带速度应至少为 100 Mbps</title>
       <link>https://www.wired.com/story/fcc-broadband-speed-100mbps/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>法官宣布克雷格·赖特不是比特币创造者中本聪</title>
       <link>https://www.wired.com/story/craig-wright-not-satoshi-nakamoto-bitcoin-creator-ruling/</link>
-      <description><![CDATA[英国高等法院在为期六周的审判结束后做出了令人惊讶的快速裁决，结束了克雷格·赖特 (Craig Wright) 被公认为比特币发明者的竞选活动。]]></description>
+      <description><![CDATA[英国高等法院在为期六周的审判结束后出人意料地迅速做出裁决，结束了克雷格·赖特 (Craig Wright) 被公认为比特币发明者的竞选活动。]]></description>
       <guid>https://www.wired.com/story/craig-wright-not-satoshi-nakamoto-bitcoin-creator-ruling/</guid>
       <pubDate>Thu, 14 Mar 2024 14:01:17 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[快速致富的骗子表示，现在是在 YouTube 上推送人工智能生成的儿童视频的好时机。 《连线》发现一些针对儿童的频道似乎已经接受了这项技术。]]></description>
       <guid>https://www.wired.com/story/your-kid-may-be-watching-ai-generated-videos-on-youtube/</guid>
       <pubDate>Tue, 12 Mar 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>币安首席加密货币犯罪调查员在尼日利亚被拘留</title>
-      <link>https://www.wired.com/story/binance-top-investigator-detained-nigeria/</link>
-      <description><![CDATA[专注于加密货币的前美国联邦特工 Tigran Gambaryan 和币安第二任高管 Nadeem Anjarwalla 已在阿布贾被关押两周，没有护照。]]></description>
-      <guid>https://www.wired.com/story/binance-top-investigator-detained-nigeria/</guid>
-      <pubDate>Tue, 12 Mar 2024 04:03:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
