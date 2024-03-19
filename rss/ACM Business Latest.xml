@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Tue, 19 Mar 2024 09:07:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 12:12:16 GMT</lastBuildDate>
+    <item>
+      <title>儿童卡通片可免遭 YouTube Deepfake 披露规则的限制</title>
+      <link>https://www.wired.com/story/kids-cartoons-free-pass-youtube-deepfake-disclosure-rules/</link>
+      <description><![CDATA[YouTube 现在需要为某些生成式 AI 内容添加标签。为儿童制作的动画除外。]]></description>
+      <guid>https://www.wired.com/story/kids-cartoons-free-pass-youtube-deepfake-disclosure-rules/</guid>
+      <pubDate>Tue, 19 Mar 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>为什么 Slack Hold 音乐如此令人难以忘怀却又如此美妙？</title>
       <link>https://www.wired.com/story/slack-huddle-hold-music-secret-history/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[特斯拉和通用汽车可能在自动驾驶技术方面举步维艰，但亚洲的情况恰恰相反。 《连线》测试了中国排名前三的自动驾驶系统，看看它们到底领先多少。]]></description>
       <guid>https://www.wired.com/story/chinas-best-self-driving-car-platforms-tested-and-compared-xpeng-nio-li-auto/</guid>
       <pubDate>Wed, 13 Mar 2024 06:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>比特币价格飙升的背后是什么？主要是共鸣</title>
-      <link>https://www.wired.com/story/bitcoin-price-record-economics/</link>
-      <description><![CDATA[比特币的价格已攀升至历史新高。但为加密货币分配一个值绝非易事。]]></description>
-      <guid>https://www.wired.com/story/bitcoin-price-record-economics/</guid>
-      <pubDate>Tue, 12 Mar 2024 18:13:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
