@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Tue, 19 Mar 2024 18:08:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 21:05:00 GMT</lastBuildDate>
+    <item>
+      <title>苹果的 MM1 AI 模型显示沉睡的巨人正在苏醒</title>
+      <link>https://www.wired.com/story/apples-mm1-ai-model-sleeping-giant-waking-up/</link>
+      <description><![CDATA[苹果悄悄发布的一篇研究论文描述了一种名为 MM1 的 AI 模型，可以回答问题并分析图像。这是苹果正在开发生成式人工智能功能的最大迹象。]]></description>
+      <guid>https://www.wired.com/story/apples-mm1-ai-model-sleeping-giant-waking-up/</guid>
+      <pubDate>Tue, 19 Mar 2024 20:25:29 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌 DeepMind 的新人工智能模型可以帮助足球队取得完美角球</title>
       <link>https://www.wired.com/story/deepmind-is-helping-soccer-teams-take-the-perfect-corner/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[一个由暴力掠夺者组成的全球网络正隐藏在众目睽睽之下，在主要平台上以儿童为目标，诱骗他们，并勒索他们实施可怕的虐待行为。]]></description>
       <guid>https://www.wired.com/story/764-com-child-predator-network/</guid>
       <pubDate>Wed, 13 Mar 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>年龄歧视困扰着一些在求职竞争中的科技工作者</title>
-      <link>https://www.wired.com/story/ageism-haunts-tech-workers-layoffs-race-to-get-hired/</link>
-      <description><![CDATA[自 2022 年以来，已有数十万技术工人被解雇。一些不符合年轻程序员原型的人表示，经验丰富可能会让人感觉处于劣势。]]></description>
-      <guid>https://www.wired.com/story/ageism-haunts-tech-workers-layoffs-race-to-get-hired/</guid>
-      <pubDate>Wed, 13 Mar 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
