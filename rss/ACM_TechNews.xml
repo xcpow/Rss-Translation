@@ -4,102 +4,94 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Mon, 18 Mar 2024 15:06:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 18:08:43 GMT</lastBuildDate>
     <item>
-      <title>美国国家航空航天局 (NASA) 的任务因过时的超级计算机而延迟</title>
-      <link>https://www.theregister.com/2024/03/15/nasa_oig_supercomputing_audit/</link>
-      <description><![CDATA[登记册查看全文]]></description>
-      <guid>https://www.theregister.com/2024/03/15/nasa_oig_supercomputing_audit/</guid>
-      <pubDate>Mon, 18 Mar 2024 15:06:58 GMT</pubDate>
+      <title>颈部贴片让人们无需声带就能说话</title>
+      <link>https://www.jpost.com/science/article-792282</link>
+      <description><![CDATA[耶路撒冷邮报加州大学洛杉矶分校的生物工程师开发的一种可穿戴设备，可以贴在喉咙皮肤上，帮助声带功能障碍的人恢复发声功能。该设备能够检测人的喉部肌肉的运动，并在机器学习技术的帮助下将这些信号转化为可听的语音，研究人员称其准确率接近 95%。 摘自《颈贴让人们无需声带就能说话》
+耶路撒冷邮报 (03/17/24) JUDY SIEGEL-ITZKOVICH 查看全文]]></description>
+      <guid>https://www.jpost.com/science/article-792282</guid>
+      <pubDate>Wed, 20 Mar 2024 18:08:43 GMT</pubDate>
     </item>
     <item>
-      <title>贴纸读取最小的动作</title>
-      <link>https://spectrum.ieee.org/wearable-sensors</link>
-      <description><![CDATA[IEEE Spectrum中国桂林电子科技大学和北京师范大学的研究人员开发了一款可穿戴贴纸，可以将手、手指或嘴巴的动作转化为文字或命令。这可以帮助改善残疾人和中风康复者的沟通。 2 厘米 x 4 厘米的传感器由柔性硅橡胶制成，嵌入光纤，可以检测到最小的运动。摘自“贴纸读取最小的运动”
-IEEE Spectrum (03/14/24) Charles Q. Choi 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/wearable-sensors</guid>
-      <pubDate>Mon, 18 Mar 2024 15:06:57 GMT</pubDate>
+      <title>VR 耳机接近眼睛的分辨率极限</title>
+      <link>https://spectrum.ieee.org/virtual-reality-head-set-8k</link>
+      <description><![CDATA[IEEE Spectrum用于 AR/VR 耳机的 micro-OLED 和 micro-LED 显示器开发商致力于实现更高的像素密度以实现更高分辨率。更高的像素密度将使视觉效果显得更加逼真，并允许更紧凑的显示器达到“人类分辨率栏”，即视力为 20/20 的人不再感觉到任何改进。 Pimax 的 Nordic Ren 所说的“原始图形计算能力不足”的潜在解决方案包括焦点渲染和智能帧插值算法。摘自“VR 耳机接近眼睛分辨率限制”
+IEEE Spectrum (03/15/24) Matthew S. Smith 查看完整内容文章]]></description>
+      <guid>https://spectrum.ieee.org/virtual-reality-head-set-8k</guid>
+      <pubDate>Wed, 20 Mar 2024 18:08:42 GMT</pubDate>
     </item>
     <item>
-      <title>英国将加入欧盟半导体研究计划</title>
-      <link>https://www.reuters.com/world/europe/britain-join-eu-semiconductor-research-programme-2024-03-13/</link>
-      <description><![CDATA[路透社英国3月13日宣布，将加入欧盟倡议，在欧洲开发和制造先进半导体，努力发展国内半导体供应链。英国已承诺向 13 亿欧元（14 亿美元）的研究和创新基金提供 3500 万英镑（4500 万美元）。加入该计划将使英国半导体公司能够竞标该基金的资助。摘自“英国加入欧盟半导体研究计划”
-路透社 (03/13/24) Farouq Suleiman 查看全文]]></description>
-      <guid>https://www.reuters.com/world/europe/britain-join-eu-semiconductor-research-programme-2024-03-13/</guid>
-      <pubDate>Mon, 18 Mar 2024 15:06:57 GMT</pubDate>
+      <title>智能无檐小便帽检测交通灯</title>
+      <link>https://interestingengineering.com/innovation/smart-beanie-detects-traffic-lights-with-new-hair-thin-semiconductor-fibres</link>
+      <description><![CDATA[有趣的工程新加坡南洋理工大学的研究人员开发的超薄半导体纤维可以编织成织物，以制造智能可穿戴电子产品。由于改进的建模和模拟技术解决了制造此类纤维时应力引起的裂纹的挑战，这种细如发丝的纤维可以制成长达 100 米。研究人员将这些纤维融入一顶无檐小便帽中，供视障人士佩戴，以便在交通信号灯变化时向他们发出警报。摘自“智能无檐小便帽检测交通灯”
+有趣的工程 (03/14/24) Abdul-Rahman Oladimeji Bello 查看全文]]></description>
+      <guid>https://interestingengineering.com/innovation/smart-beanie-detects-traffic-lights-with-new-hair-thin-semiconductor-fibres</guid>
+      <pubDate>Wed, 20 Mar 2024 18:08:42 GMT</pubDate>
     </item>
     <item>
-      <title>毕业五年后收入最高的大学专业</title>
-      <link>https://www.cnbc.com/2024/03/14/highest-paying-college-majors-5-years-after-graduation.html</link>
-      <description><![CDATA[CNBC纽约联储的一项研究发现，计算机工程专业的大学毕业生毕业五年后收入最高，年薪中位数为8万美元。计算机科学专业排名第三，年薪中位数分别为 78,000 美元。对于35岁至45岁之间的职业中期工作者来说，计算机工程排名第二，年薪中位数为135,000美元，计算机科学排名第六，年薪中位数为110,000美元。美国劳工部预测表明，到 2031 年，STEM 职位的增长速度预计将是非 STEM 职位的两倍。摘自“毕业五年后薪酬最高的大学专业”
-CNBC (03/14/24) 迈克·温特斯 查看全文]]></description>
-      <guid>https://www.cnbc.com/2024/03/14/highest-paying-college-majors-5-years-after-graduation.html</guid>
-      <pubDate>Mon, 18 Mar 2024 15:06:56 GMT</pubDate>
+      <title>3D 打印每天可生产一百万个微型颗粒</title>
+      <link>https://www.techtimes.com/articles/302604/20240315/stanford-universitys-groundbreaking-3d-printing-produces-one-million-microscale-particles-daily.htm</link>
+      <description><![CDATA[Tech Times斯坦福大学研究人员首创的 3D 打印技术每天可生产多达 100 万个定制微米级颗粒。研究人员此前开发了一种可扩展的微型 3D 打印方法，称为连续液体界面生产 (CLIP)。在他们最近的开发中，称为卷对卷 CLIP (r2rCLIP)，将精心张紧的薄膜送入 CLIP 打印机，在薄膜上打印可定制的形状。这些颗粒可用于多种应用，包括微流体、疫苗输送和微电子学。摘自“3D 打印每天生产一百万个微型颗粒”
+科技时报 (03/15/24) Inno Flores 查看全文]]></description>
+      <guid>https://www.techtimes.com/articles/302604/20240315/stanford-universitys-groundbreaking-3d-printing-produces-one-million-microscale-particles-daily.htm</guid>
+      <pubDate>Wed, 20 Mar 2024 18:08:41 GMT</pubDate>
     </item>
     <item>
-      <title>印度为大学配备芯片设计工具</title>
-      <link>https://economictimes.indiatimes.com/tech/technology/govt-equipping-over-100-colleges-with-cutting-edge-chip-design-tools/articleshow/108373482.cms</link>
-      <description><![CDATA[经济时报（印度）为了支持半导体行业熟练劳动力的发展，印度政府正在向 103 所大学提供来自西门子 EDA、Synopsys 和 Cadence 的电子设计自动化 (EDA) 工具和初创公司。通过“从芯片到初创公司”计划，政府将在 2027 年 1 月之前为 85,000 人提供大规模集成和嵌入式系统设计培训。摘自“印度为大学配备芯片设计工具”
-经济时报（印度） (03/11/24) Suraksha P]]></description>
-      <guid>https://economictimes.indiatimes.com/tech/technology/govt-equipping-over-100-colleges-with-cutting-edge-chip-design-tools/articleshow/108373482.cms</guid>
-      <pubDate>Mon, 18 Mar 2024 15:06:56 GMT</pubDate>
+      <title>没有人工智能技能的科技求职者面临新的现实</title>
+      <link>https://www.wsj.com/articles/tech-job-seekers-without-ai-skills-face-a-new-reality-lower-salaries-and-fewer-roles-db63f6e0?mod=economy_lead_story</link>
+      <description><![CDATA[华尔街日报咨询公司 Janco Associates 表示，由于技能与薪酬期望不匹配，最近被解雇的信息技术工人无法很快找到新工作。 Janco的数据显示，近几个月来，电信、企业系统管理和入门级IT等领域的职位有所减少，而网络安全、人工智能和数据科学领域的职位则继续上升。与此同时，职位列表聚合器 Indeed 的数据显示，IT 员工的平均总薪酬约为 10 万美元，而具有生成式人工智能技能的员工的平均薪资潜力为 174,727 美元。摘自《没有人工智能的科技求职者》技能面临新现实”
+华尔街日报 (03/18/24) Belle Lin 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/articles/tech-job-seekers-without-ai-skills-face-a-new-reality-lower-salaries-and-fewer-roles-db63f6e0?mod=economy_lead_story</guid>
+      <pubDate>Wed, 20 Mar 2024 18:08:41 GMT</pubDate>
     </item>
     <item>
-      <title>NSF 选择 Greg Hager 担任 CISE 理事会主席</title>
-      <link>https://www.hpcwire.com/off-the-wire/nsf-selects-greg-hager-to-head-computer-and-information-science-and-engineering-directorate/</link>
-      <description><![CDATA[HPCwire美国国家科学基金会 (NSF) 任命 ACM 院士 Gregory D. Hager 领导其计算机和信息科学与工程理事会 (CISE)。海格是约翰·霍普金斯大学计算机科学教授。他的研究涵盖人工智能和机器学习的许多领域，包括视频数据的活动识别和检测；基于协作和视觉的机器人技术；以及机器学习、图像分析和机器人技术的医学应用。摘自“NSF 选择 Greg Hager 担任 CISE 理事会主席”
-HPCwire (03/15/24) 查看全文]]></description>
-      <guid>https://www.hpcwire.com/off-the-wire/nsf-selects-greg-hager-to-head-computer-and-information-science-and-engineering-directorate/</guid>
-      <pubDate>Mon, 18 Mar 2024 15:06:55 GMT</pubDate>
+      <title>不重复的瓷砖图案可以保护量子信息</title>
+      <link>https://www.wired.com/story/never-repeating-patterns-of-tiles-can-safeguard-quantum-information/</link>
+      <description><![CDATA[《连线》加拿大周界理论物理研究所的李志和英国爱丁堡大学的莱瑟姆·博伊尔开发了一种基于彭罗斯平铺的量子纠错码，无论怎样，它都不会产生周期性重复模式。它们是如何安排的。研究人员确定了哪些平铺配置不会受到局部错误的影响，并在区分不同彭罗斯平铺之间的两种性质不同的关系后，他们构建了一个纠错代码，其中类似状态是单个等价类中所有平铺的叠加。&lt; br /&gt;摘自《永不重复的瓷砖图案可以保护量子信息》
+《连线》(03/17/24) Ben Brubaker 查看全文]]></description>
+      <guid>https://www.wired.com/story/never-repeating-patterns-of-tiles-can-safeguard-quantum-information/</guid>
+      <pubDate>Wed, 20 Mar 2024 18:08:40 GMT</pubDate>
     </item>
     <item>
-      <title>使用再生木材制成的墨水 3D 打印微型家具</title>
-      <link>https://www.newscientist.com/article/2422567-miniature-furniture-3d-printed-using-ink-made-from-recycled-wood/</link>
-      <description><![CDATA[新科学家莱斯大学的 Muhammad Rahman 及其同事将废木材重新制成可用于 3D 打印的墨水。该团队使用这种墨水来制作微型家具和蜂窝结构。拉赫曼说，“我们需要重新思考如何在不砍伐树木的情况下建造建筑物。如果我们能够使用 3D 打印代替传统制造来回收废弃木材，那将是一个很好的进步。”摘自《使用再生木材制成的墨水 3D 打印微型家具》
-新科学家 (03/15/24) 陈丽 查看全文]]></description>
-      <guid>https://www.newscientist.com/article/2422567-miniature-furniture-3d-printed-using-ink-made-from-recycled-wood/</guid>
-      <pubDate>Mon, 18 Mar 2024 15:06:55 GMT</pubDate>
+      <title>“GhostRace”推测执行攻击影响所有 CPU、操作系统供应商</title>
+      <link>https://www.darkreading.com/cyber-risk/ghostrace-speculative-execution-attack-cpu-os-vendors</link>
+      <description><![CDATA[暗读IBM 和荷兰阿姆斯特丹自由大学 (VU 阿姆斯特丹) 的研究人员开发的一种攻击利用 Intel、AMD、ARM 和 IBM 处理器的缺陷来绕过操作系统针对种族的控制状况。这种名为“GhostRace”的攻击针对的是现代处理器的推测执行（乱序处理）功能，特别是条件分支推测。研究人员表示，“安全隐患非常重大，因为攻击者可以在不同步的情况下推测执行受害软件中的所有关键区域。”来自“‘GhostRace’推测执行攻击影响所有 CPU、操作系统供应商”
+暗读 (03/15/24) Jai Vjayan 查看全文]]></description>
+      <guid>https://www.darkreading.com/cyber-risk/ghostrace-speculative-execution-attack-cpu-os-vendors</guid>
+      <pubDate>Wed, 20 Mar 2024 18:08:40 GMT</pubDate>
     </item>
     <item>
-      <title>微软安全人工智能产品帮助客户追踪黑客</title>
-      <link>https://www.bloomberg.com/news/articles/2024-03-13/microsoft-to-release-security-ai-product-to-help-clients-track-hackers</link>
-      <description><![CDATA[彭博社在与企业客户进行为期一年的试用后，微软计划于 4 月 1 日推出 Copilot for Security。利用 OpenAI 和 Microsoft 收集的大量安全特定数据，Copilot 可以与 Microsoft 的安全和隐私软件集成，以生成可疑事件摘要、回答问题并确定攻击者的意图。测试表明，新安全工作者的 Copilot 性能速度提高了 26%，准确性提高了 35%。摘自《微软安全 AI 产品帮助客户追踪黑客》
-彭博社 (03/13/24) 迪娜·巴斯 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-03-13/microsoft-to-release-security-ai-product-to-help-clients-track-hackers</guid>
-      <pubDate>Mon, 18 Mar 2024 15:06:54 GMT</pubDate>
+      <title>汽车制造商分享消费者的驾驶行为</title>
+      <link>https://www.nytimes.com/2024/03/11/technology/carmakers-driver-tracking-insurance.html</link>
+      <description><![CDATA[纽约时报一些汽车制造商从互联网控制的车辆中收集信息，并将其传递给合作数据经纪人，然后由数据经纪人将其出售给汽车保险公司。在某些情况下，司机并没有意识到，如果他们打开某些旨在为他们提供信息优势的联网汽车应用程序，保险公司就会收集并使用他们的驾驶习惯数据来增加他们的汽车保险费。汽车制造商的数据收集做法正在接受加州隐私监管机构的调查，美国参议员爱德华·马基已呼吁联邦贸易委员会进行调查。摘自《汽车制造商分享消费者的驾驶行为》
+纽约时报 (03/12/24) 克什米尔山 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/03/11/technology/carmakers-driver-tracking-insurance.html</guid>
+      <pubDate>Wed, 20 Mar 2024 18:08:39 GMT</pubDate>
     </item>
     <item>
-      <title>Pi 计算为 105 万亿位数字</title>
-      <link>https://www.livescience.com/physics-mathematics/mathematics/pi-calculated-to-105-trillion-digits-smashing-world-record</link>
-      <description><![CDATA[LiveScience在圆周率日（3 月 14 日），总部位于加州的数据存储公司 Solidigm 透露，它已通过计算将圆周率的值解码为 105 万亿位数字。去年，Solidigm 追平了谷歌云在 2022 年计算出的 100 万亿位圆周率的记录。最近的计算大约需要 75 天才能完成，并使用了该公司的 36 个专有固态硬盘进行计算。存储了大约 1 PB 的数据。来自“Pi 计算为 105 万亿位数字”
-生活科学 (03/15/24) 哈利·贝克 查看全文]]></description>
-      <guid>https://www.livescience.com/physics-mathematics/mathematics/pi-calculated-to-105-trillion-digits-smashing-world-record</guid>
-      <pubDate>Mon, 18 Mar 2024 15:06:54 GMT</pubDate>
+      <title>美国警告供水系统遭受网络攻击</title>
+      <link>https://www.bloomberg.com/news/articles/2024-03-19/us-warns-of-cyberattacks-against-water-systems-throughout-nation?sref=db2f3qgr</link>
+      <description><![CDATA[彭博社美国环境保护局局长迈克尔·里根和国家安全顾问杰克·沙利文在周二公开的致州长的信中警告说，美国供水系统面临来自与伊朗和中国政府有关的黑客的国家支持的网络攻击的风险。 “饮用水和废水系统是网络攻击的一个有吸引力的目标，因为它们是生命线关键基础设施部门，但往往缺乏采取严格网络安全实践的资源和技术能力，”信中指出。摘自“美国警告水系统遭受网络攻击”
+彭博社 (03/19/24) Ari Natter 查看全文]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-03-19/us-warns-of-cyberattacks-against-water-systems-throughout-nation?sref=db2f3qgr</guid>
+      <pubDate>Wed, 20 Mar 2024 18:08:39 GMT</pubDate>
     </item>
     <item>
-      <title>科学侦探追查不良研究</title>
-      <link>https://www.wsj.com/tech/scientific-papers-imagetwin-proofig-image-scanning-4eae1aad</link>
-      <description><![CDATA[《华尔街日报》Imagetwin 和 Proofig AI 等图像扫描软件工具越来越多地用于识别科学研究中的欺骗性图像。该软件自动执行检测重复或操纵图像的过程。例如，Imagetwin 可以将图像与包含 20 年前 5100 万张图像的数据库进行比较，以识别之前研究中拍摄的照片。 Proofig 可以比较论文中的图像，并在几分钟内识别出复制或操纵的迹象。摘自“科学侦探追踪不良研究”
-华尔街日报 (03/13/24) Nidhi Subbaraman 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/tech/scientific-papers-imagetwin-proofig-image-scanning-4eae1aad</guid>
-      <pubDate>Mon, 18 Mar 2024 15:06:53 GMT</pubDate>
+      <title>中国和西方科学家确定人工智能风险的“红线”</title>
+      <link>https://www.ft.com/content/375f4e2d-1f72-49c8-b212-0ab2a173b8cb</link>
+      <description><![CDATA[英国《金融时报》西方和中国人工智能科学家签署的一份声明警告说，冷战级别的全球合作对于避免人工智能技术带来的“人类有生之年的灾难性甚至生存风险”是必要的。在北京举行的国际人工智能安全对话会上，专家们就人工智能风险设立了“红线”，任何人工智能系统都不应跨越，包括生物武器的开发和网络攻击的发起。声明签署人包括 ACM A. M. 图灵奖获得者 Geoffrey Hinton 和 Yoshua Bengio，以及计算机科学家 Stuart Russell 和 Andrew Yao。摘自《中国和西方科学家识别人工智能风险的‘红线’》 
+英国《金融时报》（03/18/24）克里斯蒂娜·克里德尔；埃莉诺·奥尔科特； Madhumita Murgia 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.ft.com/content/375f4e2d-1f72-49c8-b212-0ab2a173b8cb</guid>
+      <pubDate>Wed, 20 Mar 2024 18:08:38 GMT</pubDate>
     </item>
     <item>
-      <title>马来西亚崛起为芯片供应链的关键环节</title>
-      <link>https://www.nytimes.com/2024/03/13/business/malaysia-semiconductors.html</link>
-      <description><![CDATA[纽约时报越来越多的欧美科技公司正在将供应链和生产能力扩展到马来西亚。制造高端印刷电路板和基板的 AT&amp;S 的 Andreas Gerstenmayer 表示，马来西亚对半导体行业的了解、“大学、教育、劳动力、供应链中成熟的生态系统”以及政府的支持公司决定在那里设立新生产基地的幕后推手。由于疫情期间出现的供应链弱点以及西方公司向中国以外的多元化发展，马来西亚的受欢迎程度有所上升。摘自《马来西亚崛起为芯片供应链的关键一环》
-纽约时报 (03/13/24) Patricia Cohen 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/03/13/business/malaysia-semiconductors.html</guid>
-      <pubDate>Mon, 18 Mar 2024 15:06:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>梅赛德斯雇用人形机器人在工厂工作</title>
-      <link>https://www.pcmag.com/news/mercedes-hires-humanoid-robots-work-at-its-factories</link>
-      <description><![CDATA[PC 杂志德国汽车制造商梅赛德斯-奔驰 (Mercedes-Benz) 周五宣布，将在其工厂中添加来自德克萨斯州 Apptronik 公司的 Apollo 人形机器人。阿波罗身高 5 英尺 8 英寸据该公司网站称，其高度、重量为 160 磅，最多可举起 55 磅。梅赛德斯的 J&amp;omlrg Burzer 表示：“这是一个新领域，我们希望了解机器人技术和汽车制造在填补低技能、重复性和体力劳动等领域的劳动力缺口方面的潜力。”
-摘自《梅赛德斯雇用人形机器人到工厂工作》
-PC 杂志 (03/15/24) Kate Irwin 查看全文]]></description>
-      <guid>https://www.pcmag.com/news/mercedes-hires-humanoid-robots-work-at-its-factories</guid>
-      <pubDate>Mon, 18 Mar 2024 15:06:52 GMT</pubDate>
+      <title>外国出生的 STEM 人才对美国研究至关重要</title>
+      <link>https://www.axios.com/2024/03/13/us-workforce-foreign-born-stem-research</link>
+      <description><![CDATA[Axios美国国家科学基金会国家科学与工程统计中心的一份报告显示，2021年美国STEM工作者为3860万，约占全国劳动力的24%，比2011年增长了2%。 2021 年（有数据的最近一年），出生工人占美国 STEM 工人的 19%，博士级科学家和工程师的 43%。报告还发现，在美国工作的博士级计算机和数学科学家中，超过一半（58%）是在外国出生的。摘自《外国出生的 STEM 人才是美国研究的关键》
+Axios (03/13/24) 艾莉森·斯奈德 查看全文]]></description>
+      <guid>https://www.axios.com/2024/03/13/us-workforce-foreign-born-stem-research</guid>
+      <pubDate>Wed, 20 Mar 2024 18:08:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
