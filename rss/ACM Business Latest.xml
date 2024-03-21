@@ -4,7 +4,21 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Thu, 21 Mar 2024 15:07:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 18:08:56 GMT</lastBuildDate>
+    <item>
+      <title>美国国家安全局警告称，美国对手自由挖掘私人数据可能拥有人工智能优势</title>
+      <link>https://www.wired.com/story/fast-forward-nsa-warns-us-adversaries-private-data-ai-edge/</link>
+      <description><![CDATA[美国国家安全局研究负责人吉尔伯特·埃雷拉 (Gilbert Herrera) 表示，大型语言模型对于美国的情报机器来说非常有用，但也有点令人头疼。]]></description>
+      <guid>https://www.wired.com/story/fast-forward-nsa-warns-us-adversaries-private-data-ai-edge/</guid>
+      <pubDate>Thu, 21 Mar 2024 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国在 iPhone 反垄断重磅案件中起诉苹果</title>
+      <link>https://www.wired.com/story/doj-sues-apple-antitrust/</link>
+      <description><![CDATA[司法部的诉讼是迄今为止对苹果主导生态系统最激进的法律挑战。]]></description>
+      <guid>https://www.wired.com/story/doj-sues-apple-antitrust/</guid>
+      <pubDate>Thu, 21 Mar 2024 15:08:09 GMT</pubDate>
+    </item>
     <item>
       <title>Perplexity 的创始人受到 Sundar Pichai 的启发。现在他们正在竞相重塑搜索</title>
       <link>https://www.wired.com/story/founder-perplexity-ai-sundar-pichai-competing-to-reinvent-search/</link>
@@ -50,7 +64,7 @@
     <item>
       <title>谷歌 DeepMind 的新人工智能模型可以帮助足球队取得完美角球</title>
       <link>https://www.wired.com/story/deepmind-is-helping-soccer-teams-take-the-perfect-corner/</link>
-      <description><![CDATA[TacticAI 是由 Google DeepMind 创建的足球人工智能模型，可以预测角球的走向，并提出调整建议，以提高或降低进球的可能性。]]></description>
+      <description><![CDATA[TacticAI 是由 Google DeepMind 创建的足球人工智能模型，可以预测角球的走向，并提出调整建议以提高或降低进球的可能性。]]></description>
       <guid>https://www.wired.com/story/deepmind-is-helping-soccer-teams-take-the-perfect-corner/</guid>
       <pubDate>Tue, 19 Mar 2024 16:00:00 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[该平台表示，未来几年它将从谷歌和其他希望用户评论为人工智能项目提供反馈的公司获得超过 2 亿美元的收入。监管机构有疑问。]]></description>
       <guid>https://www.wired.com/story/reddits-sale-user-data-ai-training-draws-ftc-investigation/</guid>
       <pubDate>Fri, 15 Mar 2024 22:34:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Y Combinator 的首席初创公司 Whisperer 正在自我降级</title>
-      <link>https://www.wired.com/story/plaintext-y-combinator-michael-seibel-startup-whisperer/</link>
-      <description><![CDATA[随着这家颇具影响力的初创企业孵化器缩小规模并应对政治阻力，董事总经理迈克尔·塞贝尔(Michael Seibel)将担任新职务，花更多时间与创始人合作。]]></description>
-      <guid>https://www.wired.com/story/plaintext-y-combinator-michael-seibel-startup-whisperer/</guid>
-      <pubDate>Fri, 15 Mar 2024 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>忘记聊天机器人吧。人工智能代理是未来</title>
-      <link>https://www.wired.com/story/fast-forward-forget-chatbots-ai-agents-are-the-future/</link>
-      <description><![CDATA[初创公司和科技巨头正试图从通过文本提供帮助的聊天机器人转向可以完成工作的人工智能代理。最近的演示包括一个名为 Devin 的人工智能编码器和玩视频游戏的代理。]]></description>
-      <guid>https://www.wired.com/story/fast-forward-forget-chatbots-ai-agents-are-the-future/</guid>
-      <pubDate>Thu, 14 Mar 2024 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
