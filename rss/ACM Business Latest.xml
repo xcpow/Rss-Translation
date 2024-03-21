@@ -4,7 +4,21 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Thu, 21 Mar 2024 06:09:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 09:07:21 GMT</lastBuildDate>
+    <item>
+      <title>Perplexity 的创始人受到 Sundar Pichai 的启发。现在他们正在竞相重塑搜索</title>
+      <link>https://www.wired.com/story/founder-perplexity-ai-sundar-pichai-competing-to-reinvent-search/</link>
+      <description><![CDATA[阿拉文德·斯里尼瓦斯 (Aravind Srinivas) 与谷歌首席执行官在同一座城市长大，早在创办自己的人工智能搜索初创公司之前就对这家公司产生了浓厚的兴趣。]]></description>
+      <guid>https://www.wired.com/story/founder-perplexity-ai-sundar-pichai-competing-to-reinvent-search/</guid>
+      <pubDate>Thu, 21 Mar 2024 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>宝马 Vision Neue Klasse X 拥有车宽屏幕和“欢乐”大脑</title>
+      <link>https://www.wired.com/story/bmws-vision-neue-klasse-x-has-a-car-wide-screen-and-a-joy-brain/</link>
+      <description><![CDATA[这家德国汽车制造商展示了下一代宝马电动汽车的内部和外部外观，包括更好的电池、精美的新型中央计算机和巨大的新型挡风玻璃显示屏。]]></description>
+      <guid>https://www.wired.com/story/bmws-vision-neue-klasse-x-has-a-car-wide-screen-and-a-joy-brain/</guid>
+      <pubDate>Thu, 21 Mar 2024 08:15:00 GMT</pubDate>
+    </item>
     <item>
       <title>这是你可以在不滥用受版权保护的内容的情况下训练人工智能模型的证据</title>
       <link>https://www.wired.com/story/proof-you-can-train-ai-without-slurping-copyrighted-content/</link>
@@ -36,7 +50,7 @@
     <item>
       <title>谷歌 DeepMind 的新人工智能模型可以帮助足球队取得完美角球</title>
       <link>https://www.wired.com/story/deepmind-is-helping-soccer-teams-take-the-perfect-corner/</link>
-      <description><![CDATA[TacticAI 是由 Google DeepMind 创建的足球人工智能模型，可以预测角球的走向，并提出调整建议，以提高或降低进球的可能性。]]></description>
+      <description><![CDATA[TacticAI 是由 Google DeepMind 创建的足球人工智能模型，可以预测角球的走向，并提出调整建议以提高或降低进球的可能性。]]></description>
       <guid>https://www.wired.com/story/deepmind-is-helping-soccer-teams-take-the-perfect-corner/</guid>
       <pubDate>Tue, 19 Mar 2024 16:00:00 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[初创公司和科技巨头正试图从通过文本提供帮助的聊天机器人转向可以完成工作的人工智能代理。最近的演示包括一个名为 Devin 的人工智能编码器和玩视频游戏的代理。]]></description>
       <guid>https://www.wired.com/story/fast-forward-forget-chatbots-ai-agents-are-the-future/</guid>
       <pubDate>Thu, 14 Mar 2024 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>法官宣布克雷格·赖特不是比特币创造者中本聪</title>
-      <link>https://www.wired.com/story/craig-wright-not-satoshi-nakamoto-bitcoin-creator-ruling/</link>
-      <description><![CDATA[英国高等法院在为期六周的审判结束后出人意料地迅速做出裁决，结束了克雷格·赖特 (Craig Wright) 被公认为比特币发明者的竞选活动。]]></description>
-      <guid>https://www.wired.com/story/craig-wright-not-satoshi-nakamoto-bitcoin-creator-ruling/</guid>
-      <pubDate>Thu, 14 Mar 2024 14:01:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>监管机构需要人工智能专业知识。他们买不起</title>
-      <link>https://www.wired.com/story/regulators-need-ai-expertise-cant-afford-it/</link>
-      <description><![CDATA[欧洲人工智能办公室和英国政府正试图聘请专家来研究和规范人工智能的繁荣，但提供的薪水远远低于行业薪酬。]]></description>
-      <guid>https://www.wired.com/story/regulators-need-ai-expertise-cant-afford-it/</guid>
-      <pubDate>Thu, 14 Mar 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
