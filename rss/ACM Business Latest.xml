@@ -4,7 +4,21 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Thu, 21 Mar 2024 18:08:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 21:07:17 GMT</lastBuildDate>
+    <item>
+      <title>一个人的流媒体机器人大军揭示了整个行业的问题</title>
+      <link>https://www.wired.com/story/streaming-bots-spotify/</link>
+      <description><![CDATA[丹麦法院的一个罕见案例展示了自动点击和虚假账户如何在 Apple Music 和 Spotify 上赚取数十万美元。专家表示，这只是冰山一角。]]></description>
+      <guid>https://www.wired.com/story/streaming-bots-spotify/</guid>
+      <pubDate>Thu, 21 Mar 2024 21:04:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reddit 股价首日交易飙升</title>
+      <link>https://www.wired.com/story/reddit-ipo-price-surge/</link>
+      <description><![CDATA[Memestocks 之家现已在纽约证券交易所公开交易，股票代码为 RDDT，这是五年来首次大型社交媒体 IPO。]]></description>
+      <guid>https://www.wired.com/story/reddit-ipo-price-surge/</guid>
+      <pubDate>Thu, 21 Mar 2024 18:14:25 GMT</pubDate>
+    </item>
     <item>
       <title>美国国家安全局警告称，美国对手自由挖掘私人数据可能拥有人工智能优势</title>
       <link>https://www.wired.com/story/fast-forward-nsa-warns-us-adversaries-private-data-ai-edge/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[在西方，这仍然是概念和幻想的东西，世界另一端的汽车制造商正在将直升机放入他们的汽车中。]]></description>
       <guid>https://www.wired.com/story/evs-with-built-in-camera-drones-have-already-landed-in-china/</guid>
       <pubDate>Mon, 18 Mar 2024 06:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>FCC 现在表示宽带速度应至少为 100 Mbps</title>
-      <link>https://www.wired.com/story/fcc-broadband-speed-100mbps/</link>
-      <description><![CDATA[旧的 25 Mbps 宽带标准已经不再适用。]]></description>
-      <guid>https://www.wired.com/story/fcc-broadband-speed-100mbps/</guid>
-      <pubDate>Sat, 16 Mar 2024 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reddit 出售用于人工智能培训的用户数据引起 FTC 调查</title>
-      <link>https://www.wired.com/story/reddits-sale-user-data-ai-training-draws-ftc-investigation/</link>
-      <description><![CDATA[该平台表示，未来几年它将从谷歌和其他希望用户评论为人工智能项目提供反馈的公司获得超过 2 亿美元的收入。监管机构有疑问。]]></description>
-      <guid>https://www.wired.com/story/reddits-sale-user-data-ai-training-draws-ftc-investigation/</guid>
-      <pubDate>Fri, 15 Mar 2024 22:34:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
