@@ -4,11 +4,18 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Thu, 21 Mar 2024 21:07:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 00:30:31 GMT</lastBuildDate>
+    <item>
+      <title>针对苹果的反垄断案称其对未来有束缚</title>
+      <link>https://www.wired.com/story/antitrust-case-apple-stranglehold-on-the-future/</link>
+      <description><![CDATA[美国司法部针对苹果公司的反垄断诉讼称，该公司对 iPhone 用户和开发者的控制正在阻碍未来的技术创新。]]></description>
+      <guid>https://www.wired.com/story/antitrust-case-apple-stranglehold-on-the-future/</guid>
+      <pubDate>Thu, 21 Mar 2024 21:54:12 GMT</pubDate>
+    </item>
     <item>
       <title>一个人的流媒体机器人大军揭示了整个行业的问题</title>
       <link>https://www.wired.com/story/streaming-bots-spotify/</link>
-      <description><![CDATA[丹麦法院的一个罕见案例展示了自动点击和虚假账户如何在 Apple Music 和 Spotify 上赚取数十万美元。专家表示，这只是冰山一角。]]></description>
+      <description><![CDATA[丹麦法院的一个罕见案例表明，自动点击和虚假账户如何能够在 Apple Music 和 Spotify 上赚取数十万美元。专家表示，这只是冰山一角。]]></description>
       <guid>https://www.wired.com/story/streaming-bots-spotify/</guid>
       <pubDate>Thu, 21 Mar 2024 21:04:46 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[《连线》杂志在本周首次公开募股之前回顾了 Reddit 多年来对其 IPO 文件所做的编辑。以下是七大要点。]]></description>
       <guid>https://www.wired.com/story/reddit-ipo-filings-reveal-the-companys-hopes-and-fears/</guid>
       <pubDate>Mon, 18 Mar 2024 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>内置无人机摄像头的电动汽车已登陆中国</title>
-      <link>https://www.wired.com/story/evs-with-built-in-camera-drones-have-already-landed-in-china/</link>
-      <description><![CDATA[在西方，这仍然是概念和幻想的东西，世界另一端的汽车制造商正在将直升机放入他们的汽车中。]]></description>
-      <guid>https://www.wired.com/story/evs-with-built-in-camera-drones-have-already-landed-in-china/</guid>
-      <pubDate>Mon, 18 Mar 2024 06:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
