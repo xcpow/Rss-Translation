@@ -4,94 +4,102 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Wed, 20 Mar 2024 18:08:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 18:09:00 GMT</lastBuildDate>
     <item>
-      <title>颈部贴片让人们无需声带就能说话</title>
-      <link>https://www.jpost.com/science/article-792282</link>
-      <description><![CDATA[耶路撒冷邮报加州大学洛杉矶分校的生物工程师开发的一种可穿戴设备，可以贴在喉咙皮肤上，帮助声带功能障碍的人恢复发声功能。该设备能够检测人的喉部肌肉的运动，并在机器学习技术的帮助下将这些信号转化为可听的语音，研究人员称其准确率接近 95%。 摘自《颈贴让人们无需声带就能说话》
-耶路撒冷邮报 (03/17/24) JUDY SIEGEL-ITZKOVICH 查看全文]]></description>
-      <guid>https://www.jpost.com/science/article-792282</guid>
-      <pubDate>Wed, 20 Mar 2024 18:08:43 GMT</pubDate>
+      <title>数字人类：人工智能的相关面孔？</title>
+      <link>https://www.cnn.com/business/digital-humans-ai-dj-dex-spc/index.html</link>
+      <description><![CDATA[CNN英国初创公司 Sum Vivas 创造了一个数字人，作为人工智能更实际应用的展示。数字人类 Dex 是一名 DJ 和有抱负的模特，她使用 3D 建模软件 Unreal Engine 制作动画，并可以使用生成人工智能与她的 Instagram 粉丝互动。 Sum Vivas 还开发了“Shellie”，一个可以在公司网站上提供产品信息的化身，以及“Arif”，一个可以回答问题并提供指示的多语言机场礼宾员。来自“数字人类：人工智能的相关面孔？”
+CNN (03/19/24) 埃文·约翰 查看全文]]></description>
+      <guid>https://www.cnn.com/business/digital-humans-ai-dj-dex-spc/index.html</guid>
+      <pubDate>Fri, 22 Mar 2024 18:09:00 GMT</pubDate>
     </item>
     <item>
-      <title>VR 耳机接近眼睛的分辨率极限</title>
-      <link>https://spectrum.ieee.org/virtual-reality-head-set-8k</link>
-      <description><![CDATA[IEEE Spectrum用于 AR/VR 耳机的 micro-OLED 和 micro-LED 显示器开发商致力于实现更高的像素密度以实现更高分辨率。更高的像素密度将使视觉效果显得更加逼真，并允许更紧凑的显示器达到“人类分辨率栏”，即视力为 20/20 的人不再感觉到任何改进。 Pimax 的 Nordic Ren 所说的“原始图形计算能力不足”的潜在解决方案包括焦点渲染和智能帧插值算法。摘自“VR 耳机接近眼睛分辨率限制”
-IEEE Spectrum (03/15/24) Matthew S. Smith 查看完整内容文章]]></description>
-      <guid>https://spectrum.ieee.org/virtual-reality-head-set-8k</guid>
-      <pubDate>Wed, 20 Mar 2024 18:08:42 GMT</pubDate>
+      <title>谷歌 DeepMind 推出人工智能足球教练</title>
+      <link>https://www.ft.com/content/e5a64dd3-7fe0-4db4-9f65-6f7517c2c573</link>
+      <description><![CDATA[英国《金融时报》Google DeepMind 的研究人员与英超俱乐部利物浦合作开发人工智能足球教练。几何深度学习模型 TacticAI 在 2020 年至 2023 年英超联赛的 7,176 个角球数据集上进行了训练。在分析不同球员配置的角球后，它可以提出位置改进建议。在一项研究中，包括数据科学家、视频分析师和教练助理在内的专家在 90% 的情况下选择了 TacticAI 的建议，而不是现有策略。摘自“Google DeepMind 推出人工智能足球教练”
+英国《金融时报》（03/19/24）迈克尔·皮尔 查看全文文章 - 可能需要付费订阅]]></description>
+      <guid>https://www.ft.com/content/e5a64dd3-7fe0-4db4-9f65-6f7517c2c573</guid>
+      <pubDate>Fri, 22 Mar 2024 18:08:59 GMT</pubDate>
     </item>
     <item>
-      <title>智能无檐小便帽检测交通灯</title>
-      <link>https://interestingengineering.com/innovation/smart-beanie-detects-traffic-lights-with-new-hair-thin-semiconductor-fibres</link>
-      <description><![CDATA[有趣的工程新加坡南洋理工大学的研究人员开发的超薄半导体纤维可以编织成织物，以制造智能可穿戴电子产品。由于改进的建模和模拟技术解决了制造此类纤维时应力引起的裂纹的挑战，这种细如发丝的纤维可以制成长达 100 米。研究人员将这些纤维融入一顶无檐小便帽中，供视障人士佩戴，以便在交通信号灯变化时向他们发出警报。摘自“智能无檐小便帽检测交通灯”
-有趣的工程 (03/14/24) Abdul-Rahman Oladimeji Bello 查看全文]]></description>
-      <guid>https://interestingengineering.com/innovation/smart-beanie-detects-traffic-lights-with-new-hair-thin-semiconductor-fibres</guid>
-      <pubDate>Wed, 20 Mar 2024 18:08:42 GMT</pubDate>
+      <title>晶体管可以动态重新配置</title>
+      <link>https://spectrum.ieee.org/reconfigurable-transistor</link>
+      <description><![CDATA[IEEE Spectrum奥地利维也纳工业大学的研究人员开发的晶体管可以根据需要通过静电掺杂、用某些外来原子故意污染半导体材料来重新编程。他们开发了一种利用电场来控制电子和空穴（电子缺失的地方）传输的方法。维也纳工业大学的 Walter M. Weber（上图右）表示：“我们的可重构晶体管允许在基本开关单元上进行重构，而不是将信息路由到固定的功能单元。”摘自“晶体管可以是即时重新配置”
+IEEE Spectrum (03/18/24) Dexter Johnson 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/reconfigurable-transistor</guid>
+      <pubDate>Fri, 22 Mar 2024 18:08:59 GMT</pubDate>
     </item>
     <item>
-      <title>3D 打印每天可生产一百万个微型颗粒</title>
-      <link>https://www.techtimes.com/articles/302604/20240315/stanford-universitys-groundbreaking-3d-printing-produces-one-million-microscale-particles-daily.htm</link>
-      <description><![CDATA[Tech Times斯坦福大学研究人员首创的 3D 打印技术每天可生产多达 100 万个定制微米级颗粒。研究人员此前开发了一种可扩展的微型 3D 打印方法，称为连续液体界面生产 (CLIP)。在他们最近的开发中，称为卷对卷 CLIP (r2rCLIP)，将精心张紧的薄膜送入 CLIP 打印机，在薄膜上打印可定制的形状。这些颗粒可用于多种应用，包括微流体、疫苗输送和微电子学。摘自“3D 打印每天生产一百万个微型颗粒”
-科技时报 (03/15/24) Inno Flores 查看全文]]></description>
-      <guid>https://www.techtimes.com/articles/302604/20240315/stanford-universitys-groundbreaking-3d-printing-produces-one-million-microscale-particles-daily.htm</guid>
-      <pubDate>Wed, 20 Mar 2024 18:08:41 GMT</pubDate>
+      <title>一级方程式赛车主管惊讶地发现团队使用 Excel 管理 20,000 个汽车零件</title>
+      <link>https://arstechnica.com/cars/2024/03/formula-1-chief-appalled-to-find-team-using-excel-to-manage-20000-car-parts/</link>
+      <description><![CDATA[Ars Technica一级方程式车队威廉姆斯的新任负责人 James Vowles 提出了担忧，因为该车队的汽车制造工作簿由大约 20,000 个单独的零件组成，并由 Microsoft 管理他称之为“无法导航且无法更新”的 Excel 电子表格。除此之外，电子表格不包括零件成本、每个零件的生产时间，或者是否已订购所需零件。首席技术官帕特·弗莱 (Pat Fry) 称过渡到现​​代跟踪系统“成本极其高昂”。摘自“一级方程式赛车主管震惊地发现团队使用 Excel 管理 20,000 个汽车零部件”
+Ars Technica (03/20/24) Kevin Purdy 查看全文]]></description>
+      <guid>https://arstechnica.com/cars/2024/03/formula-1-chief-appalled-to-find-team-using-excel-to-manage-20000-car-parts/</guid>
+      <pubDate>Fri, 22 Mar 2024 18:08:58 GMT</pubDate>
     </item>
     <item>
-      <title>没有人工智能技能的科技求职者面临新的现实</title>
-      <link>https://www.wsj.com/articles/tech-job-seekers-without-ai-skills-face-a-new-reality-lower-salaries-and-fewer-roles-db63f6e0?mod=economy_lead_story</link>
-      <description><![CDATA[华尔街日报咨询公司 Janco Associates 表示，由于技能与薪酬期望不匹配，最近被解雇的信息技术工人无法很快找到新工作。 Janco的数据显示，近几个月来，电信、企业系统管理和入门级IT等领域的职位有所减少，而网络安全、人工智能和数据科学领域的职位则继续上升。与此同时，职位列表聚合器 Indeed 的数据显示，IT 员工的平均总薪酬约为 10 万美元，而具有生成式人工智能技能的员工的平均薪资潜力为 174,727 美元。摘自《没有人工智能的科技求职者》技能面临新现实”
-华尔街日报 (03/18/24) Belle Lin 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/articles/tech-job-seekers-without-ai-skills-face-a-new-reality-lower-salaries-and-fewer-roles-db63f6e0?mod=economy_lead_story</guid>
-      <pubDate>Wed, 20 Mar 2024 18:08:41 GMT</pubDate>
+      <title>C++ 创建者反驳白宫警告</title>
+      <link>https://www.infoworld.com/article/3714401/c-plus-plus-creator-rebuts-white-house-warning.html</link>
+      <description><![CDATA[信息世界摘自“C++ 创建者反驳白宫警告”
+InfoWorld (03/18/24) Paul Krill 查看全文]]></description>
+      <guid>https://www.infoworld.com/article/3714401/c-plus-plus-creator-rebuts-white-house-warning.html</guid>
+      <pubDate>Fri, 22 Mar 2024 18:08:57 GMT</pubDate>
     </item>
     <item>
-      <title>不重复的瓷砖图案可以保护量子信息</title>
-      <link>https://www.wired.com/story/never-repeating-patterns-of-tiles-can-safeguard-quantum-information/</link>
-      <description><![CDATA[《连线》加拿大周界理论物理研究所的李志和英国爱丁堡大学的莱瑟姆·博伊尔开发了一种基于彭罗斯平铺的量子纠错码，无论怎样，它都不会产生周期性重复模式。它们是如何安排的。研究人员确定了哪些平铺配置不会受到局部错误的影响，并在区分不同彭罗斯平铺之间的两种性质不同的关系后，他们构建了一个纠错代码，其中类似状态是单个等价类中所有平铺的叠加。&lt; br /&gt;摘自《永不重复的瓷砖图案可以保护量子信息》
-《连线》(03/17/24) Ben Brubaker 查看全文]]></description>
-      <guid>https://www.wired.com/story/never-repeating-patterns-of-tiles-can-safeguard-quantum-information/</guid>
-      <pubDate>Wed, 20 Mar 2024 18:08:40 GMT</pubDate>
+      <title>机器人发现生病的郁金香以减缓疾病的传播</title>
+      <link>https://apnews.com/article/tulips-netherlands-robot-technology-46ec590b882188ee6d7428df8f04bb9e</link>
+      <description><![CDATA[美联社在荷兰北海沿岸，45 台来自 H2L Robotics 的机器人被部署在郁金香田里，检查每株植物是否存在阻碍生长发育并破坏球茎的病毒迹象。机器人检查每株植物，并在发现患病球茎时杀死它们。这些机器人配备了捕捉郁金香图像的摄像头，以及分析图像以查找疾病迹象的人工智能模型。从“机器人发现生病的郁金香到缓慢传播疾病”
+美联社 (03/19/24) Mike Corder 查看全文&lt; /a&gt;]]></description>
+      <guid>https://apnews.com/article/tulips-netherlands-robot-technology-46ec590b882188ee6d7428df8f04bb9e</guid>
+      <pubDate>Fri, 22 Mar 2024 18:08:57 GMT</pubDate>
     </item>
     <item>
-      <title>“GhostRace”推测执行攻击影响所有 CPU、操作系统供应商</title>
-      <link>https://www.darkreading.com/cyber-risk/ghostrace-speculative-execution-attack-cpu-os-vendors</link>
-      <description><![CDATA[暗读IBM 和荷兰阿姆斯特丹自由大学 (VU 阿姆斯特丹) 的研究人员开发的一种攻击利用 Intel、AMD、ARM 和 IBM 处理器的缺陷来绕过操作系统针对种族的控制状况。这种名为“GhostRace”的攻击针对的是现代处理器的推测执行（乱序处理）功能，特别是条件分支推测。研究人员表示，“安全隐患非常重大，因为攻击者可以在不同步的情况下推测执行受害软件中的所有关键区域。”来自“‘GhostRace’推测执行攻击影响所有 CPU、操作系统供应商”
-暗读 (03/15/24) Jai Vjayan 查看全文]]></description>
-      <guid>https://www.darkreading.com/cyber-risk/ghostrace-speculative-execution-attack-cpu-os-vendors</guid>
-      <pubDate>Wed, 20 Mar 2024 18:08:40 GMT</pubDate>
+      <title>FCC 批准消费物联网产品自愿网络信任标签</title>
+      <link>https://www.darkreading.com/ics-ot-security/fcc-approves-voluntary-cyber-trust-labels-iot-products</link>
+      <description><![CDATA[暗读美国联邦通信委员会 (FCC) 批准了消费物联网 (IoT) 产品的自愿网络安全标签计划。符合美国国家标准与技术研究所内部报告 8425 中规定的最低标准的产品可以显示美国网络信任认证标志，如右图所示。目标是让这些标记以及链接到带有安全信息的产品注册的相关二维码，帮助消费者做出明智的购买决定。摘自“FCC 批准消费物联网产品自愿网络信任标签”&lt; br /&gt;
+暗读 (03/14/24) Nate Nelson 查看全文]]></description>
+      <guid>https://www.darkreading.com/ics-ot-security/fcc-approves-voluntary-cyber-trust-labels-iot-products</guid>
+      <pubDate>Fri, 22 Mar 2024 18:08:56 GMT</pubDate>
     </item>
     <item>
-      <title>汽车制造商分享消费者的驾驶行为</title>
-      <link>https://www.nytimes.com/2024/03/11/technology/carmakers-driver-tracking-insurance.html</link>
-      <description><![CDATA[纽约时报一些汽车制造商从互联网控制的车辆中收集信息，并将其传递给合作数据经纪人，然后由数据经纪人将其出售给汽车保险公司。在某些情况下，司机并没有意识到，如果他们打开某些旨在为他们提供信息优势的联网汽车应用程序，保险公司就会收集并使用他们的驾驶习惯数据来增加他们的汽车保险费。汽车制造商的数据收集做法正在接受加州隐私监管机构的调查，美国参议员爱德华·马基已呼吁联邦贸易委员会进行调查。摘自《汽车制造商分享消费者的驾驶行为》
-纽约时报 (03/12/24) 克什米尔山 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/03/11/technology/carmakers-driver-tracking-insurance.html</guid>
-      <pubDate>Wed, 20 Mar 2024 18:08:39 GMT</pubDate>
+      <title>乌克兰在 Minecraft 游戏中开辟新战线</title>
+      <link>https://www.reuters.com/world/europe/ukraine-opens-new-front-minecraft-game-tackle-alleged-russian-misinformation-2024-03-21/</link>
+      <description><![CDATA[路透社乌克兰周四推出了一款游戏，复制了去年 1 月被俄罗斯占领的盐矿小镇索莱达尔 (Soledar)。 Minesalt 由筹款平台 UNITED24 发起，在微软旗下 Minecraft 的服务器上重建了乌克兰的 16 个真实地点。虽然 Minesalt 并非与 Microsoft 合作制作，但它在开发者 Mojang Studios 和母公司 Microsoft 的许可下使用了 Minecraft 的字体。摘自“乌克兰在 Minecraft 游戏中开辟了新战线”
+路透社 (03/21/24) Akash Sriram 查看全文]]></description>
+      <guid>https://www.reuters.com/world/europe/ukraine-opens-new-front-minecraft-game-tackle-alleged-russian-misinformation-2024-03-21/</guid>
+      <pubDate>Fri, 22 Mar 2024 18:08:56 GMT</pubDate>
     </item>
     <item>
-      <title>美国警告供水系统遭受网络攻击</title>
-      <link>https://www.bloomberg.com/news/articles/2024-03-19/us-warns-of-cyberattacks-against-water-systems-throughout-nation?sref=db2f3qgr</link>
-      <description><![CDATA[彭博社美国环境保护局局长迈克尔·里根和国家安全顾问杰克·沙利文在周二公开的致州长的信中警告说，美国供水系统面临来自与伊朗和中国政府有关的黑客的国家支持的网络攻击的风险。 “饮用水和废水系统是网络攻击的一个有吸引力的目标，因为它们是生命线关键基础设施部门，但往往缺乏采取严格网络安全实践的资源和技术能力，”信中指出。摘自“美国警告水系统遭受网络攻击”
-彭博社 (03/19/24) Ari Natter 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-03-19/us-warns-of-cyberattacks-against-water-systems-throughout-nation?sref=db2f3qgr</guid>
-      <pubDate>Wed, 20 Mar 2024 18:08:39 GMT</pubDate>
+      <title>欧盟将对大型科技公司实施选举保障措施</title>
+      <link>https://www.ft.com/content/66a6790d-3ca1-4469-b012-7d392e6cfb67</link>
+      <description><![CDATA[《金融时报》布鲁塞尔即将推出首个具有约束力的制度，以打击选举虚假信息。据内部人士透露，该指导方针旨在应对网络对选举公正性的威胁，欧盟委员会最早可能于下周通过。除其他外，指导方针称，未能充分解决人工智能驱动的虚假信息或深度造假问题的平台可能面临高达其全球营业额 6% 的罚款。摘自《欧盟对大型科技公司实施选举保障措施》 “
+金融时报 (03/20/24) Javier Espinoza 查看全文文章 - 可能需要付费订阅]]></description>
+      <guid>https://www.ft.com/content/66a6790d-3ca1-4469-b012-7d392e6cfb67</guid>
+      <pubDate>Fri, 22 Mar 2024 18:08:55 GMT</pubDate>
     </item>
     <item>
-      <title>中国和西方科学家确定人工智能风险的“红线”</title>
-      <link>https://www.ft.com/content/375f4e2d-1f72-49c8-b212-0ab2a173b8cb</link>
-      <description><![CDATA[英国《金融时报》西方和中国人工智能科学家签署的一份声明警告说，冷战级别的全球合作对于避免人工智能技术带来的“人类有生之年的灾难性甚至生存风险”是必要的。在北京举行的国际人工智能安全对话会上，专家们就人工智能风险设立了“红线”，任何人工智能系统都不应跨越，包括生物武器的开发和网络攻击的发起。声明签署人包括 ACM A. M. 图灵奖获得者 Geoffrey Hinton 和 Yoshua Bengio，以及计算机科学家 Stuart Russell 和 Andrew Yao。摘自《中国和西方科学家识别人工智能风险的‘红线’》 
-英国《金融时报》（03/18/24）克里斯蒂娜·克里德尔；埃莉诺·奥尔科特； Madhumita Murgia 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.ft.com/content/375f4e2d-1f72-49c8-b212-0ab2a173b8cb</guid>
-      <pubDate>Wed, 20 Mar 2024 18:08:38 GMT</pubDate>
+      <title>3D 打印全息技术使用普通塑料对数据进行编码</title>
+      <link>https://www.tomshardware.com/3d-printing/3d-printed-holographics-can-encode-data-using-common-plastic-keys-and-addresses-up-to-576-bits-with-redundancy</link>
+      <description><![CDATA[汤姆的硬件奥地利维也纳工业大学的研究人员演示了如何使用计算机生成的 3D 打印衍射相位板来编码太赫兹全息位。该过程涉及将全息数据打印到一块塑料上，并使用太赫兹波从塑料上读取数据。测试中生成的 576 位数据代码包括具有冗余的 256 位私人比特币钱包密钥。维也纳工业大学的 Evan Constable 表示：“您可以将价值数万欧元的物品安全地存储在一个仅需几美分的物体中。”摘自“3D 打印全息技术使用普通塑料对数据进行编码” 
+汤姆的硬件 (03/20/24) Christopher Harper 查看完整文章]]></description>
+      <guid>https://www.tomshardware.com/3d-printing/3d-printed-holographics-can-encode-data-using-common-plastic-keys-and-addresses-up-to-576-bits-with-redundancy</guid>
+      <pubDate>Fri, 22 Mar 2024 18:08:55 GMT</pubDate>
     </item>
     <item>
-      <title>外国出生的 STEM 人才对美国研究至关重要</title>
-      <link>https://www.axios.com/2024/03/13/us-workforce-foreign-born-stem-research</link>
-      <description><![CDATA[Axios美国国家科学基金会国家科学与工程统计中心的一份报告显示，2021年美国STEM工作者为3860万，约占全国劳动力的24%，比2011年增长了2%。 2021 年（有数据的最近一年），出生工人占美国 STEM 工人的 19%，博士级科学家和工程师的 43%。报告还发现，在美国工作的博士级计算机和数学科学家中，超过一半（58%）是在外国出生的。摘自《外国出生的 STEM 人才是美国研究的关键》
-Axios (03/13/24) 艾莉森·斯奈德 查看全文]]></description>
-      <guid>https://www.axios.com/2024/03/13/us-workforce-foreign-born-stem-research</guid>
-      <pubDate>Wed, 20 Mar 2024 18:08:38 GMT</pubDate>
+      <title>联合国通过决议支持确保人工智能安全的努力</title>
+      <link>https://apnews.com/article/united-nations-artificial-intelligence-safety-resolution-vote-8079fe83111cced0f0717fdecefffb4d</link>
+      <description><![CDATA[美联社联合国大会周四批准了一项决议，鼓励开发和支持安全的人工智能系统。该决议未经表决以协商一致方式通过，这意味着它得到了所有193个联合国成员国的支持。美国大使琳达·托马斯·格林菲尔德在投票前告诉大会，“今天，随着联合国和人工智能最终相交，我们有机会也有责任选择作为一个团结的全球社区来管理这项技术，而不是让它统治我们。” 摘自《联合国通过决议支持确保人工智能安全》
+美联社 (03/21/24) Edith M. Lederer 查看全文]]></description>
+      <guid>https://apnews.com/article/united-nations-artificial-intelligence-safety-resolution-vote-8079fe83111cced0f0717fdecefffb4d</guid>
+      <pubDate>Fri, 22 Mar 2024 18:08:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Neuralink 展示脑芯片患者在线下棋</title>
+      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/neuralink-shows-first-brain-chip-patient-playing-online-chess-2024-03-21/</link>
+      <description><![CDATA[路透社Neuralink 周三直播了一名患者使用其大脑植入物在笔记本电脑上下棋的情况。诺兰·阿博（Noland Arbaugh，右上）在一次潜水事故后瘫痪，他在一月份接受了 Neuralink 植入。阿博表示，这项技术“已经改变了我的生活”，但也承认它“遇到了一些问题”。神经工程专家 Kip Ludwig 指出，“目前仍处于植入后的早期阶段。”摘自“Neuralink 显示脑芯片患者在线下棋”
+路透社 (03/21/24) Surbhi Misra；希瓦尼·坦纳；尼鲁特帕尔·蒂姆西纳；等 查看全文]]></description>
+      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/neuralink-shows-first-brain-chip-patient-playing-online-chess-2024-03-21/</guid>
+      <pubDate>Fri, 22 Mar 2024 18:08:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
