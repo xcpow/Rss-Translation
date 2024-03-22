@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Fri, 22 Mar 2024 09:09:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 12:12:23 GMT</lastBuildDate>
+    <item>
+      <title>帮助 DOJ 立案的 4 封 Apple 内部电子邮件</title>
+      <link>https://www.wired.com/story/4-internal-apple-emails-helped-doj-build-antitrust-case/</link>
+      <description><![CDATA[美国司法部在反垄断诉讼中称，苹果内部电子邮件显示该公司故意锁定用户，迫使他们花更多钱。]]></description>
+      <guid>https://www.wired.com/story/4-internal-apple-emails-helped-doj-build-antitrust-case/</guid>
+      <pubDate>Fri, 22 Mar 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>针对苹果的反垄断案称其对未来有束缚</title>
       <link>https://www.wired.com/story/antitrust-case-apple-stranglehold-on-the-future/</link>
@@ -85,7 +92,7 @@
     <item>
       <title>谷歌 DeepMind 的新人工智能模型可以帮助足球队取得完美角球</title>
       <link>https://www.wired.com/story/deepmind-is-helping-soccer-teams-take-the-perfect-corner/</link>
-      <description><![CDATA[TacticAI 是由 Google DeepMind 创建的足球人工智能模型，可以预测角球的走向，并提出调整建议，以提高或降低进球的可能性。]]></description>
+      <description><![CDATA[TacticAI 是由 Google DeepMind 创建的足球人工智能模型，可以预测角球的走向，并提出调整建议以提高或降低进球的可能性。]]></description>
       <guid>https://www.wired.com/story/deepmind-is-helping-soccer-teams-take-the-perfect-corner/</guid>
       <pubDate>Tue, 19 Mar 2024 16:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[当你独自一人挤在一起时听到的那些声音不是预先录制的。他们很不可思议。]]></description>
       <guid>https://www.wired.com/story/slack-huddle-hold-music-secret-history/</guid>
       <pubDate>Mon, 18 Mar 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reddit IPO 文件揭示了该公司的希望和担忧</title>
-      <link>https://www.wired.com/story/reddit-ipo-filings-reveal-the-companys-hopes-and-fears/</link>
-      <description><![CDATA[《连线》杂志在本周首次公开募股之前回顾了 Reddit 多年来对其 IPO 文件所做的编辑。以下是七大要点。]]></description>
-      <guid>https://www.wired.com/story/reddit-ipo-filings-reveal-the-companys-hopes-and-fears/</guid>
-      <pubDate>Mon, 18 Mar 2024 09:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
