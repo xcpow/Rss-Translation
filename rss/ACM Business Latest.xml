@@ -4,16 +4,23 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Fri, 22 Mar 2024 12:12:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 15:07:06 GMT</lastBuildDate>
     <item>
-      <title>帮助 DOJ 立案的 4 封 Apple 内部电子邮件</title>
+      <title>摄影不再是任何事物的证据</title>
+      <link>https://www.wired.com/story/the-end-of-photography-as-evidence-of-anything/</link>
+      <description><![CDATA[凯特·米德尔顿 (Kate Middleton) 的 Photoshop 失败最令人惊讶的是，任何人都会将照片视为生命的证明。]]></description>
+      <guid>https://www.wired.com/story/the-end-of-photography-as-evidence-of-anything/</guid>
+      <pubDate>Fri, 22 Mar 2024 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>4 封帮助 DOJ 立案的 Apple 内部电子邮件</title>
       <link>https://www.wired.com/story/4-internal-apple-emails-helped-doj-build-antitrust-case/</link>
       <description><![CDATA[美国司法部在反垄断诉讼中称，苹果内部电子邮件显示该公司故意锁定用户，迫使他们花更多钱。]]></description>
       <guid>https://www.wired.com/story/4-internal-apple-emails-helped-doj-build-antitrust-case/</guid>
       <pubDate>Fri, 22 Mar 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>针对苹果的反垄断案称其对未来有束缚</title>
+      <title>美国声称苹果掌控未来</title>
       <link>https://www.wired.com/story/antitrust-case-apple-stranglehold-on-the-future/</link>
       <description><![CDATA[美国司法部针对苹果公司的反垄断诉讼称，该公司对 iPhone 用户和开发者的控制正在阻碍未来的技术创新。]]></description>
       <guid>https://www.wired.com/story/antitrust-case-apple-stranglehold-on-the-future/</guid>
@@ -22,7 +29,7 @@
     <item>
       <title>一个人的流媒体机器人大军揭示了整个行业的问题</title>
       <link>https://www.wired.com/story/streaming-bots-spotify/</link>
-      <description><![CDATA[丹麦法院的一个罕见案例表明，自动点击和虚假账户如何能够在 Apple Music 和 Spotify 上赚取数十万美元。专家表示，这只是冰山一角。]]></description>
+      <description><![CDATA[丹麦法院的一个罕见案例展示了自动点击和虚假账户如何在 Apple Music 和 Spotify 上赚取数十万美元。专家表示，这只是冰山一角。]]></description>
       <guid>https://www.wired.com/story/streaming-bots-spotify/</guid>
       <pubDate>Thu, 21 Mar 2024 21:04:46 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>谷歌 DeepMind 的新人工智能模型可以帮助足球队取得完美角球</title>
       <link>https://www.wired.com/story/deepmind-is-helping-soccer-teams-take-the-perfect-corner/</link>
-      <description><![CDATA[TacticAI 是由 Google DeepMind 创建的足球人工智能模型，可以预测角球的走向，并提出调整建议以提高或降低进球的可能性。]]></description>
+      <description><![CDATA[TacticAI 是由 Google DeepMind 创建的足球人工智能模型，可以预测角球的走向，并提出调整建议，以提高或降低进球的可能性。]]></description>
       <guid>https://www.wired.com/story/deepmind-is-helping-soccer-teams-take-the-perfect-corner/</guid>
       <pubDate>Tue, 19 Mar 2024 16:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[YouTube 现在需要为某些生成式 AI 内容添加标签。为儿童制作的动画除外。]]></description>
       <guid>https://www.wired.com/story/kids-cartoons-free-pass-youtube-deepfake-disclosure-rules/</guid>
       <pubDate>Tue, 19 Mar 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 Slack Hold 音乐如此令人难以忘怀却又如此美妙？</title>
-      <link>https://www.wired.com/story/slack-huddle-hold-music-secret-history/</link>
-      <description><![CDATA[当你独自一人挤在一起时听到的那些声音不是预先录制的。他们很不可思议。]]></description>
-      <guid>https://www.wired.com/story/slack-huddle-hold-music-secret-history/</guid>
-      <pubDate>Mon, 18 Mar 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
