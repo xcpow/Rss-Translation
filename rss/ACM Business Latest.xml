@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Mon, 25 Mar 2024 12:11:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 15:08:07 GMT</lastBuildDate>
+    <item>
+      <title>欧盟根据新技术法对苹果、Meta 和 Alphabet 进行调查</title>
+      <link>https://www.wired.com/story/apple-meta-alphabet-eu-digital-markets-act/</link>
+      <description><![CDATA[这些调查是根据欧洲具有里程碑意义的《数字市场法案》进行的首次调查，并加剧了苹果公司日益严重的反垄断困境。]]></description>
+      <guid>https://www.wired.com/story/apple-meta-alphabet-eu-digital-markets-act/</guid>
+      <pubDate>Mon, 25 Mar 2024 13:33:58 GMT</pubDate>
+    </item>
     <item>
       <title>Deepfake 裸体生成器揭示了受害者令人不寒而栗的样子</title>
       <link>https://www.wired.com/story/deepfake-nude-generator-chilling-look-at-its-victims/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[他们偶然相遇，迷上了一个想法，并撰写了《变形金刚》论文——近代历史上最重要的技术突破。]]></description>
       <guid>https://www.wired.com/story/eight-google-employees-invented-modern-ai-transformers-paper/</guid>
       <pubDate>Wed, 20 Mar 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Glassdoor 想知道你的真实姓名</title>
-      <link>https://www.wired.com/story/glassdoor-wants-to-know-your-real-name/</link>
-      <description><![CDATA[匿名、坦率的评论使 Glassdoor 成为研究潜在雇主的有力场所。要求用户私下验证真实姓名的政策转变引发了隐私担忧。]]></description>
-      <guid>https://www.wired.com/story/glassdoor-wants-to-know-your-real-name/</guid>
-      <pubDate>Wed, 20 Mar 2024 09:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
