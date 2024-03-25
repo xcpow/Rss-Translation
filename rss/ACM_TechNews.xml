@@ -4,102 +4,78 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Fri, 22 Mar 2024 18:09:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 18:09:25 GMT</lastBuildDate>
     <item>
-      <title>数字人类：人工智能的相关面孔？</title>
-      <link>https://www.cnn.com/business/digital-humans-ai-dj-dex-spc/index.html</link>
-      <description><![CDATA[CNN英国初创公司 Sum Vivas 创造了一个数字人，作为人工智能更实际应用的展示。数字人类 Dex 是一名 DJ 和有抱负的模特，她使用 3D 建模软件 Unreal Engine 制作动画，并可以使用生成人工智能与她的 Instagram 粉丝互动。 Sum Vivas 还开发了“Shellie”，一个可以在公司网站上提供产品信息的化身，以及“Arif”，一个可以回答问题并提供指示的多语言机场礼宾员。来自“数字人类：人工智能的相关面孔？”
-CNN (03/19/24) 埃文·约翰 查看全文]]></description>
-      <guid>https://www.cnn.com/business/digital-humans-ai-dj-dex-spc/index.html</guid>
-      <pubDate>Fri, 22 Mar 2024 18:09:00 GMT</pubDate>
+      <title>飞行无人机可以在地面上滚动以节省能源</title>
+      <link>https://www.newscientist.com/article/2420991-flying-drone-can-roll-on-the-ground-to-save-energy-over-long-distances/</link>
+      <description><![CDATA[新科学家中国浙江大学的研究人员开发了一种带轮子的自主空中无人机，它可以在地面上长距离滚动并仅飞越障碍物，从而延长电池寿命。该无人机具有四个旋翼和两个大型被动轮，以及机载立体摄像头和微型计算机，以帮助其在困难的地形中导航。研究人员发现，与飞行时相比，无人机在驾驶时消耗的能量只有七分之一，因此仅在导航障碍物时才切换到飞行，以扩大其范围。从“飞行无人机可以在地面上滚动到节约能源”
+新科学家 (03/20/24) 马修·斯帕克斯 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.newscientist.com/article/2420991-flying-drone-can-roll-on-the-ground-to-save-energy-over-long-distances/</guid>
+      <pubDate>Mon, 25 Mar 2024 18:09:25 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌 DeepMind 推出人工智能足球教练</title>
-      <link>https://www.ft.com/content/e5a64dd3-7fe0-4db4-9f65-6f7517c2c573</link>
-      <description><![CDATA[英国《金融时报》Google DeepMind 的研究人员与英超俱乐部利物浦合作开发人工智能足球教练。几何深度学习模型 TacticAI 在 2020 年至 2023 年英超联赛的 7,176 个角球数据集上进行了训练。在分析不同球员配置的角球后，它可以提出位置改进建议。在一项研究中，包括数据科学家、视频分析师和教练助理在内的专家在 90% 的情况下选择了 TacticAI 的建议，而不是现有策略。摘自“Google DeepMind 推出人工智能足球教练”
-英国《金融时报》（03/19/24）迈克尔·皮尔 查看全文文章 - 可能需要付费订阅]]></description>
-      <guid>https://www.ft.com/content/e5a64dd3-7fe0-4db4-9f65-6f7517c2c573</guid>
-      <pubDate>Fri, 22 Mar 2024 18:08:59 GMT</pubDate>
+      <title>弹性电路打破了柔性电子产品的记录</title>
+      <link>https://spectrum.ieee.org/stretchable-electronics</link>
+      <description><![CDATA[IEEE Spectrum斯坦福大学研究人员开发了一种 28 平方毫米 (mm) 可拉伸集成电路，具有 1,056 个晶体管和 528 个逻辑门。该电路的运行速度超过 1 兆赫兹，平均场效应迁移率超过每秒每伏特 20 平方厘米，即使在拉伸到正常尺寸的两倍时也是如此。研究人员将该电路整合到一个 8 平方毫米的盲文阅读触觉传感器阵列中，该阵列可以固定在手指上。它可以识别宽度小于 1 毫米的形状。摘自“弹性电路打破柔性电子产品的记录”
+IEEE Spectrum (03/18/24) Charles Q. Choi 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/stretchable-electronics</guid>
+      <pubDate>Mon, 25 Mar 2024 18:09:25 GMT</pubDate>
     </item>
     <item>
-      <title>晶体管可以动态重新配置</title>
-      <link>https://spectrum.ieee.org/reconfigurable-transistor</link>
-      <description><![CDATA[IEEE Spectrum奥地利维也纳工业大学的研究人员开发的晶体管可以根据需要通过静电掺杂、用某些外来原子故意污染半导体材料来重新编程。他们开发了一种利用电场来控制电子和空穴（电子缺失的地方）传输的方法。维也纳工业大学的 Walter M. Weber（上图右）表示：“我们的可重构晶体管允许在基本开关单元上进行重构，而不是将信息路由到固定的功能单元。”摘自“晶体管可以是即时重新配置”
-IEEE Spectrum (03/18/24) Dexter Johnson 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/reconfigurable-transistor</guid>
-      <pubDate>Fri, 22 Mar 2024 18:08:59 GMT</pubDate>
+      <title>黑客在几秒钟内打开钥匙卡锁</title>
+      <link>https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/</link>
+      <description><![CDATA[连线比利时鲁汶大学的 Lennert Wouters 和独立安全研究员 Ian Carroll 发现了一种黑客技术，该技术利用 Dormakaba 的 Saflok 品牌基于 RFID 的钥匙卡锁中的安全缺陷，使用新的或过期的钥匙卡在几秒钟内解锁酒店房间。该技术被称为 Unsaflok，利用 Dormakaba 加密及其底层 RFID 系统 MIFARE Classic 中的漏洞。研究人员使用价值 300 美元的 RFID 读写设备读取钥匙卡上的代码，并写入两张新钥匙卡，其中一张可在轻敲锁时重写锁的一部分数据，另一张可打开锁。摘自《黑客秒开钥匙卡锁》
+《连线》(03/21/24) 安迪·格林伯格 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/</guid>
+      <pubDate>Mon, 25 Mar 2024 18:09:24 GMT</pubDate>
     </item>
     <item>
-      <title>一级方程式赛车主管惊讶地发现团队使用 Excel 管理 20,000 个汽车零件</title>
-      <link>https://arstechnica.com/cars/2024/03/formula-1-chief-appalled-to-find-team-using-excel-to-manage-20000-car-parts/</link>
-      <description><![CDATA[Ars Technica一级方程式车队威廉姆斯的新任负责人 James Vowles 提出了担忧，因为该车队的汽车制造工作簿由大约 20,000 个单独的零件组成，并由 Microsoft 管理他称之为“无法导航且无法更新”的 Excel 电子表格。除此之外，电子表格不包括零件成本、每个零件的生产时间，或者是否已订购所需零件。首席技术官帕特·弗莱 (Pat Fry) 称过渡到现​​代跟踪系统“成本极其高昂”。摘自“一级方程式赛车主管震惊地发现团队使用 Excel 管理 20,000 个汽车零部件”
-Ars Technica (03/20/24) Kevin Purdy 查看全文]]></description>
-      <guid>https://arstechnica.com/cars/2024/03/formula-1-chief-appalled-to-find-team-using-excel-to-manage-20000-car-parts/</guid>
-      <pubDate>Fri, 22 Mar 2024 18:08:58 GMT</pubDate>
+      <title>阿联酋致力于成为人工智能强国</title>
+      <link>https://time.com/6958369/artificial-intelligence-united-arab-emirates/</link>
+      <description><![CDATA[时间去年，阿拉伯联合酋长国 (UAE) 跻身人工智能版图，由 25 名计算机科学家组成的国际团队完成了开源大语言模型 (LLM) Falcon，并于 9 月发布。阿布扎比的先进技术研究委员会向 Falcon 基金会捐赠了 3 亿美元，用于监督大型语言模型的开源开发，这种方法旨在吸引顶尖的人工智能研究人员致力于研究能够服务于更大利益的技术。摘自《阿联酋致力于成为人工智能强国》
+时间 (03/20/24) 比利·佩里戈；莱斯利·迪克斯坦 查看全文]]></description>
+      <guid>https://time.com/6958369/artificial-intelligence-united-arab-emirates/</guid>
+      <pubDate>Mon, 25 Mar 2024 18:09:24 GMT</pubDate>
     </item>
     <item>
-      <title>C++ 创建者反驳白宫警告</title>
-      <link>https://www.infoworld.com/article/3714401/c-plus-plus-creator-rebuts-white-house-warning.html</link>
-      <description><![CDATA[信息世界摘自“C++ 创建者反驳白宫警告”
-InfoWorld (03/18/24) Paul Krill 查看全文]]></description>
-      <guid>https://www.infoworld.com/article/3714401/c-plus-plus-creator-rebuts-white-house-warning.html</guid>
-      <pubDate>Fri, 22 Mar 2024 18:08:57 GMT</pubDate>
+      <title>算法解锁计算机视觉的高分辨率见解</title>
+      <link>https://www.hpcwire.com/off-the-wire/new-algorithm-unlocks-high-resolution-insights-for-computer-vision/</link>
+      <description><![CDATA[HPCwireFeatUp 算法由麻省理工学院的研究人员开发，使算法能够同时捕获高级和低级场景细节。当算法总结和理解图像时，它可以防止像素清晰度的损失。 FeatUp 还可以改进对象检测、语义分割和深度估计。 FeatUp 观察算法如何响应图像中的微小调整，从而产生大量略有不同的深层特征图，这些图可以合并为一组高分辨率的深层特征。摘自“算法解锁高分辨率计算机视觉分辨率洞察》
+HPCwire (03/21/24) 查看全文]]></description>
+      <guid>https://www.hpcwire.com/off-the-wire/new-algorithm-unlocks-high-resolution-insights-for-computer-vision/</guid>
+      <pubDate>Mon, 25 Mar 2024 18:09:23 GMT</pubDate>
     </item>
     <item>
-      <title>机器人发现生病的郁金香以减缓疾病的传播</title>
-      <link>https://apnews.com/article/tulips-netherlands-robot-technology-46ec590b882188ee6d7428df8f04bb9e</link>
-      <description><![CDATA[美联社在荷兰北海沿岸，45 台来自 H2L Robotics 的机器人被部署在郁金香田里，检查每株植物是否存在阻碍生长发育并破坏球茎的病毒迹象。机器人检查每株植物，并在发现患病球茎时杀死它们。这些机器人配备了捕捉郁金香图像的摄像头，以及分析图像以查找疾病迹象的人工智能模型。从“机器人发现生病的郁金香到缓慢传播疾病”
-美联社 (03/19/24) Mike Corder 查看全文&lt; /a&gt;]]></description>
-      <guid>https://apnews.com/article/tulips-netherlands-robot-technology-46ec590b882188ee6d7428df8f04bb9e</guid>
-      <pubDate>Fri, 22 Mar 2024 18:08:57 GMT</pubDate>
+      <title>使用 3D 打印机创建的高分辨率大脑模型</title>
+      <link>https://medicalxpress.com/news/2024-03-world-high-resolution-brain-3d.html</link>
+      <description><![CDATA[Medical Xpress奥地利维也纳工业大学和维也纳医科大学 (MedUni Vienna) 的研究人员基于使用扩散加权磁共振成像可查看的脑纤维结构开发了一种 3D 打印大脑模型。立方体形状的“大脑模型”比实际的大脑小，并且具有与单个脑神经大小相似的充满水的微通道。维也纳医科大学的 Michael Woletz 表示：“我们可以更精确地调整分析软件，从而提高测量数据的质量并更准确地重建大脑的神经结构。”摘自“高分辨率” 3D打印机制作的大脑模型
+Medical Xpress (03/21/24) 查看全文]]></description>
+      <guid>https://medicalxpress.com/news/2024-03-world-high-resolution-brain-3d.html</guid>
+      <pubDate>Mon, 25 Mar 2024 18:09:23 GMT</pubDate>
     </item>
     <item>
-      <title>FCC 批准消费物联网产品自愿网络信任标签</title>
-      <link>https://www.darkreading.com/ics-ot-security/fcc-approves-voluntary-cyber-trust-labels-iot-products</link>
-      <description><![CDATA[暗读美国联邦通信委员会 (FCC) 批准了消费物联网 (IoT) 产品的自愿网络安全标签计划。符合美国国家标准与技术研究所内部报告 8425 中规定的最低标准的产品可以显示美国网络信任认证标志，如右图所示。目标是让这些标记以及链接到带有安全信息的产品注册的相关二维码，帮助消费者做出明智的购买决定。摘自“FCC 批准消费物联网产品自愿网络信任标签”&lt; br /&gt;
-暗读 (03/14/24) Nate Nelson 查看全文]]></description>
-      <guid>https://www.darkreading.com/ics-ot-security/fcc-approves-voluntary-cyber-trust-labels-iot-products</guid>
-      <pubDate>Fri, 22 Mar 2024 18:08:56 GMT</pubDate>
+      <title>利用 X 射线视觉对博物馆动物进行数字化解剖</title>
+      <link>https://www.sciencealert.com/stunning-tool-lets-you-digitally-dissect-museum-animals-with-x-ray-vision</link>
+      <description><![CDATA[ScienceAlertopenVertebrate (oVert) 项目允许科学家和公众以数字方式“解剖”博物馆标本，这要归功于 18 个机构的研究人员迄今为止对 13,000 多个标本的 3D 重建。 oVert 负责人、佛罗里达自然历史博物馆的大卫·布莱克本 (David Blackburn) 表示，该项目“是减少样本磨损的一种方式，同时也增加了获取机会，这是博物馆藏品使命的下一个合乎逻辑的步骤。” 摘自《利用X射线视觉对博物馆动物进行数字化解剖》
+ScienceAlert (03/22/24) Jess Cockerill 查看全文]]></description>
+      <guid>https://www.sciencealert.com/stunning-tool-lets-you-digitally-dissect-museum-animals-with-x-ray-vision</guid>
+      <pubDate>Mon, 25 Mar 2024 18:09:22 GMT</pubDate>
     </item>
     <item>
-      <title>乌克兰在 Minecraft 游戏中开辟新战线</title>
-      <link>https://www.reuters.com/world/europe/ukraine-opens-new-front-minecraft-game-tackle-alleged-russian-misinformation-2024-03-21/</link>
-      <description><![CDATA[路透社乌克兰周四推出了一款游戏，复制了去年 1 月被俄罗斯占领的盐矿小镇索莱达尔 (Soledar)。 Minesalt 由筹款平台 UNITED24 发起，在微软旗下 Minecraft 的服务器上重建了乌克兰的 16 个真实地点。虽然 Minesalt 并非与 Microsoft 合作制作，但它在开发者 Mojang Studios 和母公司 Microsoft 的许可下使用了 Minecraft 的字体。摘自“乌克兰在 Minecraft 游戏中开辟了新战线”
-路透社 (03/21/24) Akash Sriram 查看全文]]></description>
-      <guid>https://www.reuters.com/world/europe/ukraine-opens-new-front-minecraft-game-tackle-alleged-russian-misinformation-2024-03-21/</guid>
-      <pubDate>Fri, 22 Mar 2024 18:08:56 GMT</pubDate>
+      <title>苹果芯片中的漏洞泄露加密密钥</title>
+      <link>https://arstechnica.com/security/2024/03/hackers-can-extract-secret-encryption-keys-from-apples-mac-chips/</link>
+      <description><![CDATA[Ars TechnicaApple M 系列芯片中嵌入的新发现漏洞允许攻击者在执行加密操作时从 Mac 中提取密钥。该缺陷被发现它的多机构学术研究人员命名为GoFetch，该缺陷无法直接修补，因为它源于硅本身的微架构设计。只能通过在第三方加密软件中构建防御来缓解这一问题，这可能会在执行加密操作时极大地降低 M 系列的性能。摘自“Apple 芯片泄露加密密钥的漏洞”
+Ars Technica (03/21/24) Dan Goodin 查看全文]]></description>
+      <guid>https://arstechnica.com/security/2024/03/hackers-can-extract-secret-encryption-keys-from-apples-mac-chips/</guid>
+      <pubDate>Mon, 25 Mar 2024 18:09:22 GMT</pubDate>
     </item>
     <item>
-      <title>欧盟将对大型科技公司实施选举保障措施</title>
-      <link>https://www.ft.com/content/66a6790d-3ca1-4469-b012-7d392e6cfb67</link>
-      <description><![CDATA[《金融时报》布鲁塞尔即将推出首个具有约束力的制度，以打击选举虚假信息。据内部人士透露，该指导方针旨在应对网络对选举公正性的威胁，欧盟委员会最早可能于下周通过。除其他外，指导方针称，未能充分解决人工智能驱动的虚假信息或深度造假问题的平台可能面临高达其全球营业额 6% 的罚款。摘自《欧盟对大型科技公司实施选举保障措施》 “
-金融时报 (03/20/24) Javier Espinoza 查看全文文章 - 可能需要付费订阅]]></description>
-      <guid>https://www.ft.com/content/66a6790d-3ca1-4469-b012-7d392e6cfb67</guid>
-      <pubDate>Fri, 22 Mar 2024 18:08:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>3D 打印全息技术使用普通塑料对数据进行编码</title>
-      <link>https://www.tomshardware.com/3d-printing/3d-printed-holographics-can-encode-data-using-common-plastic-keys-and-addresses-up-to-576-bits-with-redundancy</link>
-      <description><![CDATA[汤姆的硬件奥地利维也纳工业大学的研究人员演示了如何使用计算机生成的 3D 打印衍射相位板来编码太赫兹全息位。该过程涉及将全息数据打印到一块塑料上，并使用太赫兹波从塑料上读取数据。测试中生成的 576 位数据代码包括具有冗余的 256 位私人比特币钱包密钥。维也纳工业大学的 Evan Constable 表示：“您可以将价值数万欧元的物品安全地存储在一个仅需几美分的物体中。”摘自“3D 打印全息技术使用普通塑料对数据进行编码” 
-汤姆的硬件 (03/20/24) Christopher Harper 查看完整文章]]></description>
-      <guid>https://www.tomshardware.com/3d-printing/3d-printed-holographics-can-encode-data-using-common-plastic-keys-and-addresses-up-to-576-bits-with-redundancy</guid>
-      <pubDate>Fri, 22 Mar 2024 18:08:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>联合国通过决议支持确保人工智能安全的努力</title>
-      <link>https://apnews.com/article/united-nations-artificial-intelligence-safety-resolution-vote-8079fe83111cced0f0717fdecefffb4d</link>
-      <description><![CDATA[美联社联合国大会周四批准了一项决议，鼓励开发和支持安全的人工智能系统。该决议未经表决以协商一致方式通过，这意味着它得到了所有193个联合国成员国的支持。美国大使琳达·托马斯·格林菲尔德在投票前告诉大会，“今天，随着联合国和人工智能最终相交，我们有机会也有责任选择作为一个团结的全球社区来管理这项技术，而不是让它统治我们。” 摘自《联合国通过决议支持确保人工智能安全》
-美联社 (03/21/24) Edith M. Lederer 查看全文]]></description>
-      <guid>https://apnews.com/article/united-nations-artificial-intelligence-safety-resolution-vote-8079fe83111cced0f0717fdecefffb4d</guid>
-      <pubDate>Fri, 22 Mar 2024 18:08:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Neuralink 展示脑芯片患者在线下棋</title>
-      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/neuralink-shows-first-brain-chip-patient-playing-online-chess-2024-03-21/</link>
-      <description><![CDATA[路透社Neuralink 周三直播了一名患者使用其大脑植入物在笔记本电脑上下棋的情况。诺兰·阿博（Noland Arbaugh，右上）在一次潜水事故后瘫痪，他在一月份接受了 Neuralink 植入。阿博表示，这项技术“已经改变了我的生活”，但也承认它“遇到了一些问题”。神经工程专家 Kip Ludwig 指出，“目前仍处于植入后的早期阶段。”摘自“Neuralink 显示脑芯片患者在线下棋”
-路透社 (03/21/24) Surbhi Misra；希瓦尼·坦纳；尼鲁特帕尔·蒂姆西纳；等 查看全文]]></description>
-      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/neuralink-shows-first-brain-chip-patient-playing-online-chess-2024-03-21/</guid>
-      <pubDate>Fri, 22 Mar 2024 18:08:54 GMT</pubDate>
+      <title>加拿大在外包软件开发方面举步维艰</title>
+      <link>https://www.nytimes.com/2024/03/23/world/canada/arrivecan-software-contracting-fraud.html</link>
+      <description><![CDATA[《纽约时报》加拿大宣布了加强政府采购监管的措施，特别是软件服务。加拿大审计长凯伦·霍根 (Karen Hogan) 表示，她无法确定创建 ArriveCAN 的确切成本。ArriveCAN 是一款为在疫情最严重期间收集国际旅行者的联系方式和健康信息而开发的应用程序。报告发现，在政府采购体系内，数百万美元流向充当中间商的公司，寻找软件开发商来完成实际工作。摘自《加拿大外包软件开发的困境》
+纽约时报 (03/23/24) 伊恩·奥斯汀 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/03/23/world/canada/arrivecan-software-contracting-fraud.html</guid>
+      <pubDate>Mon, 25 Mar 2024 18:09:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
