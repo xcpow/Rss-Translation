@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Mon, 25 Mar 2024 09:07:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 12:11:37 GMT</lastBuildDate>
+    <item>
+      <title>Deepfake 裸体生成器揭示了受害者令人不寒而栗的样子</title>
+      <link>https://www.wired.com/story/deepfake-nude-generator-chilling-look-at-its-victims/</link>
+      <description><![CDATA[《连线》报道揭露了一个收费“裸体”照片的网站，并发布了一个似乎显示用户上传内容的提要。其中包括年轻女孩的照片和看似陌生人的照片。]]></description>
+      <guid>https://www.wired.com/story/deepfake-nude-generator-chilling-look-at-its-victims/</guid>
+      <pubDate>Mon, 25 Mar 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>大型语言模型的新兴能力只是海市蜃楼</title>
       <link>https://www.wired.com/story/how-quickly-do-large-language-models-learn-unexpected-skills/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[匿名、坦率的评论使 Glassdoor 成为研究潜在雇主的有力场所。要求用户私下验证真实姓名的政策转变引发了隐私担忧。]]></description>
       <guid>https://www.wired.com/story/glassdoor-wants-to-know-your-real-name/</guid>
       <pubDate>Wed, 20 Mar 2024 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果的 MM1 AI 模型显示沉睡的巨人正在苏醒</title>
-      <link>https://www.wired.com/story/apples-mm1-ai-model-sleeping-giant-waking-up/</link>
-      <description><![CDATA[苹果悄悄发布的一篇研究论文描述了一种名为 MM1 的 AI 模型，可以回答问题并分析图像。这是苹果正在开发生成式人工智能功能的最大迹象。]]></description>
-      <guid>https://www.wired.com/story/apples-mm1-ai-model-sleeping-giant-waking-up/</guid>
-      <pubDate>Tue, 19 Mar 2024 20:25:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
