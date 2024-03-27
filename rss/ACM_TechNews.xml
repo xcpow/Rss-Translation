@@ -4,78 +4,104 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Mon, 25 Mar 2024 18:09:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 18:09:28 GMT</lastBuildDate>
     <item>
-      <title>飞行无人机可以在地面上滚动以节省能源</title>
-      <link>https://www.newscientist.com/article/2420991-flying-drone-can-roll-on-the-ground-to-save-energy-over-long-distances/</link>
-      <description><![CDATA[新科学家中国浙江大学的研究人员开发了一种带轮子的自主空中无人机，它可以在地面上长距离滚动并仅飞越障碍物，从而延长电池寿命。该无人机具有四个旋翼和两个大型被动轮，以及机载立体摄像头和微型计算机，以帮助其在困难的地形中导航。研究人员发现，与飞行时相比，无人机在驾驶时消耗的能量只有七分之一，因此仅在导航障碍物时才切换到飞行，以扩大其范围。从“飞行无人机可以在地面上滚动到节约能源”
-新科学家 (03/20/24) 马修·斯帕克斯 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.newscientist.com/article/2420991-flying-drone-can-roll-on-the-ground-to-save-energy-over-long-distances/</guid>
-      <pubDate>Mon, 25 Mar 2024 18:09:25 GMT</pubDate>
+      <title>大众汽车和 Mobileye 将为量产带来新的自动驾驶功能</title>
+      <link>https://www.reuters.com/business/autos-transportation/volkswagen-mobileye-bring-new-automated-driving-functions-series-production-2024-03-20/</link>
+      <description><![CDATA[路透社大众汽车 (VW) 表示，其与以色列汽车技术公司 Mobileye 的合作将导致新的自动驾驶技术被整合到其豪华汽车品牌中。基于 Mobileye SuperVision 和 Chauffeur 平台的新型驾驶辅助软件包括多车道高速公路上的自动超车、红灯和停车标志处的自动停车以及十字路口和环岛支持。 Mobileye 还将为大众商用车部门提供自动驾驶软件。摘自《大众、Mobileye 将为量产带来新的自动驾驶功能》
+路透社 (03/20/24) Christoph Steitz；安德烈·赛切夫 查看全文]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/volkswagen-mobileye-bring-new-automated-driving-functions-series-production-2024-03-20/</guid>
+      <pubDate>Wed, 27 Mar 2024 18:09:28 GMT</pubDate>
     </item>
     <item>
-      <title>弹性电路打破了柔性电子产品的记录</title>
-      <link>https://spectrum.ieee.org/stretchable-electronics</link>
-      <description><![CDATA[IEEE Spectrum斯坦福大学研究人员开发了一种 28 平方毫米 (mm) 可拉伸集成电路，具有 1,056 个晶体管和 528 个逻辑门。该电路的运行速度超过 1 兆赫兹，平均场效应迁移率超过每秒每伏特 20 平方厘米，即使在拉伸到正常尺寸的两倍时也是如此。研究人员将该电路整合到一个 8 平方毫米的盲文阅读触觉传感器阵列中，该阵列可以固定在手指上。它可以识别宽度小于 1 毫米的形状。摘自“弹性电路打破柔性电子产品的记录”
-IEEE Spectrum (03/18/24) Charles Q. Choi 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/stretchable-electronics</guid>
-      <pubDate>Mon, 25 Mar 2024 18:09:25 GMT</pubDate>
+      <title>中国禁止政府计算机使用英特尔、AMD 芯片</title>
+      <link>https://www.ft.com/content/7bf0f79b-dea7-49fa-8253-f678d5acd64a</link>
+      <description><![CDATA[英国《金融时报》在寻求用国内解决方案取代外国技术时，中国出台了指导方针，要求在政府计算机和服务器中逐步淘汰英特尔和 AMD 微处理器。该指导方针还呼吁放弃微软Windows和外国制造的数据库软件。中国信息技术安全评测中心公布的“安全可靠”处理器和操作系统名单中，包括华为和Phytium的18款处理器，均在美国政府的出口黑名单上。来自“中国禁止政府计算机使用英特尔、AMD芯片”
+《金融时报》（03/24/24）瑞安·麦克莫罗；刘念;刘倩儿 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.ft.com/content/7bf0f79b-dea7-49fa-8253-f678d5acd64a</guid>
+      <pubDate>Wed, 27 Mar 2024 18:09:27 GMT</pubDate>
     </item>
     <item>
-      <title>黑客在几秒钟内打开钥匙卡锁</title>
-      <link>https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/</link>
-      <description><![CDATA[连线比利时鲁汶大学的 Lennert Wouters 和独立安全研究员 Ian Carroll 发现了一种黑客技术，该技术利用 Dormakaba 的 Saflok 品牌基于 RFID 的钥匙卡锁中的安全缺陷，使用新的或过期的钥匙卡在几秒钟内解锁酒店房间。该技术被称为 Unsaflok，利用 Dormakaba 加密及其底层 RFID 系统 MIFARE Classic 中的漏洞。研究人员使用价值 300 美元的 RFID 读写设备读取钥匙卡上的代码，并写入两张新钥匙卡，其中一张可在轻敲锁时重写锁的一部分数据，另一张可打开锁。摘自《黑客秒开钥匙卡锁》
-《连线》(03/21/24) 安迪·格林伯格 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/</guid>
-      <pubDate>Mon, 25 Mar 2024 18:09:24 GMT</pubDate>
+      <title>利用磁振子磁力发送的第一条信息</title>
+      <link>https://interestingengineering.com/innovation/scientists-send-messages-with-magnetism-of-magnons</link>
+      <description><![CDATA[有趣的工程德国亥姆霍兹德累斯顿罗森多夫中心 (HZDR) 研究实验室的研究人员开发了一种利用磁振子磁场来控制量子位来转换量子信息的技术。研究人员研究了由碳化硅晶体结构中的硅原子空位产生的量子位和磁振子（穿过磁性材料并存在于微观磁盘内部的磁激发波）之间的相互作用。 HZDR 的 Helmut Schultheiss 表示：“这里的优点是磁振子的波长位于微米范围内，比传统微波技术的厘米波短得多。”
+
+摘自“利用磁振子磁力发送的第一条消息”
+有趣的工程（03/21/24）Jijo Maleil 查看全文]]></description>
+      <guid>https://interestingengineering.com/innovation/scientists-send-messages-with-magnetism-of-magnons</guid>
+      <pubDate>Wed, 27 Mar 2024 18:09:27 GMT</pubDate>
     </item>
     <item>
-      <title>阿联酋致力于成为人工智能强国</title>
-      <link>https://time.com/6958369/artificial-intelligence-united-arab-emirates/</link>
-      <description><![CDATA[时间去年，阿拉伯联合酋长国 (UAE) 跻身人工智能版图，由 25 名计算机科学家组成的国际团队完成了开源大语言模型 (LLM) Falcon，并于 9 月发布。阿布扎比的先进技术研究委员会向 Falcon 基金会捐赠了 3 亿美元，用于监督大型语言模型的开源开发，这种方法旨在吸引顶尖的人工智能研究人员致力于研究能够服务于更大利益的技术。摘自《阿联酋致力于成为人工智能强国》
-时间 (03/20/24) 比利·佩里戈；莱斯利·迪克斯坦 查看全文]]></description>
-      <guid>https://time.com/6958369/artificial-intelligence-united-arab-emirates/</guid>
-      <pubDate>Mon, 25 Mar 2024 18:09:24 GMT</pubDate>
+      <title>自主街道爬行器可以消除坑洼</title>
+      <link>https://newatlas.com/urban-transport/arres-prevent-autonomous-pothole-prevention/</link>
+      <description><![CDATA[New AtlasRobotiz3d 是英国利物浦大学的衍生公司，已完成其机器人维护系统的试验，该系统旨在自动识别和修复道路裂缝和坑洼。 Robotiz3d 的自主道路修复系统 (ARRES) 由 ARRES Eye 和 ARRES Prevent 组成，前者可检测表面问题并根据严重程度对问题进行优先级排序，后者使用无人驾驶机器人车辆识别并密封小裂缝以防止坑洼。进一步的测试将有助于在全面生产之前完善系统。摘自“自主街道爬行者可以消除坑洼”
+新地图集 (03/25/24) Paul Ridden 查看全文]]></description>
+      <guid>https://newatlas.com/urban-transport/arres-prevent-autonomous-pothole-prevention/</guid>
+      <pubDate>Wed, 27 Mar 2024 18:09:26 GMT</pubDate>
     </item>
     <item>
-      <title>算法解锁计算机视觉的高分辨率见解</title>
-      <link>https://www.hpcwire.com/off-the-wire/new-algorithm-unlocks-high-resolution-insights-for-computer-vision/</link>
-      <description><![CDATA[HPCwireFeatUp 算法由麻省理工学院的研究人员开发，使算法能够同时捕获高级和低级场景细节。当算法总结和理解图像时，它可以防止像素清晰度的损失。 FeatUp 还可以改进对象检测、语义分割和深度估计。 FeatUp 观察算法如何响应图像中的微小调整，从而产生大量略有不同的深层特征图，这些图可以合并为一组高分辨率的深层特征。摘自“算法解锁高分辨率计算机视觉分辨率洞察》
-HPCwire (03/21/24) 查看全文]]></description>
-      <guid>https://www.hpcwire.com/off-the-wire/new-algorithm-unlocks-high-resolution-insights-for-computer-vision/</guid>
-      <pubDate>Mon, 25 Mar 2024 18:09:23 GMT</pubDate>
+      <title>比特币“减半”促使美国旧挖矿计算机大量外流</title>
+      <link>https://www.bloomberg.com/news/articles/2024-03-23/bitcoin-halving-spurs-exodus-of-old-us-mining-computers-abroad</link>
+      <description><![CDATA[彭博社随着下个月每四年发生一次的事件，开采比特币的奖励从 6.25 比特币减半至 3.125 比特币，美国加密货币矿工要么寻找海外采矿设施，要么将他们的机器出售给买家电力成本低到足以让他们盈利的地区。总部位于科罗拉多州的批发商 SunnySide Digital 将翻新和转售约 6,000 台过时的比特币矿机，而总部位于华盛顿州贝尔维尤的 Luxor Technology 预计将有约 600,000 台 S19 系列计算机从美国运往非洲和南美洲。摘自“比特币‘减半’促使美国旧挖矿计算机大量外流”
+彭博社 (03/23/24) 潘大卫 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-03-23/bitcoin-halving-spurs-exodus-of-old-us-mining-computers-abroad</guid>
+      <pubDate>Wed, 27 Mar 2024 18:09:25 GMT</pubDate>
     </item>
     <item>
-      <title>使用 3D 打印机创建的高分辨率大脑模型</title>
-      <link>https://medicalxpress.com/news/2024-03-world-high-resolution-brain-3d.html</link>
-      <description><![CDATA[Medical Xpress奥地利维也纳工业大学和维也纳医科大学 (MedUni Vienna) 的研究人员基于使用扩散加权磁共振成像可查看的脑纤维结构开发了一种 3D 打印大脑模型。立方体形状的“大脑模型”比实际的大脑小，并且具有与单个脑神经大小相似的充满水的微通道。维也纳医科大学的 Michael Woletz 表示：“我们可以更精确地调整分析软件，从而提高测量数据的质量并更准确地重建大脑的神经结构。”摘自“高分辨率” 3D打印机制作的大脑模型
-Medical Xpress (03/21/24) 查看全文]]></description>
-      <guid>https://medicalxpress.com/news/2024-03-world-high-resolution-brain-3d.html</guid>
-      <pubDate>Mon, 25 Mar 2024 18:09:23 GMT</pubDate>
+      <title>人工智能攻克印度最拥堵的城市</title>
+      <link>https://spectrum.ieee.org/bengaluru-traffic</link>
+      <description><![CDATA[IEEE 频谱M.N. Anucheth 曾是一名芯片工程师，后来成为印度班加罗尔的交通沙皇，他正在利用人工智能来解决这座拥有超过 1400 万人口的城市的交通问题。该市新的可持续交通管理可操作情报系统结合了来自多个地图服务的数据和特定道路信息，以按严重程度对拥堵进行评级，并具有事件记录应用程序，官员可以使用该应用程序报告坑洼、事故等。 Anucheth 表示，“在交通中，有很多重复性的任务，很容易简化为算法过程，而人工智能非常擅长这一点。”摘自“人工智能战胜印度最拥堵的城市”城市”
+IEEE Spectrum (03/21/24) Edd Gent 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/bengaluru-traffic</guid>
+      <pubDate>Wed, 27 Mar 2024 18:09:25 GMT</pubDate>
     </item>
     <item>
-      <title>利用 X 射线视觉对博物馆动物进行数字化解剖</title>
-      <link>https://www.sciencealert.com/stunning-tool-lets-you-digitally-dissect-museum-animals-with-x-ray-vision</link>
-      <description><![CDATA[ScienceAlertopenVertebrate (oVert) 项目允许科学家和公众以数字方式“解剖”博物馆标本，这要归功于 18 个机构的研究人员迄今为止对 13,000 多个标本的 3D 重建。 oVert 负责人、佛罗里达自然历史博物馆的大卫·布莱克本 (David Blackburn) 表示，该项目“是减少样本磨损的一种方式，同时也增加了获取机会，这是博物馆藏品使命的下一个合乎逻辑的步骤。” 摘自《利用X射线视觉对博物馆动物进行数字化解剖》
-ScienceAlert (03/22/24) Jess Cockerill 查看全文]]></description>
-      <guid>https://www.sciencealert.com/stunning-tool-lets-you-digitally-dissect-museum-animals-with-x-ray-vision</guid>
-      <pubDate>Mon, 25 Mar 2024 18:09:22 GMT</pubDate>
+      <title>生产线上的“人形”机器人波信号发生变化</title>
+      <link>https://www.ft.com/content/613cb2c6-7067-413f-a3cf-747519b407c2</link>
+      <description><![CDATA[金融时报随着人工智能在制造业的兴起，人们担心生产线工人、质量控制评估员和机器操作员面临失业风险。然而，一些人表示，制造业工人可以接受再培训，以操作和监控人工智能机器、机器人编程，并在需要数据科学和制造专业知识的跨学科团队中任职。麦肯锡的 Marie El Hoyek 预计，一些制造业工作“需要发展”。 El Hoyek 表示：“您需要的数字冠军是核心制造人员，但知道如何将他们的需求和工作转化为数字语言。”摘自“生产线上‘人形’机器人波信号的变化“
+英国《金融时报》 (03/26/24) Nick Huber 查看全文文章 - 可能需要付费订阅]]></description>
+      <guid>https://www.ft.com/content/613cb2c6-7067-413f-a3cf-747519b407c2</guid>
+      <pubDate>Wed, 27 Mar 2024 18:09:24 GMT</pubDate>
     </item>
     <item>
-      <title>苹果芯片中的漏洞泄露加密密钥</title>
-      <link>https://arstechnica.com/security/2024/03/hackers-can-extract-secret-encryption-keys-from-apples-mac-chips/</link>
-      <description><![CDATA[Ars TechnicaApple M 系列芯片中嵌入的新发现漏洞允许攻击者在执行加密操作时从 Mac 中提取密钥。该缺陷被发现它的多机构学术研究人员命名为GoFetch，该缺陷无法直接修补，因为它源于硅本身的微架构设计。只能通过在第三方加密软件中构建防御来缓解这一问题，这可能会在执行加密操作时极大地降低 M 系列的性能。摘自“Apple 芯片泄露加密密钥的漏洞”
-Ars Technica (03/21/24) Dan Goodin 查看全文]]></description>
-      <guid>https://arstechnica.com/security/2024/03/hackers-can-extract-secret-encryption-keys-from-apples-mac-chips/</guid>
-      <pubDate>Mon, 25 Mar 2024 18:09:22 GMT</pubDate>
+      <title>Uber Eats 优食司机因面部扫描偏差获得赔偿</title>
+      <link>https://www.bbc.com/news/technology-68655429</link>
+      <description><![CDATA[BBC 新闻一名黑人 Uber Eats 优食司机因“种族歧视”面部识别检查而无法访问该应用程序以确保工作，因此获得了庭外和解。 Pa Edrissa Manjang（右）受到微软支持的 Uber Eats 应用程序越来越多的验证检查，之后被告知，经过“仔细考虑”后，由于“持续不匹配”，他的账户将被删除。为 Manjang 案件提供资助的平等与人权委员会 (EHRC) 担心面部识别检查中的人工智能剥夺了他的收入。摘自“Uber Eats 优食司机付款超过面部扫描偏差”
+BBC 新闻 (03/26/24) Shiona McCallum 查看全文]]></description>
+      <guid>https://www.bbc.com/news/technology-68655429</guid>
+      <pubDate>Wed, 27 Mar 2024 18:09:24 GMT</pubDate>
     </item>
     <item>
-      <title>加拿大在外包软件开发方面举步维艰</title>
-      <link>https://www.nytimes.com/2024/03/23/world/canada/arrivecan-software-contracting-fraud.html</link>
-      <description><![CDATA[《纽约时报》加拿大宣布了加强政府采购监管的措施，特别是软件服务。加拿大审计长凯伦·霍根 (Karen Hogan) 表示，她无法确定创建 ArriveCAN 的确切成本。ArriveCAN 是一款为在疫情最严重期间收集国际旅行者的联系方式和健康信息而开发的应用程序。报告发现，在政府采购体系内，数百万美元流向充当中间商的公司，寻找软件开发商来完成实际工作。摘自《加拿大外包软件开发的困境》
-纽约时报 (03/23/24) 伊恩·奥斯汀 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/03/23/world/canada/arrivecan-software-contracting-fraud.html</guid>
-      <pubDate>Mon, 25 Mar 2024 18:09:21 GMT</pubDate>
+      <title>相机每秒捕捉 156.3 万亿帧</title>
+      <link>https://www.engadget.com/this-camera-captures-1563-trillion-frames-per-second-184651322.html</link>
+      <description><![CDATA[Engadget加拿大国家科学研究所的 Jinyang Liang（上图，最左）领导的科学家们创造了一种科学相机，可以以 156.3 太赫兹到单个像素的编码率（相当于 156.3 太赫兹）拍摄图像。每秒万亿帧。该相机被称为 SCARF（扫描编码孔径实时飞秒摄影），使用计算成像模式，通过让光线在略有不同的时间进入其传感器来捕获空间信息。然后算法对时间交错的输入进行解码。来自“相机每秒捕获 156.3 万亿帧”
+Engadget (03/26/24) Will Shanklin 查看全文]]></description>
+      <guid>https://www.engadget.com/this-camera-captures-1563-trillion-frames-per-second-184651322.html</guid>
+      <pubDate>Wed, 27 Mar 2024 18:09:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国在人工智能人才方面领先于美国</title>
+      <link>https://www.nytimes.com/2024/03/22/technology/china-ai-talent.html</link>
+      <description><![CDATA[《纽约时报》MacroPolo智库发现，全球顶尖人工智能研究人员中近一半来自中国，高于三年前的约33%，而只有约18%来自美国本科院校，基本没有变化。在美国工作的人工智能研究人员中，37% 是美国人，高于三年前的 31%，38% 来自中国，高于 27%。美国拥有全球约 42% 的顶尖人工智能人才，而三年前这一数字约为 59%。摘自《中国在人工智能人才方面领先于美国》
+纽约时报 (03/23/24) Paul Mozur；凯德·梅茨 查看全文  - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/03/22/technology/china-ai-talent.html</guid>
+      <pubDate>Wed, 27 Mar 2024 18:09:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>化学计算机与量子竞争对手竞争</title>
+      <link>https://www.chemistryworld.com/news/pulsating-chemical-computers-vie-with-their-quantum-rivals/4019184.article</link>
+      <description><![CDATA[化学世界英国格拉斯哥大学的研究人员开发了一种脉动化学计算机，该计算机利用两个 3D 打印互连孔阵列中的 Belousov-Zhabotinsky (BZ) 反应颜色振荡来编码数据。由于硫酸和丙二酸与铁蛋白指示剂和溴酸钾相互作用，孔在红色和蓝色之间波动。 BZ 颜色变化使用每个孔和间隙中的磁力搅拌棒同步。研究人员使用人工智能来控制与下一个发生的脉冲状态和试剂添加相关的搅拌器的数字输入。摘自“化学计算机与量子对手的竞争”
+化学世界 (03/26/24) Andy Extance 查看全文]]></description>
+      <guid>https://www.chemistryworld.com/news/pulsating-chemical-computers-vie-with-their-quantum-rivals/4019184.article</guid>
+      <pubDate>Wed, 27 Mar 2024 18:09:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>3D 打印战区学校</title>
+      <link>https://www.cnn.com/2024/03/25/style/ukraine-3d-printed-school-warzone-dfi-hnk-spc-intl-hnk/index.html</link>
+      <description><![CDATA[CNN非营利组织 Team4UA 与设计工作室 Balbek Bureau 和建筑公司 Ars Longa 合作开展了一个项目，旨在建造欧洲第一个 3D 打印教育中心，以及战区第一座 3D 打印建筑。位于乌克兰利沃夫，占地 3,983 平方英尺。 Project Hive 使用 COBOD 龙门打印机在 40 小时内打印完成，为利沃夫第 23 学校额外提供了四间教室，以容纳因战争而流离失所的学生。摘自《3D 打印战区学校》 “
+CNN (03/25/24) 丽贝卡·凯恩斯 查看全文]]></description>
+      <guid>https://www.cnn.com/2024/03/25/style/ukraine-3d-printed-school-warzone-dfi-hnk-spc-intl-hnk/index.html</guid>
+      <pubDate>Wed, 27 Mar 2024 18:09:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
