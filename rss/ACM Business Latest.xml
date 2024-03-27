@@ -4,7 +4,35 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Wed, 27 Mar 2024 09:08:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 12:13:24 GMT</lastBuildDate>
+    <item>
+      <title>世界上最强大的开源人工智能模型 DBRX 的创建过程</title>
+      <link>https://www.wired.com/story/dbrx-inside-the-creation-of-the-worlds-most-powerful-open-source-ai-model/</link>
+      <description><![CDATA[初创公司 Databricks 刚刚发布了 DBRX，这是迄今为止最强大的开源大型语言模型，超越了 Meta 的 Llama 2。]]></description>
+      <guid>https://www.wired.com/story/dbrx-inside-the-creation-of-the-worlds-most-powerful-open-source-ai-model/</guid>
+      <pubDate>Wed, 27 Mar 2024 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>加密取证科学目前在法庭之争中幸存下来</title>
+      <link>https://www.wired.com/story/the-science-of-crypto-forensics-court-battle/</link>
+      <description><![CDATA[本月，陪审团判定罗曼·斯特林戈夫犯有洗钱罪。他的辩护团队表示将上诉，并称该案核心的加密追踪技术是“伪科学”。]]></description>
+      <guid>https://www.wired.com/story/the-science-of-crypto-forensics-court-battle/</guid>
+      <pubDate>Wed, 27 Mar 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Elie Hassenfeld 问答：“5,000 美元拯救生命很划算”</title>
+      <link>https://www.wired.com/story/elie-hassenfeld-givewell-ea/</link>
+      <description><![CDATA[这是 Elie Hassenfeld，你高中时迷恋 EA 的人。当有效的利他主义逐渐演变成自我怀疑时，理想主义的宽客仍在努力，每年帮助硅谷的富人捐赠数亿美元。]]></description>
+      <guid>https://www.wired.com/story/elie-hassenfeld-givewell-ea/</guid>
+      <pubDate>Wed, 27 Mar 2024 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>有效利他主义的消亡</title>
+      <link>https://www.wired.com/story/deaths-of-effective-altruism/</link>
+      <description><![CDATA[萨姆·班克曼-弗里德终于面临惩罚。让我们也来检验他的毁灭性哲学。]]></description>
+      <guid>https://www.wired.com/story/deaths-of-effective-altruism/</guid>
+      <pubDate>Wed, 27 Mar 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>插电式混合动力车泛滥而来</title>
       <link>https://www.wired.com/story/here-comes-the-flood-of-plug-in-hybrids/</link>
@@ -71,7 +99,7 @@
     <item>
       <title>一个人的流媒体机器人大军揭示了整个行业的问题</title>
       <link>https://www.wired.com/story/streaming-bots-spotify/</link>
-      <description><![CDATA[丹麦法院的一个罕见案例展示了自动点击和虚假账户如何在 Apple Music 和 Spotify 上赚取数十万美元。专家表示，这只是冰山一角。]]></description>
+      <description><![CDATA[丹麦法院的一个罕见案例表明，自动点击和虚假账户如何能够在 Apple Music 和 Spotify 上赚取数十万美元。专家表示，这只是冰山一角。]]></description>
       <guid>https://www.wired.com/story/streaming-bots-spotify/</guid>
       <pubDate>Thu, 21 Mar 2024 21:04:46 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[Memestocks 之家现已在纽约证券交易所公开交易，股票代码为 RDDT，这是五年来首次大型社交媒体 IPO。]]></description>
       <guid>https://www.wired.com/story/reddit-ipo-price-surge/</guid>
       <pubDate>Thu, 21 Mar 2024 18:14:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国国家安全局警告称，美国对手自由挖掘私人数据可能拥有人工智能优势</title>
-      <link>https://www.wired.com/story/fast-forward-nsa-warns-us-adversaries-private-data-ai-edge/</link>
-      <description><![CDATA[美国国家安全局研究负责人吉尔伯特·埃雷拉 (Gilbert Herrera) 表示，大型语言模型对于美国的情报机器来说非常有用，但也有点令人头疼。]]></description>
-      <guid>https://www.wired.com/story/fast-forward-nsa-warns-us-adversaries-private-data-ai-edge/</guid>
-      <pubDate>Thu, 21 Mar 2024 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国在 iPhone 反垄断重磅案件中起诉苹果</title>
-      <link>https://www.wired.com/story/doj-sues-apple-antitrust/</link>
-      <description><![CDATA[司法部的诉讼是迄今为止对苹果主导生态系统最激进的法律挑战。]]></description>
-      <guid>https://www.wired.com/story/doj-sues-apple-antitrust/</guid>
-      <pubDate>Thu, 21 Mar 2024 15:08:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Perplexity 的创始人受到 Sundar Pichai 的启发。现在他们正在竞相重塑搜索</title>
-      <link>https://www.wired.com/story/founder-perplexity-ai-sundar-pichai-competing-to-reinvent-search/</link>
-      <description><![CDATA[阿拉文德·斯里尼瓦斯 (Aravind Srinivas) 与谷歌首席执行官在同一座城市长大，早在创办自己的人工智能搜索初创公司之前就对这家公司产生了浓厚的兴趣。]]></description>
-      <guid>https://www.wired.com/story/founder-perplexity-ai-sundar-pichai-competing-to-reinvent-search/</guid>
-      <pubDate>Thu, 21 Mar 2024 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>宝马 Vision Neue Klasse X 拥有车宽屏幕和“欢乐”大脑</title>
-      <link>https://www.wired.com/story/bmws-vision-neue-klasse-x-has-a-car-wide-screen-and-a-joy-brain/</link>
-      <description><![CDATA[这家德国汽车制造商展示了下一代宝马电动汽车的内部和外部外观，包括更好的电池、精美的新型中央计算机和巨大的新型挡风玻璃显示屏。]]></description>
-      <guid>https://www.wired.com/story/bmws-vision-neue-klasse-x-has-a-car-wide-screen-and-a-joy-brain/</guid>
-      <pubDate>Thu, 21 Mar 2024 08:15:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
