@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Thu, 28 Mar 2024 18:09:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 21:07:01 GMT</lastBuildDate>
+    <item>
+      <title>亚马逊上蜂拥而至的除虫器</title>
+      <link>https://www.wired.com/story/bug-zappers-are-swarming-on-amazon/</link>
+      <description><![CDATA[亚马逊的低成本科技产品列表可能会让购物者陷入奇怪的品牌名称、重复的列表和可疑评论的陷阱。 Fakespot 的数据显示，灭虫器正在兴起。]]></description>
+      <guid>https://www.wired.com/story/bug-zappers-are-swarming-on-amazon/</guid>
+      <pubDate>Thu, 28 Mar 2024 19:19:27 GMT</pubDate>
+    </item>
     <item>
       <title>FTX 创始人 Sam Bankman-Fried 被判 25 年监禁</title>
       <link>https://www.wired.com/story/sam-bankman-fried-sentenced-ftx-fraud/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>加密取证科学目前在法庭之争中幸存下来</title>
       <link>https://www.wired.com/story/the-science-of-crypto-forensics-court-battle/</link>
-      <description><![CDATA[陪审团本月判定罗曼·斯特林戈夫犯有洗钱罪。他的辩护团队表示将上诉，并称该案核心的加密追踪技术是“伪科学”。]]></description>
+      <description><![CDATA[本月，陪审团判定罗曼·斯特林戈夫犯有洗钱罪。他的辩护团队表示将上诉，并称该案核心的加密追踪技术是“伪科学”。]]></description>
       <guid>https://www.wired.com/story/the-science-of-crypto-forensics-court-battle/</guid>
       <pubDate>Wed, 27 Mar 2024 11:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[凯特·米德尔顿 (Kate Middleton) 的 Photoshop 失败最令人惊讶的是，任何人都会将照片视为生命的证明。]]></description>
       <guid>https://www.wired.com/story/the-end-of-photography-as-evidence-of-anything/</guid>
       <pubDate>Fri, 22 Mar 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助 DOJ 立案的 4 封 Apple 内部电子邮件</title>
-      <link>https://www.wired.com/story/4-internal-apple-emails-helped-doj-build-antitrust-case/</link>
-      <description><![CDATA[美国司法部在反垄断诉讼中称，苹果内部电子邮件显示该公司故意锁定用户，迫使他们花更多钱。]]></description>
-      <guid>https://www.wired.com/story/4-internal-apple-emails-helped-doj-build-antitrust-case/</guid>
-      <pubDate>Fri, 22 Mar 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
