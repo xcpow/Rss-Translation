@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Thu, 28 Mar 2024 06:09:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 09:08:23 GMT</lastBuildDate>
+    <item>
+      <title>白宫对政府使用人工智能设置新的监管</title>
+      <link>https://www.wired.com/story/white-house-new-guardrails-government-use-of-ai/</link>
+      <description><![CDATA[副总统卡马拉·哈里斯表示，政府人工智能部署的新规则，包括要求检查算法是否存在偏见，将“把公共利益放在第一位”。]]></description>
+      <guid>https://www.wired.com/story/white-house-new-guardrails-government-use-of-ai/</guid>
+      <pubDate>Thu, 28 Mar 2024 09:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>巴尔的摩大桥的倒塌将变得更加严重</title>
       <link>https://www.wired.com/story/baltimore-bridge-collapse-shipping-supply-chain-disruption-francis-scott-key/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>加密取证科学目前在法庭之争中幸存下来</title>
       <link>https://www.wired.com/story/the-science-of-crypto-forensics-court-battle/</link>
-      <description><![CDATA[陪审团本月判定罗曼·斯特林戈夫犯有洗钱罪。他的辩护团队表示将上诉，并称该案核心的加密追踪技术是“伪科学”。]]></description>
+      <description><![CDATA[本月，陪审团判定罗曼·斯特林戈夫犯有洗钱罪。他的辩护团队表示将上诉，并称该案核心的加密追踪技术是“伪科学”。]]></description>
       <guid>https://www.wired.com/story/the-science-of-crypto-forensics-court-battle/</guid>
       <pubDate>Wed, 27 Mar 2024 11:00:00 GMT</pubDate>
     </item>
@@ -48,16 +55,16 @@
       <pubDate>Mon, 25 Mar 2024 20:37:54 GMT</pubDate>
     </item>
     <item>
-      <title>Meta 在最糟糕的时候杀死了一个重要的透明工具</title>
+      <title>Meta 在最糟糕的时候杀死了一个至关重要的透明工具</title>
       <link>https://www.wired.com/story/meta-kills-crucial-transparency-tool-worst-possible-time/</link>
-      <description><![CDATA[CrowdTangle 帮助研究人员追踪虚假信息，但 Meta 将在美国大选前将其关闭。该工具的联合创始人布兰登·西尔弗曼表示，现在是迫使公司共享数据的时候了。]]></description>
+      <description><![CDATA[CrowdTangle 帮助研究人员追踪虚假信息，但 Meta 将在美国大选前将其关闭。该工具的联合创始人布兰登西尔弗曼表示，现在是迫使公司共享数据的时候了。]]></description>
       <guid>https://www.wired.com/story/meta-kills-crucial-transparency-tool-worst-possible-time/</guid>
       <pubDate>Mon, 25 Mar 2024 19:18:29 GMT</pubDate>
     </item>
     <item>
       <title>欧盟根据新技术法对苹果、Meta 和 Alphabet 进行调查</title>
       <link>https://www.wired.com/story/apple-meta-alphabet-eu-digital-markets-act/</link>
-      <description><![CDATA[这些调查是根据欧洲具有里程碑意义的《数字市场法案》进行的首次调查，并加剧了苹果日益严重的反垄断困境。]]></description>
+      <description><![CDATA[这些调查是根据欧洲具有里程碑意义的《数字市场法案》进行的首次调查，并加剧了苹果公司日益严重的反垄断困境。]]></description>
       <guid>https://www.wired.com/story/apple-meta-alphabet-eu-digital-markets-act/</guid>
       <pubDate>Mon, 25 Mar 2024 13:33:58 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[美国司法部针对苹果公司的反垄断诉讼称，该公司对 iPhone 用户和开发者的控制正在阻碍未来的技术创新。]]></description>
       <guid>https://www.wired.com/story/antitrust-case-apple-stranglehold-on-the-future/</guid>
       <pubDate>Thu, 21 Mar 2024 21:54:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个人的流媒体机器人大军揭示了整个行业的问题</title>
-      <link>https://www.wired.com/story/streaming-bots-spotify/</link>
-      <description><![CDATA[丹麦法院的一个罕见案例展示了自动点击和虚假账户如何在 Apple Music 和 Spotify 上赚取数十万美元。专家表示，这只是冰山一角。]]></description>
-      <guid>https://www.wired.com/story/streaming-bots-spotify/</guid>
-      <pubDate>Thu, 21 Mar 2024 21:04:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
