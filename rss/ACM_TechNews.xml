@@ -4,104 +4,110 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Wed, 27 Mar 2024 18:09:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 18:08:17 GMT</lastBuildDate>
     <item>
-      <title>大众汽车和 Mobileye 将为量产带来新的自动驾驶功能</title>
-      <link>https://www.reuters.com/business/autos-transportation/volkswagen-mobileye-bring-new-automated-driving-functions-series-production-2024-03-20/</link>
-      <description><![CDATA[路透社大众汽车 (VW) 表示，其与以色列汽车技术公司 Mobileye 的合作将导致新的自动驾驶技术被整合到其豪华汽车品牌中。基于 Mobileye SuperVision 和 Chauffeur 平台的新型驾驶辅助软件包括多车道高速公路上的自动超车、红灯和停车标志处的自动停车以及十字路口和环岛支持。 Mobileye 还将为大众商用车部门提供自动驾驶软件。摘自《大众、Mobileye 将为量产带来新的自动驾驶功能》
-路透社 (03/20/24) Christoph Steitz；安德烈·赛切夫 查看全文]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/volkswagen-mobileye-bring-new-automated-driving-functions-series-production-2024-03-20/</guid>
-      <pubDate>Wed, 27 Mar 2024 18:09:28 GMT</pubDate>
+      <title>以色列国防军的“猎人”系统在加沙战场创建“谷歌地图”</title>
+      <link>https://www.jpost.com/israel-hamas-war/article-793919</link>
+      <description><![CDATA[耶路撒冷邮报（以色列）以色列国防军 (IDF) 宣布推出实时恐怖主义威胁部分软件，该软件已被认为可以挽救生命。猎人系统实时检测火箭发射、无人机和其他可能的恐怖活动，使士兵能够做出相应反应。有关威胁的信息来自现场传感器以及以色列国防军情报部门已经监控的内容。摘自“以色列国防军的‘猎人’系统在加沙战场创建‘谷歌地图’”
+耶路撒冷邮报（以色列）（03/27/24） 查看全文文章]]></description>
+      <guid>https://www.jpost.com/israel-hamas-war/article-793919</guid>
+      <pubDate>Fri, 29 Mar 2024 18:08:16 GMT</pubDate>
     </item>
     <item>
-      <title>中国禁止政府计算机使用英特尔、AMD 芯片</title>
-      <link>https://www.ft.com/content/7bf0f79b-dea7-49fa-8253-f678d5acd64a</link>
-      <description><![CDATA[英国《金融时报》在寻求用国内解决方案取代外国技术时，中国出台了指导方针，要求在政府计算机和服务器中逐步淘汰英特尔和 AMD 微处理器。该指导方针还呼吁放弃微软Windows和外国制造的数据库软件。中国信息技术安全评测中心公布的“安全可靠”处理器和操作系统名单中，包括华为和Phytium的18款处理器，均在美国政府的出口黑名单上。来自“中国禁止政府计算机使用英特尔、AMD芯片”
-《金融时报》（03/24/24）瑞安·麦克莫罗；刘念;刘倩儿 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.ft.com/content/7bf0f79b-dea7-49fa-8253-f678d5acd64a</guid>
-      <pubDate>Wed, 27 Mar 2024 18:09:27 GMT</pubDate>
+      <title>植入物帮助患者追踪膀胱充盈度</title>
+      <link>https://www.upi.com/Health_News/2024/03/26/urinary-implant-senses-bladder-filling/3931711458768/</link>
+      <description><![CDATA[UPI西北大学的研究人员开发了一种柔软、灵活的无线植入物，可以附着在膀胱壁上，用于实时监测膀胱充盈度。该设备使用多个传感器来跟踪膀胱的压力。当膀胱充满时，它会膨胀和拉伸，拉动设备并允许其跟踪膀胱的应变，并将数据传输到智能手机应用程序。摘自“植入物帮助患者跟踪膀胱充盈度” 
+UPI (03/26/24) 丹尼斯·汤普森 查看全文]]></description>
+      <guid>https://www.upi.com/Health_News/2024/03/26/urinary-implant-senses-bladder-filling/3931711458768/</guid>
+      <pubDate>Fri, 29 Mar 2024 18:08:16 GMT</pubDate>
     </item>
     <item>
-      <title>利用磁振子磁力发送的第一条信息</title>
-      <link>https://interestingengineering.com/innovation/scientists-send-messages-with-magnetism-of-magnons</link>
-      <description><![CDATA[有趣的工程德国亥姆霍兹德累斯顿罗森多夫中心 (HZDR) 研究实验室的研究人员开发了一种利用磁振子磁场来控制量子位来转换量子信息的技术。研究人员研究了由碳化硅晶体结构中的硅原子空位产生的量子位和磁振子（穿过磁性材料并存在于微观磁盘内部的磁激发波）之间的相互作用。 HZDR 的 Helmut Schultheiss 表示：“这里的优点是磁振子的波长位于微米范围内，比传统微波技术的厘米波短得多。”
-
-摘自“利用磁振子磁力发送的第一条消息”
-有趣的工程（03/21/24）Jijo Maleil 查看全文]]></description>
-      <guid>https://interestingengineering.com/innovation/scientists-send-messages-with-magnetism-of-magnons</guid>
-      <pubDate>Wed, 27 Mar 2024 18:09:27 GMT</pubDate>
+      <title>施乐 PARC 能否通过 SRI 获得新生？</title>
+      <link>https://www.nytimes.com/interactive/2024/03/26/business/silicon-valley-tech-xerox-parc-sri.html</link>
+      <description><![CDATA[纽约时报施乐的帕洛阿尔托研究中心 (PARC) 的发明定义了个人计算革命，去年被捐赠给独立研究实验室 SRI。 1973 年，帕洛阿尔托研究中心 (PARC) 创造了第一台现代个人计算机 Xerox Alto（如图）。 SRI 计划与 PARC 合作创建一个拥有约 1,000 名研究人员的联合非营利研究组织，以及一个现代化的研究园区和一个住宅社区，以期吸引其他高科技公司。摘自“Can Xerox 的 PARC”通过 SRI 寻找新生活？”
+纽约时报 (03/26/24) John Markoff 查看完整文章 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/interactive/2024/03/26/business/silicon-valley-tech-xerox-parc-sri.html</guid>
+      <pubDate>Fri, 29 Mar 2024 18:08:16 GMT</pubDate>
     </item>
     <item>
-      <title>自主街道爬行器可以消除坑洼</title>
-      <link>https://newatlas.com/urban-transport/arres-prevent-autonomous-pothole-prevention/</link>
-      <description><![CDATA[New AtlasRobotiz3d 是英国利物浦大学的衍生公司，已完成其机器人维护系统的试验，该系统旨在自动识别和修复道路裂缝和坑洼。 Robotiz3d 的自主道路修复系统 (ARRES) 由 ARRES Eye 和 ARRES Prevent 组成，前者可检测表面问题并根据严重程度对问题进行优先级排序，后者使用无人驾驶机器人车辆识别并密封小裂缝以防止坑洼。进一步的测试将有助于在全面生产之前完善系统。摘自“自主街道爬行者可以消除坑洼”
-新地图集 (03/25/24) Paul Ridden 查看全文]]></description>
-      <guid>https://newatlas.com/urban-transport/arres-prevent-autonomous-pothole-prevention/</guid>
-      <pubDate>Wed, 27 Mar 2024 18:09:26 GMT</pubDate>
+      <title>人工智能可以利用咳嗽来诊断疾病</title>
+      <link>https://www.nature.com/articles/d41586-024-00869-0</link>
+      <description><![CDATA[Nature谷歌研究人员开发的机器学习工具可以评估咳嗽、呼吸和清喉咙等噪音，以检测某些健康状况。自监督学习系统 Health Acoustic Representations (HeAR) 使用从 YouTube 视频中提取的 3 亿个人类声音音频片段进行训练。通过为有限的数据集提供适当的标签，HeAR 可以进行微调以检测特定的疾病和特征。测试表明，HeAR 优于在语音数据或一般音频上训练的现有模型，用于 COVID-19 和结核病检测。摘自“AI 可以使用咳嗽来诊断疾病”
+自然 (03/21/24) Mariana Lenharo 查看全文]]></description>
+      <guid>https://www.nature.com/articles/d41586-024-00869-0</guid>
+      <pubDate>Fri, 29 Mar 2024 18:08:15 GMT</pubDate>
     </item>
     <item>
-      <title>比特币“减半”促使美国旧挖矿计算机大量外流</title>
-      <link>https://www.bloomberg.com/news/articles/2024-03-23/bitcoin-halving-spurs-exodus-of-old-us-mining-computers-abroad</link>
-      <description><![CDATA[彭博社随着下个月每四年发生一次的事件，开采比特币的奖励从 6.25 比特币减半至 3.125 比特币，美国加密货币矿工要么寻找海外采矿设施，要么将他们的机器出售给买家电力成本低到足以让他们盈利的地区。总部位于科罗拉多州的批发商 SunnySide Digital 将翻新和转售约 6,000 台过时的比特币矿机，而总部位于华盛顿州贝尔维尤的 Luxor Technology 预计将有约 600,000 台 S19 系列计算机从美国运往非洲和南美洲。摘自“比特币‘减半’促使美国旧挖矿计算机大量外流”
-彭博社 (03/23/24) 潘大卫 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-03-23/bitcoin-halving-spurs-exodus-of-old-us-mining-computers-abroad</guid>
-      <pubDate>Wed, 27 Mar 2024 18:09:25 GMT</pubDate>
+      <title>软件行业呼吁英国政府提供更多支持</title>
+      <link>https://www.reuters.com/technology/software-industry-calls-more-uk-government-support-2024-03-27/</link>
+      <description><![CDATA[路透社超过120家软件行业领导者呼吁英国政府通过税收优惠和人才签证等手段加大对欧洲软件公司的支持。行业机构 Boardwave 发布了一份新的政策文件，重点关注欧洲软件公司规模扩张的“可怕”记录。 Boardwave 的 Phill Robinson 表示：“科技生态系统的很大一部分都被忽视了。软件将支撑未来的数字经济，但它却被忽视了。”摘自“软件行业需要更多”英国政府支持”
+路透社 (03/27/24) 马丁·库尔特 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/software-industry-calls-more-uk-government-support-2024-03-27/</guid>
+      <pubDate>Fri, 29 Mar 2024 18:08:15 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能攻克印度最拥堵的城市</title>
-      <link>https://spectrum.ieee.org/bengaluru-traffic</link>
-      <description><![CDATA[IEEE 频谱M.N. Anucheth 曾是一名芯片工程师，后来成为印度班加罗尔的交通沙皇，他正在利用人工智能来解决这座拥有超过 1400 万人口的城市的交通问题。该市新的可持续交通管理可操作情报系统结合了来自多个地图服务的数据和特定道路信息，以按严重程度对拥堵进行评级，并具有事件记录应用程序，官员可以使用该应用程序报告坑洼、事故等。 Anucheth 表示，“在交通中，有很多重复性的任务，很容易简化为算法过程，而人工智能非常擅长这一点。”摘自“人工智能战胜印度最拥堵的城市”城市”
-IEEE Spectrum (03/21/24) Edd Gent 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/bengaluru-traffic</guid>
-      <pubDate>Wed, 27 Mar 2024 18:09:25 GMT</pubDate>
+      <title>蛇形机器人旨在寻找土星卫星上的生命</title>
+      <link>https://techcrunch.com/2024/03/26/nasas-snake-robot-is-designed-to-search-out-life-in-the-icy-oceans-of-a-saturn-moon/</link>
+      <description><![CDATA[Tech Crunch卡内基梅隆大学 (CMU) 和其他美国机构的研究人员开发了一种蛇形机器人，最终将用于探索土星冰冷卫星土卫二地壳下的海洋。外星生物现存生命勘测者（EELS）机器人正在冰川上进行测试，以模拟土卫二的地形。卡内基梅隆大学在一份新闻稿中表示，机器蛇“配备了风险意识规划、态势感知、运动规划和本体感觉控制，使其能够自主移动，远离地球和人类控制的控制。”&lt; br /&gt;摘自《设计用于在土星卫星上寻找生命的蛇形机器人》
+Tech Crunch (03/26/24) Brian Heater 查看全文]]></description>
+      <guid>https://techcrunch.com/2024/03/26/nasas-snake-robot-is-designed-to-search-out-life-in-the-icy-oceans-of-a-saturn-moon/</guid>
+      <pubDate>Fri, 29 Mar 2024 18:08:14 GMT</pubDate>
     </item>
     <item>
-      <title>生产线上的“人形”机器人波信号发生变化</title>
-      <link>https://www.ft.com/content/613cb2c6-7067-413f-a3cf-747519b407c2</link>
-      <description><![CDATA[金融时报随着人工智能在制造业的兴起，人们担心生产线工人、质量控制评估员和机器操作员面临失业风险。然而，一些人表示，制造业工人可以接受再培训，以操作和监控人工智能机器、机器人编程，并在需要数据科学和制造专业知识的跨学科团队中任职。麦肯锡的 Marie El Hoyek 预计，一些制造业工作“需要发展”。 El Hoyek 表示：“您需要的数字冠军是核心制造人员，但知道如何将他们的需求和工作转化为数字语言。”摘自“生产线上‘人形’机器人波信号的变化“
-英国《金融时报》 (03/26/24) Nick Huber 查看全文文章 - 可能需要付费订阅]]></description>
-      <guid>https://www.ft.com/content/613cb2c6-7067-413f-a3cf-747519b407c2</guid>
-      <pubDate>Wed, 27 Mar 2024 18:09:24 GMT</pubDate>
+      <title>“冷冻烟雾”传感器检测有毒空气</title>
+      <link>https://interestingengineering.com/innovation/aerogel-formaldehyde-sensor-quantum-dots</link>
+      <description><![CDATA[有趣的工程英国华威大学和剑桥大学的研究人员开发的传感器可以检测室内空气中的低浓度甲醛。 3D 打印传感器由气凝胶组成，称为“冷冻烟雾”。由于其透明外观，它们由二氧化锡（一种以其传感特性而闻名的半导体）和还原氧化石墨烯（具有高导电性）制成。研究人员还开发了一种气体种类识别算法，用于对不同气体进行分类。摘自《‘冰冻烟雾’传感器检测有毒空气》
+有趣的工程 (03/25/24) Tejasri Gururaj 查看全文&lt; /a&gt;]]></description>
+      <guid>https://interestingengineering.com/innovation/aerogel-formaldehyde-sensor-quantum-dots</guid>
+      <pubDate>Fri, 29 Mar 2024 18:08:14 GMT</pubDate>
     </item>
     <item>
-      <title>Uber Eats 优食司机因面部扫描偏差获得赔偿</title>
-      <link>https://www.bbc.com/news/technology-68655429</link>
-      <description><![CDATA[BBC 新闻一名黑人 Uber Eats 优食司机因“种族歧视”面部识别检查而无法访问该应用程序以确保工作，因此获得了庭外和解。 Pa Edrissa Manjang（右）受到微软支持的 Uber Eats 应用程序越来越多的验证检查，之后被告知，经过“仔细考虑”后，由于“持续不匹配”，他的账户将被删除。为 Manjang 案件提供资助的平等与人权委员会 (EHRC) 担心面部识别检查中的人工智能剥夺了他的收入。摘自“Uber Eats 优食司机付款超过面部扫描偏差”
-BBC 新闻 (03/26/24) Shiona McCallum 查看全文]]></description>
-      <guid>https://www.bbc.com/news/technology-68655429</guid>
-      <pubDate>Wed, 27 Mar 2024 18:09:24 GMT</pubDate>
+      <title>脱碳软件</title>
+      <link>https://spectrum.ieee.org/green-software</link>
+      <description><![CDATA[IEEE 频谱随着软件开发商寻求减少行业碳足迹的方法，绿色软件工程正在蓬勃发展。例如，为了减少其网站的碳足迹，荷兰的网页设计和品牌公司 Tijgerbrood 使用低分辨率图像和现代图像格式来优化代码并加快用户设备上的数据传输、加载和处理速度。打造更环保的人工智能系统需要考虑使用更小的训练数据集和消耗更少能源的算法等。来自“脱碳软件”
+IEEE Spectrum (03/23/24) Rina Diane Caballar 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/green-software</guid>
+      <pubDate>Fri, 29 Mar 2024 18:08:14 GMT</pubDate>
     </item>
     <item>
-      <title>相机每秒捕捉 156.3 万亿帧</title>
-      <link>https://www.engadget.com/this-camera-captures-1563-trillion-frames-per-second-184651322.html</link>
-      <description><![CDATA[Engadget加拿大国家科学研究所的 Jinyang Liang（上图，最左）领导的科学家们创造了一种科学相机，可以以 156.3 太赫兹到单个像素的编码率（相当于 156.3 太赫兹）拍摄图像。每秒万亿帧。该相机被称为 SCARF（扫描编码孔径实时飞秒摄影），使用计算成像模式，通过让光线在略有不同的时间进入其传感器来捕获空间信息。然后算法对时间交错的输入进行解码。来自“相机每秒捕获 156.3 万亿帧”
-Engadget (03/26/24) Will Shanklin 查看全文]]></description>
-      <guid>https://www.engadget.com/this-camera-captures-1563-trillion-frames-per-second-184651322.html</guid>
-      <pubDate>Wed, 27 Mar 2024 18:09:24 GMT</pubDate>
+      <title>数据中心用电量“十年内激增六倍”</title>
+      <link>https://www.bbc.com/news/technology-68664182</link>
+      <description><![CDATA[BBC英国国家电网的约翰·佩蒂格鲁 (John Pettigrew) 预测，随着人工智能和量子计算使用的增长，未来十年数据中心的用电量将增加六倍，需要“更大规模、能源密集型的计算基础设施” ”。英国电力网络已经有 70 多年的历史，Pettigrew 表示：“[我们]正处于一个需要创新思维和大胆行动来创建面向未来的输电网络的时刻。”&lt; br /&gt;摘自《数据中心用电量‘十年内激增六倍’》
+BBC (03/26/24) 查看全文]]></description>
+      <guid>https://www.bbc.com/news/technology-68664182</guid>
+      <pubDate>Fri, 29 Mar 2024 18:08:13 GMT</pubDate>
     </item>
     <item>
-      <title>中国在人工智能人才方面领先于美国</title>
-      <link>https://www.nytimes.com/2024/03/22/technology/china-ai-talent.html</link>
-      <description><![CDATA[《纽约时报》MacroPolo智库发现，全球顶尖人工智能研究人员中近一半来自中国，高于三年前的约33%，而只有约18%来自美国本科院校，基本没有变化。在美国工作的人工智能研究人员中，37% 是美国人，高于三年前的 31%，38% 来自中国，高于 27%。美国拥有全球约 42% 的顶尖人工智能人才，而三年前这一数字约为 59%。摘自《中国在人工智能人才方面领先于美国》
-纽约时报 (03/23/24) Paul Mozur；凯德·梅茨 查看全文  - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/03/22/technology/china-ai-talent.html</guid>
-      <pubDate>Wed, 27 Mar 2024 18:09:23 GMT</pubDate>
+      <title>二维半导体中激子的量子控制</title>
+      <link>https://insidehpc.com/2024/03/ntt-research-phi-lab-scientists-achieve-quantum-control-of-excitons-in-2d-semiconductors/</link>
+      <description><![CDATA[深入 HPCNTT Research Inc. 物理与信息学 (PHI) 实验室、瑞士苏黎世联邦理工学院、斯坦福大学和日本国家材料科学研究所的研究人员展示了二维半导体中激子波函数的量子控制。研究人员能够利用电场控制具有二维半导体薄片的异质结构器件上的激子，并将其包含在量子点和量子环中。摘自“二维半导体中激子的量子控制”
+深入 HPC (03/26/24) 查看全文]]></description>
+      <guid>https://insidehpc.com/2024/03/ntt-research-phi-lab-scientists-achieve-quantum-control-of-excitons-in-2d-semiconductors/</guid>
+      <pubDate>Fri, 29 Mar 2024 18:08:13 GMT</pubDate>
     </item>
     <item>
-      <title>化学计算机与量子竞争对手竞争</title>
-      <link>https://www.chemistryworld.com/news/pulsating-chemical-computers-vie-with-their-quantum-rivals/4019184.article</link>
-      <description><![CDATA[化学世界英国格拉斯哥大学的研究人员开发了一种脉动化学计算机，该计算机利用两个 3D 打印互连孔阵列中的 Belousov-Zhabotinsky (BZ) 反应颜色振荡来编码数据。由于硫酸和丙二酸与铁蛋白指示剂和溴酸钾相互作用，孔在红色和蓝色之间波动。 BZ 颜色变化使用每个孔和间隙中的磁力搅拌棒同步。研究人员使用人工智能来控制与下一个发生的脉冲状态和试剂添加相关的搅拌器的数字输入。摘自“化学计算机与量子对手的竞争”
-化学世界 (03/26/24) Andy Extance 查看全文]]></description>
-      <guid>https://www.chemistryworld.com/news/pulsating-chemical-computers-vie-with-their-quantum-rivals/4019184.article</guid>
-      <pubDate>Wed, 27 Mar 2024 18:09:23 GMT</pubDate>
+      <title>软件使盲人、弱视用户能够创建交互式、易于访问的图表</title>
+      <link>https://news.mit.edu/2024/umwelt-enables-interactive-accessible-charts-creation-blind-low-vision-users-0327</link>
+      <description><![CDATA[麻省理工学院新闻由麻省理工学院和英国伦敦大学学院 (UCL) 的研究人员开发的软件系统允许盲人和弱视用户构建定制的多模态数据表示，而无需初始可视化图表。 Umwelt（德语，环境的意思）系统允许屏幕阅读器用户通过三种方式创建自定义表示：可视化、文本描述和声音化。它具有一个查看器，可以使数据表示交互式，并允许在模态之间无缝移动。摘自“软件使盲人、低视力用户能够创建交互式、可访问的图表”
+麻省理工学院新闻 (03/27/24) Adam Zewe 查看全文]]></description>
+      <guid>https://news.mit.edu/2024/umwelt-enables-interactive-accessible-charts-creation-blind-low-vision-users-0327</guid>
+      <pubDate>Fri, 29 Mar 2024 18:08:12 GMT</pubDate>
     </item>
     <item>
-      <title>3D 打印战区学校</title>
-      <link>https://www.cnn.com/2024/03/25/style/ukraine-3d-printed-school-warzone-dfi-hnk-spc-intl-hnk/index.html</link>
-      <description><![CDATA[CNN非营利组织 Team4UA 与设计工作室 Balbek Bureau 和建筑公司 Ars Longa 合作开展了一个项目，旨在建造欧洲第一个 3D 打印教育中心，以及战区第一座 3D 打印建筑。位于乌克兰利沃夫，占地 3,983 平方英尺。 Project Hive 使用 COBOD 龙门打印机在 40 小时内打印完成，为利沃夫第 23 学校额外提供了四间教室，以容纳因战争而流离失所的学生。摘自《3D 打印战区学校》 “
-CNN (03/25/24) 丽贝卡·凯恩斯 查看全文]]></description>
-      <guid>https://www.cnn.com/2024/03/25/style/ukraine-3d-printed-school-warzone-dfi-hnk-spc-intl-hnk/index.html</guid>
-      <pubDate>Wed, 27 Mar 2024 18:09:22 GMT</pubDate>
+      <title>沃尔玛、7-11、Chick-fil-A 将试点无人机送货技术</title>
+      <link>https://www.axios.com/2024/03/26/walmart-7-11-chick-fil-a-drone-delivery-pilot-droneup</link>
+      <description><![CDATA[AxiosDroneUp 的自主无人机“生态系统”将被沃尔玛（弗吉尼亚初创公司的部分所有者）、7-11 和 Chick-fil-A 用于空中送货。零售商在包裹上贴上条形码后，会将其放入自动化的气候控制储物柜内，机器人会对其进行称重并检查其重心。无人机被派往 DBX 储物柜顶部的停机坪，包裹由机器人自动装载到无人机中。一个操作员可以监控多架无人机。从“沃尔玛、7-11、Chick-fil-A 到试点无人机送货技术”
+Axios (03/26/24) 乔安·穆勒 查看全文]]></description>
+      <guid>https://www.axios.com/2024/03/26/walmart-7-11-chick-fil-a-drone-delivery-pilot-droneup</guid>
+      <pubDate>Fri, 29 Mar 2024 18:08:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能人才争夺战</title>
+      <link>https://www.wsj.com/tech/ai/the-fight-for-ai-talent-pay-million-dollar-packages-and-buy-whole-teams-c370de2b</link>
+      <description><![CDATA[华尔街日报为了吸引具有生成式人工智能专业知识的员工，科技公司越来越多地提供数百万美元的年度薪酬方案，并加速股票兑现计划。其他人正在挖走整个工程团队。与此同时，科技行业的其他领域也出现了大规模裁员。拥有大型语言模型 (LLM) 培训经验和人工智能销售人员经验的人才需求量很大。 SBT Industries 的贾斯汀·金赛 (Justin Kinsey) 表示，可以说服一些候选人更换公司，并承诺对其工作具有自主权。摘自“人工智能人才之战”
+华尔街日报 (03/27/24) 凯瑟琳·宾德利 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/tech/ai/the-fight-for-ai-talent-pay-million-dollar-packages-and-buy-whole-teams-c370de2b</guid>
+      <pubDate>Fri, 29 Mar 2024 18:08:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
