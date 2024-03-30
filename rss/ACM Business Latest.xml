@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Sat, 30 Mar 2024 12:10:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 15:05:20 GMT</lastBuildDate>
+    <item>
+      <title>写作时如何抵制人工智能的诱惑</title>
+      <link>https://www.wired.com/story/how-to-resist-ai-temptation-writing/</link>
+      <description><![CDATA[遵循这些技巧，即使在人工智能和 ChatGPT 时代，也可以写出更出色的文章，在网络上脱颖而出。]]></description>
+      <guid>https://www.wired.com/story/how-to-resist-ai-temptation-writing/</guid>
+      <pubDate>Sat, 30 Mar 2024 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能热潮真实存在的证据：越来越多的人在工作中使用 ChatGPT</title>
       <link>https://www.wired.com/story/plaintext-proof-the-ai-boom-is-people-tapping-chatgpt-at-work/</link>
@@ -71,7 +78,7 @@
     <item>
       <title>Elie Hassenfeld 问答：“5,000 美元拯救生命很划算”</title>
       <link>https://www.wired.com/story/elie-hassenfeld-givewell-ea/</link>
-      <description><![CDATA[萨姆·班克曼-弗里德的垮台让有效的利他主义陷入了自我怀疑的漩涡，而理想主义的量化分析师埃利·哈森菲尔德每年仍在帮助硅谷的富人捐赠数亿美元。]]></description>
+      <description><![CDATA[萨姆·班克曼-弗里德的倒台让有效的利他主义陷入了自我怀疑的漩涡，而理想主义的量化分析师埃利·哈森菲尔德每年仍在帮助硅谷的富人捐赠数亿美元。]]></description>
       <guid>https://www.wired.com/story/elie-hassenfeld-givewell-ea/</guid>
       <pubDate>Wed, 27 Mar 2024 10:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[这些调查是根据欧洲具有里程碑意义的《数字市场法案》进行的首次调查，并加剧了苹果日益严重的反垄断困境。]]></description>
       <guid>https://www.wired.com/story/apple-meta-alphabet-eu-digital-markets-act/</guid>
       <pubDate>Mon, 25 Mar 2024 13:33:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deepfake 裸体生成器揭示了受害者令人不寒而栗的样子</title>
-      <link>https://www.wired.com/story/deepfake-nude-generator-chilling-look-at-its-victims/</link>
-      <description><![CDATA[《连线》报道揭露了一个收费“裸体”照片的网站，并发布了一个似乎显示用户上传内容的提要。其中包括年轻女孩的照片和看似陌生人的照片。]]></description>
-      <guid>https://www.wired.com/story/deepfake-nude-generator-chilling-look-at-its-victims/</guid>
-      <pubDate>Mon, 25 Mar 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
