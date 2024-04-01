@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Mon, 01 Apr 2024 06:09:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 09:08:03 GMT</lastBuildDate>
+    <item>
+      <title>TikTok Shop的超级补贴时代即将结束</title>
+      <link>https://www.wired.com/story/tiktok-shop-era-of-super-subsidies-is-ending/</link>
+      <description><![CDATA[该应用程序的购物功能通过提供看似好得令人难以置信的优惠赢得了卖家和购物者的青睐。现在 TikTok 正在提高卖家费用，这可能会转化为更高的价格。]]></description>
+      <guid>https://www.wired.com/story/tiktok-shop-era-of-super-subsidies-is-ending/</guid>
+      <pubDate>Mon, 01 Apr 2024 09:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI 可以重新创建人类声音，但尚未发布该技术</title>
       <link>https://www.wired.com/story/openai-voice-engine-artificial-intelligence-release/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>人工智能热潮真实存在的证据：越来越多的人在工作中使用 ChatGPT</title>
       <link>https://www.wired.com/story/plaintext-proof-the-ai-boom-is-people-tapping-chatgpt-at-work/</link>
-      <description><![CDATA[尽管最近有人警告生成式人工智能被夸大了，但皮尤研究中心的新数据显示，在工作中使用 ChatGPT 的人数正在迅速增加。]]></description>
+      <description><![CDATA[尽管最近有警告称生成式人工智能被夸大了，但皮尤研究中心的新数据显示，在工作中使用 ChatGPT 的人数正在迅速增加。]]></description>
       <guid>https://www.wired.com/story/plaintext-proof-the-ai-boom-is-people-tapping-chatgpt-at-work/</guid>
       <pubDate>Fri, 29 Mar 2024 16:00:00 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>Elie Hassenfeld 问答：“5,000 美元拯救生命很划算”</title>
       <link>https://www.wired.com/story/elie-hassenfeld-givewell-ea/</link>
-      <description><![CDATA[萨姆·班克曼-弗里德的倒台让有效的利他主义陷入了自我怀疑的漩涡，而理想主义的量化分析师埃利·哈森菲尔德每年仍在帮助硅谷的富人捐赠数亿美元。]]></description>
+      <description><![CDATA[萨姆·班克曼-弗里德的垮台让有效的利他主义陷入了自我怀疑的漩涡，而理想主义的量化分析师埃利·哈森菲尔德每年仍在帮助硅谷的富人捐赠数亿美元。]]></description>
       <guid>https://www.wired.com/story/elie-hassenfeld-givewell-ea/</guid>
       <pubDate>Wed, 27 Mar 2024 10:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[美国新的排放规则意味着更多插电式混合动力汽车即将问世。电动汽车技术很干净，但有一个问题。]]></description>
       <guid>https://www.wired.com/story/here-comes-the-flood-of-plug-in-hybrids/</guid>
       <pubDate>Mon, 25 Mar 2024 20:37:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 在最糟糕的时候杀死了一个重要的透明工具</title>
-      <link>https://www.wired.com/story/meta-kills-crucial-transparency-tool-worst-possible-time/</link>
-      <description><![CDATA[CrowdTangle 帮助研究人员追踪虚假信息，但 Meta 将在美国大选前将其关闭。该工具的联合创始人布兰登·西尔弗曼表示，现在是迫使公司共享数据的时候了。]]></description>
-      <guid>https://www.wired.com/story/meta-kills-crucial-transparency-tool-worst-possible-time/</guid>
-      <pubDate>Mon, 25 Mar 2024 19:18:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
