@@ -4,110 +4,102 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Fri, 29 Mar 2024 18:08:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 15:07:02 GMT</lastBuildDate>
     <item>
-      <title>以色列国防军的“猎人”系统在加沙战场创建“谷歌地图”</title>
-      <link>https://www.jpost.com/israel-hamas-war/article-793919</link>
-      <description><![CDATA[耶路撒冷邮报（以色列）以色列国防军 (IDF) 宣布推出实时恐怖主义威胁部分软件，该软件已被认为可以挽救生命。猎人系统实时检测火箭发射、无人机和其他可能的恐怖活动，使士兵能够做出相应反应。有关威胁的信息来自现场传感器以及以色列国防军情报部门已经监控的内容。摘自“以色列国防军的‘猎人’系统在加沙战场创建‘谷歌地图’”
-耶路撒冷邮报（以色列）（03/27/24） 查看全文文章]]></description>
-      <guid>https://www.jpost.com/israel-hamas-war/article-793919</guid>
-      <pubDate>Fri, 29 Mar 2024 18:08:16 GMT</pubDate>
+      <title>美国军方对人工智能的投资猛增</title>
+      <link>https://time.com/6961317/ai-artificial-intelligence-us-military-spending/</link>
+      <description><![CDATA[时间布鲁金斯学会报告称，与人工智能相关的美国政府合同的潜在价值激增近 1,200%，从截至 2022 年 8 月的年度的 3.55 亿美元增至截至 2023 年 8 月的年度的 46 亿美元美国国防部占了其中的大部分，该机构承诺将 5.57 亿美元用于人工智能相关合同，如果每份合同均按其全部条款延长，则将增至 43 亿美元。来自“美国军方对人工智能的投资猛增”
+时间 (03/29/24) Will Henshall 查看完整内容文章]]></description>
+      <guid>https://time.com/6961317/ai-artificial-intelligence-us-military-spending/</guid>
+      <pubDate>Mon, 01 Apr 2024 15:07:02 GMT</pubDate>
     </item>
     <item>
-      <title>植入物帮助患者追踪膀胱充盈度</title>
-      <link>https://www.upi.com/Health_News/2024/03/26/urinary-implant-senses-bladder-filling/3931711458768/</link>
-      <description><![CDATA[UPI西北大学的研究人员开发了一种柔软、灵活的无线植入物，可以附着在膀胱壁上，用于实时监测膀胱充盈度。该设备使用多个传感器来跟踪膀胱的压力。当膀胱充满时，它会膨胀和拉伸，拉动设备并允许其跟踪膀胱的应变，并将数据传输到智能手机应用程序。摘自“植入物帮助患者跟踪膀胱充盈度” 
-UPI (03/26/24) 丹尼斯·汤普森 查看全文]]></description>
-      <guid>https://www.upi.com/Health_News/2024/03/26/urinary-implant-senses-bladder-filling/3931711458768/</guid>
-      <pubDate>Fri, 29 Mar 2024 18:08:16 GMT</pubDate>
+      <title>盐大小的传感器模仿大脑</title>
+      <link>https://spectrum.ieee.org/brain-machine-interface-2667619198</link>
+      <description><![CDATA[IEEE 频谱布朗大学研究人员开发的无线通信系统使用小型硅传感器来模仿大脑。与神经元一样，300 x 300 微米的传感器充当大型阵列中的无线节点。使用神经形态计算技术，接收器实时解码信号。该系统在200、500、1000个节点的模拟中，错误率均低于0.1%，适合脑机应用。摘自《盐大小的传感器模仿大脑》
+IEEE Spectrum (03/28/24) Gwendolyn Rak 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/brain-machine-interface-2667619198</guid>
+      <pubDate>Mon, 01 Apr 2024 15:07:01 GMT</pubDate>
     </item>
     <item>
-      <title>施乐 PARC 能否通过 SRI 获得新生？</title>
-      <link>https://www.nytimes.com/interactive/2024/03/26/business/silicon-valley-tech-xerox-parc-sri.html</link>
-      <description><![CDATA[纽约时报施乐的帕洛阿尔托研究中心 (PARC) 的发明定义了个人计算革命，去年被捐赠给独立研究实验室 SRI。 1973 年，帕洛阿尔托研究中心 (PARC) 创造了第一台现代个人计算机 Xerox Alto（如图）。 SRI 计划与 PARC 合作创建一个拥有约 1,000 名研究人员的联合非营利研究组织，以及一个现代化的研究园区和一个住宅社区，以期吸引其他高科技公司。摘自“Can Xerox 的 PARC”通过 SRI 寻找新生活？”
-纽约时报 (03/26/24) John Markoff 查看完整文章 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/interactive/2024/03/26/business/silicon-valley-tech-xerox-parc-sri.html</guid>
-      <pubDate>Fri, 29 Mar 2024 18:08:16 GMT</pubDate>
+      <title>科技让亲人“起死回生”</title>
+      <link>https://news.sky.com/story/we-all-want-to-live-forever-the-tech-letting-people-create-avatars-for-loved-ones-to-meet-after-they-die-13101996</link>
+      <description><![CDATA[天空新闻作为其 3D 元宇宙平台的一部分，捷克共和国的 Somnium Space 创建了一款 VR 工具，让用户可以创建可以在死后与家人和子孙后代交谈的化身。该工具被称为“永生模式”，只需观察 30 分钟即可模拟一个人的声音、举止和动作。 Somnium Space 表示，它不会在其服务器上保留任何用于训练虚拟形象的数据；它本地存储在用户的计算机上。计算机，这样他们就可以控制保留多少。摘自“科技让亲人‘起死回生’”
+天空新闻 (03/29/24) Arthi Nachiappan 查看完整文章]]></description>
+      <guid>https://news.sky.com/story/we-all-want-to-live-forever-the-tech-letting-people-create-avatars-for-loved-ones-to-meet-after-they-die-13101996</guid>
+      <pubDate>Mon, 01 Apr 2024 15:07:01 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能可以利用咳嗽来诊断疾病</title>
-      <link>https://www.nature.com/articles/d41586-024-00869-0</link>
-      <description><![CDATA[Nature谷歌研究人员开发的机器学习工具可以评估咳嗽、呼吸和清喉咙等噪音，以检测某些健康状况。自监督学习系统 Health Acoustic Representations (HeAR) 使用从 YouTube 视频中提取的 3 亿个人类声音音频片段进行训练。通过为有限的数据集提供适当的标签，HeAR 可以进行微调以检测特定的疾病和特征。测试表明，HeAR 优于在语音数据或一般音频上训练的现有模型，用于 COVID-19 和结核病检测。摘自“AI 可以使用咳嗽来诊断疾病”
-自然 (03/21/24) Mariana Lenharo 查看全文]]></description>
-      <guid>https://www.nature.com/articles/d41586-024-00869-0</guid>
-      <pubDate>Fri, 29 Mar 2024 18:08:15 GMT</pubDate>
+      <title>美国农场紧急推进技术发展</title>
+      <link>https://www.bbc.com/worklife/article/20240325-artificial-intelligence-ai-us-agriculture-farming</link>
+      <description><![CDATA[BBC随着美国农场工人数量的减少，一些农民开始转向机器人和人工智能来解决劳动力问题。其中包括无人机和 GPS 工具，以及自动驾驶拖拉机和联合收割机、传感器系统以及人工智能驱动的分拣和种植工具。美国政府正在提供财政激励措施，以加速相关人工智能的开发和部署。该技术可以提高农作物产量，使农业更具气候适应能力，增加农民的利润，并减少农场使用的资源、能源、化学品和水的数量。摘自“美国农场紧急行动”进军科技”
+BBC (03/27/24) 萨姆·贝克尔 查看全文]]></description>
+      <guid>https://www.bbc.com/worklife/article/20240325-artificial-intelligence-ai-us-agriculture-farming</guid>
+      <pubDate>Mon, 01 Apr 2024 15:07:00 GMT</pubDate>
     </item>
     <item>
-      <title>软件行业呼吁英国政府提供更多支持</title>
-      <link>https://www.reuters.com/technology/software-industry-calls-more-uk-government-support-2024-03-27/</link>
-      <description><![CDATA[路透社超过120家软件行业领导者呼吁英国政府通过税收优惠和人才签证等手段加大对欧洲软件公司的支持。行业机构 Boardwave 发布了一份新的政策文件，重点关注欧洲软件公司规模扩张的“可怕”记录。 Boardwave 的 Phill Robinson 表示：“科技生态系统的很大一部分都被忽视了。软件将支撑未来的数字经济，但它却被忽视了。”摘自“软件行业需要更多”英国政府支持”
-路透社 (03/27/24) 马丁·库尔特 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/software-industry-calls-more-uk-government-support-2024-03-27/</guid>
-      <pubDate>Fri, 29 Mar 2024 18:08:15 GMT</pubDate>
+      <title>阻止用户欺骗聊天机器人的微软工具</title>
+      <link>https://www.bloomberg.com/news/articles/2024-03-28/microsoft-creates-tools-to-stop-people-from-tricking-chatbots</link>
+      <description><![CDATA[彭博社微软的 Azure AI Studio 很快将拥有新的内置安全功能，以实时识别和阻止可疑输入。开发人员使用 Azure AI Studio 创建定制的 AI 助手。新功能包括“提示屏蔽”，用于阻止提示注入攻击或越狱，这可能会欺骗人工智能模型以意想不到的方式行事，并将解决“间接提示注入”问题，即在训练数据集中插入恶意指令以获取模型执行未经授权的操作。来自“阻止用户欺骗聊天机器人的 Microsoft 工具”
+彭博社 (03/28/24) Jackie Davalos 查看完整文章 - 可能需要付费订阅]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-03-28/microsoft-creates-tools-to-stop-people-from-tricking-chatbots</guid>
+      <pubDate>Mon, 01 Apr 2024 15:07:00 GMT</pubDate>
     </item>
     <item>
-      <title>蛇形机器人旨在寻找土星卫星上的生命</title>
-      <link>https://techcrunch.com/2024/03/26/nasas-snake-robot-is-designed-to-search-out-life-in-the-icy-oceans-of-a-saturn-moon/</link>
-      <description><![CDATA[Tech Crunch卡内基梅隆大学 (CMU) 和其他美国机构的研究人员开发了一种蛇形机器人，最终将用于探索土星冰冷卫星土卫二地壳下的海洋。外星生物现存生命勘测者（EELS）机器人正在冰川上进行测试，以模拟土卫二的地形。卡内基梅隆大学在一份新闻稿中表示，机器蛇“配备了风险意识规划、态势感知、运动规划和本体感觉控制，使其能够自主移动，远离地球和人类控制的控制。”&lt; br /&gt;摘自《设计用于在土星卫星上寻找生命的蛇形机器人》
-Tech Crunch (03/26/24) Brian Heater 查看全文]]></description>
-      <guid>https://techcrunch.com/2024/03/26/nasas-snake-robot-is-designed-to-search-out-life-in-the-icy-oceans-of-a-saturn-moon/</guid>
-      <pubDate>Fri, 29 Mar 2024 18:08:14 GMT</pubDate>
+      <title>创新科幻小说家 Vernor Vinge 去世，享年 79 岁</title>
+      <link>https://www.nytimes.com/2024/03/28/books/vernor-vinge-dead.html</link>
+      <description><![CDATA[《纽约时报》数学家和科幻小说作家 Vernor Vinge（如图）于 3 月 20 日在加利福尼亚州拉霍亚去世，享年 79 岁。 Vinge 1981 年的中篇小说《真名实录》因早期版本而闻名网络空间，一种被称为“另一个位面”的 VR 技术。 Vinge 是圣地亚哥州立大学的教授，从 1972 年起，他首先教授数学，然后教授计算机科学，直到 2000 年退休。他预测了“技术奇点”，即机器智能超越人类的临界点。摘自“创新科幻小说家 Vernor Vinge，79 岁去世”
+纽约时报 (03/28/24) 理查德·桑多米尔 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/03/28/books/vernor-vinge-dead.html</guid>
+      <pubDate>Mon, 01 Apr 2024 15:06:59 GMT</pubDate>
     </item>
     <item>
-      <title>“冷冻烟雾”传感器检测有毒空气</title>
-      <link>https://interestingengineering.com/innovation/aerogel-formaldehyde-sensor-quantum-dots</link>
-      <description><![CDATA[有趣的工程英国华威大学和剑桥大学的研究人员开发的传感器可以检测室内空气中的低浓度甲醛。 3D 打印传感器由气凝胶组成，称为“冷冻烟雾”。由于其透明外观，它们由二氧化锡（一种以其传感特性而闻名的半导体）和还原氧化石墨烯（具有高导电性）制成。研究人员还开发了一种气体种类识别算法，用于对不同气体进行分类。摘自《‘冰冻烟雾’传感器检测有毒空气》
-有趣的工程 (03/25/24) Tejasri Gururaj 查看全文&lt; /a&gt;]]></description>
-      <guid>https://interestingengineering.com/innovation/aerogel-formaldehyde-sensor-quantum-dots</guid>
-      <pubDate>Fri, 29 Mar 2024 18:08:14 GMT</pubDate>
+      <title>机器人警犬避免流血事件</title>
+      <link>https://apnews.com/article/massachusetts-cape-cod-robot-dog-police-f63586d5286750702f396109c9a81836</link>
+      <description><![CDATA[美联社Roscoe 是波士顿动力公司的一只 SPOT 机器狗，也是马萨诸塞州警察拆弹小组的一员，3 月 6 日，三台机器人被派往巴恩斯特布尔的家中，发现一名嫌疑人被困在里面。嫌疑人最终被捕。州警方表示，“除了提供极其重要的房间清理和态势感知能力之外，将罗斯科插入嫌疑人住所还避免了在响应阶段插入人类操作员的需要。”摘自《机器人警犬避免流血事件》
+美联社 (03/27/24) 查看全文文章]]></description>
+      <guid>https://apnews.com/article/massachusetts-cape-cod-robot-dog-police-f63586d5286750702f396109c9a81836</guid>
+      <pubDate>Mon, 01 Apr 2024 15:06:59 GMT</pubDate>
     </item>
     <item>
-      <title>脱碳软件</title>
-      <link>https://spectrum.ieee.org/green-software</link>
-      <description><![CDATA[IEEE 频谱随着软件开发商寻求减少行业碳足迹的方法，绿色软件工程正在蓬勃发展。例如，为了减少其网站的碳足迹，荷兰的网页设计和品牌公司 Tijgerbrood 使用低分辨率图像和现代图像格式来优化代码并加快用户设备上的数据传输、加载和处理速度。打造更环保的人工智能系统需要考虑使用更小的训练数据集和消耗更少能源的算法等。来自“脱碳软件”
-IEEE Spectrum (03/23/24) Rina Diane Caballar 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/green-software</guid>
-      <pubDate>Fri, 29 Mar 2024 18:08:14 GMT</pubDate>
+      <title>云电子邮件过滤绕过攻击在 80% 的时间内有效</title>
+      <link>https://www.darkreading.com/cloud-security/cloud-email-filtering-bypass-attack</link>
+      <description><![CDATA[暗读加州大学圣地亚哥分校的 Sumanth Rao 领导的计算机科学家发现，在他们检查的至少 80% 的主要领域中，流行的基于云的企业电子邮件垃圾邮件过滤服务可以被绕过。 Rao 解释说，“如果电子邮件托管提供商未配置为仅接受来自电子邮件过滤服务的消息，则可以绕过过滤服务”。绕过是可能的，因为过滤服务器和电子邮件服务器之间不匹配，即 Google 和 Microsoft 电子邮件服务器对来自未知 IP 地址的邮件的反应方式不匹配。来自“云电子邮件”过滤绕过攻击在 80% 的情况下有效”
+暗读 (03/29/24) David Strom 查看全文]]></description>
+      <guid>https://www.darkreading.com/cloud-security/cloud-email-filtering-bypass-attack</guid>
+      <pubDate>Mon, 01 Apr 2024 15:06:58 GMT</pubDate>
     </item>
     <item>
-      <title>数据中心用电量“十年内激增六倍”</title>
-      <link>https://www.bbc.com/news/technology-68664182</link>
-      <description><![CDATA[BBC英国国家电网的约翰·佩蒂格鲁 (John Pettigrew) 预测，随着人工智能和量子计算使用的增长，未来十年数据中心的用电量将增加六倍，需要“更大规模、能源密集型的计算基础设施” ”。英国电力网络已经有 70 多年的历史，Pettigrew 表示：“[我们]正处于一个需要创新思维和大胆行动来创建面向未来的输电网络的时刻。”&lt; br /&gt;摘自《数据中心用电量‘十年内激增六倍’》
-BBC (03/26/24) 查看全文]]></description>
-      <guid>https://www.bbc.com/news/technology-68664182</guid>
-      <pubDate>Fri, 29 Mar 2024 18:08:13 GMT</pubDate>
+      <title>看不见的“人类工作”帮助机器人送货</title>
+      <link>https://www.msn.com/en-us/news/technology/new-study-finds-invisible-human-work-allows-robots-to-make-deliveries/ar-BB1kDuhK</link>
+      <description><![CDATA[MSN英国诺丁汉大学、约克大学以及瑞典林雪平大学的研究人员进行的一项研究发现，人们为适应自动送货机器人而做出的行为改变有助于它们顺利运行，应该在路线中考虑到规划。研究人员在英国米尔顿凯恩斯和北安普顿跟踪两台送货机器人时，观察到机器人在街道上穿越各种障碍物，而行人会走开、放慢脚步，或停下来让机器人通过。摘自《看不见的“人类工作”帮助机器人送货》
+MSN (03/28/24) 查看全文]]></description>
+      <guid>https://www.msn.com/en-us/news/technology/new-study-finds-invisible-human-work-allows-robots-to-make-deliveries/ar-BB1kDuhK</guid>
+      <pubDate>Mon, 01 Apr 2024 15:06:58 GMT</pubDate>
     </item>
     <item>
-      <title>二维半导体中激子的量子控制</title>
-      <link>https://insidehpc.com/2024/03/ntt-research-phi-lab-scientists-achieve-quantum-control-of-excitons-in-2d-semiconductors/</link>
-      <description><![CDATA[深入 HPCNTT Research Inc. 物理与信息学 (PHI) 实验室、瑞士苏黎世联邦理工学院、斯坦福大学和日本国家材料科学研究所的研究人员展示了二维半导体中激子波函数的量子控制。研究人员能够利用电场控制具有二维半导体薄片的异质结构器件上的激子，并将其包含在量子点和量子环中。摘自“二维半导体中激子的量子控制”
-深入 HPC (03/26/24) 查看全文]]></description>
-      <guid>https://insidehpc.com/2024/03/ntt-research-phi-lab-scientists-achieve-quantum-control-of-excitons-in-2d-semiconductors/</guid>
-      <pubDate>Fri, 29 Mar 2024 18:08:13 GMT</pubDate>
+      <title>水下机器人帮助海运清理</title>
+      <link>https://www.bloomberg.com/news/features/2024-03-26/underwater-robots-are-helping-maritime-shipping-clean-up-its-act</link>
+      <description><![CDATA[彭博社香港的 Neptune Robotics 已在香港和中国大陆的 50 多个港口部署了机器人来清理生物污垢，船体上藻类、海藻、藤壶和其他生物的堆积可以降低燃油消耗效率、增加排放，甚至将入侵物种带入港口。在人工智能制定的计划的帮助下，海王星的机器人利用高速微水滴进行“空化清洁”，以清除生物污垢，然后将其带到岸上进行处置。来自“水下机器人帮助”海运清理”
+彭博社 (03/26/24) Coco Liu 查看完整文章 - 可能需要付费订阅]]></description>
+      <guid>https://www.bloomberg.com/news/features/2024-03-26/underwater-robots-are-helping-maritime-shipping-clean-up-its-act</guid>
+      <pubDate>Mon, 01 Apr 2024 15:06:57 GMT</pubDate>
     </item>
     <item>
-      <title>软件使盲人、弱视用户能够创建交互式、易于访问的图表</title>
-      <link>https://news.mit.edu/2024/umwelt-enables-interactive-accessible-charts-creation-blind-low-vision-users-0327</link>
-      <description><![CDATA[麻省理工学院新闻由麻省理工学院和英国伦敦大学学院 (UCL) 的研究人员开发的软件系统允许盲人和弱视用户构建定制的多模态数据表示，而无需初始可视化图表。 Umwelt（德语，环境的意思）系统允许屏幕阅读器用户通过三种方式创建自定义表示：可视化、文本描述和声音化。它具有一个查看器，可以使数据表示交互式，并允许在模态之间无缝移动。摘自“软件使盲人、低视力用户能够创建交互式、可访问的图表”
-麻省理工学院新闻 (03/27/24) Adam Zewe 查看全文]]></description>
-      <guid>https://news.mit.edu/2024/umwelt-enables-interactive-accessible-charts-creation-blind-low-vision-users-0327</guid>
-      <pubDate>Fri, 29 Mar 2024 18:08:12 GMT</pubDate>
+      <title>合成电网比真实电网更安全</title>
+      <link>https://spectrum.ieee.org/power-grid</link>
+      <description><![CDATA[IEEE Spectrum威斯康星大学麦迪逊分校的研究人员创建的模型合成电网可以用作开发未来电网的现实测试平台，同时消除数据安全和隐私风险。加州测试系统 (CATS) 可在 GitHub 上获取，提供地理数据，可将天气、气候和人口统计数据纳入规划中。 CATS 模拟而不是复制底层电网数据，也可以评估其他地理区域的电网运营和规划算法。摘自“合成电网比真实电网更安全”
+IEEE Spectrum (03/26/24) Michelle Hampson 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/power-grid</guid>
+      <pubDate>Mon, 01 Apr 2024 15:06:57 GMT</pubDate>
     </item>
     <item>
-      <title>沃尔玛、7-11、Chick-fil-A 将试点无人机送货技术</title>
-      <link>https://www.axios.com/2024/03/26/walmart-7-11-chick-fil-a-drone-delivery-pilot-droneup</link>
-      <description><![CDATA[AxiosDroneUp 的自主无人机“生态系统”将被沃尔玛（弗吉尼亚初创公司的部分所有者）、7-11 和 Chick-fil-A 用于空中送货。零售商在包裹上贴上条形码后，会将其放入自动化的气候控制储物柜内，机器人会对其进行称重并检查其重心。无人机被派往 DBX 储物柜顶部的停机坪，包裹由机器人自动装载到无人机中。一个操作员可以监控多架无人机。从“沃尔玛、7-11、Chick-fil-A 到试点无人机送货技术”
-Axios (03/26/24) 乔安·穆勒 查看全文]]></description>
-      <guid>https://www.axios.com/2024/03/26/walmart-7-11-chick-fil-a-drone-delivery-pilot-droneup</guid>
-      <pubDate>Fri, 29 Mar 2024 18:08:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能人才争夺战</title>
-      <link>https://www.wsj.com/tech/ai/the-fight-for-ai-talent-pay-million-dollar-packages-and-buy-whole-teams-c370de2b</link>
-      <description><![CDATA[华尔街日报为了吸引具有生成式人工智能专业知识的员工，科技公司越来越多地提供数百万美元的年度薪酬方案，并加速股票兑现计划。其他人正在挖走整个工程团队。与此同时，科技行业的其他领域也出现了大规模裁员。拥有大型语言模型 (LLM) 培训经验和人工智能销售人员经验的人才需求量很大。 SBT Industries 的贾斯汀·金赛 (Justin Kinsey) 表示，可以说服一些候选人更换公司，并承诺对其工作具有自主权。摘自“人工智能人才之战”
-华尔街日报 (03/27/24) 凯瑟琳·宾德利 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/tech/ai/the-fight-for-ai-talent-pay-million-dollar-packages-and-buy-whole-teams-c370de2b</guid>
-      <pubDate>Fri, 29 Mar 2024 18:08:11 GMT</pubDate>
+      <title>盲人可以听到、感觉到日食</title>
+      <link>https://apnews.com/article/blind-hear-solar-eclipse-dafc717b14115f9164befd911612aa3c</link>
+      <description><![CDATA[美联社4月8日公众集会上提供的设备将帮助视障人士“感觉”和“听到”日食。 LightSound 设备（如图，堆叠）的创建者可以将变化的光线转化为声音，其目标是向整个北美举办日食活动的地点分发至少 750 台设备。其他人可以使用印第安纳州触觉工程公司的 Cadence 平板电脑通过触觉来体验日食，该设备有手机大小，带有一排排上下弹出的点。摘自《盲人能听见》 ，感受日食》
+美联社 (03/29/24) 克里斯蒂娜·拉森 查看全文&lt; /a&gt;]]></description>
+      <guid>https://apnews.com/article/blind-hear-solar-eclipse-dafc717b14115f9164befd911612aa3c</guid>
+      <pubDate>Mon, 01 Apr 2024 15:06:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
