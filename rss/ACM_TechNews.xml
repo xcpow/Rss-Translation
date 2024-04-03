@@ -4,102 +4,102 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Mon, 01 Apr 2024 15:07:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 18:09:29 GMT</lastBuildDate>
     <item>
-      <title>美国军方对人工智能的投资猛增</title>
-      <link>https://time.com/6961317/ai-artificial-intelligence-us-military-spending/</link>
-      <description><![CDATA[时间布鲁金斯学会报告称，与人工智能相关的美国政府合同的潜在价值激增近 1,200%，从截至 2022 年 8 月的年度的 3.55 亿美元增至截至 2023 年 8 月的年度的 46 亿美元美国国防部占了其中的大部分，该机构承诺将 5.57 亿美元用于人工智能相关合同，如果每份合同均按其全部条款延长，则将增至 43 亿美元。来自“美国军方对人工智能的投资猛增”
-时间 (03/29/24) Will Henshall 查看完整内容文章]]></description>
-      <guid>https://time.com/6961317/ai-artificial-intelligence-us-military-spending/</guid>
-      <pubDate>Mon, 01 Apr 2024 15:07:02 GMT</pubDate>
+      <title>全脑大数据处理通过光遗传学控制实现 VR</title>
+      <link>https://www.photonics.com/Articles/Whole-Brain_Big_Data_Processing_Enables_VR_via/a69848</link>
+      <description><![CDATA[光子光谱中科院研究人员开发的大数据处理系统可以实时分析大规模全脑神经元活动，实现神经动力学的闭环研究。 FX 系统基于现场可编程门阵列-图形处理单元 (FPGA-GPU) 混合架构，还支持全脑、光学接口介导的 VR。它可以实现高达 500 MB/s 的数据流的实时配准、信号提取和分析，并且可以提取多达 100,000 个神经元的活动。摘自《全脑大数据处理使能通过光遗传学控制的 VR”
+光子学光谱 (03/24) 查看全文]]></description>
+      <guid>https://www.photonics.com/Articles/Whole-Brain_Big_Data_Processing_Enables_VR_via/a69848</guid>
+      <pubDate>Wed, 03 Apr 2024 18:09:29 GMT</pubDate>
     </item>
     <item>
-      <title>盐大小的传感器模仿大脑</title>
-      <link>https://spectrum.ieee.org/brain-machine-interface-2667619198</link>
-      <description><![CDATA[IEEE 频谱布朗大学研究人员开发的无线通信系统使用小型硅传感器来模仿大脑。与神经元一样，300 x 300 微米的传感器充当大型阵列中的无线节点。使用神经形态计算技术，接收器实时解码信号。该系统在200、500、1000个节点的模拟中，错误率均低于0.1%，适合脑机应用。摘自《盐大小的传感器模仿大脑》
-IEEE Spectrum (03/28/24) Gwendolyn Rak 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/brain-machine-interface-2667619198</guid>
-      <pubDate>Mon, 01 Apr 2024 15:07:01 GMT</pubDate>
+      <title>液体电路能够实现类脑计算机吗？</title>
+      <link>https://spectrum.ieee.org/neuromorphic-computing-liquid-memristor</link>
+      <description><![CDATA[IEEE Spectrum瑞士洛桑联邦理工学院 (EPFL) 的研究人员开发了一种流体忆阻装置，可以通过移动离子来模拟大脑的突触。该装置由硅芯片、带圆形孔的氮化硅膜、石墨和钯层以及含有钾离子的溶液制成。研究人员首次将多个流体忆阻器连接起来形成电路。摘自《液体电路能否实现类脑计算机？》
+IEEE Spectrum (03/29/24) Charles Q. Choi 查看全文&lt; /a&gt;]]></description>
+      <guid>https://spectrum.ieee.org/neuromorphic-computing-liquid-memristor</guid>
+      <pubDate>Wed, 03 Apr 2024 18:09:28 GMT</pubDate>
     </item>
     <item>
-      <title>科技让亲人“起死回生”</title>
-      <link>https://news.sky.com/story/we-all-want-to-live-forever-the-tech-letting-people-create-avatars-for-loved-ones-to-meet-after-they-die-13101996</link>
-      <description><![CDATA[天空新闻作为其 3D 元宇宙平台的一部分，捷克共和国的 Somnium Space 创建了一款 VR 工具，让用户可以创建可以在死后与家人和子孙后代交谈的化身。该工具被称为“永生模式”，只需观察 30 分钟即可模拟一个人的声音、举止和动作。 Somnium Space 表示，它不会在其服务器上保留任何用于训练虚拟形象的数据；它本地存储在用户的计算机上。计算机，这样他们就可以控制保留多少。摘自“科技让亲人‘起死回生’”
-天空新闻 (03/29/24) Arthi Nachiappan 查看完整文章]]></description>
-      <guid>https://news.sky.com/story/we-all-want-to-live-forever-the-tech-letting-people-create-avatars-for-loved-ones-to-meet-after-they-die-13101996</guid>
-      <pubDate>Mon, 01 Apr 2024 15:07:01 GMT</pubDate>
+      <title>谷歌承诺销毁浏览数据以和解“隐身”诉讼</title>
+      <link>https://www.wsj.com/tech/google-pledges-to-destroy-browsing-data-to-settle-incognito-lawsuit-1febfde5</link>
+      <description><![CDATA[《华尔街日报》谷歌承诺销毁反映数百万用户信息的数据。网络浏览历史记录是一项诉讼和解的一部分，该诉讼指控该公司在人们不知情的情况下跟踪他们。该集体诉讼于 2020 年提起，指控谷歌在 Chrome 如何跟踪任何使用私人“隐身”功能的人的活动方面误导用户。浏览选项。和解协议规定了该公司将采取的行动，以改变其在隐私浏览方面的做法，包括销毁诉讼指控其不当收集的数十亿个数据点。摘自“Google 承诺销毁浏览数据以和解” ;隐姓埋名的诉讼”
+华尔街日报 (04/01/24) 艾琳·马尔瓦尼；迈尔斯·克鲁帕 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/tech/google-pledges-to-destroy-browsing-data-to-settle-incognito-lawsuit-1febfde5</guid>
+      <pubDate>Wed, 03 Apr 2024 18:09:28 GMT</pubDate>
     </item>
     <item>
-      <title>美国农场紧急推进技术发展</title>
-      <link>https://www.bbc.com/worklife/article/20240325-artificial-intelligence-ai-us-agriculture-farming</link>
-      <description><![CDATA[BBC随着美国农场工人数量的减少，一些农民开始转向机器人和人工智能来解决劳动力问题。其中包括无人机和 GPS 工具，以及自动驾驶拖拉机和联合收割机、传感器系统以及人工智能驱动的分拣和种植工具。美国政府正在提供财政激励措施，以加速相关人工智能的开发和部署。该技术可以提高农作物产量，使农业更具气候适应能力，增加农民的利润，并减少农场使用的资源、能源、化学品和水的数量。摘自“美国农场紧急行动”进军科技”
-BBC (03/27/24) 萨姆·贝克尔 查看全文]]></description>
-      <guid>https://www.bbc.com/worklife/article/20240325-artificial-intelligence-ai-us-agriculture-farming</guid>
-      <pubDate>Mon, 01 Apr 2024 15:07:00 GMT</pubDate>
+      <title>数百太比特在水下长距离发送</title>
+      <link>https://www.techradar.com/pro/japanese-scientists-close-in-on-petabit-class-submarine-cable-tech-set-to-revolutionize-internet-speeds-nec-and-ntt-managed-to-shuttle-hundreds-of-terabits-over-thousands-of-kilometers-thanks-to-a-clever-algorithm</link>
+      <description><![CDATA[TechRadar日本 NEC 和 NTT 研究人员测试的海底电缆在 7,280 公里范围内传输了数百太比特，可能为更快的水下互联网速度铺平道路。该光缆包含 12 芯多芯光纤，在标准外径光纤内具有 12 条光信号传输路径。为了消除由于增加内核而产生的干扰，研究人员开发了一种算法，利用多输入多输出技术来分离和解调高速接收信号。摘自《数百太比特远距离发送》水下”
+TechRadar (04/01/24) 韦恩·威廉姆斯 查看全文]]></description>
+      <guid>https://www.techradar.com/pro/japanese-scientists-close-in-on-petabit-class-submarine-cable-tech-set-to-revolutionize-internet-speeds-nec-and-ntt-managed-to-shuttle-hundreds-of-terabits-over-thousands-of-kilometers-thanks-to-a-clever-algorithm</guid>
+      <pubDate>Wed, 03 Apr 2024 18:09:27 GMT</pubDate>
     </item>
     <item>
-      <title>阻止用户欺骗聊天机器人的微软工具</title>
-      <link>https://www.bloomberg.com/news/articles/2024-03-28/microsoft-creates-tools-to-stop-people-from-tricking-chatbots</link>
-      <description><![CDATA[彭博社微软的 Azure AI Studio 很快将拥有新的内置安全功能，以实时识别和阻止可疑输入。开发人员使用 Azure AI Studio 创建定制的 AI 助手。新功能包括“提示屏蔽”，用于阻止提示注入攻击或越狱，这可能会欺骗人工智能模型以意想不到的方式行事，并将解决“间接提示注入”问题，即在训练数据集中插入恶意指令以获取模型执行未经授权的操作。来自“阻止用户欺骗聊天机器人的 Microsoft 工具”
-彭博社 (03/28/24) Jackie Davalos 查看完整文章 - 可能需要付费订阅]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-03-28/microsoft-creates-tools-to-stop-people-from-tricking-chatbots</guid>
-      <pubDate>Mon, 01 Apr 2024 15:07:00 GMT</pubDate>
+      <title>大学为量子计算做准备</title>
+      <link>https://www.govtech.com/education/higher-ed/how-are-universities-preparing-for-quantum-computing</link>
+      <description><![CDATA[政府技术为了帮助学生熟悉量子计算，一些大学正在启动新的教育和研究项目。田纳西大学查塔努加分校正在为 STEM 专业的学生提供新的量子信息科学与技术证书，而马里兰大学正在努力将量子知识整合到其课程中。此外，南达科他州的达科他州立大学正在与该州其他机构合作建立量子信息科学与技术中心。摘自“为量子计算做准备的大学”
+政府技术 (03/29/24) Brandon Paykamian 查看全文]]></description>
+      <guid>https://www.govtech.com/education/higher-ed/how-are-universities-preparing-for-quantum-computing</guid>
+      <pubDate>Wed, 03 Apr 2024 18:09:27 GMT</pubDate>
     </item>
     <item>
-      <title>创新科幻小说家 Vernor Vinge 去世，享年 79 岁</title>
-      <link>https://www.nytimes.com/2024/03/28/books/vernor-vinge-dead.html</link>
-      <description><![CDATA[《纽约时报》数学家和科幻小说作家 Vernor Vinge（如图）于 3 月 20 日在加利福尼亚州拉霍亚去世，享年 79 岁。 Vinge 1981 年的中篇小说《真名实录》因早期版本而闻名网络空间，一种被称为“另一个位面”的 VR 技术。 Vinge 是圣地亚哥州立大学的教授，从 1972 年起，他首先教授数学，然后教授计算机科学，直到 2000 年退休。他预测了“技术奇点”，即机器智能超越人类的临界点。摘自“创新科幻小说家 Vernor Vinge，79 岁去世”
-纽约时报 (03/28/24) 理查德·桑多米尔 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/03/28/books/vernor-vinge-dead.html</guid>
-      <pubDate>Mon, 01 Apr 2024 15:06:59 GMT</pubDate>
+      <title>内蒙古古籍数据库平台上线</title>
+      <link>https://english.news.cn/20240401/2a348ac39c064ed3b811e794fe8c3a97/c.html</link>
+      <description><![CDATA[新华社内蒙古大学和内蒙古社会科学院的研究人员推出了包含11291册蒙古文古籍数字版本、116.3万张古文献图像的数据库平台，以及24万条古籍知识图谱三元组。 IMU飞龙表示，利用先进的人工智能技术，平台可以自动识别古籍内容，并自动校对、索引和分类。 摘自《内蒙古古籍数据库平台上线》
+新华网（04/01/24） 查看全文]]></description>
+      <guid>https://english.news.cn/20240401/2a348ac39c064ed3b811e794fe8c3a97/c.html</guid>
+      <pubDate>Wed, 03 Apr 2024 18:09:26 GMT</pubDate>
     </item>
     <item>
-      <title>机器人警犬避免流血事件</title>
-      <link>https://apnews.com/article/massachusetts-cape-cod-robot-dog-police-f63586d5286750702f396109c9a81836</link>
-      <description><![CDATA[美联社Roscoe 是波士顿动力公司的一只 SPOT 机器狗，也是马萨诸塞州警察拆弹小组的一员，3 月 6 日，三台机器人被派往巴恩斯特布尔的家中，发现一名嫌疑人被困在里面。嫌疑人最终被捕。州警方表示，“除了提供极其重要的房间清理和态势感知能力之外，将罗斯科插入嫌疑人住所还避免了在响应阶段插入人类操作员的需要。”摘自《机器人警犬避免流血事件》
-美联社 (03/27/24) 查看全文文章]]></description>
-      <guid>https://apnews.com/article/massachusetts-cape-cod-robot-dog-police-f63586d5286750702f396109c9a81836</guid>
-      <pubDate>Mon, 01 Apr 2024 15:06:59 GMT</pubDate>
+      <title>软件工程师停止向 Linux 操作系统添加后门的尝试</title>
+      <link>https://www.pcmag.com/news/software-engineer-stops-attempt-to-add-backdoor-to-linux-operating-systems</link>
+      <description><![CDATA[PC Magazine微软软件工程师 Andres Freund 上周五发现了 XZ Utils 中的后门，XZ Utils 是一组广泛用于 Linux 和类 Unix 操作系统 (OS) 的开源数据压缩工具。 Freund 发现 XZ Utils 中的一个组件可以将未经授权的代码注入 Linux 安装中，以监视用户的计算机并执行其他恶意代码。作为回应，Linux 操作系统提供商 Red Hat 和 Debian 发布了安全公告。摘自《软件工程师停止尝试向 Linux 操作系统添加后门》
+PC 杂志 (04/01/24) Michael Kan 查看全文]]></description>
+      <guid>https://www.pcmag.com/news/software-engineer-stops-attempt-to-add-backdoor-to-linux-operating-systems</guid>
+      <pubDate>Wed, 03 Apr 2024 18:09:26 GMT</pubDate>
     </item>
     <item>
-      <title>云电子邮件过滤绕过攻击在 80% 的时间内有效</title>
-      <link>https://www.darkreading.com/cloud-security/cloud-email-filtering-bypass-attack</link>
-      <description><![CDATA[暗读加州大学圣地亚哥分校的 Sumanth Rao 领导的计算机科学家发现，在他们检查的至少 80% 的主要领域中，流行的基于云的企业电子邮件垃圾邮件过滤服务可以被绕过。 Rao 解释说，“如果电子邮件托管提供商未配置为仅接受来自电子邮件过滤服务的消息，则可以绕过过滤服务”。绕过是可能的，因为过滤服务器和电子邮件服务器之间不匹配，即 Google 和 Microsoft 电子邮件服务器对来自未知 IP 地址的邮件的反应方式不匹配。来自“云电子邮件”过滤绕过攻击在 80% 的情况下有效”
-暗读 (03/29/24) David Strom 查看全文]]></description>
-      <guid>https://www.darkreading.com/cloud-security/cloud-email-filtering-bypass-attack</guid>
-      <pubDate>Mon, 01 Apr 2024 15:06:58 GMT</pubDate>
+      <title>美国、英国合作测试人工智能模型安全性</title>
+      <link>https://time.com/6962503/ai-artificial-intelligence-uk-us-safety/</link>
+      <description><![CDATA[时间根据英国科学、创新和技术大臣米歇尔·多尼兰（如图，右）和美国商务部长吉娜·雷蒙多（如图，左）签署的协议，各国将在安全方面开展合作测试人工智能模型。英国和美国人工智能安全研究所将制定人工智能安全测试方法，使用相同的方法和底层基础设施，交换员工和信息，并对公开的人工智能模型进行联合测试。来自“美国、英国合作测试人工智能模型安全性”
+时间 (04/01/24) Will Henshall 查看完整内容文章]]></description>
+      <guid>https://time.com/6962503/ai-artificial-intelligence-uk-us-safety/</guid>
+      <pubDate>Wed, 03 Apr 2024 18:09:25 GMT</pubDate>
     </item>
     <item>
-      <title>看不见的“人类工作”帮助机器人送货</title>
-      <link>https://www.msn.com/en-us/news/technology/new-study-finds-invisible-human-work-allows-robots-to-make-deliveries/ar-BB1kDuhK</link>
-      <description><![CDATA[MSN英国诺丁汉大学、约克大学以及瑞典林雪平大学的研究人员进行的一项研究发现，人们为适应自动送货机器人而做出的行为改变有助于它们顺利运行，应该在路线中考虑到规划。研究人员在英国米尔顿凯恩斯和北安普顿跟踪两台送货机器人时，观察到机器人在街道上穿越各种障碍物，而行人会走开、放慢脚步，或停下来让机器人通过。摘自《看不见的“人类工作”帮助机器人送货》
-MSN (03/28/24) 查看全文]]></description>
-      <guid>https://www.msn.com/en-us/news/technology/new-study-finds-invisible-human-work-allows-robots-to-make-deliveries/ar-BB1kDuhK</guid>
-      <pubDate>Mon, 01 Apr 2024 15:06:58 GMT</pubDate>
+      <title>用机器学习解码蜘蛛对话</title>
+      <link>https://www.popsci.com/technology/wolf-spider-vibration-research/</link>
+      <description><![CDATA[科普使用一系列具有声音处理机器学习功能的接触式麦克风，内布拉斯加大学林肯分校博士。学生 Noori Choi 捕捉到了狼蛛在森林地面上的振动运动。他总共收集了 39,000 小时的数据，其中包括超过 17,000 个振动系列，并设计了一个机器学习程序，能够过滤掉不需要的声音，同时隔离三种特定狼蛛物种产生的振动。来自“用机器学习解码蜘蛛对话”
+科普 (04/02/24) 安德鲁·保罗 查看全文]]></description>
+      <guid>https://www.popsci.com/technology/wolf-spider-vibration-research/</guid>
+      <pubDate>Wed, 03 Apr 2024 18:09:25 GMT</pubDate>
     </item>
     <item>
-      <title>水下机器人帮助海运清理</title>
-      <link>https://www.bloomberg.com/news/features/2024-03-26/underwater-robots-are-helping-maritime-shipping-clean-up-its-act</link>
-      <description><![CDATA[彭博社香港的 Neptune Robotics 已在香港和中国大陆的 50 多个港口部署了机器人来清理生物污垢，船体上藻类、海藻、藤壶和其他生物的堆积可以降低燃油消耗效率、增加排放，甚至将入侵物种带入港口。在人工智能制定的计划的帮助下，海王星的机器人利用高速微水滴进行“空化清洁”，以清除生物污垢，然后将其带到岸上进行处置。来自“水下机器人帮助”海运清理”
-彭博社 (03/26/24) Coco Liu 查看完整文章 - 可能需要付费订阅]]></description>
-      <guid>https://www.bloomberg.com/news/features/2024-03-26/underwater-robots-are-helping-maritime-shipping-clean-up-its-act</guid>
-      <pubDate>Mon, 01 Apr 2024 15:06:57 GMT</pubDate>
+      <title>科技让人们用自己的想法玩游戏</title>
+      <link>https://www.futurity.org/brain-computer-interface-games-3200662-2/</link>
+      <description><![CDATA[Futurity.org德克萨斯大学奥斯汀分校的工程师开发了一种具有机器学习功能的脑机接口，可以通过重复进行自我校准。这种一刀切的设备可供多名患者使用，无需经历传统上冗长的校准过程。在测试中，佩戴该设备的用户能够通过意念控制赛车游戏，并平衡数字条的左右两侧。摘自《科技让人们用自己的双手玩游戏》感想》
+Futurity.org (04/01/24) Nat Levy 查看全文]]></description>
+      <guid>https://www.futurity.org/brain-computer-interface-games-3200662-2/</guid>
+      <pubDate>Wed, 03 Apr 2024 18:09:24 GMT</pubDate>
     </item>
     <item>
-      <title>合成电网比真实电网更安全</title>
-      <link>https://spectrum.ieee.org/power-grid</link>
-      <description><![CDATA[IEEE Spectrum威斯康星大学麦迪逊分校的研究人员创建的模型合成电网可以用作开发未来电网的现实测试平台，同时消除数据安全和隐私风险。加州测试系统 (CATS) 可在 GitHub 上获取，提供地理数据，可将天气、气候和人口统计数据纳入规划中。 CATS 模拟而不是复制底层电网数据，也可以评估其他地理区域的电网运营和规划算法。摘自“合成电网比真实电网更安全”
-IEEE Spectrum (03/26/24) Michelle Hampson 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/power-grid</guid>
-      <pubDate>Mon, 01 Apr 2024 15:06:57 GMT</pubDate>
+      <title>Interop 创始人 Daniel C. Lynch 去世，享年 82 岁</title>
+      <link>https://www.nytimes.com/2024/03/31/technology/daniel-c-lynch-dead.html</link>
+      <description><![CDATA[纽约时报计算机网络工程师 Daniel C. Lynch 于 3 月 30 日去世，享年 82 岁。他尽其所能地宣传互联网不仅仅是昙花一现或只是一个研究实验，它是真实存在的，值得关注和投资。”ACM A.M.图灵奖获得者 Vinton G. Cerf，前 ACM 主席兼 Google 首席互联网布道者。摘自“Interop 创始人 Daniel C. Lynch，享年 82 岁去世”
+纽约时报 (03/31/24) 凯蒂·哈夫纳 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/03/31/technology/daniel-c-lynch-dead.html</guid>
+      <pubDate>Wed, 03 Apr 2024 18:09:24 GMT</pubDate>
     </item>
     <item>
-      <title>盲人可以听到、感觉到日食</title>
-      <link>https://apnews.com/article/blind-hear-solar-eclipse-dafc717b14115f9164befd911612aa3c</link>
-      <description><![CDATA[美联社4月8日公众集会上提供的设备将帮助视障人士“感觉”和“听到”日食。 LightSound 设备（如图，堆叠）的创建者可以将变化的光线转化为声音，其目标是向整个北美举办日食活动的地点分发至少 750 台设备。其他人可以使用印第安纳州触觉工程公司的 Cadence 平板电脑通过触觉来体验日食，该设备有手机大小，带有一排排上下弹出的点。摘自《盲人能听见》 ，感受日食》
-美联社 (03/29/24) 克里斯蒂娜·拉森 查看全文&lt; /a&gt;]]></description>
-      <guid>https://apnews.com/article/blind-hear-solar-eclipse-dafc717b14115f9164befd911612aa3c</guid>
-      <pubDate>Mon, 01 Apr 2024 15:06:56 GMT</pubDate>
+      <title>美国公共和私营部门举行联合网络演习</title>
+      <link>https://www.wsj.com/articles/u-s-public-and-private-sectors-hold-joint-cyber-drill-0c4ab173</link>
+      <description><![CDATA[《华尔街日报》专业网络安全在上周的三部门网络防御演习中，来自美国电信、金融服务和电力部门的公司与政府机构进行了联合网络安全演习。 AT&amp;T、Lumen Technologies、Southern Co、万事达卡、南加州爱迪生公司的安全人员分成攻防小组，展开数字战，而美国能源部、财政部、其他联邦机构和公司高管进行桌面演习，以测试公司的事件响应流程。摘自“美国公共和私营部门举行联合网络演习”
+《华尔街日报》专业网络安全 (03/29/24) James Rundle 查看完整文章 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/articles/u-s-public-and-private-sectors-hold-joint-cyber-drill-0c4ab173</guid>
+      <pubDate>Wed, 03 Apr 2024 18:09:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
