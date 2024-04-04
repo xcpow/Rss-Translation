@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Thu, 04 Apr 2024 15:07:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 18:09:58 GMT</lastBuildDate>
+    <item>
+      <title>打造更好的人工智能超级计算机，要有光</title>
+      <link>https://www.wired.com/story/build-a-better-ai-supercomputer-let-there-be-light/</link>
+      <description><![CDATA[OpenAI 和其他人工智能领导者认为，机器智能的新飞跃将需要新形式的计算机硬件。一项提议涉及将 GPU 与光连接起来。]]></description>
+      <guid>https://www.wired.com/story/build-a-better-ai-supercomputer-let-there-be-light/</guid>
+      <pubDate>Thu, 04 Apr 2024 16:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI 的 GPT 商店引发版权投诉</title>
       <link>https://www.wired.com/story/openai-gpt-store-triggering-copyright-complaints/</link>
@@ -78,7 +85,7 @@
     <item>
       <title>亚马逊上蜂拥而至的除虫器</title>
       <link>https://www.wired.com/story/bug-zappers-are-swarming-on-amazon/</link>
-      <description><![CDATA[亚马逊的低成本科技产品列表可能会让购物者陷入奇怪的品牌名称、重复的列表和可疑评论的陷阱。 Fakespot 的数据显示，灭虫器正在兴起。]]></description>
+      <description><![CDATA[亚马逊的低成本科技产品列表可能会让购物者陷入奇怪的品牌名称、重复的列表和可疑评论的兔子洞。 Fakespot 的数据显示，灭虫器正在兴起。]]></description>
       <guid>https://www.wired.com/story/bug-zappers-are-swarming-on-amazon/</guid>
       <pubDate>Thu, 28 Mar 2024 19:19:27 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[关闭该市海港将给全球航运带来冲击。当出现问题时，超大型集装箱船会给桥梁和其他基础设施带来越来越大的风险。]]></description>
       <guid>https://www.wired.com/story/baltimore-bridge-collapse-shipping-supply-chain-disruption-francis-scott-key/</guid>
       <pubDate>Wed, 27 Mar 2024 18:19:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>世界上最强大的开源人工智能模型 DBRX 的创建过程</title>
-      <link>https://www.wired.com/story/dbrx-inside-the-creation-of-the-worlds-most-powerful-open-source-ai-model/</link>
-      <description><![CDATA[初创公司 Databricks 刚刚发布了 DBRX，这是迄今为止最强大的开源大型语言模型，超越了 Meta 的 Llama 2。]]></description>
-      <guid>https://www.wired.com/story/dbrx-inside-the-creation-of-the-worlds-most-powerful-open-source-ai-model/</guid>
-      <pubDate>Wed, 27 Mar 2024 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
