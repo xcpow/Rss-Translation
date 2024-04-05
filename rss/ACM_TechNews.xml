@@ -4,102 +4,105 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Wed, 03 Apr 2024 18:09:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 18:09:03 GMT</lastBuildDate>
     <item>
-      <title>全脑大数据处理通过光遗传学控制实现 VR</title>
-      <link>https://www.photonics.com/Articles/Whole-Brain_Big_Data_Processing_Enables_VR_via/a69848</link>
-      <description><![CDATA[光子光谱中科院研究人员开发的大数据处理系统可以实时分析大规模全脑神经元活动，实现神经动力学的闭环研究。 FX 系统基于现场可编程门阵列-图形处理单元 (FPGA-GPU) 混合架构，还支持全脑、光学接口介导的 VR。它可以实现高达 500 MB/s 的数据流的实时配准、信号提取和分析，并且可以提取多达 100,000 个神经元的活动。摘自《全脑大数据处理使能通过光遗传学控制的 VR”
-光子学光谱 (03/24) 查看全文]]></description>
-      <guid>https://www.photonics.com/Articles/Whole-Brain_Big_Data_Processing_Enables_VR_via/a69848</guid>
-      <pubDate>Wed, 03 Apr 2024 18:09:29 GMT</pubDate>
+      <title>世界上最大的数码相机，用于研究难以捉摸的暗物质、暗能量</title>
+      <link>https://www.upi.com/Science_News/2024/04/03/LSST-camera-dark-matter-dark-energy/2951712185409/</link>
+      <description><![CDATA[UPI美国能源部 SLAC 国家加速器实验室的研究人员领导的团队开发的 3,200 兆像素相机将安装在智利正在建设的 Vera C. Rubin 天文台，并将用于研究暗物质和暗能量。这款重达三吨的高分辨率时空勘测 (LSST) 相机具有三个大镜头和六个滤光片，可以切换以分析不同的光谱。来自“世界上最大的数码相机”研究难以捉摸的暗物质、暗能量”
+UPI (04/03/24) 迈克·豪雅 查看全文]]></description>
+      <guid>https://www.upi.com/Science_News/2024/04/03/LSST-camera-dark-matter-dark-energy/2951712185409/</guid>
+      <pubDate>Fri, 05 Apr 2024 18:09:03 GMT</pubDate>
     </item>
     <item>
-      <title>液体电路能够实现类脑计算机吗？</title>
-      <link>https://spectrum.ieee.org/neuromorphic-computing-liquid-memristor</link>
-      <description><![CDATA[IEEE Spectrum瑞士洛桑联邦理工学院 (EPFL) 的研究人员开发了一种流体忆阻装置，可以通过移动离子来模拟大脑的突触。该装置由硅芯片、带圆形孔的氮化硅膜、石墨和钯层以及含有钾离子的溶液制成。研究人员首次将多个流体忆阻器连接起来形成电路。摘自《液体电路能否实现类脑计算机？》
-IEEE Spectrum (03/29/24) Charles Q. Choi 查看全文&lt; /a&gt;]]></description>
-      <guid>https://spectrum.ieee.org/neuromorphic-computing-liquid-memristor</guid>
-      <pubDate>Wed, 03 Apr 2024 18:09:28 GMT</pubDate>
+      <title>台湾地震严重提醒地区芯片制造业面临风险</title>
+      <link>https://www.cnn.com/2024/04/03/tech/taiwan-earthquake-risks-semiconductor-chip-industry-tsmc/index.html</link>
+      <description><![CDATA[CNN全球最大的芯片制造商台湾积体电路制造公司 (TSMC) 预计，继前一天发生 7.4 级地震后，其运营将在 4 月 4 日之前完全恢复。不过，台积电表示，“地震影响较大地区的某些生产线预计需要更多时间进行调整和校准，然后才能恢复完全自动化生产。” 摘自《台湾地震强烈提醒台湾芯片产业面临风险》
+CNN (04/04/24) 克莱尔·达菲 查看全文]]></description>
+      <guid>https://www.cnn.com/2024/04/03/tech/taiwan-earthquake-risks-semiconductor-chip-industry-tsmc/index.html</guid>
+      <pubDate>Fri, 05 Apr 2024 18:09:02 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌承诺销毁浏览数据以和解“隐身”诉讼</title>
-      <link>https://www.wsj.com/tech/google-pledges-to-destroy-browsing-data-to-settle-incognito-lawsuit-1febfde5</link>
-      <description><![CDATA[《华尔街日报》谷歌承诺销毁反映数百万用户信息的数据。网络浏览历史记录是一项诉讼和解的一部分，该诉讼指控该公司在人们不知情的情况下跟踪他们。该集体诉讼于 2020 年提起，指控谷歌在 Chrome 如何跟踪任何使用私人“隐身”功能的人的活动方面误导用户。浏览选项。和解协议规定了该公司将采取的行动，以改变其在隐私浏览方面的做法，包括销毁诉讼指控其不当收集的数十亿个数据点。摘自“Google 承诺销毁浏览数据以和解” ;隐姓埋名的诉讼”
-华尔街日报 (04/01/24) 艾琳·马尔瓦尼；迈尔斯·克鲁帕 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/tech/google-pledges-to-destroy-browsing-data-to-settle-incognito-lawsuit-1febfde5</guid>
-      <pubDate>Wed, 03 Apr 2024 18:09:28 GMT</pubDate>
+      <title>微型生物传感器只是一个杯子、膜和磁铁</title>
+      <link>https://spectrum.ieee.org/biosensors-chipless-batteryless-wireless</link>
+      <description><![CDATA[IEEE Spectrum中国北京大学的研究人员开发了一种无线无芯片生物传感器植入物，可以连续监测人体的各种生化和生理标志物。该植入物由覆盖有硅酮聚合物膜的硅酮聚合物杯和圆柱形微磁体组成。传感器检测磁铁的运动，并通过蓝牙将产生的信号发送到手持设备。摘自“微型生物传感器只是一个杯子、膜和磁铁”
+IEEE Spectrum (03/29/24) Douglas McCormick 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/biosensors-chipless-batteryless-wireless</guid>
+      <pubDate>Fri, 05 Apr 2024 18:09:02 GMT</pubDate>
     </item>
     <item>
-      <title>数百太比特在水下长距离发送</title>
-      <link>https://www.techradar.com/pro/japanese-scientists-close-in-on-petabit-class-submarine-cable-tech-set-to-revolutionize-internet-speeds-nec-and-ntt-managed-to-shuttle-hundreds-of-terabits-over-thousands-of-kilometers-thanks-to-a-clever-algorithm</link>
-      <description><![CDATA[TechRadar日本 NEC 和 NTT 研究人员测试的海底电缆在 7,280 公里范围内传输了数百太比特，可能为更快的水下互联网速度铺平道路。该光缆包含 12 芯多芯光纤，在标准外径光纤内具有 12 条光信号传输路径。为了消除由于增加内核而产生的干扰，研究人员开发了一种算法，利用多输入多输出技术来分离和解调高速接收信号。摘自《数百太比特远距离发送》水下”
-TechRadar (04/01/24) 韦恩·威廉姆斯 查看全文]]></description>
-      <guid>https://www.techradar.com/pro/japanese-scientists-close-in-on-petabit-class-submarine-cable-tech-set-to-revolutionize-internet-speeds-nec-and-ntt-managed-to-shuttle-hundreds-of-terabits-over-thousands-of-kilometers-thanks-to-a-clever-algorithm</guid>
-      <pubDate>Wed, 03 Apr 2024 18:09:27 GMT</pubDate>
+      <title>对于大量消耗数据的人工智能公司来说，互联网太小</title>
+      <link>https://www.wsj.com/tech/ai/ai-training-data-synthetic-openai-anthropic-9230f8d8</link>
+      <description><![CDATA[华尔街日报致力于强大人工智能系统的公司正在面临高质量在线公共数据的缺乏，特别是在一些数据所有者阻止对其数据的访问时。解决数据短缺的一种可能的解决方案是使用合成训练数据，尽管这引起了人们对可能出现严重故障的担忧。 DatologyAI正在尝试课程学习，将数据按照一定的顺序输入到语言模型中，以提高概念之间的连接质量。摘自《对于数据消耗大的人工智能公司来说，互联网太小了》&lt; br /&gt;
+华尔街日报 (04/01/24) Deepa Seetharaman 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/tech/ai/ai-training-data-synthetic-openai-anthropic-9230f8d8</guid>
+      <pubDate>Fri, 05 Apr 2024 18:09:01 GMT</pubDate>
     </item>
     <item>
-      <title>大学为量子计算做准备</title>
-      <link>https://www.govtech.com/education/higher-ed/how-are-universities-preparing-for-quantum-computing</link>
-      <description><![CDATA[政府技术为了帮助学生熟悉量子计算，一些大学正在启动新的教育和研究项目。田纳西大学查塔努加分校正在为 STEM 专业的学生提供新的量子信息科学与技术证书，而马里兰大学正在努力将量子知识整合到其课程中。此外，南达科他州的达科他州立大学正在与该州其他机构合作建立量子信息科学与技术中心。摘自“为量子计算做准备的大学”
-政府技术 (03/29/24) Brandon Paykamian 查看全文]]></description>
-      <guid>https://www.govtech.com/education/higher-ed/how-are-universities-preparing-for-quantum-computing</guid>
-      <pubDate>Wed, 03 Apr 2024 18:09:27 GMT</pubDate>
+      <title>微软与 Quantinuum 降低量子计算中的噪音</title>
+      <link>https://www.geekwire.com/2024/microsoft-quantinuum-error-correction-quantum/</link>
+      <description><![CDATA[GeekWire微软和 Quantinuum 宣布了一项量子计算突破，可以提高量子位的可靠性。 Microsoft 研究人员开发的纠错算法应用于 Quantinuum 的物理量子位，在 30 个物理量子位中产生了大约 4 个可靠的量子位。微软的 Jason Zander 表示：“通过该系统，我们进行了超过 14,000 次单独实验，没有出现任何错误。”摘自“微软，Quantinuum 降低量子计算中的噪音”
+GeekWire (04/03/24) 艾伦·博伊尔 查看完整内容文章]]></description>
+      <guid>https://www.geekwire.com/2024/microsoft-quantinuum-error-correction-quantum/</guid>
+      <pubDate>Fri, 05 Apr 2024 18:09:01 GMT</pubDate>
     </item>
     <item>
-      <title>内蒙古古籍数据库平台上线</title>
-      <link>https://english.news.cn/20240401/2a348ac39c064ed3b811e794fe8c3a97/c.html</link>
-      <description><![CDATA[新华社内蒙古大学和内蒙古社会科学院的研究人员推出了包含11291册蒙古文古籍数字版本、116.3万张古文献图像的数据库平台，以及24万条古籍知识图谱三元组。 IMU飞龙表示，利用先进的人工智能技术，平台可以自动识别古籍内容，并自动校对、索引和分类。 摘自《内蒙古古籍数据库平台上线》
-新华网（04/01/24） 查看全文]]></description>
-      <guid>https://english.news.cn/20240401/2a348ac39c064ed3b811e794fe8c3a97/c.html</guid>
-      <pubDate>Wed, 03 Apr 2024 18:09:26 GMT</pubDate>
+      <title>亚马逊取消美国杂货店的无收银系统</title>
+      <link>https://www.bloomberg.com/news/articles/2024-04-02/amazon-pulls-plug-on-cashierless-system-in-us-grocery-stores</link>
+      <description><![CDATA[彭博社亚马逊不会在计划于今年晚些时候开业的新生鲜杂货店中安装无收银系统，并且在现有的生鲜杂货店改造时，Just Walk Out 系统也将从中删除。该系统仍将在 Amazon Go 商店使用，并授权给其他零售商。相反，亚马逊将专注于 Dash Cart，这是一种允许购物者在购物时扫描商品的系统。摘自“亚马逊在美国杂货店取消无收银系统”
+彭博社 (04/02/24) 马特·戴 查看完整文章 - 可能需要付费订阅]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-04-02/amazon-pulls-plug-on-cashierless-system-in-us-grocery-stores</guid>
+      <pubDate>Fri, 05 Apr 2024 18:09:00 GMT</pubDate>
     </item>
     <item>
-      <title>软件工程师停止向 Linux 操作系统添加后门的尝试</title>
-      <link>https://www.pcmag.com/news/software-engineer-stops-attempt-to-add-backdoor-to-linux-operating-systems</link>
-      <description><![CDATA[PC Magazine微软软件工程师 Andres Freund 上周五发现了 XZ Utils 中的后门，XZ Utils 是一组广泛用于 Linux 和类 Unix 操作系统 (OS) 的开源数据压缩工具。 Freund 发现 XZ Utils 中的一个组件可以将未经授权的代码注入 Linux 安装中，以监视用户的计算机并执行其他恶意代码。作为回应，Linux 操作系统提供商 Red Hat 和 Debian 发布了安全公告。摘自《软件工程师停止尝试向 Linux 操作系统添加后门》
-PC 杂志 (04/01/24) Michael Kan 查看全文]]></description>
-      <guid>https://www.pcmag.com/news/software-engineer-stops-attempt-to-add-backdoor-to-linux-operating-systems</guid>
-      <pubDate>Wed, 03 Apr 2024 18:09:26 GMT</pubDate>
+      <title>用口头命令教机器人做家务</title>
+      <link>https://www.newscientist.com/article/2425023-yell-at-your-robot-technique-teaches-robots-household-chores/</link>
+      <description><![CDATA[新科学家斯坦福大学研究人员开发了人工智能模块，可以根据语音指令规划机器人的动作，然后将这些动作转化为电机控制动作。目标是让人类能够动态地向工作场所或家用机器人提供反馈。训练过程涉及人类操作员控制两个机械臂，同时大声讲述特定任务的每个步骤，包括纠正的错误，然后转录音频并将其与机器人的运动同步以生成标记的训练数据。 摘自《用语言命令教机器人做家务》
+新科学家 (04/01/24) Jeremy Hsu 查看完整文章 - 可能需要付费订阅]]></description>
+      <guid>https://www.newscientist.com/article/2425023-yell-at-your-robot-technique-teaches-robots-household-chores/</guid>
+      <pubDate>Fri, 05 Apr 2024 18:08:59 GMT</pubDate>
     </item>
     <item>
-      <title>美国、英国合作测试人工智能模型安全性</title>
-      <link>https://time.com/6962503/ai-artificial-intelligence-uk-us-safety/</link>
-      <description><![CDATA[时间根据英国科学、创新和技术大臣米歇尔·多尼兰（如图，右）和美国商务部长吉娜·雷蒙多（如图，左）签署的协议，各国将在安全方面开展合作测试人工智能模型。英国和美国人工智能安全研究所将制定人工智能安全测试方法，使用相同的方法和底层基础设施，交换员工和信息，并对公开的人工智能模型进行联合测试。来自“美国、英国合作测试人工智能模型安全性”
-时间 (04/01/24) Will Henshall 查看完整内容文章]]></description>
-      <guid>https://time.com/6962503/ai-artificial-intelligence-uk-us-safety/</guid>
-      <pubDate>Wed, 03 Apr 2024 18:09:25 GMT</pubDate>
+      <title>智能手机应用程序可以帮助检测早发性痴呆症的原因</title>
+      <link>https://www.theguardian.com/society/2024/apr/01/smartphone-app-could-help-detect-early-onset-dementia-cause-study-finds</link>
+      <description><![CDATA[卫报加州大学旧金山分校的研究人员与软件公司 Datacubed Health 合作开发了一款智能手机应用程序，可以检测额颞叶痴呆的早期迹象。该应用程序会记录用户在多项认知测试中的语音，并提供评估步行、平衡、缓慢运动和语言的测试。在对 360 名具有患额颞叶痴呆症高遗传风险的成年人进行的测试中，即使用户没有明显症状，该应用程序也能准确识别痴呆症。
+摘自“智能手机应用程序可以帮助检测早发性痴呆症的原因”
+卫报 (04/01/24) Linda Geddes 查看全文]]></description>
+      <guid>https://www.theguardian.com/society/2024/apr/01/smartphone-app-could-help-detect-early-onset-dementia-cause-study-finds</guid>
+      <pubDate>Fri, 05 Apr 2024 18:08:59 GMT</pubDate>
     </item>
     <item>
-      <title>用机器学习解码蜘蛛对话</title>
-      <link>https://www.popsci.com/technology/wolf-spider-vibration-research/</link>
-      <description><![CDATA[科普使用一系列具有声音处理机器学习功能的接触式麦克风，内布拉斯加大学林肯分校博士。学生 Noori Choi 捕捉到了狼蛛在森林地面上的振动运动。他总共收集了 39,000 小时的数据，其中包括超过 17,000 个振动系列，并设计了一个机器学习程序，能够过滤掉不需要的声音，同时隔离三种特定狼蛛物种产生的振动。来自“用机器学习解码蜘蛛对话”
-科普 (04/02/24) 安德鲁·保罗 查看全文]]></description>
-      <guid>https://www.popsci.com/technology/wolf-spider-vibration-research/</guid>
-      <pubDate>Wed, 03 Apr 2024 18:09:25 GMT</pubDate>
+      <title>退伍军人使用 VR 来应对 PTSD</title>
+      <link>https://thehill.com/policy/defense/4547679-veterans-virtual-reality-ptsd/</link>
+      <description><![CDATA[The Hill美国退伍军人事务部和受伤战士项目 (WWP) 提供的项目正在利用 VR 技术帮助数千名退伍军人应对创伤后应激障碍 (PTSD)。 Mynd Immersive 已为近 100 个长期退伍军人护理机构提供了 500 个 VR 耳机，让退伍军人能够以虚拟方式重访艾森豪威尔号航空母舰。 WWP 使用 VR 使退伍军人能够在安全、受控的环境中重新体验痛苦的记忆，然后他们进行认知治疗来帮助他们处理这些记忆。摘自《退伍军人使用 VR 应对 PTSD》 “
+The Hill (04/03/24) 布拉德连衣裙 查看全文]]></description>
+      <guid>https://thehill.com/policy/defense/4547679-veterans-virtual-reality-ptsd/</guid>
+      <pubDate>Fri, 05 Apr 2024 18:08:58 GMT</pubDate>
     </item>
     <item>
-      <title>科技让人们用自己的想法玩游戏</title>
-      <link>https://www.futurity.org/brain-computer-interface-games-3200662-2/</link>
-      <description><![CDATA[Futurity.org德克萨斯大学奥斯汀分校的工程师开发了一种具有机器学习功能的脑机接口，可以通过重复进行自我校准。这种一刀切的设备可供多名患者使用，无需经历传统上冗长的校准过程。在测试中，佩戴该设备的用户能够通过意念控制赛车游戏，并平衡数字条的左右两侧。摘自《科技让人们用自己的双手玩游戏》感想》
-Futurity.org (04/01/24) Nat Levy 查看全文]]></description>
-      <guid>https://www.futurity.org/brain-computer-interface-games-3200662-2/</guid>
-      <pubDate>Wed, 03 Apr 2024 18:09:24 GMT</pubDate>
+      <title>北极冰层缩小重新绘制互联网电缆连接地图</title>
+      <link>https://www.politico.eu/article/shrinking-arctic-ice-redraws-map-internet-cable-connections-climate-change/</link>
+      <description><![CDATA[欧洲政治由于北极冰层融化，海底互联网电缆的新路线可能成为可能。耗资 10 亿欧元（10.8 亿美元）的远北光纤项目将通过 14,500 公里将欧洲与日本连接起来。 （9,010 英里）电缆穿过北极西北航道。着陆点将位于日本、美国（阿拉斯加）、加拿大、挪威、芬兰和爱尔兰。该项目预计于 2027 年上线。 摘自《北极冰层缩小重新绘制互联网电缆连接地图》
+欧洲政治 (04/02/24) Mathieu Pollet；乔凡娜·科伊 查看全文]]></description>
+      <guid>https://www.politico.eu/article/shrinking-arctic-ice-redraws-map-internet-cable-connections-climate-change/</guid>
+      <pubDate>Fri, 05 Apr 2024 18:08:58 GMT</pubDate>
     </item>
     <item>
-      <title>Interop 创始人 Daniel C. Lynch 去世，享年 82 岁</title>
-      <link>https://www.nytimes.com/2024/03/31/technology/daniel-c-lynch-dead.html</link>
-      <description><![CDATA[纽约时报计算机网络工程师 Daniel C. Lynch 于 3 月 30 日去世，享年 82 岁。他尽其所能地宣传互联网不仅仅是昙花一现或只是一个研究实验，它是真实存在的，值得关注和投资。”ACM A.M.图灵奖获得者 Vinton G. Cerf，前 ACM 主席兼 Google 首席互联网布道者。摘自“Interop 创始人 Daniel C. Lynch，享年 82 岁去世”
-纽约时报 (03/31/24) 凯蒂·哈夫纳 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/03/31/technology/daniel-c-lynch-dead.html</guid>
-      <pubDate>Wed, 03 Apr 2024 18:09:24 GMT</pubDate>
+      <title>人工智能研究人员挑战选举 Deepfakes</title>
+      <link>https://www.nytimes.com/2024/04/02/technology/an-ai-researcher-takes-on-election-deepfakes.html</link>
+      <description><![CDATA[纽约时报TrueMedia.org 由艾伦人工智能研究所创始首席执行官 Oren Etzioni（如图）创立，推出了免费工具，记者、事实核查人员和其他人可以使用这些工具来检测人工智能生成的内容深度赝品。埃齐奥尼表示，这些工具将有助于发现选举年期间预计出现的“虚假信息海啸”。然而，他补充说，这些工具并不完美，并指出，“我们正在努力为人们提供对他们面前的情况的最佳技术评估。他们仍然需要确定它是否真实。”
+
+摘自“人工智能研究员挑战选举 Deepfakes”
+纽约时报 (04/02/24) Cade Metz；徐婷婷 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/04/02/technology/an-ai-researcher-takes-on-election-deepfakes.html</guid>
+      <pubDate>Fri, 05 Apr 2024 18:08:57 GMT</pubDate>
     </item>
     <item>
-      <title>美国公共和私营部门举行联合网络演习</title>
-      <link>https://www.wsj.com/articles/u-s-public-and-private-sectors-hold-joint-cyber-drill-0c4ab173</link>
-      <description><![CDATA[《华尔街日报》专业网络安全在上周的三部门网络防御演习中，来自美国电信、金融服务和电力部门的公司与政府机构进行了联合网络安全演习。 AT&amp;T、Lumen Technologies、Southern Co、万事达卡、南加州爱迪生公司的安全人员分成攻防小组，展开数字战，而美国能源部、财政部、其他联邦机构和公司高管进行桌面演习，以测试公司的事件响应流程。摘自“美国公共和私营部门举行联合网络演习”
-《华尔街日报》专业网络安全 (03/29/24) James Rundle 查看完整文章 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/articles/u-s-public-and-private-sectors-hold-joint-cyber-drill-0c4ab173</guid>
-      <pubDate>Wed, 03 Apr 2024 18:09:23 GMT</pubDate>
+      <title>“蟑螂无人机”探索森林树冠</title>
+      <link>https://www.swissinfo.ch/eng/science/swiss-develop-cockroach-drone-to-explore-forest-canopy/74951377</link>
+      <description><![CDATA[Swissinfo（瑞士）瑞士联邦森林、雪和景观研究所的研究人员受蟑螂身体结构的启发，开发了一款无人机，以增加进入森林树冠的机会，进行环境监测。该无人机采用低摩擦材料制成，采用流线型设计，配备触觉反馈技术，可在与周围环境接触时做出反应。研究人员计划改进无人机，使其能够同时对多个物体做出反应。摘自“‘蟑螂无人机’探索森林树冠”
+Swissinfo（瑞士）（04/03/24） 查看全文]]></description>
+      <guid>https://www.swissinfo.ch/eng/science/swiss-develop-cockroach-drone-to-explore-forest-canopy/74951377</guid>
+      <pubDate>Fri, 05 Apr 2024 18:08:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
