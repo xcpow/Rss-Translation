@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Fri, 05 Apr 2024 09:06:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 12:11:43 GMT</lastBuildDate>
+    <item>
+      <title>这家人工智能初创公司希望你能与房屋、汽车和工厂对话</title>
+      <link>https://www.wired.com/story/plaintext-ai-startup-archetype-talk-to-houses-cars-and-factories/</link>
+      <description><![CDATA[Archetype 构建了人工智能模型，充当人类和复杂传感器之间的翻译层，使用简单的语言帮助人们理解建筑物、汽车或人体中发生的情况]]></description>
+      <guid>https://www.wired.com/story/plaintext-ai-startup-archetype-talk-to-houses-cars-and-factories/</guid>
+      <pubDate>Fri, 05 Apr 2024 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>一名 TikTok 举报人引起了 DC 的注意。他的说法成立吗？</title>
       <link>https://www.wired.com/story/tiktok-whistleblower-got-dcs-attention-do-his-claims-add-up/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[一位美国法官判处曾经的加密神童 Sam Bankman-Fried 25 年监禁。]]></description>
       <guid>https://www.wired.com/story/sam-bankman-fried-sentenced-ftx-fraud/</guid>
       <pubDate>Thu, 28 Mar 2024 15:52:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>白宫对政府使用人工智能设置新的监管</title>
-      <link>https://www.wired.com/story/white-house-new-guardrails-government-use-of-ai/</link>
-      <description><![CDATA[副总统卡马拉·哈里斯表示，政府人工智能部署的新规则，包括要求检查算法是否存在偏见，将“把公共利益放在第一位”。]]></description>
-      <guid>https://www.wired.com/story/white-house-new-guardrails-government-use-of-ai/</guid>
-      <pubDate>Thu, 28 Mar 2024 09:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
