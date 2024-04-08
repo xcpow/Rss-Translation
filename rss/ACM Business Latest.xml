@@ -4,7 +4,21 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Mon, 08 Apr 2024 09:08:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 12:11:58 GMT</lastBuildDate>
+    <item>
+      <title>我如何成为一名 Python 程序员，并如何失去对机器的热爱</title>
+      <link>https://www.wired.com/story/how-i-became-a-python-programmer-and-distanced-myself-from-the-machine/</link>
+      <description><![CDATA[当我开始编码时，我对所有抽象都持怀疑态度。然后我发现了 Django 框架。]]></description>
+      <guid>https://www.wired.com/story/how-i-became-a-python-programmer-and-distanced-myself-from-the-machine/</guid>
+      <pubDate>Mon, 08 Apr 2024 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>互联网档案馆刚刚备份了整个加勒比岛</title>
+      <link>https://www.wired.com/story/internet-archive-backed-up-aruba-caribbean-island/</link>
+      <description><![CDATA[通过首次成为整个国家历史的官方保管人，互联网档案馆正在扩大其在为子孙后代保存数字世界方面本已巨大的作用。]]></description>
+      <guid>https://www.wired.com/story/internet-archive-backed-up-aruba-caribbean-island/</guid>
+      <pubDate>Mon, 08 Apr 2024 09:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>加密货币巨头 Do Kwon 被判对数十亿美元的欺诈负有责任</title>
       <link>https://www.wired.com/story/do-kwon-terraform-terraform-labs-liable-civil-charges/</link>
@@ -85,7 +99,7 @@
     <item>
       <title>人工智能热潮真实存在的证据：越来越多的人在工作中使用 ChatGPT</title>
       <link>https://www.wired.com/story/plaintext-proof-the-ai-boom-is-people-tapping-chatgpt-at-work/</link>
-      <description><![CDATA[尽管最近有人警告生成式人工智能被夸大了，但皮尤研究中心的新数据显示，在工作中使用 ChatGPT 的人数正在迅速增加。]]></description>
+      <description><![CDATA[尽管最近有警告称生成式人工智能被夸大了，但皮尤研究中心的新数据显示，在工作中使用 ChatGPT 的人数正在迅速增加。]]></description>
       <guid>https://www.wired.com/story/plaintext-proof-the-ai-boom-is-people-tapping-chatgpt-at-work/</guid>
       <pubDate>Fri, 29 Mar 2024 16:00:00 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[两本新书为人们如何看待智能手机和社交媒体提供了截然不同的方法。]]></description>
       <guid>https://www.wired.com/story/pete-etchells-jonathan-haidt-smartphones/</guid>
       <pubDate>Fri, 29 Mar 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>俄勒冈州突破性的修复权法案现已成为法律</title>
-      <link>https://www.wired.com/story/oregon-right-to-repair-law/</link>
-      <description><![CDATA[公司将不再被允许使用软件检查来验证更换零件，这是维修权运动向前迈出的重要一步。]]></description>
-      <guid>https://www.wired.com/story/oregon-right-to-repair-law/</guid>
-      <pubDate>Fri, 29 Mar 2024 00:04:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚马逊上蜂拥而至的除虫器</title>
-      <link>https://www.wired.com/story/bug-zappers-are-swarming-on-amazon/</link>
-      <description><![CDATA[亚马逊的低成本科技产品列表可能会让购物者陷入奇怪的品牌名称、重复的列表和可疑评论的陷阱。 Fakespot 的数据显示，灭虫器正在兴起。]]></description>
-      <guid>https://www.wired.com/story/bug-zappers-are-swarming-on-amazon/</guid>
-      <pubDate>Thu, 28 Mar 2024 19:19:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
