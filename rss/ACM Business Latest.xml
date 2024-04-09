@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Tue, 09 Apr 2024 03:09:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 06:09:52 GMT</lastBuildDate>
+    <item>
+      <title>欢迎来到技术封建主义时代</title>
+      <link>https://www.wired.com/story/yanis-varoufakis-technofeudalism-interview/</link>
+      <description><![CDATA[在雅尼斯·瓦鲁法基斯 (Yanis Varoufakis) 的最新著作中，这位希腊前财政部长认为，苹果和 Meta 等公司对待用户就像对待现代农奴一样。]]></description>
+      <guid>https://www.wired.com/story/yanis-varoufakis-technofeudalism-interview/</guid>
+      <pubDate>Tue, 09 Apr 2024 06:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>我如何成为一名 Python 程序员，并如何失去对机器的热爱</title>
       <link>https://www.wired.com/story/how-i-became-a-python-programmer-and-distanced-myself-from-the-machine/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[尽管最近有人警告生成式人工智能被夸大了，但皮尤研究中心的新数据显示，在工作中使用 ChatGPT 的人数正在迅速增加。]]></description>
       <guid>https://www.wired.com/story/plaintext-proof-the-ai-boom-is-people-tapping-chatgpt-at-work/</guid>
       <pubDate>Fri, 29 Mar 2024 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>孩子们的屏幕时间很好！除非不是</title>
-      <link>https://www.wired.com/story/pete-etchells-jonathan-haidt-smartphones/</link>
-      <description><![CDATA[两本新书为人们如何看待智能手机和社交媒体提供了截然不同的方法。]]></description>
-      <guid>https://www.wired.com/story/pete-etchells-jonathan-haidt-smartphones/</guid>
-      <pubDate>Fri, 29 Mar 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
