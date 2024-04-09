@@ -4,7 +4,21 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Tue, 09 Apr 2024 12:12:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 15:07:04 GMT</lastBuildDate>
+    <item>
+      <title>Beeper 挑战了苹果 iMessage 的统治地位。现在已经被收购了</title>
+      <link>https://www.wired.com/story/beeper-acquired-by-automattic/</link>
+      <description><![CDATA[这款将绿色聊天气泡变成蓝色的应用程序已被 Wordpress 和 Tumblr 的母公司 Automattic 收购。]]></description>
+      <guid>https://www.wired.com/story/beeper-acquired-by-automattic/</guid>
+      <pubDate>Tue, 09 Apr 2024 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>学生可能会用人工智能撰写数百万篇论文</title>
+      <link>https://www.wired.com/story/student-papers-generative-ai-turnitin/</link>
+      <description><![CDATA[Turnitin 是一项检查论文是否抄袭的服务，该服务表示，其检测工具发现了数百万篇论文，其中可能包含大量人工智能生成的内容。]]></description>
+      <guid>https://www.wired.com/story/student-papers-generative-ai-turnitin/</guid>
+      <pubDate>Tue, 09 Apr 2024 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>欢迎来到技术封建主义时代</title>
       <link>https://www.wired.com/story/yanis-varoufakis-technofeudalism-interview/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[语音引擎是一种新的文本转语音人工智能模型，用于创建合成语音。 OpenAI 表示，广泛发布风险太大。]]></description>
       <guid>https://www.wired.com/story/openai-voice-engine-artificial-intelligence-release/</guid>
       <pubDate>Sat, 30 Mar 2024 17:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>写作时如何抵制人工智能的诱惑</title>
-      <link>https://www.wired.com/story/how-to-resist-ai-temptation-writing/</link>
-      <description><![CDATA[遵循这些技巧，即使在人工智能和 ChatGPT 时代，也可以写出更出色的文章，在网络上脱颖而出。]]></description>
-      <guid>https://www.wired.com/story/how-to-resist-ai-temptation-writing/</guid>
-      <pubDate>Sat, 30 Mar 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能热潮真实存在的证据：越来越多的人在工作中使用 ChatGPT</title>
-      <link>https://www.wired.com/story/plaintext-proof-the-ai-boom-is-people-tapping-chatgpt-at-work/</link>
-      <description><![CDATA[尽管最近有人警告生成式人工智能被夸大了，但皮尤研究中心的新数据显示，在工作中使用 ChatGPT 的人数正在迅速增加。]]></description>
-      <guid>https://www.wired.com/story/plaintext-proof-the-ai-boom-is-people-tapping-chatgpt-at-work/</guid>
-      <pubDate>Fri, 29 Mar 2024 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
