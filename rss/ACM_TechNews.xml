@@ -4,98 +4,110 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Mon, 08 Apr 2024 18:09:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 18:09:36 GMT</lastBuildDate>
     <item>
-      <title>美国科技巨头转向墨西哥生产人工智能设备</title>
-      <link>https://www.wsj.com/tech/u-s-tech-giants-turn-to-mexico-to-make-ai-gear-spurning-china-8ccd27cb</link>
-      <description><![CDATA[华尔街日报为了减轻对中国的依赖，一些美国科技公司呼吁其在台湾的制造合作伙伴增加在墨西哥的人工智能相关硬件生产。根据美国-墨西哥-加拿大协议，这种近岸外包有所增加。据消息人士透露，台湾富士康的墨西哥工厂为亚马逊、谷歌、微软和英伟达生产人工智能服务器。戴尔和惠普企业也要求其供应商将部分服务器和云计算生产转移到东南亚和墨西哥。摘自《美国科技巨头转向墨西哥生产人工智能设备》
-华尔街日报 (03/31/24) 杨杰；圣地亚哥·佩雷斯 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/tech/u-s-tech-giants-turn-to-mexico-to-make-ai-gear-spurning-china-8ccd27cb</guid>
-      <pubDate>Mon, 08 Apr 2024 18:09:59 GMT</pubDate>
+      <title>研究人员设计了微型机器人的“智能群”</title>
+      <link>https://interestingengineering.com/innovation/smart-swarms-miniature-robots</link>
+      <description><![CDATA[有趣的工程德克萨斯大学奥斯汀分校的研究人员受鱼群、蜂箱和蚁群的启发，开发出了“智能群”微型机器人。精心设计的社交互动使微型机器人能够协作，作为一个有凝聚力的单元，比独立或随机操作的机器人更有效地克服障碍。该系统具有自适应时间延迟功能，可使用具有受控光模式的光学反馈系统促进协作，使群中的每个微型机器人能够通过修改其移动性来响应环境变化。来自“研究人员工程师”微型机器人的智能群”
+有趣的工程 (04/04/24) Jijomaleil 查看全文]]></description>
+      <guid>https://interestingengineering.com/innovation/smart-swarms-miniature-robots</guid>
+      <pubDate>Wed, 10 Apr 2024 18:09:36 GMT</pubDate>
     </item>
     <item>
-      <title>美国警方警告开车前往加拿大的人注意隐藏的航空标签</title>
-      <link>https://www.pcmag.com/news/vermont-authorities-warn-residents-to-look-for-airtags-on-their-vehicles</link>
-      <description><![CDATA[PC Magazine佛蒙特州执法官员警告居民从加拿大公路旅行返回后，在车辆中寻找隐藏的 Apple AirTags。蒙特利尔的犯罪分子越来越多地使用 AirTags 来追踪汽车，以偷窃、出售或跨境运输毒品。如果检测到未知的 AirTag，Apple 会通知 iPhone 用户，并为 Android 用户发布了一款应用程序，允许他们手动搜索跟踪器。摘自“美国警方警告开车前往加拿大的人注意隐藏的 AirTags” “
-PC 杂志 (03/30/24) Emily Price 查看全文]]></description>
-      <guid>https://www.pcmag.com/news/vermont-authorities-warn-residents-to-look-for-airtags-on-their-vehicles</guid>
-      <pubDate>Mon, 08 Apr 2024 18:09:59 GMT</pubDate>
+      <title>击败云安全游戏</title>
+      <link>https://ethz.ch/en/news-and-events/eth-news/news/2024/04/knocking-cloud-security-off-its-game.html</link>
+      <description><![CDATA[苏黎世联邦理工学院（瑞士）瑞士苏黎世联邦理工学院的计算机科学家发现了机密计算系统中的一个漏洞，共享云计算资源使用该系统来安全地处理敏感数据。 AMD 和英特尔处理器中使用的云服务器硬件中的漏洞可能允许黑客访问使用相同硬件的其他活跃云用户内存中存储的数据。研究人员通过发送协调的中断指令来迷惑受信任执行环境 (TEE) 保护的系统，从而获得了对受信任执行环境 (TEE) 安全系统的 root 访问权限。摘自“Knocking Cloud Security Off His Game”
+苏黎世联邦理工学院（瑞士） (04/04/24) Daniel Meierhans 查看全文]]></description>
+      <guid>https://ethz.ch/en/news-and-events/eth-news/news/2024/04/knocking-cloud-security-off-its-game.html</guid>
+      <pubDate>Wed, 10 Apr 2024 18:09:36 GMT</pubDate>
     </item>
     <item>
-      <title>基于智能手机的快速血糖测试系统</title>
-      <link>https://www.indiatoday.in/education-today/news/story/iit-jodhpur-researchers-develop-smartphone-based-system-for-quick-glucose-testing-2521629-2024-04-01</link>
-      <description><![CDATA[今日印度印度焦特布尔理工学院的研究人员开发的纸质分析设备 (PAD) 通过 Android 应用程序连接到智能手机，以进行快速血糖测试和个性化血糖水平监测。 PAD 由实验室功能化可生物降解纸制成，可根据样品中葡萄糖的含量改变颜色。在开发智能手机应用程序时，研究人员在各种彩色葡萄糖样本上训练了机器学习模型，以确保光照条件和相机类型不会影响 PAD 的颜色强度。来自“基于智能手机的系统”用于快速血糖测试”
-今日印度 (04/01/24) Divya Chopra 查看全文]]></description>
-      <guid>https://www.indiatoday.in/education-today/news/story/iit-jodhpur-researchers-develop-smartphone-based-system-for-quick-glucose-testing-2521629-2024-04-01</guid>
-      <pubDate>Mon, 08 Apr 2024 18:09:58 GMT</pubDate>
+      <title>工具让人工智能模型产生幻觉猫来对抗版权侵权</title>
+      <link>https://www.nbcnews.com/tech/ai-image-generators-nightshade-copyright-infringement-rcna144624</link>
+      <description><![CDATA[NBC 新闻由芝加哥大学 (UoC) 研究人员开发的一种名为 Nightshade 的工具，以人眼几乎看不见但与人工智能模型看起来截然不同的方式改变图像，作为一种手段保护艺术品免受版权侵犯。 Nightshade 改变了数千个像素，与包含数百万像素的图像相比，改变量很小，但足以欺骗人工智能看到“完全不同的东西”。 UoC 的 Shawn Shan 解释道。摘自《工具让 AI 模型产生幻觉猫以对抗版权侵权》
+NBC 新闻 (04/04/24) Brian Cheung 查看全文]]></description>
+      <guid>https://www.nbcnews.com/tech/ai-image-generators-nightshade-copyright-infringement-rcna144624</guid>
+      <pubDate>Wed, 10 Apr 2024 18:09:35 GMT</pubDate>
     </item>
     <item>
-      <title>FDA 批准首个数字治疗抑郁症</title>
-      <link>https://www.cnn.com/2024/04/02/health/fda-rejoyn-depression-digital-treatment/index.html</link>
-      <description><![CDATA[CNN大冢制药和 Click Therapeutics 的 Rejoyn 智能手机应用程序旨在治疗重度抑郁症，已获得美国食品和药物管理局批准，可供 22 岁及以上成年人与抗抑郁药物联合使用。 Rejoyn 将于今年晚些时候通过处方上市，它在为期六周的项目中结合了认知情绪训练和认知行为治疗课程。它使用情绪面孔记忆任务，要求人们识别和比较一系列面孔上的情绪，并可能通过改善被认为与抑郁症有关的大脑区域的连接来触发抗抑郁效果。来自“ FDA 批准首个数字治疗抑郁症的药物”
-CNN (04/02/24) Mira Cheng 查看全文]]></description>
-      <guid>https://www.cnn.com/2024/04/02/health/fda-rejoyn-depression-digital-treatment/index.html</guid>
-      <pubDate>Mon, 08 Apr 2024 18:09:58 GMT</pubDate>
+      <title>密码学家如何最终破解十二宫杀手最难的密码之一</title>
+      <link>https://www.popsci.com/technology/zodiac-letter-decode/</link>
+      <description><![CDATA[科普国际密码学家团队的一份白皮书详细介绍了破译十二宫杀手消息代码所需的工作，包括众包和计算编程。 1969 年 11 月 12 日在报纸上发表的 340 个字符的密码于 2020 年 12 月通过采用研究团队成员 Jarl Van Eycke 开发的 AZDecrypt 来解密该消息。 AZDecrypt 每秒可解算多达 200 个同音替换密码，经过修改以添加换位选项。摘自“密码学家如何最终破解十二宫杀手最难的密码之一”
+科普 (04/04/24) 安德鲁·保罗 查看全文]]></description>
+      <guid>https://www.popsci.com/technology/zodiac-letter-decode/</guid>
+      <pubDate>Wed, 10 Apr 2024 18:09:35 GMT</pubDate>
     </item>
     <item>
-      <title>VR钓鱼游戏用户突破100万</title>
-      <link>https://www.ft.com/content/ddd6c9d5-012c-4650-be30-2d9da5f8cea9</link>
-      <description><![CDATA[《金融时报》《Real VR Fishing》是韩国 Devs United Games (DUG) 推出的一款沉浸式钓鱼游戏，是亚太地区最畅销的 VR 游戏之一，拥有近 100 万用户自 2019 年推出以来。这款售价 20 美元的游戏允许玩家在大约 100 个现实世界地点钓鱼。 DUG 预计明年将推出适用于露营、赛船和其他户外活动的 VR 游戏。然而，DUG 的 Mark Choi 表示，VR 耳机“应该像日常使用的眼镜一样更轻、更简单。缺乏杀手级应用程序也是一个问题。”
-
-摘自《VR钓鱼游戏用户突破百万》
-英国金融时报 (04/03/24) 宋正a 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.ft.com/content/ddd6c9d5-012c-4650-be30-2d9da5f8cea9</guid>
-      <pubDate>Mon, 08 Apr 2024 18:09:58 GMT</pubDate>
+      <title>德克萨斯州将使用计算机对 STAAR 考试进行评分</title>
+      <link>https://www.texastribune.org/2024/04/09/staar-artificial-intelligence-computer-grading-texas/</link>
+      <description><![CDATA[德克萨斯论坛报德克萨斯州教育局 (TEA) 今年将使用“自动评分引擎”它使用自然语言处理技术对德克萨斯州学术准备评估 (STAAR) 中阅读、写作、科学和社会研究的开放式问题进行评估和评分。 TEA 收集了 3,000 个经过两轮人工评分的回复，并用它们来向自动评分引擎教授回复的特征。它被编程为分配与人类相同的分数。来自“德克萨斯州将使用计算机对 STAAR 测试进行评分”
+德克萨斯论坛报 (04/09/24) 基顿·彼得斯]]></description>
+      <guid>https://www.texastribune.org/2024/04/09/staar-artificial-intelligence-computer-grading-texas/</guid>
+      <pubDate>Wed, 10 Apr 2024 18:09:34 GMT</pubDate>
     </item>
     <item>
-      <title>将为糖尿病患者提供人工胰腺技术</title>
-      <link>https://www.bbc.com/news/health-68684976</link>
-      <description><![CDATA[BBC英国国家医疗服务体系将开始向符合条件的 1 型糖尿病成人和儿童提供人工胰腺技术。该设备模仿胰腺的功能，使用皮下的葡萄糖传感器自动确定通过泵输送多少胰岛素。然而，需要采购足够数量的设备并培训更多工作人员，这意味着所有符合条件的个人可能需要五年时间才能收到这些设备。摘自“将为糖尿病患者提供人工胰腺”技术”
-BBC (04/01/24) 尼克·特里格尔 查看全文]]></description>
-      <guid>https://www.bbc.com/news/health-68684976</guid>
-      <pubDate>Mon, 08 Apr 2024 18:09:57 GMT</pubDate>
+      <title>虚拟现实如何减轻癌症疼痛</title>
+      <link>https://www.newsweek.com/cancer-virtual-reality-pain-study-georgetown-university-health-1887984</link>
+      <description><![CDATA[新闻周刊乔治敦大学医学院和 MedStar Health 的研究人员发现，短暂的虚拟现实会议可以显着减轻癌症患者的痛苦。在这项研究中，128 名患有中度或重度疼痛的癌症成年人接受了涉及平静、宜人的环境（如上所示）的沉浸式虚拟现实干预，或在 iPad 上获得了二维引导图像体验。虽然这两种干预措施都缓解了疼痛，但根据患者的反应，虚拟现实课程的影响更大。摘自“虚拟现实如何缓解癌症疼痛”
+新闻周刊 (04/08/24) 莉迪亚·史密斯 查看全文]]></description>
+      <guid>https://www.newsweek.com/cancer-virtual-reality-pain-study-georgetown-university-health-1887984</guid>
+      <pubDate>Wed, 10 Apr 2024 18:09:34 GMT</pubDate>
     </item>
     <item>
-      <title>保护隐私的机器人摄像头模糊了人类无法识别的图像</title>
-      <link>https://www.sydney.edu.au/news-opinion/news/2024/04/05/new-privacy-preserving-robotic-cameras-obscure-images-beyond-hum.html</link>
-      <description><![CDATA[悉尼大学（澳大利亚）澳大利亚悉尼大学和昆士兰科技大学的研究人员开发了一种隐私保护相机，可以在物联网设备使用的视觉信息数字化之前对其进行处理和扰乱。混淆过程发生在相机的光学器件和模拟电子器件中，而不是在相机的计算机中，从而提供了针对黑客的更好保护。摘自“隐私保护机器人相机模糊人类无法识别的图像”
-悉尼大学（澳大利亚）（04/05/24） 查看全文]]></description>
-      <guid>https://www.sydney.edu.au/news-opinion/news/2024/04/05/new-privacy-preserving-robotic-cameras-obscure-images-beyond-hum.html</guid>
-      <pubDate>Mon, 08 Apr 2024 18:09:57 GMT</pubDate>
+      <title>更好的生物传感器需要廉价的塑料</title>
+      <link>https://spectrum.ieee.org/organic-semiconductors-2667704065</link>
+      <description><![CDATA[IEEE Spectrum瑞典 KTH 皇家理工学院和斯德哥尔摩大学的研究人员证明，在有机半导体中添加聚苯乙烯可以提高电气性能，同时使用六分之一的有机材料。这可以让生物电子设备的生产变得更容易、更便宜。研究人员发现，与未稀释的半导体相比，用绝缘体稀释半导体材料的电气性能提高了三倍。摘自“更好的生物传感器需要廉价塑料”
+IEEE Spectrum (04/08/24) Gwendolyn Rak 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/organic-semiconductors-2667704065</guid>
+      <pubDate>Wed, 10 Apr 2024 18:09:34 GMT</pubDate>
     </item>
     <item>
-      <title>丹麦在 62 英里范围内发送量子加密消息</title>
-      <link>https://interestingengineering.com/innovation/quantum-key-distribution-distance-record</link>
-      <description><![CDATA[有趣的工程丹麦技术大学的研究人员使用连续可变量子密钥分发 (CV QKD) 将量子加密消息传输了超过 62 英里（100 公里）。研究人员利用机器学习来减少电磁辐射产生的噪声干扰，这些噪声干扰可能会扭曲或破坏量子密钥，并纠正因硬件干扰或缺陷而导致的密钥传输错误。 CV QKD 技术可与构成现有互联网基础设施的光纤电缆一起使用。摘自“丹麦在 62 英里范围内发送量子加密消息”
-有趣的工程 (04/03/24) Ameya Paleja 查看全文&lt; /a&gt;]]></description>
-      <guid>https://interestingengineering.com/innovation/quantum-key-distribution-distance-record</guid>
-      <pubDate>Mon, 08 Apr 2024 18:09:57 GMT</pubDate>
+      <title>日本公司称人工智能时代“社会秩序可能崩溃”</title>
+      <link>https://www.wsj.com/tech/ai/social-order-could-collapse-in-ai-era-two-top-japan-companies-say-1a71cc1d</link>
+      <description><![CDATA[《华尔街日报》在 4 月 8 日发布的人工智能宣言中，日本日本电报电话公司 (NTT) 和读卖新闻集团控股公司呼吁立法限制生成式人工智能。尽管承认生成式人工智能带来的生产力优势，但宣言表示，如果人工智能继续不受控制，“在最坏的情况下，民主和社会秩序可能崩溃，导致战争。”这些公司呼吁制定法律，保护选举和国家安全，防止生成型人工智能被滥用。摘自《日本公司表示，人工智能时代‘社会秩序可能崩溃’》
+华尔街日报 (04/07/24) Peter Landers 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/tech/ai/social-order-could-collapse-in-ai-era-two-top-japan-companies-say-1a71cc1d</guid>
+      <pubDate>Wed, 10 Apr 2024 18:09:33 GMT</pubDate>
     </item>
     <item>
-      <title>谁决定何时实现通用人工智能？</title>
-      <link>https://apnews.com/article/agi-artificial-general-intelligence-existential-risk-meta-openai-deepmind-science-ff5662a056d3cf3c5889a73e929e5a34</link>
-      <description><![CDATA[美联社虽然实现通用人工智能（AGI），即机器与人类一样聪明或可以像人类一样执行许多任务，是许多研究人员的目标，但没有标准来确定何时可以实现已达到。 5 月份在奥地利维也纳举行的 AGI 研讨会将重点讨论这种缺乏共识的问题。伊利诺伊大学厄巴纳-香槟分校的尤嘉轩表示，“这确实需要社区的努力和关注，以便我们能够就 AGI 的某种分类达成一致。”摘自《谁决定人工智能何时出现》达到了吗？”
-美联社 (04/04/24) 马特·奥布莱恩 查看全文]]></description>
-      <guid>https://apnews.com/article/agi-artificial-general-intelligence-existential-risk-meta-openai-deepmind-science-ff5662a056d3cf3c5889a73e929e5a34</guid>
-      <pubDate>Mon, 08 Apr 2024 18:09:56 GMT</pubDate>
+      <title>现代咖啡配送机器人独自乘坐电梯</title>
+      <link>https://newatlas.com/robotics/hyundai-kia-dal-e-delivery-robot/</link>
+      <description><![CDATA[New Atlas现代/起亚机器人实验室开发了用于办公楼的自主 DAL-e 送货机器人。该机器人配备了机载传感器，使其能够在复杂环境中避开障碍物，并具有实时最佳路线计算功能，以及人工智能面部识别系统，以确保送货到达正确的人手中。 DAL-e 机器人最多可搬运 22 磅的包裹，或最多 16 杯咖啡。摘自《现代咖啡配送机器人独自乘电梯》
+新地图集 (04/03/24) Paul Ridden 查看全文]]></description>
+      <guid>https://newatlas.com/robotics/hyundai-kia-dal-e-delivery-robot/</guid>
+      <pubDate>Wed, 10 Apr 2024 18:09:33 GMT</pubDate>
     </item>
     <item>
-      <title>美国、欧盟将利用人工智能寻找制造芯片的替代化学品</title>
-      <link>https://www.bloomberg.com/news/articles/2024-04-03/us-eu-to-use-ai-to-seek-alternate-chemicals-for-making-chips</link>
-      <description><![CDATA[彭博社美国和欧盟已承诺使用人工智能来识别半导体制造中使用的“永久化学品”的替代品。位于比利时的美国-欧盟联合贸易和技术委员会的一份声明草案表示：“我们计划探索利用人工智能能力和数字孪生，以加速发现合适的材料来替代半导体制造中的 PFAS（全氟和多氟物质） ”。美国和欧盟也将审查其供应链中遗留芯片的安全风险。摘自《美国、欧盟利用人工智能寻求制造芯片的替代化学品》
-彭博社 (04/03/24) 阿尔贝托·纳德利；黛比吴 查看完整文章 - 可能需要付费订阅]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-04-03/us-eu-to-use-ai-to-seek-alternate-chemicals-for-making-chips</guid>
-      <pubDate>Mon, 08 Apr 2024 18:09:56 GMT</pubDate>
+      <title>人体可以为智能纺织品提供动力</title>
+      <link>https://www.theguardian.com/technology/2024/apr/04/wearable-tech-how-the-human-body-can-help-power-the-future-of-smart-textiles</link>
+      <description><![CDATA[英国卫报中国的研究人员创造了基于纤维的电子产品，利用人体作为电路的一部分，利用大气中的电磁能。上海东华大学的侯成义解释说，“当电磁能穿过光纤时，它会被光纤转换成其他形式的能量，包括可见光和无线电波。”通过控制系统的各个方面，例如面积摘自“人体可以为智能纺织品提供动力”
+英国卫报 (04/04/24) Nicola Davis 查看全文]]></description>
+      <guid>https://www.theguardian.com/technology/2024/apr/04/wearable-tech-how-the-human-body-can-help-power-the-future-of-smart-textiles</guid>
+      <pubDate>Wed, 10 Apr 2024 18:09:32 GMT</pubDate>
     </item>
     <item>
-      <title>美国宇航局选择公司帮助宇航员绕月行驶</title>
-      <link>https://www.nytimes.com/2024/04/03/science/moon-nasa-lunar-terrain-vehicle.html</link>
-      <description><![CDATA[《纽约时报》NASA 官员已聘请德克萨斯州的 Intuitive Machines、科罗拉多州的 Lunar Outpost 和加利福尼亚州的 Venturi Astrolab 来开发电动月球地形车 (LTV) 的初步设计，该车辆的速度将能够达到充电一次，时速 9.3 英里，可行驶十几英里。完工后，NASA 将租用 LTV 供宇航员探索月球南极地区，之后它将留在月球上，充当自动驾驶机器人探索者。
-
-摘自“NASA 选择公司帮助宇航员绕月行驶”
-纽约时报 (04/03/24) Kenneth Chang 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/04/03/science/moon-nasa-lunar-terrain-vehicle.html</guid>
-      <pubDate>Mon, 08 Apr 2024 18:09:56 GMT</pubDate>
+      <title>PHP 在 Tiobe 语言流行指数中下降</title>
+      <link>https://www.infoworld.com/article/3715043/php-sinks-in-tiobe-language-popularity-index.html</link>
+      <description><![CDATA[信息世界PHP 在 4 月份编程语言流行度 Tiobe 指数中跌至历史最低位置，排名第 17 位。 Tiobe 4 月份最流行的 10 种编程语言是 Python、C、C++、Java、C#、JavaScript、Go、Visual Basic、SQL 和 Fortran。与此同时，Pypl 编程语言流行度指数 4 月份前 10 名分别是 Python、Java、JavaScript、C/C++、C#、R、PHP、TypeScript、Swift 和 Rust。摘自《PHP Sinks in》 Tiobe语言流行度指数&quot;
+InfoWorld (04/08/24) Paul Krill 查看全文]]></description>
+      <guid>https://www.infoworld.com/article/3715043/php-sinks-in-tiobe-language-popularity-index.html</guid>
+      <pubDate>Wed, 10 Apr 2024 18:09:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>3D 打印机弄清楚如何使用未知材料进行打印</title>
+      <link>https://news.mit.edu/2024/3d-printer-can-print-with-unknown-material-0408</link>
+      <description><![CDATA[麻省理工学院新闻麻省理工学院（MIT）、国家标准与技术研究所和希腊国家科学研究中心的研究人员开发的3D打印机可以自动生成未知材料的打印参数。研究人员修改了打印机的挤出机来测量材料的力和流量，然后将数据输入到自动生成参数的数学函数中。自动化方法取代了 3D 打印所需的大约一半的传统手动调整参数。摘自“3D 打印机弄清楚如何使用未知材料进行打印”
+麻省理工学院新闻 (04/08/24) Adam Zewe 查看全文]]></description>
+      <guid>https://news.mit.edu/2024/3d-printer-can-print-with-unknown-material-0408</guid>
+      <pubDate>Wed, 10 Apr 2024 18:09:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>维格德森因其在随机性方面的决定性工作而被任命为图灵奖获得者</title>
+      <link>https://cacm.acm.org/news/wigderson-named-turing-awardee-for-decisive-work-on-randomness/</link>
+      <description><![CDATA[ACM 通讯Avi Wigderson（如图）被评为 2023 年 ACM A.M.图灵奖获得者，因其对计算理论的贡献，特别是扩展了对随机性在计算和数学中所扮演的角色的理解。 Wigderson 目前是新泽西州普林斯顿高等研究院数学学院的教授，他还推进了对零知识证明的理解，零知识证明允许某人在保密的同时证明他们知道一些信息。&lt; br /&gt;摘自“Wigderson 因随机性方面的决定性工作而被授予图灵奖”
+ACM 通讯 (04/24) Neil Savage 查看全文]]></description>
+      <guid>https://cacm.acm.org/news/wigderson-named-turing-awardee-for-decisive-work-on-randomness/</guid>
+      <pubDate>Wed, 10 Apr 2024 18:09:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
