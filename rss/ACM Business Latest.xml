@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Wed, 10 Apr 2024 06:09:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 09:09:06 GMT</lastBuildDate>
+    <item>
+      <title>Sarcophagus 是你的加密钱包的死人开关</title>
+      <link>https://www.wired.com/story/sarcophagus-is-a-dead-mans-switch-for-your-crypto-wallet/</link>
+      <description><![CDATA[通过将百年理念与加密货币技术相结合，Sarcophagus 旨在创造一种万无一失的方式来从坟墓之外发送消息。]]></description>
+      <guid>https://www.wired.com/story/sarcophagus-is-a-dead-mans-switch-for-your-crypto-wallet/</guid>
+      <pubDate>Wed, 10 Apr 2024 07:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>蜜蜂与杀人黄蜂</title>
       <link>https://www.wired.com/story/bees-hornets-pollenize-invasive-species-united-kingdom/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>加密货币巨头 Do Kwon 被判对数十亿美元的欺诈负有责任</title>
       <link>https://www.wired.com/story/do-kwon-terraform-terraform-labs-liable-civil-charges/</link>
-      <description><![CDATA[当 Do Kwon 的加密货币帝国分崩离析时，数百亿美元被抹去。美国民事陪审团发现他对投资者撒谎。]]></description>
+      <description><![CDATA[当 Do Kwon 的加密帝国分崩离析时，数百亿美元被抹去。美国民事陪审团发现他对投资者撒谎。]]></description>
       <guid>https://www.wired.com/story/do-kwon-terraform-terraform-labs-liable-civil-charges/</guid>
       <pubDate>Fri, 05 Apr 2024 20:59:03 GMT</pubDate>
     </item>
@@ -99,16 +106,9 @@
     <item>
       <title>他将整个加密货币交易所清空到拇指驱动器上。然后他就消失了</title>
       <link>https://www.wired.com/story/faruk-ozer-turkey-crypto-fraud/</link>
-      <description><![CDATA[Faruk Özer 刚刚开始被判处 11,196 年监禁。他差一点就逃脱了土耳其历史上最大的抢劫案，还是这一切只是一个天大的误会？]]></description>
+      <description><![CDATA[Faruk Özer 刚刚开始被判处 11,196 年监禁。他差点就完成了土耳其历史上最大的抢劫案，还是这一切只是一场天大的误会？]]></description>
       <guid>https://www.wired.com/story/faruk-ozer-turkey-crypto-fraud/</guid>
       <pubDate>Tue, 02 Apr 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>TikTok Shop的超级补贴时代即将结束</title>
-      <link>https://www.wired.com/story/tiktok-shop-era-of-super-subsidies-is-ending/</link>
-      <description><![CDATA[该应用程序的购物功能通过提供看似好得令人难以置信的优惠赢得了卖家和购物者的青睐。现在 TikTok 正在提高卖家费用，这可能会转化为更高的价格。]]></description>
-      <guid>https://www.wired.com/story/tiktok-shop-era-of-super-subsidies-is-ending/</guid>
-      <pubDate>Mon, 01 Apr 2024 09:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
