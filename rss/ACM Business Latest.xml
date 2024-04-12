@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Fri, 12 Apr 2024 12:11:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 15:07:13 GMT</lastBuildDate>
+    <item>
+      <title>科技领袖曾一度呼吁人工智能监管。现在的信息是“慢下来”</title>
+      <link>https://www.wired.com/story/tech-ai-regulation-bill/</link>
+      <description><![CDATA[任何有关国会通过全面人工智能法案的梦想基本上都是幻觉。]]></description>
+      <guid>https://www.wired.com/story/tech-ai-regulation-bill/</guid>
+      <pubDate>Fri, 12 Apr 2024 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>没有人真正知道人工智能将如何影响工作</title>
       <link>https://www.wired.com/story/ai-impact-on-work-mary-daly-interview/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[一位出版商表示，OpenAI 的 GPT 商店中的一些聊天机器人是使用其受版权保护的教科书创建的。 OpenAI 已经取缔了一些机器人，但可能会面临权利持有者的更多投诉。]]></description>
       <guid>https://www.wired.com/story/openai-gpt-store-triggering-copyright-complaints/</guid>
       <pubDate>Thu, 04 Apr 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>以下是生成式人工智能如何描绘酷儿人群</title>
-      <link>https://www.wired.com/story/artificial-intelligence-lgbtq-representation-openai-sora/</link>
-      <description><![CDATA[《连线》杂志调查了 OpenAI 的 Sora 等人工智能工具目前如何描绘 LGBTQ 群体的成员。提示：有很多紫色的头发。]]></description>
-      <guid>https://www.wired.com/story/artificial-intelligence-lgbtq-representation-openai-sora/</guid>
-      <pubDate>Tue, 02 Apr 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
