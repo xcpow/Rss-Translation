@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Mon, 15 Apr 2024 18:09:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 21:08:20 GMT</lastBuildDate>
+    <item>
+      <title>Airchat 是硅谷最新的痴迷</title>
+      <link>https://www.wired.com/story/airchat-app-social-audio/</link>
+      <description><![CDATA[现在是另一个音频优先的社交网络的时候了，它有很长的等待名单和模糊的审核政策。可能会出什么问题？]]></description>
+      <guid>https://www.wired.com/story/airchat-app-social-audio/</guid>
+      <pubDate>Mon, 15 Apr 2024 20:20:36 GMT</pubDate>
+    </item>
     <item>
       <title>加密货币 FOMO 又回来了。骗局也是如此</title>
       <link>https://www.wired.com/story/cryptocurrency-scams-memecoins/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[Zen Goziker 在 TikTok 只工作了六个月。他对公司和美国政府的许多指控都是不可能的。但他仍然可能影响了华盛顿对该应用程序的看法。]]></description>
       <guid>https://www.wired.com/story/tiktok-whistleblower-got-dcs-attention-do-his-claims-add-up/</guid>
       <pubDate>Thu, 04 Apr 2024 19:47:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>打造更好的人工智能超级计算机，要有光</title>
-      <link>https://www.wired.com/story/build-a-better-ai-supercomputer-let-there-be-light/</link>
-      <description><![CDATA[OpenAI 和其他人工智能领导者认为，机器智能的新飞跃将需要新形式的计算机硬件。一项提议涉及将 GPU 与光连接起来。]]></description>
-      <guid>https://www.wired.com/story/build-a-better-ai-supercomputer-let-there-be-light/</guid>
-      <pubDate>Thu, 04 Apr 2024 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
