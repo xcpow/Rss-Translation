@@ -4,94 +4,110 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Mon, 15 Apr 2024 15:04:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 18:09:12 GMT</lastBuildDate>
     <item>
-      <title>苹果取消了对 iPhone 维修的一些限制</title>
-      <link>https://www.nytimes.com/2024/04/11/technology/apple-iphone-repairs-parts.html</link>
-      <description><![CDATA[《纽约时报》苹果公司表示，将放宽使用旧零部件维修新款 iPhone 的限制，这与之前使用软件鼓励人们使用新的、更昂贵的苹果认可零部件的做法相反。 。这一变化是在俄勒冈州通过一项法律，禁止苹果将零部件与软件捆绑在一起的做法之后发生的。其他十几个州也在考虑类似的法案。摘自“苹果取消了对 iPhone 维修的一些限制”
-纽约时报 (04/12/24) Tripp Mickle； Brian X. Chen 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/04/11/technology/apple-iphone-repairs-parts.html</guid>
-      <pubDate>Mon, 15 Apr 2024 15:04:48 GMT</pubDate>
+      <title>Tiny Tech 消耗更少的功率测量量子位</title>
+      <link>https://interestingengineering.com/science/bacterium-sized-tech-measures-qubits</link>
+      <description><![CDATA[有趣的工程芬兰阿尔托大学的研究人员开发的微型设备可以测量量子位（qubit），同时有助于规避海森堡不确定性原理。辐射热测量计测量光子的数量或功率，并且比传统的基于放大器的设备小 100 倍。 Aalto 的 Mikko Möttönen 说道：“我们发现这些测辐射热计对于单次读数足够准确，不会增加量子噪声，而且它们的功耗比典型放大器低 10,000 倍。” “微型技术消耗更少的功率测量量子位”
+有趣的工程 (04/10/24) Ameya Paleja 查看全文&lt; /a&gt;]]></description>
+      <guid>https://interestingengineering.com/science/bacterium-sized-tech-measures-qubits</guid>
+      <pubDate>Wed, 17 Apr 2024 18:09:12 GMT</pubDate>
     </item>
     <item>
-      <title>人形机器人展示足球技能</title>
-      <link>https://www.newscientist.com/article/2426328-watch-mini-humanoid-robots-showing-off-their-football-skills/</link>
-      <description><![CDATA[新科学家Google DeepMind 研究人员使用深度强化学习来训练两足机器人行走、转身踢球以及跌倒后站起来。经过 240 小时的深度强化学习，与使用预先编写的技能的机器人相比，电池供电的 Robotis OP3 机器人行走速度快了 181%，转身速度快了 302%，踢球的力度提高了 34%，站起来的速度快了 63%。研究人员使用物理引擎来模拟训练案例，而不是让机器人通过重复尝试任务来学习。摘自《人形机器人秀足球技能》
-新科学家 (04/10/24) Chris Stokel-Walker 查看完整文章 - 可能需要付费订阅]]></description>
-      <guid>https://www.newscientist.com/article/2426328-watch-mini-humanoid-robots-showing-off-their-football-skills/</guid>
-      <pubDate>Mon, 15 Apr 2024 15:04:48 GMT</pubDate>
+      <title>数百万玩家推动生物医学研究</title>
+      <link>https://www.mcgill.ca/newsroom/channels/news/millions-gamers-advance-biomedical-research-356750</link>
+      <description><![CDATA[麦吉尔大学（加拿大）由加拿大麦吉尔大学研究人员领导的团队利用 450 万《无主之地科学》玩家（《无主之地 3》视频游戏中的一款迷你游戏）来帮助重建细菌的进化历史在人类肠道中。作为全球最大的公民科学项目之一的一部分，玩家将代表不同微生物基因构件的一排排瓷砖对齐。麦吉尔大学的 Jéróme Waldispühl 表示：“在半天内，《无主之地科学》玩家收集到的微生物 DNA 序列数据比我们之前的游戏 Phylo 在 10 年间收集的数据多了五倍。”摘自“数百万玩家推进生物医学研究”
+麦吉尔大学（加拿大）(04/15/24) 查看全文]]></description>
+      <guid>https://www.mcgill.ca/newsroom/channels/news/millions-gamers-advance-biomedical-research-356750</guid>
+      <pubDate>Wed, 17 Apr 2024 18:09:11 GMT</pubDate>
     </item>
     <item>
-      <title>英超联赛将使用半自动越位技术</title>
-      <link>https://www.theguardian.com/football/2024/apr/11/premier-league-to-use-semi-automated-offside-speed-up-var-calls</link>
-      <description><![CDATA[英国卫报英国英超联赛将从下赛季开始推出半自动越位技术。在试验期间，该技术将视频助理裁判 (VAR) 的决策时间平均缩短了 31 秒。该系统使用摄像机镜头和跟踪软件来确定潜在越位期间球员的位置。 VAR 将不再需要手动在摄像机图像中添加线条，但在进球时可能需要做出越位决定。摘自“英超联赛将使用半自动越位技术”
-英国卫报 (04/11/24) Paul MacInnes]]></description>
-      <guid>https://www.theguardian.com/football/2024/apr/11/premier-league-to-use-semi-automated-offside-speed-up-var-calls</guid>
-      <pubDate>Mon, 15 Apr 2024 15:04:47 GMT</pubDate>
+      <title>人工智能芯片削减能源预算</title>
+      <link>https://spectrum.ieee.org/optical-neural-network</link>
+      <description><![CDATA[IEEE Spectrum中国清华大学和北京信息科学技术国家研究中心的研究人员开发的微芯片使用光子而不是电子来运行人工智能任务，具有更高的能源效率。研究人员采用了一种混合方法，结合了可以压缩数据以进行大规模输入和输出的衍射单元簇，以及用于可重新配置计算的干涉仪阵列。 Taichi 微芯片将计算分布在多个并行运行的小芯片上，拥有 1396 万个参数，模仿连接人脑神经元的突触。摘自“AI 芯片调整能源预算”
+IEEE Spectrum (04/12/24) Charles Q. Choi 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/optical-neural-network</guid>
+      <pubDate>Wed, 17 Apr 2024 18:09:11 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能帮助保护野生动物免受道路事故的影响</title>
-      <link>https://www.techtimes.com/articles/303436/20240410/ai-protecting-wild-animals-avoid-accidents-road.htm</link>
-      <description><![CDATA[科技时报巴西圣保罗大学数学与计算机科学研究所的研究人员开发了一种计算机视觉模型，可以保护野火免受道路事故的影响。该模型在易受交通事故影响的巴西哺乳动物综合数据库上进行训练，并利用 You Only Look Once (YOLO) 算法的实时物体检测功能。该系统结合了便携式计算机和路边摄像头，可以提醒驾驶员采取预防措施，避免与野生动物发生碰撞。摘自《人工智能帮助保护野生动物免受道路事故》
-科技时报 (04/10/24) Jace Dela Cruz 查看全文]]></description>
-      <guid>https://www.techtimes.com/articles/303436/20240410/ai-protecting-wild-animals-avoid-accidents-road.htm</guid>
-      <pubDate>Mon, 15 Apr 2024 15:04:47 GMT</pubDate>
+      <title>Instagram 测试影响者的聊天机器人版本</title>
+      <link>https://www.nytimes.com/2024/04/15/technology/instagram-influencers-chatbots.html</link>
+      <description><![CDATA[《纽约时报》Instagram 正在测试 Creator AI，该程序将使受欢迎的影响者能够通过 AI 与粉丝互动。消息人士称，Creator AI 是一款聊天机器人，可以通过直接消息和潜在评论与粉丝交谈，模仿影响者的“声音”，帮助创作者回复消息和评论。创作者人工智能将自动发送消息，至少在最初阶段披露这些消息是由人工智能生成的，并允许创作者选择用于复制其声音并指示对特定问题的回答的数据。来自“Instagram测试影响者的聊天机器人版本”
+纽约时报 (04/15/24) Sapna Maheshwari；迈克·艾萨克 查看全文  - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/04/15/technology/instagram-influencers-chatbots.html</guid>
+      <pubDate>Wed, 17 Apr 2024 18:09:10 GMT</pubDate>
     </item>
     <item>
-      <title>算法将 iPhone 变成全息投影仪</title>
-      <link>https://scitechdaily.com/unlocking-the-future-of-vr-new-algorithm-turns-iphones-into-holographic-projectors/</link>
-      <description><![CDATA[SciTechDaily日本东京大学 Ryoichi Horisaki 领导的研究人员发明了一种使用智能手机屏幕生成 3D 全彩全息图像的方法。利用他们开发的算法，该团队使用 iPhone 和称为空间光调制器的光学组件来再现由两个全息层组成的 3D 彩色图像。生成的图像每边尺寸为几毫米。摘自“算法将 iPhone 变成全息投影仪”
-SciTechDaily (04/13/24) 查看全文]]></description>
-      <guid>https://scitechdaily.com/unlocking-the-future-of-vr-new-algorithm-turns-iphones-into-holographic-projectors/</guid>
-      <pubDate>Mon, 15 Apr 2024 15:04:46 GMT</pubDate>
+      <title>G7 国家的居民对人形机器人感到不舒服</title>
+      <link>https://www.euronews.com/next/2024/04/12/humanoids-no-thanks-most-g7-countries-feel-uncomfortable-with-the-most-advanced-robots</link>
+      <description><![CDATA[EuronewsUnited Robotics 对美国、法国、加拿大、意大利和德国近 8,000 名居民进行的一项调查发现，近 80% 的人担心人形机器人会抢走工作。另外 71% 的人担心此类机器人会在社交互动中扮演人类角色，平均近三分之二 (60%) 的受访者不希望人形机器人具有人类特征。来自《 G7国家居民对人形机器人感到不舒服”
+欧洲新闻 (04/12/24) Alessio Dell&#39;Anna 查看全文]]></description>
+      <guid>https://www.euronews.com/next/2024/04/12/humanoids-no-thanks-most-g7-countries-feel-uncomfortable-with-the-most-advanced-robots</guid>
+      <pubDate>Wed, 17 Apr 2024 18:09:10 GMT</pubDate>
     </item>
     <item>
-      <title>Go 语言在人工智能驱动的工作负载中大放异彩</title>
-      <link>https://www.infoworld.com/article/3715200/go-language-shines-for-ai-powered-workloads-survey-says.html</link>
-      <description><![CDATA[信息世界Google Go 团队进行的 2024 年上半年 Go 开发者调查显示，人工智能驱动的应用程序和服务的开发人员将 Go 编程语言视为运行这些应用程序和服务的强大平台工作负载。然而，大多数人开始使用 Python 进行人工智能驱动的工作，然后再过渡到更“生产就绪”的语言。在接受调查的 6,224 名开发者中，93% 的受访者对过去一年中的 Go 表示满意，而 42% 的受访者表示对 Go 服务中的不安全编码实践表示担忧。摘自《Go 语言闪耀人工智能——供电工作负载“
-InfoWorld (04/10/24) Paul Krill 查看全文]]></description>
-      <guid>https://www.infoworld.com/article/3715200/go-language-shines-for-ai-powered-workloads-survey-says.html</guid>
-      <pubDate>Mon, 15 Apr 2024 15:04:46 GMT</pubDate>
+      <title>耗能人工智能也是节能的未来</title>
+      <link>https://www.wsj.com/business/energy-oil/ai-data-centers-energy-savings-d602296e</link>
+      <description><![CDATA[据芯片设计公司 Arm 的首席执行官称，到 2030 年，人工智能数据中心可能占美国用电量的四分之一，高于目前的 4%。然而，人工智能可能是识别潜在节能的重要工具。施耐德电气首席执行官 Peter Herweck 表示，在人工智能的帮助下，未来四年建筑物的能源消耗可减少 15% 至 25%。来自“能源消耗大的人工智能也是节能的未来” “
+华尔街日报 (04/12/24) 卡罗尔·瑞安 查看完整文章 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/business/energy-oil/ai-data-centers-energy-savings-d602296e</guid>
+      <pubDate>Wed, 17 Apr 2024 18:09:09 GMT</pubDate>
     </item>
     <item>
-      <title>35 克跳直升机 啤酒花、苍蝇</title>
-      <link>https://interestingengineering.com/innovation/35-gram-hopcopter-revolutionizes-robotics-with-its-hops-and-flight</link>
-      <description><![CDATA[有趣的工程香港城市大学研究人员开发的混合机器人可以跳跃、飞行和旋转。这款重 35 克的 Hopcopter 是一款带有被动伸缩腿的迷你四轴飞行器，在空中飞行时依靠现有的旋翼进行驱动。 Hopcopter 的跳跃高度可达 1.63 米，垂直跳跃平均速度为每秒 2.38 米。它还可以快速调整速度和方向以避免碰撞。来自“35克跳直升机跳跃，飞翔”
-有趣的工程（04/10/24）Jijo Maleil 查看全文]]></description>
-      <guid>https://interestingengineering.com/innovation/35-gram-hopcopter-revolutionizes-robotics-with-its-hops-and-flight</guid>
-      <pubDate>Mon, 15 Apr 2024 15:04:45 GMT</pubDate>
+      <title>由计算机控制的机器人蟑螂群</title>
+      <link>https://www.newscientist.com/article/2424745-watch-a-swarm-of-cyborg-cockroaches-controlled-by-computers/</link>
+      <description><![CDATA[新科学家新加坡南洋理工大学的研究人员证明，由 20 只遥控机器人组成的蟑螂群可以成群结队地前往某个地点，在沙漠般的景观中穿行，而不会与障碍物或彼此发生碰撞。蟑螂通过装有电池、微型计算机和天线的背包进行控制，该背包与中央计算机通信，确定蟑螂群的方向。摘自“计算机控制的机器人蟑螂群”
+新科学家 (04/16/24) 马修·斯帕克斯 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.newscientist.com/article/2424745-watch-a-swarm-of-cyborg-cockroaches-controlled-by-computers/</guid>
+      <pubDate>Wed, 17 Apr 2024 18:09:09 GMT</pubDate>
     </item>
     <item>
-      <title>小型浏览器根据欧盟技术法获得市场份额</title>
-      <link>https://www.reuters.com/technology/eus-new-tech-laws-are-working-small-browsers-gain-market-share-2024-04-10/</link>
-      <description><![CDATA[路透社自3月7日欧盟数字市场法案实施以来，独立浏览器的用户数量有所增加。该法律要求谷歌、微软和苹果允许移动设备用户从可用的网络浏览器列表中进行选择，作为增加竞争的手段。 “选择屏幕”的增加增加了塞浦路斯的 Aloha 浏览器、挪威的 Vivaldi 和 Opera、德国的 Ecosia 以及美国的 Brave 和 DuckDuckGo 的用户数量。摘自“小型浏览器在以下情况下获得市场份额”欧盟科技法
-路透社 (04/10/24) Supantha Mukherjee；符润芝 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/eus-new-tech-laws-are-working-small-browsers-gain-market-share-2024-04-10/</guid>
-      <pubDate>Mon, 15 Apr 2024 15:04:45 GMT</pubDate>
+      <title>太赫兹波弯曲以避免阻塞</title>
+      <link>https://scitechdaily.com/how-curved-terahertz-waves-could-revolutionize-wireless-communication/</link>
+      <description><![CDATA[SciTechDaily来自布朗大学和莱斯大学的一组研究人员开发了一种方法，可以在固体物体周围弯曲太赫兹波，否则这些物体会阻挡太赫兹波。研究人员创造了能够操纵产生的电磁波的强度、强度和时间的发射器。他们使用这些发射器创建太赫兹信号，该信号遵循围绕障碍物的弯曲轨迹，而不是被障碍物阻挡。摘自“太赫兹波弯曲以避免阻挡”
+SciTechDaily (04/12/24) 查看全文文章]]></description>
+      <guid>https://scitechdaily.com/how-curved-terahertz-waves-could-revolutionize-wireless-communication/</guid>
+      <pubDate>Wed, 17 Apr 2024 18:09:08 GMT</pubDate>
     </item>
     <item>
-      <title>Rust 缺陷导致 Windows 命令注入攻击</title>
-      <link>https://www.bleepingcomputer.com/news/security/critical-rust-flaw-enables-windows-command-injection-attacks/</link>
-      <description><![CDATA[BleepingComputerRust 标准库中的安全漏洞可能被黑客用来发起针对 Windows 系统的命令注入攻击。该漏洞源于操作系统命令和参数注入的弱点。 Rust 安全响应工作组表示，已收到通知，Rust 标准库在使用 Command API 在 Windows 上调用批处理文件时没有正确转义参数。发现该漏洞的 Flatt 安全工程师 RyotaK 表示，该漏洞还会影响其他主要编程语言。摘自《Rust Flaw Enables Windows Command Injection Attacks》
-BleepingComputer (04/09/24) Sergiu Gatlan 查看全文]]></description>
-      <guid>https://www.bleepingcomputer.com/news/security/critical-rust-flaw-enables-windows-command-injection-attacks/</guid>
-      <pubDate>Mon, 15 Apr 2024 15:04:44 GMT</pubDate>
+      <title>索尼与《自然》杂志为女性研究人员设立奖项</title>
+      <link>https://www.asahi.com/ajw/articles/15205952</link>
+      <description><![CDATA[朝日新闻（日本）索尼集团公司和《自然》杂志宣布与《自然》杂志共同设立索尼女性技术奖，这是一项表彰女性技术研究人员的国际奖项。前三名获奖者将于明年初公布，届时每人将获得 25 万美元的研究经费。 《自然》杂志主编 Magdalena Skipper（如图）说道：“我们可以提供一个全球平台来庆祝新兴女性研究人员和工程师的工作，否则她们可能会默默无闻。”摘自“索尼《自然》为女性研究人员设立奖”
+朝日新闻（日本）(04/13/24) Takahiro Takenouchi 查看全文&lt; /a&gt;]]></description>
+      <guid>https://www.asahi.com/ajw/articles/15205952</guid>
+      <pubDate>Wed, 17 Apr 2024 18:09:08 GMT</pubDate>
     </item>
     <item>
-      <title>突破可能预示着安全量子计算</title>
-      <link>https://www.computerweekly.com/news/366580238/Breakthrough-may-herald-secure-home-quantum-computing</link>
-      <description><![CDATA[《计算机周刊》英国牛津大学的科学家使用“盲量子计算”安全连接两个量子计算实体。该团队创建了一个系统，由连接量子计算服务器的普通光纤网络链路和一个简单的设备组成，该设备用于在远程访问服务器的独立客户端计算机上检测光子。利用量子存储器和光子的独特组合，研究人员使用服务器上的样本数据远程执行计算，而服务器在任何时候都不会看到任何数据。摘自“突破五月预示安全量子计算” “
-计算机周刊 (04/11/24) Alex Scroxton 查看全文]]></description>
-      <guid>https://www.computerweekly.com/news/366580238/Breakthrough-may-herald-secure-home-quantum-computing</guid>
-      <pubDate>Mon, 15 Apr 2024 15:04:44 GMT</pubDate>
+      <title>微软通过入股阿布扎比公司加大与中国人工智能竞赛的赌注</title>
+      <link>https://www.wsj.com/tech/ai/microsoft-to-invest-1-5-billion-in-u-a-e-ai-firm-52988bab</link>
+      <description><![CDATA[华尔街日报微软将向 G42 投资 15 亿美元，G42 是一家总部位于阿布扎比并得到阿联酋政府支持的科技公司。该协议包括一项确保人工智能安全的政府间协议，并涉及为阿联酋创建“一支熟练且多样化的人工智能劳动力队伍”，并为开发者提供 10 亿美元的基金。 G42 将在其人工智能应用中使用微软的云服务。摘自《微软通过入股阿布扎比公司，在与中国的人工智能竞赛中加大赌注》
+华尔街日报 (04/16/24) Rory Jones 查看全文]]></description>
+      <guid>https://www.wsj.com/tech/ai/microsoft-to-invest-1-5-billion-in-u-a-e-ai-firm-52988bab</guid>
+      <pubDate>Wed, 17 Apr 2024 18:09:07 GMT</pubDate>
     </item>
     <item>
-      <title>中东人工智能霸主之争以数据中心衡量</title>
-      <link>https://www.bloomberg.com/news/articles/2024-04-11/race-for-ai-supremacy-in-middle-east-is-measured-in-data-centers</link>
-      <description><![CDATA[彭博社沙特阿拉伯和阿拉伯联合酋长国之间为成为地区人工智能超级大国而展开的竞争，引发了一场建造昂贵的沙漠数据中心来支持该技术的竞赛。根据研究公司 DC Byte 的数据，去年年底，阿联酋的数据中心容量为 235 兆瓦，沙特阿拉伯为 123 兆瓦，而德国为 1,060 兆瓦。为了缩小差距，阿联酋计划将产能扩大 343 兆瓦，而沙特阿拉伯则表示希望在未来几年内增加 467 兆瓦。摘自《中东人工智能霸权竞赛》在数据中心”
-彭博社 (04/11/24) 玛丽莎·纽曼；奥利维亚·索伦；马克·伯根 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-04-11/race-for-ai-supremacy-in-middle-east-is-measured-in-data-centers</guid>
-      <pubDate>Mon, 15 Apr 2024 15:04:43 GMT</pubDate>
+      <title>浏览器界面中的安全漏洞允许计算机通过显卡访问</title>
+      <link>https://www.tugraz.at/en/tu-graz/services/news-stories/tu-graz-news/singleview/article/sicherheitsluecke-in-browser-schnittstelle-erlaubt-rechnerzugriff-ueber-grafikkarte</link>
+      <description><![CDATA[格拉茨科技大学（奥地利）奥地利格拉茨理工大学 (TU Graz) 的研究人员使用 WebGPU 浏览器界面演示了对显卡的三种侧通道攻击，通过这些攻击，他们获得了其他人的数据、击键和加密密钥等信息。的计算机。格拉茨工业大学的 Lukas Giner（如图）说道：“通过我们的工作，我们希望向浏览器制造商明确指出，他们需要像处理影响安全和隐私的其他资源一样处理对 GPU 的访问。”摘自《浏览器界面中的安全漏洞允许通过显卡访问计算机》
+格拉茨科技大学（奥地利） (04/15/24) Falko Schoklitsch 查看全文]]></description>
+      <guid>https://www.tugraz.at/en/tu-graz/services/news-stories/tu-graz-news/singleview/article/sicherheitsluecke-in-browser-schnittstelle-erlaubt-rechnerzugriff-ueber-grafikkarte</guid>
+      <pubDate>Wed, 17 Apr 2024 18:09:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>技术有助于加快游客进入美国的速度</title>
+      <link>https://learningenglish.voanews.com/a/technology-helps-speed-up-tourist-entry-into-us/7557386.html</link>
+      <description><![CDATA[美国之音新闻美国海关与边境保护局 (CBP) 的移动护照控制应用程序旨在加快包括家庭在内的旅行者的入境流程。该应用程序允许上传信息和照片的个人前往单独的线路进行输入处理。对于家庭，CBP 官员将为其中一名成员拍照，图像被计算机识别后，它会提供处理整个团体所需的信息。摘自《科技帮助加快旅游速度》进入美国”
+美国之音新闻 (04/14/24) 查看全文]]></description>
+      <guid>https://learningenglish.voanews.com/a/technology-helps-speed-up-tourist-entry-into-us/7557386.html</guid>
+      <pubDate>Wed, 17 Apr 2024 18:09:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>英特尔推出最大的神经拟态系统</title>
+      <link>https://www.intel.com/content/www/us/en/newsroom/news/intel-builds-worlds-largest-neuromorphic-system.html#gs.83gvd9</link>
+      <description><![CDATA[英特尔新闻稿英特尔今天宣布打造出全球最大的神经拟态系统。该研究原型系统代号为 Hala Point，支持分布在 140,544 个神经形态处理核心上的多达 11.5 亿个神经元和 1,280 亿个突触，最大功耗为 2,600 瓦。英特尔的 Mike Davies 表示，Hala Point“将深度学习效率与新颖的类脑学习和优化功能相结合。”摘自“英特尔推出最大的神经拟态系统”
+英特尔新闻稿 (04/17/24) 查看全文]]></description>
+      <guid>https://www.intel.com/content/www/us/en/newsroom/news/intel-builds-worlds-largest-neuromorphic-system.html#gs.83gvd9</guid>
+      <pubDate>Wed, 17 Apr 2024 18:09:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
