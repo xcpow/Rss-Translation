@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业最新</title>
+    <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Wed, 17 Apr 2024 03:07:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 06:11:29 GMT</lastBuildDate>
+    <item>
+      <title>谷歌员工因抗议与以色列的云合同而被警方拘留</title>
+      <link>https://www.wired.com/story/nine-google-workers-detained-by-police-protest-israel-cloud-contract/</link>
+      <description><![CDATA[视频显示，九名谷歌员工在纽约和加利福尼亚州桑尼维尔的办公室被警方带走，原因是他们占领了这些办公室，抗议与以色列政府达成的云协议。]]></description>
+      <guid>https://www.wired.com/story/nine-google-workers-detained-by-police-protest-israel-cloud-contract/</guid>
+      <pubDate>Wed, 17 Apr 2024 04:41:26 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌员工抗议与以色列政府签订的云合同</title>
       <link>https://www.wired.com/story/google-no-tech-for-apartheid-project-nimbus-israel-gaza-protest/</link>
@@ -69,9 +76,9 @@
       <pubDate>Tue, 09 Apr 2024 15:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>学生可能会用人工智能撰写数百万篇论文</title>
+      <title>学生可能会利用人工智能撰写数百万篇论文</title>
       <link>https://www.wired.com/story/student-papers-generative-ai-turnitin/</link>
-      <description><![CDATA[Turnitin 是一项检查论文是否抄袭的服务，该服务表示，其检测工具发现了数百万篇论文，其中可能包含大量人工智能生成的内容。]]></description>
+      <description><![CDATA[Turnitin 是一项检查论文是否抄袭的服务，它表示，其检测工具发现数百万篇论文可能包含大量人工智能生成的内容。]]></description>
       <guid>https://www.wired.com/story/student-papers-generative-ai-turnitin/</guid>
       <pubDate>Tue, 09 Apr 2024 13:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[当 Do Kwon 的加密帝国分崩离析时，数百亿美元被抹去。美国民事陪审团发现他对投资者撒谎。]]></description>
       <guid>https://www.wired.com/story/do-kwon-terraform-terraform-labs-liable-civil-charges/</guid>
       <pubDate>Fri, 05 Apr 2024 20:59:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>这家人工智能初创公司希望你能与房屋、汽车和工厂对话</title>
-      <link>https://www.wired.com/story/plaintext-ai-startup-archetype-talk-to-houses-cars-and-factories/</link>
-      <description><![CDATA[Archetype 构建的 AI 模型充当人类与复杂传感器之间的翻译层，使用通俗易懂的语言帮助人们了解建筑物、汽车或人体内发生的事情]]></description>
-      <guid>https://www.wired.com/story/plaintext-ai-startup-archetype-talk-to-houses-cars-and-factories/</guid>
-      <pubDate>Fri, 05 Apr 2024 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
