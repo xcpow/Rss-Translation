@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Thu, 18 Apr 2024 03:07:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 06:09:52 GMT</lastBuildDate>
+    <item>
+      <title>谷歌因抗议与以色列的云协议而解雇 28 名员工</title>
+      <link>https://www.wired.com/story/google-fires-twenty-eight-workers-for-protesting-cloud-deal-with-israel/</link>
+      <description><![CDATA[被解雇的员工包括九名谷歌员工，他们在周二占领谷歌办公室后被警方带走。]]></description>
+      <guid>https://www.wired.com/story/google-fires-twenty-eight-workers-for-protesting-cloud-deal-with-israel/</guid>
+      <pubDate>Thu, 18 Apr 2024 04:08:44 GMT</pubDate>
+    </item>
     <item>
       <title>豪华 Airbnb 高层建筑正在重塑迈阿密的天际线</title>
       <link>https://www.wired.com/story/luxury-airbnb-high-rises-are-reshaping-miamis-skyline/</link>
@@ -55,14 +62,14 @@
       <pubDate>Fri, 12 Apr 2024 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>没有人真正知道人工智能将如何影响就业</title>
+      <title>没有人真正知道人工智能将如何影响工作</title>
       <link>https://www.wired.com/story/ai-impact-on-work-mary-daly-interview/</link>
       <description><![CDATA[一些企业正在用人工智能取代人类；其他人正在增加劳动力或雇用新工人。对劳动力的长期影响尚不清楚。]]></description>
       <guid>https://www.wired.com/story/ai-impact-on-work-mary-daly-interview/</guid>
       <pubDate>Thu, 11 Apr 2024 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>埃里克·施密特警告中国人工智能行业。电子邮件显示他还寻求与该行业建立联系</title>
+      <title>埃里克·施密特对中国人工智能产业发出警告。电子邮件显示他也寻求与之建立联系</title>
       <link>https://www.wired.com/story/eric-schmidt-china-ai-ties/</link>
       <description><![CDATA[透明度倡导者表示，埃里克·施密特追求与中国人工智能公司的“个人”联系代表了令人担忧的利益冲突。]]></description>
       <guid>https://www.wired.com/story/eric-schmidt-china-ai-ties/</guid>
@@ -90,7 +97,7 @@
       <pubDate>Tue, 09 Apr 2024 15:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>学生可能会利用人工智能撰写数百万篇论文</title>
+      <title>学生可能会用人工智能撰写数百万篇论文</title>
       <link>https://www.wired.com/story/student-papers-generative-ai-turnitin/</link>
       <description><![CDATA[Turnitin 是一项检查论文是否抄袭的服务，该服务表示，其检测工具发现了数百万篇论文，其中可能包含大量人工智能生成的内容。]]></description>
       <guid>https://www.wired.com/story/student-papers-generative-ai-turnitin/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[在雅尼斯·瓦鲁法基斯 (Yanis Varoufakis) 的最新著作中，这位希腊前财政部长认为，苹果和 Meta 等公司对待用户就像对待现代农奴一样。]]></description>
       <guid>https://www.wired.com/story/yanis-varoufakis-technofeudalism-interview/</guid>
       <pubDate>Tue, 09 Apr 2024 06:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何成为一名 Python 程序员，并如何失去对机器的热爱</title>
-      <link>https://www.wired.com/story/how-i-became-a-python-programmer-and-distanced-myself-from-the-machine/</link>
-      <description><![CDATA[当我开始编码时，我对所有抽象都持怀疑态度。然后我发现了 Django 框架。]]></description>
-      <guid>https://www.wired.com/story/how-i-became-a-python-programmer-and-distanced-myself-from-the-machine/</guid>
-      <pubDate>Mon, 08 Apr 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
