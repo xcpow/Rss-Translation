@@ -4,7 +4,21 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Thu, 18 Apr 2024 15:07:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 18:09:00 GMT</lastBuildDate>
+    <item>
+      <title>特斯拉的裁员并不能解决其成长的烦恼</title>
+      <link>https://www.wired.com/story/tesla-robotaxi-pivot-china/</link>
+      <description><![CDATA[该汽车公司普及了电动汽车。现在，面对来自中国的激烈竞争，它必须弄清楚下一步该做什么。]]></description>
+      <guid>https://www.wired.com/story/tesla-robotaxi-pivot-china/</guid>
+      <pubDate>Thu, 18 Apr 2024 16:47:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果你的人工智能女友讨厌你怎么办？</title>
+      <link>https://www.wired.com/story/what-if-your-ai-girlfriend-hated-you/</link>
+      <description><![CDATA[AngryGF 提供了一个永远愤怒的聊天机器人，旨在教男人更好的沟通技巧。 《连线》杂志试了一下。]]></description>
+      <guid>https://www.wired.com/story/what-if-your-ai-girlfriend-hated-you/</guid>
+      <pubDate>Thu, 18 Apr 2024 16:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>实时 Deepfake 浪漫骗局已经到来</title>
       <link>https://www.wired.com/story/yahoo-boys-real-time-deepfake-scams/</link>
@@ -71,7 +85,7 @@
     <item>
       <title>没有人真正知道人工智能将如何影响工作</title>
       <link>https://www.wired.com/story/ai-impact-on-work-mary-daly-interview/</link>
-      <description><![CDATA[一些企业正在用人工智能取代人类；其他人正在增加劳动力或雇用新工人。对劳动力的长期影响尚不清楚。]]></description>
+      <description><![CDATA[一些企业正在用人工智能取代人工；另一些企业则在扩充员工队伍或雇佣新员工。这对劳动力的长期影响尚不明朗。]]></description>
       <guid>https://www.wired.com/story/ai-impact-on-work-mary-daly-interview/</guid>
       <pubDate>Thu, 11 Apr 2024 16:00:00 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[通过将百年理念与加密货币技术相结合，Sarcophagus 旨在创造一种万无一失的方式来从坟墓之外发送消息。]]></description>
       <guid>https://www.wired.com/story/sarcophagus-is-a-dead-mans-switch-for-your-crypto-wallet/</guid>
       <pubDate>Wed, 10 Apr 2024 07:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Beeper 挑战了苹果 iMessage 的统治地位。现在已经被收购了</title>
-      <link>https://www.wired.com/story/beeper-acquired-by-automattic/</link>
-      <description><![CDATA[这款将绿色聊天气泡变成蓝色的应用程序已被 WordPress.com 和 Tumblr 的母公司 Automattic 收购。]]></description>
-      <guid>https://www.wired.com/story/beeper-acquired-by-automattic/</guid>
-      <pubDate>Tue, 09 Apr 2024 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>学生可能会用人工智能撰写数百万篇论文</title>
-      <link>https://www.wired.com/story/student-papers-generative-ai-turnitin/</link>
-      <description><![CDATA[Turnitin 是一项检查论文是否抄袭的服务，该服务表示，其检测工具发现了数百万篇论文，其中可能包含大量人工智能生成的内容。]]></description>
-      <guid>https://www.wired.com/story/student-papers-generative-ai-turnitin/</guid>
-      <pubDate>Tue, 09 Apr 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
