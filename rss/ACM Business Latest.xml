@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Fri, 19 Apr 2024 00:31:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 03:07:47 GMT</lastBuildDate>
+    <item>
+      <title>Meta 已经在训练 Llama 3 更强大的继任者</title>
+      <link>https://www.wired.com/story/meta-is-already-training-a-more-powerful-sucessor-to-llama-3/</link>
+      <description><![CDATA[Meta 首席人工智能科学家 Yann LeCun 表示，今天发布的开源 Llama 3 人工智能模型只是一个开始。他说，一个更大的新版本正在开发中。]]></description>
+      <guid>https://www.wired.com/story/meta-is-already-training-a-more-powerful-sucessor-to-llama-3/</guid>
+      <pubDate>Fri, 19 Apr 2024 01:08:55 GMT</pubDate>
+    </item>
     <item>
       <title>特斯拉的裁员并不能解决其成长的烦恼</title>
       <link>https://www.wired.com/story/tesla-robotaxi-pivot-china/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[有些公司允许您选择不允许您的内容用于生成人工智能。以下是如何从 ChatGPT、Google 的 Gemini 等夺回（至少一点）控制权。]]></description>
       <guid>https://www.wired.com/story/how-to-stop-your-data-from-being-used-to-train-ai/</guid>
       <pubDate>Wed, 10 Apr 2024 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sarcophagus 是你的加密钱包的死人开关</title>
-      <link>https://www.wired.com/story/sarcophagus-is-a-dead-mans-switch-for-your-crypto-wallet/</link>
-      <description><![CDATA[通过将百年理念与加密货币技术相结合，Sarcophagus 旨在创造一种万无一失的方式来从坟墓之外发送消息。]]></description>
-      <guid>https://www.wired.com/story/sarcophagus-is-a-dead-mans-switch-for-your-crypto-wallet/</guid>
-      <pubDate>Wed, 10 Apr 2024 07:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
