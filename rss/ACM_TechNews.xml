@@ -4,110 +4,110 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Wed, 17 Apr 2024 18:09:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 18:07:35 GMT</lastBuildDate>
     <item>
-      <title>Tiny Tech 消耗更少的功率测量量子位</title>
-      <link>https://interestingengineering.com/science/bacterium-sized-tech-measures-qubits</link>
-      <description><![CDATA[有趣的工程芬兰阿尔托大学的研究人员开发的微型设备可以测量量子位（qubit），同时有助于规避海森堡不确定性原理。辐射热测量计测量光子的数量或功率，并且比传统的基于放大器的设备小 100 倍。 Aalto 的 Mikko Möttönen 说道：“我们发现这些测辐射热计对于单次读数足够准确，不会增加量子噪声，而且它们的功耗比典型放大器低 10,000 倍。” “微型技术消耗更少的功率测量量子位”
-有趣的工程 (04/10/24) Ameya Paleja 查看全文&lt; /a&gt;]]></description>
-      <guid>https://interestingengineering.com/science/bacterium-sized-tech-measures-qubits</guid>
-      <pubDate>Wed, 17 Apr 2024 18:09:12 GMT</pubDate>
+      <title>研究人员创建“量子鼓”来存储量子位</title>
+      <link>https://www.tomshardware.com/tech-industry/quantum-computing/researchers-create-quantum-drums-to-store-qubits-one-step-closer-to-groundbreaking-internet-speed-and-security</link>
+      <description><![CDATA[汤姆的硬件丹麦哥本哈根大学尼尔斯玻尔研究所的研究人员开发出了一种可以保持量子存储器相干性的小鼓。鼓是一种由类似玻璃的材料组成的小薄膜，其边缘有孔图案，当受到激光照射时会振动。这些振动可能包含以光信号形式发射的量子数据，这些数据可以被鼓接收和重新传输，而不会丢失其量子态。摘自“研究人员创建‘量子鼓’来存储量子位”
+汤姆的硬件 (04/16/24) Christopher Harper 查看全文]]></description>
+      <guid>https://www.tomshardware.com/tech-industry/quantum-computing/researchers-create-quantum-drums-to-store-qubits-one-step-closer-to-groundbreaking-internet-speed-and-security</guid>
+      <pubDate>Fri, 19 Apr 2024 18:07:34 GMT</pubDate>
     </item>
     <item>
-      <title>数百万玩家推动生物医学研究</title>
-      <link>https://www.mcgill.ca/newsroom/channels/news/millions-gamers-advance-biomedical-research-356750</link>
-      <description><![CDATA[麦吉尔大学（加拿大）由加拿大麦吉尔大学研究人员领导的团队利用 450 万《无主之地科学》玩家（《无主之地 3》视频游戏中的一款迷你游戏）来帮助重建细菌的进化历史在人类肠道中。作为全球最大的公民科学项目之一的一部分，玩家将代表不同微生物基因构件的一排排瓷砖对齐。麦吉尔大学的 Jéróme Waldispühl 表示：“在半天内，《无主之地科学》玩家收集到的微生物 DNA 序列数据比我们之前的游戏 Phylo 在 10 年间收集的数据多了五倍。”摘自“数百万玩家推进生物医学研究”
-麦吉尔大学（加拿大）(04/15/24) 查看全文]]></description>
-      <guid>https://www.mcgill.ca/newsroom/channels/news/millions-gamers-advance-biomedical-research-356750</guid>
-      <pubDate>Wed, 17 Apr 2024 18:09:11 GMT</pubDate>
+      <title>蜘蛛状机器人可以爬过火星火山洞穴</title>
+      <link>https://www.scientificamerican.com/article/spiderlike-mars-robot-reachbot/</link>
+      <description><![CDATA[《科学美国人》斯坦福大学研究人员开发的一种蜘蛛机器人有一天可以用来探索火星上的洞穴。 ReachBot 有八个肢体（吊杆）连接到中央主体，每个末端都有一个三指夹具，使用“微刺”来抓住粗糙的岩石，并在每个吊杆上保持均匀的张力以保持稳定性。机器人使用摄像头和传感器来选择吊杆的放置位置，一次拆卸和重新定位吊杆。摘自“蜘蛛状机器人可以爬过火星火山洞穴”
+《科学美国人》 (04/17/24) Lauren Leffer 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.scientificamerican.com/article/spiderlike-mars-robot-reachbot/</guid>
+      <pubDate>Fri, 19 Apr 2024 18:07:34 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能芯片削减能源预算</title>
-      <link>https://spectrum.ieee.org/optical-neural-network</link>
-      <description><![CDATA[IEEE Spectrum中国清华大学和北京信息科学技术国家研究中心的研究人员开发的微芯片使用光子而不是电子来运行人工智能任务，具有更高的能源效率。研究人员采用了一种混合方法，结合了可以压缩数据以进行大规模输入和输出的衍射单元簇，以及用于可重新配置计算的干涉仪阵列。 Taichi 微芯片将计算分布在多个并行运行的小芯片上，拥有 1396 万个参数，模仿连接人脑神经元的突触。摘自“AI 芯片调整能源预算”
-IEEE Spectrum (04/12/24) Charles Q. Choi 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/optical-neural-network</guid>
-      <pubDate>Wed, 17 Apr 2024 18:09:11 GMT</pubDate>
+      <title>海底的云</title>
+      <link>https://www.theverge.com/c/24070570/internet-cables-undersea-deep-repair-ships</link>
+      <description><![CDATA[The Verge在全球 77 艘电缆船中，只有 22 艘专门用于修复承载全球 99% 数据的海底电缆。每年约有 200 次电缆断裂，这些船只处于待命状态，等待部署进行修复工作。由于船舶和劳动力老化，该行业的长期生存令人担忧。船舶运营商还必须应对地缘政治紧张局势。摘自《海底的云》
+The Verge (04/16/24) Josh Dzieza 查看全文]]></description>
+      <guid>https://www.theverge.com/c/24070570/internet-cables-undersea-deep-repair-ships</guid>
+      <pubDate>Fri, 19 Apr 2024 18:07:34 GMT</pubDate>
     </item>
     <item>
-      <title>Instagram 测试影响者的聊天机器人版本</title>
-      <link>https://www.nytimes.com/2024/04/15/technology/instagram-influencers-chatbots.html</link>
-      <description><![CDATA[《纽约时报》Instagram 正在测试 Creator AI，该程序将使受欢迎的影响者能够通过 AI 与粉丝互动。消息人士称，Creator AI 是一款聊天机器人，可以通过直接消息和潜在评论与粉丝交谈，模仿影响者的“声音”，帮助创作者回复消息和评论。创作者人工智能将自动发送消息，至少在最初阶段披露这些消息是由人工智能生成的，并允许创作者选择用于复制其声音并指示对特定问题的回答的数据。来自“Instagram测试影响者的聊天机器人版本”
-纽约时报 (04/15/24) Sapna Maheshwari；迈克·艾萨克 查看全文  - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/04/15/technology/instagram-influencers-chatbots.html</guid>
-      <pubDate>Wed, 17 Apr 2024 18:09:10 GMT</pubDate>
+      <title>为“量子互联网”打造的关键连接</title>
+      <link>https://www.imperial.ac.uk/news/252621/crucial-connection-quantum-internet-made-first/</link>
+      <description><![CDATA[伦敦帝国理工学院（英国）由英国伦敦帝国理工学院、南安普顿大学以及德国斯图加特大学和维尔茨堡大学的研究人员开发的系统，使用光纤传输量子数据。该系统将量子存储设备与创建量子数据的设备连接起来。两者都使用相同的波长，量子点用于产生非纠缠光子，传输到量子存储系统，存储在铷原子云中。存储器可以通过激光器关闭和打开，从而根据需要存储或释放光子。摘自“为‘量子互联网’建立的关键连接”
+伦敦帝国理工学院（英国）(04/17/24) Hayley Dunning 查看全文]]></description>
+      <guid>https://www.imperial.ac.uk/news/252621/crucial-connection-quantum-internet-made-first/</guid>
+      <pubDate>Fri, 19 Apr 2024 18:07:33 GMT</pubDate>
     </item>
     <item>
-      <title>G7 国家的居民对人形机器人感到不舒服</title>
-      <link>https://www.euronews.com/next/2024/04/12/humanoids-no-thanks-most-g7-countries-feel-uncomfortable-with-the-most-advanced-robots</link>
-      <description><![CDATA[EuronewsUnited Robotics 对美国、法国、加拿大、意大利和德国近 8,000 名居民进行的一项调查发现，近 80% 的人担心人形机器人会抢走工作。另外 71% 的人担心此类机器人会在社交互动中扮演人类角色，平均近三分之二 (60%) 的受访者不希望人形机器人具有人类特征。来自《 G7国家居民对人形机器人感到不舒服”
-欧洲新闻 (04/12/24) Alessio Dell&#39;Anna 查看全文]]></description>
-      <guid>https://www.euronews.com/next/2024/04/12/humanoids-no-thanks-most-g7-countries-feel-uncomfortable-with-the-most-advanced-robots</guid>
-      <pubDate>Wed, 17 Apr 2024 18:09:10 GMT</pubDate>
+      <title>巴黎奥运会必然发生的事情：网络攻击</title>
+      <link>https://www.nytimes.com/2024/04/16/world/europe/paris-olympics-cyberattacks.html</link>
+      <description><![CDATA[《纽约时报》巴黎夏季奥运会组委会的网络安全专家正在为网络攻击做准备。 2021 年东京夏季奥运会上有 4.5 亿次尝试“安全事件”，这一数字预计将比巴黎夏季奥运会激增 8 至 12 倍。巴黎组织者与国际奥委会和官方技术合作伙伴 Atos 联合举办“战争游戏”，向发现奥运会系统漏洞的道德黑客提供“漏洞赏金”。来自“A Paris”奥运会的必经之路：网络攻击”
+纽约时报 (04/17/24) Tariq Panja 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/04/16/world/europe/paris-olympics-cyberattacks.html</guid>
+      <pubDate>Fri, 19 Apr 2024 18:07:33 GMT</pubDate>
     </item>
     <item>
-      <title>耗能人工智能也是节能的未来</title>
-      <link>https://www.wsj.com/business/energy-oil/ai-data-centers-energy-savings-d602296e</link>
-      <description><![CDATA[据芯片设计公司 Arm 的首席执行官称，到 2030 年，人工智能数据中心可能占美国用电量的四分之一，高于目前的 4%。然而，人工智能可能是识别潜在节能的重要工具。施耐德电气首席执行官 Peter Herweck 表示，在人工智能的帮助下，未来四年建筑物的能源消耗可减少 15% 至 25%。来自“能源消耗大的人工智能也是节能的未来” “
-华尔街日报 (04/12/24) 卡罗尔·瑞安 查看完整文章 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/business/energy-oil/ai-data-centers-energy-savings-d602296e</guid>
-      <pubDate>Wed, 17 Apr 2024 18:09:09 GMT</pubDate>
+      <title>数据中心推动煤炭发展</title>
+      <link>https://www.washingtonpost.com/business/interactive/2024/data-centers-internet-power-source-coal/</link>
+      <description><![CDATA[华盛顿邮报官员们表示，数据中心的用电速度对于电网来说是不可持续的，因此计划从西弗吉尼亚州的燃煤发电厂到北弗吉尼亚州铺设新的输电线路。弗吉尼亚州目前有近 300 个数据中心，处理全球近 70% 的数字流量。老化的燃煤电厂已计划关闭，保持其运行引发了人们对实现清洁能源目标的担忧。摘自“数据中心为煤炭提供燃料”
+华盛顿邮报 (04/17/24) Antonio Olivo 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.washingtonpost.com/business/interactive/2024/data-centers-internet-power-source-coal/</guid>
+      <pubDate>Fri, 19 Apr 2024 18:07:33 GMT</pubDate>
     </item>
     <item>
-      <title>由计算机控制的机器人蟑螂群</title>
-      <link>https://www.newscientist.com/article/2424745-watch-a-swarm-of-cyborg-cockroaches-controlled-by-computers/</link>
-      <description><![CDATA[新科学家新加坡南洋理工大学的研究人员证明，由 20 只遥控机器人组成的蟑螂群可以成群结队地前往某个地点，在沙漠般的景观中穿行，而不会与障碍物或彼此发生碰撞。蟑螂通过装有电池、微型计算机和天线的背包进行控制，该背包与中央计算机通信，确定蟑螂群的方向。摘自“计算机控制的机器人蟑螂群”
-新科学家 (04/16/24) 马修·斯帕克斯 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.newscientist.com/article/2424745-watch-a-swarm-of-cyborg-cockroaches-controlled-by-computers/</guid>
-      <pubDate>Wed, 17 Apr 2024 18:09:09 GMT</pubDate>
+      <title>Atlas HD 推出 11 年后退役</title>
+      <link>https://www.bbc.com/news/articles/ck7ly07gmx4o</link>
+      <description><![CDATA[BBC波士顿动力公司已退役其“Atlas HD”机器人。这个11岁的液压人形机器人能够奔跑、翻筋斗和后空翻。它的替代品将是一款全电动车型，该公司表示该车型将“更强大，运动范围更广。”摘自“Atlas HD 11年后退役”
+BBC (04/17/24) 伊姆兰·拉赫曼·琼斯；汤姆·辛格尔顿 查看全文]]></description>
+      <guid>https://www.bbc.com/news/articles/ck7ly07gmx4o</guid>
+      <pubDate>Fri, 19 Apr 2024 18:07:32 GMT</pubDate>
     </item>
     <item>
-      <title>太赫兹波弯曲以避免阻塞</title>
-      <link>https://scitechdaily.com/how-curved-terahertz-waves-could-revolutionize-wireless-communication/</link>
-      <description><![CDATA[SciTechDaily来自布朗大学和莱斯大学的一组研究人员开发了一种方法，可以在固体物体周围弯曲太赫兹波，否则这些物体会阻挡太赫兹波。研究人员创造了能够操纵产生的电磁波的强度、强度和时间的发射器。他们使用这些发射器创建太赫兹信号，该信号遵循围绕障碍物的弯曲轨迹，而不是被障碍物阻挡。摘自“太赫兹波弯曲以避免阻挡”
-SciTechDaily (04/12/24) 查看全文文章]]></description>
-      <guid>https://scitechdaily.com/how-curved-terahertz-waves-could-revolutionize-wireless-communication/</guid>
-      <pubDate>Wed, 17 Apr 2024 18:09:08 GMT</pubDate>
+      <title>人工智能帮助救护车、消防车更快到达</title>
+      <link>https://www.bloomberg.com/news/features/2024-04-16/these-tech-startups-are-lowering-emergency-response-times</link>
+      <description><![CDATA[彭博社美国各地的城市正在测试人工智能工具，以缩短紧急响应时间并削减成本。 C2Smarter 学术联盟的技术与曼哈顿的街道传感器数据结合使用，以确定消防车到达火场的最佳路线。 Lyt 提供了一个系统，将连接到城市车辆的传感器与控制交通信号的软件连接起来。摘自“人工智能帮助救护车、消防车更快到达”
+彭博社 (04/16/24) 马修·博伊尔 查看完整文章 - 可能需要付费订阅]]></description>
+      <guid>https://www.bloomberg.com/news/features/2024-04-16/these-tech-startups-are-lowering-emergency-response-times</guid>
+      <pubDate>Fri, 19 Apr 2024 18:07:32 GMT</pubDate>
     </item>
     <item>
-      <title>索尼与《自然》杂志为女性研究人员设立奖项</title>
-      <link>https://www.asahi.com/ajw/articles/15205952</link>
-      <description><![CDATA[朝日新闻（日本）索尼集团公司和《自然》杂志宣布与《自然》杂志共同设立索尼女性技术奖，这是一项表彰女性技术研究人员的国际奖项。前三名获奖者将于明年初公布，届时每人将获得 25 万美元的研究经费。 《自然》杂志主编 Magdalena Skipper（如图）说道：“我们可以提供一个全球平台来庆祝新兴女性研究人员和工程师的工作，否则她们可能会默默无闻。”摘自“索尼《自然》为女性研究人员设立奖”
-朝日新闻（日本）(04/13/24) Takahiro Takenouchi 查看全文&lt; /a&gt;]]></description>
-      <guid>https://www.asahi.com/ajw/articles/15205952</guid>
-      <pubDate>Wed, 17 Apr 2024 18:09:08 GMT</pubDate>
+      <title>脑电波可供出售。科罗拉多州希望改变这一现状</title>
+      <link>https://www.nytimes.com/2024/04/17/science/colorado-brain-data-privacy.html</link>
+      <description><![CDATA[《纽约时报》科罗拉多州州长贾里德·波利斯 (Jared Polis) 于 4 月 17 日签署了首个此类立法，扩大了科罗拉多州隐私法对“敏感数据”的定义，将生成的生物和“神经数据”包括在内由大脑、脊髓和遍布全身的神经网络组成。该法案针对消费者神经技术，因为联邦健康法保护临床环境中医疗设备收集的患者数据。 Neurorights 基金会对 30 家消费者神经技术公司进行了分析，结果发现只有一家公司对个人的行为进行了有意义的限制。神经数据。摘自“脑电波可供出售。科罗拉多州希望改变这一现状”
+纽约时报 (04/18/24) Jonathan Moens 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/04/17/science/colorado-brain-data-privacy.html</guid>
+      <pubDate>Fri, 19 Apr 2024 18:07:31 GMT</pubDate>
     </item>
     <item>
-      <title>微软通过入股阿布扎比公司加大与中国人工智能竞赛的赌注</title>
-      <link>https://www.wsj.com/tech/ai/microsoft-to-invest-1-5-billion-in-u-a-e-ai-firm-52988bab</link>
-      <description><![CDATA[华尔街日报微软将向 G42 投资 15 亿美元，G42 是一家总部位于阿布扎比并得到阿联酋政府支持的科技公司。该协议包括一项确保人工智能安全的政府间协议，并涉及为阿联酋创建“一支熟练且多样化的人工智能劳动力队伍”，并为开发者提供 10 亿美元的基金。 G42 将在其人工智能应用中使用微软的云服务。摘自《微软通过入股阿布扎比公司，在与中国的人工智能竞赛中加大赌注》
-华尔街日报 (04/16/24) Rory Jones 查看全文]]></description>
-      <guid>https://www.wsj.com/tech/ai/microsoft-to-invest-1-5-billion-in-u-a-e-ai-firm-52988bab</guid>
-      <pubDate>Wed, 17 Apr 2024 18:09:07 GMT</pubDate>
+      <title>微软的 AI Copilot 使编码行业实现自动化</title>
+      <link>https://www.bloomberg.com/news/articles/2024-04-17/microsoft-s-ai-copilot-is-starting-to-automate-the-coding-industry</link>
+      <description><![CDATA[彭博社微软 GitHub 开发的 AI Copilot 编码助手在越来越多的新软件程序中得到应用，因​​为最新版本的 OpenAI GPT-4 技术的加入扩展了其功能。微软表示，包括 50,000 家企业在内的 130 万客户正在使用 Copilot。软件工程师通常使用 Copilot 来处理繁琐而重复的任务，例如调试软件，但有些人使用它来开发关键系统的代码。摘自“微软的 AI Copilot 使编码行业自动化”
+彭博社 (04/17/24) Jackie Davalos； Dina Bass 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-04-17/microsoft-s-ai-copilot-is-starting-to-automate-the-coding-industry</guid>
+      <pubDate>Fri, 19 Apr 2024 18:07:31 GMT</pubDate>
     </item>
     <item>
-      <title>浏览器界面中的安全漏洞允许计算机通过显卡访问</title>
-      <link>https://www.tugraz.at/en/tu-graz/services/news-stories/tu-graz-news/singleview/article/sicherheitsluecke-in-browser-schnittstelle-erlaubt-rechnerzugriff-ueber-grafikkarte</link>
-      <description><![CDATA[格拉茨科技大学（奥地利）奥地利格拉茨理工大学 (TU Graz) 的研究人员使用 WebGPU 浏览器界面演示了对显卡的三种侧通道攻击，通过这些攻击，他们获得了其他人的数据、击键和加密密钥等信息。的计算机。格拉茨工业大学的 Lukas Giner（如图）说道：“通过我们的工作，我们希望向浏览器制造商明确指出，他们需要像处理影响安全和隐私的其他资源一样处理对 GPU 的访问。”摘自《浏览器界面中的安全漏洞允许通过显卡访问计算机》
-格拉茨科技大学（奥地利） (04/15/24) Falko Schoklitsch 查看全文]]></description>
-      <guid>https://www.tugraz.at/en/tu-graz/services/news-stories/tu-graz-news/singleview/article/sicherheitsluecke-in-browser-schnittstelle-erlaubt-rechnerzugriff-ueber-grafikkarte</guid>
-      <pubDate>Wed, 17 Apr 2024 18:09:07 GMT</pubDate>
+      <title>无人机帮助打击大堡礁的非法捕鱼</title>
+      <link>https://www.abc.net.au/news/2024-04-16/long-range-drone-fighting-illegal-fishing-great-barrier-reef/103685532</link>
+      <description><![CDATA[ABC（澳大利亚）一架无人机部署在澳大利亚昆士兰州海岸附近，旨在识别大堡礁上的非法渔民。该无人机的摄像头配备了日光红外和超变焦镜头，可以使用光学、热、雷达和其他传感器检测高空的运动。它的行驶速度可达 120 公里/小时（约 75 英里/小时），一次充电可工作长达 18 小时。摘自“无人机帮助打击大堡礁非法捕鱼”
+ABC（澳大利亚）(04/15/24) Janet Shorthouse 查看全文]]></description>
+      <guid>https://www.abc.net.au/news/2024-04-16/long-range-drone-fighting-illegal-fishing-great-barrier-reef/103685532</guid>
+      <pubDate>Fri, 19 Apr 2024 18:07:31 GMT</pubDate>
     </item>
     <item>
-      <title>技术有助于加快游客进入美国的速度</title>
-      <link>https://learningenglish.voanews.com/a/technology-helps-speed-up-tourist-entry-into-us/7557386.html</link>
-      <description><![CDATA[美国之音新闻美国海关与边境保护局 (CBP) 的移动护照控制应用程序旨在加快包括家庭在内的旅行者的入境流程。该应用程序允许上传信息和照片的个人前往单独的线路进行输入处理。对于家庭，CBP 官员将为其中一名成员拍照，图像被计算机识别后，它会提供处理整个团体所需的信息。摘自《科技帮助加快旅游速度》进入美国”
-美国之音新闻 (04/14/24) 查看全文]]></description>
-      <guid>https://learningenglish.voanews.com/a/technology-helps-speed-up-tourist-entry-into-us/7557386.html</guid>
-      <pubDate>Wed, 17 Apr 2024 18:09:06 GMT</pubDate>
+      <title>Bengio 跻身 2024 年 TIME100 榜单</title>
+      <link>https://time.com/6964962/yoshua-bengio/</link>
+      <description><![CDATA[《时代》《时代》 杂志将 ACM A. M. 图灵奖获得者 Yoshua Bengio 列入 2024 年 100 名最具影响力人物名单。人工智能安全以及与未来人工智能相关的灾难性后果的可能性。除此之外，他还曾担任联合国秘书长和英国人工智能安全研究所的顾问。摘自“Bengio 入围 2024 年 TIME100 榜单”
+时间 (04/17/24) Geoffrey Hinton 查看全文]]></description>
+      <guid>https://time.com/6964962/yoshua-bengio/</guid>
+      <pubDate>Fri, 19 Apr 2024 18:07:30 GMT</pubDate>
     </item>
     <item>
-      <title>英特尔推出最大的神经拟态系统</title>
-      <link>https://www.intel.com/content/www/us/en/newsroom/news/intel-builds-worlds-largest-neuromorphic-system.html#gs.83gvd9</link>
-      <description><![CDATA[英特尔新闻稿英特尔今天宣布打造出全球最大的神经拟态系统。该研究原型系统代号为 Hala Point，支持分布在 140,544 个神经形态处理核心上的多达 11.5 亿个神经元和 1,280 亿个突触，最大功耗为 2,600 瓦。英特尔的 Mike Davies 表示，Hala Point“将深度学习效率与新颖的类脑学习和优化功能相结合。”摘自“英特尔推出最大的神经拟态系统”
-英特尔新闻稿 (04/17/24) 查看全文]]></description>
-      <guid>https://www.intel.com/content/www/us/en/newsroom/news/intel-builds-worlds-largest-neuromorphic-system.html#gs.83gvd9</guid>
-      <pubDate>Wed, 17 Apr 2024 18:09:05 GMT</pubDate>
+      <title>德克萨斯州黑客事件可能是俄罗斯首次破坏美国供水系统</title>
+      <link>https://www.washingtonpost.com/politics/2024/04/17/tex-hack-may-be-first-disruption-us-water-system-by-russia/</link>
+      <description><![CDATA[华盛顿邮报一月份，德克萨斯州 Muleshoe 镇的一座水塔在控制系统遭到黑客攻击后发生溢出，释放出数万加仑的水。这些自称“俄罗斯重生网络军”(CARR) 的黑客在网上发布了一段视频，显示该镇和附近一个城镇的水控制系统被操纵，展示了他们如何重置控制系统。 CARR 被认为是俄罗斯军事间谍机构的幌子。摘自“德克萨斯黑客可能是俄罗斯首次破坏美国供水系统”
+华盛顿邮报 (04/17/24) Ellen Nakashima；亚伦·谢弗 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.washingtonpost.com/politics/2024/04/17/tex-hack-may-be-first-disruption-us-water-system-by-russia/</guid>
+      <pubDate>Fri, 19 Apr 2024 18:07:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
