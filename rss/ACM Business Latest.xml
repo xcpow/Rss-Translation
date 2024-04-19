@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Fri, 19 Apr 2024 09:07:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 12:12:15 GMT</lastBuildDate>
+    <item>
+      <title>她画了几个香槟瓶。然后是 Meta 的客户支持地狱</title>
+      <link>https://www.wired.com/story/influencer-painted-champagne-bottles-meta-customer-support-hell/</link>
+      <description><![CDATA[一位时尚影响者难以解封她的 Instagram 帐户，这突显了 Meta 客户服务乏善可陈的长期问题。用户和监管机构表示，该公司必须采取行动。]]></description>
+      <guid>https://www.wired.com/story/influencer-painted-champagne-bottles-meta-customer-support-hell/</guid>
+      <pubDate>Fri, 19 Apr 2024 10:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Meta 已经在训练 Llama 3 更强大的继任者</title>
       <link>https://www.wired.com/story/meta-is-already-training-a-more-powerful-sucessor-to-llama-3/</link>
@@ -78,7 +85,7 @@
     <item>
       <title>加密货币 FOMO 又回来了。骗局也是如此</title>
       <link>https://www.wired.com/story/cryptocurrency-scams-memecoins/</link>
-      <description><![CDATA[加密货币价格飙升后，诈骗者用虚假代币充斥市场，这些代币向投资者承诺巨额财富，但却让他们身无分文。它正在发挥作用。]]></description>
+      <description><![CDATA[加密货币价格飙升后，诈骗者用假代币充斥市场，这些代币向投资者承诺巨额财富，但却让他们身无分文。它正在发挥作用。]]></description>
       <guid>https://www.wired.com/story/cryptocurrency-scams-memecoins/</guid>
       <pubDate>Mon, 15 Apr 2024 08:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[透明度倡导者表示，埃里克·施密特追求与中国人工智能公司的“个人”联系代表了令人担忧的利益冲突。]]></description>
       <guid>https://www.wired.com/story/eric-schmidt-china-ai-ties/</guid>
       <pubDate>Thu, 11 Apr 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何阻止您的数据被用于训练人工智能</title>
-      <link>https://www.wired.com/story/how-to-stop-your-data-from-being-used-to-train-ai/</link>
-      <description><![CDATA[有些公司允许您选择不允许您的内容用于生成人工智能。以下是如何从 ChatGPT、Google 的 Gemini 等夺回（至少一点）控制权。]]></description>
-      <guid>https://www.wired.com/story/how-to-stop-your-data-from-being-used-to-train-ai/</guid>
-      <pubDate>Wed, 10 Apr 2024 11:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
