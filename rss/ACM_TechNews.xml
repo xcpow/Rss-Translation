@@ -4,110 +4,102 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Fri, 19 Apr 2024 18:07:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 15:07:54 GMT</lastBuildDate>
     <item>
-      <title>研究人员创建“量子鼓”来存储量子位</title>
-      <link>https://www.tomshardware.com/tech-industry/quantum-computing/researchers-create-quantum-drums-to-store-qubits-one-step-closer-to-groundbreaking-internet-speed-and-security</link>
-      <description><![CDATA[汤姆的硬件丹麦哥本哈根大学尼尔斯玻尔研究所的研究人员开发出了一种可以保持量子存储器相干性的小鼓。鼓是一种由类似玻璃的材料组成的小薄膜，其边缘有孔图案，当受到激光照射时会振动。这些振动可能包含以光信号形式发射的量子数据，这些数据可以被鼓接收和重新传输，而不会丢失其量子态。摘自“研究人员创建‘量子鼓’来存储量子位”
-汤姆的硬件 (04/16/24) Christopher Harper 查看全文]]></description>
-      <guid>https://www.tomshardware.com/tech-industry/quantum-computing/researchers-create-quantum-drums-to-store-qubits-one-step-closer-to-groundbreaking-internet-speed-and-security</guid>
-      <pubDate>Fri, 19 Apr 2024 18:07:34 GMT</pubDate>
+      <title>SURF 通过诺基亚在现有光纤上实现 800Gbps 传输</title>
+      <link>https://www.computerweekly.com/news/366581094/SURF-glides-to-800Gbps-transmission-on-existing-fibre-through-Nokia</link>
+      <description><![CDATA[《计算机周刊》荷兰教育 IT 合作组织 SURF 与诺基亚合作，成功在其光纤网络基础设施上试验单载波 800Gbps 光传输，为即将升级的大型强子对撞机做好准备欧洲核子研究组织 (CERN) 粒子加速器 (LHC)。该光纤链路是 SURF 网络的一部分，该网络连接荷兰的国家研究和教育机构。摘自《SURF 通过诺基亚在现有光纤上实现 800Gbps 传输》
+计算机周刊 (04/16/24) Joe O’Halloran 查看全文]]></description>
+      <guid>https://www.computerweekly.com/news/366581094/SURF-glides-to-800Gbps-transmission-on-existing-fibre-through-Nokia</guid>
+      <pubDate>Mon, 22 Apr 2024 15:07:53 GMT</pubDate>
     </item>
     <item>
-      <title>蜘蛛状机器人可以爬过火星火山洞穴</title>
-      <link>https://www.scientificamerican.com/article/spiderlike-mars-robot-reachbot/</link>
-      <description><![CDATA[《科学美国人》斯坦福大学研究人员开发的一种蜘蛛机器人有一天可以用来探索火星上的洞穴。 ReachBot 有八个肢体（吊杆）连接到中央主体，每个末端都有一个三指夹具，使用“微刺”来抓住粗糙的岩石，并在每个吊杆上保持均匀的张力以保持稳定性。机器人使用摄像头和传感器来选择吊杆的放置位置，一次拆卸和重新定位吊杆。摘自“蜘蛛状机器人可以爬过火星火山洞穴”
-《科学美国人》 (04/17/24) Lauren Leffer 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.scientificamerican.com/article/spiderlike-mars-robot-reachbot/</guid>
-      <pubDate>Fri, 19 Apr 2024 18:07:34 GMT</pubDate>
+      <title>谷歌将向军方提供人工智能用于灾难响应</title>
+      <link>https://www.washingtonpost.com/technology/2024/04/17/google-x-bellwether-national-guard-disasters/</link>
+      <description><![CDATA[华盛顿邮报谷歌正在向美国国民警卫队提供人工智能工具来分析灾区图像，以改善其灾难应对能力。该技术可以将航空照片与卫星图像和地图进行比较，以精确定位位置、道路、建筑物和其他基础设施，使国民警卫队能够了解受损情况并相应地部署资源。该技术将在夏季野火季节推出。摘自“Google 向军方提供人工智能以应对灾难”
+华盛顿邮报 (04/17/24) Gerrit De Vynck 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.washingtonpost.com/technology/2024/04/17/google-x-bellwether-national-guard-disasters/</guid>
+      <pubDate>Mon, 22 Apr 2024 15:07:53 GMT</pubDate>
     </item>
     <item>
-      <title>海底的云</title>
-      <link>https://www.theverge.com/c/24070570/internet-cables-undersea-deep-repair-ships</link>
-      <description><![CDATA[The Verge在全球 77 艘电缆船中，只有 22 艘专门用于修复承载全球 99% 数据的海底电缆。每年约有 200 次电缆断裂，这些船只处于待命状态，等待部署进行修复工作。由于船舶和劳动力老化，该行业的长期生存令人担忧。船舶运营商还必须应对地缘政治紧张局势。摘自《海底的云》
-The Verge (04/16/24) Josh Dzieza 查看全文]]></description>
-      <guid>https://www.theverge.com/c/24070570/internet-cables-undersea-deep-repair-ships</guid>
-      <pubDate>Fri, 19 Apr 2024 18:07:34 GMT</pubDate>
+      <title>让量子计算机更容易编程</title>
+      <link>https://news.mit.edu/2024/mit-researchers-propose-blueprint-how-make-quantum-computers-easier-program-0416</link>
+      <description><![CDATA[麻省理工学院新闻麻省理工学院计算机科学与人工智能实验室的研究人员开发了一种量子计算机的概念模型，可以使此类计算机更易于编程。研究人员认为，他们的量子控制机模型可用于克服与对量子计算机进行编程以运行量子算法相关的挑战。新模型使控制流和所有其他指令可逆，因此算法可以在不破坏其叠加的情况下处理量子信息。摘自“让量子计算机更容易编程”
+麻省理工学院新闻 (04/16/24) Alex Shipps 查看全文]]></description>
+      <guid>https://news.mit.edu/2024/mit-researchers-propose-blueprint-how-make-quantum-computers-easier-program-0416</guid>
+      <pubDate>Mon, 22 Apr 2024 15:07:53 GMT</pubDate>
     </item>
     <item>
-      <title>为“量子互联网”打造的关键连接</title>
-      <link>https://www.imperial.ac.uk/news/252621/crucial-connection-quantum-internet-made-first/</link>
-      <description><![CDATA[伦敦帝国理工学院（英国）由英国伦敦帝国理工学院、南安普顿大学以及德国斯图加特大学和维尔茨堡大学的研究人员开发的系统，使用光纤传输量子数据。该系统将量子存储设备与创建量子数据的设备连接起来。两者都使用相同的波长，量子点用于产生非纠缠光子，传输到量子存储系统，存储在铷原子云中。存储器可以通过激光器关闭和打开，从而根据需要存储或释放光子。摘自“为‘量子互联网’建立的关键连接”
-伦敦帝国理工学院（英国）(04/17/24) Hayley Dunning 查看全文]]></description>
-      <guid>https://www.imperial.ac.uk/news/252621/crucial-connection-quantum-internet-made-first/</guid>
-      <pubDate>Fri, 19 Apr 2024 18:07:33 GMT</pubDate>
+      <title>3D 打印“软皮”垫为机器人提供触觉</title>
+      <link>https://www.hackster.io/news/these-3d-printed-tpu-soft-skin-pads-give-robots-a-low-cost-highly-sensitive-sense-of-touch-be6c9c22a5af</link>
+      <description><![CDATA[hackster.io伊利诺伊大学香槟分校的研究人员开发了 3D 打印的“软皮”垫，可兼作机器人的机械压力传感器。这些垫由热塑性聚氨酯在现成的增材制造打印机上打印而成。柔软的外层覆盖中空的填充部分，当外层被压缩时，内部的气压会相应变化，从而允许连接到微控制器的传感器检测振动、触摸和压力变化。来自“3D 打印‘软皮’垫赋予机器人触觉”
+hackster.io (04/18/24) Gareth Halfacree 查看全文]]></description>
+      <guid>https://www.hackster.io/news/these-3d-printed-tpu-soft-skin-pads-give-robots-a-low-cost-highly-sensitive-sense-of-touch-be6c9c22a5af</guid>
+      <pubDate>Mon, 22 Apr 2024 15:07:52 GMT</pubDate>
     </item>
     <item>
-      <title>巴黎奥运会必然发生的事情：网络攻击</title>
-      <link>https://www.nytimes.com/2024/04/16/world/europe/paris-olympics-cyberattacks.html</link>
-      <description><![CDATA[《纽约时报》巴黎夏季奥运会组委会的网络安全专家正在为网络攻击做准备。 2021 年东京夏季奥运会上有 4.5 亿次尝试“安全事件”，这一数字预计将比巴黎夏季奥运会激增 8 至 12 倍。巴黎组织者与国际奥委会和官方技术合作伙伴 Atos 联合举办“战争游戏”，向发现奥运会系统漏洞的道德黑客提供“漏洞赏金”。来自“A Paris”奥运会的必经之路：网络攻击”
-纽约时报 (04/17/24) Tariq Panja 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/04/16/world/europe/paris-olympics-cyberattacks.html</guid>
-      <pubDate>Fri, 19 Apr 2024 18:07:33 GMT</pubDate>
+      <title>结合 NAND、RAM 功能的内存技术消耗更少的电量</title>
+      <link>https://www.techradar.com/pro/scientists-inch-closer-to-holy-grail-of-memory-breakthrough-producing-tech-that-combines-nand-and-ram-features-could-be-much-cheaper-to-produce-and-consume-far-less-power</link>
+      <description><![CDATA[TechRadar韩国高级科学技术研究院的研究人员开发出一种可能取代 DRAM 和 NAND 闪存的存储设备。这款超低功耗相变存储器件将 DRAM 的高速性能与 NAND 即使在断电时也能保存数据的能力结合在一起。由此产生的非易失性高速器件的功耗比之前的相变存储器模型低 15 倍。摘自“结合 NAND 的存储器技术，RAM 功能消耗更少的功耗”
+TechRadar (04/17/24) 韦恩·威廉姆斯 查看全文]]></description>
+      <guid>https://www.techradar.com/pro/scientists-inch-closer-to-holy-grail-of-memory-breakthrough-producing-tech-that-combines-nand-and-ram-features-could-be-much-cheaper-to-produce-and-consume-far-less-power</guid>
+      <pubDate>Mon, 22 Apr 2024 15:07:52 GMT</pubDate>
     </item>
     <item>
-      <title>数据中心推动煤炭发展</title>
-      <link>https://www.washingtonpost.com/business/interactive/2024/data-centers-internet-power-source-coal/</link>
-      <description><![CDATA[华盛顿邮报官员们表示，数据中心的用电速度对于电网来说是不可持续的，因此计划从西弗吉尼亚州的燃煤发电厂到北弗吉尼亚州铺设新的输电线路。弗吉尼亚州目前有近 300 个数据中心，处理全球近 70% 的数字流量。老化的燃煤电厂已计划关闭，保持其运行引发了人们对实现清洁能源目标的担忧。摘自“数据中心为煤炭提供燃料”
-华盛顿邮报 (04/17/24) Antonio Olivo 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.washingtonpost.com/business/interactive/2024/data-centers-internet-power-source-coal/</guid>
-      <pubDate>Fri, 19 Apr 2024 18:07:33 GMT</pubDate>
+      <title>传感器可以实时监测肿瘤</title>
+      <link>https://spectrum.ieee.org/cancer-sensor</link>
+      <description><![CDATA[IEEE Spectrum由加州大学伯克利分校和加州大学旧金山分校的研究人员开发的概念验证传感器可以为实时癌症监测铺平道路。该传感器可以放置在肿瘤旁边，以实时评估患者对癌症治疗的反应。该传感器由超声波供电并使用超声波传输数据，小型激光提供局部照明。摘自“传感器可以实时监测肿瘤”
+IEEE Spectrum (04/18/24) Michelle Hampson 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/cancer-sensor</guid>
+      <pubDate>Mon, 22 Apr 2024 15:07:51 GMT</pubDate>
     </item>
     <item>
-      <title>Atlas HD 推出 11 年后退役</title>
-      <link>https://www.bbc.com/news/articles/ck7ly07gmx4o</link>
-      <description><![CDATA[BBC波士顿动力公司已退役其“Atlas HD”机器人。这个11岁的液压人形机器人能够奔跑、翻筋斗和后空翻。它的替代品将是一款全电动车型，该公司表示该车型将“更强大，运动范围更广。”摘自“Atlas HD 11年后退役”
-BBC (04/17/24) 伊姆兰·拉赫曼·琼斯；汤姆·辛格尔顿 查看全文]]></description>
-      <guid>https://www.bbc.com/news/articles/ck7ly07gmx4o</guid>
-      <pubDate>Fri, 19 Apr 2024 18:07:32 GMT</pubDate>
+      <title>纽约市奥斯汀是科技工作繁荣的城镇</title>
+      <link>https://www.axios.com/2024/04/18/austin-nyc-tech-job-boom-towns</link>
+      <description><![CDATA[Axios来自风险投资 (VC) 公司 SignalFire 的数据显示，2019 年至 2023 年间，德克萨斯州奥斯汀市的科技劳动力增长速度超过美国其他都市区，而纽约市 (NYC) 的科技劳动力增长速度超过美国其他都市区。同期，科技人员调动比例最大，旧金山湾区继续主导人工智能人才市场。数据显示，奥斯汀的风险投资支持的科技初创公司的员工数量在所涵盖的年份里增长了 23%，而大型科技公司的团队数量增长了 44%。来自“纽约市奥斯汀是科技工作繁荣城镇” “
+Axios (04/18/24) Ryan Heath 查看全文]]></description>
+      <guid>https://www.axios.com/2024/04/18/austin-nyc-tech-job-boom-towns</guid>
+      <pubDate>Mon, 22 Apr 2024 15:07:51 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能帮助救护车、消防车更快到达</title>
-      <link>https://www.bloomberg.com/news/features/2024-04-16/these-tech-startups-are-lowering-emergency-response-times</link>
-      <description><![CDATA[彭博社美国各地的城市正在测试人工智能工具，以缩短紧急响应时间并削减成本。 C2Smarter 学术联盟的技术与曼哈顿的街道传感器数据结合使用，以确定消防车到达火场的最佳路线。 Lyt 提供了一个系统，将连接到城市车辆的传感器与控制交通信号的软件连接起来。摘自“人工智能帮助救护车、消防车更快到达”
-彭博社 (04/16/24) 马修·博伊尔 查看完整文章 - 可能需要付费订阅]]></description>
-      <guid>https://www.bloomberg.com/news/features/2024-04-16/these-tech-startups-are-lowering-emergency-response-times</guid>
-      <pubDate>Fri, 19 Apr 2024 18:07:32 GMT</pubDate>
+      <title>女性科技网络关闭</title>
+      <link>https://www.bbc.com/news/articles/cw0769446nyo</link>
+      <description><![CDATA[BBC 新闻Women Who Code (WWC) 是一家支持技术行业女性的国际非营利组织，由于缺乏资金而关闭。这个总部位于美国的组织在 145 个国家拥有 360,000 名社区成员。该组织在宣布关闭的帖子中表示，自 2011 年成立以来，已举办了 20,000 多场活动，并已发放了 350 万美元的奖学金。摘自“女性科技网络关闭”
+BBC 新闻 (04/19/24) 伊姆兰·拉赫曼-琼斯 查看全文]]></description>
+      <guid>https://www.bbc.com/news/articles/cw0769446nyo</guid>
+      <pubDate>Mon, 22 Apr 2024 15:07:50 GMT</pubDate>
     </item>
     <item>
-      <title>脑电波可供出售。科罗拉多州希望改变这一现状</title>
-      <link>https://www.nytimes.com/2024/04/17/science/colorado-brain-data-privacy.html</link>
-      <description><![CDATA[《纽约时报》科罗拉多州州长贾里德·波利斯 (Jared Polis) 于 4 月 17 日签署了首个此类立法，扩大了科罗拉多州隐私法对“敏感数据”的定义，将生成的生物和“神经数据”包括在内由大脑、脊髓和遍布全身的神经网络组成。该法案针对消费者神经技术，因为联邦健康法保护临床环境中医疗设备收集的患者数据。 Neurorights 基金会对 30 家消费者神经技术公司进行了分析，结果发现只有一家公司对个人的行为进行了有意义的限制。神经数据。摘自“脑电波可供出售。科罗拉多州希望改变这一现状”
-纽约时报 (04/18/24) Jonathan Moens 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/04/17/science/colorado-brain-data-privacy.html</guid>
-      <pubDate>Fri, 19 Apr 2024 18:07:31 GMT</pubDate>
+      <title>模拟手机上的人工文本输入</title>
+      <link>https://www.helsinkitimes.fi/themes/themes/science-and-technology/25145-pioneering-ai-model-simulates-human-text-entry-on-mobile-phones.html</link>
+      <description><![CDATA[赫尔辛基时报（芬兰）芬兰阿尔托大学研究人员开发的人工智能模型可以在手机上模拟人类打字。该模型是与谷歌合作开发的，可用于在评估移动键盘设计时分析不同的用户群体，例如用一根手指打字的用户群体。阿尔托的 Antti Oulasvirta 表示，研究人员创建了一个具有类人视觉和运动系统的模拟用户，并“在键盘模拟器中对其进行了数百万次训练，直到其获得适用于各种现实场景的打字技能。” 摘自《在手机上模拟人类文本输入》
+赫尔辛基时报（芬兰）（04/18/24） 查看全文]]></description>
+      <guid>https://www.helsinkitimes.fi/themes/themes/science-and-technology/25145-pioneering-ai-model-simulates-human-text-entry-on-mobile-phones.html</guid>
+      <pubDate>Mon, 22 Apr 2024 15:07:50 GMT</pubDate>
     </item>
     <item>
-      <title>微软的 AI Copilot 使编码行业实现自动化</title>
-      <link>https://www.bloomberg.com/news/articles/2024-04-17/microsoft-s-ai-copilot-is-starting-to-automate-the-coding-industry</link>
-      <description><![CDATA[彭博社微软 GitHub 开发的 AI Copilot 编码助手在越来越多的新软件程序中得到应用，因​​为最新版本的 OpenAI GPT-4 技术的加入扩展了其功能。微软表示，包括 50,000 家企业在内的 130 万客户正在使用 Copilot。软件工程师通常使用 Copilot 来处理繁琐而重复的任务，例如调试软件，但有些人使用它来开发关键系统的代码。摘自“微软的 AI Copilot 使编码行业自动化”
-彭博社 (04/17/24) Jackie Davalos； Dina Bass 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-04-17/microsoft-s-ai-copilot-is-starting-to-automate-the-coding-industry</guid>
-      <pubDate>Fri, 19 Apr 2024 18:07:31 GMT</pubDate>
+      <title>58个国家青少年机器人代表队参赛</title>
+      <link>https://www.firstinspires.org/about/press-room/50K-Gather-to-Celebrate-Youth-Robotics-Teams-From-58-Countries-at-FIRST-Championship-in-Houston</link>
+      <description><![CDATA[FIRST来自 58 个国家的学生机器人团队参加了在休斯顿举办的 2024 年 FIRST（科学技术启发与认可）锦标赛。该赛事于周六结束，初中和高中机器人团队参加了 FIRST 机器人大赛和 FIRST 科技挑战赛国际锦标赛的决赛。来自以色列、密苏里州、亚利桑那州和宾夕法尼亚州的团队被评为今年 CRESCENDO 比赛的 FIRST 机器人竞赛获胜联盟，而来自罗马尼亚、加利福尼亚州和南非的团队则被评为 CENTERSTAGE 比赛的 FIRST 科技挑战赛获胜联盟。摘自“来自 58 个国家的青少年机器人团队参赛”
+FIRST (04/20/24) 查看全文]]></description>
+      <guid>https://www.firstinspires.org/about/press-room/50K-Gather-to-Celebrate-Youth-Robotics-Teams-From-58-Countries-at-FIRST-Championship-in-Houston</guid>
+      <pubDate>Mon, 22 Apr 2024 15:07:49 GMT</pubDate>
     </item>
     <item>
-      <title>无人机帮助打击大堡礁的非法捕鱼</title>
-      <link>https://www.abc.net.au/news/2024-04-16/long-range-drone-fighting-illegal-fishing-great-barrier-reef/103685532</link>
-      <description><![CDATA[ABC（澳大利亚）一架无人机部署在澳大利亚昆士兰州海岸附近，旨在识别大堡礁上的非法渔民。该无人机的摄像头配备了日光红外和超变焦镜头，可以使用光学、热、雷达和其他传感器检测高空的运动。它的行驶速度可达 120 公里/小时（约 75 英里/小时），一次充电可工作长达 18 小时。摘自“无人机帮助打击大堡礁非法捕鱼”
-ABC（澳大利亚）(04/15/24) Janet Shorthouse 查看全文]]></description>
-      <guid>https://www.abc.net.au/news/2024-04-16/long-range-drone-fighting-illegal-fishing-great-barrier-reef/103685532</guid>
-      <pubDate>Fri, 19 Apr 2024 18:07:31 GMT</pubDate>
+      <title>奥运会组织者公布了在体育运动中使用人工智能的战略</title>
+      <link>https://apnews.com/article/olympics-ai-artificial-intelligence-sports-30d3a33d4be893e1495e63fc1116aecc</link>
+      <description><![CDATA[美联社国际奥委会周五概述了在体育运动中使用人工智能的议程，称该技术可用于帮助识别有前途的运动员，个性化训练方法，并通过改进判断使比赛更加公平。计划还包括使用人工智能保护运动员免受在线骚扰，并帮助广播公司改善家庭观众的观看体验。一些人工智能项目将在今年夏天的巴黎奥运会上推出。摘自《奥运会组织者公布在体育运动中使用人工智能的策略》
+美联社 (04/19/24) Kelvin Chan 查看全文文章]]></description>
+      <guid>https://apnews.com/article/olympics-ai-artificial-intelligence-sports-30d3a33d4be893e1495e63fc1116aecc</guid>
+      <pubDate>Mon, 22 Apr 2024 15:07:49 GMT</pubDate>
     </item>
     <item>
-      <title>Bengio 跻身 2024 年 TIME100 榜单</title>
-      <link>https://time.com/6964962/yoshua-bengio/</link>
-      <description><![CDATA[《时代》《时代》 杂志将 ACM A. M. 图灵奖获得者 Yoshua Bengio 列入 2024 年 100 名最具影响力人物名单。人工智能安全以及与未来人工智能相关的灾难性后果的可能性。除此之外，他还曾担任联合国秘书长和英国人工智能安全研究所的顾问。摘自“Bengio 入围 2024 年 TIME100 榜单”
-时间 (04/17/24) Geoffrey Hinton 查看全文]]></description>
-      <guid>https://time.com/6964962/yoshua-bengio/</guid>
-      <pubDate>Fri, 19 Apr 2024 18:07:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>德克萨斯州黑客事件可能是俄罗斯首次破坏美国供水系统</title>
-      <link>https://www.washingtonpost.com/politics/2024/04/17/tex-hack-may-be-first-disruption-us-water-system-by-russia/</link>
-      <description><![CDATA[华盛顿邮报一月份，德克萨斯州 Muleshoe 镇的一座水塔在控制系统遭到黑客攻击后发生溢出，释放出数万加仑的水。这些自称“俄罗斯重生网络军”(CARR) 的黑客在网上发布了一段视频，显示该镇和附近一个城镇的水控制系统被操纵，展示了他们如何重置控制系统。 CARR 被认为是俄罗斯军事间谍机构的幌子。摘自“德克萨斯黑客可能是俄罗斯首次破坏美国供水系统”
-华盛顿邮报 (04/17/24) Ellen Nakashima；亚伦·谢弗 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.washingtonpost.com/politics/2024/04/17/tex-hack-may-be-first-disruption-us-water-system-by-russia/</guid>
-      <pubDate>Fri, 19 Apr 2024 18:07:30 GMT</pubDate>
+      <title>Meta、TikTok、X 受邀对 DSA 选举指南进行压力测试</title>
+      <link>https://www.euronews.com/next/2024/04/19/meta-tiktok-x-invited-to-stress-test-dsa-election-guidelines</link>
+      <description><![CDATA[EuronewsMeta、TikTok、X 等拥有超过 4500 万欧盟用户的在线平台已受欧盟委员会 (EC) 邀请对选举指南进行压力测试，以帮助为 6 月份的欧盟选举做好准备。欧盟委员会于三月份根据《数字服务法》发布了选举指南。参与者将研究多种可用于解决虚假信息活动等事件的场景。摘自“Meta、TikTok、X 受邀参加压力测试 DSA 选举指南”
+欧洲新闻 (04/19/24) 辛西娅·克罗特 查看全文]]></description>
+      <guid>https://www.euronews.com/next/2024/04/19/meta-tiktok-x-invited-to-stress-test-dsa-election-guidelines</guid>
+      <pubDate>Mon, 22 Apr 2024 15:07:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
