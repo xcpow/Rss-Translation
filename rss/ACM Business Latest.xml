@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Tue, 23 Apr 2024 09:07:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 12:13:25 GMT</lastBuildDate>
+    <item>
+      <title>国家安全内部人士对人工智能的危险进行了计算</title>
+      <link>https://www.wired.com/story/jason-matheny-national-security-insider-dangers-of-ai/</link>
+      <description><![CDATA[颇具影响力的智囊团兰德公司首席执行官杰森·马西尼表示，人工智能的进步让学习如何制造生物武器和其他毁灭性工具变得更加容易。]]></description>
+      <guid>https://www.wired.com/story/jason-matheny-national-security-insider-dangers-of-ai/</guid>
+      <pubDate>Tue, 23 Apr 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>半导体巨头 ASML 有新老板，也有大问题</title>
       <link>https://www.wired.com/story/asml-ceo-chip-war-christophe-fouquet/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>一系列人工智能工具将改变工作会议</title>
       <link>https://www.wired.com/story/taking-baby-steps-toward-the-ai-meeting-singularity/</link>
-      <description><![CDATA[初创公司 Limitless 推出的人工智能可穿戴设备有望让会议更加高效。这是人类互动更广泛转变的开始。]]></description>
+      <description><![CDATA[初创公司 Limitless 推出的一款由人工智能驱动的可穿戴设备有望提高会议效率。这是人类互动更广泛变革的开始。]]></description>
       <guid>https://www.wired.com/story/taking-baby-steps-toward-the-ai-meeting-singularity/</guid>
       <pubDate>Fri, 19 Apr 2024 13:00:00 GMT</pubDate>
     </item>
@@ -97,18 +104,11 @@
       <pubDate>Wed, 17 Apr 2024 10:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌员工因抗议与以色列的云合同而被警方拘留</title>
+      <title>谷歌员工因抗议与以色列签订云合同而被警方拘留</title>
       <link>https://www.wired.com/story/nine-google-workers-detained-by-police-protest-israel-cloud-contract/</link>
-      <description><![CDATA[视频显示，九名谷歌员工在纽约和加州桑尼维尔的办公室被警方带走，原因是他们占领了这些办公室，抗议与以色列政府达成的云协议。]]></description>
+      <description><![CDATA[视频显示，九名谷歌员工在纽约和加利福尼亚州桑尼维尔的办公室被警方带走，原因是他们占领了这些办公室，抗议与以色列政府达成的云协议。]]></description>
       <guid>https://www.wired.com/story/nine-google-workers-detained-by-police-protest-israel-cloud-contract/</guid>
       <pubDate>Wed, 17 Apr 2024 04:41:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌员工抗议与以色列政府签订的云合同</title>
-      <link>https://www.wired.com/story/google-no-tech-for-apartheid-project-nimbus-israel-gaza-protest/</link>
-      <description><![CDATA[随着以色列与哈马斯的战争仍在继续，谷歌员工在纽约和加利福尼亚州的公司办公室就与以色列政府签订的云合同“Project Nimbus”举行静坐和抗议。]]></description>
-      <guid>https://www.wired.com/story/google-no-tech-for-apartheid-project-nimbus-israel-gaza-protest/</guid>
-      <pubDate>Tue, 16 Apr 2024 17:09:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
