@@ -4,102 +4,110 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Mon, 22 Apr 2024 15:07:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 18:08:48 GMT</lastBuildDate>
     <item>
-      <title>SURF 通过诺基亚在现有光纤上实现 800Gbps 传输</title>
-      <link>https://www.computerweekly.com/news/366581094/SURF-glides-to-800Gbps-transmission-on-existing-fibre-through-Nokia</link>
-      <description><![CDATA[《计算机周刊》荷兰教育 IT 合作组织 SURF 与诺基亚合作，成功在其光纤网络基础设施上试验单载波 800Gbps 光传输，为即将升级的大型强子对撞机做好准备欧洲核子研究组织 (CERN) 粒子加速器 (LHC)。该光纤链路是 SURF 网络的一部分，该网络连接荷兰的国家研究和教育机构。摘自《SURF 通过诺基亚在现有光纤上实现 800Gbps 传输》
-计算机周刊 (04/16/24) Joe O’Halloran 查看全文]]></description>
-      <guid>https://www.computerweekly.com/news/366581094/SURF-glides-to-800Gbps-transmission-on-existing-fibre-through-Nokia</guid>
-      <pubDate>Mon, 22 Apr 2024 15:07:53 GMT</pubDate>
+      <title>人工智能控制的喷气式战斗机与人类飞行员进行对抗</title>
+      <link>https://arstechnica.com/cars/2024/04/darpas-ai-test-pilot-successfully-flew-a-dogfight-against-a-human/</link>
+      <description><![CDATA[Ars Technica作为美国国防部国防高级研究计划局 (DARPA) 空战评估计划的一部分，人工智能试飞员首次驾驶喷气式战斗机与人类飞行员进行缠斗。自 2022 年 12 月以来，X-62A 可变稳定性飞行模拟器测试飞机 (VISTA) 已进行 21 次试飞，其中包括在可视范围内与有人驾驶的 F-16 进行空中交战。 DARPA 表示，在试飞期间，对飞行关键软件进行了超过 100,000 行更改，这标志着“前所未有的发展速度”。摘自“人工智能控制的喷气式战斗机与人类飞行员对抗” 
+Ars Technica (04/19/24) Jonathan M. Gitlin 查看全文]]></description>
+      <guid>https://arstechnica.com/cars/2024/04/darpas-ai-test-pilot-successfully-flew-a-dogfight-against-a-human/</guid>
+      <pubDate>Wed, 24 Apr 2024 18:08:47 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌将向军方提供人工智能用于灾难响应</title>
-      <link>https://www.washingtonpost.com/technology/2024/04/17/google-x-bellwether-national-guard-disasters/</link>
-      <description><![CDATA[华盛顿邮报谷歌正在向美国国民警卫队提供人工智能工具来分析灾区图像，以改善其灾难应对能力。该技术可以将航空照片与卫星图像和地图进行比较，以精确定位位置、道路、建筑物和其他基础设施，使国民警卫队能够了解受损情况并相应地部署资源。该技术将在夏季野火季节推出。摘自“Google 向军方提供人工智能以应对灾难”
-华盛顿邮报 (04/17/24) Gerrit De Vynck 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.washingtonpost.com/technology/2024/04/17/google-x-bellwether-national-guard-disasters/</guid>
-      <pubDate>Mon, 22 Apr 2024 15:07:53 GMT</pubDate>
+      <title>自动电动滑板车可以自行返回充电点</title>
+      <link>https://www.newscientist.com/article/2424170-autonomous-e-scooters-could-ride-themselves-back-to-charging-points/</link>
+      <description><![CDATA[新科学家德国斯图加特大学的研究人员开发的自动滑板车可以简化在城市周围收集和重新分配电动滑板车的过程。该踏板车具有自平衡功能，配有一个与倾斜传感器和车载计算机配合使用的反作用轮，以保持其直立。它还具有三个超声波传感器，可以识别四米外的潜在障碍物。摘自“自动电动滑板车可以自行返回充电点”
+新科学家 (04/19/24) 马修·斯帕克斯 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.newscientist.com/article/2424170-autonomous-e-scooters-could-ride-themselves-back-to-charging-points/</guid>
+      <pubDate>Wed, 24 Apr 2024 18:08:47 GMT</pubDate>
     </item>
     <item>
-      <title>让量子计算机更容易编程</title>
-      <link>https://news.mit.edu/2024/mit-researchers-propose-blueprint-how-make-quantum-computers-easier-program-0416</link>
-      <description><![CDATA[麻省理工学院新闻麻省理工学院计算机科学与人工智能实验室的研究人员开发了一种量子计算机的概念模型，可以使此类计算机更易于编程。研究人员认为，他们的量子控制机模型可用于克服与对量子计算机进行编程以运行量子算法相关的挑战。新模型使控制流和所有其他指令可逆，因此算法可以在不破坏其叠加的情况下处理量子信息。摘自“让量子计算机更容易编程”
-麻省理工学院新闻 (04/16/24) Alex Shipps 查看全文]]></description>
-      <guid>https://news.mit.edu/2024/mit-researchers-propose-blueprint-how-make-quantum-computers-easier-program-0416</guid>
-      <pubDate>Mon, 22 Apr 2024 15:07:53 GMT</pubDate>
+      <title>为什么科技股跌幅更大？</title>
+      <link>https://www.bbc.com/news/articles/cxrz350qyy5o</link>
+      <description><![CDATA[BBC据在线中断监控平台 DownDetector 的母公司 Ookla 的 Brennen Smith 称，IT 中断发生得越来越频繁。史密斯说：“现在，这些巨头正在推动将颠覆性的新技术融入到他们的产品和服务中。我认为，随着现在对创新的推动，我们将开始看到科技公司更快地发展，[但是]它有可能破坏事物的风险。”中断可能是由多种因素引起的，但网络安全公司 NetSPI 的 Sam Kirkman 强调，现代互联网依赖于“真正古老技术的结构”。摘自“Why Is Tech Going Down More” ？”
+BBC (04/19/24) 丽芙·麦克马洪 查看全文]]></description>
+      <guid>https://www.bbc.com/news/articles/cxrz350qyy5o</guid>
+      <pubDate>Wed, 24 Apr 2024 18:08:47 GMT</pubDate>
     </item>
     <item>
-      <title>3D 打印“软皮”垫为机器人提供触觉</title>
-      <link>https://www.hackster.io/news/these-3d-printed-tpu-soft-skin-pads-give-robots-a-low-cost-highly-sensitive-sense-of-touch-be6c9c22a5af</link>
-      <description><![CDATA[hackster.io伊利诺伊大学香槟分校的研究人员开发了 3D 打印的“软皮”垫，可兼作机器人的机械压力传感器。这些垫由热塑性聚氨酯在现成的增材制造打印机上打印而成。柔软的外层覆盖中空的填充部分，当外层被压缩时，内部的气压会相应变化，从而允许连接到微控制器的传感器检测振动、触摸和压力变化。来自“3D 打印‘软皮’垫赋予机器人触觉”
-hackster.io (04/18/24) Gareth Halfacree 查看全文]]></description>
-      <guid>https://www.hackster.io/news/these-3d-printed-tpu-soft-skin-pads-give-robots-a-low-cost-highly-sensitive-sense-of-touch-be6c9c22a5af</guid>
-      <pubDate>Mon, 22 Apr 2024 15:07:52 GMT</pubDate>
+      <title>太阳能建筑机器人旨在解决行业劳动力问题</title>
+      <link>https://www.fastcompany.com/91108331/these-solar-assembling-robotic-arms-could-solve-one-of-the-industrys-biggest-problems</link>
+      <description><![CDATA[Fast Company初创公司 Charge Robotics 开发了一款机器人，可以实现太阳能发电场建设过程的部分自动化，以帮助解决劳动力短缺问题。 Sunrise 机器人系统类似于一个集装箱，内部装有机械臂，用于将太阳能电池板和安装支架组装在一起，然后由车辆运送到太阳能发电场进行最终组装。 Sunrise 每天可安装高达 1 兆瓦的太阳能，可满足约 80 人的传统船员的需求。多个系统可同时使用，并与传统人员结合使用，进一步提高安装速度。摘自《旨在解决行业劳动力问题的太阳能建筑机器人》
+Fast Company (04/19/24) Adele Peters 查看全文]]></description>
+      <guid>https://www.fastcompany.com/91108331/these-solar-assembling-robotic-arms-could-solve-one-of-the-industrys-biggest-problems</guid>
+      <pubDate>Wed, 24 Apr 2024 18:08:47 GMT</pubDate>
     </item>
     <item>
-      <title>结合 NAND、RAM 功能的内存技术消耗更少的电量</title>
-      <link>https://www.techradar.com/pro/scientists-inch-closer-to-holy-grail-of-memory-breakthrough-producing-tech-that-combines-nand-and-ram-features-could-be-much-cheaper-to-produce-and-consume-far-less-power</link>
-      <description><![CDATA[TechRadar韩国高级科学技术研究院的研究人员开发出一种可能取代 DRAM 和 NAND 闪存的存储设备。这款超低功耗相变存储器件将 DRAM 的高速性能与 NAND 即使在断电时也能保存数据的能力结合在一起。由此产生的非易失性高速器件的功耗比之前的相变存储器模型低 15 倍。摘自“结合 NAND 的存储器技术，RAM 功能消耗更少的功耗”
-TechRadar (04/17/24) 韦恩·威廉姆斯 查看全文]]></description>
-      <guid>https://www.techradar.com/pro/scientists-inch-closer-to-holy-grail-of-memory-breakthrough-producing-tech-that-combines-nand-and-ram-features-could-be-much-cheaper-to-produce-and-consume-far-less-power</guid>
-      <pubDate>Mon, 22 Apr 2024 15:07:52 GMT</pubDate>
+      <title>卫星数据有助于精确定位海浪</title>
+      <link>https://spectrum.ieee.org/ocean-buoy</link>
+      <description><![CDATA[IEEE Spectrum包括中国科学院徐永生在内的一个团队建造了一种新型浮标来实现波浪的精确测量。与其他波浪浮标一样，该技术采用全球导航卫星系统（GNSS）技术。但它不是收集当前标准的双频卫星数据，而是通过单频分析实现更低的成本、更好的精度和实时计算。 Xu 估计他们的浮标成本约为其他波浪浮标价格的十分之一，这意味着科学家可以部署更大的浮标网络，以更好地监测波浪。摘自“卫星数据有助于查明海洋波浪” “
+IEEE Spectrum (04/22/24) Gwendolyn Rak 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/ocean-buoy</guid>
+      <pubDate>Wed, 24 Apr 2024 18:08:46 GMT</pubDate>
     </item>
     <item>
-      <title>传感器可以实时监测肿瘤</title>
-      <link>https://spectrum.ieee.org/cancer-sensor</link>
-      <description><![CDATA[IEEE Spectrum由加州大学伯克利分校和加州大学旧金山分校的研究人员开发的概念验证传感器可以为实时癌症监测铺平道路。该传感器可以放置在肿瘤旁边，以实时评估患者对癌症治疗的反应。该传感器由超声波供电并使用超声波传输数据，小型激光提供局部照明。摘自“传感器可以实时监测肿瘤”
-IEEE Spectrum (04/18/24) Michelle Hampson 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/cancer-sensor</guid>
-      <pubDate>Mon, 22 Apr 2024 15:07:51 GMT</pubDate>
+      <title>团体加入打击网络虚假信息的斗争</title>
+      <link>https://www.nytimes.com/2024/04/22/business/media/american-sunlight-project-fight-disinformation.html</link>
+      <description><![CDATA[《纽约时报》美国国土安全部虚假信息管理委员会前负责人尼娜·扬科维奇（如图）共同创立了非营利性的美国阳光项目，目标是打击破坏网络安全的活动研究虚假信息来源的研究人员。该组织是在著名研究人员成为诉讼、传票和人身威胁的时期成立的。该项目的启动反映出，随着 2024 年总统选举的临近，识别和打击虚假信息的问题已变得多么分裂。摘自“加入打击网络虚假信息的团体”
+纽约时报 (04/22/24) 史蒂文·李·迈尔斯；吉姆·鲁滕伯格 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/04/22/business/media/american-sunlight-project-fight-disinformation.html</guid>
+      <pubDate>Wed, 24 Apr 2024 18:08:46 GMT</pubDate>
     </item>
     <item>
-      <title>纽约市奥斯汀是科技工作繁荣的城镇</title>
-      <link>https://www.axios.com/2024/04/18/austin-nyc-tech-job-boom-towns</link>
-      <description><![CDATA[Axios来自风险投资 (VC) 公司 SignalFire 的数据显示，2019 年至 2023 年间，德克萨斯州奥斯汀市的科技劳动力增长速度超过美国其他都市区，而纽约市 (NYC) 的科技劳动力增长速度超过美国其他都市区。同期，科技人员调动比例最大，旧金山湾区继续主导人工智能人才市场。数据显示，奥斯汀的风险投资支持的科技初创公司的员工数量在所涵盖的年份里增长了 23%，而大型科技公司的团队数量增长了 44%。来自“纽约市奥斯汀是科技工作繁荣城镇” “
-Axios (04/18/24) Ryan Heath 查看全文]]></description>
-      <guid>https://www.axios.com/2024/04/18/austin-nyc-tech-job-boom-towns</guid>
-      <pubDate>Mon, 22 Apr 2024 15:07:51 GMT</pubDate>
+      <title>GitHub 评论被滥用通过 Microsoft Repo URL 推送恶意软件</title>
+      <link>https://www.bleepingcomputer.com/news/security/github-comments-abused-to-push-malware-via-microsoft-repo-urls/</link>
+      <description><![CDATA[BleepingComputerMcAfee 报告称，新的 LUA 恶意软件加载程序正在通过看似合法的 Microsoft GitHub 存储库进行分发。 GitHub 用户可以在留下评论时附加文件，这些文件会上传到 GitHub 的内容分发网络 (CDN) 并使用唯一的 URL 与相关项目关联。将文件添加到未保存的评论后，会自动生成下载链接，从而允许威胁行为者将恶意软件附加到任何存储库。文件不会从 CDN 中删除，即使评论未发布或发布后被删除，下载 URL 仍会继续工作。摘自“滥用 GitHub 评论通过 Microsoft Repo URL 推送恶意软件”&lt; br /&gt;
+BleepingComputer (04/20/24) 劳伦斯·艾布拉姆斯 查看全文]]></description>
+      <guid>https://www.bleepingcomputer.com/news/security/github-comments-abused-to-push-malware-via-microsoft-repo-urls/</guid>
+      <pubDate>Wed, 24 Apr 2024 18:08:46 GMT</pubDate>
     </item>
     <item>
-      <title>女性科技网络关闭</title>
-      <link>https://www.bbc.com/news/articles/cw0769446nyo</link>
-      <description><![CDATA[BBC 新闻Women Who Code (WWC) 是一家支持技术行业女性的国际非营利组织，由于缺乏资金而关闭。这个总部位于美国的组织在 145 个国家拥有 360,000 名社区成员。该组织在宣布关闭的帖子中表示，自 2011 年成立以来，已举办了 20,000 多场活动，并已发放了 350 万美元的奖学金。摘自“女性科技网络关闭”
-BBC 新闻 (04/19/24) 伊姆兰·拉赫曼-琼斯 查看全文]]></description>
-      <guid>https://www.bbc.com/news/articles/cw0769446nyo</guid>
-      <pubDate>Mon, 22 Apr 2024 15:07:50 GMT</pubDate>
+      <title>无需编码专业知识的高级脑科学</title>
+      <link>https://www.helmholtz-munich.de/en/newsroom/news-all/artikel/advanced-brain-science-without-coding-expertise</link>
+      <description><![CDATA[亥姆霍兹中心德国亥姆霍兹慕尼黑和慕尼黑大学医院的研究人员开发的深度学习工具可以在不需要编码专业知识的情况下绘制脑细胞图。 DELiVR（深度学习和虚拟现实）工具的目标是使 3D 大脑分析民主化。研究人员可以针对特定细胞类型训练 DELiVR，它与开源斐济软件配合进行图像分析。摘自《无需编码专业知识的高级脑科学》
+亥姆霍兹中心 (04/22/24)]]></description>
+      <guid>https://www.helmholtz-munich.de/en/newsroom/news-all/artikel/advanced-brain-science-without-coding-expertise</guid>
+      <pubDate>Wed, 24 Apr 2024 18:08:45 GMT</pubDate>
     </item>
     <item>
-      <title>模拟手机上的人工文本输入</title>
-      <link>https://www.helsinkitimes.fi/themes/themes/science-and-technology/25145-pioneering-ai-model-simulates-human-text-entry-on-mobile-phones.html</link>
-      <description><![CDATA[赫尔辛基时报（芬兰）芬兰阿尔托大学研究人员开发的人工智能模型可以在手机上模拟人类打字。该模型是与谷歌合作开发的，可用于在评估移动键盘设计时分析不同的用户群体，例如用一根手指打字的用户群体。阿尔托的 Antti Oulasvirta 表示，研究人员创建了一个具有类人视觉和运动系统的模拟用户，并“在键盘模拟器中对其进行了数百万次训练，直到其获得适用于各种现实场景的打字技能。” 摘自《在手机上模拟人类文本输入》
-赫尔辛基时报（芬兰）（04/18/24） 查看全文]]></description>
-      <guid>https://www.helsinkitimes.fi/themes/themes/science-and-technology/25145-pioneering-ai-model-simulates-human-text-entry-on-mobile-phones.html</guid>
-      <pubDate>Mon, 22 Apr 2024 15:07:50 GMT</pubDate>
+      <title>黑洞神秘耀斑的 3D 模型</title>
+      <link>https://interestingengineering.com/space/3d-reconstruction-of-milky-ways-black-hole-flare-unveiled</link>
+      <description><![CDATA[有趣的工程加州理工学院的研究人员制作了围绕银河系黑洞人马座 A* 的耀斑的第一个 3D 模型。该 3D 视频是通过将望远镜数据与 AI 计算机视觉模拟相结合而制作的。研究人员利用神经辐射场 (NeRF) 算法，该算法使用深度学习从 2D 图像和智利阿塔卡马大型毫米阵列的数据生成 3D 表示。摘自“黑洞神秘耀斑的 3D 模型”
+有趣的工程 (04/22/24) Mrigakshi Dixit 查看全文]]></description>
+      <guid>https://interestingengineering.com/space/3d-reconstruction-of-milky-ways-black-hole-flare-unveiled</guid>
+      <pubDate>Wed, 24 Apr 2024 18:08:45 GMT</pubDate>
     </item>
     <item>
-      <title>58个国家青少年机器人代表队参赛</title>
-      <link>https://www.firstinspires.org/about/press-room/50K-Gather-to-Celebrate-Youth-Robotics-Teams-From-58-Countries-at-FIRST-Championship-in-Houston</link>
-      <description><![CDATA[FIRST来自 58 个国家的学生机器人团队参加了在休斯顿举办的 2024 年 FIRST（科学技术启发与认可）锦标赛。该赛事于周六结束，初中和高中机器人团队参加了 FIRST 机器人大赛和 FIRST 科技挑战赛国际锦标赛的决赛。来自以色列、密苏里州、亚利桑那州和宾夕法尼亚州的团队被评为今年 CRESCENDO 比赛的 FIRST 机器人竞赛获胜联盟，而来自罗马尼亚、加利福尼亚州和南非的团队则被评为 CENTERSTAGE 比赛的 FIRST 科技挑战赛获胜联盟。摘自“来自 58 个国家的青少年机器人团队参赛”
-FIRST (04/20/24) 查看全文]]></description>
-      <guid>https://www.firstinspires.org/about/press-room/50K-Gather-to-Celebrate-Youth-Robotics-Teams-From-58-Countries-at-FIRST-Championship-in-Houston</guid>
-      <pubDate>Mon, 22 Apr 2024 15:07:49 GMT</pubDate>
+      <title>宝莱坞明星的深度造假引发了对干预印度选举的担忧</title>
+      <link>https://www.reuters.com/world/india/deepfakes-bollywood-stars-spark-worries-ai-meddling-india-election-2024-04-22/</link>
+      <description><![CDATA[路透社宝莱坞一线演员阿米尔·汗（Aamir Khan）（右图）和兰维尔·辛格（Ranveer Singh）（左）批评印度总理纳伦德拉·莫迪（Narendra Modi）（中）的 Deepfake 视频在网上疯传。这些视频呼吁观众投票给反对党国大党，引发了人们对利用人工智能影响国家正在进行的大选的担忧。 路透社发现，自上周以来，这些视频在社交媒体上的观看次数已超过 50 万次。至少有八个事实核查网站确定这些视频被更改或操纵，但尚不清楚是谁创建了这些视频。摘自“宝莱坞明星的深度造假引发了对干预印度选举的担忧”
+路透社 (04/22/24) Aditya Kalra；穆西夫·文加蒂尔；德瓦尼·潘迪亚；等 查看全文]]></description>
+      <guid>https://www.reuters.com/world/india/deepfakes-bollywood-stars-spark-worries-ai-meddling-india-election-2024-04-22/</guid>
+      <pubDate>Wed, 24 Apr 2024 18:08:44 GMT</pubDate>
     </item>
     <item>
-      <title>奥运会组织者公布了在体育运动中使用人工智能的战略</title>
-      <link>https://apnews.com/article/olympics-ai-artificial-intelligence-sports-30d3a33d4be893e1495e63fc1116aecc</link>
-      <description><![CDATA[美联社国际奥委会周五概述了在体育运动中使用人工智能的议程，称该技术可用于帮助识别有前途的运动员，个性化训练方法，并通过改进判断使比赛更加公平。计划还包括使用人工智能保护运动员免受在线骚扰，并帮助广播公司改善家庭观众的观看体验。一些人工智能项目将在今年夏天的巴黎奥运会上推出。摘自《奥运会组织者公布在体育运动中使用人工智能的策略》
-美联社 (04/19/24) Kelvin Chan 查看全文文章]]></description>
-      <guid>https://apnews.com/article/olympics-ai-artificial-intelligence-sports-30d3a33d4be893e1495e63fc1116aecc</guid>
-      <pubDate>Mon, 22 Apr 2024 15:07:49 GMT</pubDate>
+      <title>大学推出世界上最大的 3D 打印机</title>
+      <link>https://apnews.com/article/biggest-3d-printer-maine-c748fc9fd70557c839c70a494e0369f3</link>
+      <description><![CDATA[美联社拥有世界上最大的 3D 打印机的缅因大学周二推出了比第一台大四倍的 3D 打印机。新打印机的框架填满了学校校园的一座大型建筑，可以打印 29 米 x 10 米 x 5.5 米的物体。最初的打印机于 2019 年推出，被吉尼斯世界纪录认证为世界上最大的聚合物 3D 打印机。它被用来建造一个 600 平方英尺的单户住宅，由可回收的木纤维和生物树脂材料制成。摘自“大学推出世界上最大的 3D 打印机”
+美联社 (04/23/24) 大卫·夏普；詹妮弗·麦克德莫特 查看全文]]></description>
+      <guid>https://apnews.com/article/biggest-3d-printer-maine-c748fc9fd70557c839c70a494e0369f3</guid>
+      <pubDate>Wed, 24 Apr 2024 18:08:44 GMT</pubDate>
     </item>
     <item>
-      <title>Meta、TikTok、X 受邀对 DSA 选举指南进行压力测试</title>
-      <link>https://www.euronews.com/next/2024/04/19/meta-tiktok-x-invited-to-stress-test-dsa-election-guidelines</link>
-      <description><![CDATA[EuronewsMeta、TikTok、X 等拥有超过 4500 万欧盟用户的在线平台已受欧盟委员会 (EC) 邀请对选举指南进行压力测试，以帮助为 6 月份的欧盟选举做好准备。欧盟委员会于三月份根据《数字服务法》发布了选举指南。参与者将研究多种可用于解决虚假信息活动等事件的场景。摘自“Meta、TikTok、X 受邀参加压力测试 DSA 选举指南”
-欧洲新闻 (04/19/24) 辛西娅·克罗特 查看全文]]></description>
-      <guid>https://www.euronews.com/next/2024/04/19/meta-tiktok-x-invited-to-stress-test-dsa-election-guidelines</guid>
-      <pubDate>Mon, 22 Apr 2024 15:07:49 GMT</pubDate>
+      <title>中国老龄化科技工作者遭遇“35岁诅咒”</title>
+      <link>https://www.ft.com/content/5cf306ad-3a39-4357-b7b3-1d2644bb13a7</link>
+      <description><![CDATA[英国《金融时报》“35岁的诅咒”似乎越来越多地影响着中国科技行业。有消息称，短视频应用快手有一个名为“石灰石”的重组计划，其中30多岁的初级员工被淘汰。北京劳动法律师杨宝全表示，“人们普遍认为，老年工人跟不上最新的技术发展，没有精力继续艰苦工作，而且工资太贵” ”。去年，中国招聘平台拉勾智联的调查显示，约 87% 的程序员表示，他们“严重担心”失去工作或 35 岁后无法找到新工作。摘自《中国老龄化科技》工人遭遇“35岁诅咒”
+《金融时报》（04/23/24）Kai Waluszewski；埃莉诺·奥尔科特；瑞安·麦克莫罗；等 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.ft.com/content/5cf306ad-3a39-4357-b7b3-1d2644bb13a7</guid>
+      <pubDate>Wed, 24 Apr 2024 18:08:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>生成式 AI 进入 CRISPR 基因编辑领域</title>
+      <link>https://www.nytimes.com/2024/04/22/technology/generative-ai-gene-editing-crispr.html</link>
+      <description><![CDATA[《纽约时报》总部位于加利福尼亚州伯克利的初创公司 Profluence 开发的生成人工智能技术，正在利用一种名为 OpenCRISPR-1 的基因编辑器生成微观生物机制的蓝图，该编辑器可以编辑 DNA。该技术从氨基酸和核酸序列中学习，本质上是分析从自然界中提取的 CRISPR 基因编辑器的行为，并学习如何生成全新的基因编辑器。 Profluence 首席执行官 Ali Madani（如图）表示：“这些人工智能模型从序列中学习，无论这些序列是字符序列、单词序列、计算机代码序列还是氨基酸序列。” Profluence 表示，它是“开源”其 OpenCRISPR-1 编辑器，但不是其背后的 AI 技术。摘自“Generative AI Arrrives in the Gene Editing World of CRISPR”
+纽约时报 (04/23/24) Cade Metz 查看全文 - 可能需要免费注册]]></description>
+      <guid>https://www.nytimes.com/2024/04/22/technology/generative-ai-gene-editing-crispr.html</guid>
+      <pubDate>Wed, 24 Apr 2024 18:08:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
