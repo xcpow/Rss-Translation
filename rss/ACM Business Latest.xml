@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Thu, 25 Apr 2024 12:10:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 15:06:36 GMT</lastBuildDate>
+    <item>
+      <title>伊丽莎白·沃伦呼吁打击加密货币在儿童性虐待中的作用</title>
+      <link>https://www.wired.com/story/elizabeth-warren-crypto-online-child-sexual-abuse/</link>
+      <description><![CDATA[美国参议员呼吁对加密货币在支付在线儿童性虐待图像方面的作用进行新的审查，他们称这个问题已经恶化。]]></description>
+      <guid>https://www.wired.com/story/elizabeth-warren-crypto-online-child-sexual-abuse/</guid>
+      <pubDate>Thu, 25 Apr 2024 15:01:35 GMT</pubDate>
+    </item>
     <item>
       <title>Facebook 和 Instagram 上充斥着露骨的“AI 女友”广告</title>
       <link>https://www.wired.com/story/ads-for-explicit-ai-girlfriends-swarming-facebook-and-instagram/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>非竞争已死——科技工作者可以自由流动</title>
       <link>https://www.wired.com/story/noncompetes-are-dead-tech-workers-free-to-roam/</link>
-      <description><![CDATA[美国联邦贸易委员会的一项新规则使大多数经常用于约束科技工人的竞业禁止协议无效。它可以释放更高的工资以及更多的创业和创新。]]></description>
+      <description><![CDATA[美国联邦贸易委员会的一项新规定使大多数经常用于约束科技工作者的竞业禁止协议失效。该规定可能会提高工资水平，促进创业和创新。]]></description>
       <guid>https://www.wired.com/story/noncompetes-are-dead-tech-workers-free-to-roam/</guid>
       <pubDate>Tue, 23 Apr 2024 23:21:28 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Fri, 19 Apr 2024 16:50:46 GMT</pubDate>
     </item>
     <item>
-      <title>如何阻止 ChatGPT 的语音功能打扰你</title>
+      <title>如何阻止 ChatGPT 的语音功能打扰您</title>
       <link>https://www.wired.com/story/how-to-stop-chatgpt-talking-over-you/</link>
       <description><![CDATA[当聊天机器人不经常与您交谈时，ChatGPT 的对话工具非常棒。尝试这些技巧以获得更好的 AI 音频体验。]]></description>
       <guid>https://www.wired.com/story/how-to-stop-chatgpt-talking-over-you/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[该汽车公司普及了电动汽车。现在，面对来自中国的激烈竞争，它必须弄清楚下一步该做什么。]]></description>
       <guid>https://www.wired.com/story/tesla-robotaxi-pivot-china/</guid>
       <pubDate>Thu, 18 Apr 2024 16:47:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果你的人工智能女友讨厌你怎么办？</title>
-      <link>https://www.wired.com/story/what-if-your-ai-girlfriend-hated-you/</link>
-      <description><![CDATA[AngryGF 提供了一个永远愤怒的聊天机器人，旨在教男人更好的沟通技巧。 《连线》杂志试了一下。]]></description>
-      <guid>https://www.wired.com/story/what-if-your-ai-girlfriend-hated-you/</guid>
-      <pubDate>Thu, 18 Apr 2024 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
