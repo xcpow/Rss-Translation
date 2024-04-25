@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Thu, 25 Apr 2024 09:07:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 12:10:49 GMT</lastBuildDate>
+    <item>
+      <title>Facebook 和 Instagram 上充斥着露骨的“AI 女友”广告</title>
+      <link>https://www.wired.com/story/ads-for-explicit-ai-girlfriends-swarming-facebook-and-instagram/</link>
+      <description><![CDATA[《连线》发现，Meta 的社交平台上投放了数千个广告，宣传露骨的“AI 女友”应用程序。一些人类性工作者表示，该平台对自己的帖子进行更严厉的监管，这是不公平的。]]></description>
+      <guid>https://www.wired.com/story/ads-for-explicit-ai-girlfriends-swarming-facebook-and-instagram/</guid>
+      <pubDate>Thu, 25 Apr 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>TikTok 的创作者经济凝视深渊</title>
       <link>https://www.wired.com/story/senate-vote-tiktok-creator-economy-staring-into-the-abyss/</link>
@@ -62,9 +69,9 @@
       <pubDate>Fri, 19 Apr 2024 16:50:46 GMT</pubDate>
     </item>
     <item>
-      <title>如何阻止 ChatGPT 的语音功能打扰您</title>
+      <title>如何阻止 ChatGPT 的语音功能打扰你</title>
       <link>https://www.wired.com/story/how-to-stop-chatgpt-talking-over-you/</link>
-      <description><![CDATA[ChatGPT 的对话工具非常棒——当聊天机器人不再不停地打断你说话时。尝试这些技巧，获得更好的 AI 音频体验。]]></description>
+      <description><![CDATA[当聊天机器人不经常与您交谈时，ChatGPT 的对话工具非常棒。尝试这些技巧以获得更好的 AI 音频体验。]]></description>
       <guid>https://www.wired.com/story/how-to-stop-chatgpt-talking-over-you/</guid>
       <pubDate>Fri, 19 Apr 2024 15:23:10 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[AngryGF 提供了一个永远愤怒的聊天机器人，旨在教男人更好的沟通技巧。 《连线》杂志试了一下。]]></description>
       <guid>https://www.wired.com/story/what-if-your-ai-girlfriend-hated-you/</guid>
       <pubDate>Thu, 18 Apr 2024 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>实时 Deepfake 浪漫骗局已经到来</title>
-      <link>https://www.wired.com/story/yahoo-boys-real-time-deepfake-scams/</link>
-      <description><![CDATA[观看被称为“雅虎男孩”的能言善辩的骗子如何利用广泛使用的换脸技术来实施精心设计的爱情骗局。]]></description>
-      <guid>https://www.wired.com/story/yahoo-boys-real-time-deepfake-scams/</guid>
-      <pubDate>Thu, 18 Apr 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
