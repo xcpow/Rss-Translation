@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Fri, 26 Apr 2024 12:12:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 15:08:23 GMT</lastBuildDate>
+    <item>
+      <title>出售或不出售，TikTok 永远不会一样</title>
+      <link>https://www.wired.com/story/plaintext-sale-or-no-sale-tiktok-will-never-be-the-same/</link>
+      <description><![CDATA[TikTok但没有算法？ Meta 推出的 TikTok？本周的一项新法律将该平台置于死亡观察状态，而且所有潜在结果看起来都不太好。]]></description>
+      <guid>https://www.wired.com/story/plaintext-sale-or-no-sale-tiktok-will-never-be-the-same/</guid>
+      <pubDate>Fri, 26 Apr 2024 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>买不起房子？买一件代替</title>
       <link>https://www.wired.com/story/fractional-home-ownership-startups/</link>
@@ -29,14 +36,14 @@
     <item>
       <title>Meta 的开源 Llama 3 已经紧追 OpenAI</title>
       <link>https://www.wired.com/story/metas-open-source-llama-3-nipping-at-openais-heels/</link>
-      <description><![CDATA[Meta 免费赠送功能强大的人工智能软件的决定可能会威胁 OpenAI 和谷歌的商业模式。]]></description>
+      <description><![CDATA[Meta 决定免费提供强大的 AI 软件，这可能会威胁 OpenAI 和谷歌的商业模式。]]></description>
       <guid>https://www.wired.com/story/metas-open-source-llama-3-nipping-at-openais-heels/</guid>
       <pubDate>Thu, 25 Apr 2024 16:00:00 GMT</pubDate>
     </item>
     <item>
       <title>伊丽莎白·沃伦呼吁打击加密货币在儿童性虐待中的作用</title>
       <link>https://www.wired.com/story/elizabeth-warren-crypto-online-child-sexual-abuse/</link>
-      <description><![CDATA[美国参议员呼吁对加密货币在支付在线儿童性虐待图像方面的作用进行新的审查，他们称这个问题已经恶化。]]></description>
+      <description><![CDATA[美国参议员呼吁重新审查加密货币在网络儿童性虐待图像支付中的作用，他们表示这个问题已经恶化。]]></description>
       <guid>https://www.wired.com/story/elizabeth-warren-crypto-online-child-sexual-abuse/</guid>
       <pubDate>Thu, 25 Apr 2024 15:58:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[比特币减半即将到来。加密货币挖矿公司正在想尽一切办法来生存。]]></description>
       <guid>https://www.wired.com/story/bitcoin-miners-halving/</guid>
       <pubDate>Fri, 19 Apr 2024 16:50:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何阻止 ChatGPT 的语音功能打扰您</title>
-      <link>https://www.wired.com/story/how-to-stop-chatgpt-talking-over-you/</link>
-      <description><![CDATA[当聊天机器人不经常与您交谈时，ChatGPT 的对话工具非常棒。尝试这些技巧以获得更好的 AI 音频体验。]]></description>
-      <guid>https://www.wired.com/story/how-to-stop-chatgpt-talking-over-you/</guid>
-      <pubDate>Fri, 19 Apr 2024 15:23:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
