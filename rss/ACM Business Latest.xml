@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Fri, 26 Apr 2024 09:08:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 12:12:43 GMT</lastBuildDate>
+    <item>
+      <title>买不起房子？买一件代替</title>
+      <link>https://www.wired.com/story/fractional-home-ownership-startups/</link>
+      <description><![CDATA[在混乱的房地产市场中，许多买家被拒之门外，部分住房所有权和投资趋势正在兴起。]]></description>
+      <guid>https://www.wired.com/story/fractional-home-ownership-startups/</guid>
+      <pubDate>Fri, 26 Apr 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌认为它可以从生成人工智能中获利。微软已经有</title>
       <link>https://www.wired.com/story/microsoft-google-earnings-generative-ai/</link>
@@ -71,7 +78,7 @@
     <item>
       <title>国家安全内部人士对人工智能的危险进行了计算</title>
       <link>https://www.wired.com/story/jason-matheny-national-security-insider-dangers-of-ai/</link>
-      <description><![CDATA[颇具影响力的智库兰德公司首席执行官贾森·马西尼表示，人工智能的进步让学习如何制造生物武器和其他破坏性工具变得更加容易。]]></description>
+      <description><![CDATA[颇具影响力的智囊团兰德公司首席执行官杰森·马西尼表示，人工智能的进步让学习如何制造生物武器和其他毁灭性工具变得更加容易。]]></description>
       <guid>https://www.wired.com/story/jason-matheny-national-security-insider-dangers-of-ai/</guid>
       <pubDate>Tue, 23 Apr 2024 11:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[当聊天机器人不经常与您交谈时，ChatGPT 的对话工具非常棒。尝试这些技巧以获得更好的 AI 音频体验。]]></description>
       <guid>https://www.wired.com/story/how-to-stop-chatgpt-talking-over-you/</guid>
       <pubDate>Fri, 19 Apr 2024 15:23:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>一系列人工智能工具将改变工作会议</title>
-      <link>https://www.wired.com/story/taking-baby-steps-toward-the-ai-meeting-singularity/</link>
-      <description><![CDATA[初创公司 Limitless 推出的人工智能可穿戴设备有望让会议更加高效。这是人类互动更广泛转变的开始。]]></description>
-      <guid>https://www.wired.com/story/taking-baby-steps-toward-the-ai-meeting-singularity/</guid>
-      <pubDate>Fri, 19 Apr 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
