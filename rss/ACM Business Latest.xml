@@ -3,8 +3,8 @@
   <channel>
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
-    <description>频道描述</description>
-    <lastBuildDate>Sat, 27 Apr 2024 06:09:16 GMT</lastBuildDate>
+    <description>频道说明</description>
+    <lastBuildDate>Sat, 27 Apr 2024 09:06:29 GMT</lastBuildDate>
     <item>
       <title>出售或不出售，TikTok 永远不会一样</title>
       <link>https://www.wired.com/story/plaintext-sale-or-no-sale-tiktok-will-never-be-the-same/</link>
@@ -29,7 +29,7 @@
     <item>
       <title>网络中立回归到一个截然不同的互联网</title>
       <link>https://www.wired.com/story/fcc-net-neutrality-rules-vote/</link>
-      <description><![CDATA[FCC 以 3 比 2 的投票结果恢复了特朗普政府期间消失的网络中立规则。]]></description>
+      <description><![CDATA[美国联邦通信委员会以 3 比 2 的投票结果决定恢复特朗普政府时期消失的网络中立规则。]]></description>
       <guid>https://www.wired.com/story/fcc-net-neutrality-rules-vote/</guid>
       <pubDate>Thu, 25 Apr 2024 19:42:52 GMT</pubDate>
     </item>
@@ -83,9 +83,9 @@
       <pubDate>Tue, 23 Apr 2024 21:45:39 GMT</pubDate>
     </item>
     <item>
-      <title>国家安全内部人士计算人工智能的危险性</title>
+      <title>国家安全内部人士对人工智能的危险进行了计算</title>
       <link>https://www.wired.com/story/jason-matheny-national-security-insider-dangers-of-ai/</link>
-      <description><![CDATA[颇具影响力的智囊团兰德公司首席执行官杰森·马西尼表示，人工智能的进步让学习如何制造生物武器和其他毁灭性工具变得更加容易。]]></description>
+      <description><![CDATA[颇具影响力的智库兰德公司首席执行官贾森·马西尼表示，人工智能的进步让学习如何制造生物武器和其他破坏工具变得更加容易。]]></description>
       <guid>https://www.wired.com/story/jason-matheny-national-security-insider-dangers-of-ai/</guid>
       <pubDate>Tue, 23 Apr 2024 11:00:00 GMT</pubDate>
     </item>
@@ -104,7 +104,7 @@
       <pubDate>Fri, 19 Apr 2024 16:54:17 GMT</pubDate>
     </item>
     <item>
-      <title>比特币矿工为“减半”做好准备，并竞相获利</title>
+      <title>比特币矿工准备迎接“减半”并竞相兑现</title>
       <link>https://www.wired.com/story/bitcoin-miners-halving/</link>
       <description><![CDATA[比特币减半即将到来。加密货币挖矿公司正在想尽一切办法来生存。]]></description>
       <guid>https://www.wired.com/story/bitcoin-miners-halving/</guid>
