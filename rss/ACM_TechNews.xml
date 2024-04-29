@@ -4,110 +4,94 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Fri, 26 Apr 2024 18:08:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 18:08:59 GMT</lastBuildDate>
     <item>
-      <title>智能道路让视力更好</title>
-      <link>https://spectrum.ieee.org/smart-road-camera-radar-fusion</link>
-      <description><![CDATA[IEEE Spectrum中国科学技术大学研究人员开发了一种智能道路系统，融合高清摄像头和毫米波雷达，可跟踪1.3米内的车辆，范围可达500米。该系统旨在通过扩大道路沿线传感设备的范围来降低智能道路的成本，从而减少需要的设备。研究人员确定，与将图像数据映射到雷达数据的标准方法相比，将 3D 雷达数据投影到 2D 图像上可以大大减少远距离的定位误差。摘自“Smart Roads Get Better Eyesight”
-IEEE Spectrum (04/23/24) Edd Gent 查看全文&lt; /a&gt;]]></description>
-      <guid>https://spectrum.ieee.org/smart-road-camera-radar-fusion</guid>
-      <pubDate>Fri, 26 Apr 2024 18:08:46 GMT</pubDate>
+      <title>沙特阿拉伯斥巨资成为人工智能超级大国</title>
+      <link>https://www.nytimes.com/2024/04/25/technology/to-the-future-saudi-arabia-spends-big-to-become-an-ai-superpower.html</link>
+      <description><![CDATA[《纽约时报》沙特阿拉伯成为人工智能超级大国的努力引起了美国官员的担忧，特别是如果该王国向中国研究人员和公司提供计算能力的话。沙特阿拉伯今年设立了一只 1000 亿美元的基金来投资人工智能和其他技术，并正在与投资者进行谈判，向人工智能公司追加投资 400 亿美元。今年3月，政府表示将投资10亿美元建立一个受硅谷启发的初创加速器，以吸引人工智能企业家来到沙特。摘自《沙特阿拉伯斥巨资成为人工智能超级大国》&lt; br/&gt;
+纽约时报 (04/25/24) Adam Satariano;保罗·莫祖尔 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/04/25/technology/to-the-future-saudi-arabia-spends-big-to-become-an-ai-superpower.html</guid>
+      <pubDate>Mon, 29 Apr 2024 18:08:58 GMT</pubDate>
     </item>
     <item>
-      <title>微软进军小型人工智能系统</title>
-      <link>https://www.nytimes.com/2024/04/23/technology/microsoft-ai.html</link>
-      <description><![CDATA[纽约时报为了以更低的价格吸引客户，微软推出了三款较小的AI模型：Phi-3-mini、Phi-3-small和Phi-3-medium。最小的 Phi-3-mini 即使没有互联网连接也可以在智能手机上运行，​​并且可以在为普通计算机供电的芯片上运行。较低的处理要求意味着较低的价格，尽管 Phi-3 模型可能不如大型模型准确。摘自“Microsoft Pushes into Smaller AI Systems”
-纽约时报 (04/23/24) Karen Weise；凯德·梅茨 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/04/23/technology/microsoft-ai.html</guid>
-      <pubDate>Fri, 26 Apr 2024 18:08:45 GMT</pubDate>
+      <title>全息一瞥沉浸式未来</title>
+      <link>https://engineering.princeton.edu/news/2024/04/22/holographic-displays-offer-glimpse-immersive-future</link>
+      <description><![CDATA[普林斯顿大学普林斯顿大学和 Meta 研究人员开发了一种沉浸式 VR 和 AR 显示器，使用高清 3D 全息图像，只需佩戴普通眼镜即可观看。研究人员创建了一种与传统上用于生成全息图像的空间光调制器一起工作的设备。它通过过滤来自空间光调制器的光来扩大视野，同时保持图像的稳定性和保真度。这会产生更大的图像，而质量不会大幅下降。摘自“全息一瞥，沉浸式未来”
+普林斯顿大学 (04/22/24) Julia Schwarz 查看全文]]></description>
+      <guid>https://engineering.princeton.edu/news/2024/04/22/holographic-displays-offer-glimpse-immersive-future</guid>
+      <pubDate>Mon, 29 Apr 2024 18:08:58 GMT</pubDate>
     </item>
     <item>
-      <title>利用博弈论最大化 Wi-Fi 性能</title>
-      <link>https://www.shibaura-it.ac.jp/en/headline/detail/20240416_7070_001.html</link>
-      <description><![CDATA[芝浦工业大学（日本）日本芝浦工业大学和名古屋大学的研究人员开发的 Wi-Fi 网络接入点 (AP) 连接策略利用博弈论来最大化性能。博弈模型将所有用户的激励浓缩为单一函数，以最大化系统吞吐量，同时考虑新的 WLAN 用户位置对现有用户的影响以及数据包冲突的概率以解决用户间干扰。在与之前的 AP 连接方法的测试中，新策略将系统性能提升高达 6%。摘自《利用博弈论最大化 Wi-Fi 性能》
-芝浦工业大学（日本）（04/22/24） 查看全文]]></description>
-      <guid>https://www.shibaura-it.ac.jp/en/headline/detail/20240416_7070_001.html</guid>
-      <pubDate>Fri, 26 Apr 2024 18:08:45 GMT</pubDate>
+      <title>赛车手在首届自动驾驶赛车联盟比赛中挣扎</title>
+      <link>https://www.theverge.com/2024/4/27/24142989/a2rl-autonomous-race-cars-f1-abu-dhabi</link>
+      <description><![CDATA[The Verge在阿布扎比自动赛车联盟 (A2RL) 周末的第一场比赛中，配备摄像头和软件的无人驾驶达拉拉超级方程式赛车手在亚斯赛道上的排位赛计时赛中奋力完成一圈码头阿布扎比大奖赛一级方程式赛道。在实际比赛中，领先车手 Polimove 在八圈中的第四圈发生打滑；第二辆车 Tum 安全通过，而另外两辆人工智能驱动的汽车则在官员举起黄旗时停了下来。大约一个小时后，Tum 冲过了终点线。摘自《首届自动驾驶赛车联盟比赛中车手们的奋斗》
+The Verge (04/27/24) 韦斯·戴维斯 查看全文]]></description>
+      <guid>https://www.theverge.com/2024/4/27/24142989/a2rl-autonomous-race-cars-f1-abu-dhabi</guid>
+      <pubDate>Mon, 29 Apr 2024 18:08:58 GMT</pubDate>
     </item>
     <item>
-      <title>非竞争者已经死了，美国科技工作者可以自由地漫游</title>
-      <link>https://www.wired.com/story/noncompetes-are-dead-tech-workers-free-to-roam/</link>
-      <description><![CDATA[连线美国联邦贸易委员会 (FTC) 周二发布了一项最终规则，禁止全国范围内的大多数竞业禁止协议。根据马里兰大学 (UMD) 和密歇根大学的研究，这些合同对科技和其他行业的工人影响尤为严重，其中包括 35% 的计算机和数学领域的工人。 UMD 的埃文·斯塔尔 (Evan Starr) 表示，根据联邦贸易委员会的新规则，科技工作者可能“有更多的自由在他们想要的地方工作；他们更有可能获得更高的工资”。来自“非竞争者”死了，让美国科技工作者自由漫游”
-连线 (04/23/24) 阿曼达·胡佛；帕雷什·戴夫 查看全文&lt; /a&gt; - 可能需要付费订阅]]></description>
-      <guid>https://www.wired.com/story/noncompetes-are-dead-tech-workers-free-to-roam/</guid>
-      <pubDate>Fri, 26 Apr 2024 18:08:44 GMT</pubDate>
+      <title>TikTok 的算法如何个性化您所看到的内容</title>
+      <link>https://www.futurity.org/tiktok-algorithm-3211962/</link>
+      <description><![CDATA[Futurity.org华盛顿大学 (UW) 的研究人员分析了 TikTok，以更好地了解其推荐算法的工作原理及其影响。利用 347 名 TikTok 用户提供的 920 万条视频推荐的数据，他们发现，前 1000 个视频中多达一半是基于平台对用户偏好的预测，并且用户每天在 TikTok 上的平均时间从第一天的 29 分钟增加到120 天后一天至 50 分钟。华盛顿大学的 Franziska Roesner 表示，“平台设计不是中立的，它们会影响您观看的时间和内容。”摘自“TikTok 的算法如何个性化您所看到的内容”
+Futurity.org (04/25/24) Stefan Milne 查看全文]]></description>
+      <guid>https://www.futurity.org/tiktok-algorithm-3211962/</guid>
+      <pubDate>Mon, 29 Apr 2024 18:08:57 GMT</pubDate>
     </item>
     <item>
-      <title>格拉斯哥试验探索 AR 提示以实现自动驾驶道路安全</title>
-      <link>https://www.theengineer.co.uk/content/news/glasgow-trial-explores-ar-cues-for-autonomous-road-safety/</link>
-      <description><![CDATA[The Engineer（英国）英国苏格兰格拉斯哥大学的研究人员研究了驾驶员是否可以通过使用增强现实技术在自动驾驶车辆中安全地管理娱乐和其他非驾驶任务（增强现实）。使用模拟驾驶设置，参与者被要求玩一个游戏，利用他们的目光来收集宝石，以及模仿仪表板交互的复杂数字输入任务。研究人员发现，平板电脑和 AR 显示器影响了驾驶员预见和应对突然道路变化的能力，尽管通过向 AR 显示器添加特定视觉提示提高了驾驶员的响应能力。摘自“格拉斯哥试验探索 AR”自动驾驶道路安全提示”
-工程师（英国）(04/22/24)]]></description>
-      <guid>https://www.theengineer.co.uk/content/news/glasgow-trial-explores-ar-cues-for-autonomous-road-safety/</guid>
-      <pubDate>Fri, 26 Apr 2024 18:08:44 GMT</pubDate>
+      <title>采用低功率激光的高分辨率激光雷达</title>
+      <link>https://interestingengineering.com/innovation/single-photon-lidar-china</link>
+      <description><![CDATA[有趣的工程中国科学技术大学研究人员开发的单光子激光雷达系统可以在机载配置中使用低功率激光产生高分辨率 3D 图像。这种紧凑、轻便的系统可用于地形测绘、环境监测和物体识别。为了缩小整个激光雷达系统，研究人员使用了单光子雪崩二极管阵列和光学孔径为 47 毫米的小型望远镜。摘自《低功率激光高分辨率激光雷达》
+有趣的工程 (04/25/24) Ameya Paleja 查看全文]]></description>
+      <guid>https://interestingengineering.com/innovation/single-photon-lidar-china</guid>
+      <pubDate>Mon, 29 Apr 2024 18:08:57 GMT</pubDate>
     </item>
     <item>
-      <title>黑客利用发展中国家作为新勒索软件攻击的试验场</title>
-      <link>https://www.ft.com/content/53758c43-9349-4f01-9c2c-b452822a3e7e</link>
-      <description><![CDATA[英国《金融时报》网络安全公司 Performanta 报告称，非洲、亚洲和南美洲的企业越来越多地被黑客用作最新勒索软件的测试场，然后再转向北美和欧洲的更高价值目标。最近在发展中国家进行的演习集中在塞内加尔一家银行、一家智利金融服务公司、一家哥伦比亚税务公司和阿根廷一家政府经济机构。摘自“黑客利用发展中国家作为新的测试场”勒索软件攻击”
-英国《金融时报》 (04/24/24) Ellesheva Kissin 查看全文文章 - 可能需要付费订阅]]></description>
-      <guid>https://www.ft.com/content/53758c43-9349-4f01-9c2c-b452822a3e7e</guid>
-      <pubDate>Fri, 26 Apr 2024 18:08:44 GMT</pubDate>
+      <title>芯片保护数据，实现智能手机高效计算</title>
+      <link>https://news.mit.edu/2024/tiny-chip-safeguards-user-data-while-enabling-efficient-computing-0423</link>
+      <description><![CDATA[麻省理工学院新闻麻省理工学院 (MIT) 和 MIT-IBM Watson AI 实验室的研究人员开发了一款芯片，可以有效加速智能手机等边缘设备上的机器学习工作负载，同时保护敏感用户数据免受侧信道和网络攻击。总线探测攻击。为了实现这一目标，该团队将内存计算芯片中的数据分割成随机部分，使用轻量级密码对存储在片外内存中的模型进行加密，并生成直接在芯片上解密密码的密钥。摘自《芯片守护数据，让智能手机高效计算》
+麻省理工学院新闻 (04/23/24) Adam Zewe 查看全文]]></description>
+      <guid>https://news.mit.edu/2024/tiny-chip-safeguards-user-data-while-enabling-efficient-computing-0423</guid>
+      <pubDate>Mon, 29 Apr 2024 18:08:57 GMT</pubDate>
     </item>
     <item>
-      <title>用于体操运动员运动检测的轻量级模型</title>
-      <link>https://www.azoai.com/news/20240424/SCB-YOLOv5-Lightweight-Model-for-Gymnast-Movement-Detection.aspx</link>
-      <description><![CDATA[AZoAi中国研究人员展示了 ShuffleNet V2 和卷积块 you only Look Once version 5 (SCB-YOLOv5) 模型在现场运动员动作检测方面的有效性。 SCB-YOLOv5 模型将轻量级设计原理与先进的特征集成策略相结合，以实现高检测精度，同时最大限度地减少计算资源。该模型在识别手部和腿部不规则运动方面优于其他检测器。摘自《体操运动员运动检测的轻量级模型》
-AZoAi (04/24/24) Sipaja Chandrasekar 查看全文]]></description>
-      <guid>https://www.azoai.com/news/20240424/SCB-YOLOv5-Lightweight-Model-for-Gymnast-Movement-Detection.aspx</guid>
-      <pubDate>Fri, 26 Apr 2024 18:08:43 GMT</pubDate>
+      <title>科技公司进军印度小城市</title>
+      <link>https://www.reuters.com/world/india/tech-companies-plug-into-indias-smaller-cities-talent-2024-04-25/</link>
+      <description><![CDATA[路透社印度科技公司越来越多地向较小的城市扩张，以吸引更多的工人，并利用较低的土地价格、租金、工资和政府激励措施。在销售增长疲软和全球经济不确定的时期，向较小城市的转移正在帮助科技公司降低成本和人员流失。高纬环球 (Cushman &amp; Wakefield) 的 Anshul Jain 表示：“我们看到二线城市的生活方式正在改善。”摘自“科技公司进入印度的小城市”
+路透社 (04/25/24) Sai Ishwarbharath B；哈里普里亚·苏雷什；等 查看全文]]></description>
+      <guid>https://www.reuters.com/world/india/tech-companies-plug-into-indias-smaller-cities-talent-2024-04-25/</guid>
+      <pubDate>Mon, 29 Apr 2024 18:08:56 GMT</pubDate>
     </item>
     <item>
-      <title>思科称黑客破坏了其安全设备以监视政府</title>
-      <link>https://www.reuters.com/technology/cybersecurity/cisco-says-hackers-subverted-its-security-devices-spy-governments-2024-04-24/</link>
-      <description><![CDATA[路透社思科系统公司周三表示，黑客已经破坏了其部分数字安全设备，从而侵入了全球政府网络。思科在一篇博客文章中表示，其自适应安全设备存在以前未知的漏洞，这些漏洞已被他们称为“UAT4356”的黑客组织利用。该公司将该团体描述为“老练的国家资助演员”。思科称这些漏洞已被修补。摘自《思科称黑客颠覆其安全设备以监视政府》
-路透社 (04/24/24) Raphael Satter 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/cybersecurity/cisco-says-hackers-subverted-its-security-devices-spy-governments-2024-04-24/</guid>
-      <pubDate>Fri, 26 Apr 2024 18:08:43 GMT</pubDate>
+      <title>中国推出国产脑机接口系统</title>
+      <link>https://www.chinadaily.com.cn/a/202404/26/WS662b09a1a31082fc043c4266.html</link>
+      <description><![CDATA[中国日报中国脑科学研究所和诺赛博神经科技（北京）有限公司的研究人员开发的脑机接口（BMI）具有高通量柔性微电极阵列、千个通道高速神经信号采集系统，以及基于前馈控制机制的生成神经解码算法。周四在北京举行的 2024 年中关村论坛上，视频演示了一只猴子使用 NeuCyber​​ Array BMI 系统控制隔离机械臂。摘自《中国推出国产脑机接口系统》
+中国日报 (04/26/24) 查看全文&lt; /a&gt;]]></description>
+      <guid>https://www.chinadaily.com.cn/a/202404/26/WS662b09a1a31082fc043c4266.html</guid>
+      <pubDate>Mon, 29 Apr 2024 18:08:56 GMT</pubDate>
     </item>
     <item>
-      <title>该计划赋予囚犯计算机技能</title>
-      <link>https://interestingengineering.com/culture/mit-csail-trains-prisoners-computing</link>
-      <description><![CDATA[有趣的工程麻省理工学院 (MIT) 研究人员在美国五个惩教机构开展了一项虚拟培训计划，旨在提高囚犯的自我效能和数字素养。为期 12 周的大学认证网页设计课程名为 Brave Behind Bars，包括六周的 HTML、CSS 和 JavaScript 基础知识，先是 30 分钟的讲座，然后是由助教进行的 90 分钟的分组讨论。在过去的六周中，学生们的任务是设计一个关于影响其社区的社会问题的网站。摘自“项目赋予囚犯计算机技能”
-有趣的工程 (04/24/24) Ameya Paleja 查看全文&lt; /a&gt;]]></description>
-      <guid>https://interestingengineering.com/culture/mit-csail-trains-prisoners-computing</guid>
-      <pubDate>Fri, 26 Apr 2024 18:08:43 GMT</pubDate>
+      <title>随着 FCC 投票监管互联网提供商，网络中立性回归</title>
+      <link>https://www.cnn.com/2024/04/25/tech/net-neutrality-is-back/index.html</link>
+      <description><![CDATA[CNN美国联邦通信委员会 (FCC) 于 4 月 26 日通过网络中立法规，禁止互联网服务提供商 (ISP) 有选择地加快、减慢或阻止客户的互联网流量。这些规则反映了 FCC 于 2015 年实施的规则，但特朗普政府于 2017 年废除了这些规则。除其他外，这些规则将阻止 ISP 出售客户的个人数据或与科技公司共享这些数据以训练人工智能模型。&lt; br /&gt;摘自“随着 FCC 投票监管互联网提供商，网络中立性回归”
+CNN (04/25/24) Brian Fung 查看全文]]></description>
+      <guid>https://www.cnn.com/2024/04/25/tech/net-neutrality-is-back/index.html</guid>
+      <pubDate>Mon, 29 Apr 2024 18:08:56 GMT</pubDate>
     </item>
     <item>
-      <title>俄罗斯程序员玩“猫和老鼠”智胜审查</title>
-      <link>https://www.reuters.com/world/europe/russian-programmers-play-cat-mouse-game-outsmart-censors-2024-04-25/</link>
-      <description><![CDATA[路透社越来越多的自由程序员和 VPN 公司正在努力通过群聊、协作 Web 开发计划和虚拟黑客马拉松来规避俄罗斯审查。 18 岁的 Antony Rudkovsky 最近在 Demhack 黑客马拉松中赢得了 1,200 美元的奖金，因为他为手机开发了一种 VPN，可以在两种协议之间进行切换，以防其中一种协议被阻止。其他程序员正在使用中国和美国的反审查工具。摘自“俄罗斯程序员玩‘猫捉老鼠’智取审查”
-路透社 (04/25/24) Lucy Papachristou 查看全文]]></description>
-      <guid>https://www.reuters.com/world/europe/russian-programmers-play-cat-mouse-game-outsmart-censors-2024-04-25/</guid>
-      <pubDate>Fri, 26 Apr 2024 18:08:42 GMT</pubDate>
+      <title>针对 Intel、AMD 处理器的精准攻击</title>
+      <link>https://scienceblog.com/544049/researchers-uncover-new-high-precision-attacks-targeting-billions-of-intel-and-amd-processors/</link>
+      <description><![CDATA[科学博客由加州大学圣地亚哥分校计算机科学家领导的团队发现了两种针对高端英特尔处理器中的条件分支预测器的新型攻击。该攻击是已知的第一个针对路径历史记录寄存器 (PHR) 中的功能的攻击，比之前的攻击更精确地暴露了更多信息。研究人员还引入了精确的 Spectre 式中毒攻击，使攻击者能够在受害者代码中诱发复杂的分支错误预测模式。 Intel 和 AMD 已获悉这些调查结果。摘自《针对 Intel、AMD 处理器的精准攻击》
+科学博客 (04/28/24) 查看全文]]></description>
+      <guid>https://scienceblog.com/544049/researchers-uncover-new-high-precision-attacks-targeting-billions-of-intel-and-amd-processors/</guid>
+      <pubDate>Mon, 29 Apr 2024 18:08:55 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能行业对新数据中心的渴望无法满足</title>
-      <link>https://www.wsj.com/tech/ai/why-the-ai-industrys-thirst-for-new-data-centers-cant-be-satisfied-93c7eff5</link>
-      <description><![CDATA[《华尔街日报》在人工智能需求激增的情况下，人们急于建设数据中心，导致了必要的零部件、财产和电力的短缺。数据中心管理人员表示，获得备用发电机可能需要两年的时间，而定制冷却系统的交付时间比几年前长了五倍。寻找具有足够电力和数据连接的不动产也是一个挑战。摘自《人工智能行业对新数据中心的渴望无法满足》
-华尔街日报 (04/24/24) Tom Dotan；阿萨·菲奇 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/tech/ai/why-the-ai-industrys-thirst-for-new-data-centers-cant-be-satisfied-93c7eff5</guid>
-      <pubDate>Fri, 26 Apr 2024 18:08:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国公司是美国最受欢迎的无人机制造商（华盛顿除外）</title>
-      <link>https://www.nytimes.com/2024/04/25/us/politics/us-china-drones-dji.html</link>
-      <description><![CDATA[《纽约时报》美国国会正在审议的《反中共无人机法案》将威胁到大疆创新的商业业务，大疆是一家中国无人机制造商，在美国执法机构和爱好者中占据主导地位。该立法将将该公司列入联邦通信委员会名册，从而阻止其在美国通信基础设施上运行。研究人员发现，控制大疆无人机的应用程序中存在漏洞，可用于访问个人数据（美国官员表示，目前所有已知漏洞均已修复）。摘自《中国公司是美国最喜爱的无人机制造商，除了在华盛顿”
-纽约时报 (04/25/24) 凯特·凯利；朱利安·E·巴恩斯 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/04/25/us/politics/us-china-drones-dji.html</guid>
-      <pubDate>Fri, 26 Apr 2024 18:08:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Randles 因彻底改变医疗诊断而荣获 ACM 计算奖</title>
-      <link>https://www.acm.org/media-center/2024/april/acm-prize-2023</link>
-      <description><![CDATA[ACM 媒体中心杜克大学的阿曼达·兰德尔斯 (Amanda Randles) 因其在计算健康方面的工作，特别是开发精确模拟生物物理过程的计算工具而荣获 ACM 计算奖。她在杜克大学普拉特工程学院的团队最近开发了对 700,000 次心跳、数百万细胞的相互作用以及体内癌细胞运动的模拟。 ACM 计算奖旨在表彰职业生涯早期到中期计算机科学家的开创性和深远贡献。摘自“Randles 因革命性医疗诊断而荣获 ACM 计算奖”
-ACM 媒体中心 (04/24/24) 查看全文]]></description>
-      <guid>https://www.acm.org/media-center/2024/april/acm-prize-2023</guid>
-      <pubDate>Fri, 26 Apr 2024 18:08:41 GMT</pubDate>
+      <title>在构建人工智能的竞赛中，科技公司计划进行管道升级</title>
+      <link>https://www.nytimes.com/2024/04/27/technology/ai-big-tech-spending.html</link>
+      <description><![CDATA[《纽约时报》大型科技公司正在大力投资支持其人工智能雄心所需的基础设施和硬件。微软、Meta 和 Alphabet 上周透露，仅今年前三个月，他们在数据中心和其他资本支出上的支出合计就超过 320 亿美元。这些公司均表示，他们没有计划减少人工智能相关支出。 Meta 表示，它需要在人工智能芯片和数据中心上花费比之前预计的更多的数十亿美元。摘自“在构建人工智能的竞赛中，技术计划管道升级”
+纽约时报 (04/27/24) Karen Weise 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/04/27/technology/ai-big-tech-spending.html</guid>
+      <pubDate>Mon, 29 Apr 2024 18:08:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
