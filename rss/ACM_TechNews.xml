@@ -4,94 +4,110 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Mon, 29 Apr 2024 18:08:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 18:09:39 GMT</lastBuildDate>
     <item>
-      <title>沙特阿拉伯斥巨资成为人工智能超级大国</title>
-      <link>https://www.nytimes.com/2024/04/25/technology/to-the-future-saudi-arabia-spends-big-to-become-an-ai-superpower.html</link>
-      <description><![CDATA[《纽约时报》沙特阿拉伯成为人工智能超级大国的努力引起了美国官员的担忧，特别是如果该王国向中国研究人员和公司提供计算能力的话。沙特阿拉伯今年设立了一只 1000 亿美元的基金来投资人工智能和其他技术，并正在与投资者进行谈判，向人工智能公司追加投资 400 亿美元。今年3月，政府表示将投资10亿美元建立一个受硅谷启发的初创加速器，以吸引人工智能企业家来到沙特。摘自《沙特阿拉伯斥巨资成为人工智能超级大国》&lt; br/&gt;
-纽约时报 (04/25/24) Adam Satariano;保罗·莫祖尔 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/04/25/technology/to-the-future-saudi-arabia-spends-big-to-become-an-ai-superpower.html</guid>
-      <pubDate>Mon, 29 Apr 2024 18:08:58 GMT</pubDate>
+      <title>初创公司称印度是测试自动驾驶汽车的理想之地</title>
+      <link>https://spectrum.ieee.org/india-self-driving-car</link>
+      <description><![CDATA[IEEE Spectrum初创公司将印度视为自动驾驶汽车的测试平台。鉴于印度混乱的道路和不可预测的驾驶员行为，初创公司 Swaayatt Robotics 的 Sanjeev Sharma 表示：“如果你能够在这里建造，那么这项技术就是通用的。”初创公司 Minus Zero 正在研究物理感知算法，即使在较小的数据集上进行训练，该算法也可以识别最显着的信息，而初创公司 RoshAI 正在开发可以适应个人客户需求的自主系统。来自“初创公司称印度是测试自动驾驶汽车的理想之地”
+IEEE Spectrum (04/24/24) Edd Gent 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/india-self-driving-car</guid>
+      <pubDate>Wed, 01 May 2024 18:09:39 GMT</pubDate>
     </item>
     <item>
-      <title>全息一瞥沉浸式未来</title>
-      <link>https://engineering.princeton.edu/news/2024/04/22/holographic-displays-offer-glimpse-immersive-future</link>
-      <description><![CDATA[普林斯顿大学普林斯顿大学和 Meta 研究人员开发了一种沉浸式 VR 和 AR 显示器，使用高清 3D 全息图像，只需佩戴普通眼镜即可观看。研究人员创建了一种与传统上用于生成全息图像的空间光调制器一起工作的设备。它通过过滤来自空间光调制器的光来扩大视野，同时保持图像的稳定性和保真度。这会产生更大的图像，而质量不会大幅下降。摘自“全息一瞥，沉浸式未来”
-普林斯顿大学 (04/22/24) Julia Schwarz 查看全文]]></description>
-      <guid>https://engineering.princeton.edu/news/2024/04/22/holographic-displays-offer-glimpse-immersive-future</guid>
-      <pubDate>Mon, 29 Apr 2024 18:08:58 GMT</pubDate>
+      <title>机械臂将接管阿联酋加油站</title>
+      <link>https://interestingengineering.com/news/the-robotic-arm-takes-over-uae-gas-stations</link>
+      <description><![CDATA[有趣的工程阿布扎比国家石油公司计划在今年年底前在其加油站推出机械臂。机械臂可以打开车辆的油箱盖，取下油箱盖并重新加满油箱。司机将使用触摸屏或智能手机应用程序选择燃料类型，摄像头和传感器将确保机械臂的喷嘴正确对齐。摘自“机械臂接管阿联酋加油站”
+有趣的工程 (04/27/24) Maria Bolevich 查看全文]]></description>
+      <guid>https://interestingengineering.com/news/the-robotic-arm-takes-over-uae-gas-stations</guid>
+      <pubDate>Wed, 01 May 2024 18:09:38 GMT</pubDate>
     </item>
     <item>
-      <title>赛车手在首届自动驾驶赛车联盟比赛中挣扎</title>
-      <link>https://www.theverge.com/2024/4/27/24142989/a2rl-autonomous-race-cars-f1-abu-dhabi</link>
-      <description><![CDATA[The Verge在阿布扎比自动赛车联盟 (A2RL) 周末的第一场比赛中，配备摄像头和软件的无人驾驶达拉拉超级方程式赛车手在亚斯赛道上的排位赛计时赛中奋力完成一圈码头阿布扎比大奖赛一级方程式赛道。在实际比赛中，领先车手 Polimove 在八圈中的第四圈发生打滑；第二辆车 Tum 安全通过，而另外两辆人工智能驱动的汽车则在官员举起黄旗时停了下来。大约一个小时后，Tum 冲过了终点线。摘自《首届自动驾驶赛车联盟比赛中车手们的奋斗》
-The Verge (04/27/24) 韦斯·戴维斯 查看全文]]></description>
-      <guid>https://www.theverge.com/2024/4/27/24142989/a2rl-autonomous-race-cars-f1-abu-dhabi</guid>
-      <pubDate>Mon, 29 Apr 2024 18:08:58 GMT</pubDate>
+      <title>鼓励计算机科学学生将道德融入工作</title>
+      <link>https://www.utoronto.ca/news/u-t-initiative-encourages-computer-science-students-incorporate-ethics-their-work</link>
+      <description><![CDATA[多伦多大学新闻（加拿大）多伦多大学的嵌入式道德教育计划 (E3I) 旨在教导计算机科学专业的本科生在设计和开发新技术时考虑道德的重要性。该项目将道德模块整合到某些本科计算机科学课程中，重点关注人工智能安全、数据隐私和错误信息等问题。本学年，E3I 集成计算机科学课程的注册人数超过 8,000 名，另有 1,500 名学生选修计算机科学以外包含 E3I 编程的课程。摘自《鼓励计算机科学学生将道德融入工作》 
+多伦多大学新闻（加拿大）(04/26/24) Krystle Hewitt 查看全文]]></description>
+      <guid>https://www.utoronto.ca/news/u-t-initiative-encourages-computer-science-students-incorporate-ethics-their-work</guid>
+      <pubDate>Wed, 01 May 2024 18:09:38 GMT</pubDate>
     </item>
     <item>
-      <title>TikTok 的算法如何个性化您所看到的内容</title>
-      <link>https://www.futurity.org/tiktok-algorithm-3211962/</link>
-      <description><![CDATA[Futurity.org华盛顿大学 (UW) 的研究人员分析了 TikTok，以更好地了解其推荐算法的工作原理及其影响。利用 347 名 TikTok 用户提供的 920 万条视频推荐的数据，他们发现，前 1000 个视频中多达一半是基于平台对用户偏好的预测，并且用户每天在 TikTok 上的平均时间从第一天的 29 分钟增加到120 天后一天至 50 分钟。华盛顿大学的 Franziska Roesner 表示，“平台设计不是中立的，它们会影响您观看的时间和内容。”摘自“TikTok 的算法如何个性化您所看到的内容”
-Futurity.org (04/25/24) Stefan Milne 查看全文]]></description>
-      <guid>https://www.futurity.org/tiktok-algorithm-3211962/</guid>
-      <pubDate>Mon, 29 Apr 2024 18:08:57 GMT</pubDate>
+      <title>诺基亚与 NASA 将 4G 送入太空</title>
+      <link>https://www.cnn.com/2024/04/24/tech/nokia-moon-4g-network-nasa-spc/index.html</link>
+      <description><![CDATA[CNNNASA 和诺基亚联手在月球上建设 4G 网络。该系统计划于今年晚些时候由 SpaceX 火箭运载至月球，将由月球南极的着陆器安装并从地球进行远程控制。着陆器将用它连接到两辆漫游车，任务是在月球上寻找冰。摘自“诺基亚、NASA 将 4G 送入太空”
+CNN (04/24/24) 杰克·班托克 查看全文]]></description>
+      <guid>https://www.cnn.com/2024/04/24/tech/nokia-moon-4g-network-nasa-spc/index.html</guid>
+      <pubDate>Wed, 01 May 2024 18:09:38 GMT</pubDate>
     </item>
     <item>
-      <title>采用低功率激光的高分辨率激光雷达</title>
-      <link>https://interestingengineering.com/innovation/single-photon-lidar-china</link>
-      <description><![CDATA[有趣的工程中国科学技术大学研究人员开发的单光子激光雷达系统可以在机载配置中使用低功率激光产生高分辨率 3D 图像。这种紧凑、轻便的系统可用于地形测绘、环境监测和物体识别。为了缩小整个激光雷达系统，研究人员使用了单光子雪崩二极管阵列和光学孔径为 47 毫米的小型望远镜。摘自《低功率激光高分辨率激光雷达》
-有趣的工程 (04/25/24) Ameya Paleja 查看全文]]></description>
-      <guid>https://interestingengineering.com/innovation/single-photon-lidar-china</guid>
-      <pubDate>Mon, 29 Apr 2024 18:08:57 GMT</pubDate>
+      <title>Telegram 解锁乌克兰安全部门使用的聊天机器人</title>
+      <link>https://www.reuters.com/technology/ukraine-spy-agency-says-telegram-platform-blocks-its-key-bots-2024-04-29/</link>
+      <description><![CDATA[路透社Telegram 消息应用程序已恢复对乌克兰安全机构用来收集有关俄​​罗斯战争信息的聊天机器人的访问权限。乌克兰军事间谍机构 GUR 周一表示，该应用程序已阻止访问乌克兰 SBU 安全部门、GUR 和数字部使用的三个机器人。这些机器人允许人们报告俄罗斯军事硬件和人员在乌克兰境内的位置。据 Telegram 发言人称，这些机器人“由于误报而暂时被禁用，但后来已恢复。”来自“Telegram 解锁乌克兰安全部门使用的聊天机器人”
+路透社 (04/29/24) Anastasiia Malenko；莉迪亚·凯利 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/ukraine-spy-agency-says-telegram-platform-blocks-its-key-bots-2024-04-29/</guid>
+      <pubDate>Wed, 01 May 2024 18:09:37 GMT</pubDate>
     </item>
     <item>
-      <title>芯片保护数据，实现智能手机高效计算</title>
-      <link>https://news.mit.edu/2024/tiny-chip-safeguards-user-data-while-enabling-efficient-computing-0423</link>
-      <description><![CDATA[麻省理工学院新闻麻省理工学院 (MIT) 和 MIT-IBM Watson AI 实验室的研究人员开发了一款芯片，可以有效加速智能手机等边缘设备上的机器学习工作负载，同时保护敏感用户数据免受侧信道和网络攻击。总线探测攻击。为了实现这一目标，该团队将内存计算芯片中的数据分割成随机部分，使用轻量级密码对存储在片外内存中的模型进行加密，并生成直接在芯片上解密密码的密钥。摘自《芯片守护数据，让智能手机高效计算》
-麻省理工学院新闻 (04/23/24) Adam Zewe 查看全文]]></description>
-      <guid>https://news.mit.edu/2024/tiny-chip-safeguards-user-data-while-enabling-efficient-computing-0423</guid>
-      <pubDate>Mon, 29 Apr 2024 18:08:57 GMT</pubDate>
+      <title>GitHub 对人工智能驱动的软件工程的看法</title>
+      <link>https://techcrunch.com/2024/04/29/copilot-workspace-is-githubs-take-on-ai-powered-software-engineering/</link>
+      <description><![CDATA[Tech CrunchGitHub 公布了 Copilot Workspace 的计划，由其 Copilot 编码助手驱动的 AI 代理将帮助开发人员以自然语言集思广益、规划、构建、测试和运行代码。GitHub 的 Jonathan Carter 表示，Workspace 将以 Copilot Chat 等新功能为基础，开发人员可以使用自然语言提出编码问题。Carter 表示，Copilot Workspace“为开发人员提供了一个开始迭代的计划。”摘自“GitHub 对 AI 驱动的软件工程的看法”
+Tech Crunch (04/29/24) Kyle Wiggers 查看全文]]></description>
+      <guid>https://techcrunch.com/2024/04/29/copilot-workspace-is-githubs-take-on-ai-powered-software-engineering/</guid>
+      <pubDate>Wed, 01 May 2024 18:09:37 GMT</pubDate>
     </item>
     <item>
-      <title>科技公司进军印度小城市</title>
-      <link>https://www.reuters.com/world/india/tech-companies-plug-into-indias-smaller-cities-talent-2024-04-25/</link>
-      <description><![CDATA[路透社印度科技公司越来越多地向较小的城市扩张，以吸引更多的工人，并利用较低的土地价格、租金、工资和政府激励措施。在销售增长疲软和全球经济不确定的时期，向较小城市的转移正在帮助科技公司降低成本和人员流失。高纬环球 (Cushman &amp; Wakefield) 的 Anshul Jain 表示：“我们看到二线城市的生活方式正在改善。”摘自“科技公司进入印度的小城市”
-路透社 (04/25/24) Sai Ishwarbharath B；哈里普里亚·苏雷什；等 查看全文]]></description>
-      <guid>https://www.reuters.com/world/india/tech-companies-plug-into-indias-smaller-cities-talent-2024-04-25/</guid>
-      <pubDate>Mon, 29 Apr 2024 18:08:56 GMT</pubDate>
+      <title>数据存储热度升温</title>
+      <link>https://penntoday.upenn.edu/news/penn-engineering-jariwala-turning-heat-data-storage</link>
+      <description><![CDATA[Penn Today宾夕法尼亚大学研究人员开发的耐热存储设备可以承受 600 摄氏度（超过 1,000 华氏度）的温度，是目前商用驱动器的两倍。该器件由铁电氮化铝钪（AlScN）制成，既耐热又耐用。在外部电场移除后，AlScN 可以在比其他数据存储技术高得多的温度下保留给定的电状态（“开”或“关”代表数字数据的 1 和 0）。摘自《数据存储热潮》
+宾夕法尼亚大学今日 (04/29/24) Nathi Magubane 查看全文]]></description>
+      <guid>https://penntoday.upenn.edu/news/penn-engineering-jariwala-turning-heat-data-storage</guid>
+      <pubDate>Wed, 01 May 2024 18:09:36 GMT</pubDate>
     </item>
     <item>
-      <title>中国推出国产脑机接口系统</title>
-      <link>https://www.chinadaily.com.cn/a/202404/26/WS662b09a1a31082fc043c4266.html</link>
-      <description><![CDATA[中国日报中国脑科学研究所和诺赛博神经科技（北京）有限公司的研究人员开发的脑机接口（BMI）具有高通量柔性微电极阵列、千个通道高速神经信号采集系统，以及基于前馈控制机制的生成神经解码算法。周四在北京举行的 2024 年中关村论坛上，视频演示了一只猴子使用 NeuCyber​​ Array BMI 系统控制隔离机械臂。摘自《中国推出国产脑机接口系统》
-中国日报 (04/26/24) 查看全文&lt; /a&gt;]]></description>
-      <guid>https://www.chinadaily.com.cn/a/202404/26/WS662b09a1a31082fc043c4266.html</guid>
-      <pubDate>Mon, 29 Apr 2024 18:08:56 GMT</pubDate>
+      <title>数百个量子位可能带来量子优势</title>
+      <link>https://www.livescience.com/technology/computing/major-quantum-computing-milestone-could-be-hit-with-just-hundreds-not-millions-of-qubits-thanks-to-new-error-correction-system</link>
+      <description><![CDATA[LiveScience加拿大初创公司 Nord Quantique 的研究人员开发了一种单独的纠错物理量子位，可以显着减少实现量子优势所需的量子位数量。通过在运行过程中应用玻色码（一种用于使用光子等玻色模式的系统的纠错码），研究人员能够最大限度地减少单个量子位级别的错误。研究人员表示，这可能意味着使用数百个量子位可能实现量子优势，而不是之前估计的数百万个。来自“数百个量子位可能实现的量子优势”
+生活科学 (04/29/24) Keumas Afifi-Sabet]]></description>
+      <guid>https://www.livescience.com/technology/computing/major-quantum-computing-milestone-could-be-hit-with-just-hundreds-not-millions-of-qubits-thanks-to-new-error-correction-system</guid>
+      <pubDate>Wed, 01 May 2024 18:09:36 GMT</pubDate>
     </item>
     <item>
-      <title>随着 FCC 投票监管互联网提供商，网络中立性回归</title>
-      <link>https://www.cnn.com/2024/04/25/tech/net-neutrality-is-back/index.html</link>
-      <description><![CDATA[CNN美国联邦通信委员会 (FCC) 于 4 月 26 日通过网络中立法规，禁止互联网服务提供商 (ISP) 有选择地加快、减慢或阻止客户的互联网流量。这些规则反映了 FCC 于 2015 年实施的规则，但特朗普政府于 2017 年废除了这些规则。除其他外，这些规则将阻止 ISP 出售客户的个人数据或与科技公司共享这些数据以训练人工智能模型。&lt; br /&gt;摘自“随着 FCC 投票监管互联网提供商，网络中立性回归”
-CNN (04/25/24) Brian Fung 查看全文]]></description>
-      <guid>https://www.cnn.com/2024/04/25/tech/net-neutrality-is-back/index.html</guid>
-      <pubDate>Mon, 29 Apr 2024 18:08:56 GMT</pubDate>
+      <title>欧盟因担心选举干扰和外国虚假信息而调查 Meta</title>
+      <link>https://www.cnn.com/2024/04/29/tech/eu-investigates-meta-election-interference-foreign-disinformation/index.html</link>
+      <description><![CDATA[CNNMeta 正在接受欧盟官员的调查，原因是担心它在保障即将举行的欧盟选举或遏制 Facebook 和 Instagram 上的外国虚假信息方面做得不够。此次调查的目标是 Meta 对诈骗者和外国人干扰选举的广告的处理，以及关闭 CrowdTangle 分析工具的举措，该工具允许研究人员和记者跟踪其平台上的热门对话。如果发现违反欧盟《数字服务法》，Meta 可能会被处以最高全球收入 6% 的罚款。摘自“欧盟因担心选举干扰和外国虚假信息而调查 Meta”
+CNN (04/29/24) Brian Fung 查看全文]]></description>
+      <guid>https://www.cnn.com/2024/04/29/tech/eu-investigates-meta-election-interference-foreign-disinformation/index.html</guid>
+      <pubDate>Wed, 01 May 2024 18:09:35 GMT</pubDate>
     </item>
     <item>
-      <title>针对 Intel、AMD 处理器的精准攻击</title>
-      <link>https://scienceblog.com/544049/researchers-uncover-new-high-precision-attacks-targeting-billions-of-intel-and-amd-processors/</link>
-      <description><![CDATA[科学博客由加州大学圣地亚哥分校计算机科学家领导的团队发现了两种针对高端英特尔处理器中的条件分支预测器的新型攻击。该攻击是已知的第一个针对路径历史记录寄存器 (PHR) 中的功能的攻击，比之前的攻击更精确地暴露了更多信息。研究人员还引入了精确的 Spectre 式中毒攻击，使攻击者能够在受害者代码中诱发复杂的分支错误预测模式。 Intel 和 AMD 已获悉这些调查结果。摘自《针对 Intel、AMD 处理器的精准攻击》
-科学博客 (04/28/24) 查看全文]]></description>
-      <guid>https://scienceblog.com/544049/researchers-uncover-new-high-precision-attacks-targeting-billions-of-intel-and-amd-processors/</guid>
-      <pubDate>Mon, 29 Apr 2024 18:08:55 GMT</pubDate>
+      <title>公司将阿兰·图灵重新启用为聊天机器人</title>
+      <link>https://www.pcmag.com/news/company-revives-alan-turing-as-an-ai-chatbot-outrage-ensues</link>
+      <description><![CDATA[PC Magazine新加坡 Genius Group 是一家专注于人工智能驱动的商业教育的公司，它恢复了艾伦·图灵作为聊天机器人的能力，并任命其为公司的“首席人工智能官”。 Genius Group 首席执行官罗杰·詹姆斯·汉密尔顿 (Roger James Hamilton) 表示，经过一个月的首席人工智能官搜寻后，“很快就发现艾伦·图灵 AI 是该职位的最佳人选”。该公司上传了一段使用人工智能生成的图像向公众介绍图灵聊天机器人的视频。摘自“公司将阿兰图灵复活为聊天机器人”
+PC 杂志 (04/30/24) Michael Kan 查看全文]]></description>
+      <guid>https://www.pcmag.com/news/company-revives-alan-turing-as-an-ai-chatbot-outrage-ensues</guid>
+      <pubDate>Wed, 01 May 2024 18:09:35 GMT</pubDate>
     </item>
     <item>
-      <title>在构建人工智能的竞赛中，科技公司计划进行管道升级</title>
-      <link>https://www.nytimes.com/2024/04/27/technology/ai-big-tech-spending.html</link>
-      <description><![CDATA[《纽约时报》大型科技公司正在大力投资支持其人工智能雄心所需的基础设施和硬件。微软、Meta 和 Alphabet 上周透露，仅今年前三个月，他们在数据中心和其他资本支出上的支出合计就超过 320 亿美元。这些公司均表示，他们没有计划减少人工智能相关支出。 Meta 表示，它需要在人工智能芯片和数据中心上花费比之前预计的更多的数十亿美元。摘自“在构建人工智能的竞赛中，技术计划管道升级”
-纽约时报 (04/27/24) Karen Weise 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/04/27/technology/ai-big-tech-spending.html</guid>
-      <pubDate>Mon, 29 Apr 2024 18:08:55 GMT</pubDate>
+      <title>手机键盘漏洞导致数十亿用户暴露</title>
+      <link>https://spectrum.ieee.org/amp/chinese-pinyin-keyboard-software-exploits-2667871162</link>
+      <description><![CDATA[IEEE Spectrum由加拿大多伦多大学公民实验室研究人员领导的团队透露，十亿智能手机用户由于使用数字中文键盘而面临潜在的网络攻击。中文键盘使用依赖于云计算资源的字符预测功能，并且键盘应用程序和外部云服务器之间的通信安全不当，使用户的击键和消息容易受到间谍和窃听。来自“手机键盘漏洞使数十亿用户暴露”
+IEEE Spectrum (04/29/24) Margo Anderson 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/amp/chinese-pinyin-keyboard-software-exploits-2667871162</guid>
+      <pubDate>Wed, 01 May 2024 18:09:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>到 2029 年，自动制动系统将成为美国标准配置</title>
+      <link>https://www.washingtonpost.com/transportation/2024/04/29/automatic-brakes-nhtsa-rule/</link>
+      <description><![CDATA[华盛顿邮报美国国家公路交通安全管理局 (NHTSA) 周一宣布，到 2029 年秋季，自动紧急制动系统必须作为新车的标准配备。根据规定，这些传感器-基于该系统的车辆必须能够使行驶速度高达 62 英里/小时的车辆完全停止而不会发生碰撞，并在检测到行人时以高达 45 英里/小时的速度制动。 NHTSA 表示更新的软件可以使大多数车辆符合标准。摘自“自动制动系统到 2029 年将成为美国标准”
+华盛顿邮报 (04/29/24) 伊恩·邓肯 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.washingtonpost.com/transportation/2024/04/29/automatic-brakes-nhtsa-rule/</guid>
+      <pubDate>Wed, 01 May 2024 18:09:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能面临“奥本海默时刻”</title>
+      <link>https://www.bloomberg.com/news/articles/2024-04-29/ai-faces-its-oppenheimer-moment-amid-killer-robot-arms-race</link>
+      <description><![CDATA[彭博社4 月 29 日，来自 100 多个国家的民事、军事和技术官员在奥地利维也纳举行的会议上，发言者表示，各国政府控制自主武器系统的时间已经不多了。 “这是我们这一代的奥本海默时刻，”奥地利外交部长亚历山大·沙伦贝格说道。哥斯达黎加外交部长阿诺尔多·安德烈蒂诺科表示，一旦非国家行为者和恐怖分子获得该技术，就需要制定新规则。摘自“人工智能面临‘奥本海默时刻’”
+彭博社 (04/29/24) 乔纳森·蒂龙 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-04-29/ai-faces-its-oppenheimer-moment-amid-killer-robot-arms-race</guid>
+      <pubDate>Wed, 01 May 2024 18:09:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
