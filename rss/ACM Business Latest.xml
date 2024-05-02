@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Thu, 02 May 2024 15:08:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 18:08:50 GMT</lastBuildDate>
+    <item>
+      <title>尼克·博斯特罗姆让世界害怕人工智能。现在他问：如果它解决了一切怎么办？</title>
+      <link>https://www.wired.com/story/nick-bostrom-fear-ai-fix-everything/</link>
+      <description><![CDATA[哲学家尼克·博斯特罗姆（Nick Bostrom）普及了超级智能人工智能可以消灭人类的想法。他的新书想象了一个算法已经解决了所有问题的世界。]]></description>
+      <guid>https://www.wired.com/story/nick-bostrom-fear-ai-fix-everything/</guid>
+      <pubDate>Thu, 02 May 2024 16:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>生成式人工智能的不性感未来是企业应用程序</title>
       <link>https://www.wired.com/story/unsexy-future-generative-ai-enterprise-apps/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>诉讼称法律要求 Meta 让你控制自己的 Feed</title>
       <link>https://www.wired.com/story/meta-section-230-users-algorithm/</link>
-      <description><![CDATA[学术界伊森·祖克曼 (Ethan Zuckerman) 正在起诉 Meta，以赢得对附加组件的保护，这些附加组件可以帮助研究人员研究该平台并让用户更好地控制自己的提要。]]></description>
+      <description><![CDATA[学者 Ethan Zuckerman 正在起诉 Meta，以赢得对附加组件的保护，这些附加组件可以帮助研究人员研究该平台并让用户更好地控制自己的信息流。]]></description>
       <guid>https://www.wired.com/story/meta-section-230-users-algorithm/</guid>
       <pubDate>Wed, 01 May 2024 16:09:27 GMT</pubDate>
     </item>
@@ -27,9 +34,9 @@
       <pubDate>Wed, 01 May 2024 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>经济实惠的连接计划让他们保持在线。现在该怎么办？</title>
+      <title>经济实惠的连接计划让他们保持在线状态。现在怎么办？</title>
       <link>https://www.wired.com/story/affordable-connectivity-program-kept-them-online-what-now/</link>
-      <description><![CDATA[数百万人依靠联邦平价连接计划保持在线状态并获得工作、医疗保健和学校服务。现在该计划已经过期，一些人担心会被取消。]]></description>
+      <description><![CDATA[数百万人依靠联邦平价连接计划保持在线状态并获得工作、医疗保健和上学机会。现在该计划已经过期，一些人担心会被取消。]]></description>
       <guid>https://www.wired.com/story/affordable-connectivity-program-kept-them-online-what-now/</guid>
       <pubDate>Wed, 01 May 2024 00:11:33 GMT</pubDate>
     </item>
@@ -69,9 +76,9 @@
       <pubDate>Mon, 29 Apr 2024 09:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Apple 的 iPhone 浏览器选择选项很糟糕。它的竞争对手有改进的想法</title>
+      <title>Apple 的 iPhone 浏览器选择选项很糟糕。它的竞争对手有改进它的想法</title>
       <link>https://www.wired.com/story/browser-choice-screen-apple-digital-markets-act/</link>
-      <description><![CDATA[欧洲 iPhone 用户将看到一个新的弹出屏幕，其中列出了 Safari 浏览器的替代品。该屏幕上显示的浏览器的开发人员对用户体验感到困惑。]]></description>
+      <description><![CDATA[欧洲 iPhone 用户将看到一个新的弹出屏幕，其中列出了 Safari 浏览器的替代方案。屏幕上显示的浏览器开发人员对用户体验感到困惑。]]></description>
       <guid>https://www.wired.com/story/browser-choice-screen-apple-digital-markets-act/</guid>
       <pubDate>Mon, 29 Apr 2024 07:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[FCC 以 3 比 2 的投票结果恢复了特朗普政府期间消失的网络中立规则。]]></description>
       <guid>https://www.wired.com/story/fcc-net-neutrality-rules-vote/</guid>
       <pubDate>Thu, 25 Apr 2024 19:42:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 的开源 Llama 3 已经紧追 OpenAI</title>
-      <link>https://www.wired.com/story/metas-open-source-llama-3-nipping-at-openais-heels/</link>
-      <description><![CDATA[Meta 免费赠送功能强大的人工智能软件的决定可能会威胁 OpenAI 和谷歌的商业模式。]]></description>
-      <guid>https://www.wired.com/story/metas-open-source-llama-3-nipping-at-openais-heels/</guid>
-      <pubDate>Thu, 25 Apr 2024 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
