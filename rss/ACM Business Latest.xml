@@ -4,16 +4,16 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Thu, 02 May 2024 03:08:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 06:09:39 GMT</lastBuildDate>
     <item>
-      <title>一项诉讼称，法律要求 Meta 让你控制自己的信息流</title>
+      <title>诉讼称法律要求 Meta 让你控制自己的 Feed</title>
       <link>https://www.wired.com/story/meta-section-230-users-algorithm/</link>
-      <description><![CDATA[学者 Ethan Zuckerman 正在起诉 Meta，以获得对附加组件的保护，这些附加组件可帮助研究人员研究该平台，并让用户更好地控制他们的信息源。]]></description>
+      <description><![CDATA[学术界伊森·祖克曼 (Ethan Zuckerman) 正在起诉 Meta，以赢得对附加组件的保护，这些附加组件可以帮助研究人员研究该平台并让用户更好地控制自己的提要。]]></description>
       <guid>https://www.wired.com/story/meta-section-230-users-algorithm/</guid>
       <pubDate>Wed, 01 May 2024 16:09:27 GMT</pubDate>
     </item>
     <item>
-      <title>大量新数据集可以增强人工智能对加密货币洗钱的追捕</title>
+      <title>庞大的新数据集或将助力人工智能搜寻加密货币洗钱活动</title>
       <link>https://www.wired.com/story/ai-crypto-tracing-model-money-laundering/</link>
       <description><![CDATA[区块链分析公司 Elliptic、麻省理工学院和 IBM 发布了一个新的人工智能模型及其训练的 2 亿笔交易数据集，旨在发现比特币洗钱的“形态”。]]></description>
       <guid>https://www.wired.com/story/ai-crypto-tracing-model-money-laundering/</guid>
@@ -34,7 +34,7 @@
       <pubDate>Tue, 30 Apr 2024 19:10:15 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 的 AI 检测器：你需要知道的一切</title>
+      <title>ChatGPT 的 AI 探测器：您需要了解的一切</title>
       <link>https://www.wired.com/story/ai-detector-chatgpt/</link>
       <description><![CDATA[您正在阅读的内容是由人类编写的，还是由人工智能生成的？此文章列表将帮助您了解 AI 文本检测。]]></description>
       <guid>https://www.wired.com/story/ai-detector-chatgpt/</guid>
@@ -43,7 +43,7 @@
     <item>
       <title>埃隆·马斯克绝望的亚洲之行无法解决特斯拉的中国危机</title>
       <link>https://www.wired.com/story/elon-musk-cant-solve-teslas-china-crisis-with-his-desperate-asia-visit/</link>
-      <description><![CDATA[特斯拉与百度的交易并不新鲜，特斯拉收集的地图数据可能无法离开中国，而且全自动驾驶无法与更先进的中国替代方案竞争。]]></description>
+      <description><![CDATA[特斯拉与百度的交易并不新鲜，特斯拉收集的地图数据很可能不能离开中国，而全自动驾驶无法与更先进的中国替代品竞争。]]></description>
       <guid>https://www.wired.com/story/elon-musk-cant-solve-teslas-china-crisis-with-his-desperate-asia-visit/</guid>
       <pubDate>Mon, 29 Apr 2024 19:50:29 GMT</pubDate>
     </item>
@@ -69,9 +69,9 @@
       <pubDate>Mon, 29 Apr 2024 07:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>出售或不出售，TikTok 永远不会一样</title>
+      <title>无论是否出售，TikTok 都将不再是原来的样子</title>
       <link>https://www.wired.com/story/plaintext-sale-or-no-sale-tiktok-will-never-be-the-same/</link>
-      <description><![CDATA[TikTok 但没有算法？TikTok 被 Meta 取代？本周一项新法律让该平台面临死亡威胁——而且任何可能的结果都不太乐观。]]></description>
+      <description><![CDATA[TikTok但没有算法？ Meta 推出的 TikTok？本周的一项新法律将该平台置于死亡观察状态，而且所有潜在结果看起来都不太好。]]></description>
       <guid>https://www.wired.com/story/plaintext-sale-or-no-sale-tiktok-will-never-be-the-same/</guid>
       <pubDate>Fri, 26 Apr 2024 13:00:00 GMT</pubDate>
     </item>
@@ -90,7 +90,7 @@
       <pubDate>Fri, 26 Apr 2024 01:29:55 GMT</pubDate>
     </item>
     <item>
-      <title>网络中立回归到一个截然不同的互联网</title>
+      <title>网络中立性回归，互联网将焕然一新</title>
       <link>https://www.wired.com/story/fcc-net-neutrality-rules-vote/</link>
       <description><![CDATA[FCC 以 3 比 2 的投票结果恢复了特朗普政府期间消失的网络中立规则。]]></description>
       <guid>https://www.wired.com/story/fcc-net-neutrality-rules-vote/</guid>
@@ -99,7 +99,7 @@
     <item>
       <title>Meta 的开源 Llama 3 已经紧追 OpenAI</title>
       <link>https://www.wired.com/story/metas-open-source-llama-3-nipping-at-openais-heels/</link>
-      <description><![CDATA[Meta 免费赠送功能强大的人工智能软件的决定可能会威胁 OpenAI 和谷歌的商业模式。]]></description>
+      <description><![CDATA[Meta 决定免费提供强大的 AI 软件，这可能会威胁 OpenAI 和谷歌的商业模式。]]></description>
       <guid>https://www.wired.com/story/metas-open-source-llama-3-nipping-at-openais-heels/</guid>
       <pubDate>Thu, 25 Apr 2024 16:00:00 GMT</pubDate>
     </item>
