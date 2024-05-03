@@ -4,11 +4,18 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Fri, 03 May 2024 00:34:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 03:08:56 GMT</lastBuildDate>
+    <item>
+      <title>如果谷歌不向苹果支付 200 亿美元来购买你的 iPhone，你还会使用谷歌吗？</title>
+      <link>https://www.wired.com/story/google-pay-apple-20-billion-to-get-on-your-iphone/</link>
+      <description><![CDATA[一位将在历史性反垄断审判中决定谷歌命运的美国法官表示，该公司声称自己拥有最好的搜索引擎，却又向苹果支付数十亿美元以将竞争对手拒之门外，这“很奇怪”。]]></description>
+      <guid>https://www.wired.com/story/google-pay-apple-20-billion-to-get-on-your-iphone/</guid>
+      <pubDate>Fri, 03 May 2024 01:23:46 GMT</pubDate>
+    </item>
     <item>
       <title>尼克·博斯特罗姆让世界害怕人工智能。现在他问：如果它解决了一切怎么办？</title>
       <link>https://www.wired.com/story/nick-bostrom-fear-ai-fix-everything/</link>
-      <description><![CDATA[哲学家尼克·博斯特罗姆（Nick Bostrom）普及了超级智能人工智能可以消灭人类的想法。他的新书想象了一个算法已经解决了所有问题的世界。]]></description>
+      <description><![CDATA[哲学家尼克·博斯特罗姆 (Nick Bostrom) 提出了超级人工智能可能消灭人类的想法。他的新书描绘了一个算法可以解决所有问题的世界。]]></description>
       <guid>https://www.wired.com/story/nick-bostrom-fear-ai-fix-everything/</guid>
       <pubDate>Thu, 02 May 2024 16:00:00 GMT</pubDate>
     </item>
@@ -20,16 +27,16 @@
       <pubDate>Thu, 02 May 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>诉讼称法律要求 Meta 让你控制自己的 Feed</title>
+      <title>一项诉讼称，法律要求 Meta 让你控制自己的信息流</title>
       <link>https://www.wired.com/story/meta-section-230-users-algorithm/</link>
-      <description><![CDATA[学者 Ethan Zuckerman 正在起诉 Meta，以赢得对附加组件的保护，这些附加组件可以帮助研究人员研究该平台并让用户更好地控制自己的信息流。]]></description>
+      <description><![CDATA[学术界伊森·祖克曼 (Ethan Zuckerman) 正在起诉 Meta，以赢得对附加组件的保护，这些附加组件可以帮助研究人员研究该平台并让用户更好地控制自己的提要。]]></description>
       <guid>https://www.wired.com/story/meta-section-230-users-algorithm/</guid>
       <pubDate>Wed, 01 May 2024 16:09:27 GMT</pubDate>
     </item>
     <item>
-      <title>庞大的新数据集或将助力人工智能搜寻加密货币洗钱活动</title>
+      <title>大量新数据集可以增强人工智能对加密货币洗钱的追捕</title>
       <link>https://www.wired.com/story/ai-crypto-tracing-model-money-laundering/</link>
-      <description><![CDATA[区块链分析公司 Elliptic、麻省理工学院和 IBM 发布了一个新的人工智能模型及其训练的 2 亿笔交易数据集，旨在发现比特币洗钱的“形态”。]]></description>
+      <description><![CDATA[区块链分析公司 Elliptic、麻省理工学院和 IBM 发布了一个新的人工智能模型及其训练的 2 亿交易数据集，旨在发现比特币洗钱的“形态”。]]></description>
       <guid>https://www.wired.com/story/ai-crypto-tracing-model-money-laundering/</guid>
       <pubDate>Wed, 01 May 2024 13:00:00 GMT</pubDate>
     </item>
@@ -76,9 +83,9 @@
       <pubDate>Mon, 29 Apr 2024 09:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Apple 的 iPhone 浏览器选择选项很糟糕。它的竞争对手有改进它的想法</title>
+      <title>Apple 的 iPhone 浏览器选择选项很糟糕。它的竞争对手有改进的想法</title>
       <link>https://www.wired.com/story/browser-choice-screen-apple-digital-markets-act/</link>
-      <description><![CDATA[欧洲 iPhone 用户将看到一个新的弹出屏幕，其中列出了 Safari 浏览器的替代品。该屏幕上显示的浏览器的开发人员对用户体验感到困惑。]]></description>
+      <description><![CDATA[欧洲 iPhone 用户将看到一个新的弹出屏幕，其中列出了 Safari 浏览器的替代方案。屏幕上显示的浏览器开发人员对用户体验感到困惑。]]></description>
       <guid>https://www.wired.com/story/browser-choice-screen-apple-digital-markets-act/</guid>
       <pubDate>Mon, 29 Apr 2024 07:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[尽管 Alphabet 和微软都拥有强劲的季度收益，但只有一家科技巨头表明，其在生成式人工智能方面的押注已开始获得回报。]]></description>
       <guid>https://www.wired.com/story/microsoft-google-earnings-generative-ai/</guid>
       <pubDate>Fri, 26 Apr 2024 01:29:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络中立回归到一个截然不同的互联网</title>
-      <link>https://www.wired.com/story/fcc-net-neutrality-rules-vote/</link>
-      <description><![CDATA[FCC 以 3 比 2 的投票结果恢复了特朗普政府期间消失的网络中立规则。]]></description>
-      <guid>https://www.wired.com/story/fcc-net-neutrality-rules-vote/</guid>
-      <pubDate>Thu, 25 Apr 2024 19:42:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
