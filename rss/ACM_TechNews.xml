@@ -4,110 +4,110 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Wed, 01 May 2024 18:09:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 18:08:51 GMT</lastBuildDate>
     <item>
-      <title>初创公司称印度是测试自动驾驶汽车的理想之地</title>
-      <link>https://spectrum.ieee.org/india-self-driving-car</link>
-      <description><![CDATA[IEEE Spectrum初创公司将印度视为自动驾驶汽车的测试平台。鉴于印度混乱的道路和不可预测的驾驶员行为，初创公司 Swaayatt Robotics 的 Sanjeev Sharma 表示：“如果你能够在这里建造，那么这项技术就是通用的。”初创公司 Minus Zero 正在研究物理感知算法，即使在较小的数据集上进行训练，该算法也可以识别最显着的信息，而初创公司 RoshAI 正在开发可以适应个人客户需求的自主系统。来自“初创公司称印度是测试自动驾驶汽车的理想之地”
-IEEE Spectrum (04/24/24) Edd Gent 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/india-self-driving-car</guid>
-      <pubDate>Wed, 01 May 2024 18:09:39 GMT</pubDate>
+      <title>俄罗斯被指控干预 GPS 系统</title>
+      <link>https://www.france24.com/en/europe/20240501-russia-accused-of-meddling-in-the-gps-systems-of-baltic-sea-countries</link>
+      <description><![CDATA[法国24日爱沙尼亚塔尔图机场GPS信号干扰被归咎于俄罗斯。此类事件的增加，信号干扰或欺骗导致飞机难以安全着陆，已促使芬兰航空公司在下个月停止其飞机在该地区着陆。据报道，自 2023 年 8 月以来，约有 46,000 架进出英国的飞机在波罗的海遇到了 GPS 信号问题。来自“俄罗斯被指控干预 GPS 系统”
+法国 24 (05/01/24) Sébastian Seibt 查看全文]]></description>
+      <guid>https://www.france24.com/en/europe/20240501-russia-accused-of-meddling-in-the-gps-systems-of-baltic-sea-countries</guid>
+      <pubDate>Fri, 03 May 2024 18:08:51 GMT</pubDate>
     </item>
     <item>
-      <title>机械臂将接管阿联酋加油站</title>
-      <link>https://interestingengineering.com/news/the-robotic-arm-takes-over-uae-gas-stations</link>
-      <description><![CDATA[有趣的工程阿布扎比国家石油公司计划在今年年底前在其加油站推出机械臂。机械臂可以打开车辆的油箱盖，取下油箱盖并重新加满油箱。司机将使用触摸屏或智能手机应用程序选择燃料类型，摄像头和传感器将确保机械臂的喷嘴正确对齐。摘自“机械臂接管阿联酋加油站”
-有趣的工程 (04/27/24) Maria Bolevich 查看全文]]></description>
-      <guid>https://interestingengineering.com/news/the-robotic-arm-takes-over-uae-gas-stations</guid>
-      <pubDate>Wed, 01 May 2024 18:09:38 GMT</pubDate>
+      <title>大多数出售给消费者的大脑监视器并不保密数据</title>
+      <link>https://www.newscientist.com/article/2428596-most-brain-monitors-sold-to-consumers-dont-keep-your-data-private/</link>
+      <description><![CDATA[New ScientistNeurorights 基金会对 30 家向消费者销售神经技术设备或服务的公司进行的研究发现，许多公司收集用户的神经数据，并保留共享或出售数据的权利，而无需获得用户的额外许可。接受调查的 30 家公司中有 29 家没有对用户神经数据的共享提供有意义的限制；只有一家表示不会共享客户数据。摘自“大多数出售给消费者的大脑监视器不将数据保密”
+新科学家 (04/30/24) Jeremy Hsu 查看完整文章 - 可能需要付费订阅]]></description>
+      <guid>https://www.newscientist.com/article/2428596-most-brain-monitors-sold-to-consumers-dont-keep-your-data-private/</guid>
+      <pubDate>Fri, 03 May 2024 18:08:50 GMT</pubDate>
     </item>
     <item>
-      <title>鼓励计算机科学学生将道德融入工作</title>
-      <link>https://www.utoronto.ca/news/u-t-initiative-encourages-computer-science-students-incorporate-ethics-their-work</link>
-      <description><![CDATA[多伦多大学新闻（加拿大）多伦多大学的嵌入式道德教育计划 (E3I) 旨在教导计算机科学专业的本科生在设计和开发新技术时考虑道德的重要性。该项目将道德模块整合到某些本科计算机科学课程中，重点关注人工智能安全、数据隐私和错误信息等问题。本学年，E3I 集成计算机科学课程的注册人数超过 8,000 名，另有 1,500 名学生选修计算机科学以外包含 E3I 编程的课程。摘自《鼓励计算机科学学生将道德融入工作》 
-多伦多大学新闻（加拿大）(04/26/24) Krystle Hewitt 查看全文]]></description>
-      <guid>https://www.utoronto.ca/news/u-t-initiative-encourages-computer-science-students-incorporate-ethics-their-work</guid>
-      <pubDate>Wed, 01 May 2024 18:09:38 GMT</pubDate>
+      <title>利用合成生物学、3D 打印对生命材料进行编程</title>
+      <link>https://scitechdaily.com/crafting-programmable-living-materials-with-synthetic-biology-3d-printing/</link>
+      <description><![CDATA[SciTechDaily中国南京工业大学和英国剑桥大学的研究人员开发了一种由转基因植物细胞组成的 3D 打印生物墨水，可以生产复杂的自我修复材料。他们将烟草植物细胞、明胶和含有根癌农杆菌的水凝胶微粒结合起来，创造出一种具有可定制行为和功能的工程植物活性材料。将混合物与另一种凝胶一起 3D 打印到容器中，形成各种形状。摘自《利用合成生物学对生命材料进行编程，3D 打印》
+SciTechDaily (05/01/24) 查看全文]]></description>
+      <guid>https://scitechdaily.com/crafting-programmable-living-materials-with-synthetic-biology-3d-printing/</guid>
+      <pubDate>Fri, 03 May 2024 18:08:50 GMT</pubDate>
     </item>
     <item>
-      <title>诺基亚与 NASA 将 4G 送入太空</title>
-      <link>https://www.cnn.com/2024/04/24/tech/nokia-moon-4g-network-nasa-spc/index.html</link>
-      <description><![CDATA[CNNNASA 和诺基亚联手在月球上建设 4G 网络。该系统计划于今年晚些时候由 SpaceX 火箭运载至月球，将由月球南极的着陆器安装并从地球进行远程控制。着陆器将用它连接到两辆漫游车，任务是在月球上寻找冰。摘自“诺基亚、NASA 将 4G 送入太空”
-CNN (04/24/24) 杰克·班托克 查看全文]]></description>
-      <guid>https://www.cnn.com/2024/04/24/tech/nokia-moon-4g-network-nasa-spc/index.html</guid>
-      <pubDate>Wed, 01 May 2024 18:09:38 GMT</pubDate>
+      <title>从婴儿语到婴儿人工智能</title>
+      <link>https://www.nytimes.com/2024/04/30/science/ai-infants-language-learning.html</link>
+      <description><![CDATA[《纽约时报》纽约大学 (NYU) 的研究人员开发了一种人工智能模型，该模型基于儿童的经验（尤其是他们的语言习得）进行训练，该模型基于头戴 GoPro 型相机的幼儿拍摄的视频。其目标是更好地了解人类智力的发展方式，从而开发更智能的人工智能模型。纽约大学的 Brenden Lake 表示：“如果该领域能够达到这样的水平：模型仅基于单个儿童看到的数据进行训练，并且能够在大量任务中表现出色，那将是一个巨大的科学成就。”摘自“从婴儿语言到婴儿人工智能”
+《纽约时报》（2024 年 4 月 30 日）Oliver Whang 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/04/30/science/ai-infants-language-learning.html</guid>
+      <pubDate>Fri, 03 May 2024 18:08:49 GMT</pubDate>
     </item>
     <item>
-      <title>Telegram 解锁乌克兰安全部门使用的聊天机器人</title>
-      <link>https://www.reuters.com/technology/ukraine-spy-agency-says-telegram-platform-blocks-its-key-bots-2024-04-29/</link>
-      <description><![CDATA[路透社Telegram 消息应用程序已恢复对乌克兰安全机构用来收集有关俄​​罗斯战争信息的聊天机器人的访问权限。乌克兰军事间谍机构 GUR 周一表示，该应用程序已阻止访问乌克兰 SBU 安全部门、GUR 和数字部使用的三个机器人。这些机器人允许人们报告俄罗斯军事硬件和人员在乌克兰境内的位置。据 Telegram 发言人称，这些机器人“由于误报而暂时被禁用，但后来已恢复。”来自“Telegram 解锁乌克兰安全部门使用的聊天机器人”
-路透社 (04/29/24) Anastasiia Malenko；莉迪亚·凯利 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/ukraine-spy-agency-says-telegram-platform-blocks-its-key-bots-2024-04-29/</guid>
-      <pubDate>Wed, 01 May 2024 18:09:37 GMT</pubDate>
+      <title>专家小组称法国必须限制儿童、青少年使用智能手机和社交媒体</title>
+      <link>https://www.reuters.com/world/europe/france-must-curb-child-teen-use-smartphones-social-media-says-panel-2024-04-30/</link>
+      <description><![CDATA[路透社在 4 月 30 日发布的一份报告中，法国总统马克龙委托的一个专家小组呼吁限制儿童和青少年使用智能手机和社交媒体。具体来说，该小组呼吁禁止 11 岁以下儿童使用手机、13 岁以下儿童使用可上网的智能手机以及 15 岁以下儿童使用社交媒体应用程序，只有被认为“合乎道德”的平台才允许 15 岁以上的未成年人使用。 15.摘自“专家小组称法国必须遏制儿童、青少年使用智能手机和社交媒体”
+路透社 (04/30/24) Tassilo Hummel 查看全文]]></description>
+      <guid>https://www.reuters.com/world/europe/france-must-curb-child-teen-use-smartphones-social-media-says-panel-2024-04-30/</guid>
+      <pubDate>Fri, 03 May 2024 18:08:49 GMT</pubDate>
     </item>
     <item>
-      <title>GitHub 对人工智能驱动的软件工程的看法</title>
-      <link>https://techcrunch.com/2024/04/29/copilot-workspace-is-githubs-take-on-ai-powered-software-engineering/</link>
-      <description><![CDATA[Tech CrunchGitHub 公布了 Copilot Workspace 的计划，由其 Copilot 编码助手驱动的 AI 代理将帮助开发人员以自然语言集思广益、规划、构建、测试和运行代码。GitHub 的 Jonathan Carter 表示，Workspace 将以 Copilot Chat 等新功能为基础，开发人员可以使用自然语言提出编码问题。Carter 表示，Copilot Workspace“为开发人员提供了一个开始迭代的计划。”摘自“GitHub 对 AI 驱动的软件工程的看法”
-Tech Crunch (04/29/24) Kyle Wiggers 查看全文]]></description>
-      <guid>https://techcrunch.com/2024/04/29/copilot-workspace-is-githubs-take-on-ai-powered-software-engineering/</guid>
-      <pubDate>Wed, 01 May 2024 18:09:37 GMT</pubDate>
+      <title>苹果瞄准谷歌员工组建人工智能团队</title>
+      <link>https://www.ft.com/content/87054a60-dc4d-4238-a4b9-93ab48f22f56</link>
+      <description><![CDATA[《金融时报》《金融时报》分析了数百份领英个人资料、公开招聘信息和研究论文，发现苹果近年来组建了一支人工智能专家团队，并在瑞士苏黎世建立了一个人工智能实验室。自 2018 年挖走谷歌的约翰·詹南德雷亚 (John Giannandrea) 担任其人工智能高管以来，苹果已从竞争对手科技公司挖走了至少 36 名专家。苹果秘密成立的苏黎世“视觉实验室”源于其收购当地人工智能初创公司 FaceShift 和 Fashwell，这两家公司分别以虚拟现实和图像识别而闻名。摘自“苹果瞄准谷歌员工组建人工智能团队”
+金融时报 (04/30/24) Michael Acton 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.ft.com/content/87054a60-dc4d-4238-a4b9-93ab48f22f56</guid>
+      <pubDate>Fri, 03 May 2024 18:08:48 GMT</pubDate>
     </item>
     <item>
-      <title>数据存储热度升温</title>
-      <link>https://penntoday.upenn.edu/news/penn-engineering-jariwala-turning-heat-data-storage</link>
-      <description><![CDATA[Penn Today宾夕法尼亚大学研究人员开发的耐热存储设备可以承受 600 摄氏度（超过 1,000 华氏度）的温度，是目前商用驱动器的两倍。该器件由铁电氮化铝钪（AlScN）制成，既耐热又耐用。在外部电场移除后，AlScN 可以在比其他数据存储技术高得多的温度下保留给定的电状态（“开”或“关”代表数字数据的 1 和 0）。摘自《数据存储热潮》
-宾夕法尼亚大学今日 (04/29/24) Nathi Magubane 查看全文]]></description>
-      <guid>https://penntoday.upenn.edu/news/penn-engineering-jariwala-turning-heat-data-storage</guid>
-      <pubDate>Wed, 01 May 2024 18:09:36 GMT</pubDate>
+      <title>应用程序允许选民刷卡寻找选举伙伴</title>
+      <link>https://www.euronews.com/next/2024/04/30/tinder-style-app-allows-voters-to-swipe-for-electoral-mates</link>
+      <description><![CDATA[EuronewsPalumba 应用程序提供投票建议，以此来鼓励年轻人参与欧盟选举。与约会应用程序 Tinder 类似，用户向右“滑动”表示同意提议，向左“滑动”表示不同意，并可选择温和的赞成/反对或中立的回应。该应用程序最终会根据用户的回应将用户与欧洲议会政治团体“匹配”。该开源应用程序定于 5 月 9 日上市，将以 30 多种语言在所有 27 个欧盟成员国推出。摘自“应用程序允许选民滑动屏幕选择选举伙伴”
+Euronews (04/30/24) Romane Armangau 查看全文]]></description>
+      <guid>https://www.euronews.com/next/2024/04/30/tinder-style-app-allows-voters-to-swipe-for-electoral-mates</guid>
+      <pubDate>Fri, 03 May 2024 18:08:48 GMT</pubDate>
     </item>
     <item>
-      <title>数百个量子位可能带来量子优势</title>
-      <link>https://www.livescience.com/technology/computing/major-quantum-computing-milestone-could-be-hit-with-just-hundreds-not-millions-of-qubits-thanks-to-new-error-correction-system</link>
-      <description><![CDATA[LiveScience加拿大初创公司 Nord Quantique 的研究人员开发了一种单独的纠错物理量子位，可以显着减少实现量子优势所需的量子位数量。通过在运行过程中应用玻色码（一种用于使用光子等玻色模式的系统的纠错码），研究人员能够最大限度地减少单个量子位级别的错误。研究人员表示，这可能意味着使用数百个量子位可能实现量子优势，而不是之前估计的数百万个。来自“数百个量子位可能实现的量子优势”
-生活科学 (04/29/24) Keumas Afifi-Sabet]]></description>
-      <guid>https://www.livescience.com/technology/computing/major-quantum-computing-milestone-could-be-hit-with-just-hundreds-not-millions-of-qubits-thanks-to-new-error-correction-system</guid>
-      <pubDate>Wed, 01 May 2024 18:09:36 GMT</pubDate>
+      <title>无人机利用 ChatGPT 跳舞</title>
+      <link>https://interestingengineering.com/innovation/tum-turns-drones-dancers-chatgpt</link>
+      <description><![CDATA[有趣的工程德国慕尼黑工业大学 (TUM) 的研究人员使用 ChatGPT 成功编排了空中无人机表演，指挥六架无人机绕圈飞行而不发生碰撞。这包括选择一个音乐曲目并输入 ChatGPT 翻译成编舞的文本。 TUM 的 Angela Schoellig 表示，由于 ChatGPT“最初对无人机的特性及其飞行路径的物理限制一无所知”，因此开发了一种安全算法来绘制飞行路径以避免碰撞。来自“无人机之舞”使用ChatGPT”
+有趣的工程 (04/30/24) Maria Mocerino 查看全文&lt; /a&gt;]]></description>
+      <guid>https://interestingengineering.com/innovation/tum-turns-drones-dancers-chatgpt</guid>
+      <pubDate>Fri, 03 May 2024 18:08:48 GMT</pubDate>
     </item>
     <item>
-      <title>欧盟因担心选举干扰和外国虚假信息而调查 Meta</title>
-      <link>https://www.cnn.com/2024/04/29/tech/eu-investigates-meta-election-interference-foreign-disinformation/index.html</link>
-      <description><![CDATA[CNNMeta 正在接受欧盟官员的调查，原因是担心它在保障即将举行的欧盟选举或遏制 Facebook 和 Instagram 上的外国虚假信息方面做得不够。此次调查的目标是 Meta 对诈骗者和外国人干扰选举的广告的处理，以及关闭 CrowdTangle 分析工具的举措，该工具允许研究人员和记者跟踪其平台上的热门对话。如果发现违反欧盟《数字服务法》，Meta 可能会被处以最高全球收入 6% 的罚款。摘自“欧盟因担心选举干扰和外国虚假信息而调查 Meta”
-CNN (04/29/24) Brian Fung 查看全文]]></description>
-      <guid>https://www.cnn.com/2024/04/29/tech/eu-investigates-meta-election-interference-foreign-disinformation/index.html</guid>
-      <pubDate>Wed, 01 May 2024 18:09:35 GMT</pubDate>
+      <title>拜登加强美国关键基础设施的安全</title>
+      <link>https://www.reuters.com/world/us/biden-signs-new-memo-boost-security-us-critical-infrastructure-2024-04-30/</link>
+      <description><![CDATA[路透社乔·拜登总统于 4 月 30 日签署的国家安全备忘录呼吁政府范围内努力确保美国关键基础设施的安全，该工作将由美国国土安全部领导。该备忘录还指示美国情报界“收集、制作并与联邦部门和机构、州和地方合作伙伴以及关键基础设施的所有者和运营商共享情报和信息。”来自“拜登”提升美国关键基础设施的安全性”
+路透社 (04/30/24) David Shepardson 查看全文]]></description>
+      <guid>https://www.reuters.com/world/us/biden-signs-new-memo-boost-security-us-critical-infrastructure-2024-04-30/</guid>
+      <pubDate>Fri, 03 May 2024 18:08:47 GMT</pubDate>
     </item>
     <item>
-      <title>公司将阿兰·图灵重新启用为聊天机器人</title>
-      <link>https://www.pcmag.com/news/company-revives-alan-turing-as-an-ai-chatbot-outrage-ensues</link>
-      <description><![CDATA[PC Magazine新加坡 Genius Group 是一家专注于人工智能驱动的商业教育的公司，它恢复了艾伦·图灵作为聊天机器人的能力，并任命其为公司的“首席人工智能官”。 Genius Group 首席执行官罗杰·詹姆斯·汉密尔顿 (Roger James Hamilton) 表示，经过一个月的首席人工智能官搜寻后，“很快就发现艾伦·图灵 AI 是该职位的最佳人选”。该公司上传了一段使用人工智能生成的图像向公众介绍图灵聊天机器人的视频。摘自“公司将阿兰图灵复活为聊天机器人”
-PC 杂志 (04/30/24) Michael Kan 查看全文]]></description>
-      <guid>https://www.pcmag.com/news/company-revives-alan-turing-as-an-ai-chatbot-outrage-ensues</guid>
-      <pubDate>Wed, 01 May 2024 18:09:35 GMT</pubDate>
+      <title>澳大利亚将资助 6.2 亿美元开发“实用级”量子计算机</title>
+      <link>https://www.theregister.com/2024/04/30/australia_psiquantum_investment/</link>
+      <description><![CDATA[The Register（英国）澳大利亚联邦政府和澳大利亚昆士兰州宣布为初创公司 PsiQuantum 提供 9.4 亿澳元（约合 6.2 亿美元）资金，以支持开发“世界上第一个公用事业规模的量子技术”电脑。”该初创公司使用标准硅晶圆、光子量子位以及光通信套件中采用的技术来构建由连接到光子处理器的光纤组成的机器，从而无需大量低温冷却系统。来自“澳大利亚”资助 6.2 亿美元“公用事业规模”量子计算机”
+The Register（英国）(04/30/24) Simon Sharwood]]></description>
+      <guid>https://www.theregister.com/2024/04/30/australia_psiquantum_investment/</guid>
+      <pubDate>Fri, 03 May 2024 18:08:47 GMT</pubDate>
     </item>
     <item>
-      <title>手机键盘漏洞导致数十亿用户暴露</title>
-      <link>https://spectrum.ieee.org/amp/chinese-pinyin-keyboard-software-exploits-2667871162</link>
-      <description><![CDATA[IEEE Spectrum由加拿大多伦多大学公民实验室研究人员领导的团队透露，十亿智能手机用户由于使用数字中文键盘而面临潜在的网络攻击。中文键盘使用依赖于云计算资源的字符预测功能，并且键盘应用程序和外部云服务器之间的通信安全不当，使用户的击键和消息容易受到间谍和窃听。来自“手机键盘漏洞使数十亿用户暴露”
-IEEE Spectrum (04/29/24) Margo Anderson 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/amp/chinese-pinyin-keyboard-software-exploits-2667871162</guid>
-      <pubDate>Wed, 01 May 2024 18:09:34 GMT</pubDate>
+      <title>杀手小行星猎人发现了 27,500 颗被忽视的太空岩石</title>
+      <link>https://www.nytimes.com/2024/04/30/science/killer-asteroids-algorithm.html</link>
+      <description><![CDATA[《纽约时报》小行星研究所和华盛顿大学的研究人员报告称，开发的一种算法通过扫描夜空的旧图像来识别潜在的杀手小行星，已经发现了 27,500 个以前未识别的太阳系天体，其中包括大约100颗近地小行星。 THOR（Tracklet-less Heliocentric Orbit Recovery）算法可以判断不同图像中捕捉到的光点是否是同一物体。摘自《杀手小行星猎人发现 27,500 块被忽视的太空岩石》
+纽约时报 (04/30/24) Kenneth Chang 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/04/30/science/killer-asteroids-algorithm.html</guid>
+      <pubDate>Fri, 03 May 2024 18:08:46 GMT</pubDate>
     </item>
     <item>
-      <title>到 2029 年，自动制动系统将成为美国标准配置</title>
-      <link>https://www.washingtonpost.com/transportation/2024/04/29/automatic-brakes-nhtsa-rule/</link>
-      <description><![CDATA[华盛顿邮报美国国家公路交通安全管理局 (NHTSA) 周一宣布，到 2029 年秋季，自动紧急制动系统必须作为新车的标准配备。根据规定，这些传感器-基于该系统的车辆必须能够使行驶速度高达 62 英里/小时的车辆完全停止而不会发生碰撞，并在检测到行人时以高达 45 英里/小时的速度制动。 NHTSA 表示更新的软件可以使大多数车辆符合标准。摘自“自动制动系统到 2029 年将成为美国标准”
-华盛顿邮报 (04/29/24) 伊恩·邓肯 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.washingtonpost.com/transportation/2024/04/29/automatic-brakes-nhtsa-rule/</guid>
-      <pubDate>Wed, 01 May 2024 18:09:34 GMT</pubDate>
+      <title>BASIC 成立 60 周年</title>
+      <link>https://arstechnica.com/gadgets/2024/05/the-basic-programming-language-turns-60/</link>
+      <description><![CDATA[Ars TechnicaBASIC（初学者通用符号指令代码）编程语言于 5 月 1 日迎来了 60 岁生日。为了让更广泛的受众能够使用计算，BASIC 因其使用简单的英文关键词。 BASIC 多年来不断发展，并且仍然受到复古计算爱好者的欢迎。它的后代包括 Microsoft 的 Visual Basic、Visual Basic for Applications 和 Small Basic。摘自“BASIC 60 周年”
+Ars Technica (05/01/24) Benj Edwards 查看全文]]></description>
+      <guid>https://arstechnica.com/gadgets/2024/05/the-basic-programming-language-turns-60/</guid>
+      <pubDate>Fri, 03 May 2024 18:08:46 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能面临“奥本海默时刻”</title>
-      <link>https://www.bloomberg.com/news/articles/2024-04-29/ai-faces-its-oppenheimer-moment-amid-killer-robot-arms-race</link>
-      <description><![CDATA[彭博社4 月 29 日，来自 100 多个国家的民事、军事和技术官员在奥地利维也纳举行的会议上，发言者表示，各国政府控制自主武器系统的时间已经不多了。 “这是我们这一代的奥本海默时刻，”奥地利外交部长亚历山大·沙伦贝格说道。哥斯达黎加外交部长阿诺尔多·安德烈蒂诺科表示，一旦非国家行为者和恐怖分子获得该技术，就需要制定新规则。摘自“人工智能面临‘奥本海默时刻’”
-彭博社 (04/29/24) 乔纳森·蒂龙 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-04-29/ai-faces-its-oppenheimer-moment-amid-killer-robot-arms-race</guid>
-      <pubDate>Wed, 01 May 2024 18:09:33 GMT</pubDate>
+      <title>罗伯特·卡恩：伟大的互联者</title>
+      <link>https://spectrum.ieee.org/bob-kahn-2667754905</link>
+      <description><![CDATA[IEEE SpectrumACM 2004 年上午图灵奖获得者罗伯特·卡恩（如图中）因其在作为互联网基础的分组通信技术方面的工作而被授予 2024 年 IEEE 荣誉勋章。 20 世纪 60 年代中期，卡恩撰写了几份有关如何实施计算机网络的报告，这促使他致力于研究阿帕网 (ARPANET)。卡恩还在传输控制协议（现在称为 TCP/IP）的开发中发挥了重要作用。摘自“罗伯特·卡恩：伟大的互连器”
+IEEE Spectrum (05/01/24) Tekla S. Perry 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/bob-kahn-2667754905</guid>
+      <pubDate>Fri, 03 May 2024 18:08:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
