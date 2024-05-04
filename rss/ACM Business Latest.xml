@@ -3,8 +3,8 @@
   <channel>
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
-    <description>频道说明</description>
-    <lastBuildDate>Sat, 04 May 2024 06:09:00 GMT</lastBuildDate>
+    <description>频道描述</description>
+    <lastBuildDate>Sat, 04 May 2024 09:08:56 GMT</lastBuildDate>
     <item>
       <title>Adam Neumann 收购 WeWork 失败。他现在会尝试与之竞争吗？</title>
       <link>https://www.wired.com/story/adam-neumann-bid-to-buy-wework-failed-will-he-compete/</link>
@@ -13,17 +13,17 @@
       <pubDate>Fri, 03 May 2024 13:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>斗志旺盛的加密矿机 CoreWeave 如何转变为人工智能热潮的数十亿美元支柱</title>
-      <link>https://www.wired.com/story/coreweave-scrappy-cryptominer-multibillion-dollar-ai/</link>
-      <description><![CDATA[CoreWeave 曾经是加密货币领域的小玩家，现在是一家价值 190 亿美元的独角兽，为 AI 开发人员提供 GPU。前员工表示，其狂热的文化和日益激烈的竞争现在带来了挑战。]]></description>
-      <guid>https://www.wired.com/story/coreweave-scrappy-cryptominer-multibillion-dollar-ai/</guid>
-      <pubDate>Fri, 03 May 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>给这个有钱人 1 美元，否则洋葱就会永远消失</title>
       <link>https://www.wired.com/story/plaintext-give-this-rich-dude-jeff-lawson-dollar-the-onion/</link>
       <description><![CDATA[企业家 Jeff Lawson 计划重振备受尊敬的讽刺媒体 The Onion，其中包括借鉴 WhatsApp 创始人的做法。]]></description>
       <guid>https://www.wired.com/story/plaintext-give-this-rich-dude-jeff-lawson-dollar-the-onion/</guid>
+      <pubDate>Fri, 03 May 2024 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>斗志旺盛的加密矿机 CoreWeave 如何转变为人工智能热潮的数十亿美元支柱</title>
+      <link>https://www.wired.com/story/coreweave-scrappy-cryptominer-multibillion-dollar-ai/</link>
+      <description><![CDATA[CoreWeave 曾经是加密货币领域的小玩家，现在是一家价值 190 亿美元的独角兽，为 AI 开发人员提供 GPU。前员工表示，其狂热的文化和日益激烈的竞争现在带来了挑战。]]></description>
+      <guid>https://www.wired.com/story/coreweave-scrappy-cryptominer-multibillion-dollar-ai/</guid>
       <pubDate>Fri, 03 May 2024 13:00:00 GMT</pubDate>
     </item>
     <item>
@@ -36,7 +36,7 @@
     <item>
       <title>尼克·博斯特罗姆让世界害怕人工智能。现在他问：如果它解决了一切怎么办？</title>
       <link>https://www.wired.com/story/nick-bostrom-fear-ai-fix-everything/</link>
-      <description><![CDATA[哲学家尼克·博斯特罗姆（Nick Bostrom）普及了超级智能人工智能可以消灭人类的想法。他的新书想象了一个算法已经解决了所有问题的世界。]]></description>
+      <description><![CDATA[哲学家尼克·博斯特罗姆 (Nick Bostrom) 提出了超级人工智能可能消灭人类的想法。他的新书描绘了一个算法可以解决所有问题的世界。]]></description>
       <guid>https://www.wired.com/story/nick-bostrom-fear-ai-fix-everything/</guid>
       <pubDate>Thu, 02 May 2024 16:00:00 GMT</pubDate>
     </item>
@@ -55,7 +55,7 @@
       <pubDate>Wed, 01 May 2024 16:09:27 GMT</pubDate>
     </item>
     <item>
-      <title>庞大的新数据集或将助力人工智能搜寻加密货币洗钱活动</title>
+      <title>大量新数据集可以增强人工智能对加密货币洗钱的追捕</title>
       <link>https://www.wired.com/story/ai-crypto-tracing-model-money-laundering/</link>
       <description><![CDATA[区块链分析公司 Elliptic、麻省理工学院和 IBM 发布了一个新的人工智能模型及其训练的 2 亿笔交易数据集，旨在发现比特币洗钱的“形态”。]]></description>
       <guid>https://www.wired.com/story/ai-crypto-tracing-model-money-laundering/</guid>
@@ -97,16 +97,16 @@
       <pubDate>Mon, 29 Apr 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>招聘人员正采用模拟技术应对人工智能应用程序过载</title>
+      <title>招聘人员正在采用模拟方式来应对人工智能应用程序过载</title>
       <link>https://www.wired.com/story/recruiters-ai-application-overload/</link>
-      <description><![CDATA[Indeed 和 LinkedIn 正在整合更多生成式人工智能来改善招聘和求职流程。一些招聘人员仍然不相信。]]></description>
+      <description><![CDATA[Indeed 和 LinkedIn 正在整合更具生成性的人工智能，以改善招聘和求职流程。一些招聘人员仍然不相信。]]></description>
       <guid>https://www.wired.com/story/recruiters-ai-application-overload/</guid>
       <pubDate>Mon, 29 Apr 2024 09:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Apple 的 iPhone 浏览器选择选项很糟糕。它的竞争对手有改进它的想法</title>
       <link>https://www.wired.com/story/browser-choice-screen-apple-digital-markets-act/</link>
-      <description><![CDATA[欧洲 iPhone 用户将看到一个新的弹出屏幕，其中列出了 Safari 浏览器的替代品。该屏幕上显示的浏览器的开发人员对用户体验感到困惑。]]></description>
+      <description><![CDATA[欧洲 iPhone 用户将看到一个新的弹出屏幕，其中列出了 Safari 浏览器的替代方案。屏幕上显示的浏览器开发人员对用户体验感到困惑。]]></description>
       <guid>https://www.wired.com/story/browser-choice-screen-apple-digital-markets-act/</guid>
       <pubDate>Mon, 29 Apr 2024 07:00:00 GMT</pubDate>
     </item>
