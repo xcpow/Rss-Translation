@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业最新动态</title>
+    <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Sat, 04 May 2024 15:06:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 18:08:07 GMT</lastBuildDate>
     <item>
       <title>Adam Neumann 收购 WeWork 失败。他现在会尝试与之竞争吗？</title>
       <link>https://www.wired.com/story/adam-neumann-bid-to-buy-wework-failed-will-he-compete/</link>
@@ -22,14 +22,14 @@
     <item>
       <title>给这个有钱人 1 美元，否则洋葱就会永远消失</title>
       <link>https://www.wired.com/story/plaintext-give-this-rich-dude-jeff-lawson-dollar-the-onion/</link>
-      <description><![CDATA[企业家杰夫·劳森（Jeff Lawson）重振著名讽刺媒体《洋葱报》的计划，借鉴了 WhatsApp 创始人的做法。]]></description>
+      <description><![CDATA[企业家 Jeff Lawson 计划重振备受尊敬的讽刺媒体 The Onion，其中包括借鉴 WhatsApp 创始人的做法。]]></description>
       <guid>https://www.wired.com/story/plaintext-give-this-rich-dude-jeff-lawson-dollar-the-onion/</guid>
       <pubDate>Fri, 03 May 2024 13:00:00 GMT</pubDate>
     </item>
     <item>
       <title>如果谷歌不向苹果支付 200 亿美元来购买你的 iPhone，你还会使用谷歌吗？</title>
       <link>https://www.wired.com/story/google-pay-apple-20-billion-to-get-on-your-iphone/</link>
-      <description><![CDATA[一位将在一次历史性的反垄断审判中决定谷歌命运的美国法官表示，谷歌一边声称自己拥有最好的搜索引擎，一边又向苹果支付数十亿美元以排挤竞争对手，这种做法“很奇怪”。]]></description>
+      <description><![CDATA[一位将在历史性反垄断审判中决定谷歌命运的美国法官表示，该公司声称自己拥有最好的搜索引擎，却又向苹果支付数十亿美元以将竞争对手拒之门外，这“很奇怪”。]]></description>
       <guid>https://www.wired.com/story/google-pay-apple-20-billion-to-get-on-your-iphone/</guid>
       <pubDate>Fri, 03 May 2024 01:23:46 GMT</pubDate>
     </item>
@@ -48,7 +48,7 @@
       <pubDate>Thu, 02 May 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>一项诉讼称，法律要求 Meta 让你控制自己的信息流</title>
+      <title>诉讼称法律要求 Meta 让你控制自己的 Feed</title>
       <link>https://www.wired.com/story/meta-section-230-users-algorithm/</link>
       <description><![CDATA[学术界伊森·祖克曼 (Ethan Zuckerman) 正在起诉 Meta，以赢得对附加组件的保护，这些附加组件可以帮助研究人员研究该平台并让用户更好地控制自己的提要。]]></description>
       <guid>https://www.wired.com/story/meta-section-230-users-algorithm/</guid>
@@ -62,7 +62,7 @@
       <pubDate>Wed, 01 May 2024 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>经济实惠的连接计划让他们保持在线。现在该怎么办？</title>
+      <title>经济实惠的连接计划让他们保持在线状态。现在怎么办？</title>
       <link>https://www.wired.com/story/affordable-connectivity-program-kept-them-online-what-now/</link>
       <description><![CDATA[数百万人依靠联邦平价连接计划保持在线状态并获得工作、医疗保健和上学机会。现在该计划已经过期，一些人担心会被取消。]]></description>
       <guid>https://www.wired.com/story/affordable-connectivity-program-kept-them-online-what-now/</guid>
@@ -71,14 +71,14 @@
     <item>
       <title>币安创始人赵长鹏被判入狱 4 个月</title>
       <link>https://www.wired.com/story/binance-ceo-changpeng-zhao-sentenced-prison/</link>
-      <description><![CDATA[一名美国法官以违反反洗钱规则为由判处加密货币大佬赵长鹏（又名 CZ）四个月监禁。]]></description>
+      <description><![CDATA[一名美国法官因违反反洗钱规则而判处加密货币大佬赵长鹏（又名 CZ）四个月监禁。]]></description>
       <guid>https://www.wired.com/story/binance-ceo-changpeng-zhao-sentenced-prison/</guid>
       <pubDate>Tue, 30 Apr 2024 19:10:15 GMT</pubDate>
     </item>
     <item>
       <title>ChatGPT 的 AI 探测器：您需要了解的一切</title>
       <link>https://www.wired.com/story/ai-detector-chatgpt/</link>
-      <description><![CDATA[您正在阅读的内容是人类撰写的，还是由人工智能生成的？本文将帮助您了解 AI 文本检测。]]></description>
+      <description><![CDATA[您正在阅读的内容是由人类编写的，还是由人工智能生成的？此文章列表将帮助您了解 AI 文本检测。]]></description>
       <guid>https://www.wired.com/story/ai-detector-chatgpt/</guid>
       <pubDate>Tue, 30 Apr 2024 11:00:00 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>苹果的 iPhone 浏览器选项很糟糕。其竞争对手有改进的想法</title>
       <link>https://www.wired.com/story/browser-choice-screen-apple-digital-markets-act/</link>
-      <description><![CDATA[欧洲 iPhone 用户将看到一个新的弹出屏幕，其中列出了 Safari 浏览器的替代品。该屏幕上显示的浏览器的开发人员对用户体验感到困惑。]]></description>
+      <description><![CDATA[欧洲 iPhone 用户将看到一个新的弹出屏幕，其中列出了 Safari 浏览器的替代方案。屏幕上显示的浏览器开发人员对用户体验感到困惑。]]></description>
       <guid>https://www.wired.com/story/browser-choice-screen-apple-digital-markets-act/</guid>
       <pubDate>Mon, 29 Apr 2024 07:00:00 GMT</pubDate>
     </item>
