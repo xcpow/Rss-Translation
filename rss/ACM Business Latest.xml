@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业最新动态</title>
+    <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Mon, 06 May 2024 06:10:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 09:08:46 GMT</lastBuildDate>
+    <item>
+      <title>以太坊联合创始人表示美国证券交易委员会正在“煤气灯操纵”每个人关于加密货币的问题</title>
+      <link>https://www.wired.com/story/ethereums-co-founder-says-sec-is-gaslighting-us-about-crypto/</link>
+      <description><![CDATA[乔·鲁宾 (Joe Lubin) 是以太坊的联合创始人。现在他的公司正在起诉美国证券交易委员会，他表示互联网的未来受到威胁。]]></description>
+      <guid>https://www.wired.com/story/ethereums-co-founder-says-sec-is-gaslighting-us-about-crypto/</guid>
+      <pubDate>Mon, 06 May 2024 08:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Adam Neumann 收购 WeWork 失败。他现在会尝试与之竞争吗？</title>
       <link>https://www.wired.com/story/adam-neumann-bid-to-buy-wework-failed-will-he-compete/</link>
@@ -55,7 +62,7 @@
       <pubDate>Wed, 01 May 2024 16:09:27 GMT</pubDate>
     </item>
     <item>
-      <title>大量新数据集可以增强人工智能对加密货币洗钱的追捕</title>
+      <title>庞大的新数据集或将助力人工智能搜寻加密货币洗钱活动</title>
       <link>https://www.wired.com/story/ai-crypto-tracing-model-money-laundering/</link>
       <description><![CDATA[区块链分析公司 Elliptic、麻省理工学院和 IBM 发布了一个新的人工智能模型及其训练的 2 亿笔交易数据集，旨在发现比特币洗钱的“形态”。]]></description>
       <guid>https://www.wired.com/story/ai-crypto-tracing-model-money-laundering/</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>最新的网络文化战争是人类与算法</title>
       <link>https://www.wired.com/story/latest-online-culture-war-is-humans-vs-algorithms/</link>
-      <description><![CDATA[有没有觉得 Instagram 或 TikTok 的算法太了解你了？人们对自动策展的反对声越来越大，新的无算法平台正在涌现。]]></description>
+      <description><![CDATA[有没有觉得 Instagram 或 TikTok 算法太了解你了？对自动管理的强烈反对正在形成，新的无算法平台正在涌现。]]></description>
       <guid>https://www.wired.com/story/latest-online-culture-war-is-humans-vs-algorithms/</guid>
       <pubDate>Mon, 29 Apr 2024 11:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[Indeed 和 LinkedIn 正在整合更具生成性的人工智能，以改善招聘和求职流程。一些招聘人员仍然不相信。]]></description>
       <guid>https://www.wired.com/story/recruiters-ai-application-overload/</guid>
       <pubDate>Mon, 29 Apr 2024 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple 的 iPhone 浏览器选择选项很糟糕。它的竞争对手有改进的想法</title>
-      <link>https://www.wired.com/story/browser-choice-screen-apple-digital-markets-act/</link>
-      <description><![CDATA[欧洲 iPhone 用户将看到一个新的弹出屏幕，其中列出了 Safari 浏览器的替代品。该屏幕上显示的浏览器的开发人员对用户体验感到困惑。]]></description>
-      <guid>https://www.wired.com/story/browser-choice-screen-apple-digital-markets-act/</guid>
-      <pubDate>Mon, 29 Apr 2024 07:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
