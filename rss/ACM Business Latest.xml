@@ -4,11 +4,25 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Tue, 07 May 2024 18:09:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 21:07:23 GMT</lastBuildDate>
     <item>
-      <title>穆西赢得了数百万美元。免费音乐流媒体应用程序是否好得令人难以置信？</title>
+      <title>气候抗议中坚决阻止特斯拉</title>
+      <link>https://www.wired.com/story/tesla-forest-protest-environment-sham/</link>
+      <description><![CDATA[随着抗议活动加剧，特斯拉位于德国的超级工厂暂时停止生产。]]></description>
+      <guid>https://www.wired.com/story/tesla-forest-protest-environment-sham/</guid>
+      <pubDate>Tue, 07 May 2024 20:10:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 向对人工智能算法持谨慎态度的艺术家伸出了橄榄枝</title>
+      <link>https://www.wired.com/story/openai-olive-branch-artists-ai-algorithms/</link>
+      <description><![CDATA[ChatGPT 开发商 OpenAI 表示，艺术家和其他内容所有者将能够要求将他们的作品排除在 AI 开发之外。该计划的许多细节仍不清楚。]]></description>
+      <guid>https://www.wired.com/story/openai-olive-branch-artists-ai-algorithms/</guid>
+      <pubDate>Tue, 07 May 2024 18:54:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Musi 赢得数百万美元。免费音乐流媒体应用好得令人难以置信吗？</title>
       <link>https://www.wired.com/story/free-music-streaming-app-musi-too-good-to-be-true/</link>
-      <description><![CDATA[Musi 的免费音乐流媒体应用在节俭的青少年中大受欢迎。该应用声称利用 YouTube 上的内容，但音乐行业的一些人质疑这种模式的合法性。]]></description>
+      <description><![CDATA[Musi 的免费音乐流媒体应用程序深受节俭青少年的欢迎。该应用声称可以挖掘 YouTube 上的内容，但音乐行业的一些人质疑该模式的合法性。]]></description>
       <guid>https://www.wired.com/story/free-music-streaming-app-musi-too-good-to-be-true/</guid>
       <pubDate>Tue, 07 May 2024 11:00:00 GMT</pubDate>
     </item>
@@ -22,7 +36,7 @@
     <item>
       <title>以太坊联合创始人表示美国证券交易委员会正在“煤气灯操纵”每个人关于加密货币的问题</title>
       <link>https://www.wired.com/story/ethereums-co-founder-says-sec-is-gaslighting-us-about-crypto/</link>
-      <description><![CDATA[乔·鲁宾 (Joe Lubin) 是以太坊的联合创始人。现在他的公司正在起诉美国证券交易委员会，他表示互联网的未来受到威胁。]]></description>
+      <description><![CDATA[乔·鲁宾是以太坊的联合创始人。现在他的公司正在起诉美国证券交易委员会，他说互联网的未来岌岌可危。]]></description>
       <guid>https://www.wired.com/story/ethereums-co-founder-says-sec-is-gaslighting-us-about-crypto/</guid>
       <pubDate>Mon, 06 May 2024 08:30:00 GMT</pubDate>
     </item>
@@ -50,7 +64,7 @@
     <item>
       <title>如果谷歌不向苹果支付 200 亿美元来购买你的 iPhone，你还会使用谷歌吗？</title>
       <link>https://www.wired.com/story/google-pay-apple-20-billion-to-get-on-your-iphone/</link>
-      <description><![CDATA[一位将在历史性反垄断审判中决定谷歌命运的美国法官表示，该公司声称自己拥有最好的搜索引擎，却又向苹果支付数十亿美元以将竞争对手拒之门外，这“很奇怪”。]]></description>
+      <description><![CDATA[一位将在一次历史性的反垄断审判中决定谷歌命运的美国法官表示，谷歌一边声称自己拥有最好的搜索引擎，一边又向苹果支付数十亿美元以排挤竞争对手，这是“奇怪的”。]]></description>
       <guid>https://www.wired.com/story/google-pay-apple-20-billion-to-get-on-your-iphone/</guid>
       <pubDate>Fri, 03 May 2024 01:23:46 GMT</pubDate>
     </item>
@@ -76,7 +90,7 @@
       <pubDate>Wed, 01 May 2024 16:09:27 GMT</pubDate>
     </item>
     <item>
-      <title>庞大的新数据集或将助力人工智能搜寻加密货币洗钱活动</title>
+      <title>大量新数据集可以增强人工智能对加密货币洗钱的追捕</title>
       <link>https://www.wired.com/story/ai-crypto-tracing-model-money-laundering/</link>
       <description><![CDATA[区块链分析公司 Elliptic、麻省理工学院和 IBM 发布了一个新的人工智能模型及其训练的 2 亿笔交易数据集，旨在发现比特币洗钱的“形态”。]]></description>
       <guid>https://www.wired.com/story/ai-crypto-tracing-model-money-laundering/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[一名美国法官因违反反洗钱规则而判处加密货币大佬赵长鹏（又名 CZ）四个月监禁。]]></description>
       <guid>https://www.wired.com/story/binance-ceo-changpeng-zhao-sentenced-prison/</guid>
       <pubDate>Tue, 30 Apr 2024 19:10:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 的 AI 探测器：您需要了解的一切</title>
-      <link>https://www.wired.com/story/ai-detector-chatgpt/</link>
-      <description><![CDATA[您正在阅读的内容是由人类编写的，还是由人工智能生成的？此文章列表将帮助您了解 AI 文本检测。]]></description>
-      <guid>https://www.wired.com/story/ai-detector-chatgpt/</guid>
-      <pubDate>Tue, 30 Apr 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>埃隆·马斯克绝望的亚洲之行无法解决特斯拉的中国危机</title>
-      <link>https://www.wired.com/story/elon-musk-cant-solve-teslas-china-crisis-with-his-desperate-asia-visit/</link>
-      <description><![CDATA[特斯拉与百度的交易并不新鲜，特斯拉收集的地图数据可能无法离开中国，而且全自动驾驶无法与更先进的中国替代方案竞争。]]></description>
-      <guid>https://www.wired.com/story/elon-musk-cant-solve-teslas-china-crisis-with-his-desperate-asia-visit/</guid>
-      <pubDate>Mon, 29 Apr 2024 19:50:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
