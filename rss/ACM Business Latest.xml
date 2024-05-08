@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Wed, 08 May 2024 15:07:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 18:10:08 GMT</lastBuildDate>
+    <item>
+      <title>FTX债权人称支付交易是“一种侮辱”并计划反抗</title>
+      <link>https://www.wired.com/story/ftx-creditors-crypto-payout-rejection/</link>
+      <description><![CDATA[FTX 计划向其前加密货币客户偿还超过他们在最新破产提案中损失的数十亿美元的资金。但无论如何，有些人会拒绝它。]]></description>
+      <guid>https://www.wired.com/story/ftx-creditors-crypto-payout-rejection/</guid>
+      <pubDate>Wed, 08 May 2024 17:00:02 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌 DeepMind 突破性的蛋白质结构人工智能现在可以模拟 DNA</title>
       <link>https://www.wired.com/story/alphafold-3-google-deepmind-ai-protein-structure-dna/</link>
@@ -57,22 +64,22 @@
     <item>
       <title>Adam Neumann 收购 WeWork 失败。他现在会尝试与之竞争吗？</title>
       <link>https://www.wired.com/story/adam-neumann-bid-to-buy-wework-failed-will-he-compete/</link>
-      <description><![CDATA[WeWork 备受争议的前首席执行官试图收购他让陷入危机的破产公司。在遭到拒绝后，亚当·诺依曼将不得不转向新的事物。]]></description>
+      <description><![CDATA[WeWork 备受争议的前首席执行官试图收购他让陷入危机的破产公司。在遭到拒绝后，亚当·诺伊曼将不得不转向新的事物。]]></description>
       <guid>https://www.wired.com/story/adam-neumann-bid-to-buy-wework-failed-will-he-compete/</guid>
       <pubDate>Fri, 03 May 2024 13:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>给这个有钱人 1 美元，否则洋葱就会永远消失</title>
-      <link>https://www.wired.com/story/plaintext-give-this-rich-dude-jeff-lawson-dollar-the-onion/</link>
-      <description><![CDATA[企业家杰夫·劳森（Jeff Lawson）重振著名讽刺媒体《洋葱报》的计划，借鉴了 WhatsApp 创始人的做法。]]></description>
-      <guid>https://www.wired.com/story/plaintext-give-this-rich-dude-jeff-lawson-dollar-the-onion/</guid>
-      <pubDate>Fri, 03 May 2024 13:00:00 GMT</pubDate>
     </item>
     <item>
       <title>斗志旺盛的加密矿机 CoreWeave 如何转变为人工智能热潮的数十亿美元支柱</title>
       <link>https://www.wired.com/story/coreweave-scrappy-cryptominer-multibillion-dollar-ai/</link>
       <description><![CDATA[CoreWeave 曾经是加密货币领域的小玩家，现在是一家价值 190 亿美元的独角兽，为 AI 开发人员提供 GPU。前员工表示，其狂热的文化和日益激烈的竞争现在带来了挑战。]]></description>
       <guid>https://www.wired.com/story/coreweave-scrappy-cryptominer-multibillion-dollar-ai/</guid>
+      <pubDate>Fri, 03 May 2024 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>给这个有钱人 1 美元，否则洋葱将永远消失</title>
+      <link>https://www.wired.com/story/plaintext-give-this-rich-dude-jeff-lawson-dollar-the-onion/</link>
+      <description><![CDATA[企业家 Jeff Lawson 计划重振备受尊敬的讽刺媒体 The Onion，其中包括借鉴 WhatsApp 创始人的做法。]]></description>
+      <guid>https://www.wired.com/story/plaintext-give-this-rich-dude-jeff-lawson-dollar-the-onion/</guid>
       <pubDate>Fri, 03 May 2024 13:00:00 GMT</pubDate>
     </item>
     <item>
@@ -83,7 +90,7 @@
       <pubDate>Fri, 03 May 2024 01:23:46 GMT</pubDate>
     </item>
     <item>
-      <title>尼克·博斯特罗姆让世界惧怕人工智能。现在他问道：如果人工智能能解决所有问题会怎样？</title>
+      <title>尼克·博斯特罗姆让世界害怕人工智能。现在他问：如果它解决了一切怎么办？</title>
       <link>https://www.wired.com/story/nick-bostrom-fear-ai-fix-everything/</link>
       <description><![CDATA[哲学家尼克·博斯特罗姆（Nick Bostrom）普及了超级智能人工智能可以消灭人类的想法。他的新书想象了一个算法已经解决了所有问题的世界。]]></description>
       <guid>https://www.wired.com/story/nick-bostrom-fear-ai-fix-everything/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[学术界伊森·祖克曼 (Ethan Zuckerman) 正在起诉 Meta，以赢得对附加组件的保护，这些附加组件可以帮助研究人员研究该平台并让用户更好地控制自己的提要。]]></description>
       <guid>https://www.wired.com/story/meta-section-230-users-algorithm/</guid>
       <pubDate>Wed, 01 May 2024 16:09:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>大量新数据集可以增强人工智能对加密货币洗钱的追捕</title>
-      <link>https://www.wired.com/story/ai-crypto-tracing-model-money-laundering/</link>
-      <description><![CDATA[区块链分析公司 Elliptic、麻省理工学院和 IBM 发布了一种新的人工智能模型及其训练的 2 亿笔交易数据集，旨在发现比特币洗钱的“形态”。]]></description>
-      <guid>https://www.wired.com/story/ai-crypto-tracing-model-money-laundering/</guid>
-      <pubDate>Wed, 01 May 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
