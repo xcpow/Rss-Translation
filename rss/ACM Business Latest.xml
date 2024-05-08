@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Wed, 08 May 2024 09:07:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 12:13:17 GMT</lastBuildDate>
+    <item>
+      <title>职业倦怠正在促使员工使用人工智能——即使他们的老板不知道</title>
+      <link>https://www.wired.com/story/ai-workers-burnout-microsoft-linkedin/</link>
+      <description><![CDATA[新数据显示，无论老板是否愿意，人们都在工作中使用人工智能。但推动变革的是绝望，而不是创新。]]></description>
+      <guid>https://www.wired.com/story/ai-workers-burnout-microsoft-linkedin/</guid>
+      <pubDate>Wed, 08 May 2024 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>气候抗议中坚决阻止特斯拉</title>
       <link>https://www.wired.com/story/tesla-forest-protest-environment-sham/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>穆西赢得了数百万美元。免费音乐流媒体应用程序是否好得令人难以置信？</title>
       <link>https://www.wired.com/story/free-music-streaming-app-musi-too-good-to-be-true/</link>
-      <description><![CDATA[Musi 的免费音乐流媒体应用程序深受节俭青少年的欢迎。该应用声称可以挖掘 YouTube 上的内容，但音乐行业的一些人质疑该模式的合法性。]]></description>
+      <description><![CDATA[Musi 的免费音乐流媒体应用在节俭的青少年中大受欢迎。该应用声称利用 YouTube 上的内容，但音乐行业的一些人质疑这种模式的合法性。]]></description>
       <guid>https://www.wired.com/story/free-music-streaming-app-musi-too-good-to-be-true/</guid>
       <pubDate>Tue, 07 May 2024 11:00:00 GMT</pubDate>
     </item>
@@ -57,21 +64,21 @@
     <item>
       <title>给这个有钱人 1 美元，否则洋葱就会永远消失</title>
       <link>https://www.wired.com/story/plaintext-give-this-rich-dude-jeff-lawson-dollar-the-onion/</link>
-      <description><![CDATA[企业家杰夫·劳森（Jeff Lawson）重振著名讽刺媒体《洋葱报》的计划，借鉴了 WhatsApp 创始人的做法。]]></description>
+      <description><![CDATA[企业家杰夫·劳森 (Jeff Lawson) 计划重振备受尊敬的讽刺媒体《洋葱》(The Onion)，其中包括借鉴 WhatsApp 创始人的做法。]]></description>
       <guid>https://www.wired.com/story/plaintext-give-this-rich-dude-jeff-lawson-dollar-the-onion/</guid>
       <pubDate>Fri, 03 May 2024 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>如果谷歌不向苹果支付 200 亿美元来获取你的 iPhone 版权，你还会使用谷歌吗？</title>
+      <title>如果谷歌不向苹果支付 200 亿美元来购买你的 iPhone，你还会使用谷歌吗？</title>
       <link>https://www.wired.com/story/google-pay-apple-20-billion-to-get-on-your-iphone/</link>
-      <description><![CDATA[一位将在一次历史性的反垄断审判中决定谷歌命运的美国法官表示，谷歌一边声称自己拥有最好的搜索引擎，一边又向苹果支付数十亿美元以排挤竞争对手，这是“奇怪的”。]]></description>
+      <description><![CDATA[一位将在历史性反垄断审判中决定谷歌命运的美国法官表示，该公司声称自己拥有最好的搜索引擎，却又向苹果支付数十亿美元以将竞争对手拒之门外，这“很奇怪”。]]></description>
       <guid>https://www.wired.com/story/google-pay-apple-20-billion-to-get-on-your-iphone/</guid>
       <pubDate>Fri, 03 May 2024 01:23:46 GMT</pubDate>
     </item>
     <item>
       <title>尼克·博斯特罗姆让世界害怕人工智能。现在他问：如果它解决了一切怎么办？</title>
       <link>https://www.wired.com/story/nick-bostrom-fear-ai-fix-everything/</link>
-      <description><![CDATA[哲学家尼克·博斯特罗姆（Nick Bostrom）普及了超级智能人工智能可以消灭人类的想法。他的新书想象了一个算法已经解决了所有问题的世界。]]></description>
+      <description><![CDATA[哲学家尼克·博斯特罗姆 (Nick Bostrom) 提出了超级人工智能可能消灭人类的想法。他的新书描绘了一个算法可以解决所有问题的世界。]]></description>
       <guid>https://www.wired.com/story/nick-bostrom-fear-ai-fix-everything/</guid>
       <pubDate>Thu, 02 May 2024 16:00:00 GMT</pubDate>
     </item>
@@ -99,16 +106,9 @@
     <item>
       <title>经济实惠的连接计划让他们保持在线状态。现在怎么办？</title>
       <link>https://www.wired.com/story/affordable-connectivity-program-kept-them-online-what-now/</link>
-      <description><![CDATA[数百万人依靠联邦平价连接计划保持在线状态并获得工作、医疗保健和学校服务。现在该计划已经过期，一些人担心会被取消。]]></description>
+      <description><![CDATA[数百万人依靠联邦平价连接计划保持在线状态并获得工作、医疗保健和上学机会。现在该计划已经过期，一些人担心会被取消。]]></description>
       <guid>https://www.wired.com/story/affordable-connectivity-program-kept-them-online-what-now/</guid>
       <pubDate>Wed, 01 May 2024 00:11:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>币安创始人赵长鹏被判入狱 4 个月</title>
-      <link>https://www.wired.com/story/binance-ceo-changpeng-zhao-sentenced-prison/</link>
-      <description><![CDATA[一名美国法官因违反反洗钱规则而判处加密货币大佬赵长鹏（又名 CZ）四个月监禁。]]></description>
-      <guid>https://www.wired.com/story/binance-ceo-changpeng-zhao-sentenced-prison/</guid>
-      <pubDate>Tue, 30 Apr 2024 19:10:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
