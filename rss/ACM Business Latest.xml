@@ -4,11 +4,11 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Wed, 08 May 2024 06:09:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 09:07:51 GMT</lastBuildDate>
     <item>
       <title>气候抗议中坚决阻止特斯拉</title>
       <link>https://www.wired.com/story/tesla-forest-protest-environment-sham/</link>
-      <description><![CDATA[随着抗议活动的加剧，特斯拉在德国的超级工厂已暂时停止生产。]]></description>
+      <description><![CDATA[随着抗议活动加剧，特斯拉位于德国的超级工厂暂时停止生产。]]></description>
       <guid>https://www.wired.com/story/tesla-forest-protest-environment-sham/</guid>
       <pubDate>Tue, 07 May 2024 20:10:45 GMT</pubDate>
     </item>
@@ -29,7 +29,7 @@
     <item>
       <title>亚马逊的送货无人机将无法在亚利桑那州的夏季炎热中飞行</title>
       <link>https://www.wired.com/story/amazon-delivery-drones-heat-grounded-summer/</link>
-      <description><![CDATA[亚马逊最新的送货无人机将从凤凰城郊外起飞，但不要指望在炎热的天气里紧急订购风扇。当温度超过 104 华氏度时，无人机队就无法飞行。]]></description>
+      <description><![CDATA[亚马逊最新的送货无人机将从菲尼克斯郊外起飞，但不要指望在炎热的天气里匆忙订购风扇。当温度超过 104 华氏度时，机队将无法飞行。]]></description>
       <guid>https://www.wired.com/story/amazon-delivery-drones-heat-grounded-summer/</guid>
       <pubDate>Tue, 07 May 2024 10:00:00 GMT</pubDate>
     </item>
@@ -43,16 +43,9 @@
     <item>
       <title>Adam Neumann 收购 WeWork 失败。他现在会尝试与之竞争吗？</title>
       <link>https://www.wired.com/story/adam-neumann-bid-to-buy-wework-failed-will-he-compete/</link>
-      <description><![CDATA[WeWork 备受争议的前首席执行官试图收购他让陷入危机的破产公司。在遭到拒绝后，亚当·诺伊曼将不得不转向新的事物。]]></description>
+      <description><![CDATA[WeWork 备受争议的前首席执行官试图收购他让陷入危机的破产公司。在遭到拒绝后，亚当·诺依曼将不得不转向新的事物。]]></description>
       <guid>https://www.wired.com/story/adam-neumann-bid-to-buy-wework-failed-will-he-compete/</guid>
       <pubDate>Fri, 03 May 2024 13:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>给这个有钱人 1 美元，否则洋葱就会永远消失</title>
-      <link>https://www.wired.com/story/plaintext-give-this-rich-dude-jeff-lawson-dollar-the-onion/</link>
-      <description><![CDATA[企业家杰夫·劳森 (Jeff Lawson) 计划重振备受尊敬的讽刺媒体《洋葱》(The Onion)，其中包括借鉴 WhatsApp 创始人的做法。]]></description>
-      <guid>https://www.wired.com/story/plaintext-give-this-rich-dude-jeff-lawson-dollar-the-onion/</guid>
-      <pubDate>Fri, 03 May 2024 13:00:00 GMT</pubDate>
     </item>
     <item>
       <title>斗志旺盛的加密矿机 CoreWeave 如何转变为人工智能热潮的数十亿美元支柱</title>
@@ -62,9 +55,16 @@
       <pubDate>Fri, 03 May 2024 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>如果谷歌不向苹果支付 200 亿美元来购买你的 iPhone，你还会使用谷歌吗？</title>
+      <title>给这个有钱人 1 美元，否则洋葱就会永远消失</title>
+      <link>https://www.wired.com/story/plaintext-give-this-rich-dude-jeff-lawson-dollar-the-onion/</link>
+      <description><![CDATA[企业家杰夫·劳森（Jeff Lawson）重振著名讽刺媒体《洋葱报》的计划，借鉴了 WhatsApp 创始人的做法。]]></description>
+      <guid>https://www.wired.com/story/plaintext-give-this-rich-dude-jeff-lawson-dollar-the-onion/</guid>
+      <pubDate>Fri, 03 May 2024 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果谷歌不向苹果支付 200 亿美元来获取你的 iPhone 版权，你还会使用谷歌吗？</title>
       <link>https://www.wired.com/story/google-pay-apple-20-billion-to-get-on-your-iphone/</link>
-      <description><![CDATA[一位将在历史性反垄断审判中决定谷歌命运的美国法官表示，该公司声称自己拥有最好的搜索引擎，却又向苹果支付数十亿美元以将竞争对手拒之门外，这“很奇怪”。]]></description>
+      <description><![CDATA[一位将在一次历史性的反垄断审判中决定谷歌命运的美国法官表示，谷歌一边声称自己拥有最好的搜索引擎，一边又向苹果支付数十亿美元以排挤竞争对手，这是“奇怪的”。]]></description>
       <guid>https://www.wired.com/story/google-pay-apple-20-billion-to-get-on-your-iphone/</guid>
       <pubDate>Fri, 03 May 2024 01:23:46 GMT</pubDate>
     </item>
@@ -92,14 +92,14 @@
     <item>
       <title>大量新数据集可以增强人工智能对加密货币洗钱的追捕</title>
       <link>https://www.wired.com/story/ai-crypto-tracing-model-money-laundering/</link>
-      <description><![CDATA[区块链分析公司 Elliptic、麻省理工学院和 IBM 发布了一个新的人工智能模型及其训练的 2 亿交易数据集，旨在发现比特币洗钱的“形态”。]]></description>
+      <description><![CDATA[区块链分析公司 Elliptic、麻省理工学院和 IBM 发布了一个新的人工智能模型及其训练的 2 亿笔交易数据集，旨在发现比特币洗钱的“形态”。]]></description>
       <guid>https://www.wired.com/story/ai-crypto-tracing-model-money-laundering/</guid>
       <pubDate>Wed, 01 May 2024 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>经济实惠的连接计划让他们保持在线。现在该怎么办？</title>
+      <title>经济实惠的连接计划让他们保持在线状态。现在怎么办？</title>
       <link>https://www.wired.com/story/affordable-connectivity-program-kept-them-online-what-now/</link>
-      <description><![CDATA[数百万人依靠联邦平价连接计划保持在线状态并获得工作、医疗保健和上学机会。现在该计划已经过期，一些人担心会被取消。]]></description>
+      <description><![CDATA[数百万人依靠联邦平价连接计划保持在线状态并获得工作、医疗保健和学校服务。现在该计划已经过期，一些人担心会被取消。]]></description>
       <guid>https://www.wired.com/story/affordable-connectivity-program-kept-them-online-what-now/</guid>
       <pubDate>Wed, 01 May 2024 00:11:33 GMT</pubDate>
     </item>
