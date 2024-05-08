@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Wed, 08 May 2024 12:13:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 15:07:09 GMT</lastBuildDate>
+    <item>
+      <title>谷歌 DeepMind 突破性的蛋白质结构人工智能现在可以模拟 DNA</title>
+      <link>https://www.wired.com/story/alphafold-3-google-deepmind-ai-protein-structure-dna/</link>
+      <description><![CDATA[谷歌人工智能主管德米斯·哈萨比斯 (Demis Hassabis) 表示，彻底改变蛋白质研究的 AlphaFold 软件已获得重大升级，将推动药物开发。]]></description>
+      <guid>https://www.wired.com/story/alphafold-3-google-deepmind-ai-protein-structure-dna/</guid>
+      <pubDate>Wed, 08 May 2024 15:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>职业倦怠正在促使员工使用人工智能——即使他们的老板不知道</title>
       <link>https://www.wired.com/story/ai-workers-burnout-microsoft-linkedin/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>穆西赢得了数百万美元。免费音乐流媒体应用程序是否好得令人难以置信？</title>
       <link>https://www.wired.com/story/free-music-streaming-app-musi-too-good-to-be-true/</link>
-      <description><![CDATA[Musi 的免费音乐流媒体应用在节俭的青少年中大受欢迎。该应用声称利用 YouTube 上的内容，但音乐行业的一些人质疑这种模式的合法性。]]></description>
+      <description><![CDATA[Musi 的免费音乐流媒体应用程序深受节俭青少年的欢迎。该应用声称可以挖掘 YouTube 上的内容，但音乐行业的一些人质疑该模式的合法性。]]></description>
       <guid>https://www.wired.com/story/free-music-streaming-app-musi-too-good-to-be-true/</guid>
       <pubDate>Tue, 07 May 2024 11:00:00 GMT</pubDate>
     </item>
@@ -55,17 +62,17 @@
       <pubDate>Fri, 03 May 2024 13:30:00 GMT</pubDate>
     </item>
     <item>
+      <title>给这个有钱人 1 美元，否则洋葱就会永远消失</title>
+      <link>https://www.wired.com/story/plaintext-give-this-rich-dude-jeff-lawson-dollar-the-onion/</link>
+      <description><![CDATA[企业家杰夫·劳森（Jeff Lawson）重振著名讽刺媒体《洋葱报》的计划，借鉴了 WhatsApp 创始人的做法。]]></description>
+      <guid>https://www.wired.com/story/plaintext-give-this-rich-dude-jeff-lawson-dollar-the-onion/</guid>
+      <pubDate>Fri, 03 May 2024 13:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>斗志旺盛的加密矿机 CoreWeave 如何转变为人工智能热潮的数十亿美元支柱</title>
       <link>https://www.wired.com/story/coreweave-scrappy-cryptominer-multibillion-dollar-ai/</link>
       <description><![CDATA[CoreWeave 曾经是加密货币领域的小玩家，现在是一家价值 190 亿美元的独角兽，为 AI 开发人员提供 GPU。前员工表示，其狂热的文化和日益激烈的竞争现在带来了挑战。]]></description>
       <guid>https://www.wired.com/story/coreweave-scrappy-cryptominer-multibillion-dollar-ai/</guid>
-      <pubDate>Fri, 03 May 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>给这个有钱人 1 美元，否则洋葱就会永远消失</title>
-      <link>https://www.wired.com/story/plaintext-give-this-rich-dude-jeff-lawson-dollar-the-onion/</link>
-      <description><![CDATA[企业家杰夫·劳森 (Jeff Lawson) 计划重振备受尊敬的讽刺媒体《洋葱》(The Onion)，其中包括借鉴 WhatsApp 创始人的做法。]]></description>
-      <guid>https://www.wired.com/story/plaintext-give-this-rich-dude-jeff-lawson-dollar-the-onion/</guid>
       <pubDate>Fri, 03 May 2024 13:00:00 GMT</pubDate>
     </item>
     <item>
@@ -76,9 +83,9 @@
       <pubDate>Fri, 03 May 2024 01:23:46 GMT</pubDate>
     </item>
     <item>
-      <title>尼克·博斯特罗姆让世界害怕人工智能。现在他问：如果它解决了一切怎么办？</title>
+      <title>尼克·博斯特罗姆让世界惧怕人工智能。现在他问道：如果人工智能能解决所有问题会怎样？</title>
       <link>https://www.wired.com/story/nick-bostrom-fear-ai-fix-everything/</link>
-      <description><![CDATA[哲学家尼克·博斯特罗姆 (Nick Bostrom) 提出了超级人工智能可能消灭人类的想法。他的新书描绘了一个算法可以解决所有问题的世界。]]></description>
+      <description><![CDATA[哲学家尼克·博斯特罗姆（Nick Bostrom）普及了超级智能人工智能可以消灭人类的想法。他的新书想象了一个算法已经解决了所有问题的世界。]]></description>
       <guid>https://www.wired.com/story/nick-bostrom-fear-ai-fix-everything/</guid>
       <pubDate>Thu, 02 May 2024 16:00:00 GMT</pubDate>
     </item>
@@ -99,16 +106,9 @@
     <item>
       <title>大量新数据集可以增强人工智能对加密货币洗钱的追捕</title>
       <link>https://www.wired.com/story/ai-crypto-tracing-model-money-laundering/</link>
-      <description><![CDATA[区块链分析公司 Elliptic、麻省理工学院和 IBM 发布了一个新的人工智能模型及其训练的 2 亿笔交易数据集，旨在发现比特币洗钱的“形态”。]]></description>
+      <description><![CDATA[区块链分析公司 Elliptic、麻省理工学院和 IBM 发布了一种新的人工智能模型及其训练的 2 亿笔交易数据集，旨在发现比特币洗钱的“形态”。]]></description>
       <guid>https://www.wired.com/story/ai-crypto-tracing-model-money-laundering/</guid>
       <pubDate>Wed, 01 May 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>经济实惠的连接计划让他们保持在线状态。现在怎么办？</title>
-      <link>https://www.wired.com/story/affordable-connectivity-program-kept-them-online-what-now/</link>
-      <description><![CDATA[数百万人依靠联邦平价连接计划保持在线状态并获得工作、医疗保健和上学机会。现在该计划已经过期，一些人担心会被取消。]]></description>
-      <guid>https://www.wired.com/story/affordable-connectivity-program-kept-them-online-what-now/</guid>
-      <pubDate>Wed, 01 May 2024 00:11:33 GMT</pubDate>
     </item>
     </channel>
 </rss>

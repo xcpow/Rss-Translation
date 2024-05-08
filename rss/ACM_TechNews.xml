@@ -4,102 +4,102 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Mon, 06 May 2024 18:10:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 15:07:03 GMT</lastBuildDate>
     <item>
-      <title>北京加强对中国社交媒体巨头的控制</title>
-      <link>https://www.bbc.com/news/articles/cxe8dzz4jdpo</link>
-      <description><![CDATA[BBC中国政府对互联网公司实施更严格的规定，要求“网络运营商”监控用户共享的信息，并在发布敏感信息时采取行动。这些规则详细说明了腾讯、字节跳动和微博等公司必须如何删除帖子、保存记录并向当局报告。更新后的规定还扩大了敏感信息的定义，将“工作秘密”纳入其中，但国家秘密的构成仍存在不确定性。摘自《北京加强对中国社交媒体巨头的管控》
-BBC (05/01/24) João da Silva 查看全文]]></description>
-      <guid>https://www.bbc.com/news/articles/cxe8dzz4jdpo</guid>
-      <pubDate>Mon, 06 May 2024 18:10:32 GMT</pubDate>
+      <title>聊天机器人已经渗透到科学出版领域</title>
+      <link>https://www.scientificamerican.com/article/chatbots-have-thoroughly-infiltrated-scientific-publishing/</link>
+      <description><![CDATA[《科学美国人》英国伦敦大学学院的安德鲁·格雷 (Andrew Gray) 使用数据分析平台 Dimensions 扫描了全球发表的超过 1.4 亿篇科学论文，以查找聊天机器人经常使用的单词，例如“复杂”、“一丝不苟”和“值得称赞”。分析发现，至少 60,000 篇论文（仅占去年发表的所有科学文章的 1% 多一点）可能是使用大型语言模型编写的。摘自“聊天机器人已渗透到科学出版业”
+《科学美国人》 (05/01/24) Chris Stokel-Walker 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.scientificamerican.com/article/chatbots-have-thoroughly-infiltrated-scientific-publishing/</guid>
+      <pubDate>Wed, 08 May 2024 15:07:03 GMT</pubDate>
     </item>
     <item>
-      <title>行业、STEMM 领导人齐聚白宫峰会</title>
-      <link>https://www.diverseeducation.com/stem/article/15669907/industry-and-stemm-leaders-convene-for-white-house-summit</link>
-      <description><![CDATA[多元化教育在 5 月 1 日举行的 2024 年 STEMM 公平与卓越白宫峰会上，来自众多行业的领导者讨论了他们在科学、技术、工程、数学和医学（STEMM）。峰会还发布了“2050年STEMM公平与卓越：进步与繁荣的国家战略”，目标是到2050年实现美国STEMM劳动力的平等。来自“行业，STEMM”领导人齐聚白宫峰会”
-多元化教育 (05/01/24) Arrman Kyaw 查看全文]]></description>
-      <guid>https://www.diverseeducation.com/stem/article/15669907/industry-and-stemm-leaders-convene-for-white-house-summit</guid>
-      <pubDate>Mon, 06 May 2024 18:10:32 GMT</pubDate>
+      <title>哈勃网络与卫星建立蓝牙连接</title>
+      <link>https://techcrunch.com/2024/05/02/hubble-network-connects-a-bluetooth-chip-to-a-satellite-for-the-first-time/</link>
+      <description><![CDATA[Tech Crunch西雅图初创公司 Hubble Network 成为第一家直接与卫星建立蓝牙连接的公司。自 3 月份发射前两颗卫星以来，哈勃望远镜已从 600 公里（373 英里）以外的机载 3.5 毫米蓝牙芯片接收到信号。该公司计划今年再发射两颗卫星，以创建“测试星座”，并于 2025 年末或 2026 年初同时发射另外 32 颗卫星，以完成哈勃的第一个“产品星座”。来自“哈勃网络与卫星建立蓝牙连接”
+Tech Crunch (05/02/24) Aria Alamalhodaei 查看全文]]></description>
+      <guid>https://techcrunch.com/2024/05/02/hubble-network-connects-a-bluetooth-chip-to-a-satellite-for-the-first-time/</guid>
+      <pubDate>Wed, 08 May 2024 15:07:02 GMT</pubDate>
     </item>
     <item>
-      <title>黑客混战争夺路由器</title>
-      <link>https://arstechnica.com/security/2024/05/hacker-free-for-all-fights-for-control-of-home-and-office-routers-everywhere/</link>
-      <description><![CDATA[Ars Technica美日网络安全软件公司趋势科技的研究人员表示，黑客在受感染的路由器内秘密共存，他们使用这些设备来掩盖出于经济利益和国家支持的间谍活动而发起的攻击。在某些情况下，这种共存是和平的，出于经济动机的黑客会为间谍提供对已经受损的路由器的访问权限，以换取一定的费用。在其他情况下，国家支持的黑客会控制之前被网络犯罪组织黑客攻击的设备。 摘自《黑客混战争夺路由器》
-Ars Technica (05/01/24) Dan Goodin 查看全文]]></description>
-      <guid>https://arstechnica.com/security/2024/05/hacker-free-for-all-fights-for-control-of-home-and-office-routers-everywhere/</guid>
-      <pubDate>Mon, 06 May 2024 18:10:31 GMT</pubDate>
+      <title>美国参议员希望限制机场的面部识别</title>
+      <link>https://apnews.com/article/facial-recognition-tsa-airport-security-privacy-7b97462591c49184d1cb19cda9c95211</link>
+      <description><![CDATA[美联社在 5 月 2 日的一封信中，由 14 名美国参议员组成的两党小组敦促参议院领导人限制运输安全管理局 (TSA) 使用面部识别技术。信中称，“这项技术对我们的隐私和公民自由构成了重大威胁，国会应禁止 TSA 开发和部署面部识别工具，直到国会进行严格监督。”虽然 TSA 官员表示该技术改善了身份验证，但人们仍然担心谁有权访问数据以及可能存在的算法偏差等问题。摘自“美国参议员希望限制机场面部识别”
+美联社 (05/02/24) Rebecca Santana 查看全文]]></description>
+      <guid>https://apnews.com/article/facial-recognition-tsa-airport-security-privacy-7b97462591c49184d1cb19cda9c95211</guid>
+      <pubDate>Wed, 08 May 2024 15:07:02 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能帮助可怕的工作自动化</title>
-      <link>https://www.bloomberg.com/news/articles/2024-05-01/ai-is-helping-automate-one-of-the-world-s-most-gruesome-jobs</link>
-      <description><![CDATA[彭博社美国肉类加工商越来越多地利用人工智能、机器学习和计算机视觉的最新进展，实现动物尸体处理的自动化。机器人对鸡肉的去骨效率比普通工人更高，但考虑到动物的体型，实现猪肉和牛肉屠宰的自动化更加困难。嘉吉公司的汉斯·卡巴特 (Hans Kabat) 表示，“机器人上必须安装传感器……才能感知需要完成工作的位置，然后实际移动产品。”摘自“人工智能帮助自动化可怕的工作” “
-布隆伯格 (05/01/24) Jr.、格森·弗雷塔斯；伊希斯·阿尔梅达 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-05-01/ai-is-helping-automate-one-of-the-world-s-most-gruesome-jobs</guid>
-      <pubDate>Mon, 06 May 2024 18:10:31 GMT</pubDate>
+      <title>DRAM之父罗伯特·登纳德去世</title>
+      <link>https://www.tomshardware.com/tech-industry/semiconductors/robert-dennard-father-of-dram-is-deceased-also-known-for-his-foundational-dennard-scaling-theory</link>
+      <description><![CDATA[Tom&#39;s Hardware动态随机存取存储器 (DRAM) 的发明者罗伯特·希思·丹纳德 (Robert Heath Dennard) 于 4 月 23 日去世。1964 年，丹纳德与一组微电子专家开发出一种替代系统，该系统仅需六个金属氧化物半导体晶体管即可存储一位数据；后续研究催生出 DRAM。后来，Dennard 提出了一种理论，即后来的 Dennard 缩放理论，该理论帮助计算机和其他电子设备每年变得更小、更快、更高效。摘自“DRAM 之父 Robert Dennard 去世”
+Tom&#39;s Hardware (05/06/24) Jeff Butts 查看全文]]></description>
+      <guid>https://www.tomshardware.com/tech-industry/semiconductors/robert-dennard-father-of-dram-is-deceased-also-known-for-his-foundational-dennard-scaling-theory</guid>
+      <pubDate>Wed, 08 May 2024 15:07:01 GMT</pubDate>
     </item>
     <item>
-      <title>面部识别技术改变校园抗议活动</title>
-      <link>https://www.fastcompany.com/91116791/facial-recognition-technology-campus-protests-police-surveillance-gaza</link>
-      <description><![CDATA[Fast Company大学校园抗议者使用头巾、口罩和其他手段来逃避执法部门使用的面部技术工具的识别。卡内基梅隆大学和加州大学洛杉矶分校等大学的学生抗议者过去曾要求学校不要在校园内使用面部识别技术。另一方面，美国各地被要求拆除抗议营地的警察越来越多地利用该技术来识别违法者。摘自“面部识别技术改变校园抗议”
-《快公司》 (05/02/24) 克里斯·莫里斯 查看全文]]></description>
-      <guid>https://www.fastcompany.com/91116791/facial-recognition-technology-campus-protests-police-surveillance-gaza</guid>
-      <pubDate>Mon, 06 May 2024 18:10:30 GMT</pubDate>
+      <title>“电子游戏”揭示苍蝇如何飞行</title>
+      <link>https://spectrum.ieee.org/fruit-flies</link>
+      <description><![CDATA[IEEE Spectrum加州理工学院的研究人员开发了一种神经网络，可以根据肌肉活动预测果蝇的翅膀运动，以便更好地了解翅膀复杂的铰链结构。这涉及为果蝇创建一个“视频游戏”，在果蝇周围放置 LED 显示屏，模拟环境线索并促使它们改变飞​​行模式和速度。研究人员收集了 72,000 次翅膀拍打的 TB 级数据。摘自“‘视频游戏’揭示果蝇如何飞行”
+IEEE Spectrum (05/05/24) Gwendolyn Rak 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/fruit-flies</guid>
+      <pubDate>Wed, 08 May 2024 15:07:01 GMT</pubDate>
     </item>
     <item>
-      <title>6G 天线可能带来高速通信</title>
-      <link>https://www.livescience.com/technology/breakthrough-6g-antenna-could-lead-to-high-speed-communications-and-holograms</link>
-      <description><![CDATA[Live Science英国格拉斯哥大学的研究人员开发了一种动态超表面天线 (DMA)，这是第一个使用 6G 信号的天线。它使用波束成形将 6G 信号精确地在纳秒内传送到目标设备。与全向天线相比，原型 DMA 的能耗和数据冲突分别降低了 88% 和 24%。摘自《6G 天线可能带来高速通信》
-生活科学 (05/02/24) 蒂姆·丹顿 查看全文]]></description>
-      <guid>https://www.livescience.com/technology/breakthrough-6g-antenna-could-lead-to-high-speed-communications-and-holograms</guid>
-      <pubDate>Mon, 06 May 2024 18:10:30 GMT</pubDate>
+      <title>类似毛毛虫的机器人可以分裂、重新组合、拖运货物、爬过迷宫</title>
+      <link>https://interestingengineering.com/innovation/robot-splits-rejoins-crawls-through-mazes</link>
+      <description><![CDATA[有趣的工程普林斯顿大学和北卡罗来纳州立大学的研究人员开发了一种软机器人，能够在迷宫中弯曲和扭转。由于其转向系统集成到其身体中，软体机器人还可以在移动时分成多个部分并重新组装，使其能够作为单个机器人或群机器人发挥作用。这款受折纸启发的机器人由带有 Kresling 图案的圆柱形部件组成，每个部件都可以扭曲成扁平的圆盘，然后展开回圆柱体。摘自《毛毛虫状机器人可以分裂》，重新加入、拖运货物、爬过迷宫”
+有趣的工程 (05/06/24) Jijomaleil 查看完整内容文章]]></description>
+      <guid>https://interestingengineering.com/innovation/robot-splits-rejoins-crawls-through-mazes</guid>
+      <pubDate>Wed, 08 May 2024 15:07:00 GMT</pubDate>
     </item>
     <item>
-      <title>政客利用社交媒体“购买”选票</title>
-      <link>https://www.newscientist.com/article/2429551-politicians-can-use-social-media-ads-to-buy-votes-for-e4-per-person/</link>
-      <description><![CDATA[《新科学家》德国慕尼黑路德维希·马克西米利安大学的研究人员对社交媒体上的政治广告进行的一项研究发现，德国政党只需花费 4 欧元（4.31 美元）的广告支出即可影响单个选民。研究人员查看了德国 2021 年联邦选举期间 Facebook 和 Instagram 上发布的 21,000 多条广告。他们利用统计模型确定，候选人的广告每被浏览 20 万次，其选票就会上涨 2.1%。
-摘自《政客利用社交媒体‘购买’选票》
-新科学家 (05/02/24) Chris Stokel-Walker 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.newscientist.com/article/2429551-politicians-can-use-social-media-ads-to-buy-votes-for-e4-per-person/</guid>
-      <pubDate>Mon, 06 May 2024 18:10:29 GMT</pubDate>
+      <title>美国资助芯片“数字孪生”项目</title>
+      <link>https://www.bloomberg.com/news/articles/2024-05-06/us-to-fund-digital-twin-projects-for-chips-with-285-million</link>
+      <description><![CDATA[彭博社申请将于 9 月 9 日截止，2.85 亿美元的资金将用于建立一家致力于半导体行业数字孪生技术的研究所。美国国家标准与技术研究所所长 Laurie E. Locascio 表示，数字孪生可以通过更好的产能规划、生产优化、设施升级和实时流程调整来降低成本。该资金是 2022 年《芯片与科学法案》的一部分，其中包括 110 亿美元用于半导体研发。摘自“美国资助芯片‘数字孪生’项目”
+彭博社 (05/06/24) 艾丽西亚·迪亚兹 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-05-06/us-to-fund-digital-twin-projects-for-chips-with-285-million</guid>
+      <pubDate>Wed, 08 May 2024 15:07:00 GMT</pubDate>
     </item>
     <item>
-      <title>农业物联网系统通过土壤发送电力</title>
-      <link>https://spectrum.ieee.org/smart-agriculture</link>
-      <description><![CDATA[IEEE Spectrum田纳西理工大学的研究人员开发了一种农业物联网 (IoT) 系统，该系统可通过土壤传输电力 (TTS)，以操作远程传感器和远程低功耗 LoRa 无线电。在一块两英亩的土地上进行的测试中，该系统由移动太阳能电池板阵列供电，每天仅需要约 0.1 kWh，按零售价计算，每天的成本略高于一美分。来自“农业物联网系统通过土壤输送电力”
-IEEE Spectrum (05/02/24) Douglas McCormick 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/smart-agriculture</guid>
-      <pubDate>Mon, 06 May 2024 18:10:29 GMT</pubDate>
+      <title>大学网络课程差异很大</title>
+      <link>https://edscoop.com/washington-state-university-research-cybersecurity-programs/</link>
+      <description><![CDATA[EdScoop华盛顿州立大学 (WSU) 的研究人员发现高等教育中提供的网络安全课程存在显着差异。研究人员检查了 100 家被指定为国家安全局国家网络安全学术卓越中心的美国机构提供的相关项目。他们发现这些机构在提供的课程以及提供的网络安全特定课程数量方面存在很大差异。摘自“大学网络课程差异很大”
+EdScoop (05/07/24) Skylar Rispens 查看完整文章&lt; /a&gt;]]></description>
+      <guid>https://edscoop.com/washington-state-university-research-cybersecurity-programs/</guid>
+      <pubDate>Wed, 08 May 2024 15:06:59 GMT</pubDate>
     </item>
     <item>
-      <title>华盛顿的人工智能游说狂潮由大型科技公司主导</title>
-      <link>https://time.com/6972134/ai-lobbying-tech-policy-surge/</link>
-      <description><![CDATA[时间非营利组织 OpenSecrets 的一份报告显示，就人工智能问题游说美国政府的组织数量几乎增加了三倍，从 2022 年的 158 个增加到 2023 年的 451 个。去年首次就人工智能进行游说的组织有 334 个。这一年有 OpenAI 等初创公司、Visa 和 GSK 等大公司、行业贸易协会以及众多民间社会组织。与此同时，OpenSecrets 发现亚马逊、Meta、Alphabet 和微软各自花费了超过 1000 万美元用于游说。摘自《华盛顿 AI 游说狂潮由大型科技公司主导》
-时间 (04/30/24) Will Henshall 查看全文&lt; /a&gt;]]></description>
-      <guid>https://time.com/6972134/ai-lobbying-tech-policy-surge/</guid>
-      <pubDate>Mon, 06 May 2024 18:10:28 GMT</pubDate>
+      <title>Fortran 语言随着数值、科学计算的普及而上升</title>
+      <link>https://www.infoworld.com/article/3715346/fortran-popularity-rises-with-numerical-and-scientific-computing.html</link>
+      <description><![CDATA[信息世界Fortran 在 Tiobe 5 月份编程语言流行度月度指数中稳居第 10 位，继上个月自 2002 年 4 月以来首次重新进入前 10 名之后。Tiobe 的 Paul Jansen 将 Fortran 归因于最近的由于其在数值/数学计算方面的优势而越来越受欢迎。 Tiobe 5 月份排名前 10 的语言是 Python、C、C++、Java、C#、JavaScript、Visual Basic、Go (golang)、SQL 和 Fortran。摘自“Fortran 流行度随数值、科学计算而上升” 
+InfoWorld (05/06/24) Paul Krill 查看全文]]></description>
+      <guid>https://www.infoworld.com/article/3715346/fortran-popularity-rises-with-numerical-and-scientific-computing.html</guid>
+      <pubDate>Wed, 08 May 2024 15:06:58 GMT</pubDate>
     </item>
     <item>
-      <title>量子计算突破吸引投资</title>
-      <link>https://www.ft.com/content/d0b486ab-ed6c-46f0-b7b6-66cc60780efe</link>
-      <description><![CDATA[英国《金融时报》量子计算的最新发展正在吸引投资，希望在多年破灭的希望之后能够实际应用该技术。一系列研究突破使量子比特纠错领域取得了重大进展，比大多数人的预期提前了数年。 “在过去的一年里，我们看到了该行业的巨大进步，”英国量子初创公司 Riverlane 的负责人 Steve Brierley 说道。 “它越来越不像一个科学问题，而更像一个工程问题。”摘自“量子计算突破吸引投资”
-英国《金融时报》 (05/04/24) 理查德·沃特斯 查看全文文章 - 可能需要付费订阅]]></description>
-      <guid>https://www.ft.com/content/d0b486ab-ed6c-46f0-b7b6-66cc60780efe</guid>
-      <pubDate>Mon, 06 May 2024 18:10:28 GMT</pubDate>
+      <title>“世界上最纯净的硅”可能会带来高效的量子计算机芯片</title>
+      <link>https://www.livescience.com/technology/computing/worlds-purest-silicon-could-lead-to-1st-million-qubit-quantum-computing-chips</link>
+      <description><![CDATA[LiveScience英国曼彻斯特大学和澳大利亚墨尔本大学的研究人员设计出一种超纯硅，可以在量子计算机中实现高度可靠的“硅自旋量子位”。研究人员提议用硅 28 (Si-28) 制造量子位，在去除天然硅中发现的杂质后，他们将其描述为“世界上最纯净的硅”。他们说，这些基于硅的量子位不太容易出现故障，并且可以制造成针头大小。来自“‘世界上最纯净的硅’可以带来高效的量子计算机芯片”&lt; br/&gt;
+LiveScience (05/07/24) Keumars Afifi-Sabet 查看全文]]></description>
+      <guid>https://www.livescience.com/technology/computing/worlds-purest-silicon-could-lead-to-1st-million-qubit-quantum-computing-chips</guid>
+      <pubDate>Wed, 08 May 2024 15:06:58 GMT</pubDate>
     </item>
     <item>
-      <title>无人机改变了缅甸内战，将叛军与世界联系起来</title>
-      <link>https://www.nytimes.com/2024/05/04/world/asia/myanmar-war-drones.html</link>
-      <description><![CDATA[《纽约时报》叛军无人机部队成功扭转了缅甸军方的局势。缅甸的无人机飞行员描述了如何通过聊天应用程序向群组下载固定翼无人机的 3D 打印蓝图。他们还在那里深入了解了如何破解商用无人机上的默认软件，这些软件可能会泄露他们的位置。无人机飞行员还在社交媒体上发布无人机拍摄的视频，以鼓舞士气并帮助筹集资金。摘自“无人机改变缅甸内战，将叛军与世界联系起来”
-纽约时报 (05/04/24) Hannah Beech；保罗·莫祖尔 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/05/04/world/asia/myanmar-war-drones.html</guid>
-      <pubDate>Mon, 06 May 2024 18:10:27 GMT</pubDate>
+      <title>随着人工智能的发展，新的外交战略应运而生</title>
+      <link>https://www.nytimes.com/2024/05/06/us/politics/diplomatic-strategy-artificial-intelligence.html</link>
+      <description><![CDATA[纽约时报美国中国外交官计划本月晚些时候会面，开始实质上关于人工智能使用的首次军备控制谈判。日内瓦会谈试图就如何使用人工智能以及在哪些情况下可以禁止人工智能找到一些共同点。对于美国来说，这次对话代表了外交新领域的首次重大尝试。摘自《随着人工智能的发展，新的外交战略应运而生》
+纽约时报 (05/07/24) David E. Sanger 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/05/06/us/politics/diplomatic-strategy-artificial-intelligence.html</guid>
+      <pubDate>Wed, 08 May 2024 15:06:57 GMT</pubDate>
     </item>
     <item>
-      <title>李飞飞打造“空间智能”初创公司</title>
-      <link>https://www.reuters.com/technology/stanford-ai-leader-fei-fei-li-building-spatial-intelligence-startup-2024-05-03/</link>
-      <description><![CDATA[路透社查看全文]]></description>
-      <guid>https://www.reuters.com/technology/stanford-ai-leader-fei-fei-li-building-spatial-intelligence-startup-2024-05-03/</guid>
-      <pubDate>Mon, 06 May 2024 18:10:27 GMT</pubDate>
+      <title>IT 行业失业率小幅下降</title>
+      <link>https://www.wsj.com/articles/it-unemployment-rate-falls-slightly-amid-broader-hiring-slowdown-9576e7ef</link>
+      <description><![CDATA[《华尔街日报》CompTIA 对美国劳工部数据的分析发现，科技公司 4 月份增加了约 4,280 名员工。技术服务和软件开发职位推动了上个月的就业增长，其次是云基础设施、数据处理和数据托管职位。 IT工人的失业率从3月份的3%下降到上个月的2.8%。 CompTIA 发现，4 月份整个经济体中的科技岗位下降了 0.3%，即 20,000 个，职位发布数量从 3 月份的 191,000 个下降到 4 月份的 179,000 个。摘自“IT 失业率略有下降”
+华尔街日报 (05/04/24) Belle Lin 查看完整文章 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/articles/it-unemployment-rate-falls-slightly-amid-broader-hiring-slowdown-9576e7ef</guid>
+      <pubDate>Wed, 08 May 2024 15:06:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
