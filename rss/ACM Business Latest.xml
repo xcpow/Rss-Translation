@@ -4,7 +4,7 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Fri, 10 May 2024 03:08:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 06:10:14 GMT</lastBuildDate>
     <item>
       <title>使用 Anthropic 的 Claude 聊天机器人的 6 个实用技巧</title>
       <link>https://www.wired.com/story/six-practical-tips-for-using-anthropic-claude-chatbot/</link>
@@ -22,7 +22,7 @@
     <item>
       <title>OpenAI 正在“探索”如何负责任地生成人工智能色情内容</title>
       <link>https://www.wired.com/story/openai-is-exploring-how-to-responsibly-generate-ai-porn/</link>
-      <description><![CDATA[OpenAI 发布了关于希望 ChatGPT 内的人工智能技术如何运作的指南草案，并透露它正在探索如何“负责任地”生成露骨内容。]]></description>
+      <description><![CDATA[OpenAI 发布了 ChatGPT 内部 AI 技术如何运作的指导方针草案，并透露正在探索如何“负责任地”生成露骨内容。]]></description>
       <guid>https://www.wired.com/story/openai-is-exploring-how-to-responsibly-generate-ai-porn/</guid>
       <pubDate>Wed, 08 May 2024 19:13:20 GMT</pubDate>
     </item>
@@ -36,7 +36,7 @@
     <item>
       <title>谷歌 DeepMind 突破性的蛋白质结构人工智能现在可以模拟 DNA</title>
       <link>https://www.wired.com/story/alphafold-3-google-deepmind-ai-protein-structure-dna/</link>
-      <description><![CDATA[谷歌人工智能主管德米斯·哈萨比斯表示，彻底改变了蛋白质研究的 AlphaFold 软件现已获得重大升级，将推动药物开发。]]></description>
+      <description><![CDATA[谷歌人工智能主管德米斯·哈萨比斯 (Demis Hassabis) 表示，彻底改变蛋白质研究的 AlphaFold 软件已经获得重大升级，将推动药物开发。]]></description>
       <guid>https://www.wired.com/story/alphafold-3-google-deepmind-ai-protein-structure-dna/</guid>
       <pubDate>Wed, 08 May 2024 15:00:00 GMT</pubDate>
     </item>
@@ -48,9 +48,9 @@
       <pubDate>Wed, 08 May 2024 12:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>气候抗议中坚决阻止特斯拉</title>
+      <title>气候抗议者极力阻止特斯拉</title>
       <link>https://www.wired.com/story/tesla-forest-protest-environment-sham/</link>
-      <description><![CDATA[随着抗议活动愈演愈烈，特斯拉位于德国的超级工厂已暂停生产。]]></description>
+      <description><![CDATA[随着抗议活动的加剧，特斯拉在德国的超级工厂已暂时停止生产。]]></description>
       <guid>https://www.wired.com/story/tesla-forest-protest-environment-sham/</guid>
       <pubDate>Tue, 07 May 2024 20:10:45 GMT</pubDate>
     </item>
@@ -78,7 +78,7 @@
     <item>
       <title>以太坊联合创始人表示美国证券交易委员会正在“煤气灯操纵”每个人关于加密货币的问题</title>
       <link>https://www.wired.com/story/ethereums-co-founder-says-sec-is-gaslighting-us-about-crypto/</link>
-      <description><![CDATA[乔·鲁宾是以太坊的联合创始人。现在他的公司正在起诉美国证券交易委员会，他说互联网的未来岌岌可危。]]></description>
+      <description><![CDATA[乔·鲁宾 (Joe Lubin) 是以太坊的联合创始人。现在他的公司正在起诉美国证券交易委员会，他表示互联网的未来受到威胁。]]></description>
       <guid>https://www.wired.com/story/ethereums-co-founder-says-sec-is-gaslighting-us-about-crypto/</guid>
       <pubDate>Mon, 06 May 2024 08:30:00 GMT</pubDate>
     </item>
@@ -90,17 +90,17 @@
       <pubDate>Fri, 03 May 2024 13:30:00 GMT</pubDate>
     </item>
     <item>
+      <title>零碎的加密货币挖矿公司 CoreWeave 如何转型成为价值数十亿美元的人工智能热潮支柱</title>
+      <link>https://www.wired.com/story/coreweave-scrappy-cryptominer-multibillion-dollar-ai/</link>
+      <description><![CDATA[CoreWeave 曾经是加密货币领域的小玩家，现在是一家价值 190 亿美元的独角兽，为 AI 开发人员提供 GPU。前员工表示，其狂热的文化和日益激烈的竞争现在带来了挑战。]]></description>
+      <guid>https://www.wired.com/story/coreweave-scrappy-cryptominer-multibillion-dollar-ai/</guid>
+      <pubDate>Fri, 03 May 2024 13:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>给这个有钱人 1 美元，否则洋葱就会永远消失</title>
       <link>https://www.wired.com/story/plaintext-give-this-rich-dude-jeff-lawson-dollar-the-onion/</link>
       <description><![CDATA[企业家 Jeff Lawson 计划重振备受尊敬的讽刺媒体 The Onion，其中包括借鉴 WhatsApp 创始人的做法。]]></description>
       <guid>https://www.wired.com/story/plaintext-give-this-rich-dude-jeff-lawson-dollar-the-onion/</guid>
-      <pubDate>Fri, 03 May 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>斗志旺盛的加密矿机 CoreWeave 如何转变为人工智能热潮的数十亿美元支柱</title>
-      <link>https://www.wired.com/story/coreweave-scrappy-cryptominer-multibillion-dollar-ai/</link>
-      <description><![CDATA[CoreWeave 曾经是加密货币领域的小玩家，现在是一家价值 190 亿美元的独角兽，为 AI 开发人员提供 GPU。前员工表示，其狂热的文化和日益激烈的竞争现在带来了挑战。]]></description>
-      <guid>https://www.wired.com/story/coreweave-scrappy-cryptominer-multibillion-dollar-ai/</guid>
       <pubDate>Fri, 03 May 2024 13:00:00 GMT</pubDate>
     </item>
     <item>
