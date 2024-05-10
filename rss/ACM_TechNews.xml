@@ -4,102 +4,102 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Wed, 08 May 2024 15:07:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 18:09:25 GMT</lastBuildDate>
     <item>
-      <title>聊天机器人已经渗透到科学出版领域</title>
-      <link>https://www.scientificamerican.com/article/chatbots-have-thoroughly-infiltrated-scientific-publishing/</link>
-      <description><![CDATA[《科学美国人》英国伦敦大学学院的安德鲁·格雷 (Andrew Gray) 使用数据分析平台 Dimensions 扫描了全球发表的超过 1.4 亿篇科学论文，以查找聊天机器人经常使用的单词，例如“复杂”、“一丝不苟”和“值得称赞”。分析发现，至少 60,000 篇论文（仅占去年发表的所有科学文章的 1% 多一点）可能是使用大型语言模型编写的。摘自“聊天机器人已渗透到科学出版业”
-《科学美国人》 (05/01/24) Chris Stokel-Walker 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.scientificamerican.com/article/chatbots-have-thoroughly-infiltrated-scientific-publishing/</guid>
-      <pubDate>Wed, 08 May 2024 15:07:03 GMT</pubDate>
+      <title>黑客可以通过篡改计算机处理器窃取数据</title>
+      <link>https://www.newscientist.com/article/2426533-hackers-can-steal-data-by-messing-with-a-computers-processor/</link>
+      <description><![CDATA[新科学家博伊西州立大学的研究人员发现，黑客可以通过调整计算机的处理器速度并在可远程访问的处理器波动中编码数据，从禁止连接互联网的软件中提取信息。使用英特尔处理器的策略，研究人员在应用程序之间以每秒 55.24 位的速度进行编码和传输，否则这些应用程序无法来回传递数据。英特尔发言人表示，该技术“只能由对所攻击的系统拥有特权访问权限的攻击者使用”，因此该公司不会采取任何行动来修补该漏洞。来自“黑客”可以通过破坏计算机处理器来窃取数据”
+新科学家 (05/07/24) 马修·斯帕克斯 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.newscientist.com/article/2426533-hackers-can-steal-data-by-messing-with-a-computers-processor/</guid>
+      <pubDate>Fri, 10 May 2024 18:09:25 GMT</pubDate>
     </item>
     <item>
-      <title>哈勃网络与卫星建立蓝牙连接</title>
-      <link>https://techcrunch.com/2024/05/02/hubble-network-connects-a-bluetooth-chip-to-a-satellite-for-the-first-time/</link>
-      <description><![CDATA[Tech Crunch西雅图初创公司 Hubble Network 成为第一家直接与卫星建立蓝牙连接的公司。自 3 月份发射前两颗卫星以来，哈勃望远镜已从 600 公里（373 英里）以外的机载 3.5 毫米蓝牙芯片接收到信号。该公司计划今年再发射两颗卫星，以创建“测试星座”，并于 2025 年末或 2026 年初同时发射另外 32 颗卫星，以完成哈勃的第一个“产品星座”。来自“哈勃网络与卫星建立蓝牙连接”
-Tech Crunch (05/02/24) Aria Alamalhodaei 查看全文]]></description>
-      <guid>https://techcrunch.com/2024/05/02/hubble-network-connects-a-bluetooth-chip-to-a-satellite-for-the-first-time/</guid>
-      <pubDate>Wed, 08 May 2024 15:07:02 GMT</pubDate>
+      <title>美国宇航局模拟展示了飞入黑洞的感觉</title>
+      <link>https://www.cbsnews.com/news/nasa-simulation-shows-what-its-like-to-fly-into-black-holes-point-of-no-return/</link>
+      <description><![CDATA[哥伦比亚广播公司新闻美国宇航局天体物理学家杰里米·施尼特曼开发了一种“沉浸式可视化”，可以模拟飞入黑洞并穿越事件视界。该模拟使用 NASA 超级计算机创建，具有身临其境的图形和物理细节。它可以在 YouTube 上以讲解视频或 360 度视频形式观看，让用户沉浸在体验中。摘自“NASA 模拟展示飞入黑洞的感觉”
+哥伦比亚广播公司新闻 (05/07/24) Kerry Breen 查看全文]]></description>
+      <guid>https://www.cbsnews.com/news/nasa-simulation-shows-what-its-like-to-fly-into-black-holes-point-of-no-return/</guid>
+      <pubDate>Fri, 10 May 2024 18:09:25 GMT</pubDate>
     </item>
     <item>
-      <title>美国参议员希望限制机场的面部识别</title>
-      <link>https://apnews.com/article/facial-recognition-tsa-airport-security-privacy-7b97462591c49184d1cb19cda9c95211</link>
-      <description><![CDATA[美联社在 5 月 2 日的一封信中，由 14 名美国参议员组成的两党小组敦促参议院领导人限制运输安全管理局 (TSA) 使用面部识别技术。信中称，“这项技术对我们的隐私和公民自由构成了重大威胁，国会应禁止 TSA 开发和部署面部识别工具，直到国会进行严格监督。”虽然 TSA 官员表示该技术改善了身份验证，但人们仍然担心谁有权访问数据以及可能存在的算法偏差等问题。摘自“美国参议员希望限制机场面部识别”
-美联社 (05/02/24) Rebecca Santana 查看全文]]></description>
-      <guid>https://apnews.com/article/facial-recognition-tsa-airport-security-privacy-7b97462591c49184d1cb19cda9c95211</guid>
-      <pubDate>Wed, 08 May 2024 15:07:02 GMT</pubDate>
+      <title>机器人系统为行动严重受限的人们提供食物</title>
+      <link>https://news.cornell.edu/stories/2024/05/robotic-system-feeds-people-severe-mobility-limitations</link>
+      <description><![CDATA[康奈尔纪事报康奈尔大学研究人员开发的机器人喂养系统利用计算机视觉、机器学习和多模式传感，以安全的方式为行动不便的个体提供食物。该机器人配备了适应用户动作的实时嘴部跟踪，以及允许机器人区分物理交互并做出适当反应的动态响应机制。用户研究指出机器人对护理接受者及其护理人员都有显着的情感影响。摘自“机器人系统为行动严重受限的人提供食物”
+康奈尔纪事 (05/08/24) Louis DiPietro]]></description>
+      <guid>https://news.cornell.edu/stories/2024/05/robotic-system-feeds-people-severe-mobility-limitations</guid>
+      <pubDate>Fri, 10 May 2024 18:09:24 GMT</pubDate>
     </item>
     <item>
-      <title>DRAM之父罗伯特·登纳德去世</title>
-      <link>https://www.tomshardware.com/tech-industry/semiconductors/robert-dennard-father-of-dram-is-deceased-also-known-for-his-foundational-dennard-scaling-theory</link>
-      <description><![CDATA[Tom&#39;s Hardware动态随机存取存储器 (DRAM) 的发明者罗伯特·希思·丹纳德 (Robert Heath Dennard) 于 4 月 23 日去世。1964 年，丹纳德与一组微电子专家开发出一种替代系统，该系统仅需六个金属氧化物半导体晶体管即可存储一位数据；后续研究催生出 DRAM。后来，Dennard 提出了一种理论，即后来的 Dennard 缩放理论，该理论帮助计算机和其他电子设备每年变得更小、更快、更高效。摘自“DRAM 之父 Robert Dennard 去世”
-Tom&#39;s Hardware (05/06/24) Jeff Butts 查看全文]]></description>
-      <guid>https://www.tomshardware.com/tech-industry/semiconductors/robert-dennard-father-of-dram-is-deceased-also-known-for-his-foundational-dennard-scaling-theory</guid>
-      <pubDate>Wed, 08 May 2024 15:07:01 GMT</pubDate>
+      <title>英国要求科技公司“驯服算法”以保护儿童</title>
+      <link>https://www.reuters.com/technology/cybersecurity/uk-tells-tech-firms-tame-algorithms-protect-children-2024-05-08/</link>
+      <description><![CDATA[路透社根据周三公布的英国拟议措施，社交媒体平台必须“驯服”其算法来过滤或降级有害内容，以帮助保护儿童。英国通信办公室 (Ofcom) 的这项计划是科技公司根据英国《在线安全法案》需要实施的 40 多项实际步骤之一，该法案已于 10 月成为法律。摘自“U.K Tells Tech”公司“驯服算法”以保护儿童”
+路透社 (05/08/24) Paul Sandle 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/cybersecurity/uk-tells-tech-firms-tame-algorithms-protect-children-2024-05-08/</guid>
+      <pubDate>Fri, 10 May 2024 18:09:24 GMT</pubDate>
     </item>
     <item>
-      <title>“电子游戏”揭示苍蝇如何飞行</title>
-      <link>https://spectrum.ieee.org/fruit-flies</link>
-      <description><![CDATA[IEEE Spectrum加州理工学院的研究人员开发了一种神经网络，可以根据肌肉活动预测果蝇的翅膀运动，以便更好地了解翅膀复杂的铰链结构。这涉及为果蝇创建一个“视频游戏”，在果蝇周围放置 LED 显示屏，模拟环境线索并促使它们改变飞​​行模式和速度。研究人员收集了 72,000 次翅膀拍打的 TB 级数据。摘自“‘视频游戏’揭示果蝇如何飞行”
-IEEE Spectrum (05/05/24) Gwendolyn Rak 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/fruit-flies</guid>
-      <pubDate>Wed, 08 May 2024 15:07:01 GMT</pubDate>
+      <title>软件问题导致胰岛素泵电池耗尽，造成 200 多人受伤</title>
+      <link>https://www.cnn.com/2024/05/08/health/tandem-insulin-pump-app-recall/index.html</link>
+      <description><![CDATA[CNN美国食品和药物管理局 (FDA) 周三表示，由于联网移动应用程序出现问题，胰岛素泵意外关闭，已有 200 多名糖尿病患者受伤。与带有 Control-IQ 的 t:slim X2 胰岛素泵一起使用的 t:connect Apple iOS 应用程序 2.7 版存在软件问题，导致其反复崩溃和重新启动，耗尽泵的电池并导致其关闭并暂停胰岛素输送。该应用程序已被召回。摘自“软件问题耗尽胰岛素泵电池后超过 200 人受伤”
+CNN (05/08/24) 杰米·古姆布雷希特 查看全文]]></description>
+      <guid>https://www.cnn.com/2024/05/08/health/tandem-insulin-pump-app-recall/index.html</guid>
+      <pubDate>Fri, 10 May 2024 18:09:23 GMT</pubDate>
     </item>
     <item>
-      <title>类似毛毛虫的机器人可以分裂、重新组合、拖运货物、爬过迷宫</title>
-      <link>https://interestingengineering.com/innovation/robot-splits-rejoins-crawls-through-mazes</link>
-      <description><![CDATA[有趣的工程普林斯顿大学和北卡罗来纳州立大学的研究人员开发了一种软机器人，能够在迷宫中弯曲和扭转。由于其转向系统集成到其身体中，软体机器人还可以在移动时分成多个部分并重新组装，使其能够作为单个机器人或群机器人发挥作用。这款受折纸启发的机器人由带有 Kresling 图案的圆柱形部件组成，每个部件都可以扭曲成扁平的圆盘，然后展开回圆柱体。摘自《毛毛虫状机器人可以分裂》，重新加入、拖运货物、爬过迷宫”
-有趣的工程 (05/06/24) Jijomaleil 查看完整内容文章]]></description>
-      <guid>https://interestingengineering.com/innovation/robot-splits-rejoins-crawls-through-mazes</guid>
-      <pubDate>Wed, 08 May 2024 15:07:00 GMT</pubDate>
+      <title>AR 通过 AI、全息图瘦身</title>
+      <link>https://spectrum.ieee.org/augmented-reality-glasses-metasurface</link>
+      <description><![CDATA[IEEE Spectrum由斯坦福大学、香港大学和 Nvidia 的研究人员开发的 AR 显示器结合了 3D 全息图、人工智能和光学超表面，他们说这种显示器佩戴起来就像普通眼镜一样舒适。研究人员使用人工智能来优化超表面结构，将 3D 图像转换为高质量的全息图，并校准光学、电子和激光。斯坦福大学的 Gordon Wetzstein 表示：“我们的 AI 显示器比当前的 AR 显示器更薄，重要的是，它可以向每只眼睛显示 3D 图像。”摘自“AR Slims Down with AI、Holograms”
+IEEE Spectrum (05/08/24) Charles Q. Choi 查看全文&lt; /a&gt;]]></description>
+      <guid>https://spectrum.ieee.org/augmented-reality-glasses-metasurface</guid>
+      <pubDate>Fri, 10 May 2024 18:09:23 GMT</pubDate>
     </item>
     <item>
-      <title>美国资助芯片“数字孪生”项目</title>
-      <link>https://www.bloomberg.com/news/articles/2024-05-06/us-to-fund-digital-twin-projects-for-chips-with-285-million</link>
-      <description><![CDATA[彭博社申请将于 9 月 9 日截止，2.85 亿美元的资金将用于建立一家致力于半导体行业数字孪生技术的研究所。美国国家标准与技术研究所所长 Laurie E. Locascio 表示，数字孪生可以通过更好的产能规划、生产优化、设施升级和实时流程调整来降低成本。该资金是 2022 年《芯片与科学法案》的一部分，其中包括 110 亿美元用于半导体研发。摘自“美国资助芯片‘数字孪生’项目”
-彭博社 (05/06/24) 艾丽西亚·迪亚兹 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-05-06/us-to-fund-digital-twin-projects-for-chips-with-285-million</guid>
-      <pubDate>Wed, 08 May 2024 15:07:00 GMT</pubDate>
+      <title>芯片补助有望推动行业增长</title>
+      <link>https://www.nytimes.com/2024/05/08/us/politics/chips-grants-fuel-industry-growth.html</link>
+      <description><![CDATA[《纽约时报》半导体行业协会和波士顿咨询集团的一份报告预计，根据 CHIPS 法案对半导体制造商提供的联邦补贴将在 2032 年大幅提升美国国内芯片制造能力。该报告还预测，到 2032 年，美国先进逻辑芯片的国内产量将从几乎为零上升到近 30%。摘自《芯片补助预计将推动行业增长》
+纽约时报 (05/08/24) Madeleine Ngo 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/05/08/us/politics/chips-grants-fuel-industry-growth.html</guid>
+      <pubDate>Fri, 10 May 2024 18:09:22 GMT</pubDate>
     </item>
     <item>
-      <title>大学网络课程差异很大</title>
-      <link>https://edscoop.com/washington-state-university-research-cybersecurity-programs/</link>
-      <description><![CDATA[EdScoop华盛顿州立大学 (WSU) 的研究人员发现高等教育中提供的网络安全课程存在显着差异。研究人员检查了 100 家被指定为国家安全局国家网络安全学术卓越中心的美国机构提供的相关项目。他们发现这些机构在提供的课程以及提供的网络安全特定课程数量方面存在很大差异。摘自“大学网络课程差异很大”
-EdScoop (05/07/24) Skylar Rispens 查看完整文章&lt; /a&gt;]]></description>
-      <guid>https://edscoop.com/washington-state-university-research-cybersecurity-programs/</guid>
-      <pubDate>Wed, 08 May 2024 15:06:59 GMT</pubDate>
+      <title>微软为美国间谍创建绝密生成人工智能服务</title>
+      <link>https://www.bloomberg.com/news/articles/2024-05-07/microsoft-creates-top-secret-generative-ai-service-for-us-spies</link>
+      <description><![CDATA[彭博社微软推出了一个无需互联网连接即可运行的生成式人工智能平台，美国情报机构可以利用该平台来分析绝密信息。大型语言模型基于 GPT-4，并在云中的“气隙”环境中运行。该模型可以读取文件，但无法从中或从开放的互联网中学习。摘自“微软为美国间谍创建绝密生成人工智能服务”
+彭博社 (05/07/24) 卡特里娜·曼森 查看完整文章 - 可能需要付费订阅]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-05-07/microsoft-creates-top-secret-generative-ai-service-for-us-spies</guid>
+      <pubDate>Fri, 10 May 2024 18:09:22 GMT</pubDate>
     </item>
     <item>
-      <title>Fortran 语言随着数值、科学计算的普及而上升</title>
-      <link>https://www.infoworld.com/article/3715346/fortran-popularity-rises-with-numerical-and-scientific-computing.html</link>
-      <description><![CDATA[信息世界Fortran 在 Tiobe 5 月份编程语言流行度月度指数中稳居第 10 位，继上个月自 2002 年 4 月以来首次重新进入前 10 名之后。Tiobe 的 Paul Jansen 将 Fortran 归因于最近的由于其在数值/数学计算方面的优势而越来越受欢迎。 Tiobe 5 月份排名前 10 的语言是 Python、C、C++、Java、C#、JavaScript、Visual Basic、Go (golang)、SQL 和 Fortran。摘自“Fortran 流行度随数值、科学计算而上升” 
-InfoWorld (05/06/24) Paul Krill 查看全文]]></description>
-      <guid>https://www.infoworld.com/article/3715346/fortran-popularity-rises-with-numerical-and-scientific-computing.html</guid>
-      <pubDate>Wed, 08 May 2024 15:06:58 GMT</pubDate>
+      <title>Neuralink 的脑芯片植入物存在数据捕获问题</title>
+      <link>https://www.wsj.com/tech/neuralinks-first-brain-chip-implant-in-a-human-appeared-flawless-there-was-a-problem-637f1adc</link>
+      <description><![CDATA[《华尔街日报》根据一篇博客文章，Neuralink 在其第一位人类患者诺兰·阿博（如图）身上遇到了植入问题，这减少了它可以从他的大脑中捕获的数据量。公司于周三发布。由于植入阿博大脑中的许多植入物线脱落，一些数据丢失了。该公司表示，作为回应，它做出了改变，包括修改其算法，从而改善了数据传输。摘自“Neuralink 的脑芯片植入物存在数据捕获问题”
+华尔街日报 (05/09/24) Rolfe Winkler； Alexa Corse 查看完整文章 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/tech/neuralinks-first-brain-chip-implant-in-a-human-appeared-flawless-there-was-a-problem-637f1adc</guid>
+      <pubDate>Fri, 10 May 2024 18:09:21 GMT</pubDate>
     </item>
     <item>
-      <title>“世界上最纯净的硅”可能会带来高效的量子计算机芯片</title>
-      <link>https://www.livescience.com/technology/computing/worlds-purest-silicon-could-lead-to-1st-million-qubit-quantum-computing-chips</link>
-      <description><![CDATA[LiveScience英国曼彻斯特大学和澳大利亚墨尔本大学的研究人员设计出一种超纯硅，可以在量子计算机中实现高度可靠的“硅自旋量子位”。研究人员提议用硅 28 (Si-28) 制造量子位，在去除天然硅中发现的杂质后，他们将其描述为“世界上最纯净的硅”。他们说，这些基于硅的量子位不太容易出现故障，并且可以制造成针头大小。来自“‘世界上最纯净的硅’可以带来高效的量子计算机芯片”&lt; br/&gt;
-LiveScience (05/07/24) Keumars Afifi-Sabet 查看全文]]></description>
-      <guid>https://www.livescience.com/technology/computing/worlds-purest-silicon-could-lead-to-1st-million-qubit-quantum-computing-chips</guid>
-      <pubDate>Wed, 08 May 2024 15:06:58 GMT</pubDate>
+      <title>谷歌 DeepMind 推出活细胞人工智能模型</title>
+      <link>https://www.ft.com/content/77bf38b7-114d-44c8-956e-1e39e39ecb52</link>
+      <description><![CDATA[英国《金融时报》Google DeepMind 的 AlphaFold 3 使用人工智能提供活细胞及其内部不同分子之间相互作用的新视图。更新后的模型是与 DeepMind 的药物发现衍生产品 Isomorphic Labs 联合开发的，可以帮助科学家识别治疗癌症和其他疾病的新药物分子。摘自“Google DeepMind 推出活细胞 AI 模型” 
+《金融时报》（05/08/24）迈克尔·皮尔；伊恩·约翰斯顿 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.ft.com/content/77bf38b7-114d-44c8-956e-1e39e39ecb52</guid>
+      <pubDate>Fri, 10 May 2024 18:09:21 GMT</pubDate>
     </item>
     <item>
-      <title>随着人工智能的发展，新的外交战略应运而生</title>
-      <link>https://www.nytimes.com/2024/05/06/us/politics/diplomatic-strategy-artificial-intelligence.html</link>
-      <description><![CDATA[纽约时报美国中国外交官计划本月晚些时候会面，开始实质上关于人工智能使用的首次军备控制谈判。日内瓦会谈试图就如何使用人工智能以及在哪些情况下可以禁止人工智能找到一些共同点。对于美国来说，这次对话代表了外交新领域的首次重大尝试。摘自《随着人工智能的发展，新的外交战略应运而生》
-纽约时报 (05/07/24) David E. Sanger 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/05/06/us/politics/diplomatic-strategy-artificial-intelligence.html</guid>
-      <pubDate>Wed, 08 May 2024 15:06:57 GMT</pubDate>
+      <title>美国撤销英特尔、高通向华为出售芯片的许可</title>
+      <link>https://www.bloomberg.com/news/articles/2024-05-07/us-revokes-intel-qualcomm-licenses-to-sell-chips-to-huawei</link>
+      <description><![CDATA[彭博社美国撤销了华为技术有限公司从高通和英特尔购买半导体的许可证。知情人士称，吊销许可证将影响华为手机和笔记本电脑所用芯片在美国的销售。众议院外交事务委员会主席迈克尔·麦考尔（R-TX）表示，此举是阻止中国开发先进人工智能的关键。官员们还在考虑对他们怀疑可能向华为供应芯片的六家中国公司实施制裁，华为自 2019 年以来一直被列入美国贸易限制名单。摘自《美国撤销英特尔、高通向华为出售芯片的许可》 “
+彭博社 (05/07/24) 麦肯齐·霍金斯；埃里克·沃森 查看全文]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-05-07/us-revokes-intel-qualcomm-licenses-to-sell-chips-to-huawei</guid>
+      <pubDate>Fri, 10 May 2024 18:09:20 GMT</pubDate>
     </item>
     <item>
-      <title>IT 行业失业率小幅下降</title>
-      <link>https://www.wsj.com/articles/it-unemployment-rate-falls-slightly-amid-broader-hiring-slowdown-9576e7ef</link>
-      <description><![CDATA[《华尔街日报》CompTIA 对美国劳工部数据的分析发现，科技公司 4 月份增加了约 4,280 名员工。技术服务和软件开发职位推动了上个月的就业增长，其次是云基础设施、数据处理和数据托管职位。 IT工人的失业率从3月份的3%下降到上个月的2.8%。 CompTIA 发现，4 月份整个经济体中的科技岗位下降了 0.3%，即 20,000 个，职位发布数量从 3 月份的 191,000 个下降到 4 月份的 179,000 个。摘自“IT 失业率略有下降”
-华尔街日报 (05/04/24) Belle Lin 查看完整文章 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/articles/it-unemployment-rate-falls-slightly-amid-broader-hiring-slowdown-9576e7ef</guid>
-      <pubDate>Wed, 08 May 2024 15:06:57 GMT</pubDate>
+      <title>OpenAI 向虚假信息研究人员发布“Deepfake”探测器</title>
+      <link>https://www.nytimes.com/2024/05/07/technology/openai-deepfake-detector.html</link>
+      <description><![CDATA[《纽约时报》OpenAI 允许一小部分虚假信息研究人员测试一种新的深度伪造检测工具，希望他们能够帮助找到改进方法。该公司表示，该工具可以检测到 OpenAI 的 DALL-E 3 图像生成器创建的 98.8% 的图像。OpenAI 还致力于解决深度伪造问题，加入了内容来源和真实性联盟的指导委员会，该委员会正在努力开发数字内容的凭证。摘自“OpenAI 向虚假信息研究人员发布‘深度伪造’检测器”
+《纽约时报》（05/07/24）Cade Metz；Tiffany Hsu 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/05/07/technology/openai-deepfake-detector.html</guid>
+      <pubDate>Fri, 10 May 2024 18:09:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
