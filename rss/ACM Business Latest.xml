@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Sat, 11 May 2024 12:11:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 15:06:03 GMT</lastBuildDate>
+    <item>
+      <title>Stack Overflow 用户反对 OpenAI 交易</title>
+      <link>https://www.wired.com/story/stack-overflow-users-openai-revolt/</link>
+      <description><![CDATA[软件开发者社区的成员报告称，他们删除或更改了自己的帖子，以防止 OpenAI 使用这些帖子。]]></description>
+      <guid>https://www.wired.com/story/stack-overflow-users-openai-revolt/</guid>
+      <pubDate>Sat, 11 May 2024 13:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>气候抗议者冲击特斯拉欧洲超级工厂</title>
       <link>https://www.wired.com/story/climate-protestors-storm-teslas-europe-gigafactory/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[WeWork 备受争议的前首席执行官试图收购他让陷入危机的破产公司。在遭到拒绝后，亚当·诺依曼将不得不转向新的事物。]]></description>
       <guid>https://www.wired.com/story/adam-neumann-bid-to-buy-wework-failed-will-he-compete/</guid>
       <pubDate>Fri, 03 May 2024 13:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>给这个有钱人 1 美元，否则洋葱就会永远消失</title>
-      <link>https://www.wired.com/story/plaintext-give-this-rich-dude-jeff-lawson-dollar-the-onion/</link>
-      <description><![CDATA[企业家杰夫·劳森 (Jeff Lawson) 计划重振备受尊敬的讽刺媒体《洋葱》(The Onion)，其中包括借鉴 WhatsApp 创始人的做法。]]></description>
-      <guid>https://www.wired.com/story/plaintext-give-this-rich-dude-jeff-lawson-dollar-the-onion/</guid>
-      <pubDate>Fri, 03 May 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
