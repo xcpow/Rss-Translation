@@ -4,102 +4,94 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Fri, 10 May 2024 18:09:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 15:08:14 GMT</lastBuildDate>
     <item>
-      <title>黑客可以通过篡改计算机处理器窃取数据</title>
-      <link>https://www.newscientist.com/article/2426533-hackers-can-steal-data-by-messing-with-a-computers-processor/</link>
-      <description><![CDATA[新科学家博伊西州立大学的研究人员发现，黑客可以通过调整计算机的处理器速度并在可远程访问的处理器波动中编码数据，从禁止连接互联网的软件中提取信息。使用英特尔处理器的策略，研究人员在应用程序之间以每秒 55.24 位的速度进行编码和传输，否则这些应用程序无法来回传递数据。英特尔发言人表示，该技术“只能由对所攻击的系统拥有特权访问权限的攻击者使用”，因此该公司不会采取任何行动来修补该漏洞。来自“黑客”可以通过破坏计算机处理器来窃取数据”
-新科学家 (05/07/24) 马修·斯帕克斯 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.newscientist.com/article/2426533-hackers-can-steal-data-by-messing-with-a-computers-processor/</guid>
-      <pubDate>Fri, 10 May 2024 18:09:25 GMT</pubDate>
+      <title>聊天机器人会蚕食印度的IT产业吗？</title>
+      <link>https://www.economist.com/business/2024/05/09/will-chatbots-eat-indias-it-industry</link>
+      <description><![CDATA[《经济学人》国际货币基金组织的亚历山大·科佩斯塔克 (Alexander Copestake) 及其同事去年发表的一篇论文指出，“近指数增长”是一种经济增长。自 2016 年以来，印度服务业对人工智能相关技能的需求不断增加，但人们担心生成式人工智能技术可能会侵蚀印度的科技行业。去年，印度 7 家 IT 公司总共解雇了 75,000 名员工，相当于其员工总数的 4% 左右。这些公司表示，这反映了科技行业更广泛的放缓。摘自“聊天机器人会吞噬印度的 IT 行业吗？”
+经济学人 (05/09/24) 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.economist.com/business/2024/05/09/will-chatbots-eat-indias-it-industry</guid>
+      <pubDate>Mon, 13 May 2024 15:08:14 GMT</pubDate>
     </item>
     <item>
-      <title>美国宇航局模拟展示了飞入黑洞的感觉</title>
-      <link>https://www.cbsnews.com/news/nasa-simulation-shows-what-its-like-to-fly-into-black-holes-point-of-no-return/</link>
-      <description><![CDATA[哥伦比亚广播公司新闻美国宇航局天体物理学家杰里米·施尼特曼开发了一种“沉浸式可视化”，可以模拟飞入黑洞并穿越事件视界。该模拟使用 NASA 超级计算机创建，具有身临其境的图形和物理细节。它可以在 YouTube 上以讲解视频或 360 度视频形式观看，让用户沉浸在体验中。摘自“NASA 模拟展示飞入黑洞的感觉”
-哥伦比亚广播公司新闻 (05/07/24) Kerry Breen 查看全文]]></description>
-      <guid>https://www.cbsnews.com/news/nasa-simulation-shows-what-its-like-to-fly-into-black-holes-point-of-no-return/</guid>
-      <pubDate>Fri, 10 May 2024 18:09:25 GMT</pubDate>
+      <title>一群蜗牛机器人粘在一起</title>
+      <link>https://www.popsci.com/technology/snail-robot/</link>
+      <description><![CDATA[科普香港中文大学研究人员开发的一种机器人群可以单独穿越困难的地形，并相互连接以像坦克或推土机一样移动。这种受蜗牛启发的机器人具有可伸缩的吸盘和坦克般的履带。测试表明，它们可以建造楼梯来清理壁架，搭建桥梁来跨越间隙，并将自己排列成细长的机械臂。来自“一群蜗牛机器人粘在一起”
+科普 (05/08/24) 安德鲁·保罗 查看全文]]></description>
+      <guid>https://www.popsci.com/technology/snail-robot/</guid>
+      <pubDate>Mon, 13 May 2024 15:08:14 GMT</pubDate>
     </item>
     <item>
-      <title>机器人系统为行动严重受限的人们提供食物</title>
-      <link>https://news.cornell.edu/stories/2024/05/robotic-system-feeds-people-severe-mobility-limitations</link>
-      <description><![CDATA[康奈尔纪事报康奈尔大学研究人员开发的机器人喂养系统利用计算机视觉、机器学习和多模式传感，以安全的方式为行动不便的个体提供食物。该机器人配备了适应用户动作的实时嘴部跟踪，以及允许机器人区分物理交互并做出适当反应的动态响应机制。用户研究指出机器人对护理接受者及其护理人员都有显着的情感影响。摘自“机器人系统为行动严重受限的人提供食物”
-康奈尔纪事 (05/08/24) Louis DiPietro]]></description>
-      <guid>https://news.cornell.edu/stories/2024/05/robotic-system-feeds-people-severe-mobility-limitations</guid>
-      <pubDate>Fri, 10 May 2024 18:09:24 GMT</pubDate>
+      <title>球平衡机器人协助轮椅使用者</title>
+      <link>https://www.newscientist.com/article/2429653-ball-balancing-robot-could-assist-wheelchair-users/</link>
+      <description><![CDATA[新科学家卡内基梅隆大学 (CMU) 研究人员开发的“球机器人”在推轮椅方面与人类一样有效。卡内基梅隆大学的 Cunxi Dai 表示，这种球机器人在充当球形轮的球上保持平衡，“具有节能的平稳运动，而且它可以平衡的事实使其能够施加更大的力来推动重型系统和机动[与] 更加敏捷。”摘自“球平衡机器人协助轮椅使用者”
+新科学家 (05/06/24) Jeremy Hsu 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.newscientist.com/article/2429653-ball-balancing-robot-could-assist-wheelchair-users/</guid>
+      <pubDate>Mon, 13 May 2024 15:08:12 GMT</pubDate>
     </item>
     <item>
-      <title>英国要求科技公司“驯服算法”以保护儿童</title>
-      <link>https://www.reuters.com/technology/cybersecurity/uk-tells-tech-firms-tame-algorithms-protect-children-2024-05-08/</link>
-      <description><![CDATA[路透社根据周三公布的英国拟议措施，社交媒体平台必须“驯服”其算法来过滤或降级有害内容，以帮助保护儿童。英国通信办公室 (Ofcom) 的这项计划是科技公司根据英国《在线安全法案》需要实施的 40 多项实际步骤之一，该法案已于 10 月成为法律。摘自“U.K Tells Tech”公司“驯服算法”以保护儿童”
-路透社 (05/08/24) Paul Sandle 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/cybersecurity/uk-tells-tech-firms-tame-algorithms-protect-children-2024-05-08/</guid>
-      <pubDate>Fri, 10 May 2024 18:09:24 GMT</pubDate>
+      <title>五角大楼与 SpaceX 合作阻止俄罗斯使用星链</title>
+      <link>https://www.bloomberg.com/news/articles/2024-05-09/russia-starlink-access-blocked-by-pentagon-spacex-ukraine</link>
+      <description><![CDATA[据美国国防部约翰·普拉姆 (John Plumb) 称，五角大楼官员与 SpaceX 合作，阻止了俄罗斯军方在与乌克兰的战争战场上未经授权使用星链互联网终端。星链终端的广告宣传在俄罗斯出售，但连接仅在边境地区（例如乌克兰被占领土）附近有效。 “目前我们已经成功反击了俄罗斯的使用，但我确信俄罗斯将继续尝试寻找利用星链和其他商业通信系统的方法，”他说。普拉姆说。来自“五角大楼与 SpaceX 联手阻止俄罗斯使用星链”
+彭博社 (05/09/24) 安东尼·卡帕西奥 查看全文]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-05-09/russia-starlink-access-blocked-by-pentagon-spacex-ukraine</guid>
+      <pubDate>Mon, 13 May 2024 15:08:12 GMT</pubDate>
     </item>
     <item>
-      <title>软件问题导致胰岛素泵电池耗尽，造成 200 多人受伤</title>
-      <link>https://www.cnn.com/2024/05/08/health/tandem-insulin-pump-app-recall/index.html</link>
-      <description><![CDATA[CNN美国食品和药物管理局 (FDA) 周三表示，由于联网移动应用程序出现问题，胰岛素泵意外关闭，已有 200 多名糖尿病患者受伤。与带有 Control-IQ 的 t:slim X2 胰岛素泵一起使用的 t:connect Apple iOS 应用程序 2.7 版存在软件问题，导致其反复崩溃和重新启动，耗尽泵的电池并导致其关闭并暂停胰岛素输送。该应用程序已被召回。摘自“软件问题耗尽胰岛素泵电池后超过 200 人受伤”
-CNN (05/08/24) 杰米·古姆布雷希特 查看全文]]></description>
-      <guid>https://www.cnn.com/2024/05/08/health/tandem-insulin-pump-app-recall/index.html</guid>
-      <pubDate>Fri, 10 May 2024 18:09:23 GMT</pubDate>
+      <title>更智能的车辆可能意味着交通灯的改变</title>
+      <link>https://apnews.com/article/smarter-traffic-signals-north-carolina-michigan-757d6151e85565e9656d7b95c6e72490</link>
+      <description><![CDATA[美联社联网和自动驾驶车辆的出现可能会给传统交通信号带来重大变化。例如，北卡罗来纳州立大学的 Ali Hajbabaie 建议添加第四盏灯，以指示道路上何时有足够的自动驾驶车辆来负责并带路。密歇根大学研究人员在底特律伯明翰郊区进行的一项试点项目发现，将交通灯时间调整几秒钟即可减少拥堵。摘自“智能车辆可能意味着交通灯的变化”&lt; br/&gt;
+美联社 (05/11/24) 杰夫·麦克默里 查看全文]]></description>
+      <guid>https://apnews.com/article/smarter-traffic-signals-north-carolina-michigan-757d6151e85565e9656d7b95c6e72490</guid>
+      <pubDate>Mon, 13 May 2024 15:08:11 GMT</pubDate>
     </item>
     <item>
-      <title>AR 通过 AI、全息图瘦身</title>
-      <link>https://spectrum.ieee.org/augmented-reality-glasses-metasurface</link>
-      <description><![CDATA[IEEE Spectrum由斯坦福大学、香港大学和 Nvidia 的研究人员开发的 AR 显示器结合了 3D 全息图、人工智能和光学超表面，他们说这种显示器佩戴起来就像普通眼镜一样舒适。研究人员使用人工智能来优化超表面结构，将 3D 图像转换为高质量的全息图，并校准光学、电子和激光。斯坦福大学的 Gordon Wetzstein 表示：“我们的 AI 显示器比当前的 AR 显示器更薄，重要的是，它可以向每只眼睛显示 3D 图像。”摘自“AR Slims Down with AI、Holograms”
-IEEE Spectrum (05/08/24) Charles Q. Choi 查看全文&lt; /a&gt;]]></description>
-      <guid>https://spectrum.ieee.org/augmented-reality-glasses-metasurface</guid>
-      <pubDate>Fri, 10 May 2024 18:09:23 GMT</pubDate>
+      <title>人脑微小样本揭示了 57,000 个细胞、1.5 亿个神经连接</title>
+      <link>https://www.theguardian.com/science/article/2024/may/09/scientists-find-57000-cells-and-150m-neural-connections-in-tiny-sample-of-human-brain</link>
+      <description><![CDATA[英国卫报哈佛大学和谷歌研究人员对 5,000 多立方毫米人类脑组织样本的电子显微镜图像进行了分析，发现了 57,000 个单独的细胞、1.5 亿个神经连接、和23厘米的血管。机器学习算法被用来绘制神经元和其他细胞通过每个部分的路径，这个过程需要研究人员花费数年时间才能完成。哈佛大学的 Jeff Lichtman 表示：“我们在这个数据集中发现了很多教科书上没有的东西。”摘自《人类大脑的微小样本揭示了 57,000 个细胞，1.5 亿个神经连接》
+英国卫报 (05/09/24) Ian Sample 查看全文]]></description>
+      <guid>https://www.theguardian.com/science/article/2024/may/09/scientists-find-57000-cells-and-150m-neural-connections-in-tiny-sample-of-human-brain</guid>
+      <pubDate>Mon, 13 May 2024 15:08:10 GMT</pubDate>
     </item>
     <item>
-      <title>芯片补助有望推动行业增长</title>
-      <link>https://www.nytimes.com/2024/05/08/us/politics/chips-grants-fuel-industry-growth.html</link>
-      <description><![CDATA[《纽约时报》半导体行业协会和波士顿咨询集团的一份报告预计，根据 CHIPS 法案对半导体制造商提供的联邦补贴将在 2032 年大幅提升美国国内芯片制造能力。该报告还预测，到 2032 年，美国先进逻辑芯片的国内产量将从几乎为零上升到近 30%。摘自《芯片补助预计将推动行业增长》
-纽约时报 (05/08/24) Madeleine Ngo 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/05/08/us/politics/chips-grants-fuel-industry-growth.html</guid>
-      <pubDate>Fri, 10 May 2024 18:09:22 GMT</pubDate>
+      <title>影子之手能够经受人工智能研究的严酷考验</title>
+      <link>https://www.theengineer.co.uk/content/news/shadow-hand-withstands-the-rigours-ai-research</link>
+      <description><![CDATA[工程师Shadow Hand 由英国 Shadow Robot 为 Google DeepMind 打造，旨在承受人工智能研究的严酷考验。三指手包括易于更换的手指，并且可以承受锤子的敲击。每个手指的运动学包含 155 个单独的传感器通道和来自远端触觉传感器的视频，与人类手指的运动学相似，在基部有一个外展关节，沿其长度具有三个弯曲/伸展关节。摘自《影子手经得起人工智能研究的严酷》
+工程师 (05/10/24) Jason Ford 查看全文]]></description>
+      <guid>https://www.theengineer.co.uk/content/news/shadow-hand-withstands-the-rigours-ai-research</guid>
+      <pubDate>Mon, 13 May 2024 15:08:10 GMT</pubDate>
     </item>
     <item>
-      <title>微软为美国间谍创建绝密生成人工智能服务</title>
-      <link>https://www.bloomberg.com/news/articles/2024-05-07/microsoft-creates-top-secret-generative-ai-service-for-us-spies</link>
-      <description><![CDATA[彭博社微软推出了一个无需互联网连接即可运行的生成式人工智能平台，美国情报机构可以利用该平台来分析绝密信息。大型语言模型基于 GPT-4，并在云中的“气隙”环境中运行。该模型可以读取文件，但无法从中或从开放的互联网中学习。摘自“微软为美国间谍创建绝密生成人工智能服务”
-彭博社 (05/07/24) 卡特里娜·曼森 查看完整文章 - 可能需要付费订阅]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-05-07/microsoft-creates-top-secret-generative-ai-service-for-us-spies</guid>
-      <pubDate>Fri, 10 May 2024 18:09:22 GMT</pubDate>
+      <title>机器人侍酒师和咖啡师前往劳动力匮乏的韩国工作</title>
+      <link>https://asia.nikkei.com/Business/Technology/Robot-sommeliers-and-baristas-go-to-work-in-labor-starved-South-Korea</link>
+      <description><![CDATA[日经亚洲韩国政府希望借助机器人技术解决该国的劳动力短缺问题。在 3 月份于首尔举行的机器人博览会上，韩华集团旗下的 Hanwha Robotics 展示了一款机器人手臂，该机器人手臂经过编程，可以像人类侍酒师一样倒酒；而在 4 月份，Doosan Robotics 开始测试一款咖啡师机器人，该机器人可以每小时倒 80 杯咖啡并制作拉花艺术.摘自《机器人侍酒师和咖啡师到劳动力匮乏的韩国上班》
+日经亚洲 (05/10/24) Nami Matsuura 查看全文]]></description>
+      <guid>https://asia.nikkei.com/Business/Technology/Robot-sommeliers-and-baristas-go-to-work-in-labor-starved-South-Korea</guid>
+      <pubDate>Mon, 13 May 2024 15:08:09 GMT</pubDate>
     </item>
     <item>
-      <title>Neuralink 的脑芯片植入物存在数据捕获问题</title>
-      <link>https://www.wsj.com/tech/neuralinks-first-brain-chip-implant-in-a-human-appeared-flawless-there-was-a-problem-637f1adc</link>
-      <description><![CDATA[《华尔街日报》根据一篇博客文章，Neuralink 在其第一位人类患者诺兰·阿博（如图）身上遇到了植入问题，这减少了它可以从他的大脑中捕获的数据量。公司于周三发布。由于植入阿博大脑中的许多植入物线脱落，一些数据丢失了。该公司表示，作为回应，它做出了改变，包括修改其算法，从而改善了数据传输。摘自“Neuralink 的脑芯片植入物存在数据捕获问题”
-华尔街日报 (05/09/24) Rolfe Winkler； Alexa Corse 查看完整文章 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/tech/neuralinks-first-brain-chip-implant-in-a-human-appeared-flawless-there-was-a-problem-637f1adc</guid>
-      <pubDate>Fri, 10 May 2024 18:09:21 GMT</pubDate>
+      <title>模糊激光可打造更好的 3D 打印光学器件</title>
+      <link>https://interestingengineering.com/innovation/blurred-lasers-better-optics</link>
+      <description><![CDATA[有趣的工程加拿大国家研究委员会的研究人员证明，模糊 3D 打印机的激光可以提高 3D 打印光学器件的质量和打印时间。他们发现，使用模糊断层扫描技术可以在短短 30 分钟内生产出 3D 打印的光学元件，从而创建出质量与市售光学元件相当的光滑表面。研究人员利用新方法制造了基本的平凸透镜，并实现了与玻璃透镜几乎相同的点扩散函数。摘自“模糊激光打造更好的 3D 打印光学器件”
+有趣的工程 (05/11/24) Christopher McFadden 查看全文]]></description>
+      <guid>https://interestingengineering.com/innovation/blurred-lasers-better-optics</guid>
+      <pubDate>Mon, 13 May 2024 15:08:09 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌 DeepMind 推出活细胞人工智能模型</title>
-      <link>https://www.ft.com/content/77bf38b7-114d-44c8-956e-1e39e39ecb52</link>
-      <description><![CDATA[英国《金融时报》Google DeepMind 的 AlphaFold 3 使用人工智能提供活细胞及其内部不同分子之间相互作用的新视图。更新后的模型是与 DeepMind 的药物发现衍生产品 Isomorphic Labs 联合开发的，可以帮助科学家识别治疗癌症和其他疾病的新药物分子。摘自“Google DeepMind 推出活细胞 AI 模型” 
-《金融时报》（05/08/24）迈克尔·皮尔；伊恩·约翰斯顿 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.ft.com/content/77bf38b7-114d-44c8-956e-1e39e39ecb52</guid>
-      <pubDate>Fri, 10 May 2024 18:09:21 GMT</pubDate>
+      <title>科技巨头将东南亚视为下一件大事</title>
+      <link>https://www.bloomberg.com/news/articles/2024-05-11/tech-giants-start-to-treat-southeast-asia-like-next-big-thing</link>
+      <description><![CDATA[彭博社东南亚正在吸引比以往更多的科技投资。随着中国对美国公司变得更加敌视，而印度在政治上也更加难以驾驭，科技公司正在关注东南亚有利于商业的政权。随着人工智能的出现促使科技领导者寻求新的增长来源，全球最大的公司将在未来几年内在数据中心上花费高达 600 亿美元，以满足东南亚年轻人口的需求。 摘自《科技巨头对待东南亚就像下一件大事》
+彭博社 (05/10/24) Olivia Poh；苏瓦什里·戈什 查看全文]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-05-11/tech-giants-start-to-treat-southeast-asia-like-next-big-thing</guid>
+      <pubDate>Mon, 13 May 2024 15:08:08 GMT</pubDate>
     </item>
     <item>
-      <title>美国撤销英特尔、高通向华为出售芯片的许可</title>
-      <link>https://www.bloomberg.com/news/articles/2024-05-07/us-revokes-intel-qualcomm-licenses-to-sell-chips-to-huawei</link>
-      <description><![CDATA[彭博社美国撤销了华为技术有限公司从高通和英特尔购买半导体的许可证。知情人士称，吊销许可证将影响华为手机和笔记本电脑所用芯片在美国的销售。众议院外交事务委员会主席迈克尔·麦考尔（R-TX）表示，此举是阻止中国开发先进人工智能的关键。官员们还在考虑对他们怀疑可能向华为供应芯片的六家中国公司实施制裁，华为自 2019 年以来一直被列入美国贸易限制名单。摘自《美国撤销英特尔、高通向华为出售芯片的许可》 “
-彭博社 (05/07/24) 麦肯齐·霍金斯；埃里克·沃森 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-05-07/us-revokes-intel-qualcomm-licenses-to-sell-chips-to-huawei</guid>
-      <pubDate>Fri, 10 May 2024 18:09:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 向虚假信息研究人员发布“Deepfake”探测器</title>
-      <link>https://www.nytimes.com/2024/05/07/technology/openai-deepfake-detector.html</link>
-      <description><![CDATA[《纽约时报》OpenAI 允许一小部分虚假信息研究人员测试一种新的深度伪造检测工具，希望他们能够帮助找到改进方法。该公司表示，该工具可以检测到 OpenAI 的 DALL-E 3 图像生成器创建的 98.8% 的图像。OpenAI 还致力于解决深度伪造问题，加入了内容来源和真实性联盟的指导委员会，该委员会正在努力开发数字内容的凭证。摘自“OpenAI 向虚假信息研究人员发布‘深度伪造’检测器”
-《纽约时报》（05/07/24）Cade Metz；Tiffany Hsu 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/05/07/technology/openai-deepfake-detector.html</guid>
-      <pubDate>Fri, 10 May 2024 18:09:20 GMT</pubDate>
+      <title>日本团队利用超级计算机开发LLM</title>
+      <link>https://www.japantimes.co.jp/news/2024/05/11/japan/ai-fugaku-language-model-japanese/</link>
+      <description><![CDATA[日本时报日本的一组研究人员利用富士通和理研研究所联合开发的日本超级计算机 Fugaku 开发了大型语言模型（LLM）。 Fugaku-LLM 模型经过广泛的日语数据训练，有望引领针对国内需求的生成式人工智能研究。摘自“日本团队使用超级计算机开发 LLM”
+日本时报 (05/11/24) 查看全文]]></description>
+      <guid>https://www.japantimes.co.jp/news/2024/05/11/japan/ai-fugaku-language-model-japanese/</guid>
+      <pubDate>Mon, 13 May 2024 15:08:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
