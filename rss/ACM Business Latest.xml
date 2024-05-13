@@ -4,7 +4,28 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Mon, 13 May 2024 09:08:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 12:13:14 GMT</lastBuildDate>
+    <item>
+      <title>生成式人工智能并不会降低硬件的难度</title>
+      <link>https://www.wired.com/story/generative-ai-doesnt-make-hardware-less-hard/</link>
+      <description><![CDATA[Rabbit 和 Humane 的可穿戴人工智能产品遭到了《连线》等评论家的严厉批评。他们的表情表明，在 ChatGPT 时代与大型科技公司竞争仍然很困难。]]></description>
+      <guid>https://www.wired.com/story/generative-ai-doesnt-make-hardware-less-hard/</guid>
+      <pubDate>Mon, 13 May 2024 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Haskell 程序员崇拜的内部</title>
+      <link>https://www.wired.com/story/inside-the-cult-of-the-haskell-programmer/</link>
+      <description><![CDATA[太诡异了。这是深奥的。这也是理解函数式编程的兴起和相关性的关键。]]></description>
+      <guid>https://www.wired.com/story/inside-the-cult-of-the-haskell-programmer/</guid>
+      <pubDate>Mon, 13 May 2024 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找稀有比特币的时间已经不多了</title>
+      <link>https://www.wired.com/story/time-is-running-out-hunt-for-rare-bitcoin/</link>
+      <description><![CDATA[一小群收藏家正在寻找并收集价值数倍于面值的稀有比特币碎片。但他们的机会之窗正在关闭。]]></description>
+      <guid>https://www.wired.com/story/time-is-running-out-hunt-for-rare-bitcoin/</guid>
+      <pubDate>Mon, 13 May 2024 09:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>兰博基尼、迈凯伦和法拉利使用的创新电动汽车正在由梅赛德斯批量生产</title>
       <link>https://www.wired.com/story/yasa-motors-mercedes-axial-flux-2024/</link>
@@ -64,7 +85,7 @@
     <item>
       <title>谷歌 DeepMind 突破性的蛋白质结构人工智能现在可以模拟 DNA</title>
       <link>https://www.wired.com/story/alphafold-3-google-deepmind-ai-protein-structure-dna/</link>
-      <description><![CDATA[谷歌人工智能主管德米斯·哈萨比斯 (Demis Hassabis) 表示，彻底改变蛋白质研究的 AlphaFold 软件已获得重大升级，将推动药物开发。]]></description>
+      <description><![CDATA[谷歌人工智能主管德米斯·哈萨比斯 (Demis Hassabis) 表示，彻底改变蛋白质研究的 AlphaFold 软件已经获得重大升级，将推动药物开发。]]></description>
       <guid>https://www.wired.com/story/alphafold-3-google-deepmind-ai-protein-structure-dna/</guid>
       <pubDate>Wed, 08 May 2024 15:00:00 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[ChatGPT 开发者 OpenAI 表示，艺术家和其他内容所有者将能够请求将他们的作品排除在人工智能开发中。该计划的许多细节仍不清楚。]]></description>
       <guid>https://www.wired.com/story/openai-olive-branch-artists-ai-algorithms/</guid>
       <pubDate>Tue, 07 May 2024 18:54:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>穆西赢得了数百万美元。免费音乐流媒体应用程序是否好得令人难以置信？</title>
-      <link>https://www.wired.com/story/free-music-streaming-app-musi-too-good-to-be-true/</link>
-      <description><![CDATA[Musi 的免费音乐流媒体应用程序深受节俭青少年的欢迎。该应用声称可以挖掘 YouTube 上的内容，但音乐行业的一些人质疑该模式的合法性。]]></description>
-      <guid>https://www.wired.com/story/free-music-streaming-app-musi-too-good-to-be-true/</guid>
-      <pubDate>Tue, 07 May 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚马逊的送货无人机将无法在亚利桑那州的夏季炎热中飞行</title>
-      <link>https://www.wired.com/story/amazon-delivery-drones-heat-grounded-summer/</link>
-      <description><![CDATA[亚马逊最新的送货无人机将从菲尼克斯郊外起飞，但不要指望在炎热的天气里匆忙订购风扇。当温度超过 104 华氏度时，机队将无法飞行。]]></description>
-      <guid>https://www.wired.com/story/amazon-delivery-drones-heat-grounded-summer/</guid>
-      <pubDate>Tue, 07 May 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>以太坊联合创始人表示美国证券交易委员会正在“煤气灯操纵”每个人关于加密货币的问题</title>
-      <link>https://www.wired.com/story/ethereums-co-founder-says-sec-is-gaslighting-us-about-crypto/</link>
-      <description><![CDATA[乔·鲁宾 (Joe Lubin) 是以太坊的联合创始人。现在他的公司正在起诉美国证券交易委员会，他表示互联网的未来受到威胁。]]></description>
-      <guid>https://www.wired.com/story/ethereums-co-founder-says-sec-is-gaslighting-us-about-crypto/</guid>
-      <pubDate>Mon, 06 May 2024 08:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
