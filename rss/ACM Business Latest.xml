@@ -4,7 +4,21 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Mon, 13 May 2024 18:09:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 21:06:44 GMT</lastBuildDate>
+    <item>
+      <title>抗议者正在努力阻止人工智能，但他们在如何做到这一点上存在分歧</title>
+      <link>https://www.wired.com/story/protesters-pause-ai-split-stop/</link>
+      <description><![CDATA[PauseAI 抗议活动正在伦敦、纽约、旧金山和全球各地进行。其成员对于该组织下一步应该做什么有着截然不同的看法。]]></description>
+      <guid>https://www.wired.com/story/protesters-pause-ai-split-stop/</guid>
+      <pubDate>Mon, 13 May 2024 19:36:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 的 GPT-4o 模型为 ChatGPT 带来了敏捷、性感的升级</title>
+      <link>https://www.wired.com/story/openai-gpt-4o-model-gives-chatgpt-a-snappy-flirty-upgrade/</link>
+      <description><![CDATA[为 ChatGPT 做好准备，变得更加情绪化。 OpenAI 展示了使聊天机器人能够进行更快速对话的升级，并展示了人工智能助手能够捕捉并表达情感线索。]]></description>
+      <guid>https://www.wired.com/story/openai-gpt-4o-model-gives-chatgpt-a-snappy-flirty-upgrade/</guid>
+      <pubDate>Mon, 13 May 2024 18:35:21 GMT</pubDate>
+    </item>
     <item>
       <title>23 亿美元的龙卷风现金案是加密隐私的关键时刻</title>
       <link>https://www.wired.com/story/tornado-cash-money-laundering-case-crypto-privacy/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[谷歌人工智能主管德米斯·哈萨比斯 (Demis Hassabis) 表示，彻底改变蛋白质研究的 AlphaFold 软件已获得重大升级，将推动药物开发。]]></description>
       <guid>https://www.wired.com/story/alphafold-3-google-deepmind-ai-protein-structure-dna/</guid>
       <pubDate>Wed, 08 May 2024 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>职业倦怠正在促使员工使用人工智能——即使他们的老板不知道</title>
-      <link>https://www.wired.com/story/ai-workers-burnout-microsoft-linkedin/</link>
-      <description><![CDATA[新数据显示，无论老板是否愿意，人们都在工作中使用人工智能。但推动变革的是绝望，而不是创新。]]></description>
-      <guid>https://www.wired.com/story/ai-workers-burnout-microsoft-linkedin/</guid>
-      <pubDate>Wed, 08 May 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>气候抗议中坚决阻止特斯拉</title>
-      <link>https://www.wired.com/story/tesla-forest-protest-environment-sham/</link>
-      <description><![CDATA[随着抗议活动加剧，特斯拉位于德国的超级工厂暂时停止生产。]]></description>
-      <guid>https://www.wired.com/story/tesla-forest-protest-environment-sham/</guid>
-      <pubDate>Tue, 07 May 2024 20:10:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
