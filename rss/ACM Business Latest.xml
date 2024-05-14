@@ -4,7 +4,21 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Tue, 14 May 2024 15:08:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 18:09:24 GMT</lastBuildDate>
+    <item>
+      <title>借助 Android 上的 Gemini，Google 指出了移动计算的未来和过去</title>
+      <link>https://www.wired.com/story/google-io-gemini-on-android-circle-to-search/</link>
+      <description><![CDATA[谷歌对 Gemini 和 Circle 的新升级让我们得以了解操作系统将如何改变并围绕人工智能展开。]]></description>
+      <guid>https://www.wired.com/story/google-io-gemini-on-android-circle-to-search/</guid>
+      <pubDate>Tue, 14 May 2024 18:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Astra 是 Google 对新 ChatGPT 的“多模式”回应</title>
+      <link>https://www.wired.com/story/google-io-astra-multimodal-answer-chatgpt/</link>
+      <description><![CDATA[谷歌全新的语音操作人工智能助手 Astra 可以理解手机摄像头所看到的内容。该消息是在 OpenAI 透露 ChatGPT 类似愿景的一天后宣布的。]]></description>
+      <guid>https://www.wired.com/story/google-io-astra-multimodal-answer-chatgpt/</guid>
+      <pubDate>Tue, 14 May 2024 17:54:48 GMT</pubDate>
+    </item>
     <item>
       <title>Tornado Cash 开发商被发现洗钱 12 亿美元</title>
       <link>https://www.wired.com/story/tornado-cash-developer-found-guilty-of-laundering-crypto/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[Anthropic 最近为其 Claude 聊天机器人推出了一款 iOS 应用程序。我们询问了该公司的产品设计主管如何充分利用人工智能助手。]]></description>
       <guid>https://www.wired.com/story/six-practical-tips-for-using-anthropic-claude-chatbot/</guid>
       <pubDate>Thu, 09 May 2024 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们尝试了世界上最昂贵的赛车模拟器</title>
-      <link>https://www.wired.com/story/dynisma-worlds-most-expensive-racing-simulator-tested/</link>
-      <description><![CDATA[Dynisma 价值 200 万美元的装备是最先进的。问问法拉利就知道了，它的 F1 车队就有一辆。现在消费者模型正在开发中，我们决定测试终极驾驶模拟器。]]></description>
-      <guid>https://www.wired.com/story/dynisma-worlds-most-expensive-racing-simulator-tested/</guid>
-      <pubDate>Thu, 09 May 2024 11:37:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 正在“探索”如何负责任地生成人工智能色情内容</title>
-      <link>https://www.wired.com/story/openai-is-exploring-how-to-responsibly-generate-ai-porn/</link>
-      <description><![CDATA[OpenAI 发布了关于希望 ChatGPT 内的人工智能技术如何运作的指南草案，并透露它正在探索如何“负责任地”生成露骨内容。]]></description>
-      <guid>https://www.wired.com/story/openai-is-exploring-how-to-responsibly-generate-ai-porn/</guid>
-      <pubDate>Wed, 08 May 2024 19:13:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
