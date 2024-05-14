@@ -4,18 +4,32 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Tue, 14 May 2024 18:09:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 21:06:39 GMT</lastBuildDate>
     <item>
-      <title>借助 Android 上的 Gemini，Google 指出了移动计算的未来和过去</title>
+      <title>拜登正试图通过对中国征收新关税来为电动汽车赢得时间。它可能不起作用</title>
+      <link>https://www.wired.com/story/new-ev-china-tariffs-biden/</link>
+      <description><![CDATA[美国现在对中国电动汽车征收100%的关税，但由于美国汽车制造商在竞争中举步维艰，而且对中国材料的依赖，这会有帮助吗？梅赛德斯、宝马和大众不这么认为。]]></description>
+      <guid>https://www.wired.com/story/new-ev-china-tariffs-biden/</guid>
+      <pubDate>Tue, 14 May 2024 20:11:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过 Android 上的 Gemini，Google 指出了移动计算的未来和过去</title>
       <link>https://www.wired.com/story/google-io-gemini-on-android-circle-to-search/</link>
       <description><![CDATA[谷歌对 Gemini 和 Circle 的新升级让我们得以了解操作系统将如何改变并围绕人工智能展开。]]></description>
       <guid>https://www.wired.com/story/google-io-gemini-on-android-circle-to-search/</guid>
       <pubDate>Tue, 14 May 2024 18:05:00 GMT</pubDate>
     </item>
     <item>
+      <title>这是我们所知的谷歌搜索的终结</title>
+      <link>https://www.wired.com/story/google-io-end-of-google-search/</link>
+      <description><![CDATA[谷歌正在通过在搜索中添加新的人工智能功能来重新考虑其最具标志性和利润丰厚的产品。一位专家告诉《连线》杂志，这是“世界秩序的改变”。]]></description>
+      <guid>https://www.wired.com/story/google-io-end-of-google-search/</guid>
+      <pubDate>Tue, 14 May 2024 17:57:15 GMT</pubDate>
+    </item>
+    <item>
       <title>Astra 是 Google 对新 ChatGPT 的“多模式”回应</title>
       <link>https://www.wired.com/story/google-io-astra-multimodal-answer-chatgpt/</link>
-      <description><![CDATA[谷歌全新的语音操作人工智能助手 Astra 可以理解手机摄像头所看到的内容。该消息是在 OpenAI 透露 ChatGPT 类似愿景的一天后宣布的。]]></description>
+      <description><![CDATA[谷歌新推出的语音操作人工智能助手 Astra 可以理解手机摄像头所看到的内容。该消息是在 OpenAI 透露 ChatGPT 类似愿景的一天后宣布的。]]></description>
       <guid>https://www.wired.com/story/google-io-astra-multimodal-answer-chatgpt/</guid>
       <pubDate>Tue, 14 May 2024 17:54:48 GMT</pubDate>
     </item>
@@ -71,7 +85,7 @@
     <item>
       <title>寻找稀有比特币的时间已经不多了</title>
       <link>https://www.wired.com/story/time-is-running-out-hunt-for-rare-bitcoin/</link>
-      <description><![CDATA[一小群收藏家正在寻找并收集价值数倍于面值的稀有比特币碎片。但他们的机会之窗正在关闭。]]></description>
+      <description><![CDATA[一小部分收藏家正在寻找和收藏价值数倍于面值的稀有比特币碎片。但他们的机会之窗正在关闭。]]></description>
       <guid>https://www.wired.com/story/time-is-running-out-hunt-for-rare-bitcoin/</guid>
       <pubDate>Mon, 13 May 2024 09:30:00 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[自宣布扩张计划以来，这家汽车制造商唯一的欧洲超级工厂已成为日益激进抗议的目标。]]></description>
       <guid>https://www.wired.com/story/climate-protestors-storm-teslas-europe-gigafactory/</guid>
       <pubDate>Fri, 10 May 2024 13:08:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>科技对童年的重大重塑是不可逆转的</title>
-      <link>https://www.wired.com/story/plaintext-theres-no-undoing-techs-great-rewiring-of-childhood/</link>
-      <description><![CDATA[心理学家乔纳森·海特警告说，社交媒体会伤害儿童，但很难找到确切的证据。无论您对儿童和技术有何看法，数字连接现在已成为童年的一部分。]]></description>
-      <guid>https://www.wired.com/story/plaintext-theres-no-undoing-techs-great-rewiring-of-childhood/</guid>
-      <pubDate>Fri, 10 May 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Anthropic 的 Claude 聊天机器人的 6 个实用技巧</title>
-      <link>https://www.wired.com/story/six-practical-tips-for-using-anthropic-claude-chatbot/</link>
-      <description><![CDATA[Anthropic 最近为其 Claude 聊天机器人推出了一款 iOS 应用程序。我们询问了该公司的产品设计主管如何充分利用人工智能助手。]]></description>
-      <guid>https://www.wired.com/story/six-practical-tips-for-using-anthropic-claude-chatbot/</guid>
-      <pubDate>Thu, 09 May 2024 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
