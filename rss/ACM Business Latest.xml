@@ -4,7 +4,21 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Tue, 14 May 2024 12:13:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 15:08:44 GMT</lastBuildDate>
+    <item>
+      <title>Tornado Cash 开发商被发现洗钱 12 亿美元</title>
+      <link>https://www.wired.com/story/tornado-cash-developer-found-guilty-of-laundering-crypto/</link>
+      <description><![CDATA[加密匿名工具的联合创始人阿列克谢·佩尔采夫 (Alexey Pertsev) 已被判处五年以上监禁。]]></description>
+      <guid>https://www.wired.com/story/tornado-cash-developer-found-guilty-of-laundering-crypto/</guid>
+      <pubDate>Tue, 14 May 2024 12:34:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>生成式人工智能是完全无耻的。我想成为它</title>
+      <link>https://www.wired.com/story/generative-ai-totally-shameless/</link>
+      <description><![CDATA[像 ChatGPT 这样的烧脑软件最棒的地方是什么？它并不感到悔恨。]]></description>
+      <guid>https://www.wired.com/story/generative-ai-totally-shameless/</guid>
+      <pubDate>Tue, 14 May 2024 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>抗议者正在努力阻止人工智能，但他们在如何做到这一点上存在分歧</title>
       <link>https://www.wired.com/story/protesters-pause-ai-split-stop/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[OpenAI 发布了关于希望 ChatGPT 内的人工智能技术如何运作的指南草案，并透露它正在探索如何“负责任地”生成露骨内容。]]></description>
       <guid>https://www.wired.com/story/openai-is-exploring-how-to-responsibly-generate-ai-porn/</guid>
       <pubDate>Wed, 08 May 2024 19:13:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>FTX债权人称支付交易是“一种侮辱”并计划反抗</title>
-      <link>https://www.wired.com/story/ftx-creditors-crypto-payout-rejection/</link>
-      <description><![CDATA[FTX 计划向其前加密货币客户偿还超过他们在最新破产提案中损失的数十亿美元的资金。但无论如何，有些人会拒绝它。]]></description>
-      <guid>https://www.wired.com/story/ftx-creditors-crypto-payout-rejection/</guid>
-      <pubDate>Wed, 08 May 2024 17:00:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌 DeepMind 突破性的蛋白质结构人工智能现在可以模拟 DNA</title>
-      <link>https://www.wired.com/story/alphafold-3-google-deepmind-ai-protein-structure-dna/</link>
-      <description><![CDATA[谷歌人工智能主管德米斯·哈萨比斯 (Demis Hassabis) 表示，彻底改变蛋白质研究的 AlphaFold 软件已获得重大升级，将推动药物开发。]]></description>
-      <guid>https://www.wired.com/story/alphafold-3-google-deepmind-ai-protein-structure-dna/</guid>
-      <pubDate>Wed, 08 May 2024 15:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
