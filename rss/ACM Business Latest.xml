@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Wed, 15 May 2024 00:33:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 03:09:34 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 首席人工智能奇才 Ilya Sutskever 即将离开公司</title>
+      <link>https://www.wired.com/story/openais-chief-ai-wizard-ilya-sutskever-is-leaving-the-company/</link>
+      <description><![CDATA[在 OpenAI 展示了全新的、充满情感的 ChatGPT 版本一天后，该公司宣布首席科学家 Ilya Sutskever 将离开公司。他于 11 月投票解雇了首席执行官萨姆·奥尔特曼 (Sam Altman)。]]></description>
+      <guid>https://www.wired.com/story/openais-chief-ai-wizard-ilya-sutskever-is-leaving-the-company/</guid>
+      <pubDate>Wed, 15 May 2024 00:36:00 GMT</pubDate>
+    </item>
     <item>
       <title>拜登正试图通过对中国征收新关税来为电动汽车赢得时间。它可能不起作用</title>
       <link>https://www.wired.com/story/new-ev-china-tariffs-biden/</link>
@@ -48,7 +55,7 @@
       <pubDate>Tue, 14 May 2024 12:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>抗议者正在努力阻止人工智能，但他们对于如何做到这一点存在分歧</title>
+      <title>抗议者正在努力阻止人工智能，但他们在如何做到这一点上存在分歧</title>
       <link>https://www.wired.com/story/protesters-pause-ai-split-stop/</link>
       <description><![CDATA[PauseAI 抗议活动正在伦敦、纽约、旧金山和全球各地进行。其成员对于该组织下一步应该做什么有着截然不同的看法。]]></description>
       <guid>https://www.wired.com/story/protesters-pause-ai-split-stop/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[软件开发者社区的成员报告称，他们删除或更改了自己的帖子，以防止 OpenAI 使用这些帖子。]]></description>
       <guid>https://www.wired.com/story/stack-overflow-users-openai-revolt/</guid>
       <pubDate>Sat, 11 May 2024 13:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>气候抗议者冲击特斯拉欧洲超级工厂</title>
-      <link>https://www.wired.com/story/climate-protestors-storm-teslas-europe-gigafactory/</link>
-      <description><![CDATA[自宣布扩张计划以来，这家汽车制造商唯一的欧洲超级工厂已成为日益激进抗议的目标。]]></description>
-      <guid>https://www.wired.com/story/climate-protestors-storm-teslas-europe-gigafactory/</guid>
-      <pubDate>Fri, 10 May 2024 13:08:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
