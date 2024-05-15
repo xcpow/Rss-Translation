@@ -4,94 +4,102 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Mon, 13 May 2024 15:08:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 18:09:12 GMT</lastBuildDate>
     <item>
-      <title>聊天机器人会蚕食印度的IT产业吗？</title>
-      <link>https://www.economist.com/business/2024/05/09/will-chatbots-eat-indias-it-industry</link>
-      <description><![CDATA[《经济学人》国际货币基金组织的亚历山大·科佩斯塔克 (Alexander Copestake) 及其同事去年发表的一篇论文指出，“近指数增长”是一种经济增长。自 2016 年以来，印度服务业对人工智能相关技能的需求不断增加，但人们担心生成式人工智能技术可能会侵蚀印度的科技行业。去年，印度 7 家 IT 公司总共解雇了 75,000 名员工，相当于其员工总数的 4% 左右。这些公司表示，这反映了科技行业更广泛的放缓。摘自“聊天机器人会吞噬印度的 IT 行业吗？”
-经济学人 (05/09/24) 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.economist.com/business/2024/05/09/will-chatbots-eat-indias-it-industry</guid>
-      <pubDate>Mon, 13 May 2024 15:08:14 GMT</pubDate>
+      <title>中国创造了有史以来最大的量子计算芯片</title>
+      <link>https://www.livescience.com/technology/computing/china-creates-its-largest-ever-quantum-chip-and-it-could-be-key-to-building-the-nations-own-quantum-cloud</link>
+      <description><![CDATA[生活科学中国科学院量子信息与量子物理卓越中心研究人员研制出504量子比特的量子计算芯片。小红芯片是中国研究人员迄今为止制造的最大芯片，将由中国量子计算公司国盾量子和中国电信量子集团的研究人员集成到新型量子计算机中。全球研究人员将通过新的量子计算云平台访问该系统。摘自《中国创造有史以来最大的量子计算芯片》
+LiveScience (05/13/24) 欧文·休斯 查看全文]]></description>
+      <guid>https://www.livescience.com/technology/computing/china-creates-its-largest-ever-quantum-chip-and-it-could-be-key-to-building-the-nations-own-quantum-cloud</guid>
+      <pubDate>Wed, 15 May 2024 18:09:12 GMT</pubDate>
     </item>
     <item>
-      <title>一群蜗牛机器人粘在一起</title>
-      <link>https://www.popsci.com/technology/snail-robot/</link>
-      <description><![CDATA[科普香港中文大学研究人员开发的一种机器人群可以单独穿越困难的地形，并相互连接以像坦克或推土机一样移动。这种受蜗牛启发的机器人具有可伸缩的吸盘和坦克般的履带。测试表明，它们可以建造楼梯来清理壁架，搭建桥梁来跨越间隙，并将自己排列成细长的机械臂。来自“一群蜗牛机器人粘在一起”
-科普 (05/08/24) 安德鲁·保罗 查看全文]]></description>
-      <guid>https://www.popsci.com/technology/snail-robot/</guid>
-      <pubDate>Mon, 13 May 2024 15:08:14 GMT</pubDate>
+      <title>无人机播种试图阻止科索沃森林砍伐</title>
+      <link>https://www.reuters.com/business/environment/seed-dropping-drones-seek-halt-kosovos-deforestation-2024-05-14/</link>
+      <description><![CDATA[路透社科索沃非营利可持续发展领导组织与克罗地亚公司 Project 02 合作，利用无人机投放种子，以对抗科索沃的森林砍伐。每次飞行，无人机都会装满约 100 个由种子组成的黑球，周围混合着粘土、沙子、富含矿物质的废弃生物质以及其他保护种子免受昆虫和啮齿动物侵害的成分。无人机可在两小时内播种一公顷（约 2.5 英亩）。摘自“播种无人机寻求阻止科索沃的森林砍伐”
+路透社 (05/14/24) Fatos Bytyci 查看全文]]></description>
+      <guid>https://www.reuters.com/business/environment/seed-dropping-drones-seek-halt-kosovos-deforestation-2024-05-14/</guid>
+      <pubDate>Wed, 15 May 2024 18:09:11 GMT</pubDate>
     </item>
     <item>
-      <title>球平衡机器人协助轮椅使用者</title>
-      <link>https://www.newscientist.com/article/2429653-ball-balancing-robot-could-assist-wheelchair-users/</link>
-      <description><![CDATA[新科学家卡内基梅隆大学 (CMU) 研究人员开发的“球机器人”在推轮椅方面与人类一样有效。卡内基梅隆大学的 Cunxi Dai 表示，这种球机器人在充当球形轮的球上保持平衡，“具有节能的平稳运动，而且它可以平衡的事实使其能够施加更大的力来推动重型系统和机动[与] 更加敏捷。”摘自“球平衡机器人协助轮椅使用者”
-新科学家 (05/06/24) Jeremy Hsu 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.newscientist.com/article/2429653-ball-balancing-robot-could-assist-wheelchair-users/</guid>
-      <pubDate>Mon, 13 May 2024 15:08:12 GMT</pubDate>
+      <title>GhostStripe 攻击困扰自动驾驶汽车</title>
+      <link>https://www.theregister.com/2024/05/10/baidu_apollo_hack/</link>
+      <description><![CDATA[The Register（英国）新加坡和美国的研究人员揭露了一种利用自动驾驶汽车中的互补金属氧化物半导体 (CMOS) 摄像头传感器进行的攻击，阻止其识别路标。 GhostStripe 攻击使用 LED 在路标上发出光图案，从而阻止车辆的机器学习软件读取它们。在标牌上快速闪烁不同的颜色会滥用传感器的滚动数字快门，从而扭曲摄像机捕获的每一帧。来自“GhostStripe Attack Haunts Self-Driving Cars”
+The Register（英国）(05/10/24) Laura Dobberstein]]></description>
+      <guid>https://www.theregister.com/2024/05/10/baidu_apollo_hack/</guid>
+      <pubDate>Wed, 15 May 2024 18:09:11 GMT</pubDate>
     </item>
     <item>
-      <title>五角大楼与 SpaceX 合作阻止俄罗斯使用星链</title>
-      <link>https://www.bloomberg.com/news/articles/2024-05-09/russia-starlink-access-blocked-by-pentagon-spacex-ukraine</link>
-      <description><![CDATA[据美国国防部约翰·普拉姆 (John Plumb) 称，五角大楼官员与 SpaceX 合作，阻止了俄罗斯军方在与乌克兰的战争战场上未经授权使用星链互联网终端。星链终端的广告宣传在俄罗斯出售，但连接仅在边境地区（例如乌克兰被占领土）附近有效。 “目前我们已经成功反击了俄罗斯的使用，但我确信俄罗斯将继续尝试寻找利用星链和其他商业通信系统的方法，”他说。普拉姆说。来自“五角大楼与 SpaceX 联手阻止俄罗斯使用星链”
-彭博社 (05/09/24) 安东尼·卡帕西奥 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-05-09/russia-starlink-access-blocked-by-pentagon-spacex-ukraine</guid>
-      <pubDate>Mon, 13 May 2024 15:08:12 GMT</pubDate>
+      <title>为什么世界各地的抗议者要求暂停人工智能开发</title>
+      <link>https://time.com/6977680/ai-protests-international/</link>
+      <description><![CDATA[时代参与“暂停人工智能”运动的抗议者周一参加了13个国家的抗议活动，呼吁政府对人工智能公司进行监管，并冻结新人工智能模型的开发，直到公司同意彻底的安全测试。专家们并不了解 ChatGPT 等人工智能系统的内部运作原理，他们担心缺乏知识可能会导致我们严重错误地估计更强大的系统将如何行动。摘自《为什么世界各地的抗议者都在抗议》要求暂停人工智能开发”
+时间 (05/13/24) 安娜·戈登 查看全文]]></description>
+      <guid>https://time.com/6977680/ai-protests-international/</guid>
+      <pubDate>Wed, 15 May 2024 18:09:11 GMT</pubDate>
     </item>
     <item>
-      <title>更智能的车辆可能意味着交通灯的改变</title>
-      <link>https://apnews.com/article/smarter-traffic-signals-north-carolina-michigan-757d6151e85565e9656d7b95c6e72490</link>
-      <description><![CDATA[美联社联网和自动驾驶车辆的出现可能会给传统交通信号带来重大变化。例如，北卡罗来纳州立大学的 Ali Hajbabaie 建议添加第四盏灯，以指示道路上何时有足够的自动驾驶车辆来负责并带路。密歇根大学研究人员在底特律伯明翰郊区进行的一项试点项目发现，将交通灯时间调整几秒钟即可减少拥堵。摘自“智能车辆可能意味着交通灯的变化”&lt; br/&gt;
-美联社 (05/11/24) 杰夫·麦克默里 查看全文]]></description>
-      <guid>https://apnews.com/article/smarter-traffic-signals-north-carolina-michigan-757d6151e85565e9656d7b95c6e72490</guid>
-      <pubDate>Mon, 13 May 2024 15:08:11 GMT</pubDate>
+      <title>疾病夺走了她的声音。人工智能创建了她手机中携带的复制品</title>
+      <link>https://apnews.com/article/ai-recreating-lost-voice-illness-a6512c33481072c22182c116d2cbe419</link>
+      <description><![CDATA[美联社亚历克西斯·“莱西”·博根（如图）在切除大脑后部的肿瘤后，言语仍然受到损害，但通过罗德岛州 OpenAI 语音引擎的试点版本，她恢复了声音医院。人工智能接受了她青少年时期 15 秒声音片段的训练，可以大声朗读她在手机应用程序中输入的任何内容。 Fatima Mirza 博士说，“我们能够帮助 Lexi 找回她真实的声音，她能够用最真实的语言说话。”摘自《疾病》人工智能夺走了她的声音，在她的手机中创建了一个复制品”
+美联社 (05/13/24) 马特·奥布莱恩 查看全文]]></description>
+      <guid>https://apnews.com/article/ai-recreating-lost-voice-illness-a6512c33481072c22182c116d2cbe419</guid>
+      <pubDate>Wed, 15 May 2024 18:09:10 GMT</pubDate>
     </item>
     <item>
-      <title>人脑微小样本揭示了 57,000 个细胞、1.5 亿个神经连接</title>
-      <link>https://www.theguardian.com/science/article/2024/may/09/scientists-find-57000-cells-and-150m-neural-connections-in-tiny-sample-of-human-brain</link>
-      <description><![CDATA[英国卫报哈佛大学和谷歌研究人员对 5,000 多立方毫米人类脑组织样本的电子显微镜图像进行了分析，发现了 57,000 个单独的细胞、1.5 亿个神经连接、和23厘米的血管。机器学习算法被用来绘制神经元和其他细胞通过每个部分的路径，这个过程需要研究人员花费数年时间才能完成。哈佛大学的 Jeff Lichtman 表示：“我们在这个数据集中发现了很多教科书上没有的东西。”摘自《人类大脑的微小样本揭示了 57,000 个细胞，1.5 亿个神经连接》
-英国卫报 (05/09/24) Ian Sample 查看全文]]></description>
-      <guid>https://www.theguardian.com/science/article/2024/may/09/scientists-find-57000-cells-and-150m-neural-connections-in-tiny-sample-of-human-brain</guid>
-      <pubDate>Mon, 13 May 2024 15:08:10 GMT</pubDate>
+      <title>Zuse 的 Z3，世界上第一台可编程计算机</title>
+      <link>https://www.thehindu.com/children/zuses-z3-the-worlds-first-programmable-computer/article68124622.ece</link>
+      <description><![CDATA[《印度教徒报》（印度）5 月 12 日是 Z3 诞生 83 周年纪念日，Z3 是世界上第一台全功能、图灵完备的可编程计算机，由德国工程师康拉德 (Konrad) 揭幕1941 年的 Zuse。原始图灵完备的 Z3 在 1943 年柏林的一次爆炸中被毁，但 Zuse 在 20 世纪 60 年代重建的复制品（上图）正在慕尼黑博物馆展出。来自“Zuse&#39;s Z3，世界上第一台可编程计算机”
+印度教徒（印度） (05/12/24) A.S. Ganesh 查看全文&lt; /a&gt;]]></description>
+      <guid>https://www.thehindu.com/children/zuses-z3-the-worlds-first-programmable-computer/article68124622.ece</guid>
+      <pubDate>Wed, 15 May 2024 18:09:10 GMT</pubDate>
     </item>
     <item>
-      <title>影子之手能够经受人工智能研究的严酷考验</title>
-      <link>https://www.theengineer.co.uk/content/news/shadow-hand-withstands-the-rigours-ai-research</link>
-      <description><![CDATA[工程师Shadow Hand 由英国 Shadow Robot 为 Google DeepMind 打造，旨在承受人工智能研究的严酷考验。三指手包括易于更换的手指，并且可以承受锤子的敲击。每个手指的运动学包含 155 个单独的传感器通道和来自远端触觉传感器的视频，与人类手指的运动学相似，在基部有一个外展关节，沿其长度具有三个弯曲/伸展关节。摘自《影子手经得起人工智能研究的严酷》
-工程师 (05/10/24) Jason Ford 查看全文]]></description>
-      <guid>https://www.theengineer.co.uk/content/news/shadow-hand-withstands-the-rigours-ai-research</guid>
-      <pubDate>Mon, 13 May 2024 15:08:10 GMT</pubDate>
+      <title>太阳风暴导致一些农民使用的 GPS 系统崩溃</title>
+      <link>https://www.nytimes.com/2024/05/13/us/solar-storm-tractor-break-nebraska.html</link>
+      <description><![CDATA[《纽约时报》由于最近的地磁风暴，美国和加拿大的一些农民无法使用拖拉机和其他设备，这是自 2003 年 10 月以来到达地球的最强磁暴。GPS 和其他导航设备中断与太阳风暴相关的技术扰乱了一些农民在种植季节高峰期的作业。堪萨斯州立大学的特里·格里芬 (Terry Griffin) 表示，此类风暴对美国的农业构成威胁，因为美国的大部分农作物都是使用现代制导系统种植的。摘自“太阳风暴破坏了一些人使用的 GPS 系统”农民”
+纽约时报 (05/13/24) Livia Albeck-Ripka 查看完整文章 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/05/13/us/solar-storm-tractor-break-nebraska.html</guid>
+      <pubDate>Wed, 15 May 2024 18:09:09 GMT</pubDate>
     </item>
     <item>
-      <title>机器人侍酒师和咖啡师前往劳动力匮乏的韩国工作</title>
-      <link>https://asia.nikkei.com/Business/Technology/Robot-sommeliers-and-baristas-go-to-work-in-labor-starved-South-Korea</link>
-      <description><![CDATA[日经亚洲韩国政府希望借助机器人技术解决该国的劳动力短缺问题。在 3 月份于首尔举行的机器人博览会上，韩华集团旗下的 Hanwha Robotics 展示了一款机器人手臂，该机器人手臂经过编程，可以像人类侍酒师一样倒酒；而在 4 月份，Doosan Robotics 开始测试一款咖啡师机器人，该机器人可以每小时倒 80 杯咖啡并制作拉花艺术.摘自《机器人侍酒师和咖啡师到劳动力匮乏的韩国上班》
-日经亚洲 (05/10/24) Nami Matsuura 查看全文]]></description>
-      <guid>https://asia.nikkei.com/Business/Technology/Robot-sommeliers-and-baristas-go-to-work-in-labor-starved-South-Korea</guid>
-      <pubDate>Mon, 13 May 2024 15:08:09 GMT</pubDate>
+      <title>高爆炸药的制造优化设计</title>
+      <link>https://www.llnl.gov/article/51226/manufacturing-optimized-designs-high-explosives</link>
+      <description><![CDATA[劳伦斯利弗莫尔国家实验室劳伦斯利弗莫尔国家实验室的研究人员使用人工智能和机器学习来开发聚能炸药的计算优化设计，这些炸药用于操纵金属，以控制其流体动力学不稳定性。研究人员进行了 14 次高爆 (HE) 爆炸实验，将结果与衬管和 HE 之间不包含缓冲器的基线设计进行了比较。闪光 X 射线照片显示硅树脂缓冲剂可靠且一致地减轻了潜在的不稳定性。摘自“高爆炸物制造优化设计”
+劳伦斯利弗莫尔国家实验室 (05/13/24) 谢尔比康涅狄格州 查看全文]]></description>
+      <guid>https://www.llnl.gov/article/51226/manufacturing-optimized-designs-high-explosives</guid>
+      <pubDate>Wed, 15 May 2024 18:09:09 GMT</pubDate>
     </item>
     <item>
-      <title>模糊激光可打造更好的 3D 打印光学器件</title>
-      <link>https://interestingengineering.com/innovation/blurred-lasers-better-optics</link>
-      <description><![CDATA[有趣的工程加拿大国家研究委员会的研究人员证明，模糊 3D 打印机的激光可以提高 3D 打印光学器件的质量和打印时间。他们发现，使用模糊断层扫描技术可以在短短 30 分钟内生产出 3D 打印的光学元件，从而创建出质量与市售光学元件相当的光滑表面。研究人员利用新方法制造了基本的平凸透镜，并实现了与玻璃透镜几乎相同的点扩散函数。摘自“模糊激光打造更好的 3D 打印光学器件”
-有趣的工程 (05/11/24) Christopher McFadden 查看全文]]></description>
-      <guid>https://interestingengineering.com/innovation/blurred-lasers-better-optics</guid>
-      <pubDate>Mon, 13 May 2024 15:08:09 GMT</pubDate>
+      <title>超级计算机再夺冠军，Infiniband 超越以太网，Linux 称霸</title>
+      <link>https://www.sdxcentral.com/articles/news/supercomputer-champ-repeats-infiniband-tops-ethernet-and-linux-dominates/2024/05/</link>
+      <description><![CDATA[SDxCentral橡树岭国家实验室的 Frontier 超级计算机再次在新的全球最强大超级计算机 500 强排行榜中排名第一。美国拥有最多的上榜系统（171 个），其中包括阿贡国家实验室的 Aurora 超级计算机。在超级计算机网络技术方面，500 强榜单中近一半的系统（47.8%，239 个系统）使用了 Infiniband，而以太网的使用率为 39%（195 个系统）。摘自《超级计算机》冠军重演，Infiniband 超越以太网，Linux 称霸”
+SDxCentral (05/13/24) Sean Michael Kerner 查看全文]]></description>
+      <guid>https://www.sdxcentral.com/articles/news/supercomputer-champ-repeats-infiniband-tops-ethernet-and-linux-dominates/2024/05/</guid>
+      <pubDate>Wed, 15 May 2024 18:09:08 GMT</pubDate>
     </item>
     <item>
-      <title>科技巨头将东南亚视为下一件大事</title>
-      <link>https://www.bloomberg.com/news/articles/2024-05-11/tech-giants-start-to-treat-southeast-asia-like-next-big-thing</link>
-      <description><![CDATA[彭博社东南亚正在吸引比以往更多的科技投资。随着中国对美国公司变得更加敌视，而印度在政治上也更加难以驾驭，科技公司正在关注东南亚有利于商业的政权。随着人工智能的出现促使科技领导者寻求新的增长来源，全球最大的公司将在未来几年内在数据中心上花费高达 600 亿美元，以满足东南亚年轻人口的需求。 摘自《科技巨头对待东南亚就像下一件大事》
-彭博社 (05/10/24) Olivia Poh；苏瓦什里·戈什 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-05-11/tech-giants-start-to-treat-southeast-asia-like-next-big-thing</guid>
-      <pubDate>Mon, 13 May 2024 15:08:08 GMT</pubDate>
+      <title>研究发现女性健康应用程序滥用高度敏感数据</title>
+      <link>https://www.kcl.ac.uk/news/female-health-apps-misuse-highly-sensitive-data-study-finds</link>
+      <description><![CDATA[伦敦国王学院（英国）英国伦敦国王学院和伦敦大学学院的研究人员对英国和美国 Google Play 商店中 20 款流行的女性健康监测应用程序的隐私实践进行了研究，结果发现：许多公司的数据处理做法不佳，导致用户容易遭受隐私和安全风险。研究人员发现，处理医疗和生育数据的应用程序会说服用户输入敏感数据，这些数据可能会被执法或安全部门访问。 摘自“研究发现，女性健康应用程序滥用高度敏感数据”
+伦敦国王学院（英国）(05/13/24) 查看全文]]></description>
+      <guid>https://www.kcl.ac.uk/news/female-health-apps-misuse-highly-sensitive-data-study-finds</guid>
+      <pubDate>Wed, 15 May 2024 18:09:08 GMT</pubDate>
     </item>
     <item>
-      <title>日本团队利用超级计算机开发LLM</title>
-      <link>https://www.japantimes.co.jp/news/2024/05/11/japan/ai-fugaku-language-model-japanese/</link>
-      <description><![CDATA[日本时报日本的一组研究人员利用富士通和理研研究所联合开发的日本超级计算机 Fugaku 开发了大型语言模型（LLM）。 Fugaku-LLM 模型经过广泛的日语数据训练，有望引领针对国内需求的生成式人工智能研究。摘自“日本团队使用超级计算机开发 LLM”
-日本时报 (05/11/24) 查看全文]]></description>
-      <guid>https://www.japantimes.co.jp/news/2024/05/11/japan/ai-fugaku-language-model-japanese/</guid>
-      <pubDate>Mon, 13 May 2024 15:08:08 GMT</pubDate>
+      <title>全球芯片大战加剧，补贴激增 810 亿美元</title>
+      <link>https://www.bloomberg.com/news/features/2024-05-12/chip-technology-spending-gets-81-billion-boost-in-china-rivalry</link>
+      <description><![CDATA[彭博社美国、欧盟、印度、沙特阿拉伯和日本等政府与中国争夺全球芯片霸主地位，在第一波半导体制造商补贴中提供了近 810 亿美元的补贴。各国政府总共承诺向英特尔和台积电等公司提供 3800 亿美元资金，用于生产下一代微处理器。摘自《810 亿美元补贴激增，全球芯片大战加剧》
+彭博社 (05/12/24) 麦肯齐·霍金斯；伊恩·金；吉莉安·多伊奇；等 查看全文]]></description>
+      <guid>https://www.bloomberg.com/news/features/2024-05-12/chip-technology-spending-gets-81-billion-boost-in-china-rivalry</guid>
+      <pubDate>Wed, 15 May 2024 18:09:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>NIST 最终确定了保护敏感信息的更新指南</title>
+      <link>https://www.nist.gov/news-events/news/2024/05/nist-finalizes-updated-guidelines-protecting-sensitive-information</link>
+      <description><![CDATA[NIST 新闻在两份新出版物中，美国国家标准与技术研究所 (NIST) 发布了最终更新指南，用于保护与联邦政府处理业务的敏感数据组织（称为受控非机密信息）。 “为了我们私营部门客户的利益，我们希望我们的指导清晰、明确，并与联邦机构使用的控制目录和评估程序紧密结合，” NIST 的罗恩·罗斯 (Ron Ross) 说道。摘自“NIST 最终确定保护敏感信息的更新指南”
+NIST 新闻 (05/14/24) 查看全文]]></description>
+      <guid>https://www.nist.gov/news-events/news/2024/05/nist-finalizes-updated-guidelines-protecting-sensitive-information</guid>
+      <pubDate>Wed, 15 May 2024 18:09:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
