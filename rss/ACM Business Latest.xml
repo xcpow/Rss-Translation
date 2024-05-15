@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Wed, 15 May 2024 18:09:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 21:07:15 GMT</lastBuildDate>
+    <item>
+      <title>准备好被情感表达的聊天机器人操纵</title>
+      <link>https://www.wired.com/story/prepare-to-get-manipulated-by-emotionally-expressive-chatbots/</link>
+      <description><![CDATA[OpenAI 新版 ChatGPT 的情感模仿可能会将人工智能助手引向一些奇怪甚至危险的方向。]]></description>
+      <guid>https://www.wired.com/story/prepare-to-get-manipulated-by-emotionally-expressive-chatbots/</guid>
+      <pubDate>Wed, 15 May 2024 19:56:27 GMT</pubDate>
+    </item>
     <item>
       <title>Deadspin 的新东家正在拥抱博彩内容，但不接受人工智能</title>
       <link>https://www.wired.com/story/deadspin-new-owners-reveal-plans-betting-content-no-ai/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[太诡异了。这是深奥的。这也是理解函数式编程的兴起和相关性的关键。]]></description>
       <guid>https://www.wired.com/story/inside-the-cult-of-the-haskell-programmer/</guid>
       <pubDate>Mon, 13 May 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找稀有比特币的时间已经不多了</title>
-      <link>https://www.wired.com/story/time-is-running-out-hunt-for-rare-bitcoin/</link>
-      <description><![CDATA[一小群收藏家正在寻找并收集价值数倍于面值的稀有比特币碎片。但他们的机会之窗正在关闭。]]></description>
-      <guid>https://www.wired.com/story/time-is-running-out-hunt-for-rare-bitcoin/</guid>
-      <pubDate>Mon, 13 May 2024 09:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
