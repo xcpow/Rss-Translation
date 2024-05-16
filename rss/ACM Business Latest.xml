@@ -4,11 +4,18 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Thu, 16 May 2024 12:13:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 15:07:16 GMT</lastBuildDate>
     <item>
-      <title>Meta 因对儿童的“成瘾”影响而面临新调查</title>
+      <title>实验室培育的肉类现已上架。但有一个问题</title>
+      <link>https://www.wired.com/story/eat-just-good-meat-singapore-cultivated-lab-grown-chicken/</link>
+      <description><![CDATA[新加坡的一家商店正在销售实验室培育的鸡肉，但它只含有 3% 的动物细胞。]]></description>
+      <guid>https://www.wired.com/story/eat-just-good-meat-singapore-cultivated-lab-grown-chicken/</guid>
+      <pubDate>Thu, 16 May 2024 12:36:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta 面临针对儿童“成瘾”影响的新调查</title>
       <link>https://www.wired.com/story/meta-faces-fresh-probe-over-addictive-effect-on-kids/</link>
-      <description><![CDATA[欧盟已对 Facebook 和 Instagram 的儿童保护措施展开调查，这是人们对未成年人使用社交媒体日益增长的担忧的一部分。]]></description>
+      <description><![CDATA[作为对未成年人使用社交媒体日益担忧的一部分，欧盟对 Facebook 和 Instagram 的儿童保护措施展开了调查。]]></description>
       <guid>https://www.wired.com/story/meta-faces-fresh-probe-over-addictive-effect-on-kids/</guid>
       <pubDate>Thu, 16 May 2024 11:09:22 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[为 ChatGPT 做好准备，变得更加情绪化。 OpenAI 展示了使聊天机器人能够进行更快速对话的升级，并展示了人工智能助手能够捕捉并表达情感线索。]]></description>
       <guid>https://www.wired.com/story/openai-gpt-4o-model-gives-chatgpt-a-snappy-flirty-upgrade/</guid>
       <pubDate>Mon, 13 May 2024 18:35:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>23 亿美元的龙卷风现金案是加密隐私的关键时刻</title>
-      <link>https://www.wired.com/story/tornado-cash-money-laundering-case-crypto-privacy/</link>
-      <description><![CDATA[周二对加密隐私服务 Tornado Cash 创始人 Alexey Pertsev 的审判的判决是一系列案件中的第一起，这可能会让规避金融监管变得更加困难。]]></description>
-      <guid>https://www.wired.com/story/tornado-cash-money-laundering-case-crypto-privacy/</guid>
-      <pubDate>Mon, 13 May 2024 14:12:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
