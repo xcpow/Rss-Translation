@@ -4,102 +4,110 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Wed, 15 May 2024 18:09:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 15:07:44 GMT</lastBuildDate>
     <item>
-      <title>中国创造了有史以来最大的量子计算芯片</title>
-      <link>https://www.livescience.com/technology/computing/china-creates-its-largest-ever-quantum-chip-and-it-could-be-key-to-building-the-nations-own-quantum-cloud</link>
-      <description><![CDATA[生活科学中国科学院量子信息与量子物理卓越中心研究人员研制出504量子比特的量子计算芯片。小红芯片是中国研究人员迄今为止制造的最大芯片，将由中国量子计算公司国盾量子和中国电信量子集团的研究人员集成到新型量子计算机中。全球研究人员将通过新的量子计算云平台访问该系统。摘自《中国创造有史以来最大的量子计算芯片》
-LiveScience (05/13/24) 欧文·休斯 查看全文]]></description>
-      <guid>https://www.livescience.com/technology/computing/china-creates-its-largest-ever-quantum-chip-and-it-could-be-key-to-building-the-nations-own-quantum-cloud</guid>
-      <pubDate>Wed, 15 May 2024 18:09:12 GMT</pubDate>
+      <title>3D 打印为个性化医疗铺平道路</title>
+      <link>https://www.nottingham.ac.uk/news/an-easy-pill-to-swallow-new-3d-printing-research-paves-way-for-personalised-medication</link>
+      <description><![CDATA[诺丁汉大学（英国）英国诺丁汉大学研究人员开发的一种 3D 打印技术可以通过将多种药物组合在一个定制药片中，为个性化医疗铺平道路。根据平板电脑的设计，药物将以受控的速率释放。该技术名为多材料喷墨 3D 打印 (MM-IJ3DP)，使用基于对紫外线敏感的分子的墨水配方，并在打印时形成水溶性结构。摘自“3D 打印”为个性化用药铺平道路”
+诺丁汉大学（英国）（05/14/24） 查看全文]]></description>
+      <guid>https://www.nottingham.ac.uk/news/an-easy-pill-to-swallow-new-3d-printing-research-paves-way-for-personalised-medication</guid>
+      <pubDate>Fri, 17 May 2024 15:07:43 GMT</pubDate>
     </item>
     <item>
-      <title>无人机播种试图阻止科索沃森林砍伐</title>
-      <link>https://www.reuters.com/business/environment/seed-dropping-drones-seek-halt-kosovos-deforestation-2024-05-14/</link>
-      <description><![CDATA[路透社科索沃非营利可持续发展领导组织与克罗地亚公司 Project 02 合作，利用无人机投放种子，以对抗科索沃的森林砍伐。每次飞行，无人机都会装满约 100 个由种子组成的黑球，周围混合着粘土、沙子、富含矿物质的废弃生物质以及其他保护种子免受昆虫和啮齿动物侵害的成分。无人机可在两小时内播种一公顷（约 2.5 英亩）。摘自“播种无人机寻求阻止科索沃的森林砍伐”
-路透社 (05/14/24) Fatos Bytyci 查看全文]]></description>
-      <guid>https://www.reuters.com/business/environment/seed-dropping-drones-seek-halt-kosovos-deforestation-2024-05-14/</guid>
-      <pubDate>Wed, 15 May 2024 18:09:11 GMT</pubDate>
+      <title>阿联酋发布人工智能模型与大型科技公司竞争</title>
+      <link>https://www.reuters.com/technology/uae-releases-new-ai-model-compete-with-big-tech-2024-05-13/</link>
+      <description><![CDATA[路透社阿布扎比先进技术研究委员会下属的政府研究中心技术创新研究所发布了其开源生成人工智能模型 Falcon 2 系列。其中包括 Falcon 2 11B（一种基于文本的模型）和 Falcon 2 11B VLM（一种视觉到语言模型，能够生成上传图像的文本描述）。摘自“阿联酋发布 AI 模型”与大型科技公司竞争”
+路透社 (05/13/24) 亚历山大·康威尔 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/uae-releases-new-ai-model-compete-with-big-tech-2024-05-13/</guid>
+      <pubDate>Fri, 17 May 2024 15:07:43 GMT</pubDate>
     </item>
     <item>
-      <title>GhostStripe 攻击困扰自动驾驶汽车</title>
-      <link>https://www.theregister.com/2024/05/10/baidu_apollo_hack/</link>
-      <description><![CDATA[The Register（英国）新加坡和美国的研究人员揭露了一种利用自动驾驶汽车中的互补金属氧化物半导体 (CMOS) 摄像头传感器进行的攻击，阻止其识别路标。 GhostStripe 攻击使用 LED 在路标上发出光图案，从而阻止车辆的机器学习软件读取它们。在标牌上快速闪烁不同的颜色会滥用传感器的滚动数字快门，从而扭曲摄像机捕获的每一帧。来自“GhostStripe Attack Haunts Self-Driving Cars”
-The Register（英国）(05/10/24) Laura Dobberstein]]></description>
-      <guid>https://www.theregister.com/2024/05/10/baidu_apollo_hack/</guid>
-      <pubDate>Wed, 15 May 2024 18:09:11 GMT</pubDate>
+      <title>美国政府彻底改革其在线表现</title>
+      <link>https://www.fastcompany.com/91121102/us-government-websites-rebrand</link>
+      <description><![CDATA[Fast Company美国政府正在更新 10,000 多个网页，以使其更易于使用。访问量最大的页面将首先更新，重点是视觉设计、内容和搜索引擎优化 (SEO) 改进。据白宫称，截至去年 9 月，45% 的联邦网站不适合移动设备，60% 可能存在可访问性问题，80% 没有使用美国网页设计系统代码，该设计系统旨在创建具有凝聚力的外观和用户友好的体验。摘自“美国政府改革其在线表现”
+Fast Company (05/13/24) Hunter Schwarz 查看全文&lt; /a&gt;]]></description>
+      <guid>https://www.fastcompany.com/91121102/us-government-websites-rebrand</guid>
+      <pubDate>Fri, 17 May 2024 15:07:42 GMT</pubDate>
     </item>
     <item>
-      <title>为什么世界各地的抗议者要求暂停人工智能开发</title>
-      <link>https://time.com/6977680/ai-protests-international/</link>
-      <description><![CDATA[时代参与“暂停人工智能”运动的抗议者周一参加了13个国家的抗议活动，呼吁政府对人工智能公司进行监管，并冻结新人工智能模型的开发，直到公司同意彻底的安全测试。专家们并不了解 ChatGPT 等人工智能系统的内部运作原理，他们担心缺乏知识可能会导致我们严重错误地估计更强大的系统将如何行动。摘自《为什么世界各地的抗议者都在抗议》要求暂停人工智能开发”
-时间 (05/13/24) 安娜·戈登 查看全文]]></description>
-      <guid>https://time.com/6977680/ai-protests-international/</guid>
-      <pubDate>Wed, 15 May 2024 18:09:11 GMT</pubDate>
+      <title>量子互联网日益临近</title>
+      <link>https://www.newscientist.com/article/2431464-quantum-internet-draws-near-thanks-to-entangled-memory-breakthroughs/</link>
+      <description><![CDATA[新科学家哈佛大学的研究人员组装了一个横跨马萨诸塞州波士顿、横跨 35 公里的量子网络。该网络由两个节点组成，两个节点被光纤环隔开，每个节点都有一种带有原子大小孔的钻石。与此同时，中国科学技术大学的研究人员将三个相距约10公里的节点纠缠在一起。研究人员利用过冷铷原子云产生纠缠光子，实现了 100 微秒的存储时间。摘自《量子互联网更近了》
+新科学家 (05/15/24) Alex Wilkins 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.newscientist.com/article/2431464-quantum-internet-draws-near-thanks-to-entangled-memory-breakthroughs/</guid>
+      <pubDate>Fri, 17 May 2024 15:07:42 GMT</pubDate>
     </item>
     <item>
-      <title>疾病夺走了她的声音。人工智能创建了她手机中携带的复制品</title>
-      <link>https://apnews.com/article/ai-recreating-lost-voice-illness-a6512c33481072c22182c116d2cbe419</link>
-      <description><![CDATA[美联社亚历克西斯·“莱西”·博根（如图）在切除大脑后部的肿瘤后，言语仍然受到损害，但通过罗德岛州 OpenAI 语音引擎的试点版本，她恢复了声音医院。人工智能接受了她青少年时期 15 秒声音片段的训练，可以大声朗读她在手机应用程序中输入的任何内容。 Fatima Mirza 博士说，“我们能够帮助 Lexi 找回她真实的声音，她能够用最真实的语言说话。”摘自《疾病》人工智能夺走了她的声音，在她的手机中创建了一个复制品”
-美联社 (05/13/24) 马特·奥布莱恩 查看全文]]></description>
-      <guid>https://apnews.com/article/ai-recreating-lost-voice-illness-a6512c33481072c22182c116d2cbe419</guid>
-      <pubDate>Wed, 15 May 2024 18:09:10 GMT</pubDate>
+      <title>各州利用人工智能来发现学校的枪支</title>
+      <link>https://apnews.com/article/school-safety-guns-artificial-intelligence-legislation-336b9ec34df538d93d4f06e34b11c9b1</link>
+      <description><![CDATA[美联社一些州已出台立法，为学校制定拨款计划，以支持安装和使用能够检测携带枪支的人工智能监控系统。堪萨斯州悬而未决的立法引起了人们的关注，因为它要求人工智能软件获得专利，并在至少 30 个州使用，以及其他标准，而只有 ZeroEyes（向立法者宣传该标准的同一家公司）满足所有强制性规范。周五，密苏里州成为最新一个通过针对 ZeroEyes 立法的州。摘自“各州转向人工智能在学校发现枪支”
+美联社 (05/12/24) David A. Lieb；约翰·汉纳 查看全文]]></description>
+      <guid>https://apnews.com/article/school-safety-guns-artificial-intelligence-legislation-336b9ec34df538d93d4f06e34b11c9b1</guid>
+      <pubDate>Fri, 17 May 2024 15:07:41 GMT</pubDate>
     </item>
     <item>
-      <title>Zuse 的 Z3，世界上第一台可编程计算机</title>
-      <link>https://www.thehindu.com/children/zuses-z3-the-worlds-first-programmable-computer/article68124622.ece</link>
-      <description><![CDATA[《印度教徒报》（印度）5 月 12 日是 Z3 诞生 83 周年纪念日，Z3 是世界上第一台全功能、图灵完备的可编程计算机，由德国工程师康拉德 (Konrad) 揭幕1941 年的 Zuse。原始图灵完备的 Z3 在 1943 年柏林的一次爆炸中被毁，但 Zuse 在 20 世纪 60 年代重建的复制品（上图）正在慕尼黑博物馆展出。来自“Zuse&#39;s Z3，世界上第一台可编程计算机”
-印度教徒（印度） (05/12/24) A.S. Ganesh 查看全文&lt; /a&gt;]]></description>
-      <guid>https://www.thehindu.com/children/zuses-z3-the-worlds-first-programmable-computer/article68124622.ece</guid>
-      <pubDate>Wed, 15 May 2024 18:09:10 GMT</pubDate>
+      <title>BCI 实时解码大脑中“说出”的单词</title>
+      <link>https://medicalxpress.com/news/2024-05-braincomputer-interface-decode-words-spoken.html</link>
+      <description><![CDATA[Medical Xpress加州理工学院研究人员开发的脑机接口（BCI）记录来自单个神经元的信号，以实时解码大脑中“说出”的单词。 BCI 经过训练，可以识别 6 个测试词和 2 个没有意义的控制词的大脑信号，在两名脊髓损伤的参与者中进行了测试，其中一名患者的准确率为 79%，另一名患者的准确率为 23%。摘自“BCI 实时解码大脑中‘说出’的单词”
+Medical Xpress (05/14/24) Bob Yirka 查看全文]]></description>
+      <guid>https://medicalxpress.com/news/2024-05-braincomputer-interface-decode-words-spoken.html</guid>
+      <pubDate>Fri, 17 May 2024 15:07:41 GMT</pubDate>
     </item>
     <item>
-      <title>太阳风暴导致一些农民使用的 GPS 系统崩溃</title>
-      <link>https://www.nytimes.com/2024/05/13/us/solar-storm-tractor-break-nebraska.html</link>
-      <description><![CDATA[《纽约时报》由于最近的地磁风暴，美国和加拿大的一些农民无法使用拖拉机和其他设备，这是自 2003 年 10 月以来到达地球的最强磁暴。GPS 和其他导航设备中断与太阳风暴相关的技术扰乱了一些农民在种植季节高峰期的作业。堪萨斯州立大学的特里·格里芬 (Terry Griffin) 表示，此类风暴对美国的农业构成威胁，因为美国的大部分农作物都是使用现代制导系统种植的。摘自“太阳风暴破坏了一些人使用的 GPS 系统”农民”
-纽约时报 (05/13/24) Livia Albeck-Ripka 查看完整文章 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/05/13/us/solar-storm-tractor-break-nebraska.html</guid>
-      <pubDate>Wed, 15 May 2024 18:09:09 GMT</pubDate>
+      <title>欧盟调查社交媒体对儿童成瘾影响的元数据</title>
+      <link>https://www.nytimes.com/2024/05/16/business/eu-investigation-children-social-media-addiction-instagram-facebook.html</link>
+      <description><![CDATA[《纽约时报》欧盟监管机构周四对 Meta 展开调查，调查其 Instagram 和 Facebook 平台对儿童的潜在成瘾影响。 Meta 的产品可能会“利用未成年人的弱点和缺乏经验”。根据欧盟委员会的一份声明，造成威胁他们心理健康的行为依赖。这些调查是世界各国政府不断努力控制社交媒体平台以保护未成年人的一部分。摘自“欧盟调查社交媒体对儿童的成瘾影响”
+纽约时报 (05/16/24) Adam Satariano 查看全文 - 可能需要免费注册]]></description>
+      <guid>https://www.nytimes.com/2024/05/16/business/eu-investigation-children-social-media-addiction-instagram-facebook.html</guid>
+      <pubDate>Fri, 17 May 2024 15:07:41 GMT</pubDate>
     </item>
     <item>
-      <title>高爆炸药的制造优化设计</title>
-      <link>https://www.llnl.gov/article/51226/manufacturing-optimized-designs-high-explosives</link>
-      <description><![CDATA[劳伦斯利弗莫尔国家实验室劳伦斯利弗莫尔国家实验室的研究人员使用人工智能和机器学习来开发聚能炸药的计算优化设计，这些炸药用于操纵金属，以控制其流体动力学不稳定性。研究人员进行了 14 次高爆 (HE) 爆炸实验，将结果与衬管和 HE 之间不包含缓冲器的基线设计进行了比较。闪光 X 射线照片显示硅树脂缓冲剂可靠且一致地减轻了潜在的不稳定性。摘自“高爆炸物制造优化设计”
-劳伦斯利弗莫尔国家实验室 (05/13/24) 谢尔比康涅狄格州 查看全文]]></description>
-      <guid>https://www.llnl.gov/article/51226/manufacturing-optimized-designs-high-explosives</guid>
-      <pubDate>Wed, 15 May 2024 18:09:09 GMT</pubDate>
+      <title>Raspberry Pi 上市以扩大微型计算机的范围</title>
+      <link>https://www.theverge.com/2024/5/15/24157355/raspberry-pi-public-ipo-announcement</link>
+      <description><![CDATA[The Verge英国小型计算机制造商 Raspberry Pi 宣布计划申请在英国上市。该公司表示，首次公开募股将使其能够雇用更多工程师，将部分半导体工艺引入内部，并扩大其产品线。 Raspberry Pi 首席执行官兼创始人 Eben Upton 表示，该公司现在拥​​有“技术路线图，将在计算行业发挥越来越重要的作用”。摘自“Raspberry Pi 上市以扩大微型计算机的范围”&lt; br/&gt;
+The Verge (05/15/24) Jess Weatherbed 查看全文]]></description>
+      <guid>https://www.theverge.com/2024/5/15/24157355/raspberry-pi-public-ipo-announcement</guid>
+      <pubDate>Fri, 17 May 2024 15:07:40 GMT</pubDate>
     </item>
     <item>
-      <title>超级计算机再夺冠军，Infiniband 超越以太网，Linux 称霸</title>
-      <link>https://www.sdxcentral.com/articles/news/supercomputer-champ-repeats-infiniband-tops-ethernet-and-linux-dominates/2024/05/</link>
-      <description><![CDATA[SDxCentral橡树岭国家实验室的 Frontier 超级计算机再次在新的全球最强大超级计算机 500 强排行榜中排名第一。美国拥有最多的上榜系统（171 个），其中包括阿贡国家实验室的 Aurora 超级计算机。在超级计算机网络技术方面，500 强榜单中近一半的系统（47.8%，239 个系统）使用了 Infiniband，而以太网的使用率为 39%（195 个系统）。摘自《超级计算机》冠军重演，Infiniband 超越以太网，Linux 称霸”
-SDxCentral (05/13/24) Sean Michael Kerner 查看全文]]></description>
-      <guid>https://www.sdxcentral.com/articles/news/supercomputer-champ-repeats-infiniband-tops-ethernet-and-linux-dominates/2024/05/</guid>
-      <pubDate>Wed, 15 May 2024 18:09:08 GMT</pubDate>
+      <title>研究人员智胜瑞士旅行应用程序 EasyRide 功能</title>
+      <link>https://ethz.ch/en/news-and-events/eth-news/news/2024/05/researchers-outsmarted-easyride-function-on-swiss-travel-app.html</link>
+      <description><![CDATA[苏黎世联邦理工学院（瑞士）瑞士联邦铁路（SBB）应用程序EasyRide功能存在缺陷，可被利用以允许乘客免费乘车。 EasyRide 允许用户在智能手机上向一个方向滑动即可开始旅程，并在到达目的地时向另一个方向滑动。该应用程序在旅途中将位置数据传输到 SBB 服务器，以计算乘客的路线并向他们收取票价。瑞士苏黎世联邦理工学院的研究人员能够通过操纵智能手机的位置数据来欺骗该应用程序。来自“研究人员智胜瑞士旅行应用程序上的 EasyRide 功能”
+苏黎世联邦理工学院（瑞士）（05/15/24）Fabio Bergamin 查看全文]]></description>
+      <guid>https://ethz.ch/en/news-and-events/eth-news/news/2024/05/researchers-outsmarted-easyride-function-on-swiss-travel-app.html</guid>
+      <pubDate>Fri, 17 May 2024 15:07:40 GMT</pubDate>
     </item>
     <item>
-      <title>研究发现女性健康应用程序滥用高度敏感数据</title>
-      <link>https://www.kcl.ac.uk/news/female-health-apps-misuse-highly-sensitive-data-study-finds</link>
-      <description><![CDATA[伦敦国王学院（英国）英国伦敦国王学院和伦敦大学学院的研究人员对英国和美国 Google Play 商店中 20 款流行的女性健康监测应用程序的隐私实践进行了研究，结果发现：许多公司的数据处理做法不佳，导致用户容易遭受隐私和安全风险。研究人员发现，处理医疗和生育数据的应用程序会说服用户输入敏感数据，这些数据可能会被执法或安全部门访问。 摘自“研究发现，女性健康应用程序滥用高度敏感数据”
-伦敦国王学院（英国）(05/13/24) 查看全文]]></description>
-      <guid>https://www.kcl.ac.uk/news/female-health-apps-misuse-highly-sensitive-data-study-finds</guid>
-      <pubDate>Wed, 15 May 2024 18:09:08 GMT</pubDate>
+      <title>水下数据中心容易受到巨大噪音的影响</title>
+      <link>https://www.newscientist.com/article/2430616-underwater-data-centres-could-be-destroyed-by-loud-noises/</link>
+      <description><![CDATA[新科学家佛罗里达大学的研究人员发现声振动可能会破坏水下数据中心。在对放置在水下的金属外壳中的计算机服务器机架进行的测试中，发现 5KHz 的声音会扰乱 6 米多外的计算机驱动器操作。佛罗里达大学的 Sara Rampazzi 解释说：“如果这只是拒绝服务攻击，则可能需要几秒钟的时间，具体取决于声音信号的强度。但是发出声音的时间越长，对计算机的损坏就越大存储设备。”来自“易受大声噪音影响的水下数据中心”
+新科学家 (05/14/24) Jeremy Hsu 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.newscientist.com/article/2430616-underwater-data-centres-could-be-destroyed-by-loud-noises/</guid>
+      <pubDate>Fri, 17 May 2024 15:07:39 GMT</pubDate>
     </item>
     <item>
-      <title>全球芯片大战加剧，补贴激增 810 亿美元</title>
-      <link>https://www.bloomberg.com/news/features/2024-05-12/chip-technology-spending-gets-81-billion-boost-in-china-rivalry</link>
-      <description><![CDATA[彭博社美国、欧盟、印度、沙特阿拉伯和日本等政府与中国争夺全球芯片霸主地位，在第一波半导体制造商补贴中提供了近 810 亿美元的补贴。各国政府总共承诺向英特尔和台积电等公司提供 3800 亿美元资金，用于生产下一代微处理器。摘自《810 亿美元补贴激增，全球芯片大战加剧》
-彭博社 (05/12/24) 麦肯齐·霍金斯；伊恩·金；吉莉安·多伊奇；等 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/features/2024-05-12/chip-technology-spending-gets-81-billion-boost-in-china-rivalry</guid>
-      <pubDate>Wed, 15 May 2024 18:09:07 GMT</pubDate>
+      <title>受昆虫启发的机器人眼睛提供 220 度视野和运动跟踪</title>
+      <link>https://interestingengineering.com/innovation/robot-eye-ultra-wide-view</link>
+      <description><![CDATA[有趣的工程香港科技大学研究人员开发的机械眼具有运动追踪能力和广阔的视野。这种受昆虫启发的复眼由 3D 打印的针孔蜂窝光学结构和半球形高密度钙钛矿纳米线检测阵列组成。研究人员将复眼集成到飞行器中，并用它来跟踪地面四足机器人。摘自《昆虫启发机器人眼提供 220 度视野、运动跟踪》
+有趣的工程 (05/16/24) Jijomaleil 查看全文&lt; /a&gt;]]></description>
+      <guid>https://interestingengineering.com/innovation/robot-eye-ultra-wide-view</guid>
+      <pubDate>Fri, 17 May 2024 15:07:39 GMT</pubDate>
     </item>
     <item>
-      <title>NIST 最终确定了保护敏感信息的更新指南</title>
-      <link>https://www.nist.gov/news-events/news/2024/05/nist-finalizes-updated-guidelines-protecting-sensitive-information</link>
-      <description><![CDATA[NIST 新闻在两份新出版物中，美国国家标准与技术研究所 (NIST) 发布了最终更新指南，用于保护与联邦政府处理业务的敏感数据组织（称为受控非机密信息）。 “为了我们私营部门客户的利益，我们希望我们的指导清晰、明确，并与联邦机构使用的控制目录和评估程序紧密结合，” NIST 的罗恩·罗斯 (Ron Ross) 说道。摘自“NIST 最终确定保护敏感信息的更新指南”
-NIST 新闻 (05/14/24) 查看全文]]></description>
-      <guid>https://www.nist.gov/news-events/news/2024/05/nist-finalizes-updated-guidelines-protecting-sensitive-information</guid>
-      <pubDate>Wed, 15 May 2024 18:09:07 GMT</pubDate>
+      <title>ACM、CSTA 宣布 2023-24 年卡特勒贝尔学生获奖者</title>
+      <link>https://www.acm.org/media-center/2024/may/cutler-bell-prize-2023</link>
+      <description><![CDATA[ACM 新闻稿ACM 和计算机科学教师协会 (CSTA) 宣布了高中计算卡特勒-贝尔奖获得者：德克萨斯州弗里斯科 Reedy 高中的 Shobhit Agarwal；弗吉尼亚州 Cave Spring 隐谷高中的 Franziska Borneff；马里兰州普尔斯维尔普尔斯维尔高中的 Daniel Mathew 和华盛顿州贝尔维尤贝尔维尤高中的 Kosha Upadhyay。 ACM 主席 Yannis Ioannidis 表示：“该奖项不仅鼓励学生学习新知识和掌握技能，而且鼓励他们成为发明家。”摘自“ACM、CSTA 公布 2023 年 – 24 届卡特勒-贝尔学生获奖者” 
+ACM 新闻稿 (05/15/24) 查看全文]]></description>
+      <guid>https://www.acm.org/media-center/2024/may/cutler-bell-prize-2023</guid>
+      <pubDate>Fri, 17 May 2024 15:07:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能项目旨在打破女学生的障碍</title>
+      <link>https://www.nytimes.com/2024/05/15/technology/ai-internships-female-students-cornell-mit-ucla.html</link>
+      <description><![CDATA[《纽约时报》“突破性技术人工智能”计划旨在帮助在公立大学主修计算机科学的低收入拉丁裔和黑人年轻女性做好从事人工智能职业的准备。该免费计划由康奈尔理工学院的教师根据科技高管的意见开发，帮助代表性不足的学生获得人工智能技能，培养行业关系，并参与有助于他们在就业市场上占据有利地位的研究项目。摘自《人工智能项目旨在打破女学生障碍》
+纽约时报 (05/15/24) 娜塔莎·辛格 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/05/15/technology/ai-internships-female-students-cornell-mit-ucla.html</guid>
+      <pubDate>Fri, 17 May 2024 15:07:38 GMT</pubDate>
     </item>
     </channel>
 </rss>

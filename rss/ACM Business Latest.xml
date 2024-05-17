@@ -4,7 +4,28 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Fri, 17 May 2024 12:12:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 15:07:48 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 的长期人工智能风险团队已解散</title>
+      <link>https://www.wired.com/story/openai-superalignment-team-disbanded/</link>
+      <description><![CDATA[《连线》杂志证实，整个 OpenAI 团队专注于人工智能的生存危险，要么辞职，要么被并入其他研究小组。]]></description>
+      <guid>https://www.wired.com/story/openai-superalignment-team-disbanded/</guid>
+      <pubDate>Fri, 17 May 2024 14:54:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Twitter 终于死了。它一路走低</title>
+      <link>https://www.wired.com/story/twitter-dead-x-elon-musk/</link>
+      <description><![CDATA[Twitter 现在完全是 X.com。考虑到埃隆·马斯克收购后它的转变，这可能是一个小小的怜悯。]]></description>
+      <guid>https://www.wired.com/story/twitter-dead-x-elon-musk/</guid>
+      <pubDate>Fri, 17 May 2024 14:13:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>是时候相信人工智能的炒作了</title>
+      <link>https://www.wired.com/story/its-time-to-believe-the-ai-hype/</link>
+      <description><![CDATA[一些专家认为生成式人工智能不再变得更聪明。本周开始，OpenAI 和谷歌的爆炸性演示表明，未来还会有更多的颠覆。]]></description>
+      <guid>https://www.wired.com/story/its-time-to-believe-the-ai-hype/</guid>
+      <pubDate>Fri, 17 May 2024 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>特斯拉备受争议的工厂扩建获得批准</title>
       <link>https://www.wired.com/story/teslas-controversial-factory-expansion-is-approved/</link>
@@ -15,7 +36,7 @@
     <item>
       <title>实验室培育的肉类现已上架。但有一个问题</title>
       <link>https://www.wired.com/story/eat-just-good-meat-singapore-cultivated-lab-grown-chicken/</link>
-      <description><![CDATA[新加坡的一家商店正在出售实验室培育的鸡，但其中仅含有 3% 的动物细胞。]]></description>
+      <description><![CDATA[新加坡的一家商店正在销售实验室培育的鸡肉，但它只含有 3% 的动物细胞。]]></description>
       <guid>https://www.wired.com/story/eat-just-good-meat-singapore-cultivated-lab-grown-chicken/</guid>
       <pubDate>Thu, 16 May 2024 12:36:10 GMT</pubDate>
     </item>
@@ -34,7 +55,7 @@
       <pubDate>Thu, 16 May 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>准备好被情感表达的聊天机器人操纵</title>
+      <title>准备好被情感丰富的聊天机器人操纵吧</title>
       <link>https://www.wired.com/story/prepare-to-get-manipulated-by-emotionally-expressive-chatbots/</link>
       <description><![CDATA[OpenAI 新版 ChatGPT 的情感模仿可能会引导人工智能助手走向一些奇怪甚至危险的方向。]]></description>
       <guid>https://www.wired.com/story/prepare-to-get-manipulated-by-emotionally-expressive-chatbots/</guid>
@@ -50,7 +71,7 @@
     <item>
       <title>我以秘密粉丝闲聊的身份卧底。这并不漂亮</title>
       <link>https://www.wired.com/story/i-went-undercover-secret-onlyfans-chatter-wasnt-pretty/</link>
-      <description><![CDATA[你的网红女友实际上是轮流的低薪工人。我成为了他们中的一员。]]></description>
+      <description><![CDATA[你的网红女友其实是一群轮流打工的低薪工人。我也成了其中一员。]]></description>
       <guid>https://www.wired.com/story/i-went-undercover-secret-onlyfans-chatter-wasnt-pretty/</guid>
       <pubDate>Wed, 15 May 2024 10:00:00 GMT</pubDate>
     </item>
@@ -64,7 +85,7 @@
     <item>
       <title>拜登正试图通过对中国征收新关税来为电动汽车赢得时间。它可能不起作用</title>
       <link>https://www.wired.com/story/new-ev-china-tariffs-biden/</link>
-      <description><![CDATA[美国目前对中国电动汽车征收 100% 的关税，但由于美国汽车制造商竞争激烈，且依赖中国原材料，这会有所帮助吗？梅赛德斯、宝马和大众认为不会。]]></description>
+      <description><![CDATA[美国现在对中国电动汽车征收100%的关税，但由于美国汽车制造商在竞争中举步维艰，而且对中国材料的依赖，这会有帮助吗？梅赛德斯、宝马和大众不这么认为。]]></description>
       <guid>https://www.wired.com/story/new-ev-china-tariffs-biden/</guid>
       <pubDate>Tue, 14 May 2024 20:11:43 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[谷歌全新的语音操作人工智能助手 Astra 可以理解手机摄像头所看到的内容。该消息是在 OpenAI 透露 ChatGPT 类似愿景的一天后宣布的。]]></description>
       <guid>https://www.wired.com/story/google-io-astra-multimodal-answer-chatgpt/</guid>
       <pubDate>Tue, 14 May 2024 17:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tornado Cash 开发商被发现洗钱 12 亿美元</title>
-      <link>https://www.wired.com/story/tornado-cash-developer-found-guilty-of-laundering-crypto/</link>
-      <description><![CDATA[加密匿名工具的联合创始人阿列克谢·佩尔采夫 (Alexey Pertsev) 已被判处五年以上监禁。]]></description>
-      <guid>https://www.wired.com/story/tornado-cash-developer-found-guilty-of-laundering-crypto/</guid>
-      <pubDate>Tue, 14 May 2024 12:34:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>生成式人工智能是完全无耻的。我想成为它</title>
-      <link>https://www.wired.com/story/generative-ai-totally-shameless/</link>
-      <description><![CDATA[像 ChatGPT 这样的烧脑软件最棒的地方是什么？它并不感到悔恨。]]></description>
-      <guid>https://www.wired.com/story/generative-ai-totally-shameless/</guid>
-      <pubDate>Tue, 14 May 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>抗议者正在努力阻止人工智能，但他们对于如何做到这一点存在分歧</title>
-      <link>https://www.wired.com/story/protesters-pause-ai-split-stop/</link>
-      <description><![CDATA[PauseAI 抗议活动正在伦敦、纽约、旧金山和全球各地进行。其成员对于该组织下一步应该做什么有着截然不同的看法。]]></description>
-      <guid>https://www.wired.com/story/protesters-pause-ai-split-stop/</guid>
-      <pubDate>Mon, 13 May 2024 19:36:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
