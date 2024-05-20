@@ -4,110 +4,102 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Fri, 17 May 2024 15:07:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 18:09:33 GMT</lastBuildDate>
     <item>
-      <title>3D 打印为个性化医疗铺平道路</title>
-      <link>https://www.nottingham.ac.uk/news/an-easy-pill-to-swallow-new-3d-printing-research-paves-way-for-personalised-medication</link>
-      <description><![CDATA[诺丁汉大学（英国）英国诺丁汉大学研究人员开发的一种 3D 打印技术可以通过将多种药物组合在一个定制药片中，为个性化医疗铺平道路。根据平板电脑的设计，药物将以受控的速率释放。该技术名为多材料喷墨 3D 打印 (MM-IJ3DP)，使用基于对紫外线敏感的分子的墨水配方，并在打印时形成水溶性结构。摘自“3D 打印”为个性化用药铺平道路”
-诺丁汉大学（英国）（05/14/24） 查看全文]]></description>
-      <guid>https://www.nottingham.ac.uk/news/an-easy-pill-to-swallow-new-3d-printing-research-paves-way-for-personalised-medication</guid>
-      <pubDate>Fri, 17 May 2024 15:07:43 GMT</pubDate>
+      <title>在人工智能的帮助下解码猩猩独特的叫声</title>
+      <link>https://www.popsci.com/environment/orangutan-communication-ai/</link>
+      <description><![CDATA[科普康奈尔大学研究人员使用人工智能解码猩猩的长叫声。研究人员利用机器学习分析了 13 只猩猩长叫声的视频和音频记录，目的是确定它们在发声中可以找到多少种脉冲类型、它们的显着特征和层次。康奈尔大学的 Wendy Erb 说：“通过结合监督和非监督分析方法，我们确定了人类和机器都能很好地区分的三种不同的脉冲类型。”来自“借助帮助解码猩猩的独特叫声”来自人工智能”
+科普 (05/14/24) Laura Baisas 查看全文]]></description>
+      <guid>https://www.popsci.com/environment/orangutan-communication-ai/</guid>
+      <pubDate>Mon, 20 May 2024 18:09:33 GMT</pubDate>
     </item>
     <item>
-      <title>阿联酋发布人工智能模型与大型科技公司竞争</title>
-      <link>https://www.reuters.com/technology/uae-releases-new-ai-model-compete-with-big-tech-2024-05-13/</link>
-      <description><![CDATA[路透社阿布扎比先进技术研究委员会下属的政府研究中心技术创新研究所发布了其开源生成人工智能模型 Falcon 2 系列。其中包括 Falcon 2 11B（一种基于文本的模型）和 Falcon 2 11B VLM（一种视觉到语言模型，能够生成上传图像的文本描述）。摘自“阿联酋发布 AI 模型”与大型科技公司竞争”
-路透社 (05/13/24) 亚历山大·康威尔 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/uae-releases-new-ai-model-compete-with-big-tech-2024-05-13/</guid>
-      <pubDate>Fri, 17 May 2024 15:07:43 GMT</pubDate>
+      <title>学生利用 ETH 区块链漏洞在几秒钟内窃取了 2500 万美元</title>
+      <link>https://arstechnica.com/tech-policy/2024/05/sophisticated-25m-ethereum-heist-took-about-12-seconds-doj-says/</link>
+      <description><![CDATA[Ars Technica美国司法部起诉两名麻省理工学院学生，涉嫌篡改以太坊区块链，在短短 12 秒内窃取了 2500 万美元的加密货币。该计划利用了交易执行后、添加到区块链之前的流程中的漏洞。它涉及通过空壳公司和外汇创建一系列以太坊验证器，并部署“诱饵交易”来吸引买家和卖家使用的专门机器人来识别利润丰厚的前景。来自“学生在几秒钟内偷走了 2500 万美元”通过利用 ETH 区块链漏洞”
+Ars Technica (05/15/24) Ashley Belanger 查看全文]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/05/sophisticated-25m-ethereum-heist-took-about-12-seconds-doj-says/</guid>
+      <pubDate>Mon, 20 May 2024 18:09:32 GMT</pubDate>
     </item>
     <item>
-      <title>美国政府彻底改革其在线表现</title>
-      <link>https://www.fastcompany.com/91121102/us-government-websites-rebrand</link>
-      <description><![CDATA[Fast Company美国政府正在更新 10,000 多个网页，以使其更易于使用。访问量最大的页面将首先更新，重点是视觉设计、内容和搜索引擎优化 (SEO) 改进。据白宫称，截至去年 9 月，45% 的联邦网站不适合移动设备，60% 可能存在可访问性问题，80% 没有使用美国网页设计系统代码，该设计系统旨在创建具有凝聚力的外观和用户友好的体验。摘自“美国政府改革其在线表现”
-Fast Company (05/13/24) Hunter Schwarz 查看全文&lt; /a&gt;]]></description>
-      <guid>https://www.fastcompany.com/91121102/us-government-websites-rebrand</guid>
-      <pubDate>Fri, 17 May 2024 15:07:42 GMT</pubDate>
+      <title>技术缩短了 3D 打印机器零件的精加工时间</title>
+      <link>https://news.ncsu.edu/2024/05/faster-finishing-for-3d-printed-parts/</link>
+      <description><![CDATA[北卡罗来纳州立大学新闻北卡罗来纳州立大学研究人员开发的一种 3D 打印技术提高了金属机械零件的制造效率，无需从制造设备上移除零件，即可在精加工过程中检测可能存在的缺陷。该高度自动化的系统将 3D 打印、自动加工、激光扫描和触摸感应测量技术与包含所需零件测量值的软件相结合，并引导精加工设备打磨任何不规则之处。摘自“技术缩短了 3D 打印机器零件的精加工时间”
+北卡罗来纳州立大学新闻 (05/14/24) Matt Shipman 查看全文]]></description>
+      <guid>https://news.ncsu.edu/2024/05/faster-finishing-for-3d-printed-parts/</guid>
+      <pubDate>Mon, 20 May 2024 18:09:32 GMT</pubDate>
     </item>
     <item>
-      <title>量子互联网日益临近</title>
-      <link>https://www.newscientist.com/article/2431464-quantum-internet-draws-near-thanks-to-entangled-memory-breakthroughs/</link>
-      <description><![CDATA[新科学家哈佛大学的研究人员组装了一个横跨马萨诸塞州波士顿、横跨 35 公里的量子网络。该网络由两个节点组成，两个节点被光纤环隔开，每个节点都有一种带有原子大小孔的钻石。与此同时，中国科学技术大学的研究人员将三个相距约10公里的节点纠缠在一起。研究人员利用过冷铷原子云产生纠缠光子，实现了 100 微秒的存储时间。摘自《量子互联网更近了》
-新科学家 (05/15/24) Alex Wilkins 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.newscientist.com/article/2431464-quantum-internet-draws-near-thanks-to-entangled-memory-breakthroughs/</guid>
-      <pubDate>Fri, 17 May 2024 15:07:42 GMT</pubDate>
+      <title>浏览器扩展与在线错误信息作斗争</title>
+      <link>https://news.mit.edu/2024/new-tool-trustnet-empowers-users-to-fight-online-misinformation-0516</link>
+      <description><![CDATA[麻省理工学院新闻麻省理工学院的研究人员开发了一种网络浏览器扩展程序，允许用户标记错误信息并识别可信用户以进行在线内容评估，从而帮助减少在线错误信息的传播。 Trustnet 扩展适用于社交媒体帖子、新闻聚合网站上的文章、流媒体平台上的视频以及任何其他网站内容。 Trustnet 检查用户正在阅读的网页上的所有链接，在受信任来源评估过的链接旁边放置指示器，并淡化那些确定内容不准确的文本。摘自“浏览器扩展对抗在线错误信息” “
+麻省理工学院新闻 (05/16/24) Adam Zewe 查看全文]]></description>
+      <guid>https://news.mit.edu/2024/new-tool-trustnet-empowers-users-to-fight-online-misinformation-0516</guid>
+      <pubDate>Mon, 20 May 2024 18:09:31 GMT</pubDate>
     </item>
     <item>
-      <title>各州利用人工智能来发现学校的枪支</title>
-      <link>https://apnews.com/article/school-safety-guns-artificial-intelligence-legislation-336b9ec34df538d93d4f06e34b11c9b1</link>
-      <description><![CDATA[美联社一些州已出台立法，为学校制定拨款计划，以支持安装和使用能够检测携带枪支的人工智能监控系统。堪萨斯州悬而未决的立法引起了人们的关注，因为它要求人工智能软件获得专利，并在至少 30 个州使用，以及其他标准，而只有 ZeroEyes（向立法者宣传该标准的同一家公司）满足所有强制性规范。周五，密苏里州成为最新一个通过针对 ZeroEyes 立法的州。摘自“各州转向人工智能在学校发现枪支”
-美联社 (05/12/24) David A. Lieb；约翰·汉纳 查看全文]]></description>
-      <guid>https://apnews.com/article/school-safety-guns-artificial-intelligence-legislation-336b9ec34df538d93d4f06e34b11c9b1</guid>
-      <pubDate>Fri, 17 May 2024 15:07:41 GMT</pubDate>
+      <title>Waymo 正在接受自动驾驶技术调查</title>
+      <link>https://apnews.com/article/selfdriving-vehicles-automated-government-investigations-0b43be102688f66590e6b9e76c0f5939</link>
+      <description><![CDATA[美联社美国国家公路交通安全管理局 (NHTSA) 在收到 17 起涉及 Waymo 自动驾驶车辆的事故报告和 5 起潜在违反交通法的报告后，宣布正在调查 Waymo 的自动驾驶系统。 NHTSA 还正在调查亚马逊的 Zoox 自动驾驶汽车、特斯拉和福特的部分自动驾驶辅助系统以及通用汽车的 Cruise 自动驾驶汽车部门。摘自“Waymo 正在接受自动驾驶技术调查”&lt; br/&gt;
+美联社 (05/14/24) Tom Krisher 查看全文文章]]></description>
+      <guid>https://apnews.com/article/selfdriving-vehicles-automated-government-investigations-0b43be102688f66590e6b9e76c0f5939</guid>
+      <pubDate>Mon, 20 May 2024 18:09:31 GMT</pubDate>
     </item>
     <item>
-      <title>BCI 实时解码大脑中“说出”的单词</title>
-      <link>https://medicalxpress.com/news/2024-05-braincomputer-interface-decode-words-spoken.html</link>
-      <description><![CDATA[Medical Xpress加州理工学院研究人员开发的脑机接口（BCI）记录来自单个神经元的信号，以实时解码大脑中“说出”的单词。 BCI 经过训练，可以识别 6 个测试词和 2 个没有意义的控制词的大脑信号，在两名脊髓损伤的参与者中进行了测试，其中一名患者的准确率为 79%，另一名患者的准确率为 23%。摘自“BCI 实时解码大脑中‘说出’的单词”
-Medical Xpress (05/14/24) Bob Yirka 查看全文]]></description>
-      <guid>https://medicalxpress.com/news/2024-05-braincomputer-interface-decode-words-spoken.html</guid>
-      <pubDate>Fri, 17 May 2024 15:07:41 GMT</pubDate>
+      <title>谷歌和苹果合作打击跟踪器跟踪行为</title>
+      <link>https://www.cnbc.com/2024/05/13/google-and-apple-partner-to-fight-location-tracker-stalking.html</link>
+      <description><![CDATA[CNBC为了防止位置跟踪跟踪，苹果和谷歌宣布，如果附近有无线位置跟踪设备，iPhone 和 Android 手机用户将收到警报。配备最新软件的手机将向用户显示一条消息，表明蓝牙跟踪器“发现与您一起移动”，并提供让跟踪器播放声音以便定位的选项以及禁用它的说明。由第三方公司构建的“查找我的”丢失设备跟踪器将需要这些警报。来自“Google、Apple 合作打击跟踪器跟踪”
+CNBC (05/13/24) Kif Leswing 查看全文]]></description>
+      <guid>https://www.cnbc.com/2024/05/13/google-and-apple-partner-to-fight-location-tracker-stalking.html</guid>
+      <pubDate>Mon, 20 May 2024 18:09:30 GMT</pubDate>
     </item>
     <item>
-      <title>欧盟调查社交媒体对儿童成瘾影响的元数据</title>
-      <link>https://www.nytimes.com/2024/05/16/business/eu-investigation-children-social-media-addiction-instagram-facebook.html</link>
-      <description><![CDATA[《纽约时报》欧盟监管机构周四对 Meta 展开调查，调查其 Instagram 和 Facebook 平台对儿童的潜在成瘾影响。 Meta 的产品可能会“利用未成年人的弱点和缺乏经验”。根据欧盟委员会的一份声明，造成威胁他们心理健康的行为依赖。这些调查是世界各国政府不断努力控制社交媒体平台以保护未成年人的一部分。摘自“欧盟调查社交媒体对儿童的成瘾影响”
-纽约时报 (05/16/24) Adam Satariano 查看全文 - 可能需要免费注册]]></description>
-      <guid>https://www.nytimes.com/2024/05/16/business/eu-investigation-children-social-media-addiction-instagram-facebook.html</guid>
-      <pubDate>Fri, 17 May 2024 15:07:41 GMT</pubDate>
+      <title>微软要求中国员工考虑搬迁</title>
+      <link>https://www.wsj.com/tech/ai/microsoft-asks-hundreds-of-china-based-ai-staff-to-relocate-amid-u-s-china-tensions-b626ff8c</link>
+      <description><![CDATA[华尔街日报微软要求其中国云计算和人工智能业务的数百名员工考虑调往国外。此举正值美国寻求更严格地限制中国开发最先进人工智能的能力之际。白宫正在考虑制定新规定，要求微软和其他美国云计算公司在向中国客户提供人工智能芯片之前必须获得许可。摘自《微软要求中国员工考虑搬迁》 
+华尔街日报 (05/17/24) Raffaele Huang;久保田洋子 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/tech/ai/microsoft-asks-hundreds-of-china-based-ai-staff-to-relocate-amid-u-s-china-tensions-b626ff8c</guid>
+      <pubDate>Mon, 20 May 2024 18:09:30 GMT</pubDate>
     </item>
     <item>
-      <title>Raspberry Pi 上市以扩大微型计算机的范围</title>
-      <link>https://www.theverge.com/2024/5/15/24157355/raspberry-pi-public-ipo-announcement</link>
-      <description><![CDATA[The Verge英国小型计算机制造商 Raspberry Pi 宣布计划申请在英国上市。该公司表示，首次公开募股将使其能够雇用更多工程师，将部分半导体工艺引入内部，并扩大其产品线。 Raspberry Pi 首席执行官兼创始人 Eben Upton 表示，该公司现在拥​​有“技术路线图，将在计算行业发挥越来越重要的作用”。摘自“Raspberry Pi 上市以扩大微型计算机的范围”&lt; br/&gt;
-The Verge (05/15/24) Jess Weatherbed 查看全文]]></description>
-      <guid>https://www.theverge.com/2024/5/15/24157355/raspberry-pi-public-ipo-announcement</guid>
-      <pubDate>Fri, 17 May 2024 15:07:40 GMT</pubDate>
+      <title>美国宇航局推出飞机建模软件</title>
+      <link>https://www.upi.com/Science_News/2024/05/17/nasa-aviary-aircraft-modeling-software/1601715974917/</link>
+      <description><![CDATA[UPINASA 为工程师创建了 Aviary 建模工具，以便在进行昂贵的飞行测试之前以数字方式测试飞机概念在现实世界中的工作方式。用户可以输入有关飞机形状、航程和其他特征的数据，Aviary 将使用这些数据创建相应的数字模型。 Aviary 建立在 NASA 几十年前创建的两个建模工具的基础上，可以与其他代码和程序链接以扩展其功能。 摘自《NASA 推出飞机建模软件》
+UPI (05/17/24) Ehren Wynder 查看全文]]></description>
+      <guid>https://www.upi.com/Science_News/2024/05/17/nasa-aviary-aircraft-modeling-software/1601715974917/</guid>
+      <pubDate>Mon, 20 May 2024 18:09:29 GMT</pubDate>
     </item>
     <item>
-      <title>研究人员智胜瑞士旅行应用程序 EasyRide 功能</title>
-      <link>https://ethz.ch/en/news-and-events/eth-news/news/2024/05/researchers-outsmarted-easyride-function-on-swiss-travel-app.html</link>
-      <description><![CDATA[苏黎世联邦理工学院（瑞士）瑞士联邦铁路（SBB）应用程序EasyRide功能存在缺陷，可被利用以允许乘客免费乘车。 EasyRide 允许用户在智能手机上向一个方向滑动即可开始旅程，并在到达目的地时向另一个方向滑动。该应用程序在旅途中将位置数据传输到 SBB 服务器，以计算乘客的路线并向他们收取票价。瑞士苏黎世联邦理工学院的研究人员能够通过操纵智能手机的位置数据来欺骗该应用程序。来自“研究人员智胜瑞士旅行应用程序上的 EasyRide 功能”
-苏黎世联邦理工学院（瑞士）（05/15/24）Fabio Bergamin 查看全文]]></description>
-      <guid>https://ethz.ch/en/news-and-events/eth-news/news/2024/05/researchers-outsmarted-easyride-function-on-swiss-travel-app.html</guid>
-      <pubDate>Fri, 17 May 2024 15:07:40 GMT</pubDate>
+      <title>聊天机器人指导机器人协助手术</title>
+      <link>https://www.newscientist.com/article/2431083-surgeons-can-use-ai-chatbot-to-tell-robots-to-help-with-suturing/</link>
+      <description><![CDATA[新科学家加拿大多伦多大学研究人员开发的虚拟助手可以让外科医生通过向人工智能聊天机器人输入简单的文本提示来指导手术机器人执行小任务。 SuFIA 虚拟助手可以使用 OpenAI 的 GPT-4 大语言模型将这些提示转换为手术机器人的命令。它将外科医生的请求分解为一系列较小的子任务，触发软件在手术机器人或摄像机中运行。摘自“聊天机器人指导机器人帮助手术”
+新科学家 (05/16/24) Alex Wilkins 查看完整文章 - 可能需要付费订阅]]></description>
+      <guid>https://www.newscientist.com/article/2431083-surgeons-can-use-ai-chatbot-to-tell-robots-to-help-with-suturing/</guid>
+      <pubDate>Mon, 20 May 2024 18:09:29 GMT</pubDate>
     </item>
     <item>
-      <title>水下数据中心容易受到巨大噪音的影响</title>
-      <link>https://www.newscientist.com/article/2430616-underwater-data-centres-could-be-destroyed-by-loud-noises/</link>
-      <description><![CDATA[新科学家佛罗里达大学的研究人员发现声振动可能会破坏水下数据中心。在对放置在水下的金属外壳中的计算机服务器机架进行的测试中，发现 5KHz 的声音会扰乱 6 米多外的计算机驱动器操作。佛罗里达大学的 Sara Rampazzi 解释说：“如果这只是拒绝服务攻击，则可能需要几秒钟的时间，具体取决于声音信号的强度。但是发出声音的时间越长，对计算机的损坏就越大存储设备。”来自“易受大声噪音影响的水下数据中心”
-新科学家 (05/14/24) Jeremy Hsu 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.newscientist.com/article/2430616-underwater-data-centres-could-be-destroyed-by-loud-noises/</guid>
-      <pubDate>Fri, 17 May 2024 15:07:39 GMT</pubDate>
+      <title>机器人告诉毕业生要相信自己</title>
+      <link>https://www.nytimes.com/2024/05/15/nyregion/dyouville-university-commencement-robot-speaker.html</link>
+      <description><![CDATA[《纽约时报》纽约州布法罗的德尤维尔大学有一位非传统的毕业典礼演讲者：来自香港 Hanson Robotics 的人工智能机器人 Sophia，它回答了学生会主席 John Rizk 的问题。当里兹克问机器人是否可以谈论毕业演讲中最常见的见解时，索菲亚回答说：“拥抱终身学习，适应能力强，追求你的激情，承担风险，培养有意义的联系，产生积极影响，并相信自己.&quot;摘自《机器人告诉毕业生要相信自己》
+纽约时报 (05/15/24) Jesus Jiménez 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/05/15/nyregion/dyouville-university-commencement-robot-speaker.html</guid>
+      <pubDate>Mon, 20 May 2024 18:09:28 GMT</pubDate>
     </item>
     <item>
-      <title>受昆虫启发的机器人眼睛提供 220 度视野和运动跟踪</title>
-      <link>https://interestingengineering.com/innovation/robot-eye-ultra-wide-view</link>
-      <description><![CDATA[有趣的工程香港科技大学研究人员开发的机械眼具有运动追踪能力和广阔的视野。这种受昆虫启发的复眼由 3D 打印的针孔蜂窝光学结构和半球形高密度钙钛矿纳米线检测阵列组成。研究人员将复眼集成到飞行器中，并用它来跟踪地面四足机器人。摘自《昆虫启发机器人眼提供 220 度视野、运动跟踪》
-有趣的工程 (05/16/24) Jijomaleil 查看全文&lt; /a&gt;]]></description>
-      <guid>https://interestingengineering.com/innovation/robot-eye-ultra-wide-view</guid>
-      <pubDate>Fri, 17 May 2024 15:07:39 GMT</pubDate>
+      <title>语音克隆技术让最高法院的关键时刻“栩栩如生”</title>
+      <link>https://apnews.com/article/brown-education-court-voice-cloning-5945543950b43514469fdc62c8aa44d4</link>
+      <description><![CDATA[美联社前西北大学教授杰里·戈德曼（Jerry Goldman）正在建立一个网站，该网站将使用语音克隆技术重现美国最高法院几十年前案件的口头辩论。发布在 Brown.oyez.org 上的“重访布朗”娱乐节目中，首席大法官厄尔·沃伦（Earl Warren）（如图）宣读了 1954 年布朗诉教育委员会案的裁决，一年前，法院开始记录口头辩论。 摘自“声音克隆技术将最高法院的关键时刻带入‘生活’”
+美联社 (05/15/24) David Bauder 查看全文文章]]></description>
+      <guid>https://apnews.com/article/brown-education-court-voice-cloning-5945543950b43514469fdc62c8aa44d4</guid>
+      <pubDate>Mon, 20 May 2024 18:09:28 GMT</pubDate>
     </item>
     <item>
-      <title>ACM、CSTA 宣布 2023-24 年卡特勒贝尔学生获奖者</title>
-      <link>https://www.acm.org/media-center/2024/may/cutler-bell-prize-2023</link>
-      <description><![CDATA[ACM 新闻稿ACM 和计算机科学教师协会 (CSTA) 宣布了高中计算卡特勒-贝尔奖获得者：德克萨斯州弗里斯科 Reedy 高中的 Shobhit Agarwal；弗吉尼亚州 Cave Spring 隐谷高中的 Franziska Borneff；马里兰州普尔斯维尔普尔斯维尔高中的 Daniel Mathew 和华盛顿州贝尔维尤贝尔维尤高中的 Kosha Upadhyay。 ACM 主席 Yannis Ioannidis 表示：“该奖项不仅鼓励学生学习新知识和掌握技能，而且鼓励他们成为发明家。”摘自“ACM、CSTA 公布 2023 年 – 24 届卡特勒-贝尔学生获奖者” 
-ACM 新闻稿 (05/15/24) 查看全文]]></description>
-      <guid>https://www.acm.org/media-center/2024/may/cutler-bell-prize-2023</guid>
-      <pubDate>Fri, 17 May 2024 15:07:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能项目旨在打破女学生的障碍</title>
-      <link>https://www.nytimes.com/2024/05/15/technology/ai-internships-female-students-cornell-mit-ucla.html</link>
-      <description><![CDATA[《纽约时报》“突破性技术人工智能”计划旨在帮助在公立大学主修计算机科学的低收入拉丁裔和黑人年轻女性做好从事人工智能职业的准备。该免费计划由康奈尔理工学院的教师根据科技高管的意见开发，帮助代表性不足的学生获得人工智能技能，培养行业关系，并参与有助于他们在就业市场上占据有利地位的研究项目。摘自《人工智能项目旨在打破女学生障碍》
-纽约时报 (05/15/24) 娜塔莎·辛格 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/05/15/technology/ai-internships-female-students-cornell-mit-ucla.html</guid>
-      <pubDate>Fri, 17 May 2024 15:07:38 GMT</pubDate>
+      <title>互联网第一个搜索引擎获救</title>
+      <link>https://arstechnica.com/gadgets/2024/05/archie-the-internets-first-search-engine-is-rescued-and-running/</link>
+      <description><![CDATA[Ars TechnicaYouTube 串行端口频道的研究人员“拯救”了第一个互联网搜索引擎 Archie，该引擎由当时还是加拿大麦吉尔大学学生的 Alan Emtage 于 1989 年创建。找到 Archie 的最后一个工作版本（3.5 beta）后，串行端口团队开始在模拟的 SunSPARCstation 5 上运行 Archie 服务器，并为其 Hobbes OS/2 Archive 镜像以及 FreeBSD、Adobe 和 FTP 站点建立索引。 D 位仿真。摘自《互联网第一个搜索引擎获救》
+Ars Technica (05/16/24) Kevin Purdy 查看全文]]></description>
+      <guid>https://arstechnica.com/gadgets/2024/05/archie-the-internets-first-search-engine-is-rescued-and-running/</guid>
+      <pubDate>Mon, 20 May 2024 18:09:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
