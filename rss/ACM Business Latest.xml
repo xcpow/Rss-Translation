@@ -3,10 +3,17 @@
   <channel>
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
-    <description>频道说明</description>
-    <lastBuildDate>Mon, 20 May 2024 21:06:51 GMT</lastBuildDate>
+    <description>频道描述</description>
+    <lastBuildDate>Tue, 21 May 2024 00:33:47 GMT</lastBuildDate>
     <item>
-      <title>我制作人工智能模型来销售真人衣服</title>
+      <title>斯嘉丽·约翰逊 (Scarlett Johansson) 表示 OpenAI 在 ChatGPT 上抄袭了她的声音</title>
+      <link>https://www.wired.com/story/scarlett-johansson-says-openai-ripped-off-her-voice-for-chatgpt/</link>
+      <description><![CDATA[斯嘉丽·约翰逊 (Scarlett Johansson) 在一份措辞激烈的声明中声称，在她拒绝为 ChatGPT 配音的邀请后，OpenAI 仍然厚颜无耻地模仿了她独特的语气。]]></description>
+      <guid>https://www.wired.com/story/scarlett-johansson-says-openai-ripped-off-her-voice-for-chatgpt/</guid>
+      <pubDate>Mon, 20 May 2024 23:38:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作人工智能模型来向真人销售衣服</title>
       <link>https://www.wired.com/story/your-next-job-ai-modeling-agent/</link>
       <description><![CDATA[在人工智能建模机构工作意味着教像素如何微笑——并过滤掉长着三个脑袋的人。]]></description>
       <guid>https://www.wired.com/story/your-next-job-ai-modeling-agent/</guid>
@@ -27,7 +34,7 @@
       <pubDate>Fri, 17 May 2024 15:50:05 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 长期人工智能风险团队已解散</title>
+      <title>OpenAI 的长期人工智能风险团队已解散</title>
       <link>https://www.wired.com/story/openai-superalignment-team-disbanded/</link>
       <description><![CDATA[《连线》杂志证实，整个 OpenAI 团队专注于人工智能的生存危险，要么辞职，要么被并入其他研究小组。]]></description>
       <guid>https://www.wired.com/story/openai-superalignment-team-disbanded/</guid>
@@ -43,7 +50,7 @@
     <item>
       <title>是时候相信人工智能的炒作了</title>
       <link>https://www.wired.com/story/its-time-to-believe-the-ai-hype/</link>
-      <description><![CDATA[一些专家认为生成式人工智能不再变得更聪明。本周开始，OpenAI 和谷歌的爆炸性演示表明，未来还会有更多的颠覆。]]></description>
+      <description><![CDATA[一些专家认为，生成式人工智能已经不再变得更聪明了。本周初 OpenAI 和谷歌的爆炸性演示表明，未来还会有更多的颠覆性技术出现。]]></description>
       <guid>https://www.wired.com/story/its-time-to-believe-the-ai-hype/</guid>
       <pubDate>Fri, 17 May 2024 13:00:00 GMT</pubDate>
     </item>
@@ -62,7 +69,7 @@
       <pubDate>Thu, 16 May 2024 12:36:10 GMT</pubDate>
     </item>
     <item>
-      <title>Meta 面临针对儿童“成瘾”影响的新调查</title>
+      <title>Meta 因对儿童“上瘾”而面临新一轮调查</title>
       <link>https://www.wired.com/story/meta-faces-fresh-probe-over-addictive-effect-on-kids/</link>
       <description><![CDATA[作为对未成年人使用社交媒体日益担忧的一部分，欧盟对 Facebook 和 Instagram 的儿童保护措施展开了调查。]]></description>
       <guid>https://www.wired.com/story/meta-faces-fresh-probe-over-addictive-effect-on-kids/</guid>
@@ -99,16 +106,9 @@
     <item>
       <title>OpenAI 首席人工智能奇才 Ilya Sutskever 即将离开公司</title>
       <link>https://www.wired.com/story/openais-chief-ai-wizard-ilya-sutskever-is-leaving-the-company/</link>
-      <description><![CDATA[OpenAI 展示了全新、情感化的 ChatGPT 版本，一天后该公司宣布首席科学家 Ilya Sutskever 将离职。他于 11 月投票决定解雇首席执行官 Sam Altman。]]></description>
+      <description><![CDATA[在 OpenAI 展示了全新的、充满情感的 ChatGPT 版本一天后，该公司宣布首席科学家 Ilya Sutskever 将离开公司。他于 11 月投票解雇了首席执行官萨姆·奥尔特曼 (Sam Altman)。]]></description>
       <guid>https://www.wired.com/story/openais-chief-ai-wizard-ilya-sutskever-is-leaving-the-company/</guid>
       <pubDate>Wed, 15 May 2024 00:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登正试图通过对中国征收新关税来为电动汽车赢得时间。它可能不起作用</title>
-      <link>https://www.wired.com/story/new-ev-china-tariffs-biden/</link>
-      <description><![CDATA[美国现在对中国电动汽车征收100%的关税，但由于美国汽车制造商在竞争中举步维艰，而且对中国材料的依赖，这会有帮助吗？梅赛德斯、宝马和大众不这么认为。]]></description>
-      <guid>https://www.wired.com/story/new-ev-china-tariffs-biden/</guid>
-      <pubDate>Tue, 14 May 2024 20:11:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
