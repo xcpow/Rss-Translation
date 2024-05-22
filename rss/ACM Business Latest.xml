@@ -4,7 +4,21 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Wed, 22 May 2024 12:13:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 15:07:50 GMT</lastBuildDate>
+    <item>
+      <title>尽管有新的无钥匙技术，特斯拉仍然可以通过廉价的无线电黑客被盗</title>
+      <link>https://www.wired.com/story/tesla-ultra-wideband-radio-relay-attacks/</link>
+      <description><![CDATA[超宽带无线电被誉为“中继攻击”的解决方案，可在几秒钟内窃取汽车。但研究人员发现配备它的特斯拉仍然像以前一样容易受到攻击。]]></description>
+      <guid>https://www.wired.com/story/tesla-ultra-wideband-radio-relay-attacks/</guid>
+      <pubDate>Wed, 22 May 2024 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能背后的低薪人类要求拜登将他们从“现代奴隶制”中解放出来</title>
+      <link>https://www.wired.com/story/low-paid-humans-ai-biden-modern-day-slavery/</link>
+      <description><![CDATA[为美国科技巨头标记人工智能数据或筛选社交帖子的非洲工人呼吁拜登总统向本周访问美国的肯尼亚总统威廉·鲁托提出他们的困境。]]></description>
+      <guid>https://www.wired.com/story/low-paid-humans-ai-biden-modern-day-slavery/</guid>
+      <pubDate>Wed, 22 May 2024 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>斯嘉丽·约翰逊诉 OpenAI 的法庭审判会是什么样子</title>
       <link>https://www.wired.com/story/scarlett-johansson-v-openai-could-look-like-in-court/</link>
@@ -22,7 +36,7 @@
     <item>
       <title>我们站在纽约-都柏林门户的两侧，这是光荣的</title>
       <link>https://www.wired.com/story/new-york-dublin-portal-reopening/</link>
-      <description><![CDATA[数百人和两名《连线》记者聚集在该门户前，该门户因“不当行为”而关闭后再次开放。]]></description>
+      <description><![CDATA[数百人和两名《连线》杂志记者聚集在该门户网站，该门户网站因“不当行为”而关闭后再次开放。]]></description>
       <guid>https://www.wired.com/story/new-york-dublin-portal-reopening/</guid>
       <pubDate>Wed, 22 May 2024 09:00:00 GMT</pubDate>
     </item>
@@ -55,7 +69,7 @@
       <pubDate>Tue, 21 May 2024 13:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>加密货币占星家看到星星的价格变动</title>
+      <title>加密货币占星师通过星象观察价格走势</title>
       <link>https://www.wired.com/story/crypto-astrologers-predictions/</link>
       <description><![CDATA[他们根据行星运动预测比特币的涨跌，而他们超级隐秘的客户会倾听。]]></description>
       <guid>https://www.wired.com/story/crypto-astrologers-predictions/</guid>
@@ -92,23 +106,9 @@
     <item>
       <title>OpenAI 的长期人工智能风险团队已解散</title>
       <link>https://www.wired.com/story/openai-superalignment-team-disbanded/</link>
-      <description><![CDATA[《连线》杂志证实，整个 OpenAI 团队专注于人工智能的生存危险，要么辞职，要么被并入其他研究小组。]]></description>
+      <description><![CDATA[《连线》证实，整个 OpenAI 团队专注于人工智能的生存危险，要么辞职，要么被并入其他研究小组。]]></description>
       <guid>https://www.wired.com/story/openai-superalignment-team-disbanded/</guid>
       <pubDate>Fri, 17 May 2024 14:54:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>推特终于死了。一直是X</title>
-      <link>https://www.wired.com/story/twitter-dead-x-elon-musk/</link>
-      <description><![CDATA[Twitter 现在完全是 X.com。考虑到埃隆·马斯克收购后它的转变，这可能是一个小小的怜悯。]]></description>
-      <guid>https://www.wired.com/story/twitter-dead-x-elon-musk/</guid>
-      <pubDate>Fri, 17 May 2024 14:13:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>是时候相信人工智能的炒作了</title>
-      <link>https://www.wired.com/story/its-time-to-believe-the-ai-hype/</link>
-      <description><![CDATA[一些专家认为生成式人工智能不再变得更聪明。本周开始，OpenAI 和谷歌的爆炸性演示表明，未来还会有更多的颠覆。]]></description>
-      <guid>https://www.wired.com/story/its-time-to-believe-the-ai-hype/</guid>
-      <pubDate>Fri, 17 May 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

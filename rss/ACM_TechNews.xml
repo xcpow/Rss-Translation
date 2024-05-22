@@ -4,102 +4,110 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Mon, 20 May 2024 18:09:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 15:07:44 GMT</lastBuildDate>
     <item>
-      <title>在人工智能的帮助下解码猩猩独特的叫声</title>
-      <link>https://www.popsci.com/environment/orangutan-communication-ai/</link>
-      <description><![CDATA[科普康奈尔大学研究人员使用人工智能解码猩猩的长叫声。研究人员利用机器学习分析了 13 只猩猩长叫声的视频和音频记录，目的是确定它们在发声中可以找到多少种脉冲类型、它们的显着特征和层次。康奈尔大学的 Wendy Erb 说：“通过结合监督和非监督分析方法，我们确定了人类和机器都能很好地区分的三种不同的脉冲类型。”来自“借助帮助解码猩猩的独特叫声”来自人工智能”
-科普 (05/14/24) Laura Baisas 查看全文]]></description>
-      <guid>https://www.popsci.com/environment/orangutan-communication-ai/</guid>
-      <pubDate>Mon, 20 May 2024 18:09:33 GMT</pubDate>
+      <title>国家漏洞数据库积压问题立即采取行动</title>
+      <link>https://www.csoonline.com/article/2106228/backlogs-at-national-vulnerability-database-prompt-action-from-nist-and-cisa.html</link>
+      <description><![CDATA[CSO Online联邦机构正在向私营部门求助，以缓解美国国家漏洞数据库 (NVD) 的积压问题。Chainguard 的 Kaylin Trychon 表示，积压问题导致常见漏洞和暴露 (CVE) 信息更新延迟。Trychon 指出，常见平台枚举匹配在 2 月 15 日左右停止，“这意味着 CVE 条目不包含有关‘哪些软件实际受到影响’的任何元数据。”今年早些时候，NVD 表示正在考虑成立一个行业联盟来帮助改进数据库。摘自“国家漏洞数据库积压问题促使采取行动”
+CSO Online (05/15/24) Jr.，John Mello 查看全文]]></description>
+      <guid>https://www.csoonline.com/article/2106228/backlogs-at-national-vulnerability-database-prompt-action-from-nist-and-cisa.html</guid>
+      <pubDate>Wed, 22 May 2024 15:07:44 GMT</pubDate>
     </item>
     <item>
-      <title>学生利用 ETH 区块链漏洞在几秒钟内窃取了 2500 万美元</title>
-      <link>https://arstechnica.com/tech-policy/2024/05/sophisticated-25m-ethereum-heist-took-about-12-seconds-doj-says/</link>
-      <description><![CDATA[Ars Technica美国司法部起诉两名麻省理工学院学生，涉嫌篡改以太坊区块链，在短短 12 秒内窃取了 2500 万美元的加密货币。该计划利用了交易执行后、添加到区块链之前的流程中的漏洞。它涉及通过空壳公司和外汇创建一系列以太坊验证器，并部署“诱饵交易”来吸引买家和卖家使用的专门机器人来识别利润丰厚的前景。来自“学生在几秒钟内偷走了 2500 万美元”通过利用 ETH 区块链漏洞”
-Ars Technica (05/15/24) Ashley Belanger 查看全文]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/05/sophisticated-25m-ethereum-heist-took-about-12-seconds-doj-says/</guid>
-      <pubDate>Mon, 20 May 2024 18:09:32 GMT</pubDate>
+      <title>智能表面开发可以解决室内定位问题</title>
+      <link>https://www.theengineer.co.uk/content/news/intelligent-surfaces-development-could-solve-indoor-positioning-problem</link>
+      <description><![CDATA[工程师由英国格拉斯哥大学研究人员领导的团队增强了可重构智能表面 (RIS) 这种新兴无线通信技术的定位潜力。研究人员将一个 1.3 平方米的 RIS 与 4,096 个元件配对，并配有两个通用串行无线电外围设备作为接收器和发射器。他们将 RIS 配置为通过将光束转向九个不同位置并从每个位置发送测试信号来将信号从发射器反射到接收器，然后测试机器学习算法以确定哪个识别信号最准确。摘自《智能表面开发可解决室内定位问题》
+工程师 (05/17/24) 查看全文]]></description>
+      <guid>https://www.theengineer.co.uk/content/news/intelligent-surfaces-development-could-solve-indoor-positioning-problem</guid>
+      <pubDate>Wed, 22 May 2024 15:07:43 GMT</pubDate>
     </item>
     <item>
-      <title>技术缩短了 3D 打印机器零件的精加工时间</title>
-      <link>https://news.ncsu.edu/2024/05/faster-finishing-for-3d-printed-parts/</link>
-      <description><![CDATA[北卡罗来纳州立大学新闻北卡罗来纳州立大学研究人员开发的一种 3D 打印技术提高了金属机械零件的制造效率，无需从制造设备上移除零件，即可在精加工过程中检测可能存在的缺陷。该高度自动化的系统将 3D 打印、自动加工、激光扫描和触摸感应测量技术与包含所需零件测量值的软件相结合，并引导精加工设备打磨任何不规则之处。摘自“技术缩短了 3D 打印机器零件的精加工时间”
-北卡罗来纳州立大学新闻 (05/14/24) Matt Shipman 查看全文]]></description>
-      <guid>https://news.ncsu.edu/2024/05/faster-finishing-for-3d-printed-parts/</guid>
-      <pubDate>Mon, 20 May 2024 18:09:32 GMT</pubDate>
+      <title>当在线内容消失时</title>
+      <link>https://www.pewresearch.org/data-labs/2024/05/17/when-online-content-disappears/</link>
+      <description><![CDATA[皮尤研究中心皮尤研究中心报告称，2013 年存在的网页中有 38% 不再可用，去年存在的网页中有 8% 已不再可用。分析还发现，23% 的新闻网页和 21% 的政府网页包含至少一个损坏的链接，54% 的维基百科页面包含至少一个损坏的“参考文献”链接。 摘自《当在线内容消失时》
+皮尤研究中心 (05/17/24) Athena Chapekis；塞缪尔·贝斯特瓦特；艾玛·雷米；等 查看全文]]></description>
+      <guid>https://www.pewresearch.org/data-labs/2024/05/17/when-online-content-disappears/</guid>
+      <pubDate>Wed, 22 May 2024 15:07:43 GMT</pubDate>
     </item>
     <item>
-      <title>浏览器扩展与在线错误信息作斗争</title>
-      <link>https://news.mit.edu/2024/new-tool-trustnet-empowers-users-to-fight-online-misinformation-0516</link>
-      <description><![CDATA[麻省理工学院新闻麻省理工学院的研究人员开发了一种网络浏览器扩展程序，允许用户标记错误信息并识别可信用户以进行在线内容评估，从而帮助减少在线错误信息的传播。 Trustnet 扩展适用于社交媒体帖子、新闻聚合网站上的文章、流媒体平台上的视频以及任何其他网站内容。 Trustnet 检查用户正在阅读的网页上的所有链接，在受信任来源评估过的链接旁边放置指示器，并淡化那些确定内容不准确的文本。摘自“浏览器扩展对抗在线错误信息” “
-麻省理工学院新闻 (05/16/24) Adam Zewe 查看全文]]></description>
-      <guid>https://news.mit.edu/2024/new-tool-trustnet-empowers-users-to-fight-online-misinformation-0516</guid>
-      <pubDate>Mon, 20 May 2024 18:09:31 GMT</pubDate>
+      <title>学生发现洗衣机中的安全漏洞</title>
+      <link>https://techcrunch.com/2024/05/17/csc-serviceworks-free-laundry-million-machines/</link>
+      <description><![CDATA[Tech Crunch加州大学圣克鲁斯分校的两名学生发现 CSC ServiceWorks 联网洗衣机使用的移动应用程序存在安全漏洞，该漏洞可能允许用户无需付费即可洗衣服。学生们能够向机器发送远程命令来运行一个周期，而无需 CSC 洗衣账户上的钱，并且能够通过 CSC Go 移动应用程序让洗衣账户看起来好像有数百万美元的余额。 摘自“学生发现洗衣机中的安全漏洞”
+Tech Crunch (05/17/24) Zack Whittaker 查看全文]]></description>
+      <guid>https://techcrunch.com/2024/05/17/csc-serviceworks-free-laundry-million-machines/</guid>
+      <pubDate>Wed, 22 May 2024 15:07:42 GMT</pubDate>
     </item>
     <item>
-      <title>Waymo 正在接受自动驾驶技术调查</title>
-      <link>https://apnews.com/article/selfdriving-vehicles-automated-government-investigations-0b43be102688f66590e6b9e76c0f5939</link>
-      <description><![CDATA[美联社美国国家公路交通安全管理局 (NHTSA) 在收到 17 起涉及 Waymo 自动驾驶车辆的事故报告和 5 起潜在违反交通法的报告后，宣布正在调查 Waymo 的自动驾驶系统。 NHTSA 还正在调查亚马逊的 Zoox 自动驾驶汽车、特斯拉和福特的部分自动驾驶辅助系统以及通用汽车的 Cruise 自动驾驶汽车部门。摘自“Waymo 正在接受自动驾驶技术调查”&lt; br/&gt;
-美联社 (05/14/24) Tom Krisher 查看全文文章]]></description>
-      <guid>https://apnews.com/article/selfdriving-vehicles-automated-government-investigations-0b43be102688f66590e6b9e76c0f5939</guid>
-      <pubDate>Mon, 20 May 2024 18:09:31 GMT</pubDate>
+      <title>AI能让PC再次酷起来吗？</title>
+      <link>https://www.nytimes.com/2024/05/20/technology/microsoft-copilot-ai-pc.html</link>
+      <description><![CDATA[纽约时报微软推出了可以运行人工智能系统的个人电脑。 Copilot+ PC 将包含在运行 Windows 操作系统的 Microsoft Surface 笔记本电脑和其他制造商的高端笔记本电脑中。在过去的二十年里，由于软件转移到云计算中心，对最快笔记本电脑的需求已经减少。微软将直接在个人计算机上运行人工智能系统，以消除与在数据中心运行大型人工智能模型相关的滞后时间和成本。摘自“人工智能能让 PC 再次酷起来吗？”
+纽约时报 (05/20/24) Karen Weise； Brian X. Chen 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/05/20/technology/microsoft-copilot-ai-pc.html</guid>
+      <pubDate>Wed, 22 May 2024 15:07:42 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌和苹果合作打击跟踪器跟踪行为</title>
-      <link>https://www.cnbc.com/2024/05/13/google-and-apple-partner-to-fight-location-tracker-stalking.html</link>
-      <description><![CDATA[CNBC为了防止位置跟踪跟踪，苹果和谷歌宣布，如果附近有无线位置跟踪设备，iPhone 和 Android 手机用户将收到警报。配备最新软件的手机将向用户显示一条消息，表明蓝牙跟踪器“发现与您一起移动”，并提供让跟踪器播放声音以便定位的选项以及禁用它的说明。由第三方公司构建的“查找我的”丢失设备跟踪器将需要这些警报。来自“Google、Apple 合作打击跟踪器跟踪”
-CNBC (05/13/24) Kif Leswing 查看全文]]></description>
-      <guid>https://www.cnbc.com/2024/05/13/google-and-apple-partner-to-fight-location-tracker-stalking.html</guid>
-      <pubDate>Mon, 20 May 2024 18:09:30 GMT</pubDate>
+      <title>比特币开发商将“可编程性”吹捧为下一次反弹的催化剂</title>
+      <link>https://www.bloomberg.com/news/articles/2024-05-19/bitcoin-developers-tout-programmability-as-the-catalyst-for-the-next-rally</link>
+      <description><![CDATA[彭博社为比特币区块链添加可编程性可能会推动加密货币的下一次大涨。去年推出的比特币序号允许通过将数据嵌入到聪（比特币的最小面额）上来创建不可替代的代币，这将开发人员的注意力转向了整个网络的软件升级，以更轻松地实现可编程性。 Layer 1 基金会正在为 BRC-20 元协议开发可编程模块。摘自“比特币开发者将‘可编程性’作为下一次反弹的催化剂”
+彭博社 (05/19/24) 奥尔加·卡里夫 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-05-19/bitcoin-developers-tout-programmability-as-the-catalyst-for-the-next-rally</guid>
+      <pubDate>Wed, 22 May 2024 15:07:41 GMT</pubDate>
     </item>
     <item>
-      <title>微软要求中国员工考虑搬迁</title>
-      <link>https://www.wsj.com/tech/ai/microsoft-asks-hundreds-of-china-based-ai-staff-to-relocate-amid-u-s-china-tensions-b626ff8c</link>
-      <description><![CDATA[华尔街日报微软要求其中国云计算和人工智能业务的数百名员工考虑调往国外。此举正值美国寻求更严格地限制中国开发最先进人工智能的能力之际。白宫正在考虑制定新规定，要求微软和其他美国云计算公司在向中国客户提供人工智能芯片之前必须获得许可。摘自《微软要求中国员工考虑搬迁》 
-华尔街日报 (05/17/24) Raffaele Huang;久保田洋子 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/tech/ai/microsoft-asks-hundreds-of-china-based-ai-staff-to-relocate-amid-u-s-china-tensions-b626ff8c</guid>
-      <pubDate>Mon, 20 May 2024 18:09:30 GMT</pubDate>
+      <title>应用程序将精神科医生放在您的口袋里</title>
+      <link>https://spectrum.ieee.org/mood-tracker</link>
+      <description><![CDATA[IEEE Spectrum一些应用程序被动地从用户的手机收集数据来跟踪他们的精神状态。这些应用程序在后台运行，同时收集有关打字、用户动作、屏幕时间、通话和短信频率以及 GPS 位置的数据。 BiAffect 和 Ellipsis Health 等应用程序可以识别用户日常生活中的细微变化，并帮助医生在就诊期间监测患者。摘自“应用程序将精神科医生放在您的口袋里”
+IEEE Spectrum (05/19/24) Gwendolyn Rak 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/mood-tracker</guid>
+      <pubDate>Wed, 22 May 2024 15:07:41 GMT</pubDate>
     </item>
     <item>
-      <title>美国宇航局推出飞机建模软件</title>
-      <link>https://www.upi.com/Science_News/2024/05/17/nasa-aviary-aircraft-modeling-software/1601715974917/</link>
-      <description><![CDATA[UPINASA 为工程师创建了 Aviary 建模工具，以便在进行昂贵的飞行测试之前以数字方式测试飞机概念在现实世界中的工作方式。用户可以输入有关飞机形状、航程和其他特征的数据，Aviary 将使用这些数据创建相应的数字模型。 Aviary 建立在 NASA 几十年前创建的两个建模工具的基础上，可以与其他代码和程序链接以扩展其功能。 摘自《NASA 推出飞机建模软件》
-UPI (05/17/24) Ehren Wynder 查看全文]]></description>
-      <guid>https://www.upi.com/Science_News/2024/05/17/nasa-aviary-aircraft-modeling-software/1601715974917/</guid>
-      <pubDate>Mon, 20 May 2024 18:09:29 GMT</pubDate>
+      <title>美国警告针对供水系统的网络攻击正在增加</title>
+      <link>https://apnews.com/article/water-utilities-cyberattack-epa-russia-1435b3e6a569aa046e05c7947f0a0f3d</link>
+      <description><![CDATA[美联社美国环境保护局（EPA）周一发布执法警报，警告美国水务公司警惕日益频繁和严重的网络攻击，并表示将根据检查情况追究民事或刑事处罚。该警报显示，去年接受检查的公用事业公司中约有 70% 违反了旨在防止黑客攻击的标准。美国环保署副署长珍妮特·麦凯布表示，中国、俄罗斯和伊朗“正在积极寻求使美国关键基础设施瘫痪的能力。”摘自“美国警告针对供水系统的网络攻击正在增加”
+美联社 (05/20/24) 迈克尔·菲利斯；马修·戴利 查看全文]]></description>
+      <guid>https://apnews.com/article/water-utilities-cyberattack-epa-russia-1435b3e6a569aa046e05c7947f0a0f3d</guid>
+      <pubDate>Wed, 22 May 2024 15:07:40 GMT</pubDate>
     </item>
     <item>
-      <title>聊天机器人指导机器人协助手术</title>
-      <link>https://www.newscientist.com/article/2431083-surgeons-can-use-ai-chatbot-to-tell-robots-to-help-with-suturing/</link>
-      <description><![CDATA[新科学家加拿大多伦多大学研究人员开发的虚拟助手可以让外科医生通过向人工智能聊天机器人输入简单的文本提示来指导手术机器人执行小任务。 SuFIA 虚拟助手可以使用 OpenAI 的 GPT-4 大语言模型将这些提示转换为手术机器人的命令。它将外科医生的请求分解为一系列较小的子任务，触发软件在手术机器人或摄像机中运行。摘自“聊天机器人指导机器人帮助手术”
-新科学家 (05/16/24) Alex Wilkins 查看完整文章 - 可能需要付费订阅]]></description>
-      <guid>https://www.newscientist.com/article/2431083-surgeons-can-use-ai-chatbot-to-tell-robots-to-help-with-suturing/</guid>
-      <pubDate>Mon, 20 May 2024 18:09:29 GMT</pubDate>
+      <title>如果中国入侵台湾，ASML、台积电可能会禁用芯片机器</title>
+      <link>https://www.bloomberg.com/news/articles/2024-05-21/asml-tsmc-can-disable-chip-machines-if-china-invades-taiwan?srnd=homepage-americas&amp;sref=db2f3qgr</link>
+      <description><![CDATA[彭博社消息人士称，如果中国入侵台湾，荷兰的 ASML Holding NV 和台积电 (TSMC) 可以让世界上最先进的芯片制造机器瘫痪。远程关闭适用于 ASML 的极紫外机器 (EUV) 系列，台积电是其最大的单一客户。 EUV 利用高频光波打印现有最小的微芯片晶体管。 摘自《如果中国入侵台湾，ASML、台积电可以禁用芯片机》
+彭博社 (05/21/24) Diederik Baazil；卡根·科克；乔丹·罗伯逊 查看全文]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-05-21/asml-tsmc-can-disable-chip-machines-if-china-invades-taiwan?srnd=homepage-americas&amp;sref=db2f3qgr</guid>
+      <pubDate>Wed, 22 May 2024 15:07:39 GMT</pubDate>
     </item>
     <item>
-      <title>机器人告诉毕业生要相信自己</title>
-      <link>https://www.nytimes.com/2024/05/15/nyregion/dyouville-university-commencement-robot-speaker.html</link>
-      <description><![CDATA[《纽约时报》纽约州布法罗的德尤维尔大学有一位非传统的毕业典礼演讲者：来自香港 Hanson Robotics 的人工智能机器人 Sophia，它回答了学生会主席 John Rizk 的问题。当里兹克问机器人是否可以谈论毕业演讲中最常见的见解时，索菲亚回答说：“拥抱终身学习，适应能力强，追求你的激情，承担风险，培养有意义的联系，产生积极影响，并相信自己.&quot;摘自《机器人告诉毕业生要相信自己》
-纽约时报 (05/15/24) Jesus Jiménez 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/05/15/nyregion/dyouville-university-commencement-robot-speaker.html</guid>
-      <pubDate>Mon, 20 May 2024 18:09:28 GMT</pubDate>
+      <title>脑植入物使瘫痪男子恢复双语交流</title>
+      <link>https://arstechnica.com/science/2024/05/single-brain-implant-gives-paralyzed-man-bilingual-communication/</link>
+      <description><![CDATA[Ars Technica加利福尼亚大学旧金山分校的研究人员将植入物植入一位懂西班牙语和英语的瘫痪男子的大脑运动区域，以测量与言语相关的神经活动。研究人员训练系统的软件部分来识别参与者何时想要说特定的单词，这涉及到他想象说这些单词，并且软件知道他想要说的单词。参与者最终能够使用该系统参与对话。摘自《大脑植入物恢复瘫痪男子的双语交流》
+Ars Technica (05/20/24) 约翰·蒂默 查看全文]]></description>
+      <guid>https://arstechnica.com/science/2024/05/single-brain-implant-gives-paralyzed-man-bilingual-communication/</guid>
+      <pubDate>Wed, 22 May 2024 15:07:39 GMT</pubDate>
     </item>
     <item>
-      <title>语音克隆技术让最高法院的关键时刻“栩栩如生”</title>
-      <link>https://apnews.com/article/brown-education-court-voice-cloning-5945543950b43514469fdc62c8aa44d4</link>
-      <description><![CDATA[美联社前西北大学教授杰里·戈德曼（Jerry Goldman）正在建立一个网站，该网站将使用语音克隆技术重现美国最高法院几十年前案件的口头辩论。发布在 Brown.oyez.org 上的“重访布朗”娱乐节目中，首席大法官厄尔·沃伦（Earl Warren）（如图）宣读了 1954 年布朗诉教育委员会案的裁决，一年前，法院开始记录口头辩论。 摘自“声音克隆技术将最高法院的关键时刻带入‘生活’”
-美联社 (05/15/24) David Bauder 查看全文文章]]></description>
-      <guid>https://apnews.com/article/brown-education-court-voice-cloning-5945543950b43514469fdc62c8aa44d4</guid>
-      <pubDate>Mon, 20 May 2024 18:09:28 GMT</pubDate>
+      <title>专家表示，世界尚未为人工智能的突破做好准备</title>
+      <link>https://www.theguardian.com/technology/article/2024/may/20/world-is-ill-prepared-for-breakthroughs-in-ai-say-experts</link>
+      <description><![CDATA[英国卫报由 25 名人工智能专家组成的小组发表了一篇论文，指出世界尚未为人工智能突破做好准备，政府必须采取更多措施来监管该技术。包括 ACM 图灵奖获得者杰弗里·辛顿 (Geoffrey Hinton) 和约书亚·本吉奥 (Yoshua Bengio) 在内的专家呼吁政府建立安全制度，在人工智能系统达到一定能力水平时触发监管行动。摘自《世界尚未做好准备》专家表示，人工智能的突破“
+英国卫报 (05/20/24) Dan Milmo]]></description>
+      <guid>https://www.theguardian.com/technology/article/2024/may/20/world-is-ill-prepared-for-breakthroughs-in-ai-say-experts</guid>
+      <pubDate>Wed, 22 May 2024 15:07:38 GMT</pubDate>
     </item>
     <item>
-      <title>互联网第一个搜索引擎获救</title>
-      <link>https://arstechnica.com/gadgets/2024/05/archie-the-internets-first-search-engine-is-rescued-and-running/</link>
-      <description><![CDATA[Ars TechnicaYouTube 串行端口频道的研究人员“拯救”了第一个互联网搜索引擎 Archie，该引擎由当时还是加拿大麦吉尔大学学生的 Alan Emtage 于 1989 年创建。找到 Archie 的最后一个工作版本（3.5 beta）后，串行端口团队开始在模拟的 SunSPARCstation 5 上运行 Archie 服务器，并为其 Hobbes OS/2 Archive 镜像以及 FreeBSD、Adobe 和 FTP 站点建立索引。 D 位仿真。摘自《互联网第一个搜索引擎获救》
-Ars Technica (05/16/24) Kevin Purdy 查看全文]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/05/archie-the-internets-first-search-engine-is-rescued-and-running/</guid>
-      <pubDate>Mon, 20 May 2024 18:09:28 GMT</pubDate>
+      <title>计算机科学专业的毕业生进入一个机会更少的世界</title>
+      <link>https://www.wsj.com/lifestyle/careers/computer-science-majors-job-market-7ad443bf</link>
+      <description><![CDATA[华尔街日报随着科技巨头将注意力从入门级程序员转移到寻找人工智能专业知识或正在裁员，计算机科学毕业生发现在其学科中找到工作变得更加困难。 Indeed 报告称，与大流行前相比，软件开发职位的招聘数量减少了 30%。与此同时，美国教育部报告称，去年有超过 60 万名计算机和信息科学专业的学生，​​五年来增长了 40%。摘自“计算机科学专业的毕业生进入了一个机会更少的世界”&lt; br/&gt;
+华尔街日报 (05/20/24) 凯瑟琳·宾德利；科里·德里布什；林赛·埃利斯 查看全文  - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/lifestyle/careers/computer-science-majors-job-market-7ad443bf</guid>
+      <pubDate>Wed, 22 May 2024 15:07:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>个人电脑原型的创造者 C. Gordon Bell 去世，享年 89 岁</title>
+      <link>https://www.nytimes.com/2024/05/21/technology/c-gordon-bell-dead.html</link>
+      <description><![CDATA[纽约时报C.戈登·贝尔，被誉为“计算机界的弗兰克·劳埃德·赖特”由Datamation杂志撰写，于周五去世，享年 89 岁。贝尔是致力于创建更小、价格实惠、可以集群到网络的交互式计算机的首席架构师。他建造了第一台分时计算机，并且是一群工程师中的一员，他们的设计在大型机时代的房间大小的模型和个人计算机的出现之间架起了桥梁。他还赞助了 ACM Gordon Bell 奖，以表彰其在并行计算方面的工作。摘自“C. Gordon Bell，个人计算机原型的创建者，于 89 岁去世”
+纽约时报 (05/21/24) Glenn Rifkin 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/05/21/technology/c-gordon-bell-dead.html</guid>
+      <pubDate>Wed, 22 May 2024 15:07:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
