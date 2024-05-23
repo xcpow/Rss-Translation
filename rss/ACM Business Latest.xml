@@ -4,7 +4,14 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Thu, 23 May 2024 12:13:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 15:07:19 GMT</lastBuildDate>
+    <item>
+      <title>美国起诉拆分 Ticketmaster 和 Live Nation，指控滥用垄断</title>
+      <link>https://www.wired.com/story/ticketmaster-live-nation-doj-antitrust-lawsuit/</link>
+      <description><![CDATA[美国政府已对 Ticketmaster 及其母公司 Live Nation 提起反垄断诉讼，指控其滥用票务市场主导地位以消除良性竞争。]]></description>
+      <guid>https://www.wired.com/story/ticketmaster-live-nation-doj-antitrust-lawsuit/</guid>
+      <pubDate>Thu, 23 May 2024 14:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>司机们纷纷起来反对 Uber 的“不透明”薪酬系统</title>
       <link>https://www.wired.com/story/drivers-are-rising-up-against-ubers-opaque-pay-system/</link>
@@ -29,19 +36,19 @@
     <item>
       <title>斯嘉丽·约翰逊诉 OpenAI 的法庭审判会是什么样子</title>
       <link>https://www.wired.com/story/scarlett-johansson-v-openai-could-look-like-in-court/</link>
-      <description><![CDATA[如果斯嘉丽·约翰逊 (Scarlett Johansson) 因 OpenAI 为 ChatGPT 赋予了一种她认为“与我的极为相似”的声音而对其采取法律行动，她可能会声称该公司侵犯了她的公开权。]]></description>
+      <description><![CDATA[如果斯嘉丽约翰逊对 OpenAI 采取法律行动，因为 OpenAI 为 ChatGPT 提供了她所说的“与我的极其相似”的声音，她可能会声称该公司侵犯了她的公开权。]]></description>
       <guid>https://www.wired.com/story/scarlett-johansson-v-openai-could-look-like-in-court/</guid>
       <pubDate>Wed, 22 May 2024 10:30:00 GMT</pubDate>
     </item>
     <item>
       <title>WeWork 不敢去的地方，本地联合办公空间蓬勃发展</title>
       <link>https://www.wired.com/story/local-coworking-spaces-thrive-where-wework-dared-not-go/</link>
-      <description><![CDATA[一座废弃的教堂、一所学校和一个摩托车车库等超本地化的新联合办公空间突然出现，为远程工作者提供了一个去处。]]></description>
+      <description><![CDATA[一座废弃的教堂、一所学校和一个摩托车车库都是为远程工作者提供办公场所而涌现的超本地化新型共享办公空间之一。]]></description>
       <guid>https://www.wired.com/story/local-coworking-spaces-thrive-where-wework-dared-not-go/</guid>
       <pubDate>Wed, 22 May 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>我们站在纽约—都柏林门户的两侧，感觉非常光荣</title>
+      <title>我们站在纽约-都柏林门户的两侧，这是光荣的</title>
       <link>https://www.wired.com/story/new-york-dublin-portal-reopening/</link>
       <description><![CDATA[数百人和两名《连线》记者聚集在该门户前，该门户因“不当行为”而关闭后再次开放。]]></description>
       <guid>https://www.wired.com/story/new-york-dublin-portal-reopening/</guid>
@@ -57,14 +64,14 @@
     <item>
       <title>谷歌利用人工智能向购物者展示衣服如何适合不同的身体</title>
       <link>https://www.wired.com/story/google-ai-shopping-clothes-fit-different-bodies/</link>
-      <description><![CDATA[一种新型的在线广告允许品牌向谷歌付费，让其向购物者提供人工智能生成的图像，展示衣服在不同肤色和体型上穿起来的样子。]]></description>
+      <description><![CDATA[一种新型在线广告允许品牌向谷歌付费，为购物者提供人工智能生成的图像，展示服装在不同肤色和体型上的外观。]]></description>
       <guid>https://www.wired.com/story/google-ai-shopping-clothes-fit-different-bodies/</guid>
       <pubDate>Tue, 21 May 2024 16:00:00 GMT</pubDate>
     </item>
     <item>
       <title>人工智能是一个黑匣子。人类想出了一种观察内部的方法</title>
       <link>https://www.wired.com/story/anthropic-black-box-ai-research-neurons-features/</link>
-      <description><![CDATA[人工神经网络的工作原理在很大程度上是一个谜，甚至对其创建者来说也是如此。但 Anthropic 的研究人员对此有所了解。]]></description>
+      <description><![CDATA[人工神经网络的工作原理在很大程度上是一个谜，即使对于它们的创造者来说也是如此。但 Anthropic 的研究人员已经看到了这一点。]]></description>
       <guid>https://www.wired.com/story/anthropic-black-box-ai-research-neurons-features/</guid>
       <pubDate>Tue, 21 May 2024 15:00:00 GMT</pubDate>
     </item>
@@ -76,9 +83,9 @@
       <pubDate>Tue, 21 May 2024 13:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>加密货币占星师通过星象观察价格走势</title>
+      <title>加密货币占星家看到星星的价格变动</title>
       <link>https://www.wired.com/story/crypto-astrologers-predictions/</link>
-      <description><![CDATA[他们根据行星运动预测比特币的涨跌，而他们的超级秘密客户则听着。]]></description>
+      <description><![CDATA[他们根据行星运动预测比特币的涨跌，而他们超级隐秘的客户会倾听。]]></description>
       <guid>https://www.wired.com/story/crypto-astrologers-predictions/</guid>
       <pubDate>Tue, 21 May 2024 11:30:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[英国一名法官认定克雷格·赖特在一场运动中伪造了证据，以证明他是比特币的创造者中本聪，此举阻止了他在该国提起进一步的诉讼。]]></description>
       <guid>https://www.wired.com/story/craig-wright-lied-faked-evidence-bitcoin-judge-says/</guid>
       <pubDate>Mon, 20 May 2024 11:01:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>TikTok 收购战已拉开帷幕——但可能没有赢家</title>
-      <link>https://www.wired.com/story/tiktoks-suitors-face-an-uphill-battle/</link>
-      <description><![CDATA[投资者有兴趣购买 TikTok，以便它可以避免美国的禁令。但即使字节跳动接受，收购也远非简单。]]></description>
-      <guid>https://www.wired.com/story/tiktoks-suitors-face-an-uphill-battle/</guid>
-      <pubDate>Fri, 17 May 2024 15:50:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
