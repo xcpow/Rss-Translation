@@ -4,18 +4,39 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Thu, 23 May 2024 18:10:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 21:06:39 GMT</lastBuildDate>
+    <item>
+      <title>大多数美国 TikTok 创建者认为禁令不会发生</title>
+      <link>https://www.wired.com/story/most-us-tiktok-creators-dont-think-a-ban-will-happen/</link>
+      <description><![CDATA[这款中国拥有的应用程序在华盛顿遇到了严重麻烦，但对美国创作者的一项调查显示，TikTok 的影响者经济一切如常。]]></description>
+      <guid>https://www.wired.com/story/most-us-tiktok-creators-dont-think-a-ban-will-happen/</guid>
+      <pubDate>Thu, 23 May 2024 19:22:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>袖珍人工智能模型可以开启计算新时代</title>
+      <link>https://www.wired.com/story/pocket-sized-ai-models-unlock-new-era-of-computing/</link>
+      <description><![CDATA[微软的研究表明，可以让人工智能模型足够小，可以在手机或笔记本电脑上运行，而不会对其智能造成重大影响。该技术可以为人工智能开辟新的用例。]]></description>
+      <guid>https://www.wired.com/story/pocket-sized-ai-models-unlock-new-era-of-computing/</guid>
+      <pubDate>Thu, 23 May 2024 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国起诉拆分 Ticketmaster 和 Live Nation，指控滥用垄断</title>
+      <link>https://www.wired.com/story/ticketmaster-live-nation-doj-antitrust-lawsuit/</link>
+      <description><![CDATA[美国政府已对 Ticketmaster 及其母公司 Live Nation 提起反垄断诉讼，指控其滥用票务市场主导地位以消除良性竞争。]]></description>
+      <guid>https://www.wired.com/story/ticketmaster-live-nation-doj-antitrust-lawsuit/</guid>
+      <pubDate>Thu, 23 May 2024 14:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>司机们纷纷起来反对 Uber 的“不透明”薪酬系统</title>
       <link>https://www.wired.com/story/drivers-are-rising-up-against-ubers-opaque-pay-system/</link>
-      <description><![CDATA[在伦敦，优步司机正在抗议新的支付系统，他们说该系统无法理解决定他们获得报酬的算法。]]></description>
+      <description><![CDATA[在伦敦，Uber 司机正在抗议新的支付系统，他们认为该系统让他们无法理解决定他们获得多少报酬的算法。]]></description>
       <guid>https://www.wired.com/story/drivers-are-rising-up-against-ubers-opaque-pay-system/</guid>
       <pubDate>Thu, 23 May 2024 10:47:31 GMT</pubDate>
     </item>
     <item>
-      <title>尽管有新的无钥匙技术，特斯拉汽车仍可能被廉价的无线电黑客窃取</title>
+      <title>尽管有新的无钥匙技术，特斯拉仍然可以通过廉价的无线电黑客被盗</title>
       <link>https://www.wired.com/story/tesla-ultra-wideband-radio-relay-attacks/</link>
-      <description><![CDATA[超宽带无线电被誉为“中继攻击”的解决方案，可在几秒钟内窃取汽车。但研究人员发现配备它的特斯拉仍然像以前一样容易受到攻击。]]></description>
+      <description><![CDATA[超宽带无线电被誉为解决“中继攻击”的解决方案，这种攻击可以在几秒钟内窃取汽车。但研究人员发现，配备该技术的特斯拉汽车仍然像以往一样容易受到攻击。]]></description>
       <guid>https://www.wired.com/story/tesla-ultra-wideband-radio-relay-attacks/</guid>
       <pubDate>Wed, 22 May 2024 14:00:00 GMT</pubDate>
     </item>
@@ -29,7 +50,7 @@
     <item>
       <title>斯嘉丽·约翰逊诉 OpenAI 的法庭审判会是什么样子</title>
       <link>https://www.wired.com/story/scarlett-johansson-v-openai-could-look-like-in-court/</link>
-      <description><![CDATA[如果斯嘉丽约翰逊对 OpenAI 采取法律行动，因为 OpenAI 为 ChatGPT 提供了她所说的“与我的极其相似”的声音，她可能会声称该公司侵犯了她的公开权。]]></description>
+      <description><![CDATA[如果斯嘉丽·约翰逊 (Scarlett Johansson) 因 OpenAI 为 ChatGPT 赋予了一种她认为“与我的极为相似”的声音而对其采取法律行动，她可能会声称该公司侵犯了她的公开权。]]></description>
       <guid>https://www.wired.com/story/scarlett-johansson-v-openai-could-look-like-in-court/</guid>
       <pubDate>Wed, 22 May 2024 10:30:00 GMT</pubDate>
     </item>
@@ -62,7 +83,7 @@
       <pubDate>Tue, 21 May 2024 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能是一个黑匣子。人类想出了一种观察内部的方法</title>
+      <title>人工智能是一个黑匣子。Anthropic 找到了一种观察其内部的方法</title>
       <link>https://www.wired.com/story/anthropic-black-box-ai-research-neurons-features/</link>
       <description><![CDATA[人工神经网络的工作原理在很大程度上是一个谜，即使对于它们的创造者来说也是如此。但 Anthropic 的研究人员已经看到了这一点。]]></description>
       <guid>https://www.wired.com/story/anthropic-black-box-ai-research-neurons-features/</guid>
@@ -88,27 +109,6 @@
       <description><![CDATA[斯嘉丽·约翰逊 (Scarlett Johansson) 在一份措辞激烈的声明中声称，在她拒绝为 ChatGPT 配音的邀请后，OpenAI 仍然厚颜无耻地模仿了她独特的语气。]]></description>
       <guid>https://www.wired.com/story/scarlett-johansson-says-openai-ripped-off-her-voice-for-chatgpt/</guid>
       <pubDate>Mon, 20 May 2024 23:38:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作人工智能模型来销售真人衣服</title>
-      <link>https://www.wired.com/story/your-next-job-ai-modeling-agent/</link>
-      <description><![CDATA[在人工智能建模机构工作意味着教像素如何微笑——并过滤掉长着三个脑袋的人。]]></description>
-      <guid>https://www.wired.com/story/your-next-job-ai-modeling-agent/</guid>
-      <pubDate>Mon, 20 May 2024 19:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>法官裁定克雷格·赖特（Craig Wright）谎称创造比特币并伪造证据</title>
-      <link>https://www.wired.com/story/craig-wright-lied-faked-evidence-bitcoin-judge-says/</link>
-      <description><![CDATA[英国一名法官认定克雷格·赖特在一场运动中伪造了证据，以证明他是比特币的创造者中本聪，此举阻止了他在该国提起进一步的诉讼。]]></description>
-      <guid>https://www.wired.com/story/craig-wright-lied-faked-evidence-bitcoin-judge-says/</guid>
-      <pubDate>Mon, 20 May 2024 11:01:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>收购 TikTok 的竞赛已经开始，但可能没有赢家</title>
-      <link>https://www.wired.com/story/tiktoks-suitors-face-an-uphill-battle/</link>
-      <description><![CDATA[投资者有兴趣购买 TikTok，以便它可以避免美国的禁令。但即使字节跳动接受，收购也远非简单。]]></description>
-      <guid>https://www.wired.com/story/tiktoks-suitors-face-an-uphill-battle/</guid>
-      <pubDate>Fri, 17 May 2024 15:50:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
