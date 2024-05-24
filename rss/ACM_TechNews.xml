@@ -4,110 +4,109 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Wed, 22 May 2024 15:07:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 15:08:20 GMT</lastBuildDate>
     <item>
-      <title>国家漏洞数据库积压问题立即采取行动</title>
-      <link>https://www.csoonline.com/article/2106228/backlogs-at-national-vulnerability-database-prompt-action-from-nist-and-cisa.html</link>
-      <description><![CDATA[CSO Online联邦机构正在向私营部门求助，以缓解美国国家漏洞数据库 (NVD) 的积压问题。Chainguard 的 Kaylin Trychon 表示，积压问题导致常见漏洞和暴露 (CVE) 信息更新延迟。Trychon 指出，常见平台枚举匹配在 2 月 15 日左右停止，“这意味着 CVE 条目不包含有关‘哪些软件实际受到影响’的任何元数据。”今年早些时候，NVD 表示正在考虑成立一个行业联盟来帮助改进数据库。摘自“国家漏洞数据库积压问题促使采取行动”
-CSO Online (05/15/24) Jr.，John Mello 查看全文]]></description>
-      <guid>https://www.csoonline.com/article/2106228/backlogs-at-national-vulnerability-database-prompt-action-from-nist-and-cisa.html</guid>
-      <pubDate>Wed, 22 May 2024 15:07:44 GMT</pubDate>
+      <title>VR 耳机提供 360 度视野</title>
+      <link>https://www.newscientist.com/article/2431014-vr-headset-can-give-you-360-degree-vision-like-an-owl/</link>
+      <description><![CDATA[New Scientist法国蒙彼利埃计算机科学、机器人和微电子实验室的研究人员开发的系统使用 VR 耳机、摄像头和专业软件为用户提供 360 度视觉。研究人员在 HTC Vive Pro Eye 耳机上安装了一个 360 度摄像头，用于测量头部旋转并显示摄像头全景视频的一部分。该软件将用户转动头部时的可用视野加倍。摘自“VR 耳机提供 360 度视觉”
+新科学家 (05/20/24) 马修·斯帕克斯 查看完整文章 - 可能需要付费订阅]]></description>
+      <guid>https://www.newscientist.com/article/2431014-vr-headset-can-give-you-360-degree-vision-like-an-owl/</guid>
+      <pubDate>Fri, 24 May 2024 15:08:19 GMT</pubDate>
     </item>
     <item>
-      <title>智能表面开发可以解决室内定位问题</title>
-      <link>https://www.theengineer.co.uk/content/news/intelligent-surfaces-development-could-solve-indoor-positioning-problem</link>
-      <description><![CDATA[工程师由英国格拉斯哥大学研究人员领导的团队增强了可重构智能表面 (RIS) 这种新兴无线通信技术的定位潜力。研究人员将一个 1.3 平方米的 RIS 与 4,096 个元件配对，并配有两个通用串行无线电外围设备作为接收器和发射器。他们将 RIS 配置为通过将光束转向九个不同位置并从每个位置发送测试信号来将信号从发射器反射到接收器，然后测试机器学习算法以确定哪个识别信号最准确。摘自《智能表面开发可解决室内定位问题》
-工程师 (05/17/24) 查看全文]]></description>
-      <guid>https://www.theengineer.co.uk/content/news/intelligent-surfaces-development-could-solve-indoor-positioning-problem</guid>
-      <pubDate>Wed, 22 May 2024 15:07:43 GMT</pubDate>
+      <title>黑客让火车起死回生</title>
+      <link>https://www.wsj.com/tech/cybersecurity/hackers-trains-disabled-poland-1b1f501a</link>
+      <description><![CDATA[《华尔街日报》波兰的 SPS 向黑客求助，以解决其受雇翻新的 Dolnoslaskie 铁路列车出现的故障。来自 Dragon Sector 组织的三名“白帽”黑客确定，大约十几台火车计算机中的软件代码可能会导致列车关闭。他们将代码追溯到 SPS 的竞争对手 Newag，该公司失去了翻新火车的合同，但否认了这些指控。 Dragon Sector 黑客最终设计了代码的编程变通方法。摘自“黑客让火车复活”
+华尔街日报 (05/19/24) 杰克·吉勒姆； Karolina Jeznach 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/tech/cybersecurity/hackers-trains-disabled-poland-1b1f501a</guid>
+      <pubDate>Fri, 24 May 2024 15:08:19 GMT</pubDate>
     </item>
     <item>
-      <title>当在线内容消失时</title>
-      <link>https://www.pewresearch.org/data-labs/2024/05/17/when-online-content-disappears/</link>
-      <description><![CDATA[皮尤研究中心皮尤研究中心报告称，2013 年存在的网页中有 38% 不再可用，去年存在的网页中有 8% 已不再可用。分析还发现，23% 的新闻网页和 21% 的政府网页包含至少一个损坏的链接，54% 的维基百科页面包含至少一个损坏的“参考文献”链接。 摘自《当在线内容消失时》
-皮尤研究中心 (05/17/24) Athena Chapekis；塞缪尔·贝斯特瓦特；艾玛·雷米；等 查看全文]]></description>
-      <guid>https://www.pewresearch.org/data-labs/2024/05/17/when-online-content-disappears/</guid>
-      <pubDate>Wed, 22 May 2024 15:07:43 GMT</pubDate>
+      <title>用橡胶计算</title>
+      <link>https://amolf.nl/news/computing-with-rubber</link>
+      <description><![CDATA[AMOLF（荷兰）荷兰莱顿大学和 AMOLF 研究所的研究人员表明，智能橡胶结构可用于执行计算任务。他们建造了一台橡胶计算机，用作两位二进制计数器，以预弯曲橡胶梁作为机械位；计数是通过拉伸超材料来实现的。 摘自《橡胶计算》
+AMOLF（荷兰）(05/21/24) 查看全文]]></description>
+      <guid>https://amolf.nl/news/computing-with-rubber</guid>
+      <pubDate>Fri, 24 May 2024 15:08:18 GMT</pubDate>
     </item>
     <item>
-      <title>学生发现洗衣机中的安全漏洞</title>
-      <link>https://techcrunch.com/2024/05/17/csc-serviceworks-free-laundry-million-machines/</link>
-      <description><![CDATA[Tech Crunch加州大学圣克鲁斯分校的两名学生发现 CSC ServiceWorks 联网洗衣机使用的移动应用程序存在安全漏洞，该漏洞可能允许用户无需付费即可洗衣服。学生们能够向机器发送远程命令来运行一个周期，而无需 CSC 洗衣账户上的钱，并且能够通过 CSC Go 移动应用程序让洗衣账户看起来好像有数百万美元的余额。 摘自“学生发现洗衣机中的安全漏洞”
-Tech Crunch (05/17/24) Zack Whittaker 查看全文]]></description>
-      <guid>https://techcrunch.com/2024/05/17/csc-serviceworks-free-laundry-million-machines/</guid>
-      <pubDate>Wed, 22 May 2024 15:07:42 GMT</pubDate>
+      <title>机器人手掌模仿人类触摸</title>
+      <link>https://news.mit.edu/2024/robotic-palm-mimics-human-touch-0520</link>
+      <description><![CDATA[MIT 新闻麻省理工学院的研究人员开发了一种带有嵌入式手掌传感器的机械手，以实现与物体更安全的交互。受人手的启发，GelPalm 在手掌中配备了基于凝胶的柔性传感器，ROMEO（RObotic 模块化内骨骼光学）手指也采用了类似的传感技术，从而实现了更大的灵活性和更稳定的抓握。摘自“机械手掌模仿人类触摸”
+MIT 新闻 (05/20/24) Rachel Gordon 查看全文]]></description>
+      <guid>https://news.mit.edu/2024/robotic-palm-mimics-human-touch-0520</guid>
+      <pubDate>Fri, 24 May 2024 15:08:18 GMT</pubDate>
     </item>
     <item>
-      <title>AI能让PC再次酷起来吗？</title>
-      <link>https://www.nytimes.com/2024/05/20/technology/microsoft-copilot-ai-pc.html</link>
-      <description><![CDATA[纽约时报微软推出了可以运行人工智能系统的个人电脑。 Copilot+ PC 将包含在运行 Windows 操作系统的 Microsoft Surface 笔记本电脑和其他制造商的高端笔记本电脑中。在过去的二十年里，由于软件转移到云计算中心，对最快笔记本电脑的需求已经减少。微软将直接在个人计算机上运行人工智能系统，以消除与在数据中心运行大型人工智能模型相关的滞后时间和成本。摘自“人工智能能让 PC 再次酷起来吗？”
-纽约时报 (05/20/24) Karen Weise； Brian X. Chen 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/05/20/technology/microsoft-copilot-ai-pc.html</guid>
-      <pubDate>Wed, 22 May 2024 15:07:42 GMT</pubDate>
+      <title>量子掩护下的云计算</title>
+      <link>https://physics.aps.org/articles/v17/85</link>
+      <description><![CDATA[物理学英国牛津大学和法国索邦大学的研究人员演示了使用捕获离子的盲量子计算。量子云系统的“服务器”由锶离子（网络量子位）和钙离子（记忆量子位）制成。服务器不知道网络量子位的电子状态，但仍然可以通过基于激光的过程来处理其信息，该过程使网络和内存量子位纠缠在一起。该系统还采用一次性一密加密技术对信息进行编码，对服务器隐藏数据和操作。摘自《量子掩护下的云计算》
+物理 (05/21/24) Michael Schirber 查看全文]]></description>
+      <guid>https://physics.aps.org/articles/v17/85</guid>
+      <pubDate>Fri, 24 May 2024 15:08:17 GMT</pubDate>
     </item>
     <item>
-      <title>比特币开发商将“可编程性”吹捧为下一次反弹的催化剂</title>
-      <link>https://www.bloomberg.com/news/articles/2024-05-19/bitcoin-developers-tout-programmability-as-the-catalyst-for-the-next-rally</link>
-      <description><![CDATA[彭博社为比特币区块链添加可编程性可能会推动加密货币的下一次大涨。去年推出的比特币序号允许通过将数据嵌入到聪（比特币的最小面额）上来创建不可替代的代币，这将开发人员的注意力转向了整个网络的软件升级，以更轻松地实现可编程性。 Layer 1 基金会正在为 BRC-20 元协议开发可编程模块。摘自“比特币开发者将‘可编程性’作为下一次反弹的催化剂”
-彭博社 (05/19/24) 奥尔加·卡里夫 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-05-19/bitcoin-developers-tout-programmability-as-the-catalyst-for-the-next-rally</guid>
-      <pubDate>Wed, 22 May 2024 15:07:41 GMT</pubDate>
+      <title>各国开始监管人工智能</title>
+      <link>https://apnews.com/article/artificial-intelligence-bias-discrimination-regulation-ai-ff1d0860663723079aac3666b38f2320</link>
+      <description><![CDATA[美联社科罗拉多州州长贾里德·波利斯（如图）签署了旨在防止人工智能系统在招聘、住房和医疗决策方面歧视的立法。使用人工智能系统做出此类决策的公司必须每年评估系统是否存在潜在偏差。他们还必须建立监督计划，如果发现歧视，则通知州总检察长，并通知客户决策过程中使用了人工智能，并提供上诉选项。摘自“各州转向监管人工智能”
+美联社 (05/23/24) Jesse Bedayn 查看全文]]></description>
+      <guid>https://apnews.com/article/artificial-intelligence-bias-discrimination-regulation-ai-ff1d0860663723079aac3666b38f2320</guid>
+      <pubDate>Fri, 24 May 2024 15:08:17 GMT</pubDate>
     </item>
     <item>
-      <title>应用程序将精神科医生放在您的口袋里</title>
-      <link>https://spectrum.ieee.org/mood-tracker</link>
-      <description><![CDATA[IEEE Spectrum一些应用程序被动地从用户的手机收集数据来跟踪他们的精神状态。这些应用程序在后台运行，同时收集有关打字、用户动作、屏幕时间、通话和短信频率以及 GPS 位置的数据。 BiAffect 和 Ellipsis Health 等应用程序可以识别用户日常生活中的细微变化，并帮助医生在就诊期间监测患者。摘自“应用程序将精神科医生放在您的口袋里”
-IEEE Spectrum (05/19/24) Gwendolyn Rak 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/mood-tracker</guid>
-      <pubDate>Wed, 22 May 2024 15:07:41 GMT</pubDate>
+      <title>中子输运方程中的兆字节级数据压缩</title>
+      <link>https://www.hpcwire.com/off-the-wire/los-alamos-achieves-yottabyte-scale-data-compression-in-neutron-transport-equations/</link>
+      <description><![CDATA[HPCwire洛斯阿拉莫斯国家实验室研究人员开发的张量网络方法利用数据科学和机器学习来求解现实世界的中子输运方程。研究人员使用混合张量序列（TT）加量化张量序列（QTT）方法在标准台式计算机上求解笛卡尔几何中与时间无关的玻尔兹曼中子输运方程。 TT/QTT 方法创下了将 TB 级中子流存储压缩至兆字节级的记录，并且在解决中子输运问题方面优于实验室的 PARallel 时间相关离散坐标代码。来自“中子输运方程中的兆字节级数据压缩”
+HPCwire (05/22/24) 查看全文]]></description>
+      <guid>https://www.hpcwire.com/off-the-wire/los-alamos-achieves-yottabyte-scale-data-compression-in-neutron-transport-equations/</guid>
+      <pubDate>Fri, 24 May 2024 15:08:16 GMT</pubDate>
     </item>
     <item>
-      <title>美国警告针对供水系统的网络攻击正在增加</title>
-      <link>https://apnews.com/article/water-utilities-cyberattack-epa-russia-1435b3e6a569aa046e05c7947f0a0f3d</link>
-      <description><![CDATA[美联社美国环境保护局（EPA）周一发布执法警报，警告美国水务公司警惕日益频繁和严重的网络攻击，并表示将根据检查情况追究民事或刑事处罚。该警报显示，去年接受检查的公用事业公司中约有 70% 违反了旨在防止黑客攻击的标准。美国环保署副署长珍妮特·麦凯布表示，中国、俄罗斯和伊朗“正在积极寻求使美国关键基础设施瘫痪的能力。”摘自“美国警告针对供水系统的网络攻击正在增加”
-美联社 (05/20/24) 迈克尔·菲利斯；马修·戴利 查看全文]]></description>
-      <guid>https://apnews.com/article/water-utilities-cyberattack-epa-russia-1435b3e6a569aa046e05c7947f0a0f3d</guid>
-      <pubDate>Wed, 22 May 2024 15:07:40 GMT</pubDate>
+      <title>机器人 3D 打印减震形状</title>
+      <link>https://interestingengineering.com/innovation/us-army-robot-3d-prints-shock-absorbing-shape</link>
+      <description><![CDATA[有趣的工程波士顿大学研究人员展示了 3D 打印机器人利用人工智能制造先进材料的能力。 MAMA BEAR（增材制造建筑力学贝叶斯实验自主研究员）机器人于 2021 年进行编程，以创造出具有尽可能高的机械能吸收效率的形状，自此以来，它已在不间断运行的同时生产了超过 25,000 个 3D 打印结构。&lt; br /&gt;摘自《机器人3D打印减震形状》
+有趣的工程 (05/21/24) Jijomaleil 查看全文]]></description>
+      <guid>https://interestingengineering.com/innovation/us-army-robot-3d-prints-shock-absorbing-shape</guid>
+      <pubDate>Fri, 24 May 2024 15:08:16 GMT</pubDate>
     </item>
     <item>
-      <title>如果中国入侵台湾，ASML、台积电可能会禁用芯片机器</title>
-      <link>https://www.bloomberg.com/news/articles/2024-05-21/asml-tsmc-can-disable-chip-machines-if-china-invades-taiwan?srnd=homepage-americas&amp;sref=db2f3qgr</link>
-      <description><![CDATA[彭博社消息人士称，如果中国入侵台湾，荷兰的 ASML Holding NV 和台积电 (TSMC) 可以让世界上最先进的芯片制造机器瘫痪。远程关闭适用于 ASML 的极紫外机器 (EUV) 系列，台积电是其最大的单一客户。 EUV 利用高频光波打印现有最小的微芯片晶体管。 摘自《如果中国入侵台湾，ASML、台积电可以禁用芯片机》
-彭博社 (05/21/24) Diederik Baazil；卡根·科克；乔丹·罗伯逊 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-05-21/asml-tsmc-can-disable-chip-machines-if-china-invades-taiwan?srnd=homepage-americas&amp;sref=db2f3qgr</guid>
-      <pubDate>Wed, 22 May 2024 15:07:39 GMT</pubDate>
+      <title>NASA 野火数字孪生预测火灾、烟雾</title>
+      <link>https://www.techtimes.com/articles/304876/20240522/nasa-unveils-wildfire-digital-twin-leveraging-ai-forecast-fire-smoke.htm</link>
+      <description><![CDATA[科技时报通过美国宇航局的野火数字孪生项目，由马里兰大学计算机科学家 Milton Halem 领导的研究人员将生成具有增强空间分辨率的集合模型，以便更准确、更详细地预测野火蔓延和烟雾运动。新模型的空间分辨率为每像素 10 至 30 米，而当前模型的空间分辨率为每像素 10 公里。摘自“NASA 野火数字孪生预报火灾、烟雾”
+科技时报 (05/22/24) Jace Dela Cruz 查看全文]]></description>
+      <guid>https://www.techtimes.com/articles/304876/20240522/nasa-unveils-wildfire-digital-twin-leveraging-ai-forecast-fire-smoke.htm</guid>
+      <pubDate>Fri, 24 May 2024 15:08:15 GMT</pubDate>
     </item>
     <item>
-      <title>脑植入物使瘫痪男子恢复双语交流</title>
-      <link>https://arstechnica.com/science/2024/05/single-brain-implant-gives-paralyzed-man-bilingual-communication/</link>
-      <description><![CDATA[Ars Technica加利福尼亚大学旧金山分校的研究人员将植入物植入一位懂西班牙语和英语的瘫痪男子的大脑运动区域，以测量与言语相关的神经活动。研究人员训练系统的软件部分来识别参与者何时想要说特定的单词，这涉及到他想象说这些单词，并且软件知道他想要说的单词。参与者最终能够使用该系统参与对话。摘自《大脑植入物恢复瘫痪男子的双语交流》
-Ars Technica (05/20/24) 约翰·蒂默 查看全文]]></description>
-      <guid>https://arstechnica.com/science/2024/05/single-brain-implant-gives-paralyzed-man-bilingual-communication/</guid>
-      <pubDate>Wed, 22 May 2024 15:07:39 GMT</pubDate>
+      <title>美国酒店入住电脑上发现间谍软件</title>
+      <link>https://techcrunch.com/2024/05/22/spyware-found-on-hotel-check-in-computers/</link>
+      <description><![CDATA[Tech Crunch安全研究员 Eric Daigle 发现美国至少三家温德姆酒店的入住系统上运行着一款消费级间谍软件应用程序。pcTattletale 应用程序会截取客人详细信息和客户信息的屏幕截图，并间谍软件中的安全漏洞允许任何人直接从应用程序的服务器下载屏幕截图。来自“美国酒店入住计算机上发现的间谍软件”
+Tech Crunch (05/22/24) Zack Whittaker 查看全文]]></description>
+      <guid>https://techcrunch.com/2024/05/22/spyware-found-on-hotel-check-in-computers/</guid>
+      <pubDate>Fri, 24 May 2024 15:08:15 GMT</pubDate>
     </item>
     <item>
-      <title>专家表示，世界尚未为人工智能的突破做好准备</title>
-      <link>https://www.theguardian.com/technology/article/2024/may/20/world-is-ill-prepared-for-breakthroughs-in-ai-say-experts</link>
-      <description><![CDATA[英国卫报由 25 名人工智能专家组成的小组发表了一篇论文，指出世界尚未为人工智能突破做好准备，政府必须采取更多措施来监管该技术。包括 ACM 图灵奖获得者杰弗里·辛顿 (Geoffrey Hinton) 和约书亚·本吉奥 (Yoshua Bengio) 在内的专家呼吁政府建立安全制度，在人工智能系统达到一定能力水平时触发监管行动。摘自《世界尚未做好准备》专家表示，人工智能的突破“
-英国卫报 (05/20/24) Dan Milmo]]></description>
-      <guid>https://www.theguardian.com/technology/article/2024/may/20/world-is-ill-prepared-for-breakthroughs-in-ai-say-experts</guid>
-      <pubDate>Wed, 22 May 2024 15:07:38 GMT</pubDate>
+      <title>韩国拨出 190 亿美元用于芯片制造</title>
+      <link>https://www.bloomberg.com/news/articles/2024-05-23/south-korea-sets-aside-record-19-billion-to-boost-chip-industry</link>
+      <description><![CDATA[彭博社韩国宣布了一项 26 万亿韩元（190 亿美元）的激励计划，以支持其芯片产业。这标志着该国迄今为止对芯片行业最大的支持，同时政府正在制定计划，在首尔郊外建立一个大型芯片工厂集群。摘自“韩国拨出 190 亿美元用于芯片制造” “
+彭博社 (05/22/24) Soo-Hyang Choi；尤林·李；康兴惠;等 查看全文]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-05-23/south-korea-sets-aside-record-19-billion-to-boost-chip-industry</guid>
+      <pubDate>Fri, 24 May 2024 15:08:14 GMT</pubDate>
     </item>
     <item>
-      <title>计算机科学专业的毕业生进入一个机会更少的世界</title>
-      <link>https://www.wsj.com/lifestyle/careers/computer-science-majors-job-market-7ad443bf</link>
-      <description><![CDATA[华尔街日报随着科技巨头将注意力从入门级程序员转移到寻找人工智能专业知识或正在裁员，计算机科学毕业生发现在其学科中找到工作变得更加困难。 Indeed 报告称，与大流行前相比，软件开发职位的招聘数量减少了 30%。与此同时，美国教育部报告称，去年有超过 60 万名计算机和信息科学专业的学生，​​五年来增长了 40%。摘自“计算机科学专业的毕业生进入了一个机会更少的世界”&lt; br/&gt;
-华尔街日报 (05/20/24) 凯瑟琳·宾德利；科里·德里布什；林赛·埃利斯 查看全文  - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/lifestyle/careers/computer-science-majors-job-market-7ad443bf</guid>
-      <pubDate>Wed, 22 May 2024 15:07:38 GMT</pubDate>
+      <title>机器人研究先驱被任命为 ACM Athena 讲师</title>
+      <link>https://www.acm.org/media-center/2024/may/athena-2024</link>
+      <description><![CDATA[ACM 新闻稿查看全文]]></description>
+      <guid>https://www.acm.org/media-center/2024/may/athena-2024</guid>
+      <pubDate>Fri, 24 May 2024 15:08:13 GMT</pubDate>
     </item>
     <item>
-      <title>个人电脑原型的创造者 C. Gordon Bell 去世，享年 89 岁</title>
-      <link>https://www.nytimes.com/2024/05/21/technology/c-gordon-bell-dead.html</link>
-      <description><![CDATA[纽约时报C.戈登·贝尔，被誉为“计算机界的弗兰克·劳埃德·赖特”由Datamation杂志撰写，于周五去世，享年 89 岁。贝尔是致力于创建更小、价格实惠、可以集群到网络的交互式计算机的首席架构师。他建造了第一台分时计算机，并且是一群工程师中的一员，他们的设计在大型机时代的房间大小的模型和个人计算机的出现之间架起了桥梁。他还赞助了 ACM Gordon Bell 奖，以表彰其在并行计算方面的工作。摘自“C. Gordon Bell，个人计算机原型的创建者，于 89 岁去世”
-纽约时报 (05/21/24) Glenn Rifkin 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/05/21/technology/c-gordon-bell-dead.html</guid>
-      <pubDate>Wed, 22 May 2024 15:07:37 GMT</pubDate>
+      <title>全球人工智能峰会获得企业安全承诺</title>
+      <link>https://www.reuters.com/technology/global-ai-summit-seoul-aims-forge-new-regulatory-agreements-2024-05-21/</link>
+      <description><![CDATA[路透社在5月21日的全球人工智能峰会上，16家公司承诺优先考虑人工智能安全。这些公司包括 Meta、微软、OpenAI、亚马逊、三星电子以及中国、韩国和阿联酋的公司，承诺发布用于衡量人工智能风险的安全框架，避免在风险无法充分缓解时使用模型，并确保治理摘自《全球人工智能峰会确保企业安全承诺》
+路透社 (05/21/24) 乔伊斯·李 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/global-ai-summit-seoul-aims-forge-new-regulatory-agreements-2024-05-21/</guid>
+      <pubDate>Fri, 24 May 2024 15:08:13 GMT</pubDate>
     </item>
     </channel>
 </rss>

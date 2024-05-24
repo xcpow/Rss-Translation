@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业最新</title>
+    <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Fri, 24 May 2024 12:12:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 15:08:26 GMT</lastBuildDate>
     <item>
       <title>法官暗示计划遏制谷歌非法 Play 商店垄断</title>
       <link>https://www.wired.com/story/judge-plans-rein-in-googles-illegal-play-store-monopoly/</link>
-      <description><![CDATA[美国联邦法官詹姆斯·多纳托 (James Donato) 周四在陪审团发现该公司违反反垄断法后讨论下一步行动的听证会上表示：“谷歌作为非法垄断者将不得不支付一些罚款。”]]></description>
+      <description><![CDATA[美国联邦法官詹姆斯·多纳托 (James Donato) 周四在陪审团裁定该公司违反反垄断法后讨论下一步行动的听证会上表示：“谷歌作为非法垄断者将不得不支付一些罚款。”]]></description>
       <guid>https://www.wired.com/story/judge-plans-rein-in-googles-illegal-play-store-monopoly/</guid>
       <pubDate>Thu, 23 May 2024 23:56:25 GMT</pubDate>
     </item>
@@ -43,7 +43,7 @@
     <item>
       <title>尽管有新的无钥匙技术，特斯拉仍然可以通过廉价的无线电黑客被盗</title>
       <link>https://www.wired.com/story/tesla-ultra-wideband-radio-relay-attacks/</link>
-      <description><![CDATA[超宽带无线电被誉为“中继攻击”的解决方案，可在几秒钟内窃取汽车。但研究人员发现配备它的特斯拉仍然像以前一样容易受到攻击。]]></description>
+      <description><![CDATA[超宽带无线电被誉为解决“中继攻击”的解决方案，这种攻击可以在几秒钟内窃取汽车。但研究人员发现，配备该技术的特斯拉汽车仍然像以往一样容易受到攻击。]]></description>
       <guid>https://www.wired.com/story/tesla-ultra-wideband-radio-relay-attacks/</guid>
       <pubDate>Wed, 22 May 2024 14:00:00 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>加密货币占星家看到星星的价格变动</title>
       <link>https://www.wired.com/story/crypto-astrologers-predictions/</link>
-      <description><![CDATA[他们根据行星运动预测比特币的涨跌，而他们超级隐秘的客户会倾听。]]></description>
+      <description><![CDATA[他们根据行星运动预测比特币的涨跌，而他们的超级秘密客户则听着。]]></description>
       <guid>https://www.wired.com/story/crypto-astrologers-predictions/</guid>
       <pubDate>Tue, 21 May 2024 11:30:00 GMT</pubDate>
     </item>
