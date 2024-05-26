@@ -3,10 +3,10 @@
   <channel>
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
-    <description>频道说明</description>
-    <lastBuildDate>Sun, 26 May 2024 06:09:21 GMT</lastBuildDate>
+    <description>频道描述</description>
+    <lastBuildDate>Sun, 26 May 2024 09:07:29 GMT</lastBuildDate>
     <item>
-      <title>法官暗示计划遏制谷歌非法 Play 商店垄断</title>
+      <title>法官暗示计划遏制谷歌 Play Store 的非法垄断</title>
       <link>https://www.wired.com/story/judge-plans-rein-in-googles-illegal-play-store-monopoly/</link>
       <description><![CDATA[美国联邦法官詹姆斯·多纳托 (James Donato) 周四在陪审团发现该公司违反反垄断法后讨论下一步行动的听证会上表示：“谷歌作为非法垄断者将不得不支付一些罚款。”]]></description>
       <guid>https://www.wired.com/story/judge-plans-rein-in-googles-illegal-play-store-monopoly/</guid>
@@ -20,7 +20,7 @@
       <pubDate>Thu, 23 May 2024 19:22:11 GMT</pubDate>
     </item>
     <item>
-      <title>袖珍人工智能模型可以开启计算新时代</title>
+      <title>袖珍型人工智能模型或将开启计算新时代</title>
       <link>https://www.wired.com/story/pocket-sized-ai-models-unlock-new-era-of-computing/</link>
       <description><![CDATA[微软的研究表明，可以让人工智能模型足够小，可以在手机或笔记本电脑上运行，而不会对其智能造成重大影响。该技术可以为人工智能开辟新的用例。]]></description>
       <guid>https://www.wired.com/story/pocket-sized-ai-models-unlock-new-era-of-computing/</guid>
@@ -29,7 +29,7 @@
     <item>
       <title>美国起诉拆分 Ticketmaster 和 Live Nation，指控滥用垄断</title>
       <link>https://www.wired.com/story/ticketmaster-live-nation-doj-antitrust-lawsuit/</link>
-      <description><![CDATA[美国政府已对Ticketmaster及其母公司Live Nation提起反垄断诉讼，指控其滥用其在票务市场的主导地位来消除良性竞争。]]></description>
+      <description><![CDATA[美国政府已对 Ticketmaster 及其母公司 Live Nation 提起反垄断诉讼，指控其滥用票务市场主导地位以消除良性竞争。]]></description>
       <guid>https://www.wired.com/story/ticketmaster-live-nation-doj-antitrust-lawsuit/</guid>
       <pubDate>Thu, 23 May 2024 14:30:00 GMT</pubDate>
     </item>
@@ -41,7 +41,7 @@
       <pubDate>Thu, 23 May 2024 10:47:31 GMT</pubDate>
     </item>
     <item>
-      <title>尽管有新的无钥匙技术，特斯拉仍然可以通过廉价的无线电黑客被盗</title>
+      <title>尽管有新的无钥匙技术，特斯拉汽车仍可能被廉价的无线电黑客窃取</title>
       <link>https://www.wired.com/story/tesla-ultra-wideband-radio-relay-attacks/</link>
       <description><![CDATA[超宽带无线电被誉为“中继攻击”的解决方案，可在几秒钟内窃取汽车。但研究人员发现配备它的特斯拉仍然像以前一样容易受到攻击。]]></description>
       <guid>https://www.wired.com/story/tesla-ultra-wideband-radio-relay-attacks/</guid>
@@ -57,7 +57,7 @@
     <item>
       <title>斯嘉丽·约翰逊诉 OpenAI 的法庭审判会是什么样子</title>
       <link>https://www.wired.com/story/scarlett-johansson-v-openai-could-look-like-in-court/</link>
-      <description><![CDATA[如果斯嘉丽约翰逊对 OpenAI 采取法律行动，因为 OpenAI 为 ChatGPT 提供了她所说的“与我的极其相似”的声音，她可能会声称该公司侵犯了她的公开权。]]></description>
+      <description><![CDATA[如果斯嘉丽·约翰逊 (Scarlett Johansson) 因 OpenAI 为 ChatGPT 赋予了一种她认为“与我的极为相似”的声音而对其采取法律行动，她可能会声称该公司侵犯了她的公开权。]]></description>
       <guid>https://www.wired.com/story/scarlett-johansson-v-openai-could-look-like-in-court/</guid>
       <pubDate>Wed, 22 May 2024 10:30:00 GMT</pubDate>
     </item>
@@ -69,7 +69,7 @@
       <pubDate>Wed, 22 May 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>我们站在纽约—都柏林门户的两侧，感觉非常光荣</title>
+      <title>我们站在纽约-都柏林门户的两侧，这是光荣的</title>
       <link>https://www.wired.com/story/new-york-dublin-portal-reopening/</link>
       <description><![CDATA[数百人和两名《连线》杂志记者聚集在该门户网站，该门户网站因“不当行为”而关闭后再次开放。]]></description>
       <guid>https://www.wired.com/story/new-york-dublin-portal-reopening/</guid>
@@ -85,19 +85,19 @@
     <item>
       <title>谷歌利用人工智能向购物者展示衣服如何适合不同的身体</title>
       <link>https://www.wired.com/story/google-ai-shopping-clothes-fit-different-bodies/</link>
-      <description><![CDATA[一种新型在线广告允许品牌向谷歌付费，为购物者提供人工智能生成的图像，展示服装在不同肤色和体型上的外观。]]></description>
+      <description><![CDATA[一种新型的在线广告允许品牌向谷歌付费，让其向购物者提供人工智能生成的图像，展示衣服在不同肤色和体型上穿起来的样子。]]></description>
       <guid>https://www.wired.com/story/google-ai-shopping-clothes-fit-different-bodies/</guid>
       <pubDate>Tue, 21 May 2024 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能是一个黑匣子。人类想出了一种观察内部的方法</title>
+      <title>人工智能是一个黑匣子。Anthropic 找到了一种观察其内部的方法</title>
       <link>https://www.wired.com/story/anthropic-black-box-ai-research-neurons-features/</link>
-      <description><![CDATA[人工神经网络的工作原理在很大程度上是一个谜，即使对于它们的创造者来说也是如此。但 Anthropic 的研究人员已经看到了这一点。]]></description>
+      <description><![CDATA[人工神经网络的工作原理在很大程度上是一个谜，甚至对其创建者来说也是如此。但 Anthropic 的研究人员对此有所了解。]]></description>
       <guid>https://www.wired.com/story/anthropic-black-box-ai-research-neurons-features/</guid>
       <pubDate>Tue, 21 May 2024 15:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>美国正与主要盟友组建全球人工智能安全网络</title>
+      <title>美国正在与主要盟友组建全球人工智能安全网络</title>
       <link>https://www.wired.com/story/us-forming-global-ai-safety-network-key-allies/</link>
       <description><![CDATA[美国商务部长吉娜·雷蒙多表示，美国正在与英国、日本和加拿大等其他国家合作，管理人工智能带来的风险。]]></description>
       <guid>https://www.wired.com/story/us-forming-global-ai-safety-network-key-allies/</guid>
