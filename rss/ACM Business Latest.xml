@@ -3,12 +3,12 @@
   <channel>
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
-    <description>频道描述</description>
-    <lastBuildDate>Sat, 25 May 2024 21:05:44 GMT</lastBuildDate>
+    <description>频道说明</description>
+    <lastBuildDate>Sun, 26 May 2024 00:36:58 GMT</lastBuildDate>
     <item>
       <title>法官暗示计划遏制谷歌非法 Play 商店垄断</title>
       <link>https://www.wired.com/story/judge-plans-rein-in-googles-illegal-play-store-monopoly/</link>
-      <description><![CDATA[美国联邦法官詹姆斯·多纳托 (James Donato) 周四在陪审团裁定该公司违反反垄断法后讨论下一步行动的听证会上表示：“谷歌作为非法垄断者将不得不支付一些罚款。”]]></description>
+      <description><![CDATA[美国联邦法官詹姆斯·多纳托 (James Donato) 周四在陪审团发现该公司违反反垄断法后讨论下一步行动的听证会上表示：“谷歌作为非法垄断者将不得不支付一些罚款。”]]></description>
       <guid>https://www.wired.com/story/judge-plans-rein-in-googles-illegal-play-store-monopoly/</guid>
       <pubDate>Thu, 23 May 2024 23:56:25 GMT</pubDate>
     </item>
@@ -36,7 +36,7 @@
     <item>
       <title>司机们纷纷起来反对 Uber 的“不透明”薪酬系统</title>
       <link>https://www.wired.com/story/drivers-are-rising-up-against-ubers-opaque-pay-system/</link>
-      <description><![CDATA[在伦敦，Uber 司机正在抗议新的支付系统，他们认为该系统让他们无法理解决定他们获得多少报酬的算法。]]></description>
+      <description><![CDATA[在伦敦，优步司机正在抗议新的支付系统，他们说该系统无法理解决定他们获得报酬的算法。]]></description>
       <guid>https://www.wired.com/story/drivers-are-rising-up-against-ubers-opaque-pay-system/</guid>
       <pubDate>Thu, 23 May 2024 10:47:31 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>WeWork 不敢去的地方，本地联合办公空间蓬勃发展</title>
       <link>https://www.wired.com/story/local-coworking-spaces-thrive-where-wework-dared-not-go/</link>
-      <description><![CDATA[一座废弃的教堂、一所学校和一个摩托车车库都是为远程工作者提供办公场所而涌现的超本地化新型共享办公空间之一。]]></description>
+      <description><![CDATA[一座废弃的教堂、一所学校和一个摩托车车库等超本地化的新联合办公空间突然出现，为远程工作者提供了一个去处。]]></description>
       <guid>https://www.wired.com/story/local-coworking-spaces-thrive-where-wework-dared-not-go/</guid>
       <pubDate>Wed, 22 May 2024 10:00:00 GMT</pubDate>
     </item>
@@ -83,14 +83,14 @@
       <pubDate>Tue, 21 May 2024 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌利用人工智能向购物者展示衣服如何适合不同的身体</title>
+      <title>谷歌利用人工智能向购物者展示衣服如何适合不同的体型</title>
       <link>https://www.wired.com/story/google-ai-shopping-clothes-fit-different-bodies/</link>
       <description><![CDATA[一种新型在线广告允许品牌向谷歌付费，为购物者提供人工智能生成的图像，展示服装在不同肤色和体型上的外观。]]></description>
       <guid>https://www.wired.com/story/google-ai-shopping-clothes-fit-different-bodies/</guid>
       <pubDate>Tue, 21 May 2024 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能是一个黑匣子。人类想出了一种观察内部的方法</title>
+      <title>人工智能是一个黑匣子。Anthropic 找到了一种观察其内部的方法</title>
       <link>https://www.wired.com/story/anthropic-black-box-ai-research-neurons-features/</link>
       <description><![CDATA[人工神经网络的工作原理在很大程度上是一个谜，即使对于它们的创造者来说也是如此。但 Anthropic 的研究人员已经看到了这一点。]]></description>
       <guid>https://www.wired.com/story/anthropic-black-box-ai-research-neurons-features/</guid>
@@ -99,7 +99,7 @@
     <item>
       <title>美国正在与主要盟友组建全球人工智能安全网络</title>
       <link>https://www.wired.com/story/us-forming-global-ai-safety-network-key-allies/</link>
-      <description><![CDATA[美国商务部长吉娜·雷蒙多表示，美国正在与英国、日本和加拿大等其他国家合作，管理人工智能带来的风险。]]></description>
+      <description><![CDATA[美国商务部长吉娜·雷蒙多表示，美国正在与英国、日本和加拿大等其他国家合作，共同应对人工智能带来的风险。]]></description>
       <guid>https://www.wired.com/story/us-forming-global-ai-safety-network-key-allies/</guid>
       <pubDate>Tue, 21 May 2024 13:01:00 GMT</pubDate>
     </item>
