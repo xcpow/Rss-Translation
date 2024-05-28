@@ -4,7 +4,21 @@
     <title>商业最新动态</title>
     <link>https://www.wired.com</link>
     <description>频道说明</description>
-    <lastBuildDate>Tue, 28 May 2024 09:07:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 12:13:11 GMT</lastBuildDate>
+    <item>
+      <title>研究人员如何破解价值 300 万美元的加密钱包 11 年前的密码</title>
+      <link>https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/</link>
+      <description><![CDATA[由于十年前版本的 RoboForm 密码管理器存在缺陷，再加上一点运气，研究人员能够找到一个包含大量财富的加密钱包的密码。]]></description>
+      <guid>https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/</guid>
+      <pubDate>Tue, 28 May 2024 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anduril 正在实现五角大楼的致命无人机群梦想</title>
+      <link>https://www.wired.com/story/anduril-is-building-out-the-pentagons-dream-of-deadly-drone-swarms/</link>
+      <description><![CDATA[美国军方的目标是通过建造能够与人类协作并压倒集群防御的自主攻击无人机来维持其主导地位。]]></description>
+      <guid>https://www.wired.com/story/anduril-is-building-out-the-pentagons-dream-of-deadly-drone-swarms/</guid>
+      <pubDate>Tue, 28 May 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>杂货店里的粉红菠萝是怎么回事？！</title>
       <link>https://www.wired.com/story/pink-pineapples-grocery-store-pinkglow-genetically-modified/</link>
@@ -13,7 +27,7 @@
       <pubDate>Mon, 27 May 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>法官暗示计划遏制谷歌非法 Play 商店垄断</title>
+      <title>法官暗示计划遏制谷歌 Play Store 的非法垄断</title>
       <link>https://www.wired.com/story/judge-plans-rein-in-googles-illegal-play-store-monopoly/</link>
       <description><![CDATA[美国联邦法官詹姆斯·多纳托 (James Donato) 周四在陪审团发现该公司违反反垄断法后讨论下一步行动的听证会上表示：“谷歌作为非法垄断者将不得不支付一些罚款。”]]></description>
       <guid>https://www.wired.com/story/judge-plans-rein-in-googles-illegal-play-store-monopoly/</guid>
@@ -22,7 +36,7 @@
     <item>
       <title>大多数美国 TikTok 创建者认为禁令不会发生</title>
       <link>https://www.wired.com/story/most-us-tiktok-creators-dont-think-a-ban-will-happen/</link>
-      <description><![CDATA[这款中国拥有的应用程序在华盛顿陷入了严重困境，但对美国创作者的一项调查显示，TikTok 的网红经济仍在照常运作。]]></description>
+      <description><![CDATA[这款中国拥有的应用程序在华盛顿遇到了严重麻烦，但对美国创作者的一项调查显示，TikTok 的影响者经济一切如常。]]></description>
       <guid>https://www.wired.com/story/most-us-tiktok-creators-dont-think-a-ban-will-happen/</guid>
       <pubDate>Thu, 23 May 2024 19:22:11 GMT</pubDate>
     </item>
@@ -50,7 +64,7 @@
     <item>
       <title>尽管有新的无钥匙技术，特斯拉仍然可以通过廉价的无线电黑客被盗</title>
       <link>https://www.wired.com/story/tesla-ultra-wideband-radio-relay-attacks/</link>
-      <description><![CDATA[超宽带无线电被誉为解决“中继攻击”的解决方案，这种攻击可以在几秒钟内窃取汽车。但研究人员发现，配备该技术的特斯拉汽车仍然像以往一样容易受到攻击。]]></description>
+      <description><![CDATA[超宽带无线电被誉为“中继攻击”的解决方案，可在几秒钟内窃取汽车。但研究人员发现配备它的特斯拉仍然像以前一样容易受到攻击。]]></description>
       <guid>https://www.wired.com/story/tesla-ultra-wideband-radio-relay-attacks/</guid>
       <pubDate>Wed, 22 May 2024 14:00:00 GMT</pubDate>
     </item>
@@ -92,23 +106,9 @@
     <item>
       <title>谷歌利用人工智能向购物者展示衣服如何适合不同的身体</title>
       <link>https://www.wired.com/story/google-ai-shopping-clothes-fit-different-bodies/</link>
-      <description><![CDATA[一种新型在线广告允许品牌向谷歌付费，为购物者提供人工智能生成的图像，展示服装在不同肤色和体型上的外观。]]></description>
+      <description><![CDATA[一种新型在线广告允许品牌向谷歌付费，为购物者提供人工智能生成的图像，展示服装在不同肤色和体型上的效果。]]></description>
       <guid>https://www.wired.com/story/google-ai-shopping-clothes-fit-different-bodies/</guid>
       <pubDate>Tue, 21 May 2024 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能是一个黑匣子。人类想出了一种观察内部的方法</title>
-      <link>https://www.wired.com/story/anthropic-black-box-ai-research-neurons-features/</link>
-      <description><![CDATA[人工神经网络的工作原理在很大程度上是一个谜，即使对于它们的创造者来说也是如此。但 Anthropic 的研究人员已经看到了这一点。]]></description>
-      <guid>https://www.wired.com/story/anthropic-black-box-ai-research-neurons-features/</guid>
-      <pubDate>Tue, 21 May 2024 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国正在与主要盟友组建全球人工智能安全网络</title>
-      <link>https://www.wired.com/story/us-forming-global-ai-safety-network-key-allies/</link>
-      <description><![CDATA[美国商务部长吉娜·雷蒙多表示，美国正在与英国、日本和加拿大等其他国家合作，管理人工智能带来的风险。]]></description>
-      <guid>https://www.wired.com/story/us-forming-global-ai-safety-network-key-allies/</guid>
-      <pubDate>Tue, 21 May 2024 13:01:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
