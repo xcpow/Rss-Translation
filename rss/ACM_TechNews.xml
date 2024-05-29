@@ -4,109 +4,116 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Fri, 24 May 2024 15:08:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 15:08:13 GMT</lastBuildDate>
     <item>
-      <title>VR 耳机提供 360 度视野</title>
-      <link>https://www.newscientist.com/article/2431014-vr-headset-can-give-you-360-degree-vision-like-an-owl/</link>
-      <description><![CDATA[New Scientist法国蒙彼利埃计算机科学、机器人和微电子实验室的研究人员开发的系统使用 VR 耳机、摄像头和专业软件为用户提供 360 度视觉。研究人员在 HTC Vive Pro Eye 耳机上安装了一个 360 度摄像头，用于测量头部旋转并显示摄像头全景视频的一部分。该软件将用户转动头部时的可用视野加倍。摘自“VR 耳机提供 360 度视觉”
-新科学家 (05/20/24) 马修·斯帕克斯 查看完整文章 - 可能需要付费订阅]]></description>
-      <guid>https://www.newscientist.com/article/2431014-vr-headset-can-give-you-360-degree-vision-like-an-owl/</guid>
-      <pubDate>Fri, 24 May 2024 15:08:19 GMT</pubDate>
+      <title>2023 年磁带出货量将增至 152.9 EB</title>
+      <link>https://www.tomshardware.com/pc-components/storage/tape-shipments-increased-to-1529-exabytes-in-2023-pretty-lively-for-a-dead-storage-medium</link>
+      <description><![CDATA[Tom&#39;s Hardware尽管磁带被认为是一种“已死”的数字存储介质，但去年制造商出货了 152.9 EB 的磁带容量（压缩），比 2022 年增长了 3.14%。HPE、IBM 和 Quantum 这三家剩余的 LTO（线性磁带开放）计划技术合作伙伴提供的信息将部分增长归因于“快速的数据生成和超大规模企业和企业对基础设施需求的增加”，即 AI 存储需求。摘自“2023 年磁带出货量增加至 152.9 EB”
+Tom&#39;s Hardware (05/27/24) Jeff Butts 查看全文]]></description>
+      <guid>https://www.tomshardware.com/pc-components/storage/tape-shipments-increased-to-1529-exabytes-in-2023-pretty-lively-for-a-dead-storage-medium</guid>
+      <pubDate>Wed, 29 May 2024 15:08:13 GMT</pubDate>
     </item>
     <item>
-      <title>黑客让火车起死回生</title>
-      <link>https://www.wsj.com/tech/cybersecurity/hackers-trains-disabled-poland-1b1f501a</link>
-      <description><![CDATA[《华尔街日报》波兰的 SPS 向黑客求助，以解决其受雇翻新的 Dolnoslaskie 铁路列车出现的故障。来自 Dragon Sector 组织的三名“白帽”黑客确定，大约十几台火车计算机中的软件代码可能会导致列车关闭。他们将代码追溯到 SPS 的竞争对手 Newag，该公司失去了翻新火车的合同，但否认了这些指控。 Dragon Sector 黑客最终设计了代码的编程变通方法。摘自“黑客让火车复活”
-华尔街日报 (05/19/24) 杰克·吉勒姆； Karolina Jeznach 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/tech/cybersecurity/hackers-trains-disabled-poland-1b1f501a</guid>
-      <pubDate>Fri, 24 May 2024 15:08:19 GMT</pubDate>
+      <title>ChatGPT 编程问题答案中超过一半是错误的</title>
+      <link>https://uk.news.yahoo.com/study-finds-52-percent-chatgpt-181628016.html</link>
+      <description><![CDATA[Yahoo! 新闻普渡大学的研究人员发现，ChatGPT 生成的编程问题答案中有 52% 是错误的。在研究中包括的 Stack Overflow 中的 517 个问题中，研究人员发现 77% 的问题比人类的答案更冗长，78% 的问题表现出不同程度的不一致。同时，对 2,000 个随机选择的 ChatGPT 答案进行语言分析得出的结论是，它们以“更正式和分析性”的方式描绘了“较少的负面情绪”。研究人员发现，ChatGPT 的“礼貌语言、清晰和教科书式的答案以及全面性”导致一些参与者忽略了其答案中的错误信息。摘自“超过一半的 ChatGPT 编程问题答案是错误的”
+Yahoo!新闻 (05/23/24) Sharon Adarlo 查看全文]]></description>
+      <guid>https://uk.news.yahoo.com/study-finds-52-percent-chatgpt-181628016.html</guid>
+      <pubDate>Wed, 29 May 2024 15:08:13 GMT</pubDate>
     </item>
     <item>
-      <title>用橡胶计算</title>
-      <link>https://amolf.nl/news/computing-with-rubber</link>
-      <description><![CDATA[AMOLF（荷兰）荷兰莱顿大学和 AMOLF 研究所的研究人员表明，智能橡胶结构可用于执行计算任务。他们建造了一台橡胶计算机，用作两位二进制计数器，以预弯曲橡胶梁作为机械位；计数是通过拉伸超材料来实现的。 摘自《橡胶计算》
-AMOLF（荷兰）(05/21/24) 查看全文]]></description>
-      <guid>https://amolf.nl/news/computing-with-rubber</guid>
-      <pubDate>Fri, 24 May 2024 15:08:18 GMT</pubDate>
+      <title>超声波贴片监测脑血流量</title>
+      <link>https://today.ucsd.edu/story/wearable-ultrasound-patch-enables-continuous-non-invasive-monitoring-of-cerebral-blood-flow</link>
+      <description><![CDATA[加州大学圣地亚哥分校今日加州大学圣地亚哥分校工程师开发的可穿戴超声波贴片提供了一种非侵入性方法，用于持续监测脑血流。该贴片大小与邮票相当，佩戴在太阳穴上，由硅胶弹性体制成，上面有一层压电换能器、一层铜网和多层可拉伸电极。集成的超快超声成像每秒可收集数千张图像，自定义算法使用这些图像对脑血管进行 3D 重建。摘自“超声波贴片监测脑血流”
+加州大学圣地亚哥分校今日 (05/22/24) Liezel Labios 查看全文]]></description>
+      <guid>https://today.ucsd.edu/story/wearable-ultrasound-patch-enables-continuous-non-invasive-monitoring-of-cerebral-blood-flow</guid>
+      <pubDate>Wed, 29 May 2024 15:08:12 GMT</pubDate>
     </item>
     <item>
-      <title>机器人手掌模仿人类触摸</title>
-      <link>https://news.mit.edu/2024/robotic-palm-mimics-human-touch-0520</link>
-      <description><![CDATA[MIT 新闻麻省理工学院的研究人员开发了一种带有嵌入式手掌传感器的机械手，以实现与物体更安全的交互。受人手的启发，GelPalm 在手掌中配备了基于凝胶的柔性传感器，ROMEO（RObotic 模块化内骨骼光学）手指也采用了类似的传感技术，从而实现了更大的灵活性和更稳定的抓握。摘自“机械手掌模仿人类触摸”
-MIT 新闻 (05/20/24) Rachel Gordon 查看全文]]></description>
-      <guid>https://news.mit.edu/2024/robotic-palm-mimics-human-touch-0520</guid>
-      <pubDate>Fri, 24 May 2024 15:08:18 GMT</pubDate>
+      <title>人工智能和仿生技术助力乌克兰士兵重返战场</title>
+      <link>https://edition.cnn.com/2024/05/22/tech/how-ai-and-bionics-are-helping-ukrainian-soldiers-return-to-action/index.html</link>
+      <description><![CDATA[CNN人工智能和仿生学的进步正在帮助一些在与俄罗斯的战争中失去肢体的乌克兰士兵重返军队。Esper Bionics 的 Esper Hand 使用人工智能使假肢能够学习用户的行为。它还配备了六个马达，允许每个手指单独移动。Esper 与明尼苏达州的 Protez 基金会合作，该基金会以制造成本购买了价值 20,000 美元的 Esper Hands，并免费为用户安装。摘自“人工智能、仿生学帮助乌克兰士兵重返战场”
+CNN (05/22/24) Ryan Bergeron 查看全文]]></description>
+      <guid>https://edition.cnn.com/2024/05/22/tech/how-ai-and-bionics-are-helping-ukrainian-soldiers-return-to-action/index.html</guid>
+      <pubDate>Wed, 29 May 2024 15:08:12 GMT</pubDate>
     </item>
     <item>
-      <title>量子掩护下的云计算</title>
-      <link>https://physics.aps.org/articles/v17/85</link>
-      <description><![CDATA[物理学英国牛津大学和法国索邦大学的研究人员演示了使用捕获离子的盲量子计算。量子云系统的“服务器”由锶离子（网络量子位）和钙离子（记忆量子位）制成。服务器不知道网络量子位的电子状态，但仍然可以通过基于激光的过程来处理其信息，该过程使网络和内存量子位纠缠在一起。该系统还采用一次性一密加密技术对信息进行编码，对服务器隐藏数据和操作。摘自《量子掩护下的云计算》
-物理 (05/21/24) Michael Schirber 查看全文]]></description>
-      <guid>https://physics.aps.org/articles/v17/85</guid>
-      <pubDate>Fri, 24 May 2024 15:08:17 GMT</pubDate>
+      <title>这些无人机会“彻底改变” 911 响应吗？</title>
+      <link>https://www.latimes.com/california/story/2024-05-23/hawthorne-police-test-brinc-911-responder-drone</link>
+      <description><![CDATA[洛杉矶时报科技初创公司 Brinc 推出了专门用于响应 911 紧急呼叫的无人机。Responder 无人机可以快速到达紧急现场，并在运送医疗用品的同时发送实时视频。加利福尼亚州霍桑市警察局将率先测试一小队 Responder 无人机，并将它们部署在整个城市的充电“巢穴”中。摘自“这些无人机会‘彻底改变’ 911 响应吗？”
+洛杉矶时报 (05/23/24) Caroline Petrow-Cohen 查看全文]]></description>
+      <guid>https://www.latimes.com/california/story/2024-05-23/hawthorne-police-test-brinc-911-responder-drone</guid>
+      <pubDate>Wed, 29 May 2024 15:08:11 GMT</pubDate>
     </item>
     <item>
-      <title>各国开始监管人工智能</title>
-      <link>https://apnews.com/article/artificial-intelligence-bias-discrimination-regulation-ai-ff1d0860663723079aac3666b38f2320</link>
-      <description><![CDATA[美联社科罗拉多州州长贾里德·波利斯（如图）签署了旨在防止人工智能系统在招聘、住房和医疗决策方面歧视的立法。使用人工智能系统做出此类决策的公司必须每年评估系统是否存在潜在偏差。他们还必须建立监督计划，如果发现歧视，则通知州总检察长，并通知客户决策过程中使用了人工智能，并提供上诉选项。摘自“各州转向监管人工智能”
-美联社 (05/23/24) Jesse Bedayn 查看全文]]></description>
-      <guid>https://apnews.com/article/artificial-intelligence-bias-discrimination-regulation-ai-ff1d0860663723079aac3666b38f2320</guid>
-      <pubDate>Fri, 24 May 2024 15:08:17 GMT</pubDate>
+      <title>SKC 获 7500 万美元投资美国玻璃基板工厂</title>
+      <link>https://www.theregister.com/2024/05/23/skc_glass_chips_act/</link>
+      <description><![CDATA[The Register (英国)美国商务部宣布，韩国化学公司 SKC 的子公司 Absolics 将获得 7500 万美元的美国 CHIPS 法案补贴。这笔资金将用于扩建其位于佐治亚州科文顿的制造工厂，以开发和生产玻璃半导体基板。玻璃作为先进硅芯片的基板层越来越有吸引力。摘自“SKC 获得 7500 万美元用于美国玻璃基板工厂”
+The Register (英国) (05/23/24) Brandon Vigliarolo]]></description>
+      <guid>https://www.theregister.com/2024/05/23/skc_glass_chips_act/</guid>
+      <pubDate>Wed, 29 May 2024 15:08:11 GMT</pubDate>
     </item>
     <item>
-      <title>中子输运方程中的兆字节级数据压缩</title>
-      <link>https://www.hpcwire.com/off-the-wire/los-alamos-achieves-yottabyte-scale-data-compression-in-neutron-transport-equations/</link>
-      <description><![CDATA[HPCwire洛斯阿拉莫斯国家实验室研究人员开发的张量网络方法利用数据科学和机器学习来求解现实世界的中子输运方程。研究人员使用混合张量序列（TT）加量化张量序列（QTT）方法在标准台式计算机上求解笛卡尔几何中与时间无关的玻尔兹曼中子输运方程。 TT/QTT 方法创下了将 TB 级中子流存储压缩至兆字节级的记录，并且在解决中子输运问题方面优于实验室的 PARallel 时间相关离散坐标代码。来自“中子输运方程中的兆字节级数据压缩”
-HPCwire (05/22/24) 查看全文]]></description>
-      <guid>https://www.hpcwire.com/off-the-wire/los-alamos-achieves-yottabyte-scale-data-compression-in-neutron-transport-equations/</guid>
-      <pubDate>Fri, 24 May 2024 15:08:16 GMT</pubDate>
+      <title>大型科技公司加大对海外人工智能投资</title>
+      <link>https://www.wsj.com/tech/ai/big-tech-moves-more-ai-spending-abroad-088988de</link>
+      <description><![CDATA[《华尔街日报》大型科技公司正在美国以外增加对人工智能基础设施的投入。微软宣布未来几年将在法国、德国、日本、马来西亚、西班牙和印度尼西亚投资超过 160 亿美元，而亚马逊将在日本投资 150 亿美元，在新加坡投资 90 亿美元，在墨西哥投资 50 亿美元，在法国投资 13 亿美元。 Wedbush 分析师 Daniel Ives 预计 Alphabet 和 Meta 也会效仿，他表示：“未来十年，这将是一场 1 万亿美元的支出跳跃。”摘自“大型科技公司加大海外 AI 支出”
+华尔街日报 (05/23/24) Zaeem Shoaib 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/tech/ai/big-tech-moves-more-ai-spending-abroad-088988de</guid>
+      <pubDate>Wed, 29 May 2024 15:08:10 GMT</pubDate>
     </item>
     <item>
-      <title>机器人 3D 打印减震形状</title>
-      <link>https://interestingengineering.com/innovation/us-army-robot-3d-prints-shock-absorbing-shape</link>
-      <description><![CDATA[有趣的工程波士顿大学研究人员展示了 3D 打印机器人利用人工智能制造先进材料的能力。 MAMA BEAR（增材制造建筑力学贝叶斯实验自主研究员）机器人于 2021 年进行编程，以创造出具有尽可能高的机械能吸收效率的形状，自此以来，它已在不间断运行的同时生产了超过 25,000 个 3D 打印结构。&lt; br /&gt;摘自《机器人3D打印减震形状》
-有趣的工程 (05/21/24) Jijomaleil 查看全文]]></description>
-      <guid>https://interestingengineering.com/innovation/us-army-robot-3d-prints-shock-absorbing-shape</guid>
-      <pubDate>Fri, 24 May 2024 15:08:16 GMT</pubDate>
+      <title>对抗入侵物种的算法</title>
+      <link>https://www.jpost.com/science/article-802552</link>
+      <description><![CDATA[耶路撒冷邮报 (以色列)以色列耶路撒冷希伯来大学的研究人员开发了一种算法，旨在提供一种经济有效的入侵物种管理方法。通过计算治疗的最佳空间分布以减缓目标物种的繁殖，该算法可以帮助分配有限的资源来保护生态系统、农业和公共卫生。
+
+摘自“对抗入侵物种的算法”
+耶路撒冷邮报 (以色列) (05/24/24) Judy Siegel-Itzkovich 查看全文]]></description>
+      <guid>https://www.jpost.com/science/article-802552</guid>
+      <pubDate>Wed, 29 May 2024 15:08:10 GMT</pubDate>
     </item>
     <item>
-      <title>NASA 野火数字孪生预测火灾、烟雾</title>
-      <link>https://www.techtimes.com/articles/304876/20240522/nasa-unveils-wildfire-digital-twin-leveraging-ai-forecast-fire-smoke.htm</link>
-      <description><![CDATA[科技时报通过美国宇航局的野火数字孪生项目，由马里兰大学计算机科学家 Milton Halem 领导的研究人员将生成具有增强空间分辨率的集合模型，以便更准确、更详细地预测野火蔓延和烟雾运动。新模型的空间分辨率为每像素 10 至 30 米，而当前模型的空间分辨率为每像素 10 公里。摘自“NASA 野火数字孪生预报火灾、烟雾”
-科技时报 (05/22/24) Jace Dela Cruz 查看全文]]></description>
-      <guid>https://www.techtimes.com/articles/304876/20240522/nasa-unveils-wildfire-digital-twin-leveraging-ai-forecast-fire-smoke.htm</guid>
-      <pubDate>Fri, 24 May 2024 15:08:15 GMT</pubDate>
+      <title>欧盟探讨 Telegram 是否受内容法管辖</title>
+      <link>https://www.bloomberg.com/news/articles/2024-05-28/eu-explores-whether-telegram-falls-under-strict-new-content-law</link>
+      <description><![CDATA[彭博社消息平台 Telegram 面临欧盟打击非法或有害内容网络平台的风险。消息人士称，监管机构正在审查该服务是否应根据《数字服务法》成为主要网络平台，该法案对拥有超过 4500 万活跃用户的平台制定了更严格的合规规则，以防止虚假信息传播。
+
+摘自“欧盟探讨 Telegram 是否属于内容法”
+彭博社 (05/28/24) Samuel Stolton；Alberto Nardelli 查看全文]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-05-28/eu-explores-whether-telegram-falls-under-strict-new-content-law</guid>
+      <pubDate>Wed, 29 May 2024 15:08:09 GMT</pubDate>
     </item>
     <item>
-      <title>美国酒店入住电脑上发现间谍软件</title>
-      <link>https://techcrunch.com/2024/05/22/spyware-found-on-hotel-check-in-computers/</link>
-      <description><![CDATA[Tech Crunch安全研究员 Eric Daigle 发现美国至少三家温德姆酒店的入住系统上运行着一款消费级间谍软件应用程序。pcTattletale 应用程序会截取客人详细信息和客户信息的屏幕截图，并间谍软件中的安全漏洞允许任何人直接从应用程序的服务器下载屏幕截图。来自“美国酒店入住计算机上发现的间谍软件”
-Tech Crunch (05/22/24) Zack Whittaker 查看全文]]></description>
-      <guid>https://techcrunch.com/2024/05/22/spyware-found-on-hotel-check-in-computers/</guid>
-      <pubDate>Fri, 24 May 2024 15:08:15 GMT</pubDate>
+      <title>Google 更新改变了互联网</title>
+      <link>https://www.bbc.com/future/article/20240524-how-googles-new-algorithm-will-shape-your-internet</link>
+      <description><![CDATA[BBC小型独立网站所有者认为，过去两年谷歌搜索算法的更新将流量转移到知名品牌网站上。谷歌表示，其变化旨在阻止搜索引擎优化滥用，但这些变化却以牺牲小型博主为代价，增加了 Reddit、Quora、Instagram、LinkedIn 和 Wikipedia 等用户生成网站的流量。关于 AI 概述，内容创建者表示，AI 搜索结果会阻止用户点击他们的网站，提供大部分不正确的答案，或者本质上窃取他们的内容。摘自“谷歌更新改变互联网”
+BBC (05/25/24) Thomas Germain 查看全文]]></description>
+      <guid>https://www.bbc.com/future/article/20240524-how-googles-new-algorithm-will-shape-your-internet</guid>
+      <pubDate>Wed, 29 May 2024 15:08:09 GMT</pubDate>
     </item>
     <item>
-      <title>韩国拨出 190 亿美元用于芯片制造</title>
-      <link>https://www.bloomberg.com/news/articles/2024-05-23/south-korea-sets-aside-record-19-billion-to-boost-chip-industry</link>
-      <description><![CDATA[彭博社韩国宣布了一项 26 万亿韩元（190 亿美元）的激励计划，以支持其芯片产业。这标志着该国迄今为止对芯片行业最大的支持，同时政府正在制定计划，在首尔郊外建立一个大型芯片工厂集群。摘自“韩国拨出 190 亿美元用于芯片制造” “
-彭博社 (05/22/24) Soo-Hyang Choi；尤林·李；康兴惠;等 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-05-23/south-korea-sets-aside-record-19-billion-to-boost-chip-industry</guid>
-      <pubDate>Fri, 24 May 2024 15:08:14 GMT</pubDate>
+      <title>中国最新人工智能聊天机器人接受总统政治意识形态训练</title>
+      <link>https://apnews.com/article/china-chatbot-xi-jinping-thought-ai-chatgpt-68e6d58031f2fc55dc3c569dd1f0afb2</link>
+      <description><![CDATA[美联社中国网络安全事务研究所宣布，其最新推出的人工智能聊天机器人已在内部使用，并在七个数据库上进行了训练，其中一个数据库专注于习近平主席的思想。习近平思想数据库由 14 项原则组成，包括确保中国共产党的绝对权力、加强国家安全和社会主义价值观、改善民生和福祉。摘自“中国最新的人工智能聊天机器人接受了总统政治意识形态的训练”
+美联社 (05/24/24) 查看全文]]></description>
+      <guid>https://apnews.com/article/china-chatbot-xi-jinping-thought-ai-chatgpt-68e6d58031f2fc55dc3c569dd1f0afb2</guid>
+      <pubDate>Wed, 29 May 2024 15:08:08 GMT</pubDate>
     </item>
     <item>
-      <title>机器人研究先驱被任命为 ACM Athena 讲师</title>
-      <link>https://www.acm.org/media-center/2024/may/athena-2024</link>
-      <description><![CDATA[ACM 新闻稿查看全文]]></description>
-      <guid>https://www.acm.org/media-center/2024/may/athena-2024</guid>
-      <pubDate>Fri, 24 May 2024 15:08:13 GMT</pubDate>
+      <title>机器人以创纪录的时间破解魔方</title>
+      <link>https://www.japantimes.co.jp/news/2024/05/27/japan/mitsubishi-electric-guinness-records/</link>
+      <description><![CDATA[日本时报三菱电机的 TOKUI 快速精确同步运动测试机器人以创纪录的 0.305 秒破解了魔方，吉尼斯世界纪录向其颁发了认可证书。之前机器的纪录是 0.38 秒，而人类的最快纪录是 3.13 秒。三菱电机的设备可以通过颜色识别算法高速处理颜色；具有紧凑、高功率、信号响应的伺服电机；并能在 0.009 秒内将物体旋转 90 度。摘自“机器人以创纪录的时间破解魔方”
+日本时报 (05/27/24) Elizabeth Beattie 查看全文]]></description>
+      <guid>https://www.japantimes.co.jp/news/2024/05/27/japan/mitsubishi-electric-guinness-records/</guid>
+      <pubDate>Wed, 29 May 2024 15:08:08 GMT</pubDate>
     </item>
     <item>
-      <title>全球人工智能峰会获得企业安全承诺</title>
-      <link>https://www.reuters.com/technology/global-ai-summit-seoul-aims-forge-new-regulatory-agreements-2024-05-21/</link>
-      <description><![CDATA[路透社在5月21日的全球人工智能峰会上，16家公司承诺优先考虑人工智能安全。这些公司包括 Meta、微软、OpenAI、亚马逊、三星电子以及中国、韩国和阿联酋的公司，承诺发布用于衡量人工智能风险的安全框架，避免在风险无法充分缓解时使用模型，并确保治理摘自《全球人工智能峰会确保企业安全承诺》
-路透社 (05/21/24) 乔伊斯·李 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/global-ai-summit-seoul-aims-forge-new-regulatory-agreements-2024-05-21/</guid>
-      <pubDate>Fri, 24 May 2024 15:08:13 GMT</pubDate>
+      <title>生物处理器使用 16 个人脑类器官</title>
+      <link>https://www.tomshardware.com/pc-components/cpus/worlds-first-bioprocessor-uses-16-human-brain-organoids-for-a-million-times-less-power-consumption-than-a-digital-chip</link>
+      <description><![CDATA[Tom&#39;s Hardware瑞士生物计算初创公司 FinalSpark 表示，其生物处理器是首个提供体外生物神经元访问的在线平台，同时消耗的电量“比传统数字处理器少一百万倍”。Neuroplatform 提供对 16 个人脑类器官的远程访问。该平台具有四个多电极阵列，每个阵列包含四个类器官，并通过八个电极进行刺激和记录。
+
+摘自“生物处理器使用 16 个人脑类器官”
+Tom&#39;s Hardware (05/26/24) Mark Tyson 查看全文]]></description>
+      <guid>https://www.tomshardware.com/pc-components/cpus/worlds-first-bioprocessor-uses-16-human-brain-organoids-for-a-million-times-less-power-consumption-than-a-digital-chip</guid>
+      <pubDate>Wed, 29 May 2024 15:08:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
