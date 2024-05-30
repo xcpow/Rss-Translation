@@ -4,7 +4,21 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 30 May 2024 15:07:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 18:11:07 GMT</lastBuildDate>
+    <item>
+      <title>WeWork 挺过了破产危机。现在它必须让共享办公模式获得回报</title>
+      <link>https://www.wired.com/story/wework-bankruptcy-future-of-work/</link>
+      <description><![CDATA[这家陷入困境的公司虽然从边缘回归，但走出破产阴影后，面临的世界里共享办公的长期前景却不那么确定。]]></description>
+      <guid>https://www.wired.com/story/wework-bankruptcy-future-of-work/</guid>
+      <pubDate>Thu, 30 May 2024 16:09:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>聊天机器人正在进入石器时代</title>
+      <link>https://www.wired.com/story/chatbots-are-entering-the-stone-age/</link>
+      <description><![CDATA[Anthropic 和其他大型人工智能初创公司正在教聊天机器人“使用工具”，以使它们在工作场所更有用。]]></description>
+      <guid>https://www.wired.com/story/chatbots-are-entering-the-stone-age/</guid>
+      <pubDate>Thu, 30 May 2024 16:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>一家非营利组织试图修复科技文化——但却失去了对自身文化的控制</title>
       <link>https://www.wired.com/story/integrity-institute-nonprofit-tried-to-fix-tech-culture-lost-control/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[一座废弃的教堂、一所学校和一个摩托车车库都是为远程工作者提供办公场所而涌现的超本地化新型共享办公空间之一。]]></description>
       <guid>https://www.wired.com/story/local-coworking-spaces-thrive-where-wework-dared-not-go/</guid>
       <pubDate>Wed, 22 May 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们站在纽约—都柏林门户的两侧，感觉非常光荣</title>
-      <link>https://www.wired.com/story/new-york-dublin-portal-reopening/</link>
-      <description><![CDATA[数百人和两名《连线》杂志记者聚集在该门户网站，该门户网站因“不当行为”而关闭后再次开放。]]></description>
-      <guid>https://www.wired.com/story/new-york-dublin-portal-reopening/</guid>
-      <pubDate>Wed, 22 May 2024 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌搜索的新 AI 概览将很快推出广告</title>
-      <link>https://www.wired.com/story/google-search-ai-overviews-ads/</link>
-      <description><![CDATA[谷歌即将开始将广告融入其新的人工智能生成的搜索结果中。这是对该公司最大的收入来源如何适应生成人工智能时代的一次考验。]]></description>
-      <guid>https://www.wired.com/story/google-search-ai-overviews-ads/</guid>
-      <pubDate>Tue, 21 May 2024 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
