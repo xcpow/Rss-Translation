@@ -4,116 +4,94 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Wed, 29 May 2024 15:08:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2024 15:07:40 GMT</lastBuildDate>
     <item>
-      <title>2023 年磁带出货量将增至 152.9 EB</title>
-      <link>https://www.tomshardware.com/pc-components/storage/tape-shipments-increased-to-1529-exabytes-in-2023-pretty-lively-for-a-dead-storage-medium</link>
-      <description><![CDATA[Tom&#39;s Hardware尽管磁带被认为是一种“已死”的数字存储介质，但去年制造商出货了 152.9 EB 的磁带容量（压缩），比 2022 年增长了 3.14%。HPE、IBM 和 Quantum 这三家剩余的 LTO（线性磁带开放）计划技术合作伙伴提供的信息将部分增长归因于“快速的数据生成和超大规模企业和企业对基础设施需求的增加”，即 AI 存储需求。摘自“2023 年磁带出货量增加至 152.9 EB”
-Tom&#39;s Hardware (05/27/24) Jeff Butts 查看全文]]></description>
-      <guid>https://www.tomshardware.com/pc-components/storage/tape-shipments-increased-to-1529-exabytes-in-2023-pretty-lively-for-a-dead-storage-medium</guid>
-      <pubDate>Wed, 29 May 2024 15:08:13 GMT</pubDate>
+      <title>她的人工智能手臂</title>
+      <link>https://www.nytimes.com/card/2024/05/26/technology/ai-prosthetic-arm</link>
+      <description><![CDATA[《纽约时报》配备 Coapt 机器学习软件的机械臂让萨拉·德拉加德 (Sarah de Lagarde) 能够煮咖啡、拉直头发和拥抱女儿。Coapt 的布莱尔·洛克 (Blair Lock) 表示：“当我们有机会向人们展示真正有助于帮助他人的人工智能时，这是积极的。”然而，德拉加德的整只手臂（每个部件均由不同的公司制造）的成本约为 190,000 美元。她还必须应对假肢的重量及其缺乏触觉功能的问题。摘自“她的 AI 手臂”
+纽约时报 (05/26/24) Adam Satariano 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/card/2024/05/26/technology/ai-prosthetic-arm</guid>
+      <pubDate>Fri, 31 May 2024 15:07:40 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 编程问题答案中超过一半是错误的</title>
-      <link>https://uk.news.yahoo.com/study-finds-52-percent-chatgpt-181628016.html</link>
-      <description><![CDATA[Yahoo! 新闻普渡大学的研究人员发现，ChatGPT 生成的编程问题答案中有 52% 是错误的。在研究中包括的 Stack Overflow 中的 517 个问题中，研究人员发现 77% 的问题比人类的答案更冗长，78% 的问题表现出不同程度的不一致。同时，对 2,000 个随机选择的 ChatGPT 答案进行语言分析得出的结论是，它们以“更正式和分析性”的方式描绘了“较少的负面情绪”。研究人员发现，ChatGPT 的“礼貌语言、清晰和教科书式的答案以及全面性”导致一些参与者忽略了其答案中的错误信息。摘自“超过一半的 ChatGPT 编程问题答案是错误的”
-Yahoo!新闻 (05/23/24) Sharon Adarlo 查看全文]]></description>
-      <guid>https://uk.news.yahoo.com/study-finds-52-percent-chatgpt-181628016.html</guid>
-      <pubDate>Wed, 29 May 2024 15:08:13 GMT</pubDate>
+      <title>未来的数字屏幕将让用户“感受”物品</title>
+      <link>https://www.bath.ac.uk/announcements/tomorrows-digital-screens-will-be-soft-and-elastic-so-youll-feel-items-through-your-phone/</link>
+      <description><![CDATA[巴斯大学 (英国)英国巴斯大学的计算机科学家开发了一种数字触摸屏，它可以根据用户的手指压力变软或变硬。借助 DeformIO，消费者有朝一日可以通过手机显示屏“感受”物品，这在游戏、医疗模拟、在线购物等方面都有潜在应用。DeformIO 由硅胶制成，使用气动和电阻传感检测压力。摘自“未来的数字屏幕将让用户‘感受’物品”
+巴斯大学 (英国) (05/28/24) 查看全文]]></description>
+      <guid>https://www.bath.ac.uk/announcements/tomorrows-digital-screens-will-be-soft-and-elastic-so-youll-feel-items-through-your-phone/</guid>
+      <pubDate>Fri, 31 May 2024 15:07:39 GMT</pubDate>
     </item>
     <item>
-      <title>超声波贴片监测脑血流量</title>
-      <link>https://today.ucsd.edu/story/wearable-ultrasound-patch-enables-continuous-non-invasive-monitoring-of-cerebral-blood-flow</link>
-      <description><![CDATA[加州大学圣地亚哥分校今日加州大学圣地亚哥分校工程师开发的可穿戴超声波贴片提供了一种非侵入性方法，用于持续监测脑血流。该贴片大小与邮票相当，佩戴在太阳穴上，由硅胶弹性体制成，上面有一层压电换能器、一层铜网和多层可拉伸电极。集成的超快超声成像每秒可收集数千张图像，自定义算法使用这些图像对脑血管进行 3D 重建。摘自“超声波贴片监测脑血流”
-加州大学圣地亚哥分校今日 (05/22/24) Liezel Labios 查看全文]]></description>
-      <guid>https://today.ucsd.edu/story/wearable-ultrasound-patch-enables-continuous-non-invasive-monitoring-of-cerebral-blood-flow</guid>
-      <pubDate>Wed, 29 May 2024 15:08:12 GMT</pubDate>
+      <title>精准神经科学创下人类大脑植入 4096 个电极的脑芯片纪录</title>
+      <link>https://arstechnica.com/science/2024/05/neuralink-rival-sets-brain-chip-record-with-4096-electrodes-on-human-brain/</link>
+      <description><![CDATA[Ars TechnicaPrecision Neuroscience 通过在活体人脑上放置 4,096 个电极创造了新的世界纪录，高于 2023 年创下的 2,048 个电极。该纪录是在 4 月份创下的，当时纽约西奈山医疗系统的神经外科医生在手术中将 Precision 脑机接口设备放置在患者大脑上，以切除良性脑瘤。随后，精准研究人员使用电极阵列记录了患者大脑约 8 平方厘米的详细神经元活动。摘自“精准神经科学在人类大脑上设置 4,096 个电极，创下脑芯片记录”
+Ars Technica (05/28/24) Beth Mole 查看全文]]></description>
+      <guid>https://arstechnica.com/science/2024/05/neuralink-rival-sets-brain-chip-record-with-4096-electrodes-on-human-brain/</guid>
+      <pubDate>Fri, 31 May 2024 15:07:39 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能和仿生技术助力乌克兰士兵重返战场</title>
-      <link>https://edition.cnn.com/2024/05/22/tech/how-ai-and-bionics-are-helping-ukrainian-soldiers-return-to-action/index.html</link>
-      <description><![CDATA[CNN人工智能和仿生学的进步正在帮助一些在与俄罗斯的战争中失去肢体的乌克兰士兵重返军队。Esper Bionics 的 Esper Hand 使用人工智能使假肢能够学习用户的行为。它还配备了六个马达，允许每个手指单独移动。Esper 与明尼苏达州的 Protez 基金会合作，该基金会以制造成本购买了价值 20,000 美元的 Esper Hands，并免费为用户安装。摘自“人工智能、仿生学帮助乌克兰士兵重返战场”
-CNN (05/22/24) Ryan Bergeron 查看全文]]></description>
-      <guid>https://edition.cnn.com/2024/05/22/tech/how-ai-and-bionics-are-helping-ukrainian-soldiers-return-to-action/index.html</guid>
-      <pubDate>Wed, 29 May 2024 15:08:12 GMT</pubDate>
+      <title>FBI 摧毁全球僵尸电脑设备大军</title>
+      <link>https://www.bloomberg.com/news/articles/2024-05-29/fbi-takes-down-massive-global-army-of-zombie-computer-devices</link>
+      <description><![CDATA[彭博社美国联邦调查局已经摧毁了世界上最大的僵尸网络，该网络由 190 多个国家/地区的 1900 万台受感染的计算机组成。该僵尸网络用于促进金融欺诈、身份盗窃、儿童剥削、炸弹威胁和网络攻击。美国有超过 613,000 个 IP 地址与该僵尸网络有关。一名中国公民在新加坡被捕，并被指控涉嫌部署恶意软件以及创建和运营“911 S5”住宅代理服务。摘自“FBI 摧毁全球僵尸计算机设备大军”
+彭博社 (05/29/24) Katrina Manson； Bernadette Toh 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-05-29/fbi-takes-down-massive-global-army-of-zombie-computer-devices</guid>
+      <pubDate>Fri, 31 May 2024 15:07:38 GMT</pubDate>
     </item>
     <item>
-      <title>这些无人机会“彻底改变” 911 响应吗？</title>
-      <link>https://www.latimes.com/california/story/2024-05-23/hawthorne-police-test-brinc-911-responder-drone</link>
-      <description><![CDATA[洛杉矶时报科技初创公司 Brinc 推出了专门用于响应 911 紧急呼叫的无人机。Responder 无人机可以快速到达紧急现场，并在运送医疗用品的同时发送实时视频。加利福尼亚州霍桑市警察局将率先测试一小队 Responder 无人机，并将它们部署在整个城市的充电“巢穴”中。摘自“这些无人机会‘彻底改变’ 911 响应吗？”
-洛杉矶时报 (05/23/24) Caroline Petrow-Cohen 查看全文]]></description>
-      <guid>https://www.latimes.com/california/story/2024-05-23/hawthorne-police-test-brinc-911-responder-drone</guid>
-      <pubDate>Wed, 29 May 2024 15:08:11 GMT</pubDate>
+      <title>Martonosi 荣获 ACM Frances E. Allen 奖</title>
+      <link>https://www.acm.org/media-center/2024/may/allen-award-2023</link>
+      <description><![CDATA[ACM 新闻稿ACM 已将普林斯顿大学的 Margaret Martonosi 评为 ACM Frances E. Allen 杰出指导奖获得者。 Martonosi 因其在计算机架构领域以及普林斯顿大学更广泛的计算机科学界的指导工作而获得认可。除其他事项外，Martonosi 还建立了学科特定研讨会计划，以加强女性和代表性不足的群体成员在计算领域的参与。摘自“Martonosi 获得 ACM Frances E. Allen 奖”
+ACM 新闻稿 (05/29/24) 查看全文]]></description>
+      <guid>https://www.acm.org/media-center/2024/may/allen-award-2023</guid>
+      <pubDate>Fri, 31 May 2024 15:07:38 GMT</pubDate>
     </item>
     <item>
-      <title>SKC 获 7500 万美元投资美国玻璃基板工厂</title>
-      <link>https://www.theregister.com/2024/05/23/skc_glass_chips_act/</link>
-      <description><![CDATA[The Register (英国)美国商务部宣布，韩国化学公司 SKC 的子公司 Absolics 将获得 7500 万美元的美国 CHIPS 法案补贴。这笔资金将用于扩建其位于佐治亚州科文顿的制造工厂，以开发和生产玻璃半导体基板。玻璃作为先进硅芯片的基板层越来越有吸引力。摘自“SKC 获得 7500 万美元用于美国玻璃基板工厂”
-The Register (英国) (05/23/24) Brandon Vigliarolo]]></description>
-      <guid>https://www.theregister.com/2024/05/23/skc_glass_chips_act/</guid>
-      <pubDate>Wed, 29 May 2024 15:08:11 GMT</pubDate>
+      <title>天目芯片和混合摄像头助力自动驾驶汽车更安全发展</title>
+      <link>https://www.theregister.com/2024/05/29/computer_vision_nature_self_driving/</link>
+      <description><![CDATA[The Register (英国)中国清华大学的研究人员开发了一种用于自动驾驶系统的新型芯片——天目芯片，它将低精度、快速的基于事件的检测与速度较慢但更精确的图像可视化相结合。与此同时，瑞士苏黎世大学的研究人员开发了一种混合摄像头，将事件处理与高带宽成像处理相结合，以解决感知和计算延迟问题。混合物体检测器可以减少高速场景下检测所需的时间。摘自“天目芯片、混合摄像头提升更安全的自动驾驶汽车前景”
+The Register (英国) (05/29/24) Lindsay Clark]]></description>
+      <guid>https://www.theregister.com/2024/05/29/computer_vision_nature_self_driving/</guid>
+      <pubDate>Fri, 31 May 2024 15:07:37 GMT</pubDate>
     </item>
     <item>
-      <title>大型科技公司加大对海外人工智能投资</title>
-      <link>https://www.wsj.com/tech/ai/big-tech-moves-more-ai-spending-abroad-088988de</link>
-      <description><![CDATA[《华尔街日报》大型科技公司正在美国以外增加对人工智能基础设施的投入。微软宣布未来几年将在法国、德国、日本、马来西亚、西班牙和印度尼西亚投资超过 160 亿美元，而亚马逊将在日本投资 150 亿美元，在新加坡投资 90 亿美元，在墨西哥投资 50 亿美元，在法国投资 13 亿美元。 Wedbush 分析师 Daniel Ives 预计 Alphabet 和 Meta 也会效仿，他表示：“未来十年，这将是一场 1 万亿美元的支出跳跃。”摘自“大型科技公司加大海外 AI 支出”
-华尔街日报 (05/23/24) Zaeem Shoaib 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/tech/ai/big-tech-moves-more-ai-spending-abroad-088988de</guid>
-      <pubDate>Wed, 29 May 2024 15:08:10 GMT</pubDate>
+      <title>囚犯利用虚拟现实 (VR) 为刑满释放后的生活做准备</title>
+      <link>https://www.cnn.com/2024/05/29/tech/prisoners-virtual-reality-mechanic-job-training/index.html</link>
+      <description><![CDATA[CNN马里兰州女子惩教所与巴尔的摩非营利组织 Vehicles for Change 合作，为囚犯提供 VR 培训计划，为她们出狱后从事汽车技师工作做好准备。自 2023 年该计划启动以来，迄今为止，已有 15 名女性毕业。使用 VR 耳机，参与者可以使用不同的工具并在虚拟汽车修理厂中操作升降机。Vehicles for Change 的 Martin Schwartz 表示，“[VR] 将成为我们五年内全面培训技能行业的方式。”摘自“囚犯使用 VR 为出狱后的生活做准备”
+CNN (05/29/24) Clare Duffy 查看全文]]></description>
+      <guid>https://www.cnn.com/2024/05/29/tech/prisoners-virtual-reality-mechanic-job-training/index.html</guid>
+      <pubDate>Fri, 31 May 2024 15:07:37 GMT</pubDate>
     </item>
     <item>
-      <title>对抗入侵物种的算法</title>
-      <link>https://www.jpost.com/science/article-802552</link>
-      <description><![CDATA[耶路撒冷邮报 (以色列)以色列耶路撒冷希伯来大学的研究人员开发了一种算法，旨在提供一种经济有效的入侵物种管理方法。通过计算治疗的最佳空间分布以减缓目标物种的繁殖，该算法可以帮助分配有限的资源来保护生态系统、农业和公共卫生。
-
-摘自“对抗入侵物种的算法”
-耶路撒冷邮报 (以色列) (05/24/24) Judy Siegel-Itzkovich 查看全文]]></description>
-      <guid>https://www.jpost.com/science/article-802552</guid>
-      <pubDate>Wed, 29 May 2024 15:08:10 GMT</pubDate>
+      <title>浏览器插件有助于提高数字隐私素养，打击操纵性设计</title>
+      <link>https://news.nd.edu/news/ai-browser-plug-ins-to-help-consumers-improve-digital-privacy-literacy-combat-manipulative-design/</link>
+      <description><![CDATA[圣母大学新闻圣母大学研究人员开发的 Google Chrome Privacy Sandbox 浏览器插件可以帮助用户了解不同网站如何根据年龄、种族、位置、收入和家庭规模来针对他们。研究人员开发的另一个 Chrome 浏览器插件名为 Dark Pita，可以检测亚马逊、YouTube、Netflix、Facebook 和 X 上的暗黑模式并解释其影响。这两个插件尚未向公众开放。摘自“浏览器插件可以帮助提高数字隐私素养，打击操纵性设计”
+圣母大学新闻 (05/29/24) Brandi Wampler]]></description>
+      <guid>https://news.nd.edu/news/ai-browser-plug-ins-to-help-consumers-improve-digital-privacy-literacy-combat-manipulative-design/</guid>
+      <pubDate>Fri, 31 May 2024 15:07:36 GMT</pubDate>
     </item>
     <item>
-      <title>欧盟探讨 Telegram 是否受内容法管辖</title>
-      <link>https://www.bloomberg.com/news/articles/2024-05-28/eu-explores-whether-telegram-falls-under-strict-new-content-law</link>
-      <description><![CDATA[彭博社消息平台 Telegram 面临欧盟打击非法或有害内容网络平台的风险。消息人士称，监管机构正在审查该服务是否应根据《数字服务法》成为主要网络平台，该法案对拥有超过 4500 万活跃用户的平台制定了更严格的合规规则，以防止虚假信息传播。
-
-摘自“欧盟探讨 Telegram 是否属于内容法”
-彭博社 (05/28/24) Samuel Stolton；Alberto Nardelli 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-05-28/eu-explores-whether-telegram-falls-under-strict-new-content-law</guid>
-      <pubDate>Wed, 29 May 2024 15:08:09 GMT</pubDate>
+      <title>到 2030 年，数据中心可能消耗美国 9% 的电力</title>
+      <link>https://www.reuters.com/business/energy/data-centers-could-use-9-us-electricity-by-2030-research-institute-says-2024-05-29/</link>
+      <description><![CDATA[路透社电力研究所的一份新报告发现，到本世纪末，数据中心的电力消耗可能会增加一倍以上，达到美国总发电量的 9%。该研究所表示，到 2030 年，该行业预计的年用电量增长率在 3.7% 至 15% 之间。该报告呼吁在生成式人工智能使用增加的情况下提高数据中心的能源效率并增加电网投资。摘自“到 2030 年，数据中心可能使用美国 9% 的电力”
+路透社 (05/29/24) Laila Kearney 查看全文]]></description>
+      <guid>https://www.reuters.com/business/energy/data-centers-could-use-9-us-electricity-by-2030-research-institute-says-2024-05-29/</guid>
+      <pubDate>Fri, 31 May 2024 15:07:35 GMT</pubDate>
     </item>
     <item>
-      <title>Google 更新改变了互联网</title>
-      <link>https://www.bbc.com/future/article/20240524-how-googles-new-algorithm-will-shape-your-internet</link>
-      <description><![CDATA[BBC小型独立网站所有者认为，过去两年谷歌搜索算法的更新将流量转移到知名品牌网站上。谷歌表示，其变化旨在阻止搜索引擎优化滥用，但这些变化却以牺牲小型博主为代价，增加了 Reddit、Quora、Instagram、LinkedIn 和 Wikipedia 等用户生成网站的流量。关于 AI 概述，内容创建者表示，AI 搜索结果会阻止用户点击他们的网站，提供大部分不正确的答案，或者本质上窃取他们的内容。摘自“谷歌更新改变互联网”
-BBC (05/25/24) Thomas Germain 查看全文]]></description>
-      <guid>https://www.bbc.com/future/article/20240524-how-googles-new-algorithm-will-shape-your-internet</guid>
-      <pubDate>Wed, 29 May 2024 15:08:09 GMT</pubDate>
+      <title>印度 IIT 精英毕业生就业机会减少</title>
+      <link>https://www.bloomberg.com/news/newsletters/2024-05-30/tough-job-market-for-india-s-elite-engineers-sparks-ai-led-existential-concern?sref=db2f3qgr</link>
+      <description><![CDATA[彭博社尽管就业季即将结束，但印度理工学院 (IIT) 的数千名学生仍未找到工作，这引发了人们的担忧：人工智能正在抢占传统上推动印度软件服务业发展的人才库的工作岗位。23 所 IIT 每年培养约 25,000 名工程师，约占印度约 150 万名工程师的 2%。 “这场危机就像是煤矿里的金丝雀，”前微软印度公司董事长、IIT 校友 Ravi Venkatesan 表示。摘自“印度精英 IIT 毕业生就业机会枯竭”
+彭博社 (05/30/24) Menaka Doshi 查看全文]]></description>
+      <guid>https://www.bloomberg.com/news/newsletters/2024-05-30/tough-job-market-for-india-s-elite-engineers-sparks-ai-led-existential-concern?sref=db2f3qgr</guid>
+      <pubDate>Fri, 31 May 2024 15:07:35 GMT</pubDate>
     </item>
     <item>
-      <title>中国最新人工智能聊天机器人接受总统政治意识形态训练</title>
-      <link>https://apnews.com/article/china-chatbot-xi-jinping-thought-ai-chatgpt-68e6d58031f2fc55dc3c569dd1f0afb2</link>
-      <description><![CDATA[美联社中国网络安全事务研究所宣布，其最新推出的人工智能聊天机器人已在内部使用，并在七个数据库上进行了训练，其中一个数据库专注于习近平主席的思想。习近平思想数据库由 14 项原则组成，包括确保中国共产党的绝对权力、加强国家安全和社会主义价值观、改善民生和福祉。摘自“中国最新的人工智能聊天机器人接受了总统政治意识形态的训练”
-美联社 (05/24/24) 查看全文]]></description>
-      <guid>https://apnews.com/article/china-chatbot-xi-jinping-thought-ai-chatgpt-68e6d58031f2fc55dc3c569dd1f0afb2</guid>
-      <pubDate>Wed, 29 May 2024 15:08:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>机器人以创纪录的时间破解魔方</title>
-      <link>https://www.japantimes.co.jp/news/2024/05/27/japan/mitsubishi-electric-guinness-records/</link>
-      <description><![CDATA[日本时报三菱电机的 TOKUI 快速精确同步运动测试机器人以创纪录的 0.305 秒破解了魔方，吉尼斯世界纪录向其颁发了认可证书。之前机器的纪录是 0.38 秒，而人类的最快纪录是 3.13 秒。三菱电机的设备可以通过颜色识别算法高速处理颜色；具有紧凑、高功率、信号响应的伺服电机；并能在 0.009 秒内将物体旋转 90 度。摘自“机器人以创纪录的时间破解魔方”
-日本时报 (05/27/24) Elizabeth Beattie 查看全文]]></description>
-      <guid>https://www.japantimes.co.jp/news/2024/05/27/japan/mitsubishi-electric-guinness-records/</guid>
-      <pubDate>Wed, 29 May 2024 15:08:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>生物处理器使用 16 个人脑类器官</title>
-      <link>https://www.tomshardware.com/pc-components/cpus/worlds-first-bioprocessor-uses-16-human-brain-organoids-for-a-million-times-less-power-consumption-than-a-digital-chip</link>
-      <description><![CDATA[Tom&#39;s Hardware瑞士生物计算初创公司 FinalSpark 表示，其生物处理器是首个提供体外生物神经元访问的在线平台，同时消耗的电量“比传统数字处理器少一百万倍”。Neuroplatform 提供对 16 个人脑类器官的远程访问。该平台具有四个多电极阵列，每个阵列包含四个类器官，并通过八个电极进行刺激和记录。
-
-摘自“生物处理器使用 16 个人脑类器官”
-Tom&#39;s Hardware (05/26/24) Mark Tyson 查看全文]]></description>
-      <guid>https://www.tomshardware.com/pc-components/cpus/worlds-first-bioprocessor-uses-16-human-brain-organoids-for-a-million-times-less-power-consumption-than-a-digital-chip</guid>
-      <pubDate>Wed, 29 May 2024 15:08:07 GMT</pubDate>
+      <title>ACM 再次选举 Yannis Ioannidis 为主席</title>
+      <link>https://www.acm.org/articles/bulletins/2024/may/acm-re-elects-yannis-ioannidis-as-president</link>
+      <description><![CDATA[ACM 通讯来自希腊雅典大学的 ACM 主席 Yannis Ioannidis 再次当选，任期为两年，自 7 月 1 日开始。同样再次当选的还有副主席 Elisa Bertino，她是普渡大学教授、ACM 院士和 2019-2020 年 ACM 雅典娜讲师，任期为两年。Splunk Inc. 的 Rashmi Mohan 当选为秘书/财务主管，任期为两年。密歇根大学的 Odest (Chad) Jenkins、韩国科学技术高等研究院的 John Kim、巴西亚马逊联邦大学的 Tanara Lauschner、独立顾问 Alison Derbenwick Miller、Zalando SE 和道德人工智能与机器学习研究所的 Alejandro Saucedo 当选为任期四年的普通会员。摘自“ACM 重新选举 Yannis Ioannidis 为主席”
+ACM 公报 (05/29/24)]]></description>
+      <guid>https://www.acm.org/articles/bulletins/2024/may/acm-re-elects-yannis-ioannidis-as-president</guid>
+      <pubDate>Fri, 31 May 2024 15:07:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
