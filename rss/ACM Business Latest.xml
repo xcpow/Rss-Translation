@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 31 May 2024 18:09:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2024 21:07:16 GMT</lastBuildDate>
+    <item>
+      <title>谷歌的人工智能概述将永远被打破。这就是人工智能的工作原理</title>
+      <link>https://www.wired.com/story/google-ai-overviews-broken-how-ai-works/</link>
+      <description><![CDATA[谷歌在其 AI 搜索功能出现错误并被广泛传播后匆忙发布了修复程序。生成式 AI 的根本限制意味着它有时仍会出错。]]></description>
+      <guid>https://www.wired.com/story/google-ai-overviews-broken-how-ai-works/</guid>
+      <pubDate>Fri, 31 May 2024 20:22:03 GMT</pubDate>
+    </item>
     <item>
       <title>日光平板电脑让计算回归嬉皮士理想</title>
       <link>https://www.wired.com/story/daylight-tablet-computing-hippie-ideals/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[超宽带无线电被誉为解决“中继攻击”的解决方案，这种攻击可以在几秒钟内窃取汽车。但研究人员发现，配备该技术的特斯拉汽车仍然像以往一样容易受到攻击。]]></description>
       <guid>https://www.wired.com/story/tesla-ultra-wideband-radio-relay-attacks/</guid>
       <pubDate>Wed, 22 May 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能背后的低薪人类要求拜登将他们从“现代奴隶制”中解放出来</title>
-      <link>https://www.wired.com/story/low-paid-humans-ai-biden-modern-day-slavery/</link>
-      <description><![CDATA[为美国科技巨头标记人工智能数据或筛选社交帖子的非洲工人呼吁拜登总统向本周访问美国的肯尼亚总统威廉·鲁托提出他们的困境。]]></description>
-      <guid>https://www.wired.com/story/low-paid-humans-ai-biden-modern-day-slavery/</guid>
-      <pubDate>Wed, 22 May 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
