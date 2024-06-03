@@ -4,94 +4,94 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Fri, 31 May 2024 15:07:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 18:10:15 GMT</lastBuildDate>
     <item>
-      <title>她的人工智能手臂</title>
-      <link>https://www.nytimes.com/card/2024/05/26/technology/ai-prosthetic-arm</link>
-      <description><![CDATA[《纽约时报》配备 Coapt 机器学习软件的机械臂让萨拉·德拉加德 (Sarah de Lagarde) 能够煮咖啡、拉直头发和拥抱女儿。Coapt 的布莱尔·洛克 (Blair Lock) 表示：“当我们有机会向人们展示真正有助于帮助他人的人工智能时，这是积极的。”然而，德拉加德的整只手臂（每个部件均由不同的公司制造）的成本约为 190,000 美元。她还必须应对假肢的重量及其缺乏触觉功能的问题。摘自“她的 AI 手臂”
-纽约时报 (05/26/24) Adam Satariano 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/card/2024/05/26/technology/ai-prosthetic-arm</guid>
-      <pubDate>Fri, 31 May 2024 15:07:40 GMT</pubDate>
+      <title>西班牙数据监管机构阻止 Meta 使用欧盟选举工具</title>
+      <link>https://www.reuters.com/world/europe/spains-data-protection-agency-suspends-two-metas-eu-election-apps-2024-05-31/</link>
+      <description><![CDATA[路透社西班牙数据保护局 (AEPD) 下令暂时停止在其社交媒体平台 Instagram 和 Facebook 上部署即将在即将到来的欧盟选举中部署的两款 Meta 产品。 “Meta 设想的数据处理将违反西班牙数据保护法规，至少会违反合法性、数据最小化和保留期限限制等数据保护原则，”AEPD 表示。摘自“西班牙数据监管机构阻止 Meta 使用欧盟选举工具”
+路透社 (05/31/24) David Latona 查看全文]]></description>
+      <guid>https://www.reuters.com/world/europe/spains-data-protection-agency-suspends-two-metas-eu-election-apps-2024-05-31/</guid>
+      <pubDate>Mon, 03 Jun 2024 18:10:14 GMT</pubDate>
     </item>
     <item>
-      <title>未来的数字屏幕将让用户“感受”物品</title>
-      <link>https://www.bath.ac.uk/announcements/tomorrows-digital-screens-will-be-soft-and-elastic-so-youll-feel-items-through-your-phone/</link>
-      <description><![CDATA[巴斯大学 (英国)英国巴斯大学的计算机科学家开发了一种数字触摸屏，它可以根据用户的手指压力变软或变硬。借助 DeformIO，消费者有朝一日可以通过手机显示屏“感受”物品，这在游戏、医疗模拟、在线购物等方面都有潜在应用。DeformIO 由硅胶制成，使用气动和电阻传感检测压力。摘自“未来的数字屏幕将让用户‘感受’物品”
-巴斯大学 (英国) (05/28/24) 查看全文]]></description>
-      <guid>https://www.bath.ac.uk/announcements/tomorrows-digital-screens-will-be-soft-and-elastic-so-youll-feel-items-through-your-phone/</guid>
-      <pubDate>Fri, 31 May 2024 15:07:39 GMT</pubDate>
+      <title>俄罗斯开发首款芯片制造工具——落后30年</title>
+      <link>https://www.tomshardware.com/tech-industry/russia-develops-its-first-lithography-tool-outdated-by-30-years-from-day-one</link>
+      <description><![CDATA[Tom&#39;s Hardware俄罗斯工业和贸易部副部长 Vasily Shpak 宣布开发了该国第一台光刻工具，该工具可以生产采用 350nm 工艺技术或更厚的芯片。尽管俄罗斯第一台国产光刻扫描仪是其半导体制造工作的重要里程碑，但 350nm 被认为已经过时约 30 年。摘自“俄罗斯开发其第一款芯片制造工具——过时 30 年”
+Tom&#39;s Hardware (05/29/24) Anton Shilov 查看全文]]></description>
+      <guid>https://www.tomshardware.com/tech-industry/russia-develops-its-first-lithography-tool-outdated-by-30-years-from-day-one</guid>
+      <pubDate>Mon, 03 Jun 2024 18:10:14 GMT</pubDate>
     </item>
     <item>
-      <title>精准神经科学创下人类大脑植入 4096 个电极的脑芯片纪录</title>
-      <link>https://arstechnica.com/science/2024/05/neuralink-rival-sets-brain-chip-record-with-4096-electrodes-on-human-brain/</link>
-      <description><![CDATA[Ars TechnicaPrecision Neuroscience 通过在活体人脑上放置 4,096 个电极创造了新的世界纪录，高于 2023 年创下的 2,048 个电极。该纪录是在 4 月份创下的，当时纽约西奈山医疗系统的神经外科医生在手术中将 Precision 脑机接口设备放置在患者大脑上，以切除良性脑瘤。随后，精准研究人员使用电极阵列记录了患者大脑约 8 平方厘米的详细神经元活动。摘自“精准神经科学在人类大脑上设置 4,096 个电极，创下脑芯片记录”
-Ars Technica (05/28/24) Beth Mole 查看全文]]></description>
-      <guid>https://arstechnica.com/science/2024/05/neuralink-rival-sets-brain-chip-record-with-4096-electrodes-on-human-brain/</guid>
-      <pubDate>Fri, 31 May 2024 15:07:39 GMT</pubDate>
+      <title>医疗保健行业绘制“单点故障”带来的网络风险图</title>
+      <link>https://www.wsj.com/articles/healthcare-sector-maps-cyber-risk-posed-by-single-points-of-failure-7f817fbc</link>
+      <description><![CDATA[WSJ Pro 网络安全为了应对针对 UnitedHealth Group 的 Change Healthcare 部门的网络攻击，美国卫生与公众服务部正在与专家合作，绘制与单点故障相关的网络安全风险图。在 UnitedHealth 的案例中，风险在于由一家技术供应商负责支付处理。创建这样的风险地图将使政府和医疗保健公司能够解决网络弱点并制定紧急情况和中断计划。摘自“医疗保健行业绘制‘单点故障’造成的网络风险地图”
+WSJ Pro Cyber​​security (05/30/24) Catherine Stupp 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/articles/healthcare-sector-maps-cyber-risk-posed-by-single-points-of-failure-7f817fbc</guid>
+      <pubDate>Mon, 03 Jun 2024 18:10:13 GMT</pubDate>
     </item>
     <item>
-      <title>FBI 摧毁全球僵尸电脑设备大军</title>
-      <link>https://www.bloomberg.com/news/articles/2024-05-29/fbi-takes-down-massive-global-army-of-zombie-computer-devices</link>
-      <description><![CDATA[彭博社美国联邦调查局已经摧毁了世界上最大的僵尸网络，该网络由 190 多个国家/地区的 1900 万台受感染的计算机组成。该僵尸网络用于促进金融欺诈、身份盗窃、儿童剥削、炸弹威胁和网络攻击。美国有超过 613,000 个 IP 地址与该僵尸网络有关。一名中国公民在新加坡被捕，并被指控涉嫌部署恶意软件以及创建和运营“911 S5”住宅代理服务。摘自“FBI 摧毁全球僵尸计算机设备大军”
-彭博社 (05/29/24) Katrina Manson； Bernadette Toh 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-05-29/fbi-takes-down-massive-global-army-of-zombie-computer-devices</guid>
-      <pubDate>Fri, 31 May 2024 15:07:38 GMT</pubDate>
+      <title>1 位 LLM 可以解决 AI 的能源需求</title>
+      <link>https://spectrum.ieee.org/1-bit-llm</link>
+      <description><![CDATA[IEEE Spectrum瑞士苏黎世联邦理工学院、中国北京航空航天大学和香港大学的研究人员利用训练后量化创建了一个 1 位大型语言模型 (LLM)，这有助于降低 AI 系统的能源需求。BiLLM 方法使用单个位来近似大多数网络参数，使用两个位来近似那些对性能影响最大的参数。这种方法用于对 Meta 的 LLaMa LLM 版本进行二值化，该版本具有 130 亿个参数。BiLLM 的表现优于其最接近的二值化竞争对手，同时使用的内存容量仅为原始模型的十分之一。摘自“1 位 LLM 可以解决 AI 的能源需求”
+IEEE Spectrum (05/30/24) Matthew Hutson 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/1-bit-llm</guid>
+      <pubDate>Mon, 03 Jun 2024 18:10:13 GMT</pubDate>
     </item>
     <item>
-      <title>Martonosi 荣获 ACM Frances E. Allen 奖</title>
-      <link>https://www.acm.org/media-center/2024/may/allen-award-2023</link>
-      <description><![CDATA[ACM 新闻稿ACM 已将普林斯顿大学的 Margaret Martonosi 评为 ACM Frances E. Allen 杰出指导奖获得者。 Martonosi 因其在计算机架构领域以及普林斯顿大学更广泛的计算机科学界的指导工作而获得认可。除其他事项外，Martonosi 还建立了学科特定研讨会计划，以加强女性和代表性不足的群体成员在计算领域的参与。摘自“Martonosi 获得 ACM Frances E. Allen 奖”
-ACM 新闻稿 (05/29/24) 查看全文]]></description>
-      <guid>https://www.acm.org/media-center/2024/may/allen-award-2023</guid>
-      <pubDate>Fri, 31 May 2024 15:07:38 GMT</pubDate>
+      <title>FCC 终止平价互联网计划</title>
+      <link>https://www.cnn.com/2024/05/31/tech/fcc-affordable-connectivity-program-acp-close/index.html</link>
+      <description><![CDATA[CNN由于缺乏资金，美国联邦通信委员会 (FCC) 正式终止了平价连接计划 (ACP)，该计划帮助数千万低收入家庭负担得起互联网服务。这项为期两年半的计划为符合条件的低收入美国人提供每月互联网账单抵免。周五，拜登总统再次呼吁国会通过延长 ACP 的立法，并宣布互联网提供商将自愿承诺提供一系列专有的低收入互联网计划。摘自“FCC 终止平价互联网计划”
+CNN (05/31/24) Brian Fung 查看全文]]></description>
+      <guid>https://www.cnn.com/2024/05/31/tech/fcc-affordable-connectivity-program-acp-close/index.html</guid>
+      <pubDate>Mon, 03 Jun 2024 18:10:12 GMT</pubDate>
     </item>
     <item>
-      <title>天目芯片和混合摄像头助力自动驾驶汽车更安全发展</title>
-      <link>https://www.theregister.com/2024/05/29/computer_vision_nature_self_driving/</link>
-      <description><![CDATA[The Register (英国)中国清华大学的研究人员开发了一种用于自动驾驶系统的新型芯片——天目芯片，它将低精度、快速的基于事件的检测与速度较慢但更精确的图像可视化相结合。与此同时，瑞士苏黎世大学的研究人员开发了一种混合摄像头，将事件处理与高带宽成像处理相结合，以解决感知和计算延迟问题。混合物体检测器可以减少高速场景下检测所需的时间。摘自“天目芯片、混合摄像头提升更安全的自动驾驶汽车前景”
-The Register (英国) (05/29/24) Lindsay Clark]]></description>
-      <guid>https://www.theregister.com/2024/05/29/computer_vision_nature_self_driving/</guid>
-      <pubDate>Fri, 31 May 2024 15:07:37 GMT</pubDate>
+      <title>美国放缓 Nvidia、AMD 对中东的 AI 芯片出口</title>
+      <link>https://www.bloomberg.com/news/articles/2024-05-30/us-officials-rein-in-ai-chip-sales-to-middle-east-by-nvidia-amd</link>
+      <description><![CDATA[彭博社随着对中东地区人工智能发展进行国家安全审查，美国已放缓向 Nvidia、AMD 和其他芯片制造商发放向中东大规模运送人工智能加速器的许可证。部分担忧在于，中国公司本身与美国尖端技术基本隔绝，可以通过中东的数据中心访问这些芯片。摘自“美国放缓 Nvidia、AMD 向中东出口人工智能芯片”
+彭博社 (05/30/24) Mackenzie Hawkins；Ian King；Nick Wadhams 查看全文]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-05-30/us-officials-rein-in-ai-chip-sales-to-middle-east-by-nvidia-amd</guid>
+      <pubDate>Mon, 03 Jun 2024 18:10:12 GMT</pubDate>
     </item>
     <item>
-      <title>囚犯利用虚拟现实 (VR) 为刑满释放后的生活做准备</title>
-      <link>https://www.cnn.com/2024/05/29/tech/prisoners-virtual-reality-mechanic-job-training/index.html</link>
-      <description><![CDATA[CNN马里兰州女子惩教所与巴尔的摩非营利组织 Vehicles for Change 合作，为囚犯提供 VR 培训计划，为她们出狱后从事汽车技师工作做好准备。自 2023 年该计划启动以来，迄今为止，已有 15 名女性毕业。使用 VR 耳机，参与者可以使用不同的工具并在虚拟汽车修理厂中操作升降机。Vehicles for Change 的 Martin Schwartz 表示，“[VR] 将成为我们五年内全面培训技能行业的方式。”摘自“囚犯使用 VR 为出狱后的生活做准备”
-CNN (05/29/24) Clare Duffy 查看全文]]></description>
-      <guid>https://www.cnn.com/2024/05/29/tech/prisoners-virtual-reality-mechanic-job-training/index.html</guid>
-      <pubDate>Fri, 31 May 2024 15:07:37 GMT</pubDate>
+      <title>机器人为 NAVER 1784 的星巴克顾客提供服务</title>
+      <link>https://interestingengineering.com/innovation/naver-headquarter-robot-run-starbucks</link>
+      <description><![CDATA[有趣的工程位于韩国城南市 Naver 1784 大厦的星巴克拥有约 100 个为顾客服务的机器人。Rookie 自主服务机器人在整个 36 层高的大楼内运送包裹、咖啡和午餐盒。这些机器人在 Naver 的 AI、机器人和云系统上运行，该系统可实现精确的室内导航、机器人运动和任务的规划和处理以及在线和离线环境的实时管理。摘自“机器人为 NAVER 1784 星巴克的顾客服务”
+有趣的工程 (05/27/24) Jijo Malayil 查看全文]]></description>
+      <guid>https://interestingengineering.com/innovation/naver-headquarter-robot-run-starbucks</guid>
+      <pubDate>Mon, 03 Jun 2024 18:10:12 GMT</pubDate>
     </item>
     <item>
-      <title>浏览器插件有助于提高数字隐私素养，打击操纵性设计</title>
-      <link>https://news.nd.edu/news/ai-browser-plug-ins-to-help-consumers-improve-digital-privacy-literacy-combat-manipulative-design/</link>
-      <description><![CDATA[圣母大学新闻圣母大学研究人员开发的 Google Chrome Privacy Sandbox 浏览器插件可以帮助用户了解不同网站如何根据年龄、种族、位置、收入和家庭规模来针对他们。研究人员开发的另一个 Chrome 浏览器插件名为 Dark Pita，可以检测亚马逊、YouTube、Netflix、Facebook 和 X 上的暗黑模式并解释其影响。这两个插件尚未向公众开放。摘自“浏览器插件可以帮助提高数字隐私素养，打击操纵性设计”
-圣母大学新闻 (05/29/24) Brandi Wampler]]></description>
-      <guid>https://news.nd.edu/news/ai-browser-plug-ins-to-help-consumers-improve-digital-privacy-literacy-combat-manipulative-design/</guid>
-      <pubDate>Fri, 31 May 2024 15:07:36 GMT</pubDate>
+      <title>最新发现的 2023 黑客攻击导致数十万美国互联网路由器被毁</title>
+      <link>https://www.reuters.com/technology/cybersecurity/hundreds-thousands-us-internet-routers-destroyed-newly-discovered-2023-hack-2024-05-30/</link>
+      <description><![CDATA[路透社Lumen Technologies 旗下 Black Lotus 实验室的安全研究人员发现，美国中西部一家未具名电信公司遭受了网络攻击，导致 60 多万台互联网路由器瘫痪。此次攻击发生于 10 月，但当时并未披露，是由一个未具名黑客组织实施的。它涉及向公司客户发送的恶意固件更新，通过删除路由器操作代码的元素来禁用他们的互联网路由器。摘自“2023 年新发现的黑客攻击导致数十万美国互联网路由器被摧毁”
+路透社 (05/30/24) Christopher Bing 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/cybersecurity/hundreds-thousands-us-internet-routers-destroyed-newly-discovered-2023-hack-2024-05-30/</guid>
+      <pubDate>Mon, 03 Jun 2024 18:10:11 GMT</pubDate>
     </item>
     <item>
-      <title>到 2030 年，数据中心可能消耗美国 9% 的电力</title>
-      <link>https://www.reuters.com/business/energy/data-centers-could-use-9-us-electricity-by-2030-research-institute-says-2024-05-29/</link>
-      <description><![CDATA[路透社电力研究所的一份新报告发现，到本世纪末，数据中心的电力消耗可能会增加一倍以上，达到美国总发电量的 9%。该研究所表示，到 2030 年，该行业预计的年用电量增长率在 3.7% 至 15% 之间。该报告呼吁在生成式人工智能使用增加的情况下提高数据中心的能源效率并增加电网投资。摘自“到 2030 年，数据中心可能使用美国 9% 的电力”
-路透社 (05/29/24) Laila Kearney 查看全文]]></description>
-      <guid>https://www.reuters.com/business/energy/data-centers-could-use-9-us-electricity-by-2030-research-institute-says-2024-05-29/</guid>
-      <pubDate>Fri, 31 May 2024 15:07:35 GMT</pubDate>
+      <title>人工智能工具可轻易利用政治领袖的声音编造选举谎言</title>
+      <link>https://apnews.com/article/artificial-intelligence-audio-voice-cloning-elections-2024-2500813b642169478c27c168aab1b3e3</link>
+      <description><![CDATA[美联社华盛顿数字民权组织“反数字仇恨中心”的研究人员对六种最受欢迎​​的人工智能语音克隆工具进行了测试，发现这些工具可以生成令人信服的主要政治人物的语音克隆。该组织发现，在 240 次测试中，这些工具在 193 次（占 80%）的情况下生成了令人信服的语音克隆。一些工具有规则或技术障碍来阻止产生选举虚假信息，尽管研究人员发现其中许多障碍很容易避免。摘自“人工智能工具很容易从政治领袖的声音中制造选举谎言”
+美联社 (05/31/24) Ali Swenson 查看全文]]></description>
+      <guid>https://apnews.com/article/artificial-intelligence-audio-voice-cloning-elections-2024-2500813b642169478c27c168aab1b3e3</guid>
+      <pubDate>Mon, 03 Jun 2024 18:10:10 GMT</pubDate>
     </item>
     <item>
-      <title>印度 IIT 精英毕业生就业机会减少</title>
-      <link>https://www.bloomberg.com/news/newsletters/2024-05-30/tough-job-market-for-india-s-elite-engineers-sparks-ai-led-existential-concern?sref=db2f3qgr</link>
-      <description><![CDATA[彭博社尽管就业季即将结束，但印度理工学院 (IIT) 的数千名学生仍未找到工作，这引发了人们的担忧：人工智能正在抢占传统上推动印度软件服务业发展的人才库的工作岗位。23 所 IIT 每年培养约 25,000 名工程师，约占印度约 150 万名工程师的 2%。 “这场危机就像是煤矿里的金丝雀，”前微软印度公司董事长、IIT 校友 Ravi Venkatesan 表示。摘自“印度精英 IIT 毕业生就业机会枯竭”
-彭博社 (05/30/24) Menaka Doshi 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/newsletters/2024-05-30/tough-job-market-for-india-s-elite-engineers-sparks-ai-led-existential-concern?sref=db2f3qgr</guid>
-      <pubDate>Fri, 31 May 2024 15:07:35 GMT</pubDate>
+      <title>无人机为脆弱的珊瑚礁提供了新的视角</title>
+      <link>https://www.uwa.edu.au/news/article/2024/may/drones-offer-new-perspective-on-vulnerable-tide-exposed-coral-reefs</link>
+      <description><![CDATA[西澳大利亚大学西澳大利亚大学和澳大利亚海洋科学研究所的研究人员证明，无人机可以成为监测难以进入的潮间带珊瑚礁的有用工具。研究人员利用无人机技术和创新的分析技术绘制了金伯利海岸外罗利浅滩潮间带珊瑚礁的地图。通过比较机器学习和人工智能方法对无人机拍摄的 3D 珊瑚礁结构图像的分析，发现最简单的方法可以更准确地估计珊瑚覆盖率。摘自“无人机为脆弱珊瑚礁提供了新的视角”
+西澳大利亚大学 (05/30/24) 查看全文]]></description>
+      <guid>https://www.uwa.edu.au/news/article/2024/may/drones-offer-new-perspective-on-vulnerable-tide-exposed-coral-reefs</guid>
+      <pubDate>Mon, 03 Jun 2024 18:10:10 GMT</pubDate>
     </item>
     <item>
-      <title>ACM 再次选举 Yannis Ioannidis 为主席</title>
-      <link>https://www.acm.org/articles/bulletins/2024/may/acm-re-elects-yannis-ioannidis-as-president</link>
-      <description><![CDATA[ACM 通讯来自希腊雅典大学的 ACM 主席 Yannis Ioannidis 再次当选，任期为两年，自 7 月 1 日开始。同样再次当选的还有副主席 Elisa Bertino，她是普渡大学教授、ACM 院士和 2019-2020 年 ACM 雅典娜讲师，任期为两年。Splunk Inc. 的 Rashmi Mohan 当选为秘书/财务主管，任期为两年。密歇根大学的 Odest (Chad) Jenkins、韩国科学技术高等研究院的 John Kim、巴西亚马逊联邦大学的 Tanara Lauschner、独立顾问 Alison Derbenwick Miller、Zalando SE 和道德人工智能与机器学习研究所的 Alejandro Saucedo 当选为任期四年的普通会员。摘自“ACM 重新选举 Yannis Ioannidis 为主席”
-ACM 公报 (05/29/24)]]></description>
-      <guid>https://www.acm.org/articles/bulletins/2024/may/acm-re-elects-yannis-ioannidis-as-president</guid>
-      <pubDate>Fri, 31 May 2024 15:07:34 GMT</pubDate>
+      <title>战斗损伤探测器可帮助救援团体</title>
+      <link>https://www.newscientist.com/article/2433633-battle-damage-detector-can-help-aid-groups-rapidly-respond-during-war/</link>
+      <description><![CDATA[《新科学家》通过分析欧洲航天局哨兵 1 号卫星发出的雷达信号，一种算法可以检测出战区中完好建筑物和受损建筑物之间的差异。英国伦敦大学学院的奥利·巴林格使用统计测试比较了联合国数据集中乌克兰、加沙、叙利亚和伊拉克 633,000 多座建筑物中每座建筑物的雷达回波信号，并根据变化记录了战争造成的损失。与人工标注的图像相比，该方法在检测受损建筑物方面的准确率高达 88%。摘自“战损探测器可帮助援助团体”
+《新科学家》（2024 年 5 月 31 日）Jeremy Hsu 查看全文]]></description>
+      <guid>https://www.newscientist.com/article/2433633-battle-damage-detector-can-help-aid-groups-rapidly-respond-during-war/</guid>
+      <pubDate>Mon, 03 Jun 2024 18:10:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
