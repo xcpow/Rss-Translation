@@ -4,94 +4,102 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Mon, 03 Jun 2024 18:10:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 18:09:35 GMT</lastBuildDate>
     <item>
-      <title>西班牙数据监管机构阻止 Meta 使用欧盟选举工具</title>
-      <link>https://www.reuters.com/world/europe/spains-data-protection-agency-suspends-two-metas-eu-election-apps-2024-05-31/</link>
-      <description><![CDATA[路透社西班牙数据保护局 (AEPD) 下令暂时停止在其社交媒体平台 Instagram 和 Facebook 上部署即将在即将到来的欧盟选举中部署的两款 Meta 产品。 “Meta 设想的数据处理将违反西班牙数据保护法规，至少会违反合法性、数据最小化和保留期限限制等数据保护原则，”AEPD 表示。摘自“西班牙数据监管机构阻止 Meta 使用欧盟选举工具”
-路透社 (05/31/24) David Latona 查看全文]]></description>
-      <guid>https://www.reuters.com/world/europe/spains-data-protection-agency-suspends-two-metas-eu-election-apps-2024-05-31/</guid>
-      <pubDate>Mon, 03 Jun 2024 18:10:14 GMT</pubDate>
+      <title>技术可以让中风患者在家中接受康复治疗</title>
+      <link>https://engineering.nyu.edu/news/nyu-tandon-researchers-develop-technology-may-allow-stroke-patients-undergo-rehab-home</link>
+      <description><![CDATA[纽约大学坦登工程学院纽约大学坦登工程学院的研究人员开发的技术可以让中风患者在家中进行康复锻炼。该技术通过绑在前臂上的智能手机和低成本的游戏控制器跟踪手腕运动。Novint Falcon 控制器可以引导用户完成特定的手臂动作并跟踪其控制器的轨迹，而智能手机传感器可以测量用户手腕的角度，为提供远程康复的治疗师提供数据。摘自“技术可能让中风患者在家中接受康复治疗”
+纽约大学坦登工程学院 (05/30/2024) 查看全文]]></description>
+      <guid>https://engineering.nyu.edu/news/nyu-tandon-researchers-develop-technology-may-allow-stroke-patients-undergo-rehab-home</guid>
+      <pubDate>Wed, 05 Jun 2024 18:09:35 GMT</pubDate>
     </item>
     <item>
-      <title>俄罗斯开发首款芯片制造工具——落后30年</title>
-      <link>https://www.tomshardware.com/tech-industry/russia-develops-its-first-lithography-tool-outdated-by-30-years-from-day-one</link>
-      <description><![CDATA[Tom&#39;s Hardware俄罗斯工业和贸易部副部长 Vasily Shpak 宣布开发了该国第一台光刻工具，该工具可以生产采用 350nm 工艺技术或更厚的芯片。尽管俄罗斯第一台国产光刻扫描仪是其半导体制造工作的重要里程碑，但 350nm 被认为已经过时约 30 年。摘自“俄罗斯开发其第一款芯片制造工具——过时 30 年”
-Tom&#39;s Hardware (05/29/24) Anton Shilov 查看全文]]></description>
-      <guid>https://www.tomshardware.com/tech-industry/russia-develops-its-first-lithography-tool-outdated-by-30-years-from-day-one</guid>
-      <pubDate>Mon, 03 Jun 2024 18:10:14 GMT</pubDate>
+      <title>空间站上首次实现金属 3D 打印</title>
+      <link>https://www.esa.int/ESA_Multimedia/Images/2024/06/First_metal_3D_printing_on_Space_Station</link>
+      <description><![CDATA[欧洲航天局在液化不锈钢中沉积的一条小 S 形曲线成为国际空间站上首次进行的金属三维 (3D) 打印。这条测试线是在欧洲航天局 (ESA) 哥伦布实验室模块上制作的。ESA 的 Rob Postema 表示：“首次打印的成功以及其他参考线让我们准备在不久的将来打印完整的部件。”金属 3D 打印机在一个密封的盒子里运行，由地球监督。摘自“空间站上的第一台金属 3D 打印”
+欧洲航天局 (06/03/24) 查看全文]]></description>
+      <guid>https://www.esa.int/ESA_Multimedia/Images/2024/06/First_metal_3D_printing_on_Space_Station</guid>
+      <pubDate>Wed, 05 Jun 2024 18:09:34 GMT</pubDate>
     </item>
     <item>
-      <title>医疗保健行业绘制“单点故障”带来的网络风险图</title>
-      <link>https://www.wsj.com/articles/healthcare-sector-maps-cyber-risk-posed-by-single-points-of-failure-7f817fbc</link>
-      <description><![CDATA[WSJ Pro 网络安全为了应对针对 UnitedHealth Group 的 Change Healthcare 部门的网络攻击，美国卫生与公众服务部正在与专家合作，绘制与单点故障相关的网络安全风险图。在 UnitedHealth 的案例中，风险在于由一家技术供应商负责支付处理。创建这样的风险地图将使政府和医疗保健公司能够解决网络弱点并制定紧急情况和中断计划。摘自“医疗保健行业绘制‘单点故障’造成的网络风险地图”
-WSJ Pro Cyber​​security (05/30/24) Catherine Stupp 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/articles/healthcare-sector-maps-cyber-risk-posed-by-single-points-of-failure-7f817fbc</guid>
-      <pubDate>Mon, 03 Jun 2024 18:10:13 GMT</pubDate>
+      <title>阻止音频深度伪造的新技术</title>
+      <link>https://spectrum.ieee.org/deepfake-audio</link>
+      <description><![CDATA[IEEE Spectrum美国联邦贸易委员会最近宣布了语音克隆挑战赛的三名获胜者，该挑战赛涉及制定防止、监控和评估音频深度伪造的策略。亚利桑那州立大学的研究人员凭借 OriginStory 赢得了比赛，这是一款内置传感器的麦克风，可以检测和测量来自人类说话者的生物信号，以验证语音是否由人类生成。软件技术公司 OmniSpeech 凭借其 AI Detect 语音处理软件赢得了比赛，该软件将机器学习算法嵌入到设备中，以实时识别 AI 生成的语音。最后，华盛顿大学圣路易斯分校的研究人员因 DeFake 而获得认可，该技术通过在人声录音中添加微小扰动来防止克隆。摘自“阻止音频 Deepfakes 的新技术”
+IEEE Spectrum (05/30/24) Rina Diane Caballar 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/deepfake-audio</guid>
+      <pubDate>Wed, 05 Jun 2024 18:09:34 GMT</pubDate>
     </item>
     <item>
-      <title>1 位 LLM 可以解决 AI 的能源需求</title>
-      <link>https://spectrum.ieee.org/1-bit-llm</link>
-      <description><![CDATA[IEEE Spectrum瑞士苏黎世联邦理工学院、中国北京航空航天大学和香港大学的研究人员利用训练后量化创建了一个 1 位大型语言模型 (LLM)，这有助于降低 AI 系统的能源需求。BiLLM 方法使用单个位来近似大多数网络参数，使用两个位来近似那些对性能影响最大的参数。这种方法用于对 Meta 的 LLaMa LLM 版本进行二值化，该版本具有 130 亿个参数。BiLLM 的表现优于其最接近的二值化竞争对手，同时使用的内存容量仅为原始模型的十分之一。摘自“1 位 LLM 可以解决 AI 的能源需求”
-IEEE Spectrum (05/30/24) Matthew Hutson 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/1-bit-llm</guid>
-      <pubDate>Mon, 03 Jun 2024 18:10:13 GMT</pubDate>
+      <title>波兰加强网络安全以应对虚假新闻攻击</title>
+      <link>https://www.reuters.com/technology/cybersecurity/poland-spend-3-bln-zlotys-cybersecurity-after-attack-news-agency-2024-06-03/</link>
+      <description><![CDATA[路透社波兰数字事务部长 Krzysztof Gawkowski（见图）表示，在国家通讯社 PAP 遭受网络攻击后，波兰将花费超过 30 亿兹罗提（7.6 亿美元）加强网络安全。官员们对俄罗斯干涉即将在波兰举行的欧洲议会选举表示担忧。 Gawkowski 表示，这笔钱将用于“网络盾牌”，他指出，6 月 2 日至 3 日针对关键基础设施的几起网络攻击已被阻止。摘自“波兰在假新闻袭击后加强网络安全”
+路透社 (06/03/24) Alan Charlish；Pawel Florkiewicz 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/cybersecurity/poland-spend-3-bln-zlotys-cybersecurity-after-attack-news-agency-2024-06-03/</guid>
+      <pubDate>Wed, 05 Jun 2024 18:09:33 GMT</pubDate>
     </item>
     <item>
-      <title>FCC 终止平价互联网计划</title>
-      <link>https://www.cnn.com/2024/05/31/tech/fcc-affordable-connectivity-program-acp-close/index.html</link>
-      <description><![CDATA[CNN由于缺乏资金，美国联邦通信委员会 (FCC) 正式终止了平价连接计划 (ACP)，该计划帮助数千万低收入家庭负担得起互联网服务。这项为期两年半的计划为符合条件的低收入美国人提供每月互联网账单抵免。周五，拜登总统再次呼吁国会通过延长 ACP 的立法，并宣布互联网提供商将自愿承诺提供一系列专有的低收入互联网计划。摘自“FCC 终止平价互联网计划”
-CNN (05/31/24) Brian Fung 查看全文]]></description>
-      <guid>https://www.cnn.com/2024/05/31/tech/fcc-affordable-connectivity-program-acp-close/index.html</guid>
-      <pubDate>Mon, 03 Jun 2024 18:10:12 GMT</pubDate>
+      <title>数字孪生用于改善机器人的建筑环境</title>
+      <link>https://www.theengineer.co.uk/content/news/digital-twins-used-to-improve-built-environments-for-robots</link>
+      <description><![CDATA[工程师新加坡科技设计大学的研究人员使用数字孪生技术展示了机器人建筑环境设计指南的价值。研究人员开发了一种三阶段方法：对环境进行现场记录；将点云数据重建到数字空间并生成建筑环境的 3D 模型，并在机器人模拟软件中使用生成的数字化模型来测试机器人的行为和交互。摘自“用于改善机器人建筑环境的数字孪生”
+工程师 (06/03/24) 查看全文]]></description>
+      <guid>https://www.theengineer.co.uk/content/news/digital-twins-used-to-improve-built-environments-for-robots</guid>
+      <pubDate>Wed, 05 Jun 2024 18:09:33 GMT</pubDate>
     </item>
     <item>
-      <title>美国放缓 Nvidia、AMD 对中东的 AI 芯片出口</title>
-      <link>https://www.bloomberg.com/news/articles/2024-05-30/us-officials-rein-in-ai-chip-sales-to-middle-east-by-nvidia-amd</link>
-      <description><![CDATA[彭博社随着对中东地区人工智能发展进行国家安全审查，美国已放缓向 Nvidia、AMD 和其他芯片制造商发放向中东大规模运送人工智能加速器的许可证。部分担忧在于，中国公司本身与美国尖端技术基本隔绝，可以通过中东的数据中心访问这些芯片。摘自“美国放缓 Nvidia、AMD 向中东出口人工智能芯片”
-彭博社 (05/30/24) Mackenzie Hawkins；Ian King；Nick Wadhams 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-05-30/us-officials-rein-in-ai-chip-sales-to-middle-east-by-nvidia-amd</guid>
-      <pubDate>Mon, 03 Jun 2024 18:10:12 GMT</pubDate>
+      <title>元算法促使黑人更多地进入昂贵的大学</title>
+      <link>https://www.theregister.com/2024/06/04/meta_ad_algorithm_discrimination/</link>
+      <description><![CDATA[The Register（英国）普林斯顿大学和南加州大学的研究人员发现 Meta 的教育广告展示算法存在种族偏见。他们的研究发现，黑人用户看到营利性大学和机构的广告的频率比看到公立大学的广告的频率高，这些机构过去一直存在掠夺性营销行为。普林斯顿大学的 Aleksandra Korolova 表示：“我们怀疑 Meta 的算法并没有直接使用种族因素，我们观察到的算法效果是由 Meta 可能依赖的代理和其他历史数据驱动的。”摘自“Meta 算法推动黑人更多地进入昂贵的大学”
+The Register（英国）（06/04/24）Thomas Claburn]]></description>
+      <guid>https://www.theregister.com/2024/06/04/meta_ad_algorithm_discrimination/</guid>
+      <pubDate>Wed, 05 Jun 2024 18:09:32 GMT</pubDate>
     </item>
     <item>
-      <title>机器人为 NAVER 1784 的星巴克顾客提供服务</title>
-      <link>https://interestingengineering.com/innovation/naver-headquarter-robot-run-starbucks</link>
-      <description><![CDATA[有趣的工程位于韩国城南市 Naver 1784 大厦的星巴克拥有约 100 个为顾客服务的机器人。Rookie 自主服务机器人在整个 36 层高的大楼内运送包裹、咖啡和午餐盒。这些机器人在 Naver 的 AI、机器人和云系统上运行，该系统可实现精确的室内导航、机器人运动和任务的规划和处理以及在线和离线环境的实时管理。摘自“机器人为 NAVER 1784 星巴克的顾客服务”
-有趣的工程 (05/27/24) Jijo Malayil 查看全文]]></description>
-      <guid>https://interestingengineering.com/innovation/naver-headquarter-robot-run-starbucks</guid>
-      <pubDate>Mon, 03 Jun 2024 18:10:12 GMT</pubDate>
+      <title>生成式人工智能在发货前扫描亚马逊包裹是否存在缺陷</title>
+      <link>https://www.fastcompany.com/91133897/amazon-generative-ai-package-defects-project-pi-computer-vision</link>
+      <description><![CDATA[Fast Company亚马逊实施了一个名为 Project P.I. 的人工智能模型，该模型使用生成式人工智能和计算机视觉技术来确保客户收到正确的订单。Project P.I. 可以识别有缺陷或损坏的物品，以及检测尺寸或颜色错误的物品。亚马逊的 Kara Hurst 表示，该公司“正在利用人工智能来履行我们的可持续发展承诺，以应对气候变化的紧迫性，同时改善客户体验。”摘自“生成式人工智能在发货前扫描您的亚马逊包裹以查找缺陷”
+Fast Company (06/03/24) Sam Becker 查看全文]]></description>
+      <guid>https://www.fastcompany.com/91133897/amazon-generative-ai-package-defects-project-pi-computer-vision</guid>
+      <pubDate>Wed, 05 Jun 2024 18:09:32 GMT</pubDate>
     </item>
     <item>
-      <title>最新发现的 2023 黑客攻击导致数十万美国互联网路由器被毁</title>
-      <link>https://www.reuters.com/technology/cybersecurity/hundreds-thousands-us-internet-routers-destroyed-newly-discovered-2023-hack-2024-05-30/</link>
-      <description><![CDATA[路透社Lumen Technologies 旗下 Black Lotus 实验室的安全研究人员发现，美国中西部一家未具名电信公司遭受了网络攻击，导致 60 多万台互联网路由器瘫痪。此次攻击发生于 10 月，但当时并未披露，是由一个未具名黑客组织实施的。它涉及向公司客户发送的恶意固件更新，通过删除路由器操作代码的元素来禁用他们的互联网路由器。摘自“2023 年新发现的黑客攻击导致数十万美国互联网路由器被摧毁”
-路透社 (05/30/24) Christopher Bing 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/cybersecurity/hundreds-thousands-us-internet-routers-destroyed-newly-discovered-2023-hack-2024-05-30/</guid>
-      <pubDate>Mon, 03 Jun 2024 18:10:11 GMT</pubDate>
+      <title>俄罗斯机器人利用假冒汤姆·克鲁斯传播奥运会虚假信息</title>
+      <link>https://www.bloomberg.com/news/articles/2024-06-03/russian-bots-use-fake-tom-cruise-for-olympic-disinformation</link>
+      <description><![CDATA[彭博社微软研究人员发现，一个亲俄造假组织利用人工智能生成的虚假音频，让一段视频看起来像是演员汤姆·克鲁斯在旁白，暗示即将举行的巴黎奥运会可能会发生暴力事件。这段视频被当作 Netflix 纪录片，并附有知名媒体的虚假代言。一个亲俄组织还制作了一段冒充媒体 France24 的视频，谎称近四分之一的奥运门票购买者因担心巴黎发生恐怖主义而要求退款。摘自“俄罗斯机器人利用假汤姆·克鲁斯进行奥运造假”
+彭博社 (06/03/24) Jeff Stone；Daniel Zuidijk；Hugo Miller；等人 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-06-03/russian-bots-use-fake-tom-cruise-for-olympic-disinformation</guid>
+      <pubDate>Wed, 05 Jun 2024 18:09:31 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能工具可轻易利用政治领袖的声音编造选举谎言</title>
-      <link>https://apnews.com/article/artificial-intelligence-audio-voice-cloning-elections-2024-2500813b642169478c27c168aab1b3e3</link>
-      <description><![CDATA[美联社华盛顿数字民权组织“反数字仇恨中心”的研究人员对六种最受欢迎​​的人工智能语音克隆工具进行了测试，发现这些工具可以生成令人信服的主要政治人物的语音克隆。该组织发现，在 240 次测试中，这些工具在 193 次（占 80%）的情况下生成了令人信服的语音克隆。一些工具有规则或技术障碍来阻止产生选举虚假信息，尽管研究人员发现其中许多障碍很容易避免。摘自“人工智能工具很容易从政治领袖的声音中制造选举谎言”
-美联社 (05/31/24) Ali Swenson 查看全文]]></description>
-      <guid>https://apnews.com/article/artificial-intelligence-audio-voice-cloning-elections-2024-2500813b642169478c27c168aab1b3e3</guid>
-      <pubDate>Mon, 03 Jun 2024 18:10:10 GMT</pubDate>
+      <title>印度数据中心容量超越亚洲竞争对手</title>
+      <link>https://asia.nikkei.com/Business/Technology/India-outpacing-Asian-rivals-in-data-center-capacity-report-says</link>
+      <description><![CDATA[日经亚洲（日本）世邦魏理仕的一份报告发现，印度在数据中心投资方面已超过日本、新加坡和香港。与此同时，亚马逊等全球企业以及阿达尼集团和信实工业等国内企业集团也做出了大量资金承诺。世邦魏理仕表示，到 2026 年，印度的新增产能将达到 850 兆瓦 (MW)，而韩国为 495 MW，日本为 407 MW，澳大利亚为 314 MW。摘自“印度在数据中心产能方面超越亚洲竞争对手”
+日经亚洲（日本）（2024 年 6 月 3 日）Akira Hayakawa； Sayan Chakraborty 查看全文]]></description>
+      <guid>https://asia.nikkei.com/Business/Technology/India-outpacing-Asian-rivals-in-data-center-capacity-report-says</guid>
+      <pubDate>Wed, 05 Jun 2024 18:09:31 GMT</pubDate>
     </item>
     <item>
-      <title>无人机为脆弱的珊瑚礁提供了新的视角</title>
-      <link>https://www.uwa.edu.au/news/article/2024/may/drones-offer-new-perspective-on-vulnerable-tide-exposed-coral-reefs</link>
-      <description><![CDATA[西澳大利亚大学西澳大利亚大学和澳大利亚海洋科学研究所的研究人员证明，无人机可以成为监测难以进入的潮间带珊瑚礁的有用工具。研究人员利用无人机技术和创新的分析技术绘制了金伯利海岸外罗利浅滩潮间带珊瑚礁的地图。通过比较机器学习和人工智能方法对无人机拍摄的 3D 珊瑚礁结构图像的分析，发现最简单的方法可以更准确地估计珊瑚覆盖率。摘自“无人机为脆弱珊瑚礁提供了新的视角”
-西澳大利亚大学 (05/30/24) 查看全文]]></description>
-      <guid>https://www.uwa.edu.au/news/article/2024/may/drones-offer-new-perspective-on-vulnerable-tide-exposed-coral-reefs</guid>
-      <pubDate>Mon, 03 Jun 2024 18:10:10 GMT</pubDate>
+      <title>报告显示外国人才对美国 STEM 劳动力的重要性</title>
+      <link>https://www.nsf.gov/nsb/news/news_summ.jsp?cntn_id=309769&amp;org=NSB&amp;from=news</link>
+      <description><![CDATA[美国国家科学基金会美国国家科学委员会 (NSB) 的一份新报告发现，2011 年至 2021 年间，美国从事 STEM 职业的工人比例从 22% 增加到 24%。报告指出，2021 年，在大多数 STEM 职业群体中，男性人数超过女性，STEM 职业中外国出生工人的比例 (26%) 高于美国出生工人的比例 (24%)。 NSB 成员 Julia Phillips 表示：“展望未来，培养国内 STEM 人才的多样性至关重要。”摘自“报告显示外国出生人才对美国 STEM 劳动力的重要性”
+美国国家科学基金会 (05/30/24) 查看全文]]></description>
+      <guid>https://www.nsf.gov/nsb/news/news_summ.jsp?cntn_id=309769&amp;org=NSB&amp;from=news</guid>
+      <pubDate>Wed, 05 Jun 2024 18:09:30 GMT</pubDate>
     </item>
     <item>
-      <title>战斗损伤探测器可帮助救援团体</title>
-      <link>https://www.newscientist.com/article/2433633-battle-damage-detector-can-help-aid-groups-rapidly-respond-during-war/</link>
-      <description><![CDATA[《新科学家》通过分析欧洲航天局哨兵 1 号卫星发出的雷达信号，一种算法可以检测出战区中完好建筑物和受损建筑物之间的差异。英国伦敦大学学院的奥利·巴林格使用统计测试比较了联合国数据集中乌克兰、加沙、叙利亚和伊拉克 633,000 多座建筑物中每座建筑物的雷达回波信号，并根据变化记录了战争造成的损失。与人工标注的图像相比，该方法在检测受损建筑物方面的准确率高达 88%。摘自“战损探测器可帮助援助团体”
-《新科学家》（2024 年 5 月 31 日）Jeremy Hsu 查看全文]]></description>
-      <guid>https://www.newscientist.com/article/2433633-battle-damage-detector-can-help-aid-groups-rapidly-respond-during-war/</guid>
-      <pubDate>Mon, 03 Jun 2024 18:10:09 GMT</pubDate>
+      <title>中国的互联网正在消失</title>
+      <link>https://www.nytimes.com/2024/06/04/business/china-internet-censorship.html</link>
+      <description><![CDATA[《纽约时报》5 月 22 日，一篇关于中国即时通讯、社交媒体和移动支付应用微信的文章指出，1995 年至 2005 年间在中国新闻门户网站、博客、论坛和社交媒体网站上发布的几乎所有信息都消失了。中国互联网监管机构报告称，该国网站数量从 2017 年的 530 万个下降到去年的 390 万个，而网络技术调查发现，全球中文网站数量从 2013 年占全球总数的 4.3% 下降到 2023 年的 1.3%。摘自“中国互联网正在消失”
+纽约时报 (06/04/24) 李源 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/06/04/business/china-internet-censorship.html</guid>
+      <pubDate>Wed, 05 Jun 2024 18:09:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>纽约或将限制青少年使用社交媒体算法</title>
+      <link>https://www.wsj.com/politics/new-york-set-to-restrict-social-media-algorithms-for-teens-ce250dfe</link>
+      <description><![CDATA[华尔街日报纽约正在考虑的一项立法将禁止社交媒体公司使用算法将内容引导给儿童，以及在未经父母同意的情况下在夜间向未成年人发送通知。这项法案与加利福尼亚州正在推进的一项法案一样，并不限制内容，只限制信息流的组装方式。纽约州长 Kathy Hochul（如图）表示，这项措施将降低社交媒体的成瘾性，并补充说青少年过度使用社交媒体会导致精神疾病的发病率上升。摘自“纽约可能会限制青少年使用社交媒体算法”
+华尔街日报（06/03/24）Jimmy Vielkind 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/politics/new-york-set-to-restrict-social-media-algorithms-for-teens-ce250dfe</guid>
+      <pubDate>Wed, 05 Jun 2024 18:09:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
