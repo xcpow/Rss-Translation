@@ -4,7 +4,21 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 06 Jun 2024 15:08:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 18:09:37 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 揭秘 ChatGPT 的核心</title>
+      <link>https://www.wired.com/story/openai-offers-a-peek-inside-the-guts-of-chatgpt/</link>
+      <description><![CDATA[前雇员们表示，OpenAI 对自身技术过于鲁莽，几天后，该公司发布了一篇关于逆向工程 AI 模型运作方法的研究论文。]]></description>
+      <guid>https://www.wired.com/story/openai-offers-a-peek-inside-the-guts-of-chatgpt/</guid>
+      <pubDate>Thu, 06 Jun 2024 17:45:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>聊天机器人团队合作让人工智能梦想成真</title>
+      <link>https://www.wired.com/story/chatbot-teamwork-makes-the-ai-dream-work/</link>
+      <description><![CDATA[实验表明，让人工智能聊天机器人共同解决问题可以弥补它们的一些不足。《连线》杂志招募了两个机器人来帮助策划这篇文章。]]></description>
+      <guid>https://www.wired.com/story/chatbot-teamwork-makes-the-ai-dream-work/</guid>
+      <pubDate>Thu, 06 Jun 2024 16:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>硅谷领主们激动地展示“手持铁穹”</title>
       <link>https://www.wired.com/story/zeromark-handheld-iron-dome-a16z/</link>
@@ -36,7 +50,7 @@
     <item>
       <title>谷歌在“披萨胶”丑闻爆发前就已削减了搜索领域的人工智能概览</title>
       <link>https://www.wired.com/story/google-cut-back-ai-overviews-before-pizza-glue/</link>
-      <description><![CDATA[有关谷歌新 AI 概览功能在搜索结果中出现频率的数据表明，该公司在诸如在披萨酱中添加胶水等建议流行起来之前就已经降低了其知名度。]]></description>
+      <description><![CDATA[有关谷歌新 AI 概览功能在搜索结果中出现频率的数据表明，该公司甚至在向披萨酱中添加胶水等建议流行起来之前就降低了其知名度。]]></description>
       <guid>https://www.wired.com/story/google-cut-back-ai-overviews-before-pizza-glue/</guid>
       <pubDate>Tue, 04 Jun 2024 16:00:00 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[两名前 Facebook 员工创建了非营利性诚信研究所，以清理科技平台。现在，该研究所陷入了 Slack 纠纷，一位创始人在接受外部人力资源调查后辞职。]]></description>
       <guid>https://www.wired.com/story/integrity-institute-nonprofit-tried-to-fix-tech-culture-lost-control/</guid>
       <pubDate>Wed, 29 May 2024 18:25:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究人员如何破解价值 300 万美元的加密钱包 11 年之久的密码</title>
-      <link>https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/</link>
-      <description><![CDATA[由于十年前版本的 RoboForm 密码管理器存在缺陷，再加上一些运气，研究人员得以挖掘出包含一笔财富的加密钱包的密码。]]></description>
-      <guid>https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/</guid>
-      <pubDate>Tue, 28 May 2024 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anduril 正在实现五角大楼的致命无人机群梦想</title>
-      <link>https://www.wired.com/story/anduril-is-building-out-the-pentagons-dream-of-deadly-drone-swarms/</link>
-      <description><![CDATA[美国军方旨在通过制造与人类合作、以群体方式压倒防御的自主攻击无人机来保持其主导地位。]]></description>
-      <guid>https://www.wired.com/story/anduril-is-building-out-the-pentagons-dream-of-deadly-drone-swarms/</guid>
-      <pubDate>Tue, 28 May 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
