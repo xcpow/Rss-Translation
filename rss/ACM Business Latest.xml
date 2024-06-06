@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 06 Jun 2024 09:09:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 12:15:00 GMT</lastBuildDate>
+    <item>
+      <title>硅谷领主们激动地展示“手持铁穹”</title>
+      <link>https://www.wired.com/story/zeromark-handheld-iron-dome-a16z/</link>
+      <description><![CDATA[ZeroMark 希望建立一种系统，让士兵能够使用他们携带的武器轻松地从空中击落无人机——风险投资公司 a16z 相信这家初创公司能够实现这一目标。]]></description>
+      <guid>https://www.wired.com/story/zeromark-handheld-iron-dome-a16z/</guid>
+      <pubDate>Thu, 06 Jun 2024 10:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>马克·安德森曾称网络安全团队为敌人。他仍想为孩子们打造围墙花园</title>
       <link>https://www.wired.com/story/marc-andreessen-online-safety-enemy-walled-gardens/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[美国军方旨在通过制造与人类合作、以群体方式压倒防御的自主攻击无人机来保持其主导地位。]]></description>
       <guid>https://www.wired.com/story/anduril-is-building-out-the-pentagons-dream-of-deadly-drone-swarms/</guid>
       <pubDate>Tue, 28 May 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>杂货店里的粉红菠萝是干什么的？！</title>
-      <link>https://www.wired.com/story/pink-pineapples-grocery-store-pinkglow-genetically-modified/</link>
-      <description><![CDATA[食品科学家利用柑橘和烟草的 DNA，让一种常见的水果变得比以往更美味，也更适合在 Instagram 上分享。我们研究了粉红菠萝，这样你就不用费心了。]]></description>
-      <guid>https://www.wired.com/story/pink-pineapples-grocery-store-pinkglow-genetically-modified/</guid>
-      <pubDate>Mon, 27 May 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
