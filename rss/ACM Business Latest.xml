@@ -4,7 +4,21 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 06 Jun 2024 18:09:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 21:08:24 GMT</lastBuildDate>
+    <item>
+      <title>美国国家安全专家警告称，人工智能巨头没有采取足够措施保护其机密</title>
+      <link>https://www.wired.com/story/national-security-experts-warn-ai-giants-secrets/</link>
+      <description><![CDATA[苏珊赖斯 (Susan Rice) 曾帮助白宫与 OpenAI 和其他科技公司达成人工智能安全协议，她表示担心中国会窃取美国的人工智能机密。]]></description>
+      <guid>https://www.wired.com/story/national-security-experts-warn-ai-giants-secrets/</guid>
+      <pubDate>Thu, 06 Jun 2024 20:21:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>前 Autonomy 首席执行官 Mike Lynch 在美国欺诈案审判中获释</title>
+      <link>https://www.wired.com/story/former-autonomy-ceo-mike-lynch-cleared-in-us-fraud-trial/</link>
+      <description><![CDATA[曾被誉为“英国版比尔盖茨”的软件大亨迈克林奇被美国陪审团宣判欺诈罪名不成立。]]></description>
+      <guid>https://www.wired.com/story/former-autonomy-ceo-mike-lynch-cleared-in-us-fraud-trial/</guid>
+      <pubDate>Thu, 06 Jun 2024 19:54:19 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI 揭秘 ChatGPT 的核心</title>
       <link>https://www.wired.com/story/openai-offers-a-peek-inside-the-guts-of-chatgpt/</link>
@@ -25,6 +39,13 @@
       <description><![CDATA[ZeroMark 希望建立一种系统，让士兵能够使用他们携带的武器轻松地从空中击落无人机——风险投资公司 a16z 相信这家初创公司能够实现这一目标。]]></description>
       <guid>https://www.wired.com/story/zeromark-handheld-iron-dome-a16z/</guid>
       <pubDate>Thu, 06 Jun 2024 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能卡通可能会为你下一份工作进行面试</title>
+      <link>https://www.wired.com/story/ai-cartoon-next-job/</link>
+      <description><![CDATA[好像试图找到一份新工作还不够令人沮丧，求职者正在与由生成人工智能驱动的角色会面，这些角色能够与无数的候选人会面以判断他们的技能。]]></description>
+      <guid>https://www.wired.com/story/ai-cartoon-next-job/</guid>
+      <pubDate>Thu, 06 Jun 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
       <title>马克·安德森曾称网络安全团队为敌人。他仍想为孩子们打造围墙花园</title>
@@ -88,27 +109,6 @@
       <description><![CDATA[谷歌搜索主管利兹·里德 (Liz Reid) 在一篇博客文章中表示，在错误截图被广泛传播后，该公司已对其新的人工智能搜索功能做出了调整。]]></description>
       <guid>https://www.wired.com/story/google-ai-overview-search-issues/</guid>
       <pubDate>Fri, 31 May 2024 01:56:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>WeWork 挺过了破产危机。现在它必须让共享办公模式获得回报</title>
-      <link>https://www.wired.com/story/wework-bankruptcy-future-of-work/</link>
-      <description><![CDATA[这家陷入困境的公司虽然从边缘回归，但走出破产阴影后，面临的世界里共享办公的长期前景却不那么确定。]]></description>
-      <guid>https://www.wired.com/story/wework-bankruptcy-future-of-work/</guid>
-      <pubDate>Thu, 30 May 2024 16:09:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>聊天机器人正在进入石器时代</title>
-      <link>https://www.wired.com/story/chatbots-are-entering-the-stone-age/</link>
-      <description><![CDATA[Anthropic 和其他大型人工智能初创公司正在教聊天机器人“使用工具”，以使它们在工作场所更有用。]]></description>
-      <guid>https://www.wired.com/story/chatbots-are-entering-the-stone-age/</guid>
-      <pubDate>Thu, 30 May 2024 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>一家非营利组织试图修复科技文化——但却失去了对自身文化的控制</title>
-      <link>https://www.wired.com/story/integrity-institute-nonprofit-tried-to-fix-tech-culture-lost-control/</link>
-      <description><![CDATA[两名前 Facebook 员工创建了非营利性诚信研究所，以清理科技平台。现在，该研究所陷入了 Slack 纠纷，一位创始人在接受外部人力资源调查后辞职。]]></description>
-      <guid>https://www.wired.com/story/integrity-institute-nonprofit-tried-to-fix-tech-culture-lost-control/</guid>
-      <pubDate>Wed, 29 May 2024 18:25:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
