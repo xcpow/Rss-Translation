@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 07 Jun 2024 09:08:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 12:15:14 GMT</lastBuildDate>
+    <item>
+      <title>人工智能卡通可能会为你下一份工作进行面试</title>
+      <link>https://www.wired.com/story/ai-cartoon-next-job/</link>
+      <description><![CDATA[好像试图找到一份新工作还不够令人沮丧，求职者正在与由生成人工智能驱动的角色会面，这些角色能够与无数的候选人会面以判断他们的技能。]]></description>
+      <guid>https://www.wired.com/story/ai-cartoon-next-job/</guid>
+      <pubDate>Fri, 07 Jun 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>美国国家安全专家警告称，人工智能巨头没有采取足够措施保护其机密</title>
       <link>https://www.wired.com/story/national-security-experts-warn-ai-giants-secrets/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[谷歌搜索主管利兹·里德 (Liz Reid) 在一篇博客文章中表示，在错误截图被广泛传播后，该公司已对其新的人工智能搜索功能做出了调整。]]></description>
       <guid>https://www.wired.com/story/google-ai-overview-search-issues/</guid>
       <pubDate>Fri, 31 May 2024 01:56:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>WeWork 挺过了破产危机。现在它必须让共享办公模式获得回报</title>
-      <link>https://www.wired.com/story/wework-bankruptcy-future-of-work/</link>
-      <description><![CDATA[这家陷入困境的公司虽然从边缘回归，但走出破产阴影后，面临的世界里共享办公的长期前景却不那么确定。]]></description>
-      <guid>https://www.wired.com/story/wework-bankruptcy-future-of-work/</guid>
-      <pubDate>Thu, 30 May 2024 16:09:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
