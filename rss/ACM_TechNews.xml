@@ -4,102 +4,105 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Wed, 05 Jun 2024 18:09:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 15:07:51 GMT</lastBuildDate>
     <item>
-      <title>技术可以让中风患者在家中接受康复治疗</title>
-      <link>https://engineering.nyu.edu/news/nyu-tandon-researchers-develop-technology-may-allow-stroke-patients-undergo-rehab-home</link>
-      <description><![CDATA[纽约大学坦登工程学院纽约大学坦登工程学院的研究人员开发的技术可以让中风患者在家中进行康复锻炼。该技术通过绑在前臂上的智能手机和低成本的游戏控制器跟踪手腕运动。Novint Falcon 控制器可以引导用户完成特定的手臂动作并跟踪其控制器的轨迹，而智能手机传感器可以测量用户手腕的角度，为提供远程康复的治疗师提供数据。摘自“技术可能让中风患者在家中接受康复治疗”
-纽约大学坦登工程学院 (05/30/2024) 查看全文]]></description>
-      <guid>https://engineering.nyu.edu/news/nyu-tandon-researchers-develop-technology-may-allow-stroke-patients-undergo-rehab-home</guid>
-      <pubDate>Wed, 05 Jun 2024 18:09:35 GMT</pubDate>
+      <title>ACM、IEEE 发布本科计算机科学综合课程指南</title>
+      <link>https://www.acm.org/media-center/2024/june/cs-2023</link>
+      <description><![CDATA[ACM 媒体中心ACM 与 IEEE 计算机学会和人工智能促进协会 (AAAI) 合作开发并发布了 2023 年计算机科学课程 (CS2023)。该课程每 10 年更新一次，是学生获得计算机科学和相关学科本科学位所需知识和能力的综合指南。更新后的 CS2023 增加了数学和统计要求，以符合人工智能和机器学习的学科要求。
+摘自“ACM、IEEE 发布本科计算机科学综合课程指南”
+ACM 媒体中心 (06/05/24) 查看全文]]></description>
+      <guid>https://www.acm.org/media-center/2024/june/cs-2023</guid>
+      <pubDate>Fri, 07 Jun 2024 15:07:51 GMT</pubDate>
     </item>
     <item>
-      <title>空间站上首次实现金属 3D 打印</title>
-      <link>https://www.esa.int/ESA_Multimedia/Images/2024/06/First_metal_3D_printing_on_Space_Station</link>
-      <description><![CDATA[欧洲航天局在液化不锈钢中沉积的一条小 S 形曲线成为国际空间站上首次进行的金属三维 (3D) 打印。这条测试线是在欧洲航天局 (ESA) 哥伦布实验室模块上制作的。ESA 的 Rob Postema 表示：“首次打印的成功以及其他参考线让我们准备在不久的将来打印完整的部件。”金属 3D 打印机在一个密封的盒子里运行，由地球监督。摘自“空间站上的第一台金属 3D 打印”
-欧洲航天局 (06/03/24) 查看全文]]></description>
-      <guid>https://www.esa.int/ESA_Multimedia/Images/2024/06/First_metal_3D_printing_on_Space_Station</guid>
-      <pubDate>Wed, 05 Jun 2024 18:09:34 GMT</pubDate>
+      <title>机器人汽车可能会因纸板上的铝箔和油漆而发生碰撞</title>
+      <link>https://www.theregister.com/2024/06/03/baidu_robotaxi_attack/</link>
+      <description><![CDATA[The Register（英国）来自多所大学的研究人员团队证明，仅使用金属箔和纸板上的彩色贴片即可攻击运行百度开源阿波罗驾驶平台的自动驾驶汽车 (AV)。在车辆雷达和目标车辆之间放置光滑的金属表面会使雷达接收器发射的毫米波信号偏转，并可以隐藏目标车辆，使其无法被雷达感知。反射还会混淆汽车的 LiDAR 激光，而彩色贴片会通过歪曲输入图像像素值来影响摄像头的感知。摘自“纸板上的箔片和油漆可能会撞坏机器人汽车”
+The Register（英国）（06/03/24）Laura Dobberstein]]></description>
+      <guid>https://www.theregister.com/2024/06/03/baidu_robotaxi_attack/</guid>
+      <pubDate>Fri, 07 Jun 2024 15:07:50 GMT</pubDate>
     </item>
     <item>
-      <title>阻止音频深度伪造的新技术</title>
-      <link>https://spectrum.ieee.org/deepfake-audio</link>
-      <description><![CDATA[IEEE Spectrum美国联邦贸易委员会最近宣布了语音克隆挑战赛的三名获胜者，该挑战赛涉及制定防止、监控和评估音频深度伪造的策略。亚利桑那州立大学的研究人员凭借 OriginStory 赢得了比赛，这是一款内置传感器的麦克风，可以检测和测量来自人类说话者的生物信号，以验证语音是否由人类生成。软件技术公司 OmniSpeech 凭借其 AI Detect 语音处理软件赢得了比赛，该软件将机器学习算法嵌入到设备中，以实时识别 AI 生成的语音。最后，华盛顿大学圣路易斯分校的研究人员因 DeFake 而获得认可，该技术通过在人声录音中添加微小扰动来防止克隆。摘自“阻止音频 Deepfakes 的新技术”
-IEEE Spectrum (05/30/24) Rina Diane Caballar 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/deepfake-audio</guid>
-      <pubDate>Wed, 05 Jun 2024 18:09:34 GMT</pubDate>
+      <title>美国国家安全局敦促智能手机每周重启</title>
+      <link>https://www.forbes.com/sites/daveywinder/2024/06/01/nsa-warns-iphone--android-users-to-turn-it-off-and-on-again/</link>
+      <description><![CDATA[福布斯在一份详细介绍移动设备最佳实践的文件中，美国国家安全局 (NSA) 建议用户每周至少关闭设备然后重新打开一次，以防止零点击漏洞和鱼叉式网络钓鱼。然而，NSA 警告说，这种方法并不能保证能够防止或减轻攻击。该组织还警告说，一些智能手机功能“提供了便利和能力，但牺牲了安全性。”摘自“NSA 敦促每周重启智能手机”
+福布斯 (06/01/24) Davey Winder 查看全文]]></description>
+      <guid>https://www.forbes.com/sites/daveywinder/2024/06/01/nsa-warns-iphone--android-users-to-turn-it-off-and-on-again/</guid>
+      <pubDate>Fri, 07 Jun 2024 15:07:50 GMT</pubDate>
     </item>
     <item>
-      <title>波兰加强网络安全以应对虚假新闻攻击</title>
-      <link>https://www.reuters.com/technology/cybersecurity/poland-spend-3-bln-zlotys-cybersecurity-after-attack-news-agency-2024-06-03/</link>
-      <description><![CDATA[路透社波兰数字事务部长 Krzysztof Gawkowski（见图）表示，在国家通讯社 PAP 遭受网络攻击后，波兰将花费超过 30 亿兹罗提（7.6 亿美元）加强网络安全。官员们对俄罗斯干涉即将在波兰举行的欧洲议会选举表示担忧。 Gawkowski 表示，这笔钱将用于“网络盾牌”，他指出，6 月 2 日至 3 日针对关键基础设施的几起网络攻击已被阻止。摘自“波兰在假新闻袭击后加强网络安全”
-路透社 (06/03/24) Alan Charlish；Pawel Florkiewicz 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/cybersecurity/poland-spend-3-bln-zlotys-cybersecurity-after-attack-news-agency-2024-06-03/</guid>
-      <pubDate>Wed, 05 Jun 2024 18:09:33 GMT</pubDate>
+      <title>机器学习检测增材制造中的缺陷</title>
+      <link>https://mechse.illinois.edu/news/67203</link>
+      <description><![CDATA[伊利诺伊大学厄巴纳-香槟分校 伊利诺伊大学厄巴纳-香槟分校的研究人员开发了一种机器学习技术，可以识别 3D 打印部件中的缺陷。该技术基于一个模型，该模型使用通过计算机模拟生成的数万个缺陷构建而成，每个缺陷的大小、形状和位置都不同。在实际的 3D 打印部件上进行测试时，该模型准确地检测到了数百个以前从未见过的缺陷。摘自“机器学习检测增材制造中的缺陷”
+伊利诺伊大学厄巴纳-香槟分校 (06/03/24) 查看全文]]></description>
+      <guid>https://mechse.illinois.edu/news/67203</guid>
+      <pubDate>Fri, 07 Jun 2024 15:07:49 GMT</pubDate>
     </item>
     <item>
-      <title>数字孪生用于改善机器人的建筑环境</title>
-      <link>https://www.theengineer.co.uk/content/news/digital-twins-used-to-improve-built-environments-for-robots</link>
-      <description><![CDATA[工程师新加坡科技设计大学的研究人员使用数字孪生技术展示了机器人建筑环境设计指南的价值。研究人员开发了一种三阶段方法：对环境进行现场记录；将点云数据重建到数字空间并生成建筑环境的 3D 模型，并在机器人模拟软件中使用生成的数字化模型来测试机器人的行为和交互。摘自“用于改善机器人建筑环境的数字孪生”
-工程师 (06/03/24) 查看全文]]></description>
-      <guid>https://www.theengineer.co.uk/content/news/digital-twins-used-to-improve-built-environments-for-robots</guid>
-      <pubDate>Wed, 05 Jun 2024 18:09:33 GMT</pubDate>
+      <title>编码培训培养来自难民营的软件开发人员</title>
+      <link>https://www.newtimes.co.rw/article/17326/news/technology/how-coding-training-nurtures-software-developers-from-mahama-refugee-camp</link>
+      <description><![CDATA[新时报（卢旺达）卢旺达东部省基雷赫区马哈马难民营的 40 名难民正在参加为期 10 个月的软件开发培训计划。培训计划的目的是教他们编程，以及在就业市场中摸索或创业所需的技能。加齐博区的尼亚比赫克难民营也提供类似的计划。卢旺达应急管理部正与非营利组织 ALIGHT 合作，在难民营开展为期 14 个月的软件开发计划。摘自“编码培训培养难民营软件开发人员”
+《新时报》（卢旺达）（2024 年 6 月 3 日）Emmanuel Nkangura 查看全文]]></description>
+      <guid>https://www.newtimes.co.rw/article/17326/news/technology/how-coding-training-nurtures-software-developers-from-mahama-refugee-camp</guid>
+      <pubDate>Fri, 07 Jun 2024 15:07:49 GMT</pubDate>
     </item>
     <item>
-      <title>元算法促使黑人更多地进入昂贵的大学</title>
-      <link>https://www.theregister.com/2024/06/04/meta_ad_algorithm_discrimination/</link>
-      <description><![CDATA[The Register（英国）普林斯顿大学和南加州大学的研究人员发现 Meta 的教育广告展示算法存在种族偏见。他们的研究发现，黑人用户看到营利性大学和机构的广告的频率比看到公立大学的广告的频率高，这些机构过去一直存在掠夺性营销行为。普林斯顿大学的 Aleksandra Korolova 表示：“我们怀疑 Meta 的算法并没有直接使用种族因素，我们观察到的算法效果是由 Meta 可能依赖的代理和其他历史数据驱动的。”摘自“Meta 算法推动黑人更多地进入昂贵的大学”
-The Register（英国）（06/04/24）Thomas Claburn]]></description>
-      <guid>https://www.theregister.com/2024/06/04/meta_ad_algorithm_discrimination/</guid>
-      <pubDate>Wed, 05 Jun 2024 18:09:32 GMT</pubDate>
+      <title>西班牙拟立法改善儿童网络安全</title>
+      <link>https://apnews.com/article/spain-internet-children-safety-cc1f39e403b8b333979794f5e79be23d</link>
+      <description><![CDATA[美联社西班牙提议通过一项法律，将开设社交媒体账户的年龄从 14 岁提高到 16 岁，旨在保护儿童免受网络威胁。该拟议法律还将修改刑法，为制作针对未成年人的性虐待内容的深度伪造图像设定具体罪行，并为被定罪的罪犯建立虚拟限制令，以防止他们从事某些在线活动或通过互联网联系受害者。摘自“西班牙提议通过法律改善儿童网络安全”
+美联社 (06/04/24) Joseph Wilson 查看全文]]></description>
+      <guid>https://apnews.com/article/spain-internet-children-safety-cc1f39e403b8b333979794f5e79be23d</guid>
+      <pubDate>Fri, 07 Jun 2024 15:07:48 GMT</pubDate>
     </item>
     <item>
-      <title>生成式人工智能在发货前扫描亚马逊包裹是否存在缺陷</title>
-      <link>https://www.fastcompany.com/91133897/amazon-generative-ai-package-defects-project-pi-computer-vision</link>
-      <description><![CDATA[Fast Company亚马逊实施了一个名为 Project P.I. 的人工智能模型，该模型使用生成式人工智能和计算机视觉技术来确保客户收到正确的订单。Project P.I. 可以识别有缺陷或损坏的物品，以及检测尺寸或颜色错误的物品。亚马逊的 Kara Hurst 表示，该公司“正在利用人工智能来履行我们的可持续发展承诺，以应对气候变化的紧迫性，同时改善客户体验。”摘自“生成式人工智能在发货前扫描您的亚马逊包裹以查找缺陷”
-Fast Company (06/03/24) Sam Becker 查看全文]]></description>
-      <guid>https://www.fastcompany.com/91133897/amazon-generative-ai-package-defects-project-pi-computer-vision</guid>
-      <pubDate>Wed, 05 Jun 2024 18:09:32 GMT</pubDate>
+      <title>手势识别策略推动假肢手技术发展</title>
+      <link>https://www.theengineer.co.uk/content/news/new-gesture-recognition-strategy-advances-prosthetic-hand-technology</link>
+      <description><![CDATA[工程师中国北京理工大学和日本电气通信大学的研究人员开发了一种使用肌电图 (EMG) 信号识别假肢手势的方法。新方法，即 EMG 的虚拟维度增加，通过虚拟增加 EMG 通道数量来提高手势识别准确性，从而消除了对大量传感器阵列的需求。研究人员还开发了一种新的定量测量方法，即特征向量的可分离性，以确保假肢手能够根据用户的需求进行精细调整。摘自“手势识别策略推动假肢手技术发展”
+工程师 (06/04/24) 查看全文]]></description>
+      <guid>https://www.theengineer.co.uk/content/news/new-gesture-recognition-strategy-advances-prosthetic-hand-technology</guid>
+      <pubDate>Fri, 07 Jun 2024 15:07:48 GMT</pubDate>
     </item>
     <item>
-      <title>俄罗斯机器人利用假冒汤姆·克鲁斯传播奥运会虚假信息</title>
-      <link>https://www.bloomberg.com/news/articles/2024-06-03/russian-bots-use-fake-tom-cruise-for-olympic-disinformation</link>
-      <description><![CDATA[彭博社微软研究人员发现，一个亲俄造假组织利用人工智能生成的虚假音频，让一段视频看起来像是演员汤姆·克鲁斯在旁白，暗示即将举行的巴黎奥运会可能会发生暴力事件。这段视频被当作 Netflix 纪录片，并附有知名媒体的虚假代言。一个亲俄组织还制作了一段冒充媒体 France24 的视频，谎称近四分之一的奥运门票购买者因担心巴黎发生恐怖主义而要求退款。摘自“俄罗斯机器人利用假汤姆·克鲁斯进行奥运造假”
-彭博社 (06/03/24) Jeff Stone；Daniel Zuidijk；Hugo Miller；等人 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-06-03/russian-bots-use-fake-tom-cruise-for-olympic-disinformation</guid>
-      <pubDate>Wed, 05 Jun 2024 18:09:31 GMT</pubDate>
+      <title>科学家发现 RISC-V 开源芯片架构存在安全风险</title>
+      <link>https://www.scmp.com/news/china/science/article/3265493/scientists-find-security-risk-risc-v-open-source-chip-architecture-china-hopes-can-help-sidestep-us</link>
+      <description><![CDATA[《南华早报》中国西北工业大学的研究人员发现 RISC-V 开源芯片架构存在安全风险。中国国内芯片行业一直依赖该标准来制造 CPU 并规避美国的制裁。RISC-V SonicBoom 开源代码中的漏洞使攻击者无需管理权限即可绕过现代处理器和操作系统中的安全保护。据报道，美国立法者正在考虑限制中国对 RISC-V 的访问。摘自《科学家发现 RISC-V 开源芯片架构存在安全风险》
+南华早报 (06/05/24) 张彤 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.scmp.com/news/china/science/article/3265493/scientists-find-security-risk-risc-v-open-source-chip-architecture-china-hopes-can-help-sidestep-us</guid>
+      <pubDate>Fri, 07 Jun 2024 15:07:47 GMT</pubDate>
     </item>
     <item>
-      <title>印度数据中心容量超越亚洲竞争对手</title>
-      <link>https://asia.nikkei.com/Business/Technology/India-outpacing-Asian-rivals-in-data-center-capacity-report-says</link>
-      <description><![CDATA[日经亚洲（日本）世邦魏理仕的一份报告发现，印度在数据中心投资方面已超过日本、新加坡和香港。与此同时，亚马逊等全球企业以及阿达尼集团和信实工业等国内企业集团也做出了大量资金承诺。世邦魏理仕表示，到 2026 年，印度的新增产能将达到 850 兆瓦 (MW)，而韩国为 495 MW，日本为 407 MW，澳大利亚为 314 MW。摘自“印度在数据中心产能方面超越亚洲竞争对手”
-日经亚洲（日本）（2024 年 6 月 3 日）Akira Hayakawa； Sayan Chakraborty 查看全文]]></description>
-      <guid>https://asia.nikkei.com/Business/Technology/India-outpacing-Asian-rivals-in-data-center-capacity-report-says</guid>
-      <pubDate>Wed, 05 Jun 2024 18:09:31 GMT</pubDate>
+      <title>无线 CPU 原型或将实现无缝模块化计算</title>
+      <link>https://www.techradar.com/pro/worlds-first-wireless-cpu-prototype-breaks-cover-and-could-pave-the-way-for-a-world-of-seamless-modular-computing-but-it-will-still-require-a-physical-power-connection-for-now</link>
+      <description><![CDATA[TechRadar日本半导体初创公司 Premo 发布了世界上第一款具有无线芯片间连接的 CPU 原型。新芯片采用了与东京大学研究人员共同开发的专有技术。Dualibus 技术集成了 CPU、传感器、电源和通信模块，并使用芯片间无线连接技术和该公司的 CPU 设计来减少对印刷电路板和接线的需求。
+
+摘自“无线 CPU 原型可实现无缝模块化计算”
+TechRadar (06/05/24) Wayne Williams 查看全文]]></description>
+      <guid>https://www.techradar.com/pro/worlds-first-wireless-cpu-prototype-breaks-cover-and-could-pave-the-way-for-a-world-of-seamless-modular-computing-but-it-will-still-require-a-physical-power-connection-for-now</guid>
+      <pubDate>Fri, 07 Jun 2024 15:07:47 GMT</pubDate>
     </item>
     <item>
-      <title>报告显示外国人才对美国 STEM 劳动力的重要性</title>
-      <link>https://www.nsf.gov/nsb/news/news_summ.jsp?cntn_id=309769&amp;org=NSB&amp;from=news</link>
-      <description><![CDATA[美国国家科学基金会美国国家科学委员会 (NSB) 的一份新报告发现，2011 年至 2021 年间，美国从事 STEM 职业的工人比例从 22% 增加到 24%。报告指出，2021 年，在大多数 STEM 职业群体中，男性人数超过女性，STEM 职业中外国出生工人的比例 (26%) 高于美国出生工人的比例 (24%)。 NSB 成员 Julia Phillips 表示：“展望未来，培养国内 STEM 人才的多样性至关重要。”摘自“报告显示外国出生人才对美国 STEM 劳动力的重要性”
-美国国家科学基金会 (05/30/24) 查看全文]]></description>
-      <guid>https://www.nsf.gov/nsb/news/news_summ.jsp?cntn_id=309769&amp;org=NSB&amp;from=news</guid>
-      <pubDate>Wed, 05 Jun 2024 18:09:30 GMT</pubDate>
+      <title>山体滑坡预报系统可以挽救生命</title>
+      <link>https://kathmandupost.com/science-technology/2024/06/06/new-landslide-forecasting-system-helping-researchers-save-lives-in-nepal</link>
+      <description><![CDATA[加德满都邮报 (尼泊尔)来自澳大利亚、意大利和尼泊尔的科学家与尼泊尔政府和澳大利亚外交贸易部合作开发了一种可以对潜在山体滑坡提供预警的人工智能系统。SAFE-RISCCS 预测系统使用人工智能分析卫星图像，将其与降雨测量和地面运动数据相结合，以持续监测和预测任何时间任何地点发生山体滑坡的风险。摘自“山体滑坡预报系统可以挽救生命”
+加德满都邮报 (尼泊尔) (06/06/24) 查看全文]]></description>
+      <guid>https://kathmandupost.com/science-technology/2024/06/06/new-landslide-forecasting-system-helping-researchers-save-lives-in-nepal</guid>
+      <pubDate>Fri, 07 Jun 2024 15:07:46 GMT</pubDate>
     </item>
     <item>
-      <title>中国的互联网正在消失</title>
-      <link>https://www.nytimes.com/2024/06/04/business/china-internet-censorship.html</link>
-      <description><![CDATA[《纽约时报》5 月 22 日，一篇关于中国即时通讯、社交媒体和移动支付应用微信的文章指出，1995 年至 2005 年间在中国新闻门户网站、博客、论坛和社交媒体网站上发布的几乎所有信息都消失了。中国互联网监管机构报告称，该国网站数量从 2017 年的 530 万个下降到去年的 390 万个，而网络技术调查发现，全球中文网站数量从 2013 年占全球总数的 4.3% 下降到 2023 年的 1.3%。摘自“中国互联网正在消失”
-纽约时报 (06/04/24) 李源 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/06/04/business/china-internet-censorship.html</guid>
-      <pubDate>Wed, 05 Jun 2024 18:09:30 GMT</pubDate>
+      <title>过去一年，生成式人工智能职位招聘数量增长十倍</title>
+      <link>https://www.fastcompany.com/91136553/generative-ai-job-postings-increase-indeed</link>
+      <description><![CDATA[Fast Company招聘平台 Indeed 报告称，去年生成式 AI 招聘信息增长了 10 倍。然而，截至 4 月底，与 AI 相关的工作仅占全球所有招聘信息的 0.12%，占美国所有招聘信息的 2% 以下。去年，最热门的计算机科学领域中，近 30% 的工作与 AI 相关。摘自“过去一年生成式 AI 招聘信息增长了 10 倍”
+Fast Company (06/06/24) Chris Morris 查看全文]]></description>
+      <guid>https://www.fastcompany.com/91136553/generative-ai-job-postings-increase-indeed</guid>
+      <pubDate>Fri, 07 Jun 2024 15:07:46 GMT</pubDate>
     </item>
     <item>
-      <title>纽约或将限制青少年使用社交媒体算法</title>
-      <link>https://www.wsj.com/politics/new-york-set-to-restrict-social-media-algorithms-for-teens-ce250dfe</link>
-      <description><![CDATA[华尔街日报纽约正在考虑的一项立法将禁止社交媒体公司使用算法将内容引导给儿童，以及在未经父母同意的情况下在夜间向未成年人发送通知。这项法案与加利福尼亚州正在推进的一项法案一样，并不限制内容，只限制信息流的组装方式。纽约州长 Kathy Hochul（如图）表示，这项措施将降低社交媒体的成瘾性，并补充说青少年过度使用社交媒体会导致精神疾病的发病率上升。摘自“纽约可能会限制青少年使用社交媒体算法”
-华尔街日报（06/03/24）Jimmy Vielkind 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/politics/new-york-set-to-restrict-social-media-algorithms-for-teens-ce250dfe</guid>
-      <pubDate>Wed, 05 Jun 2024 18:09:29 GMT</pubDate>
+      <title>美国批准对 Nvidia、微软、OpenAI 进行反垄断调查</title>
+      <link>https://www.nytimes.com/2024/06/05/technology/nvidia-microsoft-openai-antitrust-doj-ftc.html</link>
+      <description><![CDATA[《纽约时报》美国司法部（DOJ）和联邦贸易委员会（FTC）达成协议，允许他们对微软、OpenAI 和 Nvidia 在人工智能行业扮演的主导角色进行反垄断调查。美国司法部将牵头调查最大 AI 芯片制造商英伟达的行为是否违反了反垄断法，而联邦贸易委员会将在审查 OpenAI 和微软的行为方面发挥主导作用。摘自“美国为对英伟达、微软、OpenAI 的反垄断调查扫清障碍”
+纽约时报 (06/06/24) David McCabe 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/06/05/technology/nvidia-microsoft-openai-antitrust-doj-ftc.html</guid>
+      <pubDate>Fri, 07 Jun 2024 15:07:45 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 07 Jun 2024 12:15:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 15:07:55 GMT</lastBuildDate>
+    <item>
+      <title>不要因为对科技公司的不信任而忽视人工智能的力量</title>
+      <link>https://www.wired.com/story/dont-let-mistrust-of-tech-companies-blind-you-power-of-ai/</link>
+      <description><![CDATA[我们可以对科技领袖对人工智能未来的宏伟愿景表示怀疑，但这并不意味着这项技术不会产生巨大的影响。]]></description>
+      <guid>https://www.wired.com/story/dont-let-mistrust-of-tech-companies-blind-you-power-of-ai/</guid>
+      <pubDate>Fri, 07 Jun 2024 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能卡通可能会为你下一份工作进行面试</title>
       <link>https://www.wired.com/story/ai-cartoon-next-job/</link>
@@ -13,7 +20,7 @@
       <pubDate>Fri, 07 Jun 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>美国国家安全专家警告称，人工智能巨头没有采取足够措施保护其机密</title>
+      <title>美国国家安全专家警告称，人工智能巨头在保护自身秘密方面做得不够</title>
       <link>https://www.wired.com/story/national-security-experts-warn-ai-giants-secrets/</link>
       <description><![CDATA[苏珊赖斯 (Susan Rice) 曾帮助白宫与 OpenAI 和其他科技公司达成人工智能安全协议，她表示担心中国会窃取美国的人工智能机密。]]></description>
       <guid>https://www.wired.com/story/national-security-experts-warn-ai-giants-secrets/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[Anjan Katta 认为计算机和科技行业已经变得过于企业化和墨守成规，因此他发明了一款带有灵活的单色屏幕的平板电脑，可以在户外使用。]]></description>
       <guid>https://www.wired.com/story/daylight-tablet-computing-hippie-ideals/</guid>
       <pubDate>Fri, 31 May 2024 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌承认其人工智能概览搜索功能存在问题</title>
-      <link>https://www.wired.com/story/google-ai-overview-search-issues/</link>
-      <description><![CDATA[谷歌搜索主管利兹·里德 (Liz Reid) 在一篇博客文章中表示，在错误截图被广泛传播后，该公司已对其新的人工智能搜索功能做出了调整。]]></description>
-      <guid>https://www.wired.com/story/google-ai-overview-search-issues/</guid>
-      <pubDate>Fri, 31 May 2024 01:56:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
