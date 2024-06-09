@@ -4,11 +4,18 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Sun, 09 Jun 2024 06:10:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jun 2024 09:08:12 GMT</lastBuildDate>
+    <item>
+      <title>欧盟正在与大型科技公司展开竞争。它可能处于劣势</title>
+      <link>https://www.wired.com/story/european-commission-big-tech-regulation-outlook/</link>
+      <description><![CDATA[从《数字服务法》到《人工智能法》，五年来欧洲为数字世界制定了许多规则。然而，实施这些规则并不总是那么容易。]]></description>
+      <guid>https://www.wired.com/story/european-commission-big-tech-regulation-outlook/</guid>
+      <pubDate>Sun, 09 Jun 2024 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>咆哮的小猫在玩火</title>
       <link>https://www.wired.com/story/roaring-kitty-is-playing-with-fire/</link>
-      <description><![CDATA[网红 Keith Gill（网上昵称 Roaring Kitty）在引发 GameStop 历史性空头挤压后，成为业余股票交易员的宠儿。但他的下一步举动可能会让他陷入大麻烦。]]></description>
+      <description><![CDATA[网红 Keith Gill（网名 Roaring Kitty）在引发 GameStop 历史性空头挤压后，成为业余股票交易员的宠儿。但他的下一步举动可能会让他陷入大麻烦。]]></description>
       <guid>https://www.wired.com/story/roaring-kitty-is-playing-with-fire/</guid>
       <pubDate>Fri, 07 Jun 2024 17:52:21 GMT</pubDate>
     </item>
@@ -27,7 +34,7 @@
       <pubDate>Fri, 07 Jun 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>美国国家安全专家警告称，人工智能巨头在保护自身秘密方面做得不够</title>
+      <title>美国国家安全专家警告称，人工智能巨头没有采取足够措施保护其机密</title>
       <link>https://www.wired.com/story/national-security-experts-warn-ai-giants-secrets/</link>
       <description><![CDATA[苏珊赖斯 (Susan Rice) 曾帮助白宫与 OpenAI 和其他科技公司达成人工智能安全协议，她表示担心中国会窃取美国的人工智能机密。]]></description>
       <guid>https://www.wired.com/story/national-security-experts-warn-ai-giants-secrets/</guid>
@@ -85,14 +92,14 @@
     <item>
       <title>谷歌在“披萨胶”丑闻爆发前就已削减了搜索领域的人工智能概览</title>
       <link>https://www.wired.com/story/google-cut-back-ai-overviews-before-pizza-glue/</link>
-      <description><![CDATA[有关谷歌新 AI 概览功能在搜索结果中出现频率的数据表明，该公司甚至在向披萨酱中添加胶水等建议流行起来之前就降低了其知名度。]]></description>
+      <description><![CDATA[有关谷歌新 AI 概览功能在搜索结果中出现频率的数据表明，该公司在诸如在披萨酱中添加胶水等建议流行起来之前就已经降低了其知名度。]]></description>
       <guid>https://www.wired.com/story/google-cut-back-ai-overviews-before-pizza-glue/</guid>
       <pubDate>Tue, 04 Jun 2024 16:00:00 GMT</pubDate>
     </item>
     <item>
       <title>OpenAI 员工警告风险与报复文化</title>
       <link>https://www.wired.com/story/openai-right-to-warn-open-letter-ai-risk/</link>
-      <description><![CDATA[OpenAI 和其他人工智能巨头的前任和现任员工签署了一封公开信，呼吁在人工智能快速发展的情况下对举报人进行保护。]]></description>
+      <description><![CDATA[OpenAI 和其他人工智能巨头的前任和现任员工签署了一封公开信，呼吁在人工智能快速发展之际对举报人进行保护。]]></description>
       <guid>https://www.wired.com/story/openai-right-to-warn-open-letter-ai-risk/</guid>
       <pubDate>Tue, 04 Jun 2024 15:13:40 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[亚马逊和微软等公司正在竞相在欧洲建立新的数据中心，但在幕后，人们担心如何为它们提供足够的电力来满足人工智能的需求。]]></description>
       <guid>https://www.wired.com/story/big-tech-datacenter-energy-power-grid/</guid>
       <pubDate>Mon, 03 Jun 2024 11:49:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌的人工智能概述将永远被打破。这就是人工智能的工作原理</title>
-      <link>https://www.wired.com/story/google-ai-overviews-broken-how-ai-works/</link>
-      <description><![CDATA[谷歌在其 AI 搜索功能出现错误并被广泛传播后匆忙发布了修复程序。生成式 AI 的根本限制意味着它有时仍会出错。]]></description>
-      <guid>https://www.wired.com/story/google-ai-overviews-broken-how-ai-works/</guid>
-      <pubDate>Fri, 31 May 2024 20:22:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
