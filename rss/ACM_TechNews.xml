@@ -4,105 +4,103 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Fri, 07 Jun 2024 15:07:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 18:10:11 GMT</lastBuildDate>
     <item>
-      <title>ACM、IEEE 发布本科计算机科学综合课程指南</title>
-      <link>https://www.acm.org/media-center/2024/june/cs-2023</link>
-      <description><![CDATA[ACM 媒体中心ACM 与 IEEE 计算机学会和人工智能促进协会 (AAAI) 合作开发并发布了 2023 年计算机科学课程 (CS2023)。该课程每 10 年更新一次，是学生获得计算机科学和相关学科本科学位所需知识和能力的综合指南。更新后的 CS2023 增加了数学和统计要求，以符合人工智能和机器学习的学科要求。
-摘自“ACM、IEEE 发布本科计算机科学综合课程指南”
-ACM 媒体中心 (06/05/24) 查看全文]]></description>
-      <guid>https://www.acm.org/media-center/2024/june/cs-2023</guid>
-      <pubDate>Fri, 07 Jun 2024 15:07:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>机器人汽车可能会因纸板上的铝箔和油漆而发生碰撞</title>
-      <link>https://www.theregister.com/2024/06/03/baidu_robotaxi_attack/</link>
-      <description><![CDATA[The Register（英国）来自多所大学的研究人员团队证明，仅使用金属箔和纸板上的彩色贴片即可攻击运行百度开源阿波罗驾驶平台的自动驾驶汽车 (AV)。在车辆雷达和目标车辆之间放置光滑的金属表面会使雷达接收器发射的毫米波信号偏转，并可以隐藏目标车辆，使其无法被雷达感知。反射还会混淆汽车的 LiDAR 激光，而彩色贴片会通过歪曲输入图像像素值来影响摄像头的感知。摘自“纸板上的箔片和油漆可能会撞坏机器人汽车”
-The Register（英国）（06/03/24）Laura Dobberstein]]></description>
-      <guid>https://www.theregister.com/2024/06/03/baidu_robotaxi_attack/</guid>
-      <pubDate>Fri, 07 Jun 2024 15:07:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国国家安全局敦促智能手机每周重启</title>
-      <link>https://www.forbes.com/sites/daveywinder/2024/06/01/nsa-warns-iphone--android-users-to-turn-it-off-and-on-again/</link>
-      <description><![CDATA[福布斯在一份详细介绍移动设备最佳实践的文件中，美国国家安全局 (NSA) 建议用户每周至少关闭设备然后重新打开一次，以防止零点击漏洞和鱼叉式网络钓鱼。然而，NSA 警告说，这种方法并不能保证能够防止或减轻攻击。该组织还警告说，一些智能手机功能“提供了便利和能力，但牺牲了安全性。”摘自“NSA 敦促每周重启智能手机”
-福布斯 (06/01/24) Davey Winder 查看全文]]></description>
-      <guid>https://www.forbes.com/sites/daveywinder/2024/06/01/nsa-warns-iphone--android-users-to-turn-it-off-and-on-again/</guid>
-      <pubDate>Fri, 07 Jun 2024 15:07:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>机器学习检测增材制造中的缺陷</title>
-      <link>https://mechse.illinois.edu/news/67203</link>
-      <description><![CDATA[伊利诺伊大学厄巴纳-香槟分校 伊利诺伊大学厄巴纳-香槟分校的研究人员开发了一种机器学习技术，可以识别 3D 打印部件中的缺陷。该技术基于一个模型，该模型使用通过计算机模拟生成的数万个缺陷构建而成，每个缺陷的大小、形状和位置都不同。在实际的 3D 打印部件上进行测试时，该模型准确地检测到了数百个以前从未见过的缺陷。摘自“机器学习检测增材制造中的缺陷”
-伊利诺伊大学厄巴纳-香槟分校 (06/03/24) 查看全文]]></description>
-      <guid>https://mechse.illinois.edu/news/67203</guid>
-      <pubDate>Fri, 07 Jun 2024 15:07:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>编码培训培养来自难民营的软件开发人员</title>
-      <link>https://www.newtimes.co.rw/article/17326/news/technology/how-coding-training-nurtures-software-developers-from-mahama-refugee-camp</link>
-      <description><![CDATA[新时报（卢旺达）卢旺达东部省基雷赫区马哈马难民营的 40 名难民正在参加为期 10 个月的软件开发培训计划。培训计划的目的是教他们编程，以及在就业市场中摸索或创业所需的技能。加齐博区的尼亚比赫克难民营也提供类似的计划。卢旺达应急管理部正与非营利组织 ALIGHT 合作，在难民营开展为期 14 个月的软件开发计划。摘自“编码培训培养难民营软件开发人员”
-《新时报》（卢旺达）（2024 年 6 月 3 日）Emmanuel Nkangura 查看全文]]></description>
-      <guid>https://www.newtimes.co.rw/article/17326/news/technology/how-coding-training-nurtures-software-developers-from-mahama-refugee-camp</guid>
-      <pubDate>Fri, 07 Jun 2024 15:07:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>西班牙拟立法改善儿童网络安全</title>
-      <link>https://apnews.com/article/spain-internet-children-safety-cc1f39e403b8b333979794f5e79be23d</link>
-      <description><![CDATA[美联社西班牙提议通过一项法律，将开设社交媒体账户的年龄从 14 岁提高到 16 岁，旨在保护儿童免受网络威胁。该拟议法律还将修改刑法，为制作针对未成年人的性虐待内容的深度伪造图像设定具体罪行，并为被定罪的罪犯建立虚拟限制令，以防止他们从事某些在线活动或通过互联网联系受害者。摘自“西班牙提议通过法律改善儿童网络安全”
-美联社 (06/04/24) Joseph Wilson 查看全文]]></description>
-      <guid>https://apnews.com/article/spain-internet-children-safety-cc1f39e403b8b333979794f5e79be23d</guid>
-      <pubDate>Fri, 07 Jun 2024 15:07:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>手势识别策略推动假肢手技术发展</title>
-      <link>https://www.theengineer.co.uk/content/news/new-gesture-recognition-strategy-advances-prosthetic-hand-technology</link>
-      <description><![CDATA[工程师中国北京理工大学和日本电气通信大学的研究人员开发了一种使用肌电图 (EMG) 信号识别假肢手势的方法。新方法，即 EMG 的虚拟维度增加，通过虚拟增加 EMG 通道数量来提高手势识别准确性，从而消除了对大量传感器阵列的需求。研究人员还开发了一种新的定量测量方法，即特征向量的可分离性，以确保假肢手能够根据用户的需求进行精细调整。摘自“手势识别策略推动假肢手技术发展”
-工程师 (06/04/24) 查看全文]]></description>
-      <guid>https://www.theengineer.co.uk/content/news/new-gesture-recognition-strategy-advances-prosthetic-hand-technology</guid>
-      <pubDate>Fri, 07 Jun 2024 15:07:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>科学家发现 RISC-V 开源芯片架构存在安全风险</title>
-      <link>https://www.scmp.com/news/china/science/article/3265493/scientists-find-security-risk-risc-v-open-source-chip-architecture-china-hopes-can-help-sidestep-us</link>
-      <description><![CDATA[《南华早报》中国西北工业大学的研究人员发现 RISC-V 开源芯片架构存在安全风险。中国国内芯片行业一直依赖该标准来制造 CPU 并规避美国的制裁。RISC-V SonicBoom 开源代码中的漏洞使攻击者无需管理权限即可绕过现代处理器和操作系统中的安全保护。据报道，美国立法者正在考虑限制中国对 RISC-V 的访问。摘自《科学家发现 RISC-V 开源芯片架构存在安全风险》
-南华早报 (06/05/24) 张彤 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.scmp.com/news/china/science/article/3265493/scientists-find-security-risk-risc-v-open-source-chip-architecture-china-hopes-can-help-sidestep-us</guid>
-      <pubDate>Fri, 07 Jun 2024 15:07:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>无线 CPU 原型或将实现无缝模块化计算</title>
-      <link>https://www.techradar.com/pro/worlds-first-wireless-cpu-prototype-breaks-cover-and-could-pave-the-way-for-a-world-of-seamless-modular-computing-but-it-will-still-require-a-physical-power-connection-for-now</link>
-      <description><![CDATA[TechRadar日本半导体初创公司 Premo 发布了世界上第一款具有无线芯片间连接的 CPU 原型。新芯片采用了与东京大学研究人员共同开发的专有技术。Dualibus 技术集成了 CPU、传感器、电源和通信模块，并使用芯片间无线连接技术和该公司的 CPU 设计来减少对印刷电路板和接线的需求。
+      <title>荷兰警方试用自动机器狗检查毒品实验室</title>
+      <link>https://www.newscientist.com/article/2429013-dutch-police-trial-ai-powered-robot-dog-to-safely-inspect-drug-labs/</link>
+      <description><![CDATA[《新科学家》荷兰警察部队 Politie Nederland 正在测试在毒品实验室突袭中使用自动机器狗，目的是保护警察免受潜在爆炸和其他风险的影响。它已经使用手动控制的机器狗（波士顿动力公司的 Spot）进行毒品实验室调查、监视和其他操作，但如果在模拟毒品实验室中进行的测试成功，将能够使用人工智能控制的机器狗。 Politie Nederland 的 Simon Prins 表示：“我希望 [警官] 忙于行动，而不是忙于机器人。这就是我们现在玩的游戏：我们能让它变得多自动化？”摘自“荷兰警方试用自动机器狗检查毒品实验室”
 
-摘自“无线 CPU 原型可实现无缝模块化计算”
-TechRadar (06/05/24) Wayne Williams 查看全文]]></description>
-      <guid>https://www.techradar.com/pro/worlds-first-wireless-cpu-prototype-breaks-cover-and-could-pave-the-way-for-a-world-of-seamless-modular-computing-but-it-will-still-require-a-physical-power-connection-for-now</guid>
-      <pubDate>Fri, 07 Jun 2024 15:07:47 GMT</pubDate>
+《新科学家》（2024 年 6 月 6 日）Matthew Sparkes 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.newscientist.com/article/2429013-dutch-police-trial-ai-powered-robot-dog-to-safely-inspect-drug-labs/</guid>
+      <pubDate>Mon, 10 Jun 2024 18:10:11 GMT</pubDate>
     </item>
     <item>
-      <title>山体滑坡预报系统可以挽救生命</title>
-      <link>https://kathmandupost.com/science-technology/2024/06/06/new-landslide-forecasting-system-helping-researchers-save-lives-in-nepal</link>
-      <description><![CDATA[加德满都邮报 (尼泊尔)来自澳大利亚、意大利和尼泊尔的科学家与尼泊尔政府和澳大利亚外交贸易部合作开发了一种可以对潜在山体滑坡提供预警的人工智能系统。SAFE-RISCCS 预测系统使用人工智能分析卫星图像，将其与降雨测量和地面运动数据相结合，以持续监测和预测任何时间任何地点发生山体滑坡的风险。摘自“山体滑坡预报系统可以挽救生命”
-加德满都邮报 (尼泊尔) (06/06/24) 查看全文]]></description>
-      <guid>https://kathmandupost.com/science-technology/2024/06/06/new-landslide-forecasting-system-helping-researchers-save-lives-in-nepal</guid>
-      <pubDate>Fri, 07 Jun 2024 15:07:46 GMT</pubDate>
+      <title>乌干达的全面监控国家建立在国民身份证上</title>
+      <link>https://www.bloomberg.com/news/features/2024-06-04/uganda-yoweri-museveni-s-critics-targeted-via-biometric-id-system</link>
+      <description><![CDATA[彭博社彭博社和灯塔报告对采访和文件的分析表明，乌干达已有十年历史的生物特征识别系统正被用于公共监控。约 60% 的公民已获得国家身份识别和登记局颁发的身份证，这些身份证是获取移动 SIM 卡、进行银行交易、登记投票和寻求医疗的必需品。乌干达计划发行新的国民身份证，从居民的面部和指纹到虹膜扫描，扩大收集的生物特征数据。它还计划推出与国民身份证相连的实时车辆位置跟踪系统。摘自“乌干达的全面监控国家建立在国民身份证上”
+彭博社 (06/04/24) Olivia Solon；Nalinee Maleeyakul； Fred Ojambo 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.bloomberg.com/news/features/2024-06-04/uganda-yoweri-museveni-s-critics-targeted-via-biometric-id-system</guid>
+      <pubDate>Mon, 10 Jun 2024 18:10:11 GMT</pubDate>
     </item>
     <item>
-      <title>过去一年，生成式人工智能职位招聘数量增长十倍</title>
-      <link>https://www.fastcompany.com/91136553/generative-ai-job-postings-increase-indeed</link>
-      <description><![CDATA[Fast Company招聘平台 Indeed 报告称，去年生成式 AI 招聘信息增长了 10 倍。然而，截至 4 月底，与 AI 相关的工作仅占全球所有招聘信息的 0.12%，占美国所有招聘信息的 2% 以下。去年，最热门的计算机科学领域中，近 30% 的工作与 AI 相关。摘自“过去一年生成式 AI 招聘信息增长了 10 倍”
-Fast Company (06/06/24) Chris Morris 查看全文]]></description>
-      <guid>https://www.fastcompany.com/91136553/generative-ai-job-postings-increase-indeed</guid>
-      <pubDate>Fri, 07 Jun 2024 15:07:46 GMT</pubDate>
+      <title>研究发现，人工智能模型对有争议的话题持相反观点</title>
+      <link>https://techcrunch.com/2024/06/06/study-finds-ai-models-hold-opposing-views-on-controversial-topics/</link>
+      <description><![CDATA[TechCrunch卡内基梅隆大学、荷兰阿姆斯特丹大学和人工智能初创公司 Hugging Face 的研究人员发现，生成式人工智能模型对两极分化话题（如 LGBTQ+ 权利、社会福利和代孕）的问题给出的答案不一致。他们对五种模型（Mistral 的 Mistral 7B、Cohere 的 Command-R、阿里巴巴的 Qwen、谷歌的 Gemma 和 Meta 的 Llama 3）的研究表明，不一致可以归因于训练数据中嵌入的偏见。研究合著者 Giada Pistilli 表示：“我们的研究表明，模型反应所传达的价值观存在显著差异，具体取决于文化和语言。”摘自“研究发现，人工智能模型对有争议的话题持反对意见”
+TechCrunch (06/06/24) Kyle Wiggers 查看全文]]></description>
+      <guid>https://techcrunch.com/2024/06/06/study-finds-ai-models-hold-opposing-views-on-controversial-topics/</guid>
+      <pubDate>Mon, 10 Jun 2024 18:10:10 GMT</pubDate>
     </item>
     <item>
-      <title>美国批准对 Nvidia、微软、OpenAI 进行反垄断调查</title>
-      <link>https://www.nytimes.com/2024/06/05/technology/nvidia-microsoft-openai-antitrust-doj-ftc.html</link>
-      <description><![CDATA[《纽约时报》美国司法部（DOJ）和联邦贸易委员会（FTC）达成协议，允许他们对微软、OpenAI 和 Nvidia 在人工智能行业扮演的主导角色进行反垄断调查。美国司法部将牵头调查最大 AI 芯片制造商英伟达的行为是否违反了反垄断法，而联邦贸易委员会将在审查 OpenAI 和微软的行为方面发挥主导作用。摘自“美国为对英伟达、微软、OpenAI 的反垄断调查扫清障碍”
-纽约时报 (06/06/24) David McCabe 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/06/05/technology/nvidia-microsoft-openai-antitrust-doj-ftc.html</guid>
-      <pubDate>Fri, 07 Jun 2024 15:07:45 GMT</pubDate>
+      <title>打破数据传输障碍</title>
+      <link>https://spie.org/news/breaking-data-transmission-barriers-innovations-in-data-center-interconnects</link>
+      <description><![CDATA[SPIE一种用于克服数据中心互连中数模转换器 (DAC) 挑战的新型数字信号处理技术实现了破纪录的数据传输性能。中国彭程实验室和上海交通大学以及意大利阿奎拉大学的研究人员使用基于查找表的预失真来减轻非线性损伤和数字分辨率增强，以降低对 DAC 分辨率的需求。该技术使用 3/3.5/4 位 DAC，能够在 2 公里的标准单模光纤上传输速率超过 124 GBd PAM-4/6 和 112 GBd PAM-8 的信号。摘自“打破数据传输障碍”
+SPIE (06/06/24) 查看全文]]></description>
+      <guid>https://spie.org/news/breaking-data-transmission-barriers-innovations-in-data-center-interconnects</guid>
+      <pubDate>Mon, 10 Jun 2024 18:10:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>织物项链监测早产、低出生体重婴儿的护理</title>
+      <link>https://www.engineering.columbia.edu/soft-fabric-necklace-monitors-care-preterm-low-birth-weight-infants</link>
+      <description><![CDATA[哥伦比亚工程公司哥伦比亚大学研究人员开发的一种轻质传感织物旨在简化袋鼠妈妈护理法，这是一种通过胸部皮肤接触来监测低出生体重婴儿的做法。Joey 是一种柔软的织物项链，戴在护理人员的胸部，可以持续监测婴儿的心率和呼吸频率，无需在婴儿身上放置坚硬的粘性传感器。该设备识别护理人员和婴儿的混合心电图 (ECG) 信号，以测量胸部与胸部皮肤接触的时间，并使用算法区分婴儿的 ECG 信号以监测其生命体征。摘自“织物项链监测早产、低出生体重婴儿的护理”
+哥伦比亚工程 (06/06/24) Holly Evarts 查看全文]]></description>
+      <guid>https://www.engineering.columbia.edu/soft-fabric-necklace-monitors-care-preterm-low-birth-weight-infants</guid>
+      <pubDate>Mon, 10 Jun 2024 18:10:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>“关键监督”质疑无线网络的安全性</title>
+      <link>https://news.rice.edu/news/2024/discovery-highlights-critical-oversight-perceived-security-wireless-networks</link>
+      <description><![CDATA[莱斯大学莱斯大学、布​​朗大学和东北大学的研究人员发现了 5G 无线网络和其他关键应用的高频高速无线回程链路存在安全漏洞。他们演示了使用配备超表面的无人机干扰链路，轻松拦截波士顿屋顶之间的高频信号，几乎不留痕迹。莱斯大学的 Zhambyl Shaikhanov 表示：“我们的发现凸显了我们对无线回程链路感知安全性的重大疏忽。”摘自“‘重大疏忽’质疑无线网络的感知安全性”
+莱斯大学 (06/06/24) Marcy de Luna]]></description>
+      <guid>https://news.rice.edu/news/2024/discovery-highlights-critical-oversight-perceived-security-wireless-networks</guid>
+      <pubDate>Mon, 10 Jun 2024 18:10:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>密西西比州因网站年龄验证遭科技集团起诉</title>
+      <link>https://apnews.com/article/mississippi-social-media-netchoice-minors-7a4b6658dcb0add35999287008e39fc1</link>
+      <description><![CDATA[美联社一家科技行业组织在周五提起的诉讼中表示，密西西比州新通过的一项法律要求数字服务用户核实年龄，这将违反宪法限制居民的在线言论访问权。该措施旨在保护儿童免受色情材料的侵害，将于 7 月 1 日生效，“要求未成年人和成年人都核实年龄——这可能包括交出许多人不愿或无法提供的个人信息或身份证明——作为访问和参与受保护言论的先决条件，”诉讼称。该诉讼由 NetChoice 提起，其成员包括 Google 和 Meta。摘自“密西西比州因网站年龄验证遭科技集团起诉”
+美联社 (06/07/24) Emily Wagster Pettus 查看全文]]></description>
+      <guid>https://apnews.com/article/mississippi-social-media-netchoice-minors-7a4b6658dcb0add35999287008e39fc1</guid>
+      <pubDate>Mon, 10 Jun 2024 18:10:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>研究人员展示基于芯片的 3D 打印机</title>
+      <link>https://news.mit.edu/2024/researchers-demonstrate-first-chip-based-3d-printer-0606</link>
+      <description><![CDATA[MIT 新闻麻省理工学院 (MIT) 和德克萨斯大学奥斯汀分校的研究人员开发了一种便携式、手掌大小的 3D 打印机，它由一个毫米级光子芯片组成。光子芯片没有移动部件，而是采用 160 纳米厚的光学天线阵列将光束引导到树脂孔中，树脂孔在光照下固化成固体形状。麻省理工学院的 Jelena Notaros 表示：“这个系统完全重新定义了 3D 打印机。它不再是一个放在实验室工作台上制作物品的大盒子，而是一个可以手持和携带的东西。”摘自“研究人员展示基于芯片的 3D 打印机”
+麻省理工学院新闻 (06/06/24) Adam Zewe 查看全文]]></description>
+      <guid>https://news.mit.edu/2024/researchers-demonstrate-first-chip-based-3d-printer-0606</guid>
+      <pubDate>Mon, 10 Jun 2024 18:10:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>日本企业受益于芯片之争</title>
+      <link>https://www.wsj.com/tech/japan-chip-supply-chain-toppan-fujifilm-d5fff25b</link>
+      <description><![CDATA[《华尔街日报》作为半导体行业化学品、包装材料和工具的主要生产商，日本在中美芯片之争中占有一席之地。凸版印刷和大日本印刷在光掩模（一种印刷电路板的母版）市场占有很大份额。与此同时，富士胶片和 JSR（日本一家政府支持的基金以 60 亿美元收购）占据了全球光刻胶（一种用于抛光和平整芯片表面的化学混合物）的大部分供应。美国公司敦促日本供应商实现生产多元化，以避免供应链出现瓶颈。摘自“从芯片之争中受益的日本公司”
+《华尔街日报》（06/06/24）彼得·兰德斯；杨杰； Megumi Fujikawa 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/tech/japan-chip-supply-chain-toppan-fujifilm-d5fff25b</guid>
+      <pubDate>Mon, 10 Jun 2024 18:10:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能“淘金热”：聊天机器人训练数据可能耗尽人类书写的文本</title>
+      <link>https://apnews.com/article/ai-artificial-intelligence-training-data-running-out-9676145bac0d30ecce1513c20561b87d</link>
+      <description><![CDATA[美联社Epoch AI报道称，用于训练人工智能语言模型的公开数据供应将在2026年至2032年之间耗尽。科技公司可以在短期内达成交易以获取高质量数据源，但从长远来看，他们将不得不利用私人数据或依赖聊天机器人生成的“合成数据”。 Epoch AI 的 Tamay Besiroglu 表示：“如果你开始遇到数据量限制，那么你就无法再有效地扩展模型了。”摘自“人工智能‘淘金热’：聊天机器人训练数据可能耗尽人工书写文本”
+美联社 (06/06/24) Matt O&#39;Brien 查看全文]]></description>
+      <guid>https://apnews.com/article/ai-artificial-intelligence-training-data-running-out-9676145bac0d30ecce1513c20561b87d</guid>
+      <pubDate>Mon, 10 Jun 2024 18:10:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>沙特阿拉伯的芯片设计雄心随着新中心的建成而初具规模</title>
+      <link>https://www.bloomberg.com/news/articles/2024-06-05/saudi-arabia-s-chip-design-ambitions-take-shape-with-new-hub</link>
+      <description><![CDATA[彭博社沙特阿拉伯宣布启动国家半导体中心，该中心将发展无晶圆厂芯片公司，作为将自己定位为半导​​体设计领导者的战略的一部分。它希望到 2030 年吸引 50 家公司开发简单芯片，并在中期内在国际上进行制造。该中心的 Naveed Sherwani 表示：“我们并不是想取代 Nvidia 或挑战英特尔。我们想从简陋的起点开始。一旦我们建立了基础，我们就可以谈判。”该中心提供的激励措施包括通过沙特支持的基金获得资金。摘自“沙特阿拉伯的芯片设计野心随着新中心的建立而成形”
+彭博社 (06/05/24) Fahad Abulijadayel；马修·马丁 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-06-05/saudi-arabia-s-chip-design-ambitions-take-shape-with-new-hub</guid>
+      <pubDate>Mon, 10 Jun 2024 18:10:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧盟努力应对俄罗斯选举虚假信息</title>
+      <link>https://www.reuters.com/world/europe/european-election-eu-struggles-counter-russian-disinformation-2024-06-03/</link>
+      <description><![CDATA[路透社Stratcom 是欧盟的一个打击虚假信息的团队，在 6 月 6 日至 9 日举行的欧洲议会选举之前，该团队在应对俄罗斯大规模的虚假信息宣传方面遇到了困难。欧盟官员表示，尽管欧盟新的《数字服务法》要求大型科技公司采取更多措施打击非法和有害内容，但生成式人工智能让外国行为者传播虚假信息变得更快、更容易。欧盟委员会的 Peter Stano 表示：“以前，网络喷子和机器人背后通常都有一个人。有了人工智能，一切都成倍增加了。”摘自“欧盟努力应对俄罗斯选举虚假信息”
+路透社 (06/03/24) Julia Payne；Jan Lopatka；Anan Koper；等人 查看全文]]></description>
+      <guid>https://www.reuters.com/world/europe/european-election-eu-struggles-counter-russian-disinformation-2024-06-03/</guid>
+      <pubDate>Mon, 10 Jun 2024 18:10:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
