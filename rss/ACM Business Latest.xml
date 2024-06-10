@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Mon, 10 Jun 2024 18:10:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 21:08:00 GMT</lastBuildDate>
+    <item>
+      <title>Apple Intelligence 将为 iPhone 注入生成式人工智能</title>
+      <link>https://www.wired.com/story/apple-intelligence-ios-wwdc/</link>
+      <description><![CDATA[在其全球开发者大会上，苹果首次认真地进军生成式人工智能，重点关注应用程序集成和数据隐私——以及 ChatGPT 集成。]]></description>
+      <guid>https://www.wired.com/story/apple-intelligence-ios-wwdc/</guid>
+      <pubDate>Mon, 10 Jun 2024 18:34:53 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能工具正在秘密训练儿童的真实图像</title>
       <link>https://www.wired.com/story/ai-tools-are-secretly-training-on-real-childrens-faces/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[欧盟副主席薇拉·朱罗娃（Věra Jourová）在访问硅谷期间表示，她希望科技巨头优先清除那些可能扭曲民主的内容。]]></description>
       <guid>https://www.wired.com/story/eu-vice-president-moon-landing-conspiracies-youtube/</guid>
       <pubDate>Wed, 05 Jun 2024 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌在“披萨胶”丑闻爆发前就已削减了搜索领域的人工智能概览</title>
-      <link>https://www.wired.com/story/google-cut-back-ai-overviews-before-pizza-glue/</link>
-      <description><![CDATA[有关谷歌新 AI 概览功能在搜索结果中出现频率的数据表明，该公司在诸如在披萨酱中添加胶水等建议流行起来之前就已经降低了其知名度。]]></description>
-      <guid>https://www.wired.com/story/google-cut-back-ai-overviews-before-pizza-glue/</guid>
-      <pubDate>Tue, 04 Jun 2024 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
