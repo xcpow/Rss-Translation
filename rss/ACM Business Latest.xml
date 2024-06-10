@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Mon, 10 Jun 2024 03:08:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 06:11:56 GMT</lastBuildDate>
+    <item>
+      <title>人工智能工具正在秘密训练儿童的真实图像</title>
+      <link>https://www.wired.com/story/ai-tools-are-secretly-training-on-real-childrens-faces/</link>
+      <description><![CDATA[人权活动人士声称，一个流行的人工智能训练数据集在未经巴西儿童知情或同意的情况下“窃取并将他们的脸部用作武器”。]]></description>
+      <guid>https://www.wired.com/story/ai-tools-are-secretly-training-on-real-childrens-faces/</guid>
+      <pubDate>Mon, 10 Jun 2024 04:01:00 GMT</pubDate>
+    </item>
     <item>
       <title>博弈论如何让人工智能更加可靠</title>
       <link>https://www.wired.com/story/game-theory-can-make-ai-more-correct-and-efficient/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[有关谷歌新 AI 概览功能在搜索结果中出现频率的数据表明，该公司在诸如在披萨酱中添加胶水等建议流行起来之前就已经降低了其知名度。]]></description>
       <guid>https://www.wired.com/story/google-cut-back-ai-overviews-before-pizza-glue/</guid>
       <pubDate>Tue, 04 Jun 2024 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 员工警告风险与报复文化</title>
-      <link>https://www.wired.com/story/openai-right-to-warn-open-letter-ai-risk/</link>
-      <description><![CDATA[OpenAI 和其他人工智能巨头的前任和现任员工签署了一封公开信，呼吁在人工智能快速发展之际对举报人进行保护。]]></description>
-      <guid>https://www.wired.com/story/openai-right-to-warn-open-letter-ai-risk/</guid>
-      <pubDate>Tue, 04 Jun 2024 15:13:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
