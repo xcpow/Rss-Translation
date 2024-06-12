@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Wed, 12 Jun 2024 09:08:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 12:13:32 GMT</lastBuildDate>
+    <item>
+      <title>500 亿美元马斯克公投</title>
+      <link>https://www.wired.com/story/the-dollar50-billion-musk-referendum/</link>
+      <description><![CDATA[在这个汽车制造商的关键时刻，特斯拉股东将决定是否支持埃隆·马斯克的领导力——以及前所未有的 11 位数奖金。]]></description>
+      <guid>https://www.wired.com/story/the-dollar50-billion-musk-referendum/</guid>
+      <pubDate>Wed, 12 Jun 2024 09:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>丹麦媒体威胁起诉 OpenAI</title>
       <link>https://www.wired.com/story/danish-media-demands-a-deal-with-openai-or-else/</link>
@@ -69,7 +76,7 @@
       <pubDate>Fri, 07 Jun 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>美国国家安全专家警告称，人工智能巨头在保护自身秘密方面做得不够</title>
+      <title>美国国家安全专家警告称，人工智能巨头没有采取足够措施保护其机密</title>
       <link>https://www.wired.com/story/national-security-experts-warn-ai-giants-secrets/</link>
       <description><![CDATA[苏珊赖斯 (Susan Rice) 曾帮助白宫与 OpenAI 和其他科技公司达成人工智能安全协议，她表示担心中国会窃取美国的人工智能机密。]]></description>
       <guid>https://www.wired.com/story/national-security-experts-warn-ai-giants-secrets/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[ZeroMark 希望建立一种系统，让士兵能够使用他们携带的武器轻松地从空中击落无人机——风险投资公司 a16z 相信这家初创公司能够实现这一目标。]]></description>
       <guid>https://www.wired.com/story/zeromark-handheld-iron-dome-a16z/</guid>
       <pubDate>Thu, 06 Jun 2024 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>马克·安德森曾称网络安全团队为敌人。他仍想为孩子们打造围墙花园</title>
-      <link>https://www.wired.com/story/marc-andreessen-online-safety-enemy-walled-gardens/</link>
-      <description><![CDATA[投资者马克·安德森 (Marc Andreessen) 去年在他的“技术乐观主义宣言”中将技术道德和安全团队称为“敌人”。今天，他澄清说，他赞成为他 9 岁的儿子设置网络护栏。]]></description>
-      <guid>https://www.wired.com/story/marc-andreessen-online-safety-enemy-walled-gardens/</guid>
-      <pubDate>Wed, 05 Jun 2024 22:12:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
