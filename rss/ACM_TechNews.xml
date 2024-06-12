@@ -4,103 +4,110 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Mon, 10 Jun 2024 18:10:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 18:10:23 GMT</lastBuildDate>
     <item>
-      <title>荷兰警方试用自动机器狗检查毒品实验室</title>
-      <link>https://www.newscientist.com/article/2429013-dutch-police-trial-ai-powered-robot-dog-to-safely-inspect-drug-labs/</link>
-      <description><![CDATA[《新科学家》荷兰警察部队 Politie Nederland 正在测试在毒品实验室突袭中使用自动机器狗，目的是保护警察免受潜在爆炸和其他风险的影响。它已经使用手动控制的机器狗（波士顿动力公司的 Spot）进行毒品实验室调查、监视和其他操作，但如果在模拟毒品实验室中进行的测试成功，将能够使用人工智能控制的机器狗。 Politie Nederland 的 Simon Prins 表示：“我希望 [警官] 忙于行动，而不是忙于机器人。这就是我们现在玩的游戏：我们能让它变得多自动化？”摘自“荷兰警方试用自动机器狗检查毒品实验室”
-
-《新科学家》（2024 年 6 月 6 日）Matthew Sparkes 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.newscientist.com/article/2429013-dutch-police-trial-ai-powered-robot-dog-to-safely-inspect-drug-labs/</guid>
-      <pubDate>Mon, 10 Jun 2024 18:10:11 GMT</pubDate>
+      <title>MouthPad 让瘫痪者能够控制手机和电脑</title>
+      <link>https://interestingengineering.com/innovation/mouth-based-touchpad-paralyzed-people</link>
+      <description><![CDATA[有趣的工程MouthPad 由初创公司 Augmental 的研究人员开发，允许用户使用舌头和头部运动来控制计算机、智能手机和其他设备。MouthPad 是一种薄型设备，位于用户的上颚，Augmental 首席执行官 Tomás Vega 表示，它“在舌尖上提供了传统触摸板的所有功能”。压敏触摸板中的运动传感器通过蓝牙传输舌头和头部运动，允许用户实时滚动、点击和执行其他操作。摘自“MouthPad 让瘫痪者控制手机和电脑”
+有趣的工程 (06/06/24) Mrigakshi Dixit 查看全文]]></description>
+      <guid>https://interestingengineering.com/innovation/mouth-based-touchpad-paralyzed-people</guid>
+      <pubDate>Wed, 12 Jun 2024 18:10:23 GMT</pubDate>
     </item>
     <item>
-      <title>乌干达的全面监控国家建立在国民身份证上</title>
-      <link>https://www.bloomberg.com/news/features/2024-06-04/uganda-yoweri-museveni-s-critics-targeted-via-biometric-id-system</link>
-      <description><![CDATA[彭博社彭博社和灯塔报告对采访和文件的分析表明，乌干达已有十年历史的生物特征识别系统正被用于公共监控。约 60% 的公民已获得国家身份识别和登记局颁发的身份证，这些身份证是获取移动 SIM 卡、进行银行交易、登记投票和寻求医疗的必需品。乌干达计划发行新的国民身份证，从居民的面部和指纹到虹膜扫描，扩大收集的生物特征数据。它还计划推出与国民身份证相连的实时车辆位置跟踪系统。摘自“乌干达的全面监控国家建立在国民身份证上”
-彭博社 (06/04/24) Olivia Solon；Nalinee Maleeyakul； Fred Ojambo 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.bloomberg.com/news/features/2024-06-04/uganda-yoweri-museveni-s-critics-targeted-via-biometric-id-system</guid>
-      <pubDate>Mon, 10 Jun 2024 18:10:11 GMT</pubDate>
+      <title>定位系统增强了无人机视点混合现实应用的多功能性和准确性</title>
+      <link>https://resou.osaka-u.ac.jp/en/research/2024/20240606_2</link>
+      <description><![CDATA[大阪大学（日本）的研究日本大阪大学（OU）的研究人员整合了视觉定位系统和基于自然特征的跟踪来估计无人机的位置。由此产生的系统无需预先设定路线即可对齐现实世界和虚拟世界的坐标。测试表明，拟议的系统比其前身更准确。OU 的 Airi Kinoshita 表示，无人机和混合现实的整合“有可能解决各种社会问题”，包括与城市规划和基础设施发展、灾害响应和人道主义援助、文化保护和旅游以及环境保护相关的问题。摘自“定位系统增强了无人机视点混合现实应用的多功能性和准确性”
+大阪大学（日本）的研究（06/05/24） 查看全文]]></description>
+      <guid>https://resou.osaka-u.ac.jp/en/research/2024/20240606_2</guid>
+      <pubDate>Wed, 12 Jun 2024 18:10:23 GMT</pubDate>
     </item>
     <item>
-      <title>研究发现，人工智能模型对有争议的话题持相反观点</title>
-      <link>https://techcrunch.com/2024/06/06/study-finds-ai-models-hold-opposing-views-on-controversial-topics/</link>
-      <description><![CDATA[TechCrunch卡内基梅隆大学、荷兰阿姆斯特丹大学和人工智能初创公司 Hugging Face 的研究人员发现，生成式人工智能模型对两极分化话题（如 LGBTQ+ 权利、社会福利和代孕）的问题给出的答案不一致。他们对五种模型（Mistral 的 Mistral 7B、Cohere 的 Command-R、阿里巴巴的 Qwen、谷歌的 Gemma 和 Meta 的 Llama 3）的研究表明，不一致可以归因于训练数据中嵌入的偏见。研究合著者 Giada Pistilli 表示：“我们的研究表明，模型反应所传达的价值观存在显著差异，具体取决于文化和语言。”摘自“研究发现，人工智能模型对有争议的话题持反对意见”
-TechCrunch (06/06/24) Kyle Wiggers 查看全文]]></description>
-      <guid>https://techcrunch.com/2024/06/06/study-finds-ai-models-hold-opposing-views-on-controversial-topics/</guid>
-      <pubDate>Mon, 10 Jun 2024 18:10:10 GMT</pubDate>
+      <title>苹果承诺不存储、允许访问人工智能数据</title>
+      <link>https://arstechnica.com/ai/2024/06/apples-ai-promise-your-data-is-never-stored-or-made-accessible-by-apple/</link>
+      <description><![CDATA[Ars Technica在 2024 年 Apple 全球开发者大会上，Apple 的 Craig Federighi（如图）介绍了私有云计算 (PCC)。PCC 是 Apple 所称的“隐私和 AI 的全新标准”的一部分，它通过设备上的处理来实现隐私。当需要更大的基于云的模型来满足 AI 请求时，它将“在我们专门使用 Apple 芯片创建的服务器上运行”，Federighi 说道。他说，PCC 的服务器代码将向公众开放，因此“独立专家可以检查这些服务器上运行的代码，以验证这一隐私承诺。”摘自“苹果承诺不存储、允许访问 AI 数据”
+Ars Technica (06/10/24) Kyle Orland 查看全文]]></description>
+      <guid>https://arstechnica.com/ai/2024/06/apples-ai-promise-your-data-is-never-stored-or-made-accessible-by-apple/</guid>
+      <pubDate>Wed, 12 Jun 2024 18:10:22 GMT</pubDate>
     </item>
     <item>
-      <title>打破数据传输障碍</title>
-      <link>https://spie.org/news/breaking-data-transmission-barriers-innovations-in-data-center-interconnects</link>
-      <description><![CDATA[SPIE一种用于克服数据中心互连中数模转换器 (DAC) 挑战的新型数字信号处理技术实现了破纪录的数据传输性能。中国彭程实验室和上海交通大学以及意大利阿奎拉大学的研究人员使用基于查找表的预失真来减轻非线性损伤和数字分辨率增强，以降低对 DAC 分辨率的需求。该技术使用 3/3.5/4 位 DAC，能够在 2 公里的标准单模光纤上传输速率超过 124 GBd PAM-4/6 和 112 GBd PAM-8 的信号。摘自“打破数据传输障碍”
-SPIE (06/06/24) 查看全文]]></description>
-      <guid>https://spie.org/news/breaking-data-transmission-barriers-innovations-in-data-center-interconnects</guid>
-      <pubDate>Mon, 10 Jun 2024 18:10:09 GMT</pubDate>
+      <title>受超人启发的成像芯片</title>
+      <link>https://news.utdallas.edu/science-technology/superman-inspired-imager-chip-2024/</link>
+      <description><![CDATA[德克萨斯大学达拉斯分校由德克萨斯大学达拉斯分校和韩国首尔国立大学 (SNU) 的研究人员开发的成像芯片可用于移动设备，例如查看墙壁后面的情况。受超人 X 射线视觉的启发，该成像器在电磁频率的毫米波段发射 300GHz 信号。SNU 的 Wooyeol Choi 解释说：“我们设计的芯片没有镜头或光学元件，因此它可以装入移动设备中。”摘自“受超人启发的成像芯片”
+德克萨斯大学达拉斯分校 (06/07/24) Kim Horner 查看全文]]></description>
+      <guid>https://news.utdallas.edu/science-technology/superman-inspired-imager-chip-2024/</guid>
+      <pubDate>Wed, 12 Jun 2024 18:10:21 GMT</pubDate>
     </item>
     <item>
-      <title>织物项链监测早产、低出生体重婴儿的护理</title>
-      <link>https://www.engineering.columbia.edu/soft-fabric-necklace-monitors-care-preterm-low-birth-weight-infants</link>
-      <description><![CDATA[哥伦比亚工程公司哥伦比亚大学研究人员开发的一种轻质传感织物旨在简化袋鼠妈妈护理法，这是一种通过胸部皮肤接触来监测低出生体重婴儿的做法。Joey 是一种柔软的织物项链，戴在护理人员的胸部，可以持续监测婴儿的心率和呼吸频率，无需在婴儿身上放置坚硬的粘性传感器。该设备识别护理人员和婴儿的混合心电图 (ECG) 信号，以测量胸部与胸部皮肤接触的时间，并使用算法区分婴儿的 ECG 信号以监测其生命体征。摘自“织物项链监测早产、低出生体重婴儿的护理”
-哥伦比亚工程 (06/06/24) Holly Evarts 查看全文]]></description>
-      <guid>https://www.engineering.columbia.edu/soft-fabric-necklace-monitors-care-preterm-low-birth-weight-infants</guid>
-      <pubDate>Mon, 10 Jun 2024 18:10:09 GMT</pubDate>
+      <title>类似种子的“单旋翼飞行器”改变翼展以提高灵活性和效率</title>
+      <link>https://newatlas.com/drones/frow-monocopter-drone-adjustable-wingspan/</link>
+      <description><![CDATA[New Atlas新加坡科技设计大学研究人员开发的单翼“单旋翼”无人机可以改变翼展。FROW（可折叠旋转折纸翼）无人机的灵感来自枫树的单翼翅果型种子。FROW-A（主动）版本通过旋转整个机身飞行，但有两个由轻木板制成的机翼，每个机翼末端都有一个马达/螺旋桨。 FROW-P（被动）型号采用单翼设计，当机翼缩短时，无人机可以快速盘旋下降。摘自“类似种子的‘单旋翼机’改变翼展以提高灵活性和效率”
+New Atlas（06/07/24）Ben Coxworth 查看全文]]></description>
+      <guid>https://newatlas.com/drones/frow-monocopter-drone-adjustable-wingspan/</guid>
+      <pubDate>Wed, 12 Jun 2024 18:10:21 GMT</pubDate>
     </item>
     <item>
-      <title>“关键监督”质疑无线网络的安全性</title>
-      <link>https://news.rice.edu/news/2024/discovery-highlights-critical-oversight-perceived-security-wireless-networks</link>
-      <description><![CDATA[莱斯大学莱斯大学、布​​朗大学和东北大学的研究人员发现了 5G 无线网络和其他关键应用的高频高速无线回程链路存在安全漏洞。他们演示了使用配备超表面的无人机干扰链路，轻松拦截波士顿屋顶之间的高频信号，几乎不留痕迹。莱斯大学的 Zhambyl Shaikhanov 表示：“我们的发现凸显了我们对无线回程链路感知安全性的重大疏忽。”摘自“‘重大疏忽’质疑无线网络的感知安全性”
-莱斯大学 (06/06/24) Marcy de Luna]]></description>
-      <guid>https://news.rice.edu/news/2024/discovery-highlights-critical-oversight-perceived-security-wireless-networks</guid>
-      <pubDate>Mon, 10 Jun 2024 18:10:06 GMT</pubDate>
+      <title>你的驾驶行为会被秘密评分吗？</title>
+      <link>https://www.nytimes.com/2024/06/09/technology/driver-scores-insurance-data-apps.html</link>
+      <description><![CDATA[《纽约时报》由于消费者不愿意签署跟踪其日常驾驶情况的基于使用情况的保险计划，保险公司开始转向汽车制造商和智能手机应用程序来获取驾驶数据。许多消费者并不知道他们手机上已有的一些应用程序正在收集和出售他们的数据。消费者选择加入这些应用程序中的某些功能，允许提供这些功能的分析公司评估他们的驾驶风险以用于保险目的。摘自“你的驾驶是否被秘密评分？”
+《纽约时报》（06/09/24）克什米尔山 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/06/09/technology/driver-scores-insurance-data-apps.html</guid>
+      <pubDate>Wed, 12 Jun 2024 18:10:20 GMT</pubDate>
     </item>
     <item>
-      <title>密西西比州因网站年龄验证遭科技集团起诉</title>
-      <link>https://apnews.com/article/mississippi-social-media-netchoice-minors-7a4b6658dcb0add35999287008e39fc1</link>
-      <description><![CDATA[美联社一家科技行业组织在周五提起的诉讼中表示，密西西比州新通过的一项法律要求数字服务用户核实年龄，这将违反宪法限制居民的在线言论访问权。该措施旨在保护儿童免受色情材料的侵害，将于 7 月 1 日生效，“要求未成年人和成年人都核实年龄——这可能包括交出许多人不愿或无法提供的个人信息或身份证明——作为访问和参与受保护言论的先决条件，”诉讼称。该诉讼由 NetChoice 提起，其成员包括 Google 和 Meta。摘自“密西西比州因网站年龄验证遭科技集团起诉”
-美联社 (06/07/24) Emily Wagster Pettus 查看全文]]></description>
-      <guid>https://apnews.com/article/mississippi-social-media-netchoice-minors-7a4b6658dcb0add35999287008e39fc1</guid>
-      <pubDate>Mon, 10 Jun 2024 18:10:06 GMT</pubDate>
+      <title>深度伪造者、欺诈者和黑客抢占网络安全岗位</title>
+      <link>https://www.wsj.com/articles/deepfakes-fraudsters-and-hackers-are-coming-for-cybersecurity-jobs-e2a76d06</link>
+      <description><![CDATA[《华尔街日报》一些招聘网络安全人员的公司发现，一些应聘者实际上是黑客。为此，一些安全负责人正在更仔细地审查简历，以剔除朝鲜间谍和那些过分夸大成就的人。如果这类应聘者通过了招聘流程，他们可能会窃取知识产权、公司数据或资产，甚至在代码中插入漏洞。摘自“Deepfakes、欺诈者、黑客来抢网络安全工作”
+《华尔街日报》（06/07/24）Belle Lin 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/articles/deepfakes-fraudsters-and-hackers-are-coming-for-cybersecurity-jobs-e2a76d06</guid>
+      <pubDate>Wed, 12 Jun 2024 18:10:20 GMT</pubDate>
     </item>
     <item>
-      <title>研究人员展示基于芯片的 3D 打印机</title>
-      <link>https://news.mit.edu/2024/researchers-demonstrate-first-chip-based-3d-printer-0606</link>
-      <description><![CDATA[MIT 新闻麻省理工学院 (MIT) 和德克萨斯大学奥斯汀分校的研究人员开发了一种便携式、手掌大小的 3D 打印机，它由一个毫米级光子芯片组成。光子芯片没有移动部件，而是采用 160 纳米厚的光学天线阵列将光束引导到树脂孔中，树脂孔在光照下固化成固体形状。麻省理工学院的 Jelena Notaros 表示：“这个系统完全重新定义了 3D 打印机。它不再是一个放在实验室工作台上制作物品的大盒子，而是一个可以手持和携带的东西。”摘自“研究人员展示基于芯片的 3D 打印机”
-麻省理工学院新闻 (06/06/24) Adam Zewe 查看全文]]></description>
-      <guid>https://news.mit.edu/2024/researchers-demonstrate-first-chip-based-3d-printer-0606</guid>
-      <pubDate>Mon, 10 Jun 2024 18:10:05 GMT</pubDate>
+      <title>联合国宣布 2025 年为量子年</title>
+      <link>https://www.siliconrepublic.com/machines/united-nations-un-2025-year-of-quantum-science-technology-computing</link>
+      <description><![CDATA[硅谷共和国联合国已宣布 2025 年为国际量子科学技术年 (IYQ)。该倡议将重点关注量子科学对技术、文化和人类对自然世界的理解的影响。葡萄牙量子研究所的 Yasser Omar 将代表量子旗舰参加 IYQ，他表示：“明年全年，欧洲量子旗舰计划的量子计算、模拟、通信、传感和计量项目将展示其成果。”摘自“联合国宣布 2025 年为量子年”
+Silicon Republic (06/10/24) Vish Gain 查看全文]]></description>
+      <guid>https://www.siliconrepublic.com/machines/united-nations-un-2025-year-of-quantum-science-technology-computing</guid>
+      <pubDate>Wed, 12 Jun 2024 18:10:19 GMT</pubDate>
     </item>
     <item>
-      <title>日本企业受益于芯片之争</title>
-      <link>https://www.wsj.com/tech/japan-chip-supply-chain-toppan-fujifilm-d5fff25b</link>
-      <description><![CDATA[《华尔街日报》作为半导体行业化学品、包装材料和工具的主要生产商，日本在中美芯片之争中占有一席之地。凸版印刷和大日本印刷在光掩模（一种印刷电路板的母版）市场占有很大份额。与此同时，富士胶片和 JSR（日本一家政府支持的基金以 60 亿美元收购）占据了全球光刻胶（一种用于抛光和平整芯片表面的化学混合物）的大部分供应。美国公司敦促日本供应商实现生产多元化，以避免供应链出现瓶颈。摘自“从芯片之争中受益的日本公司”
-《华尔街日报》（06/06/24）彼得·兰德斯；杨杰； Megumi Fujikawa 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/tech/japan-chip-supply-chain-toppan-fujifilm-d5fff25b</guid>
-      <pubDate>Mon, 10 Jun 2024 18:10:05 GMT</pubDate>
+      <title>女性研究人员在全球取得进展</title>
+      <link>https://www.insidehighered.com/news/diversity/sex-gender/2024/06/11/women-make-global-gains-researchers-gaps-persist</link>
+      <description><![CDATA[Inside Higher Ed根据 Elsevier 的一项研究，全球 STEM 研究人员中女性的比例从 2000 年的 26% 增加到 2022 年的近 39%。这家荷兰出版商从 Scopus（一个同行评议文献摘要和引文数据库）收集了大约 2000 万名研究人员的记录，并使用算法推断索引作者的性别。Elsevier 还指出，目前的趋势表明，STEM 领域的性别平等要到 2052 年才能实现。摘自“女性作为研究人员在全球范围内取得进步”
+Inside Higher Ed (06/11/24) Kathryn Palmer 查看全文]]></description>
+      <guid>https://www.insidehighered.com/news/diversity/sex-gender/2024/06/11/women-make-global-gains-researchers-gaps-persist</guid>
+      <pubDate>Wed, 12 Jun 2024 18:10:19 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能“淘金热”：聊天机器人训练数据可能耗尽人类书写的文本</title>
-      <link>https://apnews.com/article/ai-artificial-intelligence-training-data-running-out-9676145bac0d30ecce1513c20561b87d</link>
-      <description><![CDATA[美联社Epoch AI报道称，用于训练人工智能语言模型的公开数据供应将在2026年至2032年之间耗尽。科技公司可以在短期内达成交易以获取高质量数据源，但从长远来看，他们将不得不利用私人数据或依赖聊天机器人生成的“合成数据”。 Epoch AI 的 Tamay Besiroglu 表示：“如果你开始遇到数据量限制，那么你就无法再有效地扩展模型了。”摘自“人工智能‘淘金热’：聊天机器人训练数据可能耗尽人工书写文本”
-美联社 (06/06/24) Matt O&#39;Brien 查看全文]]></description>
-      <guid>https://apnews.com/article/ai-artificial-intelligence-training-data-running-out-9676145bac0d30ecce1513c20561b87d</guid>
-      <pubDate>Mon, 10 Jun 2024 18:10:03 GMT</pubDate>
+      <title>微软、谷歌加强农村医院网络安全</title>
+      <link>https://edition.cnn.com/2024/06/10/tech/hospital-cyberattack-google-microsoft/index.html</link>
+      <description><![CDATA[CNN白宫、微软和谷歌宣布，美国农村医院将可以免费或以折扣价获得这些科技公司的网络安全服务。符合条件的农村医院将获得微软提供的免费安全更新、安全评估和员工培训，以及谷歌提供的免费网络安全建议，以及一项试点计划，该计划将根据医院的需求为其匹配网络安全服务。摘自“微软、谷歌提升农村医院网络安全”
+CNN (06/10/24) Sean Lyngaas；Michelle Watson 查看全文]]></description>
+      <guid>https://edition.cnn.com/2024/06/10/tech/hospital-cyberattack-google-microsoft/index.html</guid>
+      <pubDate>Wed, 12 Jun 2024 18:10:18 GMT</pubDate>
     </item>
     <item>
-      <title>沙特阿拉伯的芯片设计雄心随着新中心的建成而初具规模</title>
-      <link>https://www.bloomberg.com/news/articles/2024-06-05/saudi-arabia-s-chip-design-ambitions-take-shape-with-new-hub</link>
-      <description><![CDATA[彭博社沙特阿拉伯宣布启动国家半导体中心，该中心将发展无晶圆厂芯片公司，作为将自己定位为半导​​体设计领导者的战略的一部分。它希望到 2030 年吸引 50 家公司开发简单芯片，并在中期内在国际上进行制造。该中心的 Naveed Sherwani 表示：“我们并不是想取代 Nvidia 或挑战英特尔。我们想从简陋的起点开始。一旦我们建立了基础，我们就可以谈判。”该中心提供的激励措施包括通过沙特支持的基金获得资金。摘自“沙特阿拉伯的芯片设计野心随着新中心的建立而成形”
-彭博社 (06/05/24) Fahad Abulijadayel；马修·马丁 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-06-05/saudi-arabia-s-chip-design-ambitions-take-shape-with-new-hub</guid>
-      <pubDate>Mon, 10 Jun 2024 18:10:03 GMT</pubDate>
+      <title>尽管存在隐私问题，Meta 仍寻求利用欧洲数据训练 AI 模型</title>
+      <link>https://apnews.com/article/meta-facebook-instagram-whatsapp-ai-artificial-intelligence-8d6cb3424ee410c641d0acdb154601f5</link>
+      <description><![CDATA[美联社Meta 希望使用其平台的欧盟用户的数据来训练其 AI 模型，但面临严格的数据隐私制度。该公司表示，为了更好地反映其欧洲用户的“语言、地理和文化参考”，它需要使用这些用户的公共数据来训练其 Llama AI 大型语言模型。欧盟数据隐私法赋予人们控制其个人信息使用方式的权利。摘自“尽管存在隐私问题，Meta 仍寻求使用欧洲数据训练 AI 模型”
+美联社 (06/10/24) Kelvin Chan 查看全文]]></description>
+      <guid>https://apnews.com/article/meta-facebook-instagram-whatsapp-ai-artificial-intelligence-8d6cb3424ee410c641d0acdb154601f5</guid>
+      <pubDate>Wed, 12 Jun 2024 18:10:18 GMT</pubDate>
     </item>
     <item>
-      <title>欧盟努力应对俄罗斯选举虚假信息</title>
-      <link>https://www.reuters.com/world/europe/european-election-eu-struggles-counter-russian-disinformation-2024-06-03/</link>
-      <description><![CDATA[路透社Stratcom 是欧盟的一个打击虚假信息的团队，在 6 月 6 日至 9 日举行的欧洲议会选举之前，该团队在应对俄罗斯大规模的虚假信息宣传方面遇到了困难。欧盟官员表示，尽管欧盟新的《数字服务法》要求大型科技公司采取更多措施打击非法和有害内容，但生成式人工智能让外国行为者传播虚假信息变得更快、更容易。欧盟委员会的 Peter Stano 表示：“以前，网络喷子和机器人背后通常都有一个人。有了人工智能，一切都成倍增加了。”摘自“欧盟努力应对俄罗斯选举虚假信息”
-路透社 (06/03/24) Julia Payne；Jan Lopatka；Anan Koper；等人 查看全文]]></description>
-      <guid>https://www.reuters.com/world/europe/european-election-eu-struggles-counter-russian-disinformation-2024-06-03/</guid>
-      <pubDate>Mon, 10 Jun 2024 18:10:02 GMT</pubDate>
+      <title>太空飞行的新英雄：软件迷</title>
+      <link>https://www.washingtonpost.com/technology/2024/06/11/space-heroes-software-engineer/</link>
+      <description><![CDATA[华盛顿邮报对于上一代人来说，太空时代的明星是宇航员，而今天，明星是为今天的太空旅行提供动力的软件工程师和计算机科学家。地面工程师和计算机专家的作用对航天飞行来说比以往任何时候都重要。加州大学伯克利分校空间科学实验室任务运营总监 Abhi Tripathi 表示，“今天的航天器应该是包裹着航天器的真正优秀的软件。”摘自“航天新英雄：软件书呆子”
+华盛顿邮报 (06/11/24) Christian Davenport 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.washingtonpost.com/technology/2024/06/11/space-heroes-software-engineer/</guid>
+      <pubDate>Wed, 12 Jun 2024 18:10:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>C++ 语言在 Tiobe 流行度指数中上升</title>
+      <link>https://www.infoworld.com/article/3715520/c-plus-plus-language-rises-in-tiobe-popularity-index.html</link>
+      <description><![CDATA[InfoWorld6 月份，Tiobe 编程社区指数显示，CC+ 成为仅次于 Python 的第二大最受欢迎的编程语言。尽管白宫国家网络总监办公室发出咨询意见，呼吁开发人员出于内存安全考虑从 C++ 过渡到 C，但 CC+ 仍将 C 挤到了第三位，创下了历史最低排名。 Tiobe 指数 6 月份排名前 10 的编程语言为 Python、C++、C、Java、C#、JavaScript、Go、SQL、Visual Basic 和 Fortran。摘自“C++ 语言在 Tiobe 流行度指数中上升”
+InfoWorld (06/10/24) Paul Krill 查看全文]]></description>
+      <guid>https://www.infoworld.com/article/3715520/c-plus-plus-language-rises-in-tiobe-popularity-index.html</guid>
+      <pubDate>Wed, 12 Jun 2024 18:10:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
