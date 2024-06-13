@@ -4,7 +4,21 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 13 Jun 2024 15:07:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 18:09:30 GMT</lastBuildDate>
+    <item>
+      <title>苹果证明人工智能是一种功能，而不是产品</title>
+      <link>https://www.wired.com/story/apple-intelligence-ai-feature-not-product/</link>
+      <description><![CDATA[其他科技公司也想向你推销聊天机器人。苹果的演示展示了将人工智能视为一种综合的整体体验而非独立的应用或设备的价值。]]></description>
+      <guid>https://www.wired.com/story/apple-intelligence-ai-feature-not-product/</guid>
+      <pubDate>Thu, 13 Jun 2024 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>对抗人工智能的斗争取决于基础数据集</title>
+      <link>https://www.wired.com/story/the-fight-against-ai-comes-to-a-foundational-data-set/</link>
+      <description><![CDATA[多年来，非营利性网站 Common Crawl 一直是研究人员的福音。但现在它在 AI 训练数据中的作用引发了出版商的强烈反对。]]></description>
+      <guid>https://www.wired.com/story/the-fight-against-ai-comes-to-a-foundational-data-set/</guid>
+      <pubDate>Thu, 13 Jun 2024 15:21:11 GMT</pubDate>
+    </item>
     <item>
       <title>LinkedIn 的 AI 职业教练即将与您见面</title>
       <link>https://www.wired.com/story/linkedin-ai-features-career-coach-chatbot/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[苏珊赖斯 (Susan Rice) 曾帮助白宫与 OpenAI 和其他科技公司达成人工智能安全协议，她表示担心中国会窃取美国的人工智能机密。]]></description>
       <guid>https://www.wired.com/story/national-security-experts-warn-ai-giants-secrets/</guid>
       <pubDate>Thu, 06 Jun 2024 20:21:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>前 Autonomy 首席执行官 Mike Lynch 在美国欺诈案审判中获释</title>
-      <link>https://www.wired.com/story/former-autonomy-ceo-mike-lynch-cleared-in-us-fraud-trial/</link>
-      <description><![CDATA[曾被誉为“英国版比尔盖茨”的软件大亨迈克林奇被美国陪审团宣判欺诈罪名不成立。]]></description>
-      <guid>https://www.wired.com/story/former-autonomy-ceo-mike-lynch-cleared-in-us-fraud-trial/</guid>
-      <pubDate>Thu, 06 Jun 2024 19:54:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 揭秘 ChatGPT 的核心</title>
-      <link>https://www.wired.com/story/openai-offers-a-peek-inside-the-guts-of-chatgpt/</link>
-      <description><![CDATA[前雇员们表示，OpenAI 对自身技术过于鲁莽，几天后，该公司发布了一篇关于逆向工程 AI 模型运作方法的研究论文。]]></description>
-      <guid>https://www.wired.com/story/openai-offers-a-peek-inside-the-guts-of-chatgpt/</guid>
-      <pubDate>Thu, 06 Jun 2024 17:45:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
