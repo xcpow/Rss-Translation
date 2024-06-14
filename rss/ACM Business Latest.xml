@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 14 Jun 2024 12:13:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 15:08:32 GMT</lastBuildDate>
+    <item>
+      <title>无论如何包装，Apple Intelligence 就是 AI</title>
+      <link>https://www.wired.com/story/plaintext-apple-intelligence-is-ai/</link>
+      <description><![CDATA[苹果急于向我们展示其人工智能方法比竞争对手更安全、更好、更有用。也许这只是幻觉，但它确实有效。]]></description>
+      <guid>https://www.wired.com/story/plaintext-apple-intelligence-is-ai/</guid>
+      <pubDate>Fri, 14 Jun 2024 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>我花了一周时间吃餐馆丢弃的食物。但这真的是浪费吗？</title>
       <link>https://www.wired.com/story/too-good-to-go-app-week-food-waste/</link>
@@ -13,7 +20,7 @@
       <pubDate>Fri, 14 Jun 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌瞄准广告商，可从 Bing 学到很多东西</title>
+      <title>谷歌瞄准人工智能搜索广告，可从 Bing 中学到很多东西</title>
       <link>https://www.wired.com/story/as-google-ai-overview-targets-advertisers-it-could-learn-a-lot-from-bing/</link>
       <description><![CDATA[微软和谷歌正在将广告引入其 AI 搜索体验。但用户并不总是觉得它有用。]]></description>
       <guid>https://www.wired.com/story/as-google-ai-overview-targets-advertisers-it-could-learn-a-lot-from-bing/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[从《数字服务法》到《人工智能法》，五年来欧洲为数字世界制定了许多规则。然而，实施这些规则并不总是那么容易。]]></description>
       <guid>https://www.wired.com/story/european-commission-big-tech-regulation-outlook/</guid>
       <pubDate>Sun, 09 Jun 2024 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>咆哮的小猫在玩火</title>
-      <link>https://www.wired.com/story/roaring-kitty-is-playing-with-fire/</link>
-      <description><![CDATA[网红 Keith Gill（网名 Roaring Kitty）在引发 GameStop 历史性空头挤压后，成为业余股票交易员的宠儿。但他的下一步举动可能会让他陷入大麻烦。]]></description>
-      <guid>https://www.wired.com/story/roaring-kitty-is-playing-with-fire/</guid>
-      <pubDate>Fri, 07 Jun 2024 17:52:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
