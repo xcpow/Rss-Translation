@@ -4,110 +4,102 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Wed, 12 Jun 2024 18:10:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 18:10:48 GMT</lastBuildDate>
     <item>
-      <title>MouthPad 让瘫痪者能够控制手机和电脑</title>
-      <link>https://interestingengineering.com/innovation/mouth-based-touchpad-paralyzed-people</link>
-      <description><![CDATA[有趣的工程MouthPad 由初创公司 Augmental 的研究人员开发，允许用户使用舌头和头部运动来控制计算机、智能手机和其他设备。MouthPad 是一种薄型设备，位于用户的上颚，Augmental 首席执行官 Tomás Vega 表示，它“在舌尖上提供了传统触摸板的所有功能”。压敏触摸板中的运动传感器通过蓝牙传输舌头和头部运动，允许用户实时滚动、点击和执行其他操作。摘自“MouthPad 让瘫痪者控制手机和电脑”
-有趣的工程 (06/06/24) Mrigakshi Dixit 查看全文]]></description>
-      <guid>https://interestingengineering.com/innovation/mouth-based-touchpad-paralyzed-people</guid>
-      <pubDate>Wed, 12 Jun 2024 18:10:23 GMT</pubDate>
+      <title>为缓慢、笨拙的交通信号灯提供智能、廉价的解决方案</title>
+      <link>https://www.wsj.com/tech/personal-tech/google-green-light-traffic-light-optimization-992e4252</link>
+      <description><![CDATA[《华尔街日报》来自新车和驾驶员智能手机的数据可以改善老式交通信号灯的性能，并减少购买新硬件的费用。谷歌正在扩展其绿灯项目，该项目使用从谷歌地图用户那里收集的数据来创造“绿波”在已经部署该系统的 14 个城市，而密歇根大学 (U-M) 的研究人员则利用联网通用汽车车辆的遥测数据，帮助底特律郊区密歇根州伯明翰评估 2022 年 34 个交通信号灯的时序。摘自“智能、廉价修复缓慢、愚蠢的交通信号灯”
+华尔街日报 (06/07/24) Christopher Mims 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/tech/personal-tech/google-green-light-traffic-light-optimization-992e4252</guid>
+      <pubDate>Fri, 14 Jun 2024 18:10:48 GMT</pubDate>
     </item>
     <item>
-      <title>定位系统增强了无人机视点混合现实应用的多功能性和准确性</title>
-      <link>https://resou.osaka-u.ac.jp/en/research/2024/20240606_2</link>
-      <description><![CDATA[大阪大学（日本）的研究日本大阪大学（OU）的研究人员整合了视觉定位系统和基于自然特征的跟踪来估计无人机的位置。由此产生的系统无需预先设定路线即可对齐现实世界和虚拟世界的坐标。测试表明，拟议的系统比其前身更准确。OU 的 Airi Kinoshita 表示，无人机和混合现实的整合“有可能解决各种社会问题”，包括与城市规划和基础设施发展、灾害响应和人道主义援助、文化保护和旅游以及环境保护相关的问题。摘自“定位系统增强了无人机视点混合现实应用的多功能性和准确性”
-大阪大学（日本）的研究（06/05/24） 查看全文]]></description>
-      <guid>https://resou.osaka-u.ac.jp/en/research/2024/20240606_2</guid>
-      <pubDate>Wed, 12 Jun 2024 18:10:23 GMT</pubDate>
+      <title>北极的算法</title>
+      <link>https://norwegianscitechnews.com/2024/06/training-algorithms-to-make-arctic-shipping-safer/</link>
+      <description><![CDATA[挪威科技新闻来自北极的图像被用于训练一种算法，以过滤恶劣天气造成的视觉障碍，从而提高北极航运交通的安全性。挪威科技大学 (NTNU) 的研究人员将图像发布到网上，一个是视野清晰的“干净”版本，另一个是因天气原因而模糊的版本。“我们可以利用这些信息开发先进的系统，以避免碰撞、实现更安全的航行和最佳的航行路线，”挪威科技大学的 Nabil Panchi 说道。摘自“北极算法”
+挪威科技新闻 (06/11/24) Sølvi Normannsen 查看全文]]></description>
+      <guid>https://norwegianscitechnews.com/2024/06/training-algorithms-to-make-arctic-shipping-safer/</guid>
+      <pubDate>Fri, 14 Jun 2024 18:10:48 GMT</pubDate>
     </item>
     <item>
-      <title>苹果承诺不存储、允许访问人工智能数据</title>
-      <link>https://arstechnica.com/ai/2024/06/apples-ai-promise-your-data-is-never-stored-or-made-accessible-by-apple/</link>
-      <description><![CDATA[Ars Technica在 2024 年 Apple 全球开发者大会上，Apple 的 Craig Federighi（如图）介绍了私有云计算 (PCC)。PCC 是 Apple 所称的“隐私和 AI 的全新标准”的一部分，它通过设备上的处理来实现隐私。当需要更大的基于云的模型来满足 AI 请求时，它将“在我们专门使用 Apple 芯片创建的服务器上运行”，Federighi 说道。他说，PCC 的服务器代码将向公众开放，因此“独立专家可以检查这些服务器上运行的代码，以验证这一隐私承诺。”摘自“苹果承诺不存储、允许访问 AI 数据”
-Ars Technica (06/10/24) Kyle Orland 查看全文]]></description>
-      <guid>https://arstechnica.com/ai/2024/06/apples-ai-promise-your-data-is-never-stored-or-made-accessible-by-apple/</guid>
-      <pubDate>Wed, 12 Jun 2024 18:10:22 GMT</pubDate>
+      <title>设计更好的寻找医生的方法</title>
+      <link>https://viterbischool.usc.edu/news/2024/06/usc-isi-researchers-team-up-with-kaiser-permanente-to-improve-healthcare-search-by-20/</link>
+      <description><![CDATA[南加州大学维特比工程学院南加州大学和 Kaiser Permanente 的研究人员利用人工智能来提高 Kaiser 最新版本的“寻找医生和地点”工具所产生的结果质量。该工具采用语义搜索，使用知识图谱来理解查询中单词之间的上下文和关系。研究人员还利用 ChatGPT 将身体器官术语映射到相关的医学专业。该工具可在几毫秒内产生结果，并将患者找到其所在地区相关医生的几率提高 20%。摘自“设计一种更好的寻找医生的方法”
+南加州大学维特比工程学院 (06/11/24) Stephanie Lee 查看全文]]></description>
+      <guid>https://viterbischool.usc.edu/news/2024/06/usc-isi-researchers-team-up-with-kaiser-permanente-to-improve-healthcare-search-by-20/</guid>
+      <pubDate>Fri, 14 Jun 2024 18:10:47 GMT</pubDate>
     </item>
     <item>
-      <title>受超人启发的成像芯片</title>
-      <link>https://news.utdallas.edu/science-technology/superman-inspired-imager-chip-2024/</link>
-      <description><![CDATA[德克萨斯大学达拉斯分校由德克萨斯大学达拉斯分校和韩国首尔国立大学 (SNU) 的研究人员开发的成像芯片可用于移动设备，例如查看墙壁后面的情况。受超人 X 射线视觉的启发，该成像器在电磁频率的毫米波段发射 300GHz 信号。SNU 的 Wooyeol Choi 解释说：“我们设计的芯片没有镜头或光学元件，因此它可以装入移动设备中。”摘自“受超人启发的成像芯片”
-德克萨斯大学达拉斯分校 (06/07/24) Kim Horner 查看全文]]></description>
-      <guid>https://news.utdallas.edu/science-technology/superman-inspired-imager-chip-2024/</guid>
-      <pubDate>Wed, 12 Jun 2024 18:10:21 GMT</pubDate>
+      <title>增强隐私的浏览器扩展无法满足用户需求</title>
+      <link>https://engineering.nyu.edu/news/privacy-enhancing-browser-extensions-fail-meet-user-needs-new-study-finds</link>
+      <description><![CDATA[纽约大学坦顿工程学院纽约大学的研究人员发现，用于保护隐私和屏蔽广告的流行网络浏览器扩展程序存在缺陷。该研究涵盖了“广告拦截器和隐私保护”扩展程序，包括 AdBlock Plus、uBloc Origin、Adguard 和 Ghostery，以及“隐私保护”扩展程序，包括 Privacy Badger、Decentraleyes 和 Disconnect。研究人员建立了一个基准测试框架来评估浏览器扩展程序的优缺点，使用智能爬虫分析了 1,500 多个网站的性能问题、兼容性问题、隐私政策优势、广告拦截功能和过滤列表配置。摘自“增强隐私的浏览器扩展程序未能满足用户需求”
+纽约大学坦登工程学院 (2024 年 6 月 11 日) 查看全文]]></description>
+      <guid>https://engineering.nyu.edu/news/privacy-enhancing-browser-extensions-fail-meet-user-needs-new-study-finds</guid>
+      <pubDate>Fri, 14 Jun 2024 18:10:46 GMT</pubDate>
     </item>
     <item>
-      <title>类似种子的“单旋翼飞行器”改变翼展以提高灵活性和效率</title>
-      <link>https://newatlas.com/drones/frow-monocopter-drone-adjustable-wingspan/</link>
-      <description><![CDATA[New Atlas新加坡科技设计大学研究人员开发的单翼“单旋翼”无人机可以改变翼展。FROW（可折叠旋转折纸翼）无人机的灵感来自枫树的单翼翅果型种子。FROW-A（主动）版本通过旋转整个机身飞行，但有两个由轻木板制成的机翼，每个机翼末端都有一个马达/螺旋桨。 FROW-P（被动）型号采用单翼设计，当机翼缩短时，无人机可以快速盘旋下降。摘自“类似种子的‘单旋翼机’改变翼展以提高灵活性和效率”
-New Atlas（06/07/24）Ben Coxworth 查看全文]]></description>
-      <guid>https://newatlas.com/drones/frow-monocopter-drone-adjustable-wingspan/</guid>
-      <pubDate>Wed, 12 Jun 2024 18:10:21 GMT</pubDate>
+      <title>人形机器人可以驾驶汽车——某种程度上</title>
+      <link>https://techcrunch.com/2024/06/12/this-humanoid-robot-can-drive-cars-sort-of/</link>
+      <description><![CDATA[Tech Crunch日本东京大学的研究人员开发并训练了一个类人机器人来驾驶汽车。武藏机器人配备了两个摄像头，可以让它看到车辆前方的道路和后视镜中反射的景象；它还有双手来启动汽车、拉手刹或操作转向灯，还有防滑脚，可以操作油门和刹车踏板。摘自“类人机器人可以驾驶汽车——有点”
+Tech Crunch (06/12/24) Kyle Wiggers 查看全文]]></description>
+      <guid>https://techcrunch.com/2024/06/12/this-humanoid-robot-can-drive-cars-sort-of/</guid>
+      <pubDate>Fri, 14 Jun 2024 18:10:46 GMT</pubDate>
     </item>
     <item>
-      <title>你的驾驶行为会被秘密评分吗？</title>
-      <link>https://www.nytimes.com/2024/06/09/technology/driver-scores-insurance-data-apps.html</link>
-      <description><![CDATA[《纽约时报》由于消费者不愿意签署跟踪其日常驾驶情况的基于使用情况的保险计划，保险公司开始转向汽车制造商和智能手机应用程序来获取驾驶数据。许多消费者并不知道他们手机上已有的一些应用程序正在收集和出售他们的数据。消费者选择加入这些应用程序中的某些功能，允许提供这些功能的分析公司评估他们的驾驶风险以用于保险目的。摘自“你的驾驶是否被秘密评分？”
-《纽约时报》（06/09/24）克什米尔山 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/06/09/technology/driver-scores-insurance-data-apps.html</guid>
-      <pubDate>Wed, 12 Jun 2024 18:10:20 GMT</pubDate>
+      <title>智能电力线“神经元”提升电网容量</title>
+      <link>https://spectrum.ieee.org/power-line-sensors-smart-grid</link>
+      <description><![CDATA[IEEE Spectrum明尼苏达州的 Great River Energy 正在老化的高压输电线路上安装 52 个智能传感器微尘（“神经元”），以将其容量提高 40%，同时更有效地管理电力传输。Heimdall Power 的足球大小的神经元可以使用自动无人机安装在输电线路上，其传感器可以监测电流和温度，以及执行故障检测、冰监测和其他任务。数据在云端处理并实时传送给操作员。摘自“智能电力线‘神经元’提升电网容量”
+IEEE Spectrum (06/13/24) Alfred Poor 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/power-line-sensors-smart-grid</guid>
+      <pubDate>Fri, 14 Jun 2024 18:10:45 GMT</pubDate>
     </item>
     <item>
-      <title>深度伪造者、欺诈者和黑客抢占网络安全岗位</title>
-      <link>https://www.wsj.com/articles/deepfakes-fraudsters-and-hackers-are-coming-for-cybersecurity-jobs-e2a76d06</link>
-      <description><![CDATA[《华尔街日报》一些招聘网络安全人员的公司发现，一些应聘者实际上是黑客。为此，一些安全负责人正在更仔细地审查简历，以剔除朝鲜间谍和那些过分夸大成就的人。如果这类应聘者通过了招聘流程，他们可能会窃取知识产权、公司数据或资产，甚至在代码中插入漏洞。摘自“Deepfakes、欺诈者、黑客来抢网络安全工作”
-《华尔街日报》（06/07/24）Belle Lin 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/articles/deepfakes-fraudsters-and-hackers-are-coming-for-cybersecurity-jobs-e2a76d06</guid>
-      <pubDate>Wed, 12 Jun 2024 18:10:20 GMT</pubDate>
+      <title>巴西聘请 OpenAI 来削减诉讼成本</title>
+      <link>https://www.reuters.com/technology/artificial-intelligence/brazil-hires-openai-cut-costs-court-battles-2024-06-11/</link>
+      <description><![CDATA[路透社巴西政府计划使用 OpenAI 的服务来加快审查和分析诉讼的进程。该技术将用于标记在发布最终决定之前必须采取的行动，并为总检察长办公室绘制趋势和可能的行动领域。目标是防止法院下令的债务支付对联邦预算造成影响。摘自“巴西聘请 OpenAI 削减法庭诉讼成本”
+路透社 (06/11/24) Marcela Ayres；Bernardo Caram 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/artificial-intelligence/brazil-hires-openai-cut-costs-court-battles-2024-06-11/</guid>
+      <pubDate>Fri, 14 Jun 2024 18:10:45 GMT</pubDate>
     </item>
     <item>
-      <title>联合国宣布 2025 年为量子年</title>
-      <link>https://www.siliconrepublic.com/machines/united-nations-un-2025-year-of-quantum-science-technology-computing</link>
-      <description><![CDATA[硅谷共和国联合国已宣布 2025 年为国际量子科学技术年 (IYQ)。该倡议将重点关注量子科学对技术、文化和人类对自然世界的理解的影响。葡萄牙量子研究所的 Yasser Omar 将代表量子旗舰参加 IYQ，他表示：“明年全年，欧洲量子旗舰计划的量子计算、模拟、通信、传感和计量项目将展示其成果。”摘自“联合国宣布 2025 年为量子年”
-Silicon Republic (06/10/24) Vish Gain 查看全文]]></description>
-      <guid>https://www.siliconrepublic.com/machines/united-nations-un-2025-year-of-quantum-science-technology-computing</guid>
-      <pubDate>Wed, 12 Jun 2024 18:10:19 GMT</pubDate>
+      <title>机器人套装帮助用户更轻松、更快地奔跑</title>
+      <link>https://scitechdaily.com/ai-magic-robotic-suits-that-help-you-run-easier-and-faster/</link>
+      <description><![CDATA[SciTechDaily北卡罗来纳州立大学的研究人员利用人工智能和计算机模拟训练机器人外骨骼，使其能够自主帮助佩戴者在行走、跑步和爬楼梯时节省体力。这种新的训练方法让用户可以立即使用外骨骼，而无需长时间的测试和调整。与未佩戴外骨骼的用户相比，研究参与者在佩戴外骨骼时，行走时消耗的代谢能量减少了 24.3%，跑步时减少了 13.1%，爬楼梯时减少了 15.4%。摘自“机器人套装帮助用户更轻松、更快地奔跑”
+SciTechDaily (06/12/24) 查看全文]]></description>
+      <guid>https://scitechdaily.com/ai-magic-robotic-suits-that-help-you-run-easier-and-faster/</guid>
+      <pubDate>Fri, 14 Jun 2024 18:10:44 GMT</pubDate>
     </item>
     <item>
-      <title>女性研究人员在全球取得进展</title>
-      <link>https://www.insidehighered.com/news/diversity/sex-gender/2024/06/11/women-make-global-gains-researchers-gaps-persist</link>
-      <description><![CDATA[Inside Higher Ed根据 Elsevier 的一项研究，全球 STEM 研究人员中女性的比例从 2000 年的 26% 增加到 2022 年的近 39%。这家荷兰出版商从 Scopus（一个同行评议文献摘要和引文数据库）收集了大约 2000 万名研究人员的记录，并使用算法推断索引作者的性别。Elsevier 还指出，目前的趋势表明，STEM 领域的性别平等要到 2052 年才能实现。摘自“女性作为研究人员在全球范围内取得进步”
-Inside Higher Ed (06/11/24) Kathryn Palmer 查看全文]]></description>
-      <guid>https://www.insidehighered.com/news/diversity/sex-gender/2024/06/11/women-make-global-gains-researchers-gaps-persist</guid>
-      <pubDate>Wed, 12 Jun 2024 18:10:19 GMT</pubDate>
+      <title>科技实习机会正在减少</title>
+      <link>https://www.bloomberg.com/news/articles/2024-06-13/looking-for-an-internship-fewer-spots-for-more-applicants-in-cutthroat-year?sref=db2f3qgr</link>
+      <description><![CDATA[彭博社去年 6 月至 5 月，大学生求职平台 Handshake 上列出的实习岗位总数与去年同期相比下降了 7% 以上。这一趋势反映了公司正在采取措施缓和某些行业的入门级招聘，其中包括科技行业。截至 5 月的 12 个月内，Handshake 上列出的实习岗位数量下降了 14%。摘自“科技实习岗位正在枯竭”
+彭博社 (06/13/24) Jo Constantz 查看全文]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-06-13/looking-for-an-internship-fewer-spots-for-more-applicants-in-cutthroat-year?sref=db2f3qgr</guid>
+      <pubDate>Fri, 14 Jun 2024 18:10:44 GMT</pubDate>
     </item>
     <item>
-      <title>微软、谷歌加强农村医院网络安全</title>
-      <link>https://edition.cnn.com/2024/06/10/tech/hospital-cyberattack-google-microsoft/index.html</link>
-      <description><![CDATA[CNN白宫、微软和谷歌宣布，美国农村医院将可以免费或以折扣价获得这些科技公司的网络安全服务。符合条件的农村医院将获得微软提供的免费安全更新、安全评估和员工培训，以及谷歌提供的免费网络安全建议，以及一项试点计划，该计划将根据医院的需求为其匹配网络安全服务。摘自“微软、谷歌提升农村医院网络安全”
-CNN (06/10/24) Sean Lyngaas；Michelle Watson 查看全文]]></description>
-      <guid>https://edition.cnn.com/2024/06/10/tech/hospital-cyberattack-google-microsoft/index.html</guid>
-      <pubDate>Wed, 12 Jun 2024 18:10:18 GMT</pubDate>
+      <title>巴黎奥运会人群扫描引发人们对人工智能监控的担忧</title>
+      <link>https://www.japantimes.co.jp/news/2024/06/13/world/paris-olympics-ai-surveillance/</link>
+      <description><![CDATA[《日本时报》法国当局计划在巴黎奥运会期间使用人工智能监控系统。该系统已经在火车站、音乐会和体育赛事上进行了测试，并将在 7 月底奥运会开始时由警察、消防和救援部门以及一些法国交通安全人员使用。虽然这些系统将扫描潜在威胁，但它们不能用于步态检测、面部识别和其他用于识别的过程。摘自“巴黎奥运会人群扫描引发人工智能监控恐惧”
+《日本时报》（06/13/24）亚当·斯密 查看全文]]></description>
+      <guid>https://www.japantimes.co.jp/news/2024/06/13/world/paris-olympics-ai-surveillance/</guid>
+      <pubDate>Fri, 14 Jun 2024 18:10:43 GMT</pubDate>
     </item>
     <item>
-      <title>尽管存在隐私问题，Meta 仍寻求利用欧洲数据训练 AI 模型</title>
-      <link>https://apnews.com/article/meta-facebook-instagram-whatsapp-ai-artificial-intelligence-8d6cb3424ee410c641d0acdb154601f5</link>
-      <description><![CDATA[美联社Meta 希望使用其平台的欧盟用户的数据来训练其 AI 模型，但面临严格的数据隐私制度。该公司表示，为了更好地反映其欧洲用户的“语言、地理和文化参考”，它需要使用这些用户的公共数据来训练其 Llama AI 大型语言模型。欧盟数据隐私法赋予人们控制其个人信息使用方式的权利。摘自“尽管存在隐私问题，Meta 仍寻求使用欧洲数据训练 AI 模型”
-美联社 (06/10/24) Kelvin Chan 查看全文]]></description>
-      <guid>https://apnews.com/article/meta-facebook-instagram-whatsapp-ai-artificial-intelligence-8d6cb3424ee410c641d0acdb154601f5</guid>
-      <pubDate>Wed, 12 Jun 2024 18:10:18 GMT</pubDate>
+      <title>中国无人驾驶汽车测试数量居世界首位</title>
+      <link>https://www.nytimes.com/2024/06/13/business/china-driverless-cars.html</link>
+      <description><![CDATA[《纽约时报》全球最大的无人驾驶汽车试验正在中国武汉的街道上进行，那里有 500 辆出租车由电脑导航，通常没有安全驾驶员作为后备。在中国，至少有 16 个城市允许公司在公共道路上测试无人驾驶汽车，至少有 19 家中国汽车制造商及其供应商正在竞争在该领域建立全球领导地位。摘自“中国测试的无人驾驶汽车比任何其他国家都多”
+《纽约时报》（2024 年 6 月 13 日）Keith Bradsher 查看全文]]></description>
+      <guid>https://www.nytimes.com/2024/06/13/business/china-driverless-cars.html</guid>
+      <pubDate>Fri, 14 Jun 2024 18:10:43 GMT</pubDate>
     </item>
     <item>
-      <title>太空飞行的新英雄：软件迷</title>
-      <link>https://www.washingtonpost.com/technology/2024/06/11/space-heroes-software-engineer/</link>
-      <description><![CDATA[华盛顿邮报对于上一代人来说，太空时代的明星是宇航员，而今天，明星是为今天的太空旅行提供动力的软件工程师和计算机科学家。地面工程师和计算机专家的作用对航天飞行来说比以往任何时候都重要。加州大学伯克利分校空间科学实验室任务运营总监 Abhi Tripathi 表示，“今天的航天器应该是包裹着航天器的真正优秀的软件。”摘自“航天新英雄：软件书呆子”
-华盛顿邮报 (06/11/24) Christian Davenport 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.washingtonpost.com/technology/2024/06/11/space-heroes-software-engineer/</guid>
-      <pubDate>Wed, 12 Jun 2024 18:10:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>C++ 语言在 Tiobe 流行度指数中上升</title>
-      <link>https://www.infoworld.com/article/3715520/c-plus-plus-language-rises-in-tiobe-popularity-index.html</link>
-      <description><![CDATA[InfoWorld6 月份，Tiobe 编程社区指数显示，CC+ 成为仅次于 Python 的第二大最受欢迎的编程语言。尽管白宫国家网络总监办公室发出咨询意见，呼吁开发人员出于内存安全考虑从 C++ 过渡到 C，但 CC+ 仍将 C 挤到了第三位，创下了历史最低排名。 Tiobe 指数 6 月份排名前 10 的编程语言为 Python、C++、C、Java、C#、JavaScript、Go、SQL、Visual Basic 和 Fortran。摘自“C++ 语言在 Tiobe 流行度指数中上升”
-InfoWorld (06/10/24) Paul Krill 查看全文]]></description>
-      <guid>https://www.infoworld.com/article/3715520/c-plus-plus-language-rises-in-tiobe-popularity-index.html</guid>
-      <pubDate>Wed, 12 Jun 2024 18:10:17 GMT</pubDate>
+      <title>无私奉献、杰出贡献获ACM表彰</title>
+      <link>https://www.acm.org/media-center/2024/june/service-awards-2023</link>
+      <description><![CDATA[ACM 媒体中心ACM 宣布杜克大学的 Alicia Nicki Washington 和 Shaundra Daily 因开发计算机文化能力研究员计划而获得 Karl V. Karlstrom 杰出教育家奖。弗吉尼亚大学的 Aidong Zhang 获得 ACM 杰出服务奖，而弗吉尼亚大学的 Jack W. Davidson 因对 ACM 出版物计划的贡献而获得 ACM 杰出贡献奖。康奈尔大学的 John M. Abowd 因其在美国人口普查局的数据隐私方面的工作而获得 ACM 政策奖。 Persistent Systems 的 Anand Deshpande 和滑铁卢大学的 M. Tamer Özsu 被提名为 ACM 主席奖的获得者。摘自“无私的服务、杰出贡献获得 ACM 认可”
+ACM 媒体中心 (06/12/24) 查看全文]]></description>
+      <guid>https://www.acm.org/media-center/2024/june/service-awards-2023</guid>
+      <pubDate>Fri, 14 Jun 2024 18:10:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
