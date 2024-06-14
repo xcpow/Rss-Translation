@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 14 Jun 2024 06:11:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 09:08:13 GMT</lastBuildDate>
+    <item>
+      <title>谷歌瞄准广告商，可从 Bing 学到很多东西</title>
+      <link>https://www.wired.com/story/as-google-ai-overview-targets-advertisers-it-could-learn-a-lot-from-bing/</link>
+      <description><![CDATA[微软和谷歌正在将广告引入其 AI 搜索体验。但用户并不总是觉得它有用。]]></description>
+      <guid>https://www.wired.com/story/as-google-ai-overview-targets-advertisers-it-could-learn-a-lot-from-bing/</guid>
+      <pubDate>Fri, 14 Jun 2024 09:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>特斯拉股东批准伊隆·马斯克的巨额薪酬</title>
       <link>https://www.wired.com/story/elon-musk-pay-package-approved-tesla-shareholders/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我们可以对科技领袖对人工智能未来的宏伟愿景表示怀疑，但这并不意味着这项技术不会产生巨大的影响。]]></description>
       <guid>https://www.wired.com/story/dont-let-mistrust-of-tech-companies-blind-you-power-of-ai/</guid>
       <pubDate>Fri, 07 Jun 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能卡通可能会为你下一份工作进行面试</title>
-      <link>https://www.wired.com/story/ai-cartoon-next-job/</link>
-      <description><![CDATA[好像试图找到一份新工作还不够令人沮丧，求职者正在与由生成人工智能驱动的角色会面，这些角色能够与无数的候选人会面以判断他们的技能。]]></description>
-      <guid>https://www.wired.com/story/ai-cartoon-next-job/</guid>
-      <pubDate>Fri, 07 Jun 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
