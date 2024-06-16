@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Sun, 16 Jun 2024 09:09:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 12:12:21 GMT</lastBuildDate>
+    <item>
+      <title>基于光的芯片或能满足人工智能日益增长的能源需求</title>
+      <link>https://www.wired.com/story/ai-needs-enormous-computing-power-could-light-based-chips-help/</link>
+      <description><![CDATA[光学神经网络使用光子代替电子，与传统系统相比具有优势，但也面临重大障碍。]]></description>
+      <guid>https://www.wired.com/story/ai-needs-enormous-computing-power-could-light-based-chips-help/</guid>
+      <pubDate>Sun, 16 Jun 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>无论如何包装，Apple Intelligence 就是 AI</title>
       <link>https://www.wired.com/story/plaintext-apple-intelligence-is-ai/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[研究人员正在借鉴博弈论的思想来改进大型语言模型，使其更加正确、高效和一致。]]></description>
       <guid>https://www.wired.com/story/game-theory-can-make-ai-more-correct-and-efficient/</guid>
       <pubDate>Sun, 09 Jun 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧盟正在与大型科技公司展开竞争。它可能处于劣势</title>
-      <link>https://www.wired.com/story/european-commission-big-tech-regulation-outlook/</link>
-      <description><![CDATA[从《数字服务法》到《人工智能法》，五年来欧洲为数字世界制定了许多规则。然而，实施这些规则并不总是那么容易。]]></description>
-      <guid>https://www.wired.com/story/european-commission-big-tech-regulation-outlook/</guid>
-      <pubDate>Sun, 09 Jun 2024 08:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
