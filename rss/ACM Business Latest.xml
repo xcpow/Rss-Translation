@@ -4,7 +4,35 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Mon, 17 Jun 2024 09:08:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 12:14:22 GMT</lastBuildDate>
+    <item>
+      <title>Orkut 创始人仍在梦想社交媒体乌托邦</title>
+      <link>https://www.wired.com/story/orkut-founder-social-media-utopia/</link>
+      <description><![CDATA[2000 年代中期，谷歌工程师 Orkut Büyükkökten 的同名社交网络曾一度风靡全球，随后便销声匿迹。如今他又回来了，带着一个让社交媒体更快乐的计划。]]></description>
+      <guid>https://www.wired.com/story/orkut-founder-social-media-utopia/</guid>
+      <pubDate>Mon, 17 Jun 2024 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 支持的非营利组织违背了透明度承诺</title>
+      <link>https://www.wired.com/story/openai-backed-nonprofits-transparency-pledges/</link>
+      <description><![CDATA[两家提供无条件现金补助的组织告诉《连线》杂志，他们将不再披露财务报表和内部政策。他们的立场与 OpenAI 的类似否认如出一辙。]]></description>
+      <guid>https://www.wired.com/story/openai-backed-nonprofits-transparency-pledges/</guid>
+      <pubDate>Mon, 17 Jun 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>银行终于意识到气候变化将对住房造成的影响</title>
+      <link>https://www.wired.com/story/banks-are-finally-realizing-what-climate-change-will-do-to-housing/</link>
+      <description><![CDATA[极端天气威胁许多财产的投资价值，但气候缓解举措的融资才刚刚起步。]]></description>
+      <guid>https://www.wired.com/story/banks-are-finally-realizing-what-climate-change-will-do-to-housing/</guid>
+      <pubDate>Mon, 17 Jun 2024 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能正在取代大型科技公司的工作——但方式和你想象的不一样</title>
+      <link>https://www.wired.com/story/ai-is-coming-for-big-tech-jobs-but-not-in-the-way-you-think/</link>
+      <description><![CDATA[公司尚未用人工智能取代工人。但他们在技术进一步创新的竞赛中牺牲了数千个工作岗位。]]></description>
+      <guid>https://www.wired.com/story/ai-is-coming-for-big-tech-jobs-but-not-in-the-way-you-think/</guid>
+      <pubDate>Mon, 17 Jun 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>基于光的芯片或能满足人工智能日益增长的能源需求</title>
       <link>https://www.wired.com/story/ai-needs-enormous-computing-power-could-light-based-chips-help/</link>
@@ -50,7 +78,7 @@
     <item>
       <title>出版商瞄准常见爬虫，争夺 AI 训练数据</title>
       <link>https://www.wired.com/story/the-fight-against-ai-comes-to-a-foundational-data-set/</link>
-      <description><![CDATA[长期运营的非盈利组织 Common Crawl 多年来一直是研究人员的福音。但现在它在 AI 训练数据中的作用引发了出版商的强烈反对。]]></description>
+      <description><![CDATA[多年来，非营利性网站 Common Crawl 一直是研究人员的福音。但现在它在 AI 训练数据中的作用引发了出版商的强烈反对。]]></description>
       <guid>https://www.wired.com/story/the-fight-against-ai-comes-to-a-foundational-data-set/</guid>
       <pubDate>Thu, 13 Jun 2024 15:21:11 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[丹麦媒体希望与 OpenAI 达成一项集体协议，因为他们担心随着聊天机器人的普及，较小的国家将被边缘化。如果他们得不到协议，他们威胁要起诉。]]></description>
       <guid>https://www.wired.com/story/danish-media-demands-a-deal-with-openai-or-else/</guid>
       <pubDate>Tue, 11 Jun 2024 06:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果面临的最大 AI 挑战：如何让 AI 行为规范</title>
-      <link>https://www.wired.com/story/apple-intelligence-ios-macos-ai-openai/</link>
-      <description><![CDATA[Apple Intelligence 将使应用和服务更加智能。但 Apple 最引人注目的创新重点是确保该技术不会令人失望、烦恼或冒犯。]]></description>
-      <guid>https://www.wired.com/story/apple-intelligence-ios-macos-ai-openai/</guid>
-      <pubDate>Mon, 10 Jun 2024 23:39:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple Intelligence 将为 iPhone 注入生成式人工智能</title>
-      <link>https://www.wired.com/story/apple-intelligence-ios-wwdc/</link>
-      <description><![CDATA[在其全球开发者大会上，苹果首次认真地进军生成式人工智能，重点关注应用程序集成和数据隐私——以及 ChatGPT 集成。]]></description>
-      <guid>https://www.wired.com/story/apple-intelligence-ios-wwdc/</guid>
-      <pubDate>Mon, 10 Jun 2024 18:34:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能工具正在秘密训练儿童的真实图像</title>
-      <link>https://www.wired.com/story/ai-tools-are-secretly-training-on-real-childrens-faces/</link>
-      <description><![CDATA[人权活动人士声称，一个流行的人工智能训练数据集在未经巴西儿童知情或同意的情况下“窃取并将他们的脸部用作武器”。]]></description>
-      <guid>https://www.wired.com/story/ai-tools-are-secretly-training-on-real-childrens-faces/</guid>
-      <pubDate>Mon, 10 Jun 2024 04:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>博弈论如何让人工智能更加可靠</title>
-      <link>https://www.wired.com/story/game-theory-can-make-ai-more-correct-and-efficient/</link>
-      <description><![CDATA[研究人员正在借鉴博弈论的思想来改进大型语言模型，使其更加正确、高效和一致。]]></description>
-      <guid>https://www.wired.com/story/game-theory-can-make-ai-more-correct-and-efficient/</guid>
-      <pubDate>Sun, 09 Jun 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
