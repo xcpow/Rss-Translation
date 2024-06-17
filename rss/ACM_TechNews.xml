@@ -4,102 +4,102 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Fri, 14 Jun 2024 18:10:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 18:10:21 GMT</lastBuildDate>
     <item>
-      <title>为缓慢、笨拙的交通信号灯提供智能、廉价的解决方案</title>
-      <link>https://www.wsj.com/tech/personal-tech/google-green-light-traffic-light-optimization-992e4252</link>
-      <description><![CDATA[《华尔街日报》来自新车和驾驶员智能手机的数据可以改善老式交通信号灯的性能，并减少购买新硬件的费用。谷歌正在扩展其绿灯项目，该项目使用从谷歌地图用户那里收集的数据来创造“绿波”在已经部署该系统的 14 个城市，而密歇根大学 (U-M) 的研究人员则利用联网通用汽车车辆的遥测数据，帮助底特律郊区密歇根州伯明翰评估 2022 年 34 个交通信号灯的时序。摘自“智能、廉价修复缓慢、愚蠢的交通信号灯”
-华尔街日报 (06/07/24) Christopher Mims 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/tech/personal-tech/google-green-light-traffic-light-optimization-992e4252</guid>
-      <pubDate>Fri, 14 Jun 2024 18:10:48 GMT</pubDate>
+      <title>从可穿戴设备到可吞咽设备</title>
+      <link>https://viterbischool.usc.edu/news/2024/06/from-wearables-to-swallowables-usc-engineering-researchers-create-gps-like-smart-pills-with-ai/</link>
+      <description><![CDATA[南加州大学维特比工程学院南加州大学的研究人员开发出可摄入的传感器，可以检测与胃炎和胃癌相关的胃气体，并实现实时位置跟踪。他们还开发了一种可穿戴系统，通过在 T 恤上产生磁场的线圈来跟踪智能药丸。该磁场与经过训练的神经网络相结合，可以跟踪体内的胶囊。摘自“从可穿戴设备到可吞咽设备”
+南加州大学维特比工程学院 (06/12/24) Amy Blumenthal 查看全文]]></description>
+      <guid>https://viterbischool.usc.edu/news/2024/06/from-wearables-to-swallowables-usc-engineering-researchers-create-gps-like-smart-pills-with-ai/</guid>
+      <pubDate>Mon, 17 Jun 2024 18:10:21 GMT</pubDate>
     </item>
     <item>
-      <title>北极的算法</title>
-      <link>https://norwegianscitechnews.com/2024/06/training-algorithms-to-make-arctic-shipping-safer/</link>
-      <description><![CDATA[挪威科技新闻来自北极的图像被用于训练一种算法，以过滤恶劣天气造成的视觉障碍，从而提高北极航运交通的安全性。挪威科技大学 (NTNU) 的研究人员将图像发布到网上，一个是视野清晰的“干净”版本，另一个是因天气原因而模糊的版本。“我们可以利用这些信息开发先进的系统，以避免碰撞、实现更安全的航行和最佳的航行路线，”挪威科技大学的 Nabil Panchi 说道。摘自“北极算法”
-挪威科技新闻 (06/11/24) Sølvi Normannsen 查看全文]]></description>
-      <guid>https://norwegianscitechnews.com/2024/06/training-algorithms-to-make-arctic-shipping-safer/</guid>
-      <pubDate>Fri, 14 Jun 2024 18:10:48 GMT</pubDate>
+      <title>微软的纳德拉正在打造人工智能帝国</title>
+      <link>https://www.wsj.com/tech/ai/microsoft-nadella-openai-inflection-9727e77a</link>
+      <description><![CDATA[华尔街日报微软与 ChatGPT 创始人 OpenAI 的合作只是这家科技巨头成为 AI 强国战略的开始。微软首席执行官萨蒂亚·纳德拉 (Satya Nadella) 此后开始积极收购 AI 人才、工具和技术。纳德拉聘请了 DeepMind 和 Inflection AI 联合创始人穆斯塔法·苏莱曼 (Mustafa Suleyman) 来领导微软的 AI 工作。苏莱曼的 Inflection 团队的大部分成员也加入了微软，这家初创公司的技术被用于开发内部 AI 模型，以与 OpenAI 相媲美。摘自“微软的纳德拉打造 AI 帝国”
+华尔街日报 (06/12/24) Tom Dotan； Berber Jin 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/tech/ai/microsoft-nadella-openai-inflection-9727e77a</guid>
+      <pubDate>Mon, 17 Jun 2024 18:10:21 GMT</pubDate>
     </item>
     <item>
-      <title>设计更好的寻找医生的方法</title>
-      <link>https://viterbischool.usc.edu/news/2024/06/usc-isi-researchers-team-up-with-kaiser-permanente-to-improve-healthcare-search-by-20/</link>
-      <description><![CDATA[南加州大学维特比工程学院南加州大学和 Kaiser Permanente 的研究人员利用人工智能来提高 Kaiser 最新版本的“寻找医生和地点”工具所产生的结果质量。该工具采用语义搜索，使用知识图谱来理解查询中单词之间的上下文和关系。研究人员还利用 ChatGPT 将身体器官术语映射到相关的医学专业。该工具可在几毫秒内产生结果，并将患者找到其所在地区相关医生的几率提高 20%。摘自“设计一种更好的寻找医生的方法”
-南加州大学维特比工程学院 (06/11/24) Stephanie Lee 查看全文]]></description>
-      <guid>https://viterbischool.usc.edu/news/2024/06/usc-isi-researchers-team-up-with-kaiser-permanente-to-improve-healthcare-search-by-20/</guid>
-      <pubDate>Fri, 14 Jun 2024 18:10:47 GMT</pubDate>
+      <title>AI Steve 可以当总理吗？</title>
+      <link>https://www.euronews.com/next/2024/06/13/meet-ai-steve-the-uks-avatar-election-candidate</link>
+      <description><![CDATA[Euronews英国企业家 Steve Endacott 创建了一个 AI 化身，以竞选下议院布莱顿帕维利恩选区的国会大臣 (MP)。AI Steve 的竞选网站正在寻找“创造者”来帮助制定新政策；网站访问者可以点击“与 AI Steve 对话”与机器人互动。如果当选，Endacott 将亲自出席议会，根据 AI 平台收集的反馈对政策进行投票。摘自“AI Steve 担任首相？”
+Euronews (06/13/24) Anna Desmarais 查看全文]]></description>
+      <guid>https://www.euronews.com/next/2024/06/13/meet-ai-steve-the-uks-avatar-election-candidate</guid>
+      <pubDate>Mon, 17 Jun 2024 18:10:20 GMT</pubDate>
     </item>
     <item>
-      <title>增强隐私的浏览器扩展无法满足用户需求</title>
-      <link>https://engineering.nyu.edu/news/privacy-enhancing-browser-extensions-fail-meet-user-needs-new-study-finds</link>
-      <description><![CDATA[纽约大学坦顿工程学院纽约大学的研究人员发现，用于保护隐私和屏蔽广告的流行网络浏览器扩展程序存在缺陷。该研究涵盖了“广告拦截器和隐私保护”扩展程序，包括 AdBlock Plus、uBloc Origin、Adguard 和 Ghostery，以及“隐私保护”扩展程序，包括 Privacy Badger、Decentraleyes 和 Disconnect。研究人员建立了一个基准测试框架来评估浏览器扩展程序的优缺点，使用智能爬虫分析了 1,500 多个网站的性能问题、兼容性问题、隐私政策优势、广告拦截功能和过滤列表配置。摘自“增强隐私的浏览器扩展程序未能满足用户需求”
-纽约大学坦登工程学院 (2024 年 6 月 11 日) 查看全文]]></description>
-      <guid>https://engineering.nyu.edu/news/privacy-enhancing-browser-extensions-fail-meet-user-needs-new-study-finds</guid>
-      <pubDate>Fri, 14 Jun 2024 18:10:46 GMT</pubDate>
+      <title>美国宇航局用激光将 500 张宠物照片发射到太空</title>
+      <link>https://www.forbes.com/sites/jamiecartereurope/2024/06/12/why-did-nasa-just-beam-500-photos-of-pets-into-space-using-lasers/</link>
+      <description><![CDATA[福布斯NASA 最近测试了一种新的双向端到端激光中继系统，该系统在地球和国际空间站 (ISS) 之间运行，以每秒 1.2 千兆比特的速度向太空传输了 500 多张 NASA 员工所养宠物的图片。这些数据从位于新墨西哥州拉斯克鲁塞斯任务运营中心的计算机发送到加利福尼亚州和夏威夷的光学地面站。随后，这些数据被转换成红外光信号，然后被发送到 NASA 的激光通信中继演示卫星，再发送到国际空间站外部的仪器。摘自“NASA 用激光将 500 张宠物照片发射到太空”
+福布斯 (06/12/24) Jamie Carter 查看全文]]></description>
+      <guid>https://www.forbes.com/sites/jamiecartereurope/2024/06/12/why-did-nasa-just-beam-500-photos-of-pets-into-space-using-lasers/</guid>
+      <pubDate>Mon, 17 Jun 2024 18:10:20 GMT</pubDate>
     </item>
     <item>
-      <title>人形机器人可以驾驶汽车——某种程度上</title>
-      <link>https://techcrunch.com/2024/06/12/this-humanoid-robot-can-drive-cars-sort-of/</link>
-      <description><![CDATA[Tech Crunch日本东京大学的研究人员开发并训练了一个类人机器人来驾驶汽车。武藏机器人配备了两个摄像头，可以让它看到车辆前方的道路和后视镜中反射的景象；它还有双手来启动汽车、拉手刹或操作转向灯，还有防滑脚，可以操作油门和刹车踏板。摘自“类人机器人可以驾驶汽车——有点”
-Tech Crunch (06/12/24) Kyle Wiggers 查看全文]]></description>
-      <guid>https://techcrunch.com/2024/06/12/this-humanoid-robot-can-drive-cars-sort-of/</guid>
-      <pubDate>Fri, 14 Jun 2024 18:10:46 GMT</pubDate>
+      <title>网络攻击摧毁研究机构</title>
+      <link>https://www.nature.com/articles/d41586-024-01711-3</link>
+      <description><![CDATA[自然黑客越来越多地将研究机构作为网络攻击的目标。这些网络攻击大多涉及勒索软件，阻止访问数据和程序，影响学生入学，延迟研究项目，并损害研究人员的心理健康。近年来，受影响的机构包括德国柏林自然历史博物馆、英国大英图书馆、曼彻斯特大学、卡内基梅隆大学和斯坦福大学。摘自“网络攻击摧毁研究机构”
+《自然》（2024 年 6 月 13 日）Diana Kwon 查看全文]]></description>
+      <guid>https://www.nature.com/articles/d41586-024-01711-3</guid>
+      <pubDate>Mon, 17 Jun 2024 18:10:19 GMT</pubDate>
     </item>
     <item>
-      <title>智能电力线“神经元”提升电网容量</title>
-      <link>https://spectrum.ieee.org/power-line-sensors-smart-grid</link>
-      <description><![CDATA[IEEE Spectrum明尼苏达州的 Great River Energy 正在老化的高压输电线路上安装 52 个智能传感器微尘（“神经元”），以将其容量提高 40%，同时更有效地管理电力传输。Heimdall Power 的足球大小的神经元可以使用自动无人机安装在输电线路上，其传感器可以监测电流和温度，以及执行故障检测、冰监测和其他任务。数据在云端处理并实时传送给操作员。摘自“智能电力线‘神经元’提升电网容量”
-IEEE Spectrum (06/13/24) Alfred Poor 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/power-line-sensors-smart-grid</guid>
-      <pubDate>Fri, 14 Jun 2024 18:10:45 GMT</pubDate>
+      <title>面部识别初创公司提供股权以解决隐私诉讼</title>
+      <link>https://www.nytimes.com/2024/06/13/business/clearview-ai-facial-recognition-settlement.html</link>
+      <description><![CDATA[《纽约时报》Clearview AI 已同意解决一项集体诉讼，向其数据库中的美国人提供这家面部识别初创公司 23% 的股份，价值约 5200 万美元。集体诉讼指控该公司侵犯隐私，从网络和社交媒体网站上抓取了数十亿张照片，以开发一款面部识别应用程序，目前该应用程序被警察局、美国国土安全部和联邦调查局使用。法庭文件显示，该公司很可能会在案件开庭审理之前破产，因此必须选择和解方案，但和解方案仍需法院批准。摘自“面部识别初创公司提供股份以解决隐私诉讼”
+纽约时报 (06/13/24) 克什米尔山 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/06/13/business/clearview-ai-facial-recognition-settlement.html</guid>
+      <pubDate>Mon, 17 Jun 2024 18:10:19 GMT</pubDate>
     </item>
     <item>
-      <title>巴西聘请 OpenAI 来削减诉讼成本</title>
-      <link>https://www.reuters.com/technology/artificial-intelligence/brazil-hires-openai-cut-costs-court-battles-2024-06-11/</link>
-      <description><![CDATA[路透社巴西政府计划使用 OpenAI 的服务来加快审查和分析诉讼的进程。该技术将用于标记在发布最终决定之前必须采取的行动，并为总检察长办公室绘制趋势和可能的行动领域。目标是防止法院下令的债务支付对联邦预算造成影响。摘自“巴西聘请 OpenAI 削减法庭诉讼成本”
-路透社 (06/11/24) Marcela Ayres；Bernardo Caram 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/artificial-intelligence/brazil-hires-openai-cut-costs-court-battles-2024-06-11/</guid>
-      <pubDate>Fri, 14 Jun 2024 18:10:45 GMT</pubDate>
+      <title>“老鼠啾啾”假装工作遭银行解雇</title>
+      <link>https://www.bbc.com/news/articles/cjll01220yeo</link>
+      <description><![CDATA[BBC富国银行解雇了十多名员工，原因是他们涉嫌模拟键盘活动，使其看起来像是在工作。自疫情时代远程工作增加以来，一些公司已经部署了先进的工具来监控击键和眼球运动、截取屏幕截图和记录网站访问。诸如“鼠标抖动器”之类的技术可以让员工在使用电脑时看起来好像他们正在使用电脑，而实际上并没有使用，从而帮助员工逃避监控。摘自“‘鼠标抖动器’假装工作被银行解雇”
+BBC (06/14/24) Natalie Sherman 查看全文]]></description>
+      <guid>https://www.bbc.com/news/articles/cjll01220yeo</guid>
+      <pubDate>Mon, 17 Jun 2024 18:10:18 GMT</pubDate>
     </item>
     <item>
-      <title>机器人套装帮助用户更轻松、更快地奔跑</title>
-      <link>https://scitechdaily.com/ai-magic-robotic-suits-that-help-you-run-easier-and-faster/</link>
-      <description><![CDATA[SciTechDaily北卡罗来纳州立大学的研究人员利用人工智能和计算机模拟训练机器人外骨骼，使其能够自主帮助佩戴者在行走、跑步和爬楼梯时节省体力。这种新的训练方法让用户可以立即使用外骨骼，而无需长时间的测试和调整。与未佩戴外骨骼的用户相比，研究参与者在佩戴外骨骼时，行走时消耗的代谢能量减少了 24.3%，跑步时减少了 13.1%，爬楼梯时减少了 15.4%。摘自“机器人套装帮助用户更轻松、更快地奔跑”
-SciTechDaily (06/12/24) 查看全文]]></description>
-      <guid>https://scitechdaily.com/ai-magic-robotic-suits-that-help-you-run-easier-and-faster/</guid>
-      <pubDate>Fri, 14 Jun 2024 18:10:44 GMT</pubDate>
+      <title>浸入式冷却使服务器降温</title>
+      <link>https://spectrum.ieee.org/immersion-cooling</link>
+      <description><![CDATA[IEEE Spectrum研究人员正在探索使用浸入式冷却来减少数据中心的能源使用。数据中心公司 Sustainable Metal Cloud 的一个团队开发了一种基于浸入式冷却的系统，该系统使用聚α烯烃（一种常见的汽车润滑剂）。该公司的 HyperCube 系统包括多达 16 个油箱，每个油箱都包含一个服务器，该服务器通过标准互连与其他油箱中的服务器相连，并配有系统级热交换器。与此同时，桑迪亚国家实验室的研究人员正在使用西班牙 Submer Technologies 生产的合成流体测试浸入式冷却。摘自“浸入式冷却将服务器浸入水中以降低功耗”
+IEEE Spectrum (06/13/24) Charles Q. Choi；Dina Genkina 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/immersion-cooling</guid>
+      <pubDate>Mon, 17 Jun 2024 18:10:18 GMT</pubDate>
     </item>
     <item>
-      <title>科技实习机会正在减少</title>
-      <link>https://www.bloomberg.com/news/articles/2024-06-13/looking-for-an-internship-fewer-spots-for-more-applicants-in-cutthroat-year?sref=db2f3qgr</link>
-      <description><![CDATA[彭博社去年 6 月至 5 月，大学生求职平台 Handshake 上列出的实习岗位总数与去年同期相比下降了 7% 以上。这一趋势反映了公司正在采取措施缓和某些行业的入门级招聘，其中包括科技行业。截至 5 月的 12 个月内，Handshake 上列出的实习岗位数量下降了 14%。摘自“科技实习岗位正在枯竭”
-彭博社 (06/13/24) Jo Constantz 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-06-13/looking-for-an-internship-fewer-spots-for-more-applicants-in-cutthroat-year?sref=db2f3qgr</guid>
-      <pubDate>Fri, 14 Jun 2024 18:10:44 GMT</pubDate>
+      <title>佛蒙特州州长否决数据隐私法案</title>
+      <link>https://apnews.com/article/data-privacy-vermont-veto-2ab84d8705fa38cf89c428daa1dbfc54</link>
+      <description><![CDATA[美联社佛蒙特州州长 Phil Scott（如图）否决了一项数据隐私法案，该法案允许居民对违反某些隐私规则的公司提起民事诉讼。Scott 表示，这项立法将使佛蒙特州“成为全国的异类，对许多企业和非营利组织而言，它比其他任何州都更具敌意。”该立法将禁止出售私人敏感数据。它还将限制公司可以收集和使用的个人数据量。摘自“佛蒙特州州长否决数据隐私法案”
+美联社 (06/14/24) Lisa Rathke 查看全文]]></description>
+      <guid>https://apnews.com/article/data-privacy-vermont-veto-2ab84d8705fa38cf89c428daa1dbfc54</guid>
+      <pubDate>Mon, 17 Jun 2024 18:10:17 GMT</pubDate>
     </item>
     <item>
-      <title>巴黎奥运会人群扫描引发人们对人工智能监控的担忧</title>
-      <link>https://www.japantimes.co.jp/news/2024/06/13/world/paris-olympics-ai-surveillance/</link>
-      <description><![CDATA[《日本时报》法国当局计划在巴黎奥运会期间使用人工智能监控系统。该系统已经在火车站、音乐会和体育赛事上进行了测试，并将在 7 月底奥运会开始时由警察、消防和救援部门以及一些法国交通安全人员使用。虽然这些系统将扫描潜在威胁，但它们不能用于步态检测、面部识别和其他用于识别的过程。摘自“巴黎奥运会人群扫描引发人工智能监控恐惧”
-《日本时报》（06/13/24）亚当·斯密 查看全文]]></description>
-      <guid>https://www.japantimes.co.jp/news/2024/06/13/world/paris-olympics-ai-surveillance/</guid>
-      <pubDate>Fri, 14 Jun 2024 18:10:43 GMT</pubDate>
+      <title>阿尔茨海默症患者大脑各层面的变化同时成像</title>
+      <link>https://www.sciencealert.com/amazing-new-technique-images-alzheimers-brain-changes-at-every-level-all-at-once</link>
+      <description><![CDATA[ScienceAlert麻省理工学院的研究人员开发了一个成像平台，可以将大脑的不同功能组件作为一个整体进行查看。该过程分为三个步骤，包括使用精心调节的振动将脑组织切成几部分，将组织切片转化为可膨胀的组织水凝胶以进行高分辨率成像，以及使用计算工具将组织切片“缝合”在一起并映射细胞连接。摘自“阿尔茨海默氏症大脑变化在各个层面同时成像”
+ScienceAlert (06/14/24) Clare Watson 查看全文]]></description>
+      <guid>https://www.sciencealert.com/amazing-new-technique-images-alzheimers-brain-changes-at-every-level-all-at-once</guid>
+      <pubDate>Mon, 17 Jun 2024 18:10:17 GMT</pubDate>
     </item>
     <item>
-      <title>中国无人驾驶汽车测试数量居世界首位</title>
-      <link>https://www.nytimes.com/2024/06/13/business/china-driverless-cars.html</link>
-      <description><![CDATA[《纽约时报》全球最大的无人驾驶汽车试验正在中国武汉的街道上进行，那里有 500 辆出租车由电脑导航，通常没有安全驾驶员作为后备。在中国，至少有 16 个城市允许公司在公共道路上测试无人驾驶汽车，至少有 19 家中国汽车制造商及其供应商正在竞争在该领域建立全球领导地位。摘自“中国测试的无人驾驶汽车比任何其他国家都多”
-《纽约时报》（2024 年 6 月 13 日）Keith Bradsher 查看全文]]></description>
-      <guid>https://www.nytimes.com/2024/06/13/business/china-driverless-cars.html</guid>
-      <pubDate>Fri, 14 Jun 2024 18:10:43 GMT</pubDate>
+      <title>教皇弗朗西斯告诉 G7 人类不能失去对人工智能的控制</title>
+      <link>https://www.reuters.com/world/pope-francis-tells-g7-that-humans-must-not-lose-control-ai-2024-06-14/</link>
+      <description><![CDATA[路透社周五，教皇方济各成为首位在七国集团 (G7) 峰会上发表讲话的教皇，他警告世界各国领导人，绝不能让人工智能凌驾于人类之上。教皇表示，人工智能代表着人类的“划时代变革”，强调需要密切监督这项技术，以保护人类的生命和尊严。摘自“教皇方济各告诉 G7 人类不能失去对人工智能的控制”
+路透社 (06/14/24) Crispian Balmer 查看全文]]></description>
+      <guid>https://www.reuters.com/world/pope-francis-tells-g7-that-humans-must-not-lose-control-ai-2024-06-14/</guid>
+      <pubDate>Mon, 17 Jun 2024 18:10:16 GMT</pubDate>
     </item>
     <item>
-      <title>无私奉献、杰出贡献获ACM表彰</title>
-      <link>https://www.acm.org/media-center/2024/june/service-awards-2023</link>
-      <description><![CDATA[ACM 媒体中心ACM 宣布杜克大学的 Alicia Nicki Washington 和 Shaundra Daily 因开发计算机文化能力研究员计划而获得 Karl V. Karlstrom 杰出教育家奖。弗吉尼亚大学的 Aidong Zhang 获得 ACM 杰出服务奖，而弗吉尼亚大学的 Jack W. Davidson 因对 ACM 出版物计划的贡献而获得 ACM 杰出贡献奖。康奈尔大学的 John M. Abowd 因其在美国人口普查局的数据隐私方面的工作而获得 ACM 政策奖。 Persistent Systems 的 Anand Deshpande 和滑铁卢大学的 M. Tamer Özsu 被提名为 ACM 主席奖的获得者。摘自“无私的服务、杰出贡献获得 ACM 认可”
-ACM 媒体中心 (06/12/24) 查看全文]]></description>
-      <guid>https://www.acm.org/media-center/2024/june/service-awards-2023</guid>
-      <pubDate>Fri, 14 Jun 2024 18:10:42 GMT</pubDate>
+      <title>斯坦福大学顶级虚假信息研究小组在压力之下崩溃</title>
+      <link>https://www.washingtonpost.com/technology/2024/06/14/stanford-internet-observatory-disinformation-research-lawsuits-politics/</link>
+      <description><![CDATA[华盛顿邮报斯坦福互联网观察站已解雇了大部分员工，并可能关闭。由观察站和华盛顿大学团队运营的联盟“选举诚信伙伴关系”旨在实时识别有关选举程序和结果的病毒式虚假信息，该联盟已更新其网页，称其工作已结束。正在进行的诉讼和国会对观察站的调查已使斯坦福大学花费了数百万美元的法律费用。摘自“斯坦福大学顶级虚假信息研究小组在压力下崩溃”
+华盛顿邮报 (06/14/24) Joseph Menn 查看全文]]></description>
+      <guid>https://www.washingtonpost.com/technology/2024/06/14/stanford-internet-observatory-disinformation-research-lawsuits-politics/</guid>
+      <pubDate>Mon, 17 Jun 2024 18:10:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
