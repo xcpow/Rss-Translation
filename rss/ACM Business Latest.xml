@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 20 Jun 2024 12:13:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 15:08:32 GMT</lastBuildDate>
+    <item>
+      <title>我们仍在等待人工智能的下一次重大飞跃</title>
+      <link>https://www.wired.com/story/were-still-waiting-for-the-next-big-leap-in-ai/</link>
+      <description><![CDATA[Anthropic 最新的 Claude AI 模型领先于 OpenAI 和谷歌的竞争对手。但机器智能的进步最近更多的是渐进式的，而不是革命性的。]]></description>
+      <guid>https://www.wired.com/story/were-still-waiting-for-the-next-big-leap-in-ai/</guid>
+      <pubDate>Thu, 20 Jun 2024 14:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>欧洲在人工智能时代争夺地位</title>
       <link>https://www.wired.com/story/europe-scrambles-relevance-ai/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>Adobe 称不会使用艺术家的作品训练 AI。创意人士并不相信</title>
       <link>https://www.wired.com/story/adobe-says-it-wont-train-ai-using-artists-work-creatives-arent-convinced/</link>
-      <description><![CDATA[本月早些时候，一些艺术家认为他们的作品将被用于训练人工智能，对此他们表示强烈反对，Adobe 随后发布了新的措辞来解释如何处理用户内容。]]></description>
+      <description><![CDATA[本月早些时候，一些艺术家认为他们的作品将被用于训练人工智能，对此他们表示强烈反对，Adobe 随后发布了新的措辞来解释如何处理用户的内容。]]></description>
       <guid>https://www.wired.com/story/adobe-says-it-wont-train-ai-using-artists-work-creatives-arent-convinced/</guid>
       <pubDate>Wed, 19 Jun 2024 17:59:56 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>人工智能正在取代大型科技公司的工作——但方式和你想象的不一样</title>
       <link>https://www.wired.com/story/ai-is-coming-for-big-tech-jobs-but-not-in-the-way-you-think/</link>
-      <description><![CDATA[企业尚未用人工智能取代工人。但在技术进一步创新的竞赛中，他们正在牺牲数千个工作岗位。]]></description>
+      <description><![CDATA[公司尚未用人工智能取代工人。但他们在技术进一步创新的竞赛中牺牲了数千个工作岗位。]]></description>
       <guid>https://www.wired.com/story/ai-is-coming-for-big-tech-jobs-but-not-in-the-way-you-think/</guid>
       <pubDate>Mon, 17 Jun 2024 10:00:00 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>无论如何包装，Apple Intelligence 就是 AI</title>
       <link>https://www.wired.com/story/plaintext-apple-intelligence-is-ai/</link>
-      <description><![CDATA[苹果公司急于向我们展示其人工智能方法比竞争对手更安全、更好、更有用。也许这只是幻觉，但它确实有效。]]></description>
+      <description><![CDATA[苹果急于向我们展示其人工智能方法比竞争对手更安全、更好、更有用。也许这只是幻觉，但它确实有效。]]></description>
       <guid>https://www.wired.com/story/plaintext-apple-intelligence-is-ai/</guid>
       <pubDate>Fri, 14 Jun 2024 13:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[其他科技公司也想向你推销聊天机器人。苹果的演示展示了将人工智能视为一种综合的整体体验而非独立的应用或设备的价值。]]></description>
       <guid>https://www.wired.com/story/apple-intelligence-ai-feature-not-product/</guid>
       <pubDate>Thu, 13 Jun 2024 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>出版商瞄准常见爬虫，争夺 AI 训练数据</title>
-      <link>https://www.wired.com/story/the-fight-against-ai-comes-to-a-foundational-data-set/</link>
-      <description><![CDATA[长期运营的非盈利组织 Common Crawl 多年来一直是研究人员的福音。但现在它在 AI 训练数据中的作用引发了出版商的强烈反对。]]></description>
-      <guid>https://www.wired.com/story/the-fight-against-ai-comes-to-a-foundational-data-set/</guid>
-      <pubDate>Thu, 13 Jun 2024 15:21:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
