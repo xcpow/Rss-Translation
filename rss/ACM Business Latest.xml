@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 21 Jun 2024 09:07:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 12:12:52 GMT</lastBuildDate>
+    <item>
+      <title>在智能手机出现之前，有一大群真人帮你在谷歌上找东西</title>
+      <link>https://www.wired.com/story/google-search-118-118-aqa/</link>
+      <description><![CDATA[不久前，GOOG-411、118 118 和 AQA 等服务都使用真人来回答问题，提供诙谐的回答和百科全书式的知识。如今的搜索引擎可以学到一些东西。]]></description>
+      <guid>https://www.wired.com/story/google-search-118-118-aqa/</guid>
+      <pubDate>Fri, 21 Jun 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>我们仍在等待人工智能的下一次重大飞跃</title>
       <link>https://www.wired.com/story/were-still-waiting-for-the-next-big-leap-in-ai/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[特斯拉股东对伊隆·马斯克领导能力的支持后，他将获得 500 亿美元。]]></description>
       <guid>https://www.wired.com/story/elon-musk-pay-package-approved-tesla-shareholders/</guid>
       <pubDate>Thu, 13 Jun 2024 21:09:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果证明人工智能是一种功能，而不是产品</title>
-      <link>https://www.wired.com/story/apple-intelligence-ai-feature-not-product/</link>
-      <description><![CDATA[其他科技公司也想向你推销聊天机器人。苹果的演示展示了将人工智能视为一种综合的整体体验而非独立的应用或设备的价值。]]></description>
-      <guid>https://www.wired.com/story/apple-intelligence-ai-feature-not-product/</guid>
-      <pubDate>Thu, 13 Jun 2024 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
