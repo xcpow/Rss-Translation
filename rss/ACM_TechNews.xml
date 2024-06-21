@@ -4,102 +4,110 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Mon, 17 Jun 2024 18:10:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 18:10:44 GMT</lastBuildDate>
     <item>
-      <title>从可穿戴设备到可吞咽设备</title>
-      <link>https://viterbischool.usc.edu/news/2024/06/from-wearables-to-swallowables-usc-engineering-researchers-create-gps-like-smart-pills-with-ai/</link>
-      <description><![CDATA[南加州大学维特比工程学院南加州大学的研究人员开发出可摄入的传感器，可以检测与胃炎和胃癌相关的胃气体，并实现实时位置跟踪。他们还开发了一种可穿戴系统，通过在 T 恤上产生磁场的线圈来跟踪智能药丸。该磁场与经过训练的神经网络相结合，可以跟踪体内的胶囊。摘自“从可穿戴设备到可吞咽设备”
-南加州大学维特比工程学院 (06/12/24) Amy Blumenthal 查看全文]]></description>
-      <guid>https://viterbischool.usc.edu/news/2024/06/from-wearables-to-swallowables-usc-engineering-researchers-create-gps-like-smart-pills-with-ai/</guid>
-      <pubDate>Mon, 17 Jun 2024 18:10:21 GMT</pubDate>
+      <title>麦当劳与 IBM 终止 AI 驱动的免下车取餐服务测试</title>
+      <link>https://apnews.com/article/mcdonalds-ai-drive-thru-ibm-bebc898363f2d550e1a0cd3c682fa234</link>
+      <description><![CDATA[美联社麦当劳表示，其与 IBM 的全球合作关系已经结束。此前，该公司在某些免下车取餐通道测试了一款人工智能点餐系统。消息人士称，这款人工智能点餐助手面临着影响点餐准确性的挑战，例如难以理解不同的口音和方言。麦当劳在一份事先准备好的声明中表示：“与 IBM 的合作让我们有信心，免下车取餐语音点餐解决方案将成为我们餐厅的一部分。”未来。”摘自“麦当劳与 IBM 结束 AI 驱动的免下车取餐服务测试”
+美联社 (06/18/24) Wyatte Grantham-Philips 查看全文]]></description>
+      <guid>https://apnews.com/article/mcdonalds-ai-drive-thru-ibm-bebc898363f2d550e1a0cd3c682fa234</guid>
+      <pubDate>Fri, 21 Jun 2024 18:10:44 GMT</pubDate>
     </item>
     <item>
-      <title>微软的纳德拉正在打造人工智能帝国</title>
-      <link>https://www.wsj.com/tech/ai/microsoft-nadella-openai-inflection-9727e77a</link>
-      <description><![CDATA[华尔街日报微软与 ChatGPT 创始人 OpenAI 的合作只是这家科技巨头成为 AI 强国战略的开始。微软首席执行官萨蒂亚·纳德拉 (Satya Nadella) 此后开始积极收购 AI 人才、工具和技术。纳德拉聘请了 DeepMind 和 Inflection AI 联合创始人穆斯塔法·苏莱曼 (Mustafa Suleyman) 来领导微软的 AI 工作。苏莱曼的 Inflection 团队的大部分成员也加入了微软，这家初创公司的技术被用于开发内部 AI 模型，以与 OpenAI 相媲美。摘自“微软的纳德拉打造 AI 帝国”
-华尔街日报 (06/12/24) Tom Dotan； Berber Jin 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/tech/ai/microsoft-nadella-openai-inflection-9727e77a</guid>
-      <pubDate>Mon, 17 Jun 2024 18:10:21 GMT</pubDate>
+      <title>麻省理工学院资深教授、多产计算机科学家去世，享年 77 岁</title>
+      <link>https://news.mit.edu/2024/computer-science-professor-arvind-dies-0618</link>
+      <description><![CDATA[MIT 新闻ACM 院士 Arvind Mithal，麻省理工学院 (MIT) 计算机科学与工程系 Charles W. 和 Jennifer C. Johnson 教授，于 6 月 17 日去世，享年 77 岁。Arvind 以其在数据流计算和并行计算方面的工作而闻名，他领导了并行计算语言 Id 和 pH 的开发。2000 年，他创立了无晶圆厂半导体制造商 Sandburst，后来被 Broadcom 收购。Arvind 与他的麻省理工学院学生一起开发了 Bluespec 编程语言，旨在实现芯片设计过程的自动化。摘自“长期担任麻省理工学院教授、多产计算机科学家去世，享年 77 岁”
+MIT 新闻 (06/18/24) Adam Zewe 查看全文]]></description>
+      <guid>https://news.mit.edu/2024/computer-science-professor-arvind-dies-0618</guid>
+      <pubDate>Fri, 21 Jun 2024 18:10:43 GMT</pubDate>
     </item>
     <item>
-      <title>AI Steve 可以当总理吗？</title>
-      <link>https://www.euronews.com/next/2024/06/13/meet-ai-steve-the-uks-avatar-election-candidate</link>
-      <description><![CDATA[Euronews英国企业家 Steve Endacott 创建了一个 AI 化身，以竞选下议院布莱顿帕维利恩选区的国会大臣 (MP)。AI Steve 的竞选网站正在寻找“创造者”来帮助制定新政策；网站访问者可以点击“与 AI Steve 对话”与机器人互动。如果当选，Endacott 将亲自出席议会，根据 AI 平台收集的反馈对政策进行投票。摘自“AI Steve 担任首相？”
-Euronews (06/13/24) Anna Desmarais 查看全文]]></description>
-      <guid>https://www.euronews.com/next/2024/06/13/meet-ai-steve-the-uks-avatar-election-candidate</guid>
-      <pubDate>Mon, 17 Jun 2024 18:10:20 GMT</pubDate>
+      <title>ChatGPT 为 89 岁的应用开发人员提供指导</title>
+      <link>https://japantoday.com/category/features/lifestyle/chatgpt-a-mentor-for-japan's-89-year-old-app-developer</link>
+      <description><![CDATA[日本今日89 岁的 Tomiji Suzuki（如图）退休后开始编写代码，现在正在为日本老年人群体开发应用程序，并使用 ChatGPT 来微调他的技能。到目前为止，Suzuki 已经开发了 11 款免费的 iPhone 应用程序，其中包括一个幻灯片，展示出离开家时要记住的物品。为了帮助他制作 4 月份发布的应用程序“外出准备语音幻灯片”，Suzuki 向 ChatGPT 询问了大约 1,000 个与编码相关的问题。摘自“ChatGPT 指导 89 岁的应用程序开发人员”
+日本今日 (06/17/24) Kyoko Hasegawa 查看全文]]></description>
+      <guid>https://japantoday.com/category/features/lifestyle/chatgpt-a-mentor-for-japan's-89-year-old-app-developer</guid>
+      <pubDate>Fri, 21 Jun 2024 18:10:43 GMT</pubDate>
     </item>
     <item>
-      <title>美国宇航局用激光将 500 张宠物照片发射到太空</title>
-      <link>https://www.forbes.com/sites/jamiecartereurope/2024/06/12/why-did-nasa-just-beam-500-photos-of-pets-into-space-using-lasers/</link>
-      <description><![CDATA[福布斯NASA 最近测试了一种新的双向端到端激光中继系统，该系统在地球和国际空间站 (ISS) 之间运行，以每秒 1.2 千兆比特的速度向太空传输了 500 多张 NASA 员工所养宠物的图片。这些数据从位于新墨西哥州拉斯克鲁塞斯任务运营中心的计算机发送到加利福尼亚州和夏威夷的光学地面站。随后，这些数据被转换成红外光信号，然后被发送到 NASA 的激光通信中继演示卫星，再发送到国际空间站外部的仪器。摘自“NASA 用激光将 500 张宠物照片发射到太空”
-福布斯 (06/12/24) Jamie Carter 查看全文]]></description>
-      <guid>https://www.forbes.com/sites/jamiecartereurope/2024/06/12/why-did-nasa-just-beam-500-photos-of-pets-into-space-using-lasers/</guid>
-      <pubDate>Mon, 17 Jun 2024 18:10:20 GMT</pubDate>
+      <title>肯尼亚人因害虫检测创新技术获 810 万先令奖金</title>
+      <link>https://nation.africa/kenya/news/kenyan-wins-sh8-1-million-for-her-pest-detecting-innovation-4657966</link>
+      <description><![CDATA[《每日民族报》（肯尼亚）Esther Kimani（如图）曾在肯尼亚埃尔多雷茨大学学习计算机科学，她是获得英国皇家工程院非洲工程创新奖的第三位非洲女性、第二位肯尼亚女性。她获得了非洲奖有史以来最大的一笔奖金，即 810 万肯尼亚先令（约 63,000 美元），用于进一步开发一种太阳能设备，该设备利用人工智能和机器学习来检测和识别农业病虫害，向农民发送实时警报，建议采取定制干预措施，并通知政府农业官员。摘自“肯尼亚因害虫检测创新赢得 810 万肯尼亚先令”
+《每日国家报》（肯尼亚）（2024 年 6 月 15 日） Fridah Okachi 查看全文]]></description>
+      <guid>https://nation.africa/kenya/news/kenyan-wins-sh8-1-million-for-her-pest-detecting-innovation-4657966</guid>
+      <pubDate>Fri, 21 Jun 2024 18:10:43 GMT</pubDate>
     </item>
     <item>
-      <title>网络攻击摧毁研究机构</title>
-      <link>https://www.nature.com/articles/d41586-024-01711-3</link>
-      <description><![CDATA[自然黑客越来越多地将研究机构作为网络攻击的目标。这些网络攻击大多涉及勒索软件，阻止访问数据和程序，影响学生入学，延迟研究项目，并损害研究人员的心理健康。近年来，受影响的机构包括德国柏林自然历史博物馆、英国大英图书馆、曼彻斯特大学、卡内基梅隆大学和斯坦福大学。摘自“网络攻击摧毁研究机构”
-《自然》（2024 年 6 月 13 日）Diana Kwon 查看全文]]></description>
-      <guid>https://www.nature.com/articles/d41586-024-01711-3</guid>
-      <pubDate>Mon, 17 Jun 2024 18:10:19 GMT</pubDate>
+      <title>自动驾驶汽车擅长直线行驶</title>
+      <link>https://spectrum.ieee.org/autonomous-vehicles-great-at-straights</link>
+      <description><![CDATA[IEEE Spectrum中佛罗里达大学的研究人员发现，与人类驾驶的车辆相比，先进的自动驾驶汽车 (AV) 发生中度伤害事故的可能性降低了 35%，发生致命事故的可能性降低了 90%。另一方面，他们的研究还发现，自动驾驶汽车在黎明和黄昏发生事故的可能性是人类驾驶员的五倍多，在转弯时发生事故的风险几乎是人类驾驶员的两倍。摘自“自动驾驶汽车擅长直线行驶”
+IEEE Spectrum (06/18/24) Matthew S. Smith 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/autonomous-vehicles-great-at-straights</guid>
+      <pubDate>Fri, 21 Jun 2024 18:10:42 GMT</pubDate>
     </item>
     <item>
-      <title>面部识别初创公司提供股权以解决隐私诉讼</title>
-      <link>https://www.nytimes.com/2024/06/13/business/clearview-ai-facial-recognition-settlement.html</link>
-      <description><![CDATA[《纽约时报》Clearview AI 已同意解决一项集体诉讼，向其数据库中的美国人提供这家面部识别初创公司 23% 的股份，价值约 5200 万美元。集体诉讼指控该公司侵犯隐私，从网络和社交媒体网站上抓取了数十亿张照片，以开发一款面部识别应用程序，目前该应用程序被警察局、美国国土安全部和联邦调查局使用。法庭文件显示，该公司很可能会在案件开庭审理之前破产，因此必须选择和解方案，但和解方案仍需法院批准。摘自“面部识别初创公司提供股份以解决隐私诉讼”
-纽约时报 (06/13/24) 克什米尔山 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/06/13/business/clearview-ai-facial-recognition-settlement.html</guid>
-      <pubDate>Mon, 17 Jun 2024 18:10:19 GMT</pubDate>
+      <title>“人工智能教父”诞生</title>
+      <link>https://fortune.com/europe/2024/06/18/godfather-ai-geoffrey-hinton-quit-google-year-ago-emerged-stealth-back-startup-cuspai-ai-carbon-capture/</link>
+      <description><![CDATA[《财富》2018 年 ACM A.M. 图灵奖获得者、“人工智能教父”杰弗里·辛顿在离开谷歌一年多后将担任 CuspAI 董事会顾问。辛顿说：“我对 CuspAI 及其利用人工智能加速新材料设计过程以遏制人类最紧迫的挑战之一——气候变化的使命印象深刻。” Meta 的 Yann LeCun 与 Hinton 和 Yoshua Bengio 共同获得了 2018 年图灵奖，他表示 Meta 将与 CuspAI 合作，加速发现用于碳捕获的新材料。摘自“‘人工智能教父’出现”
+财富 (06/18/24) Ryan Hogg 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://fortune.com/europe/2024/06/18/godfather-ai-geoffrey-hinton-quit-google-year-ago-emerged-stealth-back-startup-cuspai-ai-carbon-capture/</guid>
+      <pubDate>Fri, 21 Jun 2024 18:10:42 GMT</pubDate>
     </item>
     <item>
-      <title>“老鼠啾啾”假装工作遭银行解雇</title>
-      <link>https://www.bbc.com/news/articles/cjll01220yeo</link>
-      <description><![CDATA[BBC富国银行解雇了十多名员工，原因是他们涉嫌模拟键盘活动，使其看起来像是在工作。自疫情时代远程工作增加以来，一些公司已经部署了先进的工具来监控击键和眼球运动、截取屏幕截图和记录网站访问。诸如“鼠标抖动器”之类的技术可以让员工在使用电脑时看起来好像他们正在使用电脑，而实际上并没有使用，从而帮助员工逃避监控。摘自“‘鼠标抖动器’假装工作被银行解雇”
-BBC (06/14/24) Natalie Sherman 查看全文]]></description>
-      <guid>https://www.bbc.com/news/articles/cjll01220yeo</guid>
-      <pubDate>Mon, 17 Jun 2024 18:10:18 GMT</pubDate>
+      <title>CD-ROM 的短暂而快乐的时代</title>
+      <link>https://www.fastcompany.com/91128052/history-of-cd-roms-encarta-myst</link>
+      <description><![CDATA[《Fast Company》今年是 CD-ROM 巅峰时期的 30 周年。研究公司 Dataquest 和 Link Resources 报告称，1994 年 CD-ROM 驱动器销量为 1750 万张，价值 5.9 亿美元。尽管当时 CD-ROM 已经上市约十年，但随着 Microsoft Windows 操作系统的出现，它们开始流行起来，并具有更好的图形和音频效果。CD-ROM 最终可以存储高达 680 MB 的数据。摘自“CD-ROM 的短暂而快乐的统治”
+《Fast Company》 (06/17/24) Harry McCracken 查看全文]]></description>
+      <guid>https://www.fastcompany.com/91128052/history-of-cd-roms-encarta-myst</guid>
+      <pubDate>Fri, 21 Jun 2024 18:10:41 GMT</pubDate>
     </item>
     <item>
-      <title>浸入式冷却使服务器降温</title>
-      <link>https://spectrum.ieee.org/immersion-cooling</link>
-      <description><![CDATA[IEEE Spectrum研究人员正在探索使用浸入式冷却来减少数据中心的能源使用。数据中心公司 Sustainable Metal Cloud 的一个团队开发了一种基于浸入式冷却的系统，该系统使用聚α烯烃（一种常见的汽车润滑剂）。该公司的 HyperCube 系统包括多达 16 个油箱，每个油箱都包含一个服务器，该服务器通过标准互连与其他油箱中的服务器相连，并配有系统级热交换器。与此同时，桑迪亚国家实验室的研究人员正在使用西班牙 Submer Technologies 生产的合成流体测试浸入式冷却。摘自“浸入式冷却将服务器浸入水中以降低功耗”
-IEEE Spectrum (06/13/24) Charles Q. Choi；Dina Genkina 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/immersion-cooling</guid>
-      <pubDate>Mon, 17 Jun 2024 18:10:18 GMT</pubDate>
+      <title>YouTube 的算法更有可能推荐右翼、宗教内容</title>
+      <link>https://www.nbcnews.com/tech/tech-news/youtubes-algorithm-recommends-users-right-wing-religious-content-resea-rcna155478</link>
+      <description><![CDATA[CNBC战略对话研究所的研究人员发现，YouTube 的算法比其他算法更有可能向用户推荐右翼和基督教视频。研究人员发现，对男性生活方式视频感兴趣的儿童和成人账户都被推荐观看福克斯新闻内容，尽管他们从未看过该频道。两个妈妈视频博主账户，一个看过福克斯新闻，另一个看过 MSNBC，都被推荐观看福克斯新闻，以及带有圣经经文的视频，尽管他们从未看过宗教内容。摘自“YouTube 的算法更有可能推荐右翼、宗教内容”
+CNBC (06/18/24) Victoria Feng 查看全文]]></description>
+      <guid>https://www.nbcnews.com/tech/tech-news/youtubes-algorithm-recommends-users-right-wing-religious-content-resea-rcna155478</guid>
+      <pubDate>Fri, 21 Jun 2024 18:10:41 GMT</pubDate>
     </item>
     <item>
-      <title>佛蒙特州州长否决数据隐私法案</title>
-      <link>https://apnews.com/article/data-privacy-vermont-veto-2ab84d8705fa38cf89c428daa1dbfc54</link>
-      <description><![CDATA[美联社佛蒙特州州长 Phil Scott（如图）否决了一项数据隐私法案，该法案允许居民对违反某些隐私规则的公司提起民事诉讼。Scott 表示，这项立法将使佛蒙特州“成为全国的异类，对许多企业和非营利组织而言，它比其他任何州都更具敌意。”该立法将禁止出售私人敏感数据。它还将限制公司可以收集和使用的个人数据量。摘自“佛蒙特州州长否决数据隐私法案”
-美联社 (06/14/24) Lisa Rathke 查看全文]]></description>
-      <guid>https://apnews.com/article/data-privacy-vermont-veto-2ab84d8705fa38cf89c428daa1dbfc54</guid>
-      <pubDate>Mon, 17 Jun 2024 18:10:17 GMT</pubDate>
+      <title>官员质疑是否有死亡事件与英国医院黑客攻击直接相关</title>
+      <link>https://www.bloomberg.com/news/newsletters/2024-06-19/officials-query-if-any-deaths-directly-linked-to-uk-hospital-hack</link>
+      <description><![CDATA[彭博社6 月 3 日，英国实验室服务提供商 Synnovis 遭受勒索软件攻击，导致伦敦的医院和诊所严重中断，医疗服务提供商被要求报告与该事件相关的任何死亡或严重伤害。网络攻击导致 800 例计划手术和 700 例门诊预约被推迟，血液短缺，病理服务中断。许多服务尚未恢复。摘自“官员询问是否有任何死亡事件与英国医院黑客攻击直接相关”
+彭博社 (06/19/24) Ryan Gallagher 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.bloomberg.com/news/newsletters/2024-06-19/officials-query-if-any-deaths-directly-linked-to-uk-hospital-hack</guid>
+      <pubDate>Fri, 21 Jun 2024 18:10:40 GMT</pubDate>
     </item>
     <item>
-      <title>阿尔茨海默症患者大脑各层面的变化同时成像</title>
-      <link>https://www.sciencealert.com/amazing-new-technique-images-alzheimers-brain-changes-at-every-level-all-at-once</link>
-      <description><![CDATA[ScienceAlert麻省理工学院的研究人员开发了一个成像平台，可以将大脑的不同功能组件作为一个整体进行查看。该过程分为三个步骤，包括使用精心调节的振动将脑组织切成几部分，将组织切片转化为可膨胀的组织水凝胶以进行高分辨率成像，以及使用计算工具将组织切片“缝合”在一起并映射细胞连接。摘自“阿尔茨海默氏症大脑变化在各个层面同时成像”
-ScienceAlert (06/14/24) Clare Watson 查看全文]]></description>
-      <guid>https://www.sciencealert.com/amazing-new-technique-images-alzheimers-brain-changes-at-every-level-all-at-once</guid>
-      <pubDate>Mon, 17 Jun 2024 18:10:17 GMT</pubDate>
+      <title>截至目前，2024 年科技行业裁员将影响近 10 万名员工</title>
+      <link>https://www.cfodive.com/news/tech-layoffs-total-nearly-100k-2024/719203/</link>
+      <description><![CDATA[CFO Dive根据 layoffs.fyi 统计的数据，截至 2024 年，科技行业宣布的裁员人数已接近 100,000 人。自今年年初以来，已有 300 多家科技公司宣布裁员，其中包括苹果、谷歌和微软。裁员反映出一种趋势，这种趋势部分反映了一些科技巨头在疫情期间信息技术产品需求增加的情况下过度招聘后为提高效率而做出的努力。摘自“2024 年迄今为止，科技裁员影响近 10 万名员工”
+CFO Dive (06/18/24) Alexei Alexis 查看全文]]></description>
+      <guid>https://www.cfodive.com/news/tech-layoffs-total-nearly-100k-2024/719203/</guid>
+      <pubDate>Fri, 21 Jun 2024 18:10:40 GMT</pubDate>
     </item>
     <item>
-      <title>教皇弗朗西斯告诉 G7 人类不能失去对人工智能的控制</title>
-      <link>https://www.reuters.com/world/pope-francis-tells-g7-that-humans-must-not-lose-control-ai-2024-06-14/</link>
-      <description><![CDATA[路透社周五，教皇方济各成为首位在七国集团 (G7) 峰会上发表讲话的教皇，他警告世界各国领导人，绝不能让人工智能凌驾于人类之上。教皇表示，人工智能代表着人类的“划时代变革”，强调需要密切监督这项技术，以保护人类的生命和尊严。摘自“教皇方济各告诉 G7 人类不能失去对人工智能的控制”
-路透社 (06/14/24) Crispian Balmer 查看全文]]></description>
-      <guid>https://www.reuters.com/world/pope-francis-tells-g7-that-humans-must-not-lose-control-ai-2024-06-14/</guid>
-      <pubDate>Mon, 17 Jun 2024 18:10:16 GMT</pubDate>
+      <title>美国因与俄罗斯关系密切禁止销售卡巴斯基软件</title>
+      <link>https://www.reuters.com/technology/biden-ban-us-sales-kaspersky-software-over-ties-russia-source-says-2024-06-20/</link>
+      <description><![CDATA[路透社美国周四宣布，计划禁止在美国销售俄罗斯卡巴斯基实验室生产的杀毒软件。美国商务部长吉娜·雷蒙多表示：“俄罗斯已经表明，它有能力、也有意图利用卡巴斯基等俄罗斯公司收集美国人的个人信息并将其武器化，这就是我们被迫采取行动的原因。”新限制将于 9 月 29 日生效。摘自“美国因与俄罗斯关系禁止销售卡巴斯基软件”
+路透社 (06/21/24) Alexandra Alper 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/biden-ban-us-sales-kaspersky-software-over-ties-russia-source-says-2024-06-20/</guid>
+      <pubDate>Fri, 21 Jun 2024 18:10:39 GMT</pubDate>
     </item>
     <item>
-      <title>斯坦福大学顶级虚假信息研究小组在压力之下崩溃</title>
-      <link>https://www.washingtonpost.com/technology/2024/06/14/stanford-internet-observatory-disinformation-research-lawsuits-politics/</link>
-      <description><![CDATA[华盛顿邮报斯坦福互联网观察站已解雇了大部分员工，并可能关闭。由观察站和华盛顿大学团队运营的联盟“选举诚信伙伴关系”旨在实时识别有关选举程序和结果的病毒式虚假信息，该联盟已更新其网页，称其工作已结束。正在进行的诉讼和国会对观察站的调查已使斯坦福大学花费了数百万美元的法律费用。摘自“斯坦福大学顶级虚假信息研究小组在压力下崩溃”
-华盛顿邮报 (06/14/24) Joseph Menn 查看全文]]></description>
-      <guid>https://www.washingtonpost.com/technology/2024/06/14/stanford-internet-observatory-disinformation-research-lawsuits-politics/</guid>
-      <pubDate>Mon, 17 Jun 2024 18:10:16 GMT</pubDate>
+      <title>配备人工智能的水下无人机帮助美国海军扫描威胁</title>
+      <link>https://www.bloomberg.com/news/articles/2024-06-17/ai-equipped-underwater-drones-helping-us-navy-scan-for-threats</link>
+      <description><![CDATA[彭博社美国海军正在加强部署配备人工智能的水下无人机，这种无人机依靠声纳传感器探测物体并在测试成功后在海洋中航行。五角大楼国防创新部门的海军服务负责人亚历克斯·坎贝尔 (Alex Campbell) 表示，该部门的努力已将搜索海底水雷所需的时间缩短了一半。人工智能模型解析水下无人机拍摄的画面，例如区分鱼笼和爆炸物。摘自“配备人工智能的水下无人机帮助美国海军扫描威胁”
+彭博社 (06/17/24) Charles Gorrivan 查看全文]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-06-17/ai-equipped-underwater-drones-helping-us-navy-scan-for-threats</guid>
+      <pubDate>Fri, 21 Jun 2024 18:10:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>ACM 表彰解决实际问题的创新者</title>
+      <link>https://www.acm.org/media-center/2024/june/technical-awards-2023</link>
+      <description><![CDATA[ACM 媒体中心卡内基梅隆大学的 Guy E. Blelloch、马里兰大学的 Laxman Dhulipala 和麻省理工学院的 Julian Shun 因其在算法工程方面的工作而荣获 ACM 巴黎 Kanellakis 理论与实践奖。普林斯顿大学的 Prateek Mittal 因其在互联网隐私和安全方面的工作而荣获 2023 年 ACM Grace Murray Hopper 奖。荷兰自由大学的 Andrew S. Tanenbaum 因其 1987 年开发 MINIX 及其对操作系统的贡献而荣获 ACM 软件系统奖。哥伦比亚大学的 David Blei 因其在机器学习、信息检索和统计学方面的工作而获得 ACM - AAAI Allen Newell 奖。摘自“ACM 表彰解决现实问题的创新者”
+ACM 媒体中心 (06/18/24) 查看全文]]></description>
+      <guid>https://www.acm.org/media-center/2024/june/technical-awards-2023</guid>
+      <pubDate>Fri, 21 Jun 2024 18:10:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
