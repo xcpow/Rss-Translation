@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 21 Jun 2024 12:12:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 15:12:22 GMT</lastBuildDate>
+    <item>
+      <title>我的记忆现在只是 Meta 的训练数据</title>
+      <link>https://www.wired.com/story/my-memories-are-just-meta-training-data-now/</link>
+      <description><![CDATA[Meta 计划使用 Facebook 和 Instagram 用户发布的个人内容来训练算法，这表明我们的数字历史正在被重新包装，以教会人工智能了解人类以及如何模仿人类。]]></description>
+      <guid>https://www.wired.com/story/my-memories-are-just-meta-training-data-now/</guid>
+      <pubDate>Fri, 21 Jun 2024 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>在智能手机出现之前，有一大群真人帮你在谷歌上找东西</title>
       <link>https://www.wired.com/story/google-search-118-118-aqa/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>Adobe 称不会使用艺术家的作品训练 AI。创意人士并不相信</title>
       <link>https://www.wired.com/story/adobe-says-it-wont-train-ai-using-artists-work-creatives-arent-convinced/</link>
-      <description><![CDATA[本月早些时候，一些艺术家认为他们的作品将被用于训练人工智能，对此他们表示强烈反对，Adobe 随后发布了新的措辞来解释如何处理用户内容。]]></description>
+      <description><![CDATA[本月早些时候，一些艺术家认为他们的作品将被用于训练人工智能，对此他们表示强烈反对，Adobe 随后发布了新的措辞来解释如何处理用户的内容。]]></description>
       <guid>https://www.wired.com/story/adobe-says-it-wont-train-ai-using-artists-work-creatives-arent-convinced/</guid>
       <pubDate>Wed, 19 Jun 2024 17:59:56 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>Orkut 创始人仍在梦想社交媒体乌托邦</title>
       <link>https://www.wired.com/story/orkut-founder-social-media-utopia/</link>
-      <description><![CDATA[2000 年代中期，谷歌工程师 Orkut Büyükkökten 的同名社交网络曾一度风靡全球，但很快便销声匿迹。如今，他又回来了，带着一个让社交媒体更快乐的计划。]]></description>
+      <description><![CDATA[2000 年代中期，谷歌工程师 Orkut Büyükkökten 的同名社交网络曾一度风靡全球，但很快便销声匿迹。如今他又回来了，带着一个让社交媒体更快乐的计划。]]></description>
       <guid>https://www.wired.com/story/orkut-founder-social-media-utopia/</guid>
       <pubDate>Mon, 17 Jun 2024 12:00:00 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>人工智能正在取代大型科技公司的工作——但方式和你想象的不一样</title>
       <link>https://www.wired.com/story/ai-is-coming-for-big-tech-jobs-but-not-in-the-way-you-think/</link>
-      <description><![CDATA[企业尚未用人工智能取代工人。但在技术进一步创新的竞赛中，他们正在牺牲数千个工作岗位。]]></description>
+      <description><![CDATA[公司尚未用人工智能取代工人。但他们在技术进一步创新的竞赛中牺牲了数千个工作岗位。]]></description>
       <guid>https://www.wired.com/story/ai-is-coming-for-big-tech-jobs-but-not-in-the-way-you-think/</guid>
       <pubDate>Mon, 17 Jun 2024 10:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[微软和谷歌正在将广告引入其 AI 搜索体验。但用户并不总是觉得它有用。]]></description>
       <guid>https://www.wired.com/story/as-google-ai-overview-targets-advertisers-it-could-learn-a-lot-from-bing/</guid>
       <pubDate>Fri, 14 Jun 2024 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉股东批准伊隆·马斯克的巨额薪酬</title>
-      <link>https://www.wired.com/story/elon-musk-pay-package-approved-tesla-shareholders/</link>
-      <description><![CDATA[特斯拉股东对伊隆·马斯克领导能力的支持后，他将获得 500 亿美元。]]></description>
-      <guid>https://www.wired.com/story/elon-musk-pay-package-approved-tesla-shareholders/</guid>
-      <pubDate>Thu, 13 Jun 2024 21:09:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
