@@ -4,110 +4,102 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Fri, 21 Jun 2024 18:10:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 15:08:13 GMT</lastBuildDate>
     <item>
-      <title>麦当劳与 IBM 终止 AI 驱动的免下车取餐服务测试</title>
-      <link>https://apnews.com/article/mcdonalds-ai-drive-thru-ibm-bebc898363f2d550e1a0cd3c682fa234</link>
-      <description><![CDATA[美联社麦当劳表示，其与 IBM 的全球合作关系已经结束。此前，该公司在某些免下车取餐通道测试了一款人工智能点餐系统。消息人士称，这款人工智能点餐助手面临着影响点餐准确性的挑战，例如难以理解不同的口音和方言。麦当劳在一份事先准备好的声明中表示：“与 IBM 的合作让我们有信心，免下车取餐语音点餐解决方案将成为我们餐厅的一部分。”未来。”摘自“麦当劳与 IBM 结束 AI 驱动的免下车取餐服务测试”
-美联社 (06/18/24) Wyatte Grantham-Philips 查看全文]]></description>
-      <guid>https://apnews.com/article/mcdonalds-ai-drive-thru-ibm-bebc898363f2d550e1a0cd3c682fa234</guid>
-      <pubDate>Fri, 21 Jun 2024 18:10:44 GMT</pubDate>
+      <title>量子计算机有助于理解磁铁</title>
+      <link>https://www.newscientist.com/article/2435816-googles-new-quantum-computer-may-help-us-understand-how-magnets-work/</link>
+      <description><![CDATA[新科学家谷歌研究人员开发了一种新型量子计算机，它结合了数字和模拟量子计算机的特点。他们使用数字量子计算机的量子比特来模拟二维 (2D) 磁体，通过同时操作所有量子比特来模拟真实世界的磁体，而不是让它们逐个执行逻辑运算。摘自“量子计算机有助于理解磁体”
+新科学家 (06/17/24) Alex Wilkins 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.newscientist.com/article/2435816-googles-new-quantum-computer-may-help-us-understand-how-magnets-work/</guid>
+      <pubDate>Mon, 24 Jun 2024 15:08:13 GMT</pubDate>
     </item>
     <item>
-      <title>麻省理工学院资深教授、多产计算机科学家去世，享年 77 岁</title>
-      <link>https://news.mit.edu/2024/computer-science-professor-arvind-dies-0618</link>
-      <description><![CDATA[MIT 新闻ACM 院士 Arvind Mithal，麻省理工学院 (MIT) 计算机科学与工程系 Charles W. 和 Jennifer C. Johnson 教授，于 6 月 17 日去世，享年 77 岁。Arvind 以其在数据流计算和并行计算方面的工作而闻名，他领导了并行计算语言 Id 和 pH 的开发。2000 年，他创立了无晶圆厂半导体制造商 Sandburst，后来被 Broadcom 收购。Arvind 与他的麻省理工学院学生一起开发了 Bluespec 编程语言，旨在实现芯片设计过程的自动化。摘自“长期担任麻省理工学院教授、多产计算机科学家去世，享年 77 岁”
-MIT 新闻 (06/18/24) Adam Zewe 查看全文]]></description>
-      <guid>https://news.mit.edu/2024/computer-science-professor-arvind-dies-0618</guid>
-      <pubDate>Fri, 21 Jun 2024 18:10:43 GMT</pubDate>
+      <title>人工智能正在彻底改变药物研发</title>
+      <link>https://www.nytimes.com/2024/06/17/business/ai-drugs-development-terray.html</link>
+      <description><![CDATA[《纽约时报》初创公司越来越多地利用人工智能进行药物发现和开发，这些模型可以根据在训练它们所依据的专门数据中检测到的模式识别潜在的候选药物。人工智能设计的药物分子被转化为物理分子，测试其与目标蛋白的相互作用，人工智能模型使用结果来改进其下一个设计。许多公司已经建立了自动化实验室来生成数据来训练此类人工智能模型。摘自“人工智能正在彻底改变药物开发”
+《纽约时报》（2024 年 6 月 17 日）史蒂夫·洛尔 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/06/17/business/ai-drugs-development-terray.html</guid>
+      <pubDate>Mon, 24 Jun 2024 15:08:13 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 为 89 岁的应用开发人员提供指导</title>
-      <link>https://japantoday.com/category/features/lifestyle/chatgpt-a-mentor-for-japan's-89-year-old-app-developer</link>
-      <description><![CDATA[日本今日89 岁的 Tomiji Suzuki（如图）退休后开始编写代码，现在正在为日本老年人群体开发应用程序，并使用 ChatGPT 来微调他的技能。到目前为止，Suzuki 已经开发了 11 款免费的 iPhone 应用程序，其中包括一个幻灯片，展示出离开家时要记住的物品。为了帮助他制作 4 月份发布的应用程序“外出准备语音幻灯片”，Suzuki 向 ChatGPT 询问了大约 1,000 个与编码相关的问题。摘自“ChatGPT 指导 89 岁的应用程序开发人员”
-日本今日 (06/17/24) Kyoko Hasegawa 查看全文]]></description>
-      <guid>https://japantoday.com/category/features/lifestyle/chatgpt-a-mentor-for-japan's-89-year-old-app-developer</guid>
-      <pubDate>Fri, 21 Jun 2024 18:10:43 GMT</pubDate>
+      <title>面部识别公司进军拉丁美洲</title>
+      <link>https://time.com/6988684/clearview-ai-latin-america/</link>
+      <description><![CDATA[《时代》杂志Clearview AI 备受争议的面部识别技术已扩展到拉丁美洲，执法官员、调查人员和检察官最近进行的一次审判导致约六个国家的未成年人获救。在调查网络儿童剥削案件时，该工具用于分析 2,198 张图片和 995 个视频，在三天内识别出 29 名罪犯和 110 名受害者。截至 6 月 13 日，这项努力至少拯救了 51 名受害者。摘自“面部识别公司进军拉丁美洲”
+《时代》杂志 (06/18/24) Vera Bergengruen 查看全文]]></description>
+      <guid>https://time.com/6988684/clearview-ai-latin-america/</guid>
+      <pubDate>Mon, 24 Jun 2024 15:08:12 GMT</pubDate>
     </item>
     <item>
-      <title>肯尼亚人因害虫检测创新技术获 810 万先令奖金</title>
-      <link>https://nation.africa/kenya/news/kenyan-wins-sh8-1-million-for-her-pest-detecting-innovation-4657966</link>
-      <description><![CDATA[《每日民族报》（肯尼亚）Esther Kimani（如图）曾在肯尼亚埃尔多雷茨大学学习计算机科学，她是获得英国皇家工程院非洲工程创新奖的第三位非洲女性、第二位肯尼亚女性。她获得了非洲奖有史以来最大的一笔奖金，即 810 万肯尼亚先令（约 63,000 美元），用于进一步开发一种太阳能设备，该设备利用人工智能和机器学习来检测和识别农业病虫害，向农民发送实时警报，建议采取定制干预措施，并通知政府农业官员。摘自“肯尼亚因害虫检测创新赢得 810 万肯尼亚先令”
-《每日国家报》（肯尼亚）（2024 年 6 月 15 日） Fridah Okachi 查看全文]]></description>
-      <guid>https://nation.africa/kenya/news/kenyan-wins-sh8-1-million-for-her-pest-detecting-innovation-4657966</guid>
-      <pubDate>Fri, 21 Jun 2024 18:10:43 GMT</pubDate>
+      <title>加州州长希望限制学校智能手机的使用</title>
+      <link>https://apnews.com/article/california-newsom-smartphone-schools-children-social-media-3a2f2f2b4b79e0a3fb2416ff993a92be</link>
+      <description><![CDATA[美联社加州州长加文·纽森呼吁限制学生在校期间使用智能手机。纽森指出，社交媒体可能带来心理健康风险，他将在 2019 年的一项法律的基础上进一步加强该法律，该法律赋予学区在学生在校或在学校员工监督下限制或禁止使用智能手机的权力。此前，洛杉矶联合学区委员会投票通过了一项政策，禁止学生在学校上课期间使用智能手机，但有一些例外。摘自“加州州长希望限制学校使用智能手机”
+美联社 (06/18/24) Sophie Austin 查看全文]]></description>
+      <guid>https://apnews.com/article/california-newsom-smartphone-schools-children-social-media-3a2f2f2b4b79e0a3fb2416ff993a92be</guid>
+      <pubDate>Mon, 24 Jun 2024 15:08:12 GMT</pubDate>
     </item>
     <item>
-      <title>自动驾驶汽车擅长直线行驶</title>
-      <link>https://spectrum.ieee.org/autonomous-vehicles-great-at-straights</link>
-      <description><![CDATA[IEEE Spectrum中佛罗里达大学的研究人员发现，与人类驾驶的车辆相比，先进的自动驾驶汽车 (AV) 发生中度伤害事故的可能性降低了 35%，发生致命事故的可能性降低了 90%。另一方面，他们的研究还发现，自动驾驶汽车在黎明和黄昏发生事故的可能性是人类驾驶员的五倍多，在转弯时发生事故的风险几乎是人类驾驶员的两倍。摘自“自动驾驶汽车擅长直线行驶”
-IEEE Spectrum (06/18/24) Matthew S. Smith 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/autonomous-vehicles-great-at-straights</guid>
-      <pubDate>Fri, 21 Jun 2024 18:10:42 GMT</pubDate>
+      <title>青少年制作世界上最小的网络交换机</title>
+      <link>https://interestingengineering.com/innovation/worlds-smallest-cheapest-network-switch</link>
+      <description><![CDATA[有趣的工程Murex Robotics 是新罕布什尔州菲利普斯埃克塞特学院的高中机器人团队，他们声称已经开发出世界上最小的网络交换机，尺寸为 44.9 毫米 x 42.2 毫米，提供五个 100 Mbps 以太网端口。学生们建造了 Murex 以太网交换机，将定制的基于 CM4 的控制板、可编程逻辑控制器模块和多个 IP 摄像头连接到遥控车辆。摘自“青少年制造世界上最小的网络交换机”
+有趣的工程 (06/19/24) Jijo Malayil 查看全文]]></description>
+      <guid>https://interestingengineering.com/innovation/worlds-smallest-cheapest-network-switch</guid>
+      <pubDate>Mon, 24 Jun 2024 15:08:11 GMT</pubDate>
     </item>
     <item>
-      <title>“人工智能教父”诞生</title>
-      <link>https://fortune.com/europe/2024/06/18/godfather-ai-geoffrey-hinton-quit-google-year-ago-emerged-stealth-back-startup-cuspai-ai-carbon-capture/</link>
-      <description><![CDATA[《财富》2018 年 ACM A.M. 图灵奖获得者、“人工智能教父”杰弗里·辛顿在离开谷歌一年多后将担任 CuspAI 董事会顾问。辛顿说：“我对 CuspAI 及其利用人工智能加速新材料设计过程以遏制人类最紧迫的挑战之一——气候变化的使命印象深刻。” Meta 的 Yann LeCun 与 Hinton 和 Yoshua Bengio 共同获得了 2018 年图灵奖，他表示 Meta 将与 CuspAI 合作，加速发现用于碳捕获的新材料。摘自“‘人工智能教父’出现”
-财富 (06/18/24) Ryan Hogg 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://fortune.com/europe/2024/06/18/godfather-ai-geoffrey-hinton-quit-google-year-ago-emerged-stealth-back-startup-cuspai-ai-carbon-capture/</guid>
-      <pubDate>Fri, 21 Jun 2024 18:10:42 GMT</pubDate>
+      <title>泰坦陨石灾难迫使全球重新思考深海探索</title>
+      <link>https://www.nytimes.com/2024/06/18/science/titan-submersible-anniversary.html</link>
+      <description><![CDATA[《纽约时报》2023 年 6 月 18 日，泰坦尼克号潜水器内爆，造成 5 人死亡，大约一年后，一对机器人潜水器将被派往泰坦尼克号的沉没地，打捞文物。7 月份的探险活动由皇家邮轮泰坦尼克号组织。虽然载人潜水器的支持者正在推动监管，但皇家邮轮泰坦尼克号的探险表明，一些人正在重新考虑深海探索，转向使用机器人作为更安全的替代方案。摘自“泰坦灾难迫使全球重新考虑深海探索”
+纽约时报 (06/18/24) William J. Broad 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/06/18/science/titan-submersible-anniversary.html</guid>
+      <pubDate>Mon, 24 Jun 2024 15:08:11 GMT</pubDate>
     </item>
     <item>
-      <title>CD-ROM 的短暂而快乐的时代</title>
-      <link>https://www.fastcompany.com/91128052/history-of-cd-roms-encarta-myst</link>
-      <description><![CDATA[《Fast Company》今年是 CD-ROM 巅峰时期的 30 周年。研究公司 Dataquest 和 Link Resources 报告称，1994 年 CD-ROM 驱动器销量为 1750 万张，价值 5.9 亿美元。尽管当时 CD-ROM 已经上市约十年，但随着 Microsoft Windows 操作系统的出现，它们开始流行起来，并具有更好的图形和音频效果。CD-ROM 最终可以存储高达 680 MB 的数据。摘自“CD-ROM 的短暂而快乐的统治”
-《Fast Company》 (06/17/24) Harry McCracken 查看全文]]></description>
-      <guid>https://www.fastcompany.com/91128052/history-of-cd-roms-encarta-myst</guid>
-      <pubDate>Fri, 21 Jun 2024 18:10:41 GMT</pubDate>
+      <title>纽约州长签署法案规范社交媒体算法</title>
+      <link>https://www.cnn.com/2024/06/20/tech/new-york-hochul-social-media-algorithms-children/index.html</link>
+      <description><![CDATA[CNN纽约州州长凯西·霍楚尔（Kathy Hochul）周四签署了两项法案，使纽约成为美国第一个通过法律对社交媒体算法进行合法监管的州。根据《儿童安全法案》，社交媒体平台将被要求默认按时间顺序向 18 岁以下的用户显示内容，而《纽约儿童数据保护法案》将限制网站在未经同意的情况下收集或共享 18 岁以下用户的个人数据。摘自“纽约州长签署法案规范社交媒体算法”
+CNN (06/20/24) Brian Fung 查看全文]]></description>
+      <guid>https://www.cnn.com/2024/06/20/tech/new-york-hochul-social-media-algorithms-children/index.html</guid>
+      <pubDate>Mon, 24 Jun 2024 15:08:10 GMT</pubDate>
     </item>
     <item>
-      <title>YouTube 的算法更有可能推荐右翼、宗教内容</title>
-      <link>https://www.nbcnews.com/tech/tech-news/youtubes-algorithm-recommends-users-right-wing-religious-content-resea-rcna155478</link>
-      <description><![CDATA[CNBC战略对话研究所的研究人员发现，YouTube 的算法比其他算法更有可能向用户推荐右翼和基督教视频。研究人员发现，对男性生活方式视频感兴趣的儿童和成人账户都被推荐观看福克斯新闻内容，尽管他们从未看过该频道。两个妈妈视频博主账户，一个看过福克斯新闻，另一个看过 MSNBC，都被推荐观看福克斯新闻，以及带有圣经经文的视频，尽管他们从未看过宗教内容。摘自“YouTube 的算法更有可能推荐右翼、宗教内容”
-CNBC (06/18/24) Victoria Feng 查看全文]]></description>
-      <guid>https://www.nbcnews.com/tech/tech-news/youtubes-algorithm-recommends-users-right-wing-religious-content-resea-rcna155478</guid>
-      <pubDate>Fri, 21 Jun 2024 18:10:41 GMT</pubDate>
+      <title>计算机处理技术的进步导致密码强度降低</title>
+      <link>https://www.techradar.com/pro/security/bad-news-many-of-todays-top-passwords-can-be-cracked-with-brute-force-in-less-than-an-hour</link>
+      <description><![CDATA[TechRadar一份关于密码强度的新报告指出，计算机处理能力的进步使破解密码变得非常容易。卡巴斯基研究人员表示，他们用了不到一小时的时间就破解了暗网数据库中 1.93 亿个密码中的 59%。由大小写英文字母和数字或 36 个可组合字符组成的八个字符的密码在 17 秒内被破解。研究人员在实验中使用了 Nvidia RTX 4090 GPU 和不同的算法。摘自“计算处理技术的进步削弱了密码”
+TechRadar (06/19/24) Sead Fadilpasic 查看全文]]></description>
+      <guid>https://www.techradar.com/pro/security/bad-news-many-of-todays-top-passwords-can-be-cracked-with-brute-force-in-less-than-an-hour</guid>
+      <pubDate>Mon, 24 Jun 2024 15:08:10 GMT</pubDate>
     </item>
     <item>
-      <title>官员质疑是否有死亡事件与英国医院黑客攻击直接相关</title>
-      <link>https://www.bloomberg.com/news/newsletters/2024-06-19/officials-query-if-any-deaths-directly-linked-to-uk-hospital-hack</link>
-      <description><![CDATA[彭博社6 月 3 日，英国实验室服务提供商 Synnovis 遭受勒索软件攻击，导致伦敦的医院和诊所严重中断，医疗服务提供商被要求报告与该事件相关的任何死亡或严重伤害。网络攻击导致 800 例计划手术和 700 例门诊预约被推迟，血液短缺，病理服务中断。许多服务尚未恢复。摘自“官员询问是否有任何死亡事件与英国医院黑客攻击直接相关”
-彭博社 (06/19/24) Ryan Gallagher 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.bloomberg.com/news/newsletters/2024-06-19/officials-query-if-any-deaths-directly-linked-to-uk-hospital-hack</guid>
-      <pubDate>Fri, 21 Jun 2024 18:10:40 GMT</pubDate>
+      <title>瑞典废除纸币为犯罪分子提供了游乐场</title>
+      <link>https://www.bloomberg.com/news/articles/2024-06-21/sweden-led-europe-s-move-to-cashless-economy-now-it-faces-soaring-fraud</link>
+      <description><![CDATA[彭博社瑞典在废除纸币方面比几乎任何其他欧洲国家都走得更远，因此被视为打击数字犯罪的试验案例。鉴于 BankID 数字识别系统在国民经济中根深蒂固，瑞典当局发现很难打击数字犯罪。BankID 由私人贷款机构财团控制，其工作方式类似于在线签名，可用于电子支付、提交纳税申报表、建立企业等。摘自“瑞典急于废除纸币为犯罪分子创造了游乐场”
+彭博社 (06/21/24) Niclas Rolander；Jonas Ekblom；爱利曼 查看全文]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-06-21/sweden-led-europe-s-move-to-cashless-economy-now-it-faces-soaring-fraud</guid>
+      <pubDate>Mon, 24 Jun 2024 15:08:09 GMT</pubDate>
     </item>
     <item>
-      <title>截至目前，2024 年科技行业裁员将影响近 10 万名员工</title>
-      <link>https://www.cfodive.com/news/tech-layoffs-total-nearly-100k-2024/719203/</link>
-      <description><![CDATA[CFO Dive根据 layoffs.fyi 统计的数据，截至 2024 年，科技行业宣布的裁员人数已接近 100,000 人。自今年年初以来，已有 300 多家科技公司宣布裁员，其中包括苹果、谷歌和微软。裁员反映出一种趋势，这种趋势部分反映了一些科技巨头在疫情期间信息技术产品需求增加的情况下过度招聘后为提高效率而做出的努力。摘自“2024 年迄今为止，科技裁员影响近 10 万名员工”
-CFO Dive (06/18/24) Alexei Alexis 查看全文]]></description>
-      <guid>https://www.cfodive.com/news/tech-layoffs-total-nearly-100k-2024/719203/</guid>
-      <pubDate>Fri, 21 Jun 2024 18:10:40 GMT</pubDate>
+      <title>马里兰州允许性侵犯受害者通过条形码追踪证据</title>
+      <link>https://apnews.com/article/maryland-rape-kit-tracker-b3b6f487b2cdece72be7880181f054a6</link>
+      <description><![CDATA[美联社马里兰州实施了一套新的全州性侵犯证据包追踪系统，以确保透明度和问责制。 Track-Kit 系统将允许性侵犯受害者通过医院完成法医检查时分配的独特条形码匿名追踪他们的工具包，执法人员在保管工具包时会扫描这些条形码。摘自“马里兰州允许性侵犯受害者通过条形码追踪证据”
+美联社 (06/20/24) Brian Witte 查看全文]]></description>
+      <guid>https://apnews.com/article/maryland-rape-kit-tracker-b3b6f487b2cdece72be7880181f054a6</guid>
+      <pubDate>Mon, 24 Jun 2024 15:08:09 GMT</pubDate>
     </item>
     <item>
-      <title>美国因与俄罗斯关系密切禁止销售卡巴斯基软件</title>
-      <link>https://www.reuters.com/technology/biden-ban-us-sales-kaspersky-software-over-ties-russia-source-says-2024-06-20/</link>
-      <description><![CDATA[路透社美国周四宣布，计划禁止在美国销售俄罗斯卡巴斯基实验室生产的杀毒软件。美国商务部长吉娜·雷蒙多表示：“俄罗斯已经表明，它有能力、也有意图利用卡巴斯基等俄罗斯公司收集美国人的个人信息并将其武器化，这就是我们被迫采取行动的原因。”新限制将于 9 月 29 日生效。摘自“美国因与俄罗斯关系禁止销售卡巴斯基软件”
-路透社 (06/21/24) Alexandra Alper 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/biden-ban-us-sales-kaspersky-software-over-ties-russia-source-says-2024-06-20/</guid>
-      <pubDate>Fri, 21 Jun 2024 18:10:39 GMT</pubDate>
+      <title>对更好网络安全的需求推动就业市场</title>
+      <link>https://www.washingtonpost.com/business/2024/06/21/cybersecurity-job-demand-boot-camps/</link>
+      <description><![CDATA[《华盛顿邮报》过去五年来，美国联邦调查局互联网犯罪投诉中心平均每年收到 758,000 起网络攻击投诉。日益严重的威胁为网络安全专家创造了蓬勃发展的就业市场。拜登政府将数十万个网络职位空缺视为国家安全问题。 摘自“对更好网络安全的需求推动就业市场”
+华盛顿邮报 (06/21/24) Fredrick Kunkle 查看全文]]></description>
+      <guid>https://www.washingtonpost.com/business/2024/06/21/cybersecurity-job-demand-boot-camps/</guid>
+      <pubDate>Mon, 24 Jun 2024 15:08:08 GMT</pubDate>
     </item>
     <item>
-      <title>配备人工智能的水下无人机帮助美国海军扫描威胁</title>
-      <link>https://www.bloomberg.com/news/articles/2024-06-17/ai-equipped-underwater-drones-helping-us-navy-scan-for-threats</link>
-      <description><![CDATA[彭博社美国海军正在加强部署配备人工智能的水下无人机，这种无人机依靠声纳传感器探测物体并在测试成功后在海洋中航行。五角大楼国防创新部门的海军服务负责人亚历克斯·坎贝尔 (Alex Campbell) 表示，该部门的努力已将搜索海底水雷所需的时间缩短了一半。人工智能模型解析水下无人机拍摄的画面，例如区分鱼笼和爆炸物。摘自“配备人工智能的水下无人机帮助美国海军扫描威胁”
-彭博社 (06/17/24) Charles Gorrivan 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-06-17/ai-equipped-underwater-drones-helping-us-navy-scan-for-threats</guid>
-      <pubDate>Fri, 21 Jun 2024 18:10:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>ACM 表彰解决实际问题的创新者</title>
-      <link>https://www.acm.org/media-center/2024/june/technical-awards-2023</link>
-      <description><![CDATA[ACM 媒体中心卡内基梅隆大学的 Guy E. Blelloch、马里兰大学的 Laxman Dhulipala 和麻省理工学院的 Julian Shun 因其在算法工程方面的工作而荣获 ACM 巴黎 Kanellakis 理论与实践奖。普林斯顿大学的 Prateek Mittal 因其在互联网隐私和安全方面的工作而荣获 2023 年 ACM Grace Murray Hopper 奖。荷兰自由大学的 Andrew S. Tanenbaum 因其 1987 年开发 MINIX 及其对操作系统的贡献而荣获 ACM 软件系统奖。哥伦比亚大学的 David Blei 因其在机器学习、信息检索和统计学方面的工作而获得 ACM - AAAI Allen Newell 奖。摘自“ACM 表彰解决现实问题的创新者”
-ACM 媒体中心 (06/18/24) 查看全文]]></description>
-      <guid>https://www.acm.org/media-center/2024/june/technical-awards-2023</guid>
-      <pubDate>Fri, 21 Jun 2024 18:10:38 GMT</pubDate>
+      <title>联合国教科文组织对人工智能助长大屠杀否认行为发出警告</title>
+      <link>https://www.france24.com/en/europe/20240618-unesco-sounds-alarm-over-artificial-intelligence-fuelled-holocaust-denial</link>
+      <description><![CDATA[法国 24联合国教育、科学及文化组织 (UNESCO) 指出，黑客利用聊天机器人传播纳粹思想并煽动否认大屠杀，该组织呼吁对人工智能进行道德保障，并要求学校强调人工智能生成内容的风险。报告列举了谷歌使用 Gemini 制作不同种族纳粹士兵图像、ChatGPT 发明“溺水大屠杀”以及谷歌使用 Bard 创造证人来支持有关纳粹大屠杀的谎言等案例。摘自“联合国教科文组织对人工智能助长否认大屠杀行为发出警报”
+法国 24 台 (2024 年 6 月 18 日) 查看全文]]></description>
+      <guid>https://www.france24.com/en/europe/20240618-unesco-sounds-alarm-over-artificial-intelligence-fuelled-holocaust-denial</guid>
+      <pubDate>Mon, 24 Jun 2024 15:08:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
