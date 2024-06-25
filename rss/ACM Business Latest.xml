@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Tue, 25 Jun 2024 09:08:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 12:13:28 GMT</lastBuildDate>
+    <item>
+      <title>中国电子烟正在席卷美国</title>
+      <link>https://www.wired.com/story/the-us-is-being-flooded-by-chinese-vapes/</link>
+      <description><![CDATA[美国政府誓言要严厉打击非法尼古丁电子烟的销售。这些电子烟的价格越来越便宜，越来越花哨，而且威力越来越大。]]></description>
+      <guid>https://www.wired.com/story/the-us-is-being-flooded-by-chinese-vapes/</guid>
+      <pubDate>Tue, 25 Jun 2024 09:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>美国唱片公司起诉人工智能音乐生成器 Suno 和 Udio 侵犯版权</title>
       <link>https://www.wired.com/story/ai-music-generators-suno-and-udio-sued-for-copyright-infringement/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>Adobe 称不会使用艺术家的作品训练 AI。创意人士并不相信</title>
       <link>https://www.wired.com/story/adobe-says-it-wont-train-ai-using-artists-work-creatives-arent-convinced/</link>
-      <description><![CDATA[本月早些时候，一些艺术家认为他们的作品将被用于训练人工智能，对此他们表示强烈反对，Adobe 随后发布了新的措辞来解释如何处理用户内容。]]></description>
+      <description><![CDATA[本月早些时候，一些艺术家认为他们的作品将被用于训练人工智能，对此他们表示强烈反对，Adobe 随后发布了新的措辞来解释如何处理用户的内容。]]></description>
       <guid>https://www.wired.com/story/adobe-says-it-wont-train-ai-using-artists-work-creatives-arent-convinced/</guid>
       <pubDate>Wed, 19 Jun 2024 17:59:56 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[企业尚未用人工智能取代工人。但在技术进一步创新的竞赛中，他们正在牺牲数千个工作岗位。]]></description>
       <guid>https://www.wired.com/story/ai-is-coming-for-big-tech-jobs-but-not-in-the-way-you-think/</guid>
       <pubDate>Mon, 17 Jun 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于光的芯片或能满足人工智能日益增长的能源需求</title>
-      <link>https://www.wired.com/story/ai-needs-enormous-computing-power-could-light-based-chips-help/</link>
-      <description><![CDATA[光学神经网络使用光子代替电子，与传统系统相比具有优势，但也面临重大障碍。]]></description>
-      <guid>https://www.wired.com/story/ai-needs-enormous-computing-power-could-light-based-chips-help/</guid>
-      <pubDate>Sun, 16 Jun 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
