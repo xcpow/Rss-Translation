@@ -4,102 +4,95 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Mon, 24 Jun 2024 15:08:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 15:08:41 GMT</lastBuildDate>
     <item>
-      <title>量子计算机有助于理解磁铁</title>
-      <link>https://www.newscientist.com/article/2435816-googles-new-quantum-computer-may-help-us-understand-how-magnets-work/</link>
-      <description><![CDATA[新科学家谷歌研究人员开发了一种新型量子计算机，它结合了数字和模拟量子计算机的特点。他们使用数字量子计算机的量子比特来模拟二维 (2D) 磁体，通过同时操作所有量子比特来模拟真实世界的磁体，而不是让它们逐个执行逻辑运算。摘自“量子计算机有助于理解磁体”
-新科学家 (06/17/24) Alex Wilkins 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.newscientist.com/article/2435816-googles-new-quantum-computer-may-help-us-understand-how-magnets-work/</guid>
-      <pubDate>Mon, 24 Jun 2024 15:08:13 GMT</pubDate>
+      <title>印尼在遭受网络攻击后拒绝支付 800 万美元赎金</title>
+      <link>https://apnews.com/article/indonesia-ransomware-attack-national-data-center-213c14c6cc69d7b66815e58478f64cee</link>
+      <description><![CDATA[美联社印尼政府表示，不会支付攻击其国家数据中心的黑客组织索要的 800 万美元赎金。6 月 20 日的网络攻击导致 200 多个国家和地区政府机构的服务中断。移民局等一些机构的服务已经恢复，其他机构的服务也正在恢复中。 PT Telkom Indonesia 正在与当地和国际机构合作，破解阻止访问其数据的加密。摘自“网络攻击后，印度尼西亚拒绝支付 800 万美元赎金”
+美联社 (06/25/24) Niniek Karmini 查看全文]]></description>
+      <guid>https://apnews.com/article/indonesia-ransomware-attack-national-data-center-213c14c6cc69d7b66815e58478f64cee</guid>
+      <pubDate>Wed, 26 Jun 2024 15:08:41 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能正在彻底改变药物研发</title>
-      <link>https://www.nytimes.com/2024/06/17/business/ai-drugs-development-terray.html</link>
-      <description><![CDATA[《纽约时报》初创公司越来越多地利用人工智能进行药物发现和开发，这些模型可以根据在训练它们所依据的专门数据中检测到的模式识别潜在的候选药物。人工智能设计的药物分子被转化为物理分子，测试其与目标蛋白的相互作用，人工智能模型使用结果来改进其下一个设计。许多公司已经建立了自动化实验室来生成数据来训练此类人工智能模型。摘自“人工智能正在彻底改变药物开发”
-《纽约时报》（2024 年 6 月 17 日）史蒂夫·洛尔 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/06/17/business/ai-drugs-development-terray.html</guid>
-      <pubDate>Mon, 24 Jun 2024 15:08:13 GMT</pubDate>
+      <title>汽车制造商要求 NHTSA 重新考虑紧急制动规则</title>
+      <link>https://www.reuters.com/business/autos-transportation/automakers-ask-us-agency-reconsider-emergency-braking-rule-2024-06-24/</link>
+      <description><![CDATA[路透社代表主要汽车制造商的汽车创新联盟呼吁美国国家公路交通安全管理局 (NHTSA) 重新考虑 4 月份的一项规定，该规定要求大多数汽车和卡车在 2029 年前配备先进的自动紧急制动系统。该组织表示，要求车辆在时速不超过 62 英里的情况下停车并避免与前方车辆相撞“在现有技术下几乎不可能实现”，并且可能会导致追尾碰撞。摘自“汽车制造商要求 NHTSA 重新考虑紧急制动规则”
+路透社 (06/24/24) David Shepardson 查看全文]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/automakers-ask-us-agency-reconsider-emergency-braking-rule-2024-06-24/</guid>
+      <pubDate>Wed, 26 Jun 2024 15:08:40 GMT</pubDate>
     </item>
     <item>
-      <title>面部识别公司进军拉丁美洲</title>
-      <link>https://time.com/6988684/clearview-ai-latin-america/</link>
-      <description><![CDATA[《时代》杂志Clearview AI 备受争议的面部识别技术已扩展到拉丁美洲，执法官员、调查人员和检察官最近进行的一次审判导致约六个国家的未成年人获救。在调查网络儿童剥削案件时，该工具用于分析 2,198 张图片和 995 个视频，在三天内识别出 29 名罪犯和 110 名受害者。截至 6 月 13 日，这项努力至少拯救了 51 名受害者。摘自“面部识别公司进军拉丁美洲”
-《时代》杂志 (06/18/24) Vera Bergengruen 查看全文]]></description>
-      <guid>https://time.com/6988684/clearview-ai-latin-america/</guid>
-      <pubDate>Mon, 24 Jun 2024 15:08:12 GMT</pubDate>
+      <title>无所不能的屏幕技术</title>
+      <link>https://www.bbc.com/news/articles/c4nn6z6z4ypo</link>
+      <description><![CDATA[BBC瑞典林茨平大学的研究人员利用钙钛矿发光二极管 (PeLED) 技术制造了一个小型计算机屏幕，这可能为更薄、更便宜、电池寿命更长的设备铺平道路。PeLED 可以吸收和发射光，从而实现触摸、指纹和环境光感应功能的集成。最新版本的屏幕分辨率为每英寸 90 像素。摘自“几乎无所不能的屏幕技术”
+BBC (06/24/24) Chris Baraniuk 查看全文]]></description>
+      <guid>https://www.bbc.com/news/articles/c4nn6z6z4ypo</guid>
+      <pubDate>Wed, 26 Jun 2024 15:08:40 GMT</pubDate>
     </item>
     <item>
-      <title>加州州长希望限制学校智能手机的使用</title>
-      <link>https://apnews.com/article/california-newsom-smartphone-schools-children-social-media-3a2f2f2b4b79e0a3fb2416ff993a92be</link>
-      <description><![CDATA[美联社加州州长加文·纽森呼吁限制学生在校期间使用智能手机。纽森指出，社交媒体可能带来心理健康风险，他将在 2019 年的一项法律的基础上进一步加强该法律，该法律赋予学区在学生在校或在学校员工监督下限制或禁止使用智能手机的权力。此前，洛杉矶联合学区委员会投票通过了一项政策，禁止学生在学校上课期间使用智能手机，但有一些例外。摘自“加州州长希望限制学校使用智能手机”
-美联社 (06/18/24) Sophie Austin 查看全文]]></description>
-      <guid>https://apnews.com/article/california-newsom-smartphone-schools-children-social-media-3a2f2f2b4b79e0a3fb2416ff993a92be</guid>
-      <pubDate>Mon, 24 Jun 2024 15:08:12 GMT</pubDate>
+      <title>创纪录的 3D 跟踪速度</title>
+      <link>https://www.optica.org/about/newsroom/news_releases/2024/june/researchers_achieve_practical_3d_tracking_at_record-breaking_speeds/</link>
+      <description><![CDATA[Optica中国清华大学的研究人员开发了一种实时跟踪快速移动物体的 3D 方法，该方法比传统的基于视频的技术快 200 多倍，同时降低了数据存储和计算成本。该方法基于单像素成像，无需重建物体的图像即可计算其位置。它涉及使用非正交投影来生成 3D 坐标，以计算物体的位置。摘自“创纪录速度的 3D 跟踪”
+Optica (06/20/24) 查看全文]]></description>
+      <guid>https://www.optica.org/about/newsroom/news_releases/2024/june/researchers_achieve_practical_3d_tracking_at_record-breaking_speeds/</guid>
+      <pubDate>Wed, 26 Jun 2024 15:08:39 GMT</pubDate>
     </item>
     <item>
-      <title>青少年制作世界上最小的网络交换机</title>
-      <link>https://interestingengineering.com/innovation/worlds-smallest-cheapest-network-switch</link>
-      <description><![CDATA[有趣的工程Murex Robotics 是新罕布什尔州菲利普斯埃克塞特学院的高中机器人团队，他们声称已经开发出世界上最小的网络交换机，尺寸为 44.9 毫米 x 42.2 毫米，提供五个 100 Mbps 以太网端口。学生们建造了 Murex 以太网交换机，将定制的基于 CM4 的控制板、可编程逻辑控制器模块和多个 IP 摄像头连接到遥控车辆。摘自“青少年制造世界上最小的网络交换机”
-有趣的工程 (06/19/24) Jijo Malayil 查看全文]]></description>
-      <guid>https://interestingengineering.com/innovation/worlds-smallest-cheapest-network-switch</guid>
-      <pubDate>Mon, 24 Jun 2024 15:08:11 GMT</pubDate>
+      <title>美国推进限制中国科技投资计划</title>
+      <link>https://www.nytimes.com/2024/06/21/us/politics/us-china-technology-investments-janet-yellen.html</link>
+      <description><![CDATA[《纽约时报》美国财政部于 6 月 21 日提出规则，禁止美国投资开发半导体、量子计算机和人工智能系统的中国公司。投资者将被要求披露某些类型的投资，而其他类型的投资将被明确禁止。财政部将有权强制撤资，并可将违规者提交美国司法部进行刑事起诉。摘自“美国推进限制中国技术投资计划”
+《纽约时报》（2024 年 6 月 21 日）Alan Rappeport 查看全文]]></description>
+      <guid>https://www.nytimes.com/2024/06/21/us/politics/us-china-technology-investments-janet-yellen.html</guid>
+      <pubDate>Wed, 26 Jun 2024 15:08:39 GMT</pubDate>
     </item>
     <item>
-      <title>泰坦陨石灾难迫使全球重新思考深海探索</title>
-      <link>https://www.nytimes.com/2024/06/18/science/titan-submersible-anniversary.html</link>
-      <description><![CDATA[《纽约时报》2023 年 6 月 18 日，泰坦尼克号潜水器内爆，造成 5 人死亡，大约一年后，一对机器人潜水器将被派往泰坦尼克号的沉没地，打捞文物。7 月份的探险活动由皇家邮轮泰坦尼克号组织。虽然载人潜水器的支持者正在推动监管，但皇家邮轮泰坦尼克号的探险表明，一些人正在重新考虑深海探索，转向使用机器人作为更安全的替代方案。摘自“泰坦灾难迫使全球重新考虑深海探索”
-纽约时报 (06/18/24) William J. Broad 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/06/18/science/titan-submersible-anniversary.html</guid>
-      <pubDate>Mon, 24 Jun 2024 15:08:11 GMT</pubDate>
+      <title>最难招聘的技术人才</title>
+      <link>https://www.dice.com/career-advice/these-23-tech-skills-are-the-most-difficult-to-hire-for</link>
+      <description><![CDATA[Dice根据 Skillsoft 在其 2024 年 IT 技能和薪资调查中调查的 219 名 C 级高管中的 38% 的调查结果，网络安全和信息安全是最难找到人才的技术技能。其他被认为难以招聘的技能包括人工智能和机器学习；分析、大数据和数据科学；云计算；应用程序开发；业务分析；系统和解决方案架构师；治理、风险和合规性；系统工程和区块链。
+摘自“最难招聘的技术技能”
+Dice (06/20/24) Nick Kolakowski 查看全文]]></description>
+      <guid>https://www.dice.com/career-advice/these-23-tech-skills-are-the-most-difficult-to-hire-for</guid>
+      <pubDate>Wed, 26 Jun 2024 15:08:38 GMT</pubDate>
     </item>
     <item>
-      <title>纽约州长签署法案规范社交媒体算法</title>
-      <link>https://www.cnn.com/2024/06/20/tech/new-york-hochul-social-media-algorithms-children/index.html</link>
-      <description><![CDATA[CNN纽约州州长凯西·霍楚尔（Kathy Hochul）周四签署了两项法案，使纽约成为美国第一个通过法律对社交媒体算法进行合法监管的州。根据《儿童安全法案》，社交媒体平台将被要求默认按时间顺序向 18 岁以下的用户显示内容，而《纽约儿童数据保护法案》将限制网站在未经同意的情况下收集或共享 18 岁以下用户的个人数据。摘自“纽约州长签署法案规范社交媒体算法”
-CNN (06/20/24) Brian Fung 查看全文]]></description>
-      <guid>https://www.cnn.com/2024/06/20/tech/new-york-hochul-social-media-algorithms-children/index.html</guid>
-      <pubDate>Mon, 24 Jun 2024 15:08:10 GMT</pubDate>
+      <title>人工智能公司绕过 Web 标准来抓取发布商网站</title>
+      <link>https://www.reuters.com/technology/artificial-intelligence/multiple-ai-companies-bypassing-web-standard-scrape-publisher-sites-licensing-2024-06-21/</link>
+      <description><![CDATA[路透社内容授权初创公司 TollBit 在致出版商的一封信中表示，多家人工智能公司正在绕过机器人排除协议，抓取内容用于生成式人工智能系统。该协议创建于 1990 年代中期，旨在避免网站因网络爬虫而超载，现已成为出版商用来阻止科技公司在生成式人工智能系统中未经许可使用其内容的关键工具。摘自“人工智能公司绕过 Web 标准抓取出版商网站”
+路透社 (06/21/24) Katie Paul 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/artificial-intelligence/multiple-ai-companies-bypassing-web-standard-scrape-publisher-sites-licensing-2024-06-21/</guid>
+      <pubDate>Wed, 26 Jun 2024 15:08:37 GMT</pubDate>
     </item>
     <item>
-      <title>计算机处理技术的进步导致密码强度降低</title>
-      <link>https://www.techradar.com/pro/security/bad-news-many-of-todays-top-passwords-can-be-cracked-with-brute-force-in-less-than-an-hour</link>
-      <description><![CDATA[TechRadar一份关于密码强度的新报告指出，计算机处理能力的进步使破解密码变得非常容易。卡巴斯基研究人员表示，他们用了不到一小时的时间就破解了暗网数据库中 1.93 亿个密码中的 59%。由大小写英文字母和数字或 36 个可组合字符组成的八个字符的密码在 17 秒内被破解。研究人员在实验中使用了 Nvidia RTX 4090 GPU 和不同的算法。摘自“计算处理技术的进步削弱了密码”
-TechRadar (06/19/24) Sead Fadilpasic 查看全文]]></description>
-      <guid>https://www.techradar.com/pro/security/bad-news-many-of-todays-top-passwords-can-be-cracked-with-brute-force-in-less-than-an-hour</guid>
-      <pubDate>Mon, 24 Jun 2024 15:08:10 GMT</pubDate>
+      <title>数字价格标签可以每天多次改变食品杂货的价格</title>
+      <link>https://www.popsci.com/technology/electronic-price-tag-groceries/</link>
+      <description><![CDATA[大众科学沃尔玛表示，到 2026 年，它将把电子货架标签 (ESL) 的使用范围扩大到全美 2,300 家门店。员工可以通过集中式移动应用程序调整 ESL，以显示客户可以扫描以获取更多信息的二维码，闪光灯以吸引员工到需要关注的货架或区域，并允许快速找到要送货的物品。此外，数千件商品的价格可以同时更改。摘自“数字价格标签可以每天多次更改杂货价格”
+大众科学 (06/20/24) Mack DeGeurin 查看全文]]></description>
+      <guid>https://www.popsci.com/technology/electronic-price-tag-groceries/</guid>
+      <pubDate>Wed, 26 Jun 2024 15:08:37 GMT</pubDate>
     </item>
     <item>
-      <title>瑞典废除纸币为犯罪分子提供了游乐场</title>
-      <link>https://www.bloomberg.com/news/articles/2024-06-21/sweden-led-europe-s-move-to-cashless-economy-now-it-faces-soaring-fraud</link>
-      <description><![CDATA[彭博社瑞典在废除纸币方面比几乎任何其他欧洲国家都走得更远，因此被视为打击数字犯罪的试验案例。鉴于 BankID 数字识别系统在国民经济中根深蒂固，瑞典当局发现很难打击数字犯罪。BankID 由私人贷款机构财团控制，其工作方式类似于在线签名，可用于电子支付、提交纳税申报表、建立企业等。摘自“瑞典急于废除纸币为犯罪分子创造了游乐场”
-彭博社 (06/21/24) Niclas Rolander；Jonas Ekblom；爱利曼 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-06-21/sweden-led-europe-s-move-to-cashless-economy-now-it-faces-soaring-fraud</guid>
-      <pubDate>Mon, 24 Jun 2024 15:08:09 GMT</pubDate>
+      <title>12 岁鼓手获赠 3D 打印双手</title>
+      <link>https://www.cnn.com/2024/06/23/us/tennessee-tech-engineering-students-prosthetic-hands-trnd/index.html</link>
+      <description><![CDATA[CNN12 岁的奥布里·索维是田纳西州的一名中学生，她天生没有双手，田纳西理工大学的学生为她定制了一双 3D 打印手，让她能够打鼓。学生们在初级工程动力学课上制作了这副特殊的假肢，这是田纳西理工大学儿童技术工程项目的一部分。项目负责人布兰森·布莱洛克 (Branson Blaylock) 表示，学生们制作了大约六次假肢，直到他们和索维对成品感到满意为止。摘自“12 岁鼓手拥有 3D 打印手”
+CNN (06/23/24) Ashley R. Williams 查看全文]]></description>
+      <guid>https://www.cnn.com/2024/06/23/us/tennessee-tech-engineering-students-prosthetic-hands-trnd/index.html</guid>
+      <pubDate>Wed, 26 Jun 2024 15:08:36 GMT</pubDate>
     </item>
     <item>
-      <title>马里兰州允许性侵犯受害者通过条形码追踪证据</title>
-      <link>https://apnews.com/article/maryland-rape-kit-tracker-b3b6f487b2cdece72be7880181f054a6</link>
-      <description><![CDATA[美联社马里兰州实施了一套新的全州性侵犯证据包追踪系统，以确保透明度和问责制。 Track-Kit 系统将允许性侵犯受害者通过医院完成法医检查时分配的独特条形码匿名追踪他们的工具包，执法人员在保管工具包时会扫描这些条形码。摘自“马里兰州允许性侵犯受害者通过条形码追踪证据”
-美联社 (06/20/24) Brian Witte 查看全文]]></description>
-      <guid>https://apnews.com/article/maryland-rape-kit-tracker-b3b6f487b2cdece72be7880181f054a6</guid>
-      <pubDate>Mon, 24 Jun 2024 15:08:09 GMT</pubDate>
+      <title>联合国发布打击网络仇恨的全球原则</title>
+      <link>https://apnews.com/article/un-combat-online-hate-lies-information-integrity-9a3b13fd27fb46574d45750dadcdcd3e</link>
+      <description><![CDATA[美联社联合国秘书长安东尼奥·古特雷斯周一发布全球原则，呼吁科技公司、广告商、媒体和其他组织避免使用、支持或放大虚假信息和仇恨言论。这些原则是在与 193 个联合国成员国、青年领袖、学术界、媒体和民间社会协商后制定的，还指出人工智能应用程序的设计、部署和使用应安全、可靠、负责任和合乎道德，并且人工智能开发人员应维护人权。摘自“联合国推出打击网络仇恨的全球原则”
+美联社 (06/24/24) Edith M. Lederer 查看全文]]></description>
+      <guid>https://apnews.com/article/un-combat-online-hate-lies-information-integrity-9a3b13fd27fb46574d45750dadcdcd3e</guid>
+      <pubDate>Wed, 26 Jun 2024 15:08:35 GMT</pubDate>
     </item>
     <item>
-      <title>对更好网络安全的需求推动就业市场</title>
-      <link>https://www.washingtonpost.com/business/2024/06/21/cybersecurity-job-demand-boot-camps/</link>
-      <description><![CDATA[《华盛顿邮报》过去五年来，美国联邦调查局互联网犯罪投诉中心平均每年收到 758,000 起网络攻击投诉。日益严重的威胁为网络安全专家创造了蓬勃发展的就业市场。拜登政府将数十万个网络职位空缺视为国家安全问题。 摘自“对更好网络安全的需求推动就业市场”
-华盛顿邮报 (06/21/24) Fredrick Kunkle 查看全文]]></description>
-      <guid>https://www.washingtonpost.com/business/2024/06/21/cybersecurity-job-demand-boot-camps/</guid>
-      <pubDate>Mon, 24 Jun 2024 15:08:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>联合国教科文组织对人工智能助长大屠杀否认行为发出警告</title>
-      <link>https://www.france24.com/en/europe/20240618-unesco-sounds-alarm-over-artificial-intelligence-fuelled-holocaust-denial</link>
-      <description><![CDATA[法国 24联合国教育、科学及文化组织 (UNESCO) 指出，黑客利用聊天机器人传播纳粹思想并煽动否认大屠杀，该组织呼吁对人工智能进行道德保障，并要求学校强调人工智能生成内容的风险。报告列举了谷歌使用 Gemini 制作不同种族纳粹士兵图像、ChatGPT 发明“溺水大屠杀”以及谷歌使用 Bard 创造证人来支持有关纳粹大屠杀的谎言等案例。摘自“联合国教科文组织对人工智能助长否认大屠杀行为发出警报”
-法国 24 台 (2024 年 6 月 18 日) 查看全文]]></description>
-      <guid>https://www.france24.com/en/europe/20240618-unesco-sounds-alarm-over-artificial-intelligence-fuelled-holocaust-denial</guid>
-      <pubDate>Mon, 24 Jun 2024 15:08:08 GMT</pubDate>
+      <title>安全漏洞影响每台设备、互联网连接</title>
+      <link>https://www.independent.co.uk/tech/security-hack-device-internet-safety-b2567896.html</link>
+      <description><![CDATA[独立报（英国）奥地利格拉茨技术大学的研究人员发现了一个影响所有互联网连接和设备的安全漏洞。“SnailLoad”可以绕过防火墙、VPN 和其他安全工具，让黑客无需恶意代码或设备访问即可监视任何人；相反，监控互联网连接速度的变化可以让黑客获得有关用户在线活动的详细信息。研究人员表示，没有简单的方法可以解决这个安全问题。摘自“安全漏洞影响每台设备、互联网连接”
+英国独立报 (2024 年 6 月 24 日) Andrew Griffin 查看全文]]></description>
+      <guid>https://www.independent.co.uk/tech/security-hack-device-internet-safety-b2567896.html</guid>
+      <pubDate>Wed, 26 Jun 2024 15:08:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
