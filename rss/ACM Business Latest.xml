@@ -4,7 +4,21 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 27 Jun 2024 15:09:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 18:09:01 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 希望 AI 能够帮助人类训练 AI</title>
+      <link>https://www.wired.com/story/openai-rlhf-ai-training/</link>
+      <description><![CDATA[通过让人类对语言模型的输出进行评分，可以创造出聪明的聊天机器人。OpenAI 表示，将人工智能添加到循环中可以帮助它们变得更加智能和可靠。]]></description>
+      <guid>https://www.wired.com/story/openai-rlhf-ai-training/</guid>
+      <pubDate>Thu, 27 Jun 2024 17:05:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deepfakes 不断演变。这家公司想一网打尽</title>
+      <link>https://www.wired.com/story/deepfake-detection-get-real-labs/</link>
+      <description><![CDATA[图像和视频处理领域的顶尖专家 Hany Farid 表示，检测深度伪造作品需要的不仅仅是人工智能。]]></description>
+      <guid>https://www.wired.com/story/deepfake-detection-get-real-labs/</guid>
+      <pubDate>Thu, 27 Jun 2024 16:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>活动人士扰乱亚马逊与以色列 12 亿美元合同会议</title>
       <link>https://www.wired.com/story/amazon-aws-project-nimbus-conference-protest-israel-gaza/</link>
@@ -92,23 +106,9 @@
     <item>
       <title>Adobe 称不会使用艺术家的作品训练 AI。创意人士并不相信</title>
       <link>https://www.wired.com/story/adobe-says-it-wont-train-ai-using-artists-work-creatives-arent-convinced/</link>
-      <description><![CDATA[本月早些时候，一些艺术家认为他们的作品将被用于训练人工智能，对此他们表示强烈反对，Adobe 随后发布了新的措辞来解释如何处理用户内容。]]></description>
+      <description><![CDATA[本月早些时候，一些艺术家认为他们的作品将被用于训练人工智能，对此他们表示强烈反对，Adobe 随后发布了新的措辞来解释如何处理用户的内容。]]></description>
       <guid>https://www.wired.com/story/adobe-says-it-wont-train-ai-using-artists-work-creatives-arent-convinced/</guid>
       <pubDate>Wed, 19 Jun 2024 17:59:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>STEM 学生因 Nimbus 项目拒绝在谷歌和亚马逊工作</title>
-      <link>https://www.wired.com/story/stem-students-refuse-to-work-at-google-and-amazon-over-project-nimbus/</link>
-      <description><![CDATA[来自 120 多所大学的学生和年轻工人承诺，在以色列合同终止之前，拒绝在谷歌和亚马逊工作。]]></description>
-      <guid>https://www.wired.com/story/stem-students-refuse-to-work-at-google-and-amazon-over-project-nimbus/</guid>
-      <pubDate>Tue, 18 Jun 2024 19:44:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Airbnb 进军奥运会或将赢得巴黎奥运会青睐</title>
-      <link>https://www.wired.com/story/airbnbs-olympics-push-paris/</link>
-      <description><![CDATA[近年来，巴黎政府对 Airbnb 的租赁业务实施了严格的限制。该公司正利用奥运会来争取当地人的支持，并扩大其在巴黎这座标志性城市的影响力。]]></description>
-      <guid>https://www.wired.com/story/airbnbs-olympics-push-paris/</guid>
-      <pubDate>Tue, 18 Jun 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
