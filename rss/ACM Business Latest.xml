@@ -4,11 +4,18 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 28 Jun 2024 12:13:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 15:07:38 GMT</lastBuildDate>
+    <item>
+      <title>他参与发明了生成式人工智能。现在他想拯救它</title>
+      <link>https://www.wired.com/story/user-owned-ai-illia-polosukhin-open-source-web3/</link>
+      <description><![CDATA[Illia Polosukhin 不希望大公司决定人工智能的未来。他的另类愿景“用户拥有的人工智能”已开始成形。]]></description>
+      <guid>https://www.wired.com/story/user-owned-ai-illia-polosukhin-open-source-web3/</guid>
+      <pubDate>Fri, 28 Jun 2024 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>暴力团伙疯狂入室盗窃加密货币</title>
       <link>https://www.wired.com/story/crypto-home-invasion-crime-ring/</link>
-      <description><![CDATA[十多名男子威胁、殴打、折磨或绑架受害者，这可能是美国有史以来最严重的以加密货币为重点的连环勒索案。]]></description>
+      <description><![CDATA[十多名男子威胁、殴打、折磨或绑架了 11 名受害者，这可能是美国有史以来最严重的以加密货币为重点的连环勒索案。]]></description>
       <guid>https://www.wired.com/story/crypto-home-invasion-crime-ring/</guid>
       <pubDate>Fri, 28 Jun 2024 10:30:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[对网络上最普遍的代码的解释。]]></description>
       <guid>https://www.wired.com/story/the-eternal-truth-of-markdown/</guid>
       <pubDate>Mon, 24 Jun 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的记忆现在只是 Meta 的训练数据</title>
-      <link>https://www.wired.com/story/my-memories-are-just-meta-training-data-now/</link>
-      <description><![CDATA[Meta 计划使用 Facebook 和 Instagram 用户发布的个人内容来训练算法，这表明我们的数字历史正在被重新包装，以教会人工智能了解人类以及如何模仿人类。]]></description>
-      <guid>https://www.wired.com/story/my-memories-are-just-meta-training-data-now/</guid>
-      <pubDate>Fri, 21 Jun 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
