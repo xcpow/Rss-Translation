@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 27 Jun 2024 21:06:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 00:34:34 GMT</lastBuildDate>
+    <item>
+      <title>亚马逊正在调查有关数据抓取滥用的指控</title>
+      <link>https://www.wired.com/story/aws-perplexity-bot-scraping-investigation/</link>
+      <description><![CDATA[AWS 托管了一个与贝索斯家族和 Nvidia 支持的搜索初创公司相连的服务器，该服务器似乎被用于抓取主要媒体的网站内容，这引发了对潜在违反规则的调查。]]></description>
+      <guid>https://www.wired.com/story/aws-perplexity-bot-scraping-investigation/</guid>
+      <pubDate>Thu, 27 Jun 2024 22:15:21 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI 希望 AI 能够帮助人类训练 AI</title>
       <link>https://www.wired.com/story/openai-rlhf-ai-training/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[由于聊天机器人和人工智能的发展主要来自美国，一些欧盟企业家和政界人士表示，需要当地的冠军来防止文化扁平化。]]></description>
       <guid>https://www.wired.com/story/europe-scrambles-relevance-ai/</guid>
       <pubDate>Thu, 20 Jun 2024 06:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Adobe 称不会使用艺术家的作品训练 AI。创意人士并不相信</title>
-      <link>https://www.wired.com/story/adobe-says-it-wont-train-ai-using-artists-work-creatives-arent-convinced/</link>
-      <description><![CDATA[本月早些时候，一些艺术家认为他们的作品将被用于训练人工智能，对此他们表示强烈反对，Adobe 随后发布了新的措辞来解释如何处理用户的内容。]]></description>
-      <guid>https://www.wired.com/story/adobe-says-it-wont-train-ai-using-artists-work-creatives-arent-convinced/</guid>
-      <pubDate>Wed, 19 Jun 2024 17:59:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
