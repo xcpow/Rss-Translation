@@ -4,7 +4,21 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 28 Jun 2024 09:08:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 12:13:20 GMT</lastBuildDate>
+    <item>
+      <title>暴力团伙疯狂入室盗窃加密货币</title>
+      <link>https://www.wired.com/story/crypto-home-invasion-crime-ring/</link>
+      <description><![CDATA[十多名男子威胁、殴打、折磨或绑架受害者，这可能是美国有史以来最严重的以加密货币为重点的连环勒索案。]]></description>
+      <guid>https://www.wired.com/story/crypto-home-invasion-crime-ring/</guid>
+      <pubDate>Fri, 28 Jun 2024 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>这款病毒式人工智能聊天机器人会撒谎并声称自己是人类</title>
+      <link>https://www.wired.com/story/bland-ai-chatbot-human/</link>
+      <description><![CDATA[Bland AI 的客户服务和销售机器人是人工智能“洗白”的最新例子。专家警告现实模糊的后果。]]></description>
+      <guid>https://www.wired.com/story/bland-ai-chatbot-human/</guid>
+      <pubDate>Fri, 28 Jun 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>法国人工智能初创企业似乎势不可挡。然后选举来了</title>
       <link>https://www.wired.com/story/french-ai-startups-felt-unstoppable-then-came-the-election/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>亚马逊正在调查有关数据抓取滥用的指控</title>
       <link>https://www.wired.com/story/aws-perplexity-bot-scraping-investigation/</link>
-      <description><![CDATA[AWS 托管了一个与贝索斯家族和 Nvidia 支持的搜索初创公司相关的服务器，该服务器似乎被用于抓取主要媒体的网站内容，这引发了对潜在违反规则的调查。]]></description>
+      <description><![CDATA[AWS 托管了一个与贝索斯家族和 Nvidia 支持的搜索初创公司相连的服务器，该服务器似乎被用于抓取主要媒体的网站内容，这引发了对潜在违反规则的调查。]]></description>
       <guid>https://www.wired.com/story/aws-perplexity-bot-scraping-investigation/</guid>
       <pubDate>Thu, 27 Jun 2024 22:15:21 GMT</pubDate>
     </item>
@@ -43,7 +57,7 @@
     <item>
       <title>欢迎来到 WIRED 旅游</title>
       <link>https://www.wired.com/story/welcome-to-wired-travel/</link>
-      <description><![CDATA[别忘了收拾行李，别忘了带上我们一起走。]]></description>
+      <description><![CDATA[别忘了带上我们一起去收拾行李哦。]]></description>
       <guid>https://www.wired.com/story/welcome-to-wired-travel/</guid>
       <pubDate>Wed, 26 Jun 2024 11:00:00 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[Meta 计划使用 Facebook 和 Instagram 用户发布的个人内容来训练算法，这表明我们的数字历史正在被重新包装，以教会人工智能了解人类以及如何模仿人类。]]></description>
       <guid>https://www.wired.com/story/my-memories-are-just-meta-training-data-now/</guid>
       <pubDate>Fri, 21 Jun 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>在智能手机出现之前，有一大群真人帮你在谷歌上找东西</title>
-      <link>https://www.wired.com/story/google-search-118-118-aqa/</link>
-      <description><![CDATA[不久前，GOOG-411、118 118 和 AQA 等服务都使用真人来回答问题，提供诙谐的回答和百科全书式的知识。如今的搜索引擎可以学到一些东西。]]></description>
-      <guid>https://www.wired.com/story/google-search-118-118-aqa/</guid>
-      <pubDate>Fri, 21 Jun 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们仍在等待人工智能的下一次重大飞跃</title>
-      <link>https://www.wired.com/story/were-still-waiting-for-the-next-big-leap-in-ai/</link>
-      <description><![CDATA[Anthropic 最新的 Claude AI 模型领先于 OpenAI 和谷歌的竞争对手。但机器智能的进步最近更多的是渐进式的，而不是革命性的。]]></description>
-      <guid>https://www.wired.com/story/were-still-waiting-for-the-next-big-leap-in-ai/</guid>
-      <pubDate>Thu, 20 Jun 2024 14:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
