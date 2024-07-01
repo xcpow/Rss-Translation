@@ -4,102 +4,102 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Fri, 28 Jun 2024 18:09:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 15:08:01 GMT</lastBuildDate>
     <item>
-      <title>唱片公司起诉人工智能歌曲生成器侵犯版权</title>
-      <link>https://apnews.com/article/ai-music-generators-sued-suno-udio-riaa-37a398d326ebb53105538f0d1088233e</link>
-      <description><![CDATA[美联社各大唱片公司起诉人工智能歌曲生成器 Suno 和 Udio 侵犯版权，指控这两家初创公司正在利用艺术家的录音作品。美国唱片业协会周一宣布了这些诉讼，索尼音乐娱乐、环球音乐集团和华纳唱片等唱片公司提起了诉讼。摘自“唱片公司起诉人工智能歌曲生成器侵犯版权”
-美联社 (06/24/24) 查看全文]]></description>
-      <guid>https://apnews.com/article/ai-music-generators-sued-suno-udio-riaa-37a398d326ebb53105538f0d1088233e</guid>
-      <pubDate>Fri, 28 Jun 2024 18:09:41 GMT</pubDate>
+      <title>奖励 100 万美元人工智能解决人类简单难题</title>
+      <link>https://www.newscientist.com/article/2437029-1m-prize-for-ai-that-can-solve-puzzles-that-are-simple-for-humans/</link>
+      <description><![CDATA[《新科学家》谷歌和软件公司 Zapier 为能够以人类水平甚至更高水平完成抽象和推理语料库 (ARC) 的人工智能设立了 100 万美元的奖金。ARC 测试由谷歌的 François Chollet 开发，需要有限的推理技能（物体永久性、目标导向性、计数和基本几何）来识别连接像素化形状成对网格的模式。开发出能够在测试中得分 85% 的人工智能系统的开发者将获得 50 万美元的大奖，比普通人类高出 1 个百分点。摘自“100 万美元奖金奖励能够解决人类简单难题的人工智能”
+《新科学家》（2024 年 6 月 25 日）Alex Wilkins 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.newscientist.com/article/2437029-1m-prize-for-ai-that-can-solve-puzzles-that-are-simple-for-humans/</guid>
+      <pubDate>Mon, 01 Jul 2024 15:08:01 GMT</pubDate>
     </item>
     <item>
-      <title>台湾想要组建无人机军队，但无人机是由中国制造的</title>
-      <link>https://www.wsj.com/world/taiwan-drone-stockpiling-efforts-bcf70ef5</link>
-      <description><![CDATA[《华尔街日报》在与中国的冲突中，台湾正寻求建立一支无人机军队以进行自卫。尽管乌克兰使用中国零部件建立了国内无人机产业，但人们担心中国供应商可能会帮助中国军方入侵台湾军方使用的无人机。此外，封锁还可以用来切断其无人机供应。与此同时，美国国务院批准向台湾提供价值 3.6 亿美元的武器包，其中包括约 1,000 架无人机。摘自“台湾想要一支无人机军队，但中国制造了无人机”
-《华尔街日报》（2024 年 6 月 23 日）Joyu Wang 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/world/taiwan-drone-stockpiling-efforts-bcf70ef5</guid>
-      <pubDate>Fri, 28 Jun 2024 18:09:41 GMT</pubDate>
+      <title>无电机械计算机超越二进制数据存储</title>
+      <link>https://interestingengineering.com/innovation/mechanical-computer-polymer-blocks</link>
+      <description><![CDATA[有趣的工程北卡罗来纳州立大学研究人员开发的原型机械计算机通过使用聚合物立方体扩展了二进制数据存储的范围，这些立方体允许在没有电子元件的情况下锁定或编辑数据。64 个立方体的灵感来自剪纸（日本的剪纸和折叠艺术），它们组成一个功能单元。拉动元结构的边缘会拉伸连接立方体的弹性胶带，将它们上下移动以允许编辑数据。释放元结构会锁定数据。摘自“无电机械计算机超越二进制数据存储”
+有趣的工程 (06/26/24) Ameya Paleja 查看全文]]></description>
+      <guid>https://interestingengineering.com/innovation/mechanical-computer-polymer-blocks</guid>
+      <pubDate>Mon, 01 Jul 2024 15:08:00 GMT</pubDate>
     </item>
     <item>
-      <title>印度数字货币交易量下滑</title>
-      <link>https://www.reuters.com/technology/india-digital-currency-transactions-slump-after-reaching-initial-cbank-target-2024-06-25/</link>
-      <description><![CDATA[路透社印度电子卢比数字货币的使用量已降至每天约 100,000 笔零售交易，仅为 2023 年 12 月峰值的十分之一。印度储备银行表示，其电子卢比试点项目不会扩大，因为其重点转向测试该技术和确定数字货币的用例。摘自“印度数字货币交易暴跌”
-路透社 (06/25/24) Jaspreet Kalra 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/india-digital-currency-transactions-slump-after-reaching-initial-cbank-target-2024-06-25/</guid>
-      <pubDate>Fri, 28 Jun 2024 18:09:40 GMT</pubDate>
+      <title>Waymo 自动驾驶叫车服务面向旧金山所有人开放</title>
+      <link>https://www.reuters.com/business/autos-transportation/waymos-autonomous-ride-hailing-service-now-available-all-san-francisco-2024-06-25/</link>
+      <description><![CDATA[路透社Waymo 运营的自动驾驶叫车服务 Waymo One 已向旧金山所有人开放，而不仅仅是候补名单上的人。Waymo 表示，自候补名单推出以来，已有约 30 万人报名使用其无人驾驶出租车服务。摘自“Waymo 的自动驾驶叫车服务面向旧金山所有人”
+路透社 (06/25/24) Jaspreet Singh 查看全文]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/waymos-autonomous-ride-hailing-service-now-available-all-san-francisco-2024-06-25/</guid>
+      <pubDate>Mon, 01 Jul 2024 15:08:00 GMT</pubDate>
     </item>
     <item>
-      <title>乐高积木让科学变得更容易理解</title>
-      <link>https://www.technologyreview.com/2024/06/25/1093639/lego-bricks-science-accessibility/</link>
-      <description><![CDATA[《麻省理工技术评论》研究人员越来越多地使用乐高组件来制造低成本但有效的实验室设备。除了耐用的积木外，乐高还提供可以识别某些颜色、检测旋转运动和测量物体距离的传感器。法国蔚蓝海岸大学的研究人员使用乐高组件制造了机械细胞拉伸器，而埃默里大学的研究人员则开发了乐高色谱仪。英国卡迪夫大学的研究人员利用乐高积木制作了一台 3D 生物打印机，德国哥廷根大学的研究人员制作了一台乐高显微镜。摘自“乐高积木让科学更容易理解”
-麻省理工技术评论 (06/25/24) Elizabeth Fernandez 查看全文]]></description>
-      <guid>https://www.technologyreview.com/2024/06/25/1093639/lego-bricks-science-accessibility/</guid>
-      <pubDate>Fri, 28 Jun 2024 18:09:40 GMT</pubDate>
+      <title>CARMEN 帮助患有轻度认知障碍的人</title>
+      <link>https://today.ucsd.edu/story/meet-carmen-a-robot-that-helps-people-with-mild-cognitive-impairment</link>
+      <description><![CDATA[加州大学圣地亚哥分校今日加州大学圣地亚哥分校的研究人员开发了一款桌面机器人，旨在帮助改善轻度认知障碍 (MCI) 患者的记忆力和执行功能。CARMEN（用于激励和神经康复的认知辅助机器人）是在临床医生、MCI 患者及其护理伙伴的意见下开发的，它使用互动游戏和活动教授补偿性认知策略。摘自“CARMEN 帮助轻度认知障碍患者”
+加州大学圣地亚哥分校今日 (06/24/24) Ioana Patringenaru 查看全文]]></description>
+      <guid>https://today.ucsd.edu/story/meet-carmen-a-robot-that-helps-people-with-mild-cognitive-impairment</guid>
+      <pubDate>Mon, 01 Jul 2024 15:08:00 GMT</pubDate>
     </item>
     <item>
-      <title>摄像头技术可识别醉酒司机上车的情况</title>
-      <link>https://www.techtimes.com/articles/306018/20240625/new-camera-technology-spot-drunk-drivers-car.htm</link>
-      <description><![CDATA[Tech Times澳大利亚伊迪斯科文大学的研究人员开发了一种摄像系统，可以在人们开始驾驶之前识别出他们是否醉酒。研究人员与移动资产管理解决方案提供商 Mix by Powerfleet 合作，使用驾驶模拟器收集视频数据来训练机器学习系统，该系统根据驾驶员的面部特征、注视方向和头部位置检测酒精中毒程度。该系统仅使用标准 RGB 摄像头，在对酒精中毒程度进行分类时准确率为 75%。摘自“摄像头技术在醉酒司机上车时发现他们”
-Tech Times (06/25/24) Jace Dela Cruz 查看全文]]></description>
-      <guid>https://www.techtimes.com/articles/306018/20240625/new-camera-technology-spot-drunk-drivers-car.htm</guid>
-      <pubDate>Fri, 28 Jun 2024 18:09:39 GMT</pubDate>
+      <title>人工智能加速软件开发</title>
+      <link>https://www.zdnet.com/article/ai-accelerates-software-development-to-breakneck-speeds-but-measuring-that-is-tricky/</link>
+      <description><![CDATA[ZDNetGitLab 对 5,315 名高管和 IT 专业人士的调查显示，78% 的受访者已经在软件开发中使用 AI 或计划在未来两年内使用 AI，同比增长 64%。 47% 的人表示他们使用 AI 进行代码生成和代码建议/完成，以及代码解释（40%）、代码更改摘要（38%）、允许用户使用自然语言询问文档问题的聊天机器人（35%）和代码审查摘要（35%）。摘自“AI 加速软件开发以惊人的速度发展”
+ZDNet (06/26/24) Joe McKendrick 查看全文]]></description>
+      <guid>https://www.zdnet.com/article/ai-accelerates-software-development-to-breakneck-speeds-but-measuring-that-is-tricky/</guid>
+      <pubDate>Mon, 01 Jul 2024 15:07:59 GMT</pubDate>
     </item>
     <item>
-      <title>Verizon 失误导致六个州的 911 服务中断</title>
-      <link>https://arstechnica.com/tech-policy/2024/06/verizon-screwup-caused-911-outage-in-6-states-carrier-agrees-to-1m-fine/</link>
-      <description><![CDATA[Ars TechnicaVerizon Wireless 将因 2022 年 12 月的 911 中断而向美国财政部支付 105 万美元的罚款。联邦通信委员会 (FCC) 表示，在持续近两个小时的中断期间，阿拉巴马州、佛罗里达州、佐治亚州、北卡罗来纳州、南卡罗来纳州和田纳西州的数百个 911 电话无法接通。根据 FCC 同意令，此次中断是由“重新应用已知有缺陷的安全策略更新文件”引起的。摘自“Verizon 失误导致六个州 911 中断”
-Ars Technica (06/25/24) Jon Brodkin 查看全文]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/06/verizon-screwup-caused-911-outage-in-6-states-carrier-agrees-to-1m-fine/</guid>
-      <pubDate>Fri, 28 Jun 2024 18:09:39 GMT</pubDate>
+      <title>Hinton 出资 100 万美元建造安大略科学中心</title>
+      <link>https://www.theglobeandmail.com/canada/article-godfather-of-ai-offers-1-million-for-ontario-science-centre-roof/</link>
+      <description><![CDATA[《环球邮报》（加拿大）ACM A.M. 图灵奖获得者、加拿大多伦多大学计算机科学名誉教授 Geoffrey Hinton 表示，如果省政府保留安大略科学中心的现有建筑，他将捐赠 100 万美元用于维修。Hinton 表示，他“不太相信”拟建的新建筑要到 2028 年才会开放，其质量将与现有建筑相当。摘自“Hinton 为安大略科学中心提供 100 万美元”
+《环球邮报》（加拿大）（2024 年 6 月 26 日）Jeff Gray 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.theglobeandmail.com/canada/article-godfather-of-ai-offers-1-million-for-ontario-science-centre-roof/</guid>
+      <pubDate>Mon, 01 Jul 2024 15:07:59 GMT</pubDate>
     </item>
     <item>
-      <title>朝鲜叛逃者将“智能”气球送回国</title>
-      <link>https://www.cnn.com/2024/06/26/asia/north-south-korea-balloons-defector-activist-group-intl-hnk/index.html</link>
-      <description><![CDATA[CNN一名名叫崔的朝鲜叛逃者从他在韩国首尔的公寓向朝鲜发射“智能”气球。这些气球配备了 GPS 追踪器、传感器和小型电路板，以确保它们保持一定的高度，并可携带自动传单分发装置，定期释放传单，以及扬声器来传播宣传信息。 Choi 使用 3D 打印机制造气球上的一些设备。摘自“朝鲜叛逃者将‘智能’气球送回国”
-CNN (06/26/24) Jessie Yeung；Mike Valerio；Yoonjung Seo 查看全文]]></description>
-      <guid>https://www.cnn.com/2024/06/26/asia/north-south-korea-balloons-defector-activist-group-intl-hnk/index.html</guid>
-      <pubDate>Fri, 28 Jun 2024 18:09:38 GMT</pubDate>
+      <title>韩国在四所美国大学设立技术研究中心</title>
+      <link>https://en.yna.co.kr/view/AEN20240627010000320</link>
+      <description><![CDATA[韩联社（韩国）韩国产业通商资源部在韩美先进产业技术合作论坛上宣布，已在耶鲁大学、约翰霍普金斯大学、普渡大学、佐治亚理工学院设立技术合作中心。韩国将在这些中心实施联合研发项目，以确保新增长引擎的技术。计划到2027年再设立8个中心。摘自“韩国在4所美国大学设立技术研究中心”
+韩联社（韩国）（2024年6月27日）姜允承]]></description>
+      <guid>https://en.yna.co.kr/view/AEN20240627010000320</guid>
+      <pubDate>Mon, 01 Jul 2024 15:07:58 GMT</pubDate>
     </item>
     <item>
-      <title>Zig 是 2024 年收入最高的编程语言</title>
-      <link>https://thenextweb.com/news/zig-highest-paying-programming-language</link>
-      <description><![CDATA[下一个网络Stack Overflow 对 185 个国家/地区的 89,184 名软件开发人员进行的最新调查发现，Zig 是今年收入最高的编程语言，使用该语言的开发人员平均年薪为 103,000 美元。然而，只有 0.83% 的受访者表示他们精通 Zig。调查还发现，2023 年 Dart 和 SAS 开发人员的平均薪酬同比增长超过 20%，而 Clojure 开发人员的平均薪酬平均下降了 10%。摘自“Zig 是 2024 年薪酬最高的编程语言”
-The Next Web (06/25/24) Amanda Kavanagh 查看全文]]></description>
-      <guid>https://thenextweb.com/news/zig-highest-paying-programming-language</guid>
-      <pubDate>Fri, 28 Jun 2024 18:09:38 GMT</pubDate>
+      <title>将数据中心置于太空可以减少其碳足迹</title>
+      <link>https://www.wsj.com/articles/putting-data-centers-in-space-could-reduce-their-carbon-footprint-european-study-finds-ea3a03f6</link>
+      <description><![CDATA[WSJ Pro Sustainable Business泰雷兹阿莱尼亚航天公司 (Thales Alenia Space) 是欧洲一项研究在太空建造数据中心可行性的倡议的协调员，该倡议发现，这样做可以减少数据中心的碳足迹，并在 2050 年前产生数十亿欧元的投资回报。欧盟资助的 Ascend（欧洲净零排放和数据主权高级太空云）可行性研究发现，由地球大气层外的太阳能供电的太空数据中心将有助于欧盟实现碳中和。摘自“将数据中心放在太空可以减少其碳足迹”
+WSJ Pro Sustainable Business (06/27/24) Nina Kienle 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/articles/putting-data-centers-in-space-could-reduce-their-carbon-footprint-european-study-finds-ea3a03f6</guid>
+      <pubDate>Mon, 01 Jul 2024 15:07:58 GMT</pubDate>
     </item>
     <item>
-      <title>西雅图生活计算机博物馆永久关闭</title>
-      <link>https://www.geekwire.com/2024/seattles-living-computers-museum-logs-off-for-good-as-paul-allen-estate-will-auction-vintage-items/</link>
-      <description><![CDATA[GeekWire已故微软联合创始人保罗·艾伦 (Paul Allen) 的遗产计划拍卖其位于西雅图的活计算机博物馆 + 实验室中的古董，该博物馆已于 2020 年关闭。此次活动名为“第一代：保罗·G·艾伦收藏的创新”，将包括三场拍卖会。一件将被拍卖的稀有物品是 1971 年的 DEC PDP-10：KI-10，这是艾伦和比尔盖茨在创立微软之前使用的第一台计算机。摘自“西雅图生活计算机博物馆永久关闭”
-GeekWire (06/25/24) Kurt Schlosser 查看全文]]></description>
-      <guid>https://www.geekwire.com/2024/seattles-living-computers-museum-logs-off-for-good-as-paul-allen-estate-will-auction-vintage-items/</guid>
-      <pubDate>Fri, 28 Jun 2024 18:09:38 GMT</pubDate>
+      <title>算法改善老年人跌倒检测</title>
+      <link>https://www.binghamton.edu/news/story/5025/researchers-find-better-way-to-detect-when-older-adults-fall-at-home</link>
+      <description><![CDATA[BingUNews宾汉姆顿大学研究人员开发的一种人体动作识别算法可以减少老年人在家中跌倒时的反应时间。快速响应老年人安全监测 (RESAM) 系统无需将检测到异常运动的传感器的数据传输到场外处理中心。研究人员发现，RESAM 可以在智能手表、智能手机、笔记本电脑或台式电脑上运行，其跌倒检测准确率高达 99%，响应时间为 1.22 秒。摘自“算法改善老年人跌倒检测”
+BingUNews (06/26/24) Chris Kocher]]></description>
+      <guid>https://www.binghamton.edu/news/story/5025/researchers-find-better-way-to-detect-when-older-adults-fall-at-home</guid>
+      <pubDate>Mon, 01 Jul 2024 15:07:58 GMT</pubDate>
     </item>
     <item>
-      <title>现在讲述奥运会：人工智能艾尔·迈克尔斯</title>
-      <link>https://www.nytimes.com/2024/06/26/business/media/nbc-olympics-ai.html</link>
-      <description><![CDATA[《纽约时报》NBCUniversal 和流媒体平台 Peacock 表示，订阅者将可以观看夏季奥运会的定制每日精彩片段，这些片段由广播员 Al Michaels 的 AI 生成的声音呈现，Al Michaels 已授权使用他的声音。订阅者可以选择每日精彩片段中包含哪些赛事以及包含的精彩片段类型，例如热门片段、金牌得主或淘汰赛。摘自“Now Narrating the Olympics: AI-Al Michaels”
-《纽约时报》（2024 年 6 月 26 日）John Koblin 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/06/26/business/media/nbc-olympics-ai.html</guid>
-      <pubDate>Fri, 28 Jun 2024 18:09:37 GMT</pubDate>
+      <title>机器人涉足亚洲最脏的农场工作之一</title>
+      <link>https://www.bloomberg.com/news/articles/2024-06-29/farm-robots-help-plug-worker-shortage-in-malaysian-palm-oil</link>
+      <description><![CDATA[彭博社马来西亚的油棕种植园正在使用无人机、自动驾驶卡车和其他机器人技术来填补劳动力缺口，而劳动力缺口已经扰乱了世界上消费量最大的食用油的供应。例如，石油公司 SD Guthrie 已经开始使用机器来接管非收获工作，如喷洒农药或监测水果和产量。其他棕榈油巨头，如 Golden Agri-Resources Ltd. 和 IOI Corp Bhd. 也投资了机械化和人工智能来帮助收获油。摘自“机器人进入亚洲最脏的农场工作之一”
+彭博社 (06/29/24) Anuradha Raghu; Kok Leong Chan 查看全文]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-06-29/farm-robots-help-plug-worker-shortage-in-malaysian-palm-oil</guid>
+      <pubDate>Mon, 01 Jul 2024 15:07:57 GMT</pubDate>
     </item>
     <item>
-      <title>英格兰参加计算机 GCSE 考试的女生数量大幅下降</title>
-      <link>https://www.theguardian.com/technology/article/2024/jun/27/number-of-girls-in-england-taking-computing-gcse-plummets-study-finds</link>
-      <description><![CDATA[《卫报》（英国）伦敦国王学院的研究人员发现，英国参加计​​算机普通中等教育证书 (GCSE) 考试的女学生比例从 2015 年的 43%（当时信息通信技术 (ICT) GCSE 仍在使用）骤降至 2023 年的 21%（届时 ICT GCSE 将被计算机科学 GCSE 取代）。研究发现，2015 年有 40,000 名女学生参加了 ICT GCSE 考试，另有 5,000 名女学生参加了计算机科学考试； 2023 年，没有 ICT，只有 18,600 名女性学习计算机科学。摘自“英格兰参加计算机 GCSE 考试的女孩数量暴跌”
-卫报 (英国) (06/26/24) Sally Weale 查看全文]]></description>
-      <guid>https://www.theguardian.com/technology/article/2024/jun/27/number-of-girls-in-england-taking-computing-gcse-plummets-study-finds</guid>
-      <pubDate>Fri, 28 Jun 2024 18:09:37 GMT</pubDate>
+      <title>日本利用商用光纤实现 402 Tb/s 数据速率</title>
+      <link>https://www.tomshardware.com/tech-industry/japan-achieves-staggering-402-tbs-data-rate-with-commercial-optical-fiber-record-breaking-performance-tapped-into-unused-wavelength-bands</link>
+      <description><![CDATA[Tom&#39;s Hardware由日本国家信息通信技术研究所的研究人员领导的团队通过使用六种类型的放大器和一个可以利用光纤中未使用的 37 THz 带宽的光增益均衡器，实现了 402 Tb/s 的数据传输记录。研究人员通过 1,505 个信道在 50 公里（约 31 英里）的光纤电缆上传输信号，数据速率容量比之前高出 25% 以上，传输带宽提升了 35%。摘自“日本利用商用光纤实现 402 Tb/s 数据速率”
+Tom&#39;s Hardware (06/27/24) Roshan Ashraf Shaikh 查看全文]]></description>
+      <guid>https://www.tomshardware.com/tech-industry/japan-achieves-staggering-402-tbs-data-rate-with-commercial-optical-fiber-record-breaking-performance-tapped-into-unused-wavelength-bands</guid>
+      <pubDate>Mon, 01 Jul 2024 15:07:57 GMT</pubDate>
     </item>
     <item>
-      <title>Hwu 荣获 ACM-IEEE CS Eckert-Mauchly 奖</title>
-      <link>https://www.acm.org/media-center/2024/june/eckert-mauchly-award-2024</link>
-      <description><![CDATA[ACM 媒体中心伊利诺伊大学香槟分校名誉教授 Wen-mei W. Hwu 荣获 ACM-IEEE CS Eckert-Mauchly 奖，以表彰其在超标量、VLIW 和面向吞吐量的多核处理器架构的设计和应用方面做出的开创性和基础性贡献。Hwu 在主要的 ACM/IEEE 会议和期刊上发表了 400 多篇技术论文。 1999 年，他因“IMPACT 编译器的设计和实现”而获得 ACM Grace M. Hopper 奖，1998 年，他因在 ILP 编译器架构支持方面的工作而获得 ACM SIGARCH 的首个 Maurice Wilkes 奖。摘自“Hwu 获得 ACM-IEEE CS Eckert-Mauchly 奖”
-ACM 媒体中心 (06/27/24) 查看全文]]></description>
-      <guid>https://www.acm.org/media-center/2024/june/eckert-mauchly-award-2024</guid>
-      <pubDate>Fri, 28 Jun 2024 18:09:36 GMT</pubDate>
+      <title>各国警告关键开源程序未得到充分保护</title>
+      <link>https://www.techradar.com/pro/us-government-warns-key-open-source-programs-arent-sufficiently-protected</link>
+      <description><![CDATA[TechRadar美国联邦调查局 (FBI)、美国网络安全和基础设施安全局 (CISA) 以及加拿大和澳大利亚的同行警告称，许多开源程序无法防范新兴和不断发展的威胁行为者。CISA 的一份报告发现，在所研究的 172 个开源项目中，有 52% 包含以内存不安全语言编写的代码。该报告显示，Linux 包含 95% 的不安全代码，而 Tor (93%)、MySQL Server (84%) 和 Chromium (51%) 等开源项目则使用了不安全代码。摘自“国家警告关键开源程序保护不充分”
+TechRadar (06/27/24) Craig Hale 查看全文]]></description>
+      <guid>https://www.techradar.com/pro/us-government-warns-key-open-source-programs-arent-sufficiently-protected</guid>
+      <pubDate>Mon, 01 Jul 2024 15:07:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
