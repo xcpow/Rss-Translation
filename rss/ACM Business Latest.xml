@@ -4,7 +4,21 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Mon, 01 Jul 2024 21:07:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 00:35:06 GMT</lastBuildDate>
+    <item>
+      <title>美国最高法院向科技巨头送出大礼</title>
+      <link>https://www.wired.com/story/supreme-court-chevron-big-tech-regulatory-agencies/</link>
+      <description><![CDATA[通过将监管权力从政府机构转移到法院，最高法院最近的裁决可能对受到抨击的科技行业来说是一种福音。]]></description>
+      <guid>https://www.wired.com/story/supreme-court-chevron-big-tech-regulatory-agencies/</guid>
+      <pubDate>Mon, 01 Jul 2024 21:34:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>领先的实验室培育肉类公司裁员数十人</title>
+      <link>https://www.wired.com/story/leading-lab-grown-meat-company-cuts-dozens-of-jobs-upside-foods-cultivated-chicken/</link>
+      <description><![CDATA[由于立法、监管和资金方面的阻力，Upside Foods 正在裁员。]]></description>
+      <guid>https://www.wired.com/story/leading-lab-grown-meat-company-cuts-dozens-of-jobs-upside-foods-cultivated-chicken/</guid>
+      <pubDate>Mon, 01 Jul 2024 21:27:49 GMT</pubDate>
+    </item>
     <item>
       <title>欧盟称 Meta 的付费隐私模式违法</title>
       <link>https://www.wired.com/story/metas-pay-for-privacy-model-is-illegal-says-eu/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[欧盟已对微软提出竞争指控，指控其非法将 Teams 与 Office 关联起来。]]></description>
       <guid>https://www.wired.com/story/microsoft-faces-eu-charges-over-abusive-bundling/</guid>
       <pubDate>Tue, 25 Jun 2024 13:31:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国电子烟正在席卷美国</title>
-      <link>https://www.wired.com/story/the-us-is-being-flooded-by-chinese-vapes/</link>
-      <description><![CDATA[美国政府誓言要严厉打击非法尼古丁电子烟的销售。这些电子烟的价格越来越便宜，越来越花哨，而且威力越来越大。]]></description>
-      <guid>https://www.wired.com/story/the-us-is-being-flooded-by-chinese-vapes/</guid>
-      <pubDate>Tue, 25 Jun 2024 09:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国唱片公司起诉人工智能音乐生成器 Suno 和 Udio 侵犯版权</title>
-      <link>https://www.wired.com/story/ai-music-generators-suno-and-udio-sued-for-copyright-infringement/</link>
-      <description><![CDATA[美国唱片业协会和唱片公司声称，领先的人工智能音乐生成器未经许可对其艺术家的作品进行了训练。]]></description>
-      <guid>https://www.wired.com/story/ai-music-generators-suno-and-udio-sued-for-copyright-infringement/</guid>
-      <pubDate>Mon, 24 Jun 2024 15:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
