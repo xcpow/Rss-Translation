@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Wed, 03 Jul 2024 09:08:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 12:14:23 GMT</lastBuildDate>
+    <item>
+      <title>走进 a16z 的加密初创公司训练营</title>
+      <link>https://www.wired.com/story/inside-a16zs-boot-camp-for-crypto-startups/</link>
+      <description><![CDATA[Andreessen Horowitz 将赌注押在了加密货币上。（是的，真的。）今年春天，这家风险投资公司培训了一批新创始人，希望他们能够证明这项技术不只是用来制造骗局和投机。]]></description>
+      <guid>https://www.wired.com/story/inside-a16zs-boot-camp-for-crypto-startups/</guid>
+      <pubDate>Wed, 03 Jul 2024 10:36:17 GMT</pubDate>
+    </item>
     <item>
       <title>英国酝酿数据中心之争</title>
       <link>https://www.wired.com/story/data-centres-uk-boom-elections/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[图像和视频处理领域的顶尖专家 Hany Farid 表示，检测深度伪造作品需要的不仅仅是人工智能。]]></description>
       <guid>https://www.wired.com/story/deepfake-detection-get-real-labs/</guid>
       <pubDate>Thu, 27 Jun 2024 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>活动人士扰乱亚马逊与以色列 12 亿美元合同会议</title>
-      <link>https://www.wired.com/story/amazon-aws-project-nimbus-conference-protest-israel-gaza/</link>
-      <description><![CDATA[周三，活动组织“No Tech for Apartheid”的成员在华盛顿特区举行的一次会议上打断了亚马逊一位高管的演讲，理由是该公司的 Project Nimbus 云计算合同。]]></description>
-      <guid>https://www.wired.com/story/amazon-aws-project-nimbus-conference-protest-israel-gaza/</guid>
-      <pubDate>Wed, 26 Jun 2024 21:54:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
