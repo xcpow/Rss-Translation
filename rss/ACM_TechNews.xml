@@ -4,102 +4,102 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Mon, 01 Jul 2024 15:08:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 15:08:01 GMT</lastBuildDate>
     <item>
-      <title>奖励 100 万美元人工智能解决人类简单难题</title>
-      <link>https://www.newscientist.com/article/2437029-1m-prize-for-ai-that-can-solve-puzzles-that-are-simple-for-humans/</link>
-      <description><![CDATA[《新科学家》谷歌和软件公司 Zapier 为能够以人类水平甚至更高水平完成抽象和推理语料库 (ARC) 的人工智能设立了 100 万美元的奖金。ARC 测试由谷歌的 François Chollet 开发，需要有限的推理技能（物体永久性、目标导向性、计数和基本几何）来识别连接像素化形状成对网格的模式。开发出能够在测试中得分 85% 的人工智能系统的开发者将获得 50 万美元的大奖，比普通人类高出 1 个百分点。摘自“100 万美元奖金奖励能够解决人类简单难题的人工智能”
-《新科学家》（2024 年 6 月 25 日）Alex Wilkins 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.newscientist.com/article/2437029-1m-prize-for-ai-that-can-solve-puzzles-that-are-simple-for-humans/</guid>
-      <pubDate>Mon, 01 Jul 2024 15:08:01 GMT</pubDate>
+      <title>无人机技术助力鱼塘修复和恢复</title>
+      <link>https://www.soest.hawaii.edu/soestwp/announce/news/drone-technology-fishponds/</link>
+      <description><![CDATA[夏威夷大学马诺阿分校夏威夷大学的研究人员展示了如何使用无人机绘制沿海鱼塘地图，以获取有关洪水发生时间和地点以及未来海平面上升影响的数据。研究人员使用无人机和水下传感器实时跟踪水位，然后将使用无人机地形模型和激光雷达模型做出的洪水预测与无人机图像中观察到的洪水进行比较。他们发现无人机数字高程模型比激光雷达洪水模型更准确。摘自“无人机技术助力鱼塘恢复和恢复力”
+夏威夷大学马诺阿分校 (06/28/24) Marcie Grabowski 查看全文]]></description>
+      <guid>https://www.soest.hawaii.edu/soestwp/announce/news/drone-technology-fishponds/</guid>
+      <pubDate>Wed, 03 Jul 2024 15:08:00 GMT</pubDate>
     </item>
     <item>
-      <title>无电机械计算机超越二进制数据存储</title>
-      <link>https://interestingengineering.com/innovation/mechanical-computer-polymer-blocks</link>
-      <description><![CDATA[有趣的工程北卡罗来纳州立大学研究人员开发的原型机械计算机通过使用聚合物立方体扩展了二进制数据存储的范围，这些立方体允许在没有电子元件的情况下锁定或编辑数据。64 个立方体的灵感来自剪纸（日本的剪纸和折叠艺术），它们组成一个功能单元。拉动元结构的边缘会拉伸连接立方体的弹性胶带，将它们上下移动以允许编辑数据。释放元结构会锁定数据。摘自“无电机械计算机超越二进制数据存储”
-有趣的工程 (06/26/24) Ameya Paleja 查看全文]]></description>
-      <guid>https://interestingengineering.com/innovation/mechanical-computer-polymer-blocks</guid>
-      <pubDate>Mon, 01 Jul 2024 15:08:00 GMT</pubDate>
+      <title>云计算的前景如何？</title>
+      <link>https://www.bbc.com/news/articles/cd114lllyp6o</link>
+      <description><![CDATA[BBC数字工作空间公司 Citrix 的一项调查显示，由于安全性和成本以及性能、兼容性和停机时间等问题，94% 的美国大型公司在过去三年中已将数据或工作负载从云端移回。英国数据中心提供商 Pulsant 的 Mark Turner（如图）表示：“云将继续成为 IT 基础设施中最重要的组成部分，”他补充道，“现在正在将那些本不应该出现在云中或无法在云中运行的东西遣返回国。”摘自“云计算的阴雨天即将来临吗？”
+BBC（2024 年 6 月 27 日）Sean McManus 查看全文]]></description>
+      <guid>https://www.bbc.com/news/articles/cd114lllyp6o</guid>
+      <pubDate>Wed, 03 Jul 2024 15:08:00 GMT</pubDate>
     </item>
     <item>
-      <title>Waymo 自动驾驶叫车服务面向旧金山所有人开放</title>
-      <link>https://www.reuters.com/business/autos-transportation/waymos-autonomous-ride-hailing-service-now-available-all-san-francisco-2024-06-25/</link>
-      <description><![CDATA[路透社Waymo 运营的自动驾驶叫车服务 Waymo One 已向旧金山所有人开放，而不仅仅是候补名单上的人。Waymo 表示，自候补名单推出以来，已有约 30 万人报名使用其无人驾驶出租车服务。摘自“Waymo 的自动驾驶叫车服务面向旧金山所有人”
-路透社 (06/25/24) Jaspreet Singh 查看全文]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/waymos-autonomous-ride-hailing-service-now-available-all-san-francisco-2024-06-25/</guid>
-      <pubDate>Mon, 01 Jul 2024 15:08:00 GMT</pubDate>
+      <title>五角大楼将为美国军方推出超级计算机云服务</title>
+      <link>https://www.techtimes.com/articles/306213/20240701/pentagon-launch-supercomputer-cloud-service-military-enhancing-remote-access.htm</link>
+      <description><![CDATA[Tech Times美国国防部 (DoD) 推出的一项计划将为美国军事人员提供对超级计算机的远程访问，以提高备战能力和作战效率。Rescale 和 Parallel Works 的解决方案可实现国防部国防超级计算资源中心与商业云提供商的无缝集成，并升级高性能计算 (HPC) 现代化计划的超级计算资源中心的计算能力。摘自“五角大楼将为美国军方推出超级计算机云服务”
+Tech Times (07/01/24) Inno Flores 查看全文]]></description>
+      <guid>https://www.techtimes.com/articles/306213/20240701/pentagon-launch-supercomputer-cloud-service-military-enhancing-remote-access.htm</guid>
+      <pubDate>Wed, 03 Jul 2024 15:07:59 GMT</pubDate>
     </item>
     <item>
-      <title>CARMEN 帮助患有轻度认知障碍的人</title>
-      <link>https://today.ucsd.edu/story/meet-carmen-a-robot-that-helps-people-with-mild-cognitive-impairment</link>
-      <description><![CDATA[加州大学圣地亚哥分校今日加州大学圣地亚哥分校的研究人员开发了一款桌面机器人，旨在帮助改善轻度认知障碍 (MCI) 患者的记忆力和执行功能。CARMEN（用于激励和神经康复的认知辅助机器人）是在临床医生、MCI 患者及其护理伙伴的意见下开发的，它使用互动游戏和活动教授补偿性认知策略。摘自“CARMEN 帮助轻度认知障碍患者”
-加州大学圣地亚哥分校今日 (06/24/24) Ioana Patringenaru 查看全文]]></description>
-      <guid>https://today.ucsd.edu/story/meet-carmen-a-robot-that-helps-people-with-mild-cognitive-impairment</guid>
-      <pubDate>Mon, 01 Jul 2024 15:08:00 GMT</pubDate>
+      <title>公立学校学生的人工智能“朋友”效果不佳</title>
+      <link>https://www.nytimes.com/2024/07/01/us/ai-chatbot-los-angeles-schools.html</link>
+      <description><![CDATA[《纽约时报》人工智能初创公司 AllHere 倒闭了，就在几个月前，洛杉矶学区聘请它为学生开发聊天机器人。“Ed”聊天机器人旨在帮助学生获得学术和心理健康资源，向家长提供出勤信息和考试成绩，并检测和回应学生的各种情绪。洛杉矶同意向 AllHere 支付高达 600 万美元以开发 Ed。摘自“公立学校学生的人工智能‘朋友’失败”
+《纽约时报》（07/01/24）Dana Goldstein 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/07/01/us/ai-chatbot-los-angeles-schools.html</guid>
+      <pubDate>Wed, 03 Jul 2024 15:07:59 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能加速软件开发</title>
-      <link>https://www.zdnet.com/article/ai-accelerates-software-development-to-breakneck-speeds-but-measuring-that-is-tricky/</link>
-      <description><![CDATA[ZDNetGitLab 对 5,315 名高管和 IT 专业人士的调查显示，78% 的受访者已经在软件开发中使用 AI 或计划在未来两年内使用 AI，同比增长 64%。 47% 的人表示他们使用 AI 进行代码生成和代码建议/完成，以及代码解释（40%）、代码更改摘要（38%）、允许用户使用自然语言询问文档问题的聊天机器人（35%）和代码审查摘要（35%）。摘自“AI 加速软件开发以惊人的速度发展”
-ZDNet (06/26/24) Joe McKendrick 查看全文]]></description>
-      <guid>https://www.zdnet.com/article/ai-accelerates-software-development-to-breakneck-speeds-but-measuring-that-is-tricky/</guid>
-      <pubDate>Mon, 01 Jul 2024 15:07:59 GMT</pubDate>
+      <title>CDK Global 黑客攻击表明一家软件供应商可能主宰整个行业</title>
+      <link>https://www.wsj.com/articles/cdk-global-hack-shows-risk-of-one-software-vendor-dominating-an-industry-5156420d</link>
+      <description><![CDATA[《华尔街日报》最近，CDK Global 遭受网络攻击，该公司为大多数美国汽车经销商提供软件，这引发了人们对单个软件供应商主宰整个行业的担忧。少数小众软件供应商还主宰着航空、银行和医疗保健行业。虽然依赖单一供应商可能会在发生网络攻击或中断时破坏整个行业，但扩大为特定行业提供服务的软件供应商数量也为网络攻击提供了新的切入点。摘自“CDK Global Hack 显示一家软件供应商主导行业的风险”
+华尔街日报 (06/29/24) Belle Lin 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/articles/cdk-global-hack-shows-risk-of-one-software-vendor-dominating-an-industry-5156420d</guid>
+      <pubDate>Wed, 03 Jul 2024 15:07:59 GMT</pubDate>
     </item>
     <item>
-      <title>Hinton 出资 100 万美元建造安大略科学中心</title>
-      <link>https://www.theglobeandmail.com/canada/article-godfather-of-ai-offers-1-million-for-ontario-science-centre-roof/</link>
-      <description><![CDATA[《环球邮报》（加拿大）ACM A.M. 图灵奖获得者、加拿大多伦多大学计算机科学名誉教授 Geoffrey Hinton 表示，如果省政府保留安大略科学中心的现有建筑，他将捐赠 100 万美元用于维修。Hinton 表示，他“不太相信”拟建的新建筑要到 2028 年才会开放，其质量将与现有建筑相当。摘自“Hinton 为安大略科学中心提供 100 万美元”
-《环球邮报》（加拿大）（2024 年 6 月 26 日）Jeff Gray 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.theglobeandmail.com/canada/article-godfather-of-ai-offers-1-million-for-ontario-science-centre-roof/</guid>
-      <pubDate>Mon, 01 Jul 2024 15:07:59 GMT</pubDate>
+      <title>阿达尼加入争夺难以捉摸的印度超级应用的行列</title>
+      <link>https://www.bloomberg.com/news/articles/2024-07-01/adani-joins-tata-and-ambani-in-race-for-elusive-india-superapp</link>
+      <description><![CDATA[彭博社看到中国腾讯和阿里巴巴推出的“超级应用”大获成功，这些应用可以实现从聊天和购物到订购外卖和叫出租车等一切功能，印度的企业集团正试图挖掘印度不断增长的数字消费者群体。阿达尼集团的 Gautam Adani 是亚洲第二大富豪，他希望到本世纪末，5 亿印度人能够安装 Adani One 超级应用，尽管该应用自 2022 年 12 月推出以来仅获得了 3000 万用户。摘自“阿达尼加入争夺难以捉摸的印度超级应用的行列”
+彭博社 (07/01/24) Advait Palepu； Sanjai P R 查看全文]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-07-01/adani-joins-tata-and-ambani-in-race-for-elusive-india-superapp</guid>
+      <pubDate>Wed, 03 Jul 2024 15:07:58 GMT</pubDate>
     </item>
     <item>
-      <title>韩国在四所美国大学设立技术研究中心</title>
-      <link>https://en.yna.co.kr/view/AEN20240627010000320</link>
-      <description><![CDATA[韩联社（韩国）韩国产业通商资源部在韩美先进产业技术合作论坛上宣布，已在耶鲁大学、约翰霍普金斯大学、普渡大学、佐治亚理工学院设立技术合作中心。韩国将在这些中心实施联合研发项目，以确保新增长引擎的技术。计划到2027年再设立8个中心。摘自“韩国在4所美国大学设立技术研究中心”
-韩联社（韩国）（2024年6月27日）姜允承]]></description>
-      <guid>https://en.yna.co.kr/view/AEN20240627010000320</guid>
-      <pubDate>Mon, 01 Jul 2024 15:07:58 GMT</pubDate>
+      <title>利用脑物质的“人芯片”系统产生“类器官”机器人</title>
+      <link>https://siliconangle.com/2024/07/01/chinese-researchers-create-human-chip-system-using-brain-matter-create-organoid-robot/</link>
+      <description><![CDATA[SiliconANGLE中国天津大学和南方科技大学的研究人员开发了一种“人机芯片”系统，将人脑物质与神经接口芯片结合在一起。人工大脑在体外培养，与电极芯片结合后，可以通过编码、解码和刺激反馈与外部信息进行交互。研究人员利用该技术构建了一种混合“类器官”机器人，可以通过脑机芯片接口发出的指令避开障碍物、跟踪和抓握。摘自“利用脑物质的‘人机芯片’系统产生‘类器官’机器人”
+SiliconANGLE (07/01/24) Duncan Riley 查看全文]]></description>
+      <guid>https://siliconangle.com/2024/07/01/chinese-researchers-create-human-chip-system-using-brain-matter-create-organoid-robot/</guid>
+      <pubDate>Wed, 03 Jul 2024 15:07:58 GMT</pubDate>
     </item>
     <item>
-      <title>将数据中心置于太空可以减少其碳足迹</title>
-      <link>https://www.wsj.com/articles/putting-data-centers-in-space-could-reduce-their-carbon-footprint-european-study-finds-ea3a03f6</link>
-      <description><![CDATA[WSJ Pro Sustainable Business泰雷兹阿莱尼亚航天公司 (Thales Alenia Space) 是欧洲一项研究在太空建造数据中心可行性的倡议的协调员，该倡议发现，这样做可以减少数据中心的碳足迹，并在 2050 年前产生数十亿欧元的投资回报。欧盟资助的 Ascend（欧洲净零排放和数据主权高级太空云）可行性研究发现，由地球大气层外的太阳能供电的太空数据中心将有助于欧盟实现碳中和。摘自“将数据中心放在太空可以减少其碳足迹”
-WSJ Pro Sustainable Business (06/27/24) Nina Kienle 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/articles/putting-data-centers-in-space-could-reduce-their-carbon-footprint-european-study-finds-ea3a03f6</guid>
-      <pubDate>Mon, 01 Jul 2024 15:07:58 GMT</pubDate>
+      <title>美国最智能的高速公路</title>
+      <link>https://www.axios.com/2024/07/02/smart-highway-i-94-michigan</link>
+      <description><![CDATA[Axios由 Alphabet 旗下 Sidewalk Infrastructure Partners 的子公司设计的密歇根州 94 号州际公路长三英里，让我们得以一窥未来的高速公路。其技术支持的车道为密歇根州交通部提供有关交通、天气和其他道路状况的实时数据和见解。从长远来看，沿路的电线杆（包括传感器舱、计算舱和先进的通信设备）将向在专用车道上行驶的联网和自动驾驶汽车提供信息和建议。摘自“美国最智能的高速公路”
+Axios (07/02/24) Joann Muller 查看全文]]></description>
+      <guid>https://www.axios.com/2024/07/02/smart-highway-i-94-michigan</guid>
+      <pubDate>Wed, 03 Jul 2024 15:07:57 GMT</pubDate>
     </item>
     <item>
-      <title>算法改善老年人跌倒检测</title>
-      <link>https://www.binghamton.edu/news/story/5025/researchers-find-better-way-to-detect-when-older-adults-fall-at-home</link>
-      <description><![CDATA[BingUNews宾汉姆顿大学研究人员开发的一种人体动作识别算法可以减少老年人在家中跌倒时的反应时间。快速响应老年人安全监测 (RESAM) 系统无需将检测到异常运动的传感器的数据传输到场外处理中心。研究人员发现，RESAM 可以在智能手表、智能手机、笔记本电脑或台式电脑上运行，其跌倒检测准确率高达 99%，响应时间为 1.22 秒。摘自“算法改善老年人跌倒检测”
-BingUNews (06/26/24) Chris Kocher]]></description>
-      <guid>https://www.binghamton.edu/news/story/5025/researchers-find-better-way-to-detect-when-older-adults-fall-at-home</guid>
-      <pubDate>Mon, 01 Jul 2024 15:07:58 GMT</pubDate>
+      <title>人眼启发视觉系统</title>
+      <link>https://www.theengineer.co.uk/content/news/human-eye-inspires-vision-system-for-robotics</link>
+      <description><![CDATA[工程师由马里兰大学计算机科学家领导的团队开发的相机系统模仿了人眼用来保持清晰稳定视力的不自主运动。人工微扫视增强事件相机 (AMI-EV) 内部的旋转棱镜可重定向镜头捕获的光线。棱镜的连续旋转运动模拟了人眼中自然发生的运动，使相机能够像人一样稳定记录物体的纹理。摘自“人眼启发视觉系统”
+工程师 (07/02/24) 查看全文]]></description>
+      <guid>https://www.theengineer.co.uk/content/news/human-eye-inspires-vision-system-for-robotics</guid>
+      <pubDate>Wed, 03 Jul 2024 15:07:57 GMT</pubDate>
     </item>
     <item>
-      <title>机器人涉足亚洲最脏的农场工作之一</title>
-      <link>https://www.bloomberg.com/news/articles/2024-06-29/farm-robots-help-plug-worker-shortage-in-malaysian-palm-oil</link>
-      <description><![CDATA[彭博社马来西亚的油棕种植园正在使用无人机、自动驾驶卡车和其他机器人技术来填补劳动力缺口，而劳动力缺口已经扰乱了世界上消费量最大的食用油的供应。例如，石油公司 SD Guthrie 已经开始使用机器来接管非收获工作，如喷洒农药或监测水果和产量。其他棕榈油巨头，如 Golden Agri-Resources Ltd. 和 IOI Corp Bhd. 也投资了机械化和人工智能来帮助收获油。摘自“机器人进入亚洲最脏的农场工作之一”
-彭博社 (06/29/24) Anuradha Raghu; Kok Leong Chan 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-06-29/farm-robots-help-plug-worker-shortage-in-malaysian-palm-oil</guid>
-      <pubDate>Mon, 01 Jul 2024 15:07:57 GMT</pubDate>
+      <title>“智能”假肢帮助创造自然步态</title>
+      <link>https://www.upi.com/Health_News/2024/07/01/smart-prosthetic-legs-natural-gait/2161719852005/</link>
+      <description><![CDATA[UPI麻省理工学院 (MIT) 的研究人员开发了一种激动剂-拮抗剂神经肌肉接口 (AMI) 手术，用于重新连接截肢者残肢的肌肉，使患者在与机械腿结合时能够实现自然的步行步态。腿部肌肉的电信号被传输到机器人控制器，该控制器协助假肢确定脚踝弯曲的程度、施加的扭矩以及传递的功率。摘自“‘智能’假肢有助于创造自然步态”
+UPI (07/01/24) Dennis Thompson 查看全文]]></description>
+      <guid>https://www.upi.com/Health_News/2024/07/01/smart-prosthetic-legs-natural-gait/2161719852005/</guid>
+      <pubDate>Wed, 03 Jul 2024 15:07:56 GMT</pubDate>
     </item>
     <item>
-      <title>日本利用商用光纤实现 402 Tb/s 数据速率</title>
-      <link>https://www.tomshardware.com/tech-industry/japan-achieves-staggering-402-tbs-data-rate-with-commercial-optical-fiber-record-breaking-performance-tapped-into-unused-wavelength-bands</link>
-      <description><![CDATA[Tom&#39;s Hardware由日本国家信息通信技术研究所的研究人员领导的团队通过使用六种类型的放大器和一个可以利用光纤中未使用的 37 THz 带宽的光增益均衡器，实现了 402 Tb/s 的数据传输记录。研究人员通过 1,505 个信道在 50 公里（约 31 英里）的光纤电缆上传输信号，数据速率容量比之前高出 25% 以上，传输带宽提升了 35%。摘自“日本利用商用光纤实现 402 Tb/s 数据速率”
-Tom&#39;s Hardware (06/27/24) Roshan Ashraf Shaikh 查看全文]]></description>
-      <guid>https://www.tomshardware.com/tech-industry/japan-achieves-staggering-402-tbs-data-rate-with-commercial-optical-fiber-record-breaking-performance-tapped-into-unused-wavelength-bands</guid>
-      <pubDate>Mon, 01 Jul 2024 15:07:57 GMT</pubDate>
+      <title>杀手机器人时代的人工智能</title>
+      <link>https://www.nytimes.com/2024/07/02/technology/ukraine-war-ai-weapons.html</link>
+      <description><![CDATA[《纽约时报》现成设备、易于设计的软件、强大的自动化算法和专门的人工智能微芯片的广泛使用，为杀手机器人时代的到来提供了潜力。在乌克兰，这个时代的开始以使用自动目标跟踪的无人机系统和可以使用人工智能瞄准的机枪等武器为特征，使人类的判断变得越来越不重要。摘自《杀手机器人时代的人工智能》
+《纽约时报》（2024 年 7 月 2 日）Paul Mozur；Adam Satariano 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/07/02/technology/ukraine-war-ai-weapons.html</guid>
+      <pubDate>Wed, 03 Jul 2024 15:07:56 GMT</pubDate>
     </item>
     <item>
-      <title>各国警告关键开源程序未得到充分保护</title>
-      <link>https://www.techradar.com/pro/us-government-warns-key-open-source-programs-arent-sufficiently-protected</link>
-      <description><![CDATA[TechRadar美国联邦调查局 (FBI)、美国网络安全和基础设施安全局 (CISA) 以及加拿大和澳大利亚的同行警告称，许多开源程序无法防范新兴和不断发展的威胁行为者。CISA 的一份报告发现，在所研究的 172 个开源项目中，有 52% 包含以内存不安全语言编写的代码。该报告显示，Linux 包含 95% 的不安全代码，而 Tor (93%)、MySQL Server (84%) 和 Chromium (51%) 等开源项目则使用了不安全代码。摘自“国家警告关键开源程序保护不充分”
-TechRadar (06/27/24) Craig Hale 查看全文]]></description>
-      <guid>https://www.techradar.com/pro/us-government-warns-key-open-source-programs-arent-sufficiently-protected</guid>
-      <pubDate>Mon, 01 Jul 2024 15:07:56 GMT</pubDate>
+      <title>美国将通过“芯片法案”工人计划解决劳动力短缺问题</title>
+      <link>https://www.bloomberg.com/news/articles/2024-07-01/us-to-fight-labor-shortage-with-new-chips-act-worker-program</link>
+      <description><![CDATA[彭博社美国宣布，将拨出 50 亿美元用于新国家半导体技术中心 (NSTC) 的芯片与科学法案资金的一部分，用于发展美国计算机芯片劳动力的计划。NSTC 将在未来几个月内为多达 10 个劳动力发展项目提供补助。研究表明，到 2030 年，美国可能会出现 90,000 名技术人员的短缺。摘自“美国将通过芯片法案工人计划应对劳动力短缺”
+彭博社 (07/01/24) Mackenzie Hawkins 查看全文]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-07-01/us-to-fight-labor-shortage-with-new-chips-act-worker-program</guid>
+      <pubDate>Wed, 03 Jul 2024 15:07:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
