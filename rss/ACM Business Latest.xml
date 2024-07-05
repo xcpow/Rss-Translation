@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 05 Jul 2024 06:11:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 09:09:03 GMT</lastBuildDate>
+    <item>
+      <title>工党如何拯救英国科技产业</title>
+      <link>https://www.wired.com/story/can-the-uk-finally-fix-techs-big-pipeline-problem/</link>
+      <description><![CDATA[新政府可能会让英国科技行业复兴，并加强英国脱欧后岌岌可危的初创企业渠道。前提是政治因素不会成为阻碍。]]></description>
+      <guid>https://www.wired.com/story/can-the-uk-finally-fix-techs-big-pipeline-problem/</guid>
+      <pubDate>Fri, 05 Jul 2024 07:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>走进 a16z 的加密初创公司训练营</title>
       <link>https://www.wired.com/story/inside-a16zs-boot-camp-for-crypto-startups/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>如何通过偷看别人的冰箱致富</title>
       <link>https://www.wired.com/story/get-rich-peeping-inside-fridges/</link>
-      <description><![CDATA[忘掉标准普尔 500 指数吧。看看冰淇淋。这位投资者走访了世界各地的家庭，以了解饮食和经济的下一步发展方向。]]></description>
+      <description><![CDATA[忘掉标准普尔 500 指数吧。看看冰淇淋。这位投资者走访了世界各地的家庭，以了解饮食和经济的下一步走向。]]></description>
       <guid>https://www.wired.com/story/get-rich-peeping-inside-fridges/</guid>
       <pubDate>Mon, 01 Jul 2024 11:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[通过让人类对语言模型的输出进行评分，可以创造出聪明的聊天机器人。OpenAI 表示，将人工智能添加到循环中可以帮助它们变得更加智能和可靠。]]></description>
       <guid>https://www.wired.com/story/openai-rlhf-ai-training/</guid>
       <pubDate>Thu, 27 Jun 2024 17:05:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deepfakes 不断演变。这家公司想一网打尽</title>
-      <link>https://www.wired.com/story/deepfake-detection-get-real-labs/</link>
-      <description><![CDATA[图像和视频处理领域的顶尖专家 Hany Farid 表示，检测深度伪造作品需要的不仅仅是人工智能。]]></description>
-      <guid>https://www.wired.com/story/deepfake-detection-get-real-labs/</guid>
-      <pubDate>Thu, 27 Jun 2024 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
