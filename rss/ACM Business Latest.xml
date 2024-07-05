@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 05 Jul 2024 09:09:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 12:13:01 GMT</lastBuildDate>
+    <item>
+      <title>经过 10 年的等待，Mt. Gox 比特币终于回归</title>
+      <link>https://www.wired.com/story/after-a-10-year-wait-mt-gox-bitcoin-is-finally-being-returned/</link>
+      <description><![CDATA[破产的加密货币交易所 Mt. Gox 的前客户正准备找回他们丢失的比特币——这是一笔 90 亿美元的意外之财。]]></description>
+      <guid>https://www.wired.com/story/after-a-10-year-wait-mt-gox-bitcoin-is-finally-being-returned/</guid>
+      <pubDate>Fri, 05 Jul 2024 09:53:16 GMT</pubDate>
+    </item>
     <item>
       <title>工党如何拯救英国科技产业</title>
       <link>https://www.wired.com/story/can-the-uk-finally-fix-techs-big-pipeline-problem/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>欧盟称 Meta 的付费隐私模式违法</title>
       <link>https://www.wired.com/story/metas-pay-for-privacy-model-is-illegal-says-eu/</link>
-      <description><![CDATA[在最新的大型科技公司的谴责中，欧盟委员会官员表示，该科技巨头必须为欧盟用户提供另一种选择，以选择退出定向广告。]]></description>
+      <description><![CDATA[在最新的大型科技公司谴责中，欧盟委员会官员表示，该科技巨头必须为欧盟用户提供另一种选择，以选择退出定向广告。]]></description>
       <guid>https://www.wired.com/story/metas-pay-for-privacy-model-is-illegal-says-eu/</guid>
       <pubDate>Mon, 01 Jul 2024 11:02:48 GMT</pubDate>
     </item>
@@ -83,7 +90,7 @@
       <pubDate>Fri, 28 Jun 2024 10:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>这款病毒式人工智能聊天机器人会撒谎并声称自己是人类</title>
+      <title>这款病毒式 AI 聊天机器人会撒谎并声称自己是人类</title>
       <link>https://www.wired.com/story/bland-ai-chatbot-human/</link>
       <description><![CDATA[Bland AI 的客户服务和销售机器人是人工智能“洗白”的最新例子。专家警告现实模糊的后果。]]></description>
       <guid>https://www.wired.com/story/bland-ai-chatbot-human/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[AWS 托管了一个与贝索斯家族和 Nvidia 支持的搜索初创公司相关的服务器，该服务器似乎被用于抓取主要媒体的网站内容，这引发了对潜在违反规则的调查。]]></description>
       <guid>https://www.wired.com/story/aws-perplexity-bot-scraping-investigation/</guid>
       <pubDate>Thu, 27 Jun 2024 22:15:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 希望 AI 能够帮助人类训练 AI</title>
-      <link>https://www.wired.com/story/openai-rlhf-ai-training/</link>
-      <description><![CDATA[通过让人类对语言模型的输出进行评分，可以创造出聪明的聊天机器人。OpenAI 表示，将人工智能添加到循环中可以帮助它们变得更加智能和可靠。]]></description>
-      <guid>https://www.wired.com/story/openai-rlhf-ai-training/</guid>
-      <pubDate>Thu, 27 Jun 2024 17:05:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
