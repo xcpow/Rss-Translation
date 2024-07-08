@@ -4,102 +4,103 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Wed, 03 Jul 2024 15:08:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 18:10:11 GMT</lastBuildDate>
     <item>
-      <title>无人机技术助力鱼塘修复和恢复</title>
-      <link>https://www.soest.hawaii.edu/soestwp/announce/news/drone-technology-fishponds/</link>
-      <description><![CDATA[夏威夷大学马诺阿分校夏威夷大学的研究人员展示了如何使用无人机绘制沿海鱼塘地图，以获取有关洪水发生时间和地点以及未来海平面上升影响的数据。研究人员使用无人机和水下传感器实时跟踪水位，然后将使用无人机地形模型和激光雷达模型做出的洪水预测与无人机图像中观察到的洪水进行比较。他们发现无人机数字高程模型比激光雷达洪水模型更准确。摘自“无人机技术助力鱼塘恢复和恢复力”
-夏威夷大学马诺阿分校 (06/28/24) Marcie Grabowski 查看全文]]></description>
-      <guid>https://www.soest.hawaii.edu/soestwp/announce/news/drone-technology-fishponds/</guid>
-      <pubDate>Wed, 03 Jul 2024 15:08:00 GMT</pubDate>
+      <title>GPS 正遭受攻击</title>
+      <link>https://www.nytimes.com/interactive/2024/07/02/world/gps-threats.html</link>
+      <description><![CDATA[《纽约时报》全球定位系统 (GPS) 每天都在遭受攻击。冲突地区附近的空域经常发生 GPS 干扰事件。美国在更换老化的 GPS 卫星和制定备用计划方面落后于其他国家。欧洲伽利略系统对其信号进行验证，中国正在开发计时站并铺设光缆，以消除对卫星导航的需求。摘自“GPS 遭受攻击”
+《纽约时报》（07/02/24）Selam Gebrekidan；K.K. Rebecca Lai；Pablo Robles；等人 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/interactive/2024/07/02/world/gps-threats.html</guid>
+      <pubDate>Mon, 08 Jul 2024 18:10:11 GMT</pubDate>
     </item>
     <item>
-      <title>云计算的前景如何？</title>
-      <link>https://www.bbc.com/news/articles/cd114lllyp6o</link>
-      <description><![CDATA[BBC数字工作空间公司 Citrix 的一项调查显示，由于安全性和成本以及性能、兼容性和停机时间等问题，94% 的美国大型公司在过去三年中已将数据或工作负载从云端移回。英国数据中心提供商 Pulsant 的 Mark Turner（如图）表示：“云将继续成为 IT 基础设施中最重要的组成部分，”他补充道，“现在正在将那些本不应该出现在云中或无法在云中运行的东西遣返回国。”摘自“云计算的阴雨天即将来临吗？”
-BBC（2024 年 6 月 27 日）Sean McManus 查看全文]]></description>
-      <guid>https://www.bbc.com/news/articles/cd114lllyp6o</guid>
-      <pubDate>Wed, 03 Jul 2024 15:08:00 GMT</pubDate>
+      <title>微型芯片可以保护量子Wi-Fi</title>
+      <link>https://www.newscientist.com/article/2437975-tiny-chip-could-enable-super-secure-quantum-wi-fi/</link>
+      <description><![CDATA[新科学家加州理工学院研究人员开发的量子相位阵列 (QPA) 可实现在任何位置进行安全的量子 Wi-Fi 通信。QPA 包含 1,000 多个电子元件，排列在 1.8 毫米 x 3 毫米的硅基芯片上。片上系统具有 32 个天线，可以发送和接收在自由空间中移动的量子信号，并且可以在室温下运行。摘自“微型芯片可以保护量子 Wi-Fi”
+新科学家 (07/02/24) Karmela Padavic-Callaghan 查看全文]]></description>
+      <guid>https://www.newscientist.com/article/2437975-tiny-chip-could-enable-super-secure-quantum-wi-fi/</guid>
+      <pubDate>Mon, 08 Jul 2024 18:10:10 GMT</pubDate>
     </item>
     <item>
-      <title>五角大楼将为美国军方推出超级计算机云服务</title>
-      <link>https://www.techtimes.com/articles/306213/20240701/pentagon-launch-supercomputer-cloud-service-military-enhancing-remote-access.htm</link>
-      <description><![CDATA[Tech Times美国国防部 (DoD) 推出的一项计划将为美国军事人员提供对超级计算机的远程访问，以提高备战能力和作战效率。Rescale 和 Parallel Works 的解决方案可实现国防部国防超级计算资源中心与商业云提供商的无缝集成，并升级高性能计算 (HPC) 现代化计划的超级计算资源中心的计算能力。摘自“五角大楼将为美国军方推出超级计算机云服务”
-Tech Times (07/01/24) Inno Flores 查看全文]]></description>
-      <guid>https://www.techtimes.com/articles/306213/20240701/pentagon-launch-supercomputer-cloud-service-military-enhancing-remote-access.htm</guid>
-      <pubDate>Wed, 03 Jul 2024 15:07:59 GMT</pubDate>
+      <title>机器狗帮助盲人</title>
+      <link>https://learningenglish.voanews.com/a/chinese-researchers-develop-robot-dogs-to-assist-the-blind/7681973.html</link>
+      <description><![CDATA[美国之音新闻中国交通大学 (JTU) 的研究人员开发了一种六足机器人导盲犬，它可以使用摄像头和传感器进行导航。它使用人工智能来识别声音、与用户交流、规划路线和识别交通信号灯。JTU 的高峰表示，中国可能对机器人导盲犬有巨大的市场，因为中国有近 2000 万盲人，但导盲犬只有 400 多只。摘自“机器狗帮助盲人”
+美国之音新闻 (07/02/24) Casey Hall；Xihao Jiang；Jr.，Mario Ritter 查看全文]]></description>
+      <guid>https://learningenglish.voanews.com/a/chinese-researchers-develop-robot-dogs-to-assist-the-blind/7681973.html</guid>
+      <pubDate>Mon, 08 Jul 2024 18:10:10 GMT</pubDate>
     </item>
     <item>
-      <title>公立学校学生的人工智能“朋友”效果不佳</title>
-      <link>https://www.nytimes.com/2024/07/01/us/ai-chatbot-los-angeles-schools.html</link>
-      <description><![CDATA[《纽约时报》人工智能初创公司 AllHere 倒闭了，就在几个月前，洛杉矶学区聘请它为学生开发聊天机器人。“Ed”聊天机器人旨在帮助学生获得学术和心理健康资源，向家长提供出勤信息和考试成绩，并检测和回应学生的各种情绪。洛杉矶同意向 AllHere 支付高达 600 万美元以开发 Ed。摘自“公立学校学生的人工智能‘朋友’失败”
-《纽约时报》（07/01/24）Dana Goldstein 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/07/01/us/ai-chatbot-los-angeles-schools.html</guid>
-      <pubDate>Wed, 03 Jul 2024 15:07:59 GMT</pubDate>
+      <title>日本引进巨型人形机器人维护火车线路</title>
+      <link>https://www.theguardian.com/world/article/2024/jul/04/japan-train-robot-maintain-railway-lines</link>
+      <description><![CDATA[英国卫报 西日本铁路公司部署了一辆卡车式人形机器人，用于处理维护任务，并解决日本人口老龄化带来的劳动力短缺问题。该机器的垂直伸展范围为 40 英尺（12 米），可承载高达 88 磅（40 公斤）的重物，可握住油漆刷或使用电锯。它由驻扎在卡车驾驶舱中的人员远程操作，人员使用机器人的摄像头“眼睛”进行“观察”。摘自“日本推出巨型人形机器人维护火车线路”
+英国卫报 (07/04/24)]]></description>
+      <guid>https://www.theguardian.com/world/article/2024/jul/04/japan-train-robot-maintain-railway-lines</guid>
+      <pubDate>Mon, 08 Jul 2024 18:10:09 GMT</pubDate>
     </item>
     <item>
-      <title>CDK Global 黑客攻击表明一家软件供应商可能主宰整个行业</title>
-      <link>https://www.wsj.com/articles/cdk-global-hack-shows-risk-of-one-software-vendor-dominating-an-industry-5156420d</link>
-      <description><![CDATA[《华尔街日报》最近，CDK Global 遭受网络攻击，该公司为大多数美国汽车经销商提供软件，这引发了人们对单个软件供应商主宰整个行业的担忧。少数小众软件供应商还主宰着航空、银行和医疗保健行业。虽然依赖单一供应商可能会在发生网络攻击或中断时破坏整个行业，但扩大为特定行业提供服务的软件供应商数量也为网络攻击提供了新的切入点。摘自“CDK Global Hack 显示一家软件供应商主导行业的风险”
-华尔街日报 (06/29/24) Belle Lin 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/articles/cdk-global-hack-shows-risk-of-one-software-vendor-dominating-an-industry-5156420d</guid>
-      <pubDate>Wed, 03 Jul 2024 15:07:59 GMT</pubDate>
+      <title>古生物学家利用 RFID 标记和追踪恐龙骨骼</title>
+      <link>https://spectrum.ieee.org/dinosaur-fossils-rfid</link>
+      <description><![CDATA[IEEE Spectrum非营利性地球科学基金会的古生物学家正在南达科他州的一个挖掘现场使用射频识别 (RFID) 标签和地理信息系统 (GIS) 软件对化石进行分类和追踪。他们利用 InfraMarker 和 GIS 提供商 Esri 的技术标记了数百块骨头。地球科学基金会的 Tom Hebert 表示，古生物学家使用 RFID 技术记录他们发现的标本只需五分钟或更短的时间。摘自“古生物学家使用 RFID 标记和追踪恐龙骨骼”
+IEEE Spectrum (07/02/24) Gwendolyn Rak 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/dinosaur-fossils-rfid</guid>
+      <pubDate>Mon, 08 Jul 2024 18:10:09 GMT</pubDate>
     </item>
     <item>
-      <title>阿达尼加入争夺难以捉摸的印度超级应用的行列</title>
-      <link>https://www.bloomberg.com/news/articles/2024-07-01/adani-joins-tata-and-ambani-in-race-for-elusive-india-superapp</link>
-      <description><![CDATA[彭博社看到中国腾讯和阿里巴巴推出的“超级应用”大获成功，这些应用可以实现从聊天和购物到订购外卖和叫出租车等一切功能，印度的企业集团正试图挖掘印度不断增长的数字消费者群体。阿达尼集团的 Gautam Adani 是亚洲第二大富豪，他希望到本世纪末，5 亿印度人能够安装 Adani One 超级应用，尽管该应用自 2022 年 12 月推出以来仅获得了 3000 万用户。摘自“阿达尼加入争夺难以捉摸的印度超级应用的行列”
-彭博社 (07/01/24) Advait Palepu； Sanjai P R 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-07-01/adani-joins-tata-and-ambani-in-race-for-elusive-india-superapp</guid>
-      <pubDate>Wed, 03 Jul 2024 15:07:58 GMT</pubDate>
+      <title>雷·库兹韦尔会与人工智能融合吗？</title>
+      <link>https://www.nytimes.com/2024/07/04/technology/ray-kurzweil-singularity.html</link>
+      <description><![CDATA[《纽约时报》ACM 研究员雷·库兹韦尔 (Ray Kurzweil) 认为，随着计算机能力的增长，人类与人工智能融合的“奇点”将在 2045 年到来。库兹韦尔因开发出一种能为盲人朗读文本的设备而于 1978 年获得 ACM 的格蕾丝·莫里·霍普奖。他想体验奇点，但他承认，自己已经 76 岁了，可能活不到那一天了。ACM 研究员雷·库兹韦尔表示。图灵奖获得者 Geoffrey Hinton 表示：“他的预测不再那么愚蠢。事情发生的速度比我预期的要快得多。”摘自“雷·库兹韦尔会与人工智能合并吗？”
+
+纽约时报 (07/04/24) Cade Metz 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/07/04/technology/ray-kurzweil-singularity.html</guid>
+      <pubDate>Mon, 08 Jul 2024 18:10:08 GMT</pubDate>
     </item>
     <item>
-      <title>利用脑物质的“人芯片”系统产生“类器官”机器人</title>
-      <link>https://siliconangle.com/2024/07/01/chinese-researchers-create-human-chip-system-using-brain-matter-create-organoid-robot/</link>
-      <description><![CDATA[SiliconANGLE中国天津大学和南方科技大学的研究人员开发了一种“人机芯片”系统，将人脑物质与神经接口芯片结合在一起。人工大脑在体外培养，与电极芯片结合后，可以通过编码、解码和刺激反馈与外部信息进行交互。研究人员利用该技术构建了一种混合“类器官”机器人，可以通过脑机芯片接口发出的指令避开障碍物、跟踪和抓握。摘自“利用脑物质的‘人机芯片’系统产生‘类器官’机器人”
-SiliconANGLE (07/01/24) Duncan Riley 查看全文]]></description>
-      <guid>https://siliconangle.com/2024/07/01/chinese-researchers-create-human-chip-system-using-brain-matter-create-organoid-robot/</guid>
-      <pubDate>Wed, 03 Jul 2024 15:07:58 GMT</pubDate>
+      <title>澳大利亚情报机构将情报数据转移到云端</title>
+      <link>https://www.reuters.com/world/asia-pacific/australia-spy-agency-moves-intelligence-data-cloud-amazon-deal-2024-07-04/</link>
+      <description><![CDATA[路透社根据与亚马逊网络服务达成的一项协议，澳大利亚国防军将把其绝密情报数据转移到云端，以提高与美国的互操作性。澳大利亚信号局局长 Rachel Noble 补充说，随着国家安全机构加大人工智能数据分析的使用，澳大利亚将在澳大利亚建立绝密数据中心。摘自“澳大利亚间谍机构将情报数据转移到云端”
+路透社 (07/04/24) Kirsty Needham 查看全文]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/australia-spy-agency-moves-intelligence-data-cloud-amazon-deal-2024-07-04/</guid>
+      <pubDate>Mon, 08 Jul 2024 18:10:08 GMT</pubDate>
     </item>
     <item>
-      <title>美国最智能的高速公路</title>
-      <link>https://www.axios.com/2024/07/02/smart-highway-i-94-michigan</link>
-      <description><![CDATA[Axios由 Alphabet 旗下 Sidewalk Infrastructure Partners 的子公司设计的密歇根州 94 号州际公路长三英里，让我们得以一窥未来的高速公路。其技术支持的车道为密歇根州交通部提供有关交通、天气和其他道路状况的实时数据和见解。从长远来看，沿路的电线杆（包括传感器舱、计算舱和先进的通信设备）将向在专用车道上行驶的联网和自动驾驶汽车提供信息和建议。摘自“美国最智能的高速公路”
-Axios (07/02/24) Joann Muller 查看全文]]></description>
-      <guid>https://www.axios.com/2024/07/02/smart-highway-i-94-michigan</guid>
-      <pubDate>Wed, 03 Jul 2024 15:07:57 GMT</pubDate>
+      <title>3D 食品打印技术打造可食用二维码</title>
+      <link>https://www.techtimes.com/articles/306349/20240704/new-3d-food-printing-tech-creating-edible-qr-codes-developed.htm</link>
+      <description><![CDATA[Tech Times新加坡科技设计大学研究人员开发的 3D 食品打印机可以根据饮食要求、质地和美观度定制菜肴。3D 食品打印机还可以打印可食用的二维码，为互动式食品体验打开大门。为了解决对食品可持续性的担忧，研究人员调整了打印参数，以便整合非常规食品来源，包括豆渣、橘皮和昆虫蛋白。摘自“3D 食品打印技术创造可食用二维码”
+Tech Times (07/04/24) Jace Dela Cruz 查看全文]]></description>
+      <guid>https://www.techtimes.com/articles/306349/20240704/new-3d-food-printing-tech-creating-edible-qr-codes-developed.htm</guid>
+      <pubDate>Mon, 08 Jul 2024 18:10:07 GMT</pubDate>
     </item>
     <item>
-      <title>人眼启发视觉系统</title>
-      <link>https://www.theengineer.co.uk/content/news/human-eye-inspires-vision-system-for-robotics</link>
-      <description><![CDATA[工程师由马里兰大学计算机科学家领导的团队开发的相机系统模仿了人眼用来保持清晰稳定视力的不自主运动。人工微扫视增强事件相机 (AMI-EV) 内部的旋转棱镜可重定向镜头捕获的光线。棱镜的连续旋转运动模拟了人眼中自然发生的运动，使相机能够像人一样稳定记录物体的纹理。摘自“人眼启发视觉系统”
-工程师 (07/02/24) 查看全文]]></description>
-      <guid>https://www.theengineer.co.uk/content/news/human-eye-inspires-vision-system-for-robotics</guid>
-      <pubDate>Wed, 03 Jul 2024 15:07:57 GMT</pubDate>
+      <title>科技行业希望将核能锁定用于人工智能</title>
+      <link>https://www.wsj.com/business/energy-oil/tech-industry-wants-to-lock-up-nuclear-power-for-ai-6cb75316</link>
+      <description><![CDATA[华尔街日报大型科技公司正在与美国核电站所有者达成协议，为其数据中心供电。例如，亚马逊网络服务公司正在与 Constellation Energy 合作，直接从东海岸的一家核电站获取电力。大型科技公司愿意支付额外费用直接从发电厂获取电力，因为这样可以减少数据中心的建设时间，消除对新电网基础设施的需求。摘自“科技行业希望为人工智能锁定核电”
+华尔街日报 (07/01/24) Jennifer Hiller；Sebastian Herrera 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/business/energy-oil/tech-industry-wants-to-lock-up-nuclear-power-for-ai-6cb75316</guid>
+      <pubDate>Mon, 08 Jul 2024 18:10:06 GMT</pubDate>
     </item>
     <item>
-      <title>“智能”假肢帮助创造自然步态</title>
-      <link>https://www.upi.com/Health_News/2024/07/01/smart-prosthetic-legs-natural-gait/2161719852005/</link>
-      <description><![CDATA[UPI麻省理工学院 (MIT) 的研究人员开发了一种激动剂-拮抗剂神经肌肉接口 (AMI) 手术，用于重新连接截肢者残肢的肌肉，使患者在与机械腿结合时能够实现自然的步行步态。腿部肌肉的电信号被传输到机器人控制器，该控制器协助假肢确定脚踝弯曲的程度、施加的扭矩以及传递的功率。摘自“‘智能’假肢有助于创造自然步态”
-UPI (07/01/24) Dennis Thompson 查看全文]]></description>
-      <guid>https://www.upi.com/Health_News/2024/07/01/smart-prosthetic-legs-natural-gait/2161719852005/</guid>
-      <pubDate>Wed, 03 Jul 2024 15:07:56 GMT</pubDate>
+      <title>日本赢得软盘“战争”</title>
+      <link>https://www.washingtonpost.com/world/2024/07/05/japan-floppy-disks/</link>
+      <description><![CDATA[《华盛顿邮报》在对政府运作中继续使用软盘宣战两年后，日本数字大臣河野太郎（如图）宣布获胜。河野在 2022 年表示，日本政府仍然需要使用软盘和 CD 来处理大约 1,900 项程序，并发誓要消除它们的使用。他上周表示：“我们在 6 月 28 日赢得了软盘战争！”摘自“日本赢得软盘战争”
+《华盛顿邮报》（07/05/24）Kelsey Ables 查看全文 - 可能需要免费注册]]></description>
+      <guid>https://www.washingtonpost.com/world/2024/07/05/japan-floppy-disks/</guid>
+      <pubDate>Mon, 08 Jul 2024 18:10:06 GMT</pubDate>
     </item>
     <item>
-      <title>杀手机器人时代的人工智能</title>
-      <link>https://www.nytimes.com/2024/07/02/technology/ukraine-war-ai-weapons.html</link>
-      <description><![CDATA[《纽约时报》现成设备、易于设计的软件、强大的自动化算法和专门的人工智能微芯片的广泛使用，为杀手机器人时代的到来提供了潜力。在乌克兰，这个时代的开始以使用自动目标跟踪的无人机系统和可以使用人工智能瞄准的机枪等武器为特征，使人类的判断变得越来越不重要。摘自《杀手机器人时代的人工智能》
-《纽约时报》（2024 年 7 月 2 日）Paul Mozur；Adam Satariano 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/07/02/technology/ukraine-war-ai-weapons.html</guid>
-      <pubDate>Wed, 03 Jul 2024 15:07:56 GMT</pubDate>
+      <title>美国提供 5.04 亿美元支持全国技术中心</title>
+      <link>https://apnews.com/article/biden-raimondo-tech-hubs-commerce-02f1c351579532dab6d7157709349dfe</link>
+      <description><![CDATA[美联社拜登政府7月2日宣布，全国12个科技中心将获得总额5.04亿美元的实施补助，以促进量子计算、计算机芯片和其他技术的发展。该政府正试图鼓励全国范围内开展更多的技术创新。商务部长吉娜·雷蒙多 (Gina Raimondo) (如图) 表示：“如果我们不向他们提供资源，让他们参与竞争，并在决定 21 世纪全球经济的技术领域取胜，那么我们将失去很多潜力。”摘自“美国提供 5.04 亿美元支持全国技术中心”
+美联社 (07/02/24) Josh Boak 查看全文]]></description>
+      <guid>https://apnews.com/article/biden-raimondo-tech-hubs-commerce-02f1c351579532dab6d7157709349dfe</guid>
+      <pubDate>Mon, 08 Jul 2024 18:10:05 GMT</pubDate>
     </item>
     <item>
-      <title>美国将通过“芯片法案”工人计划解决劳动力短缺问题</title>
-      <link>https://www.bloomberg.com/news/articles/2024-07-01/us-to-fight-labor-shortage-with-new-chips-act-worker-program</link>
-      <description><![CDATA[彭博社美国宣布，将拨出 50 亿美元用于新国家半导体技术中心 (NSTC) 的芯片与科学法案资金的一部分，用于发展美国计算机芯片劳动力的计划。NSTC 将在未来几个月内为多达 10 个劳动力发展项目提供补助。研究表明，到 2030 年，美国可能会出现 90,000 名技术人员的短缺。摘自“美国将通过芯片法案工人计划应对劳动力短缺”
-彭博社 (07/01/24) Mackenzie Hawkins 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-07-01/us-to-fight-labor-shortage-with-new-chips-act-worker-program</guid>
-      <pubDate>Wed, 03 Jul 2024 15:07:55 GMT</pubDate>
+      <title>英特尔 CPU 面临类似 Spectre 的“Indirector”攻击</title>
+      <link>https://www.darkreading.com/endpoint-security/intel-cpus-spectre-like-indirector-attack-leaks-data</link>
+      <description><![CDATA[Dark Reading加州大学圣地亚哥分校的研究人员展示了一种技术，该技术可以利用推测执行功能重定向程序的控制流，对高端英特尔 CPU 部署类似 Spectre 的旁道攻击。这种名为 Indirector 的技术可以欺骗 CPU，使其错误地更改执行单个指令和函数调用的顺序，并允许攻击者访问敏感数据。摘自“英特尔 CPU 面临类似 Spectre 的‘Indirector’攻击”
+Dark Reading (07/03/24) Jai Vijayan 查看全文]]></description>
+      <guid>https://www.darkreading.com/endpoint-security/intel-cpus-spectre-like-indirector-attack-leaks-data</guid>
+      <pubDate>Mon, 08 Jul 2024 18:10:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
