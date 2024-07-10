@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Wed, 10 Jul 2024 09:08:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 12:14:57 GMT</lastBuildDate>
+    <item>
+      <title>人工智能无法取代教学，但可以改善教学</title>
+      <link>https://www.wired.com/story/what-aspects-of-teaching-should-remain-human/</link>
+      <description><![CDATA[即使是技术乐观主义者也不愿说教学最好留给机器人，但对于界限在哪里仍存在争议。]]></description>
+      <guid>https://www.wired.com/story/what-aspects-of-teaching-should-remain-human/</guid>
+      <pubDate>Wed, 10 Jul 2024 11:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌的非自愿性露骨图片问题愈演愈烈</title>
       <link>https://www.wired.com/story/google-still-cant-quite-stop-explicit-deepfakes/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[忘掉标准普尔 500 指数吧。看看冰淇淋。这位投资者走访了世界各地的家庭，以了解饮食和经济的下一步发展方向。]]></description>
       <guid>https://www.wired.com/story/get-rich-peeping-inside-fridges/</guid>
       <pubDate>Mon, 01 Jul 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>他参与发明了生成式人工智能。现在他想拯救它</title>
-      <link>https://www.wired.com/story/user-owned-ai-illia-polosukhin-open-source-web3/</link>
-      <description><![CDATA[Illia Polosukhin 不希望大公司决定人工智能的未来。他的另类愿景“用户拥有的人工智能”已开始成形。]]></description>
-      <guid>https://www.wired.com/story/user-owned-ai-illia-polosukhin-open-source-web3/</guid>
-      <pubDate>Fri, 28 Jun 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
