@@ -4,103 +4,110 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Mon, 08 Jul 2024 18:10:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 15:08:54 GMT</lastBuildDate>
     <item>
-      <title>GPS 正遭受攻击</title>
-      <link>https://www.nytimes.com/interactive/2024/07/02/world/gps-threats.html</link>
-      <description><![CDATA[《纽约时报》全球定位系统 (GPS) 每天都在遭受攻击。冲突地区附近的空域经常发生 GPS 干扰事件。美国在更换老化的 GPS 卫星和制定备用计划方面落后于其他国家。欧洲伽利略系统对其信号进行验证，中国正在开发计时站并铺设光缆，以消除对卫星导航的需求。摘自“GPS 遭受攻击”
-《纽约时报》（07/02/24）Selam Gebrekidan；K.K. Rebecca Lai；Pablo Robles；等人 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/interactive/2024/07/02/world/gps-threats.html</guid>
-      <pubDate>Mon, 08 Jul 2024 18:10:11 GMT</pubDate>
+      <title>图灵奖得主将在 2024 年 ICBS 大会上获得表彰</title>
+      <link>https://www.icbs.cn/site/pages/index/index?pageId=4dfae3aa-cfe2-41a3-885f-f2f6c3be1e6d</link>
+      <description><![CDATA[国际基础科学大会（中国）下周在北京举行的第二届国际基础科学大会（ICBS）上，将表彰基础科学终身奖获得者，其中包括两位 ACM A. M. 图灵奖获得者。 2000 年图灵奖获得者、中国清华大学的姚期智和 2010 年图灵奖获得者、哈佛大学的 Leslie Gabriel Valiant 都将在理论计算机和信息科学类别中获得表彰。摘自“图灵奖获得者将在 2024 年 ICBS 上获得表彰”
+国际基础科学大会（中国）（2024 年 7 月 8 日） 查看全文]]></description>
+      <guid>https://www.icbs.cn/site/pages/index/index?pageId=4dfae3aa-cfe2-41a3-885f-f2f6c3be1e6d</guid>
+      <pubDate>Wed, 10 Jul 2024 15:08:54 GMT</pubDate>
     </item>
     <item>
-      <title>微型芯片可以保护量子Wi-Fi</title>
-      <link>https://www.newscientist.com/article/2437975-tiny-chip-could-enable-super-secure-quantum-wi-fi/</link>
-      <description><![CDATA[新科学家加州理工学院研究人员开发的量子相位阵列 (QPA) 可实现在任何位置进行安全的量子 Wi-Fi 通信。QPA 包含 1,000 多个电子元件，排列在 1.8 毫米 x 3 毫米的硅基芯片上。片上系统具有 32 个天线，可以发送和接收在自由空间中移动的量子信号，并且可以在室温下运行。摘自“微型芯片可以保护量子 Wi-Fi”
-新科学家 (07/02/24) Karmela Padavic-Callaghan 查看全文]]></description>
-      <guid>https://www.newscientist.com/article/2437975-tiny-chip-could-enable-super-secure-quantum-wi-fi/</guid>
-      <pubDate>Mon, 08 Jul 2024 18:10:10 GMT</pubDate>
+      <title>少点标注可能意味着多点学习</title>
+      <link>https://uwaterloo.ca/news/mathematics/less-highlighting-may-mean-more-learning</link>
+      <description><![CDATA[滑铁卢新闻 (加拿大)加拿大滑铁卢大学的计算机科学家发现，过度突出显示文本可能会对阅读理解产生负面影响。他们的研究涉及 127 名参与者，他们阅读了一篇短篇小说，然后在 24 小时后完成了阅读理解测试。在阅读理解测试中，被限制在文档中突出显示不超过 150 个单词的参与者的得分比允许无限突出显示的参与者高 11%，比不突出显示的参与者高 19%。摘自“少突出显示可能意味着更多学习”
+滑铁卢新闻 (加拿大) (07/05/24) Mayuri Punithan 查看全文]]></description>
+      <guid>https://uwaterloo.ca/news/mathematics/less-highlighting-may-mean-more-learning</guid>
+      <pubDate>Wed, 10 Jul 2024 15:08:53 GMT</pubDate>
     </item>
     <item>
-      <title>机器狗帮助盲人</title>
-      <link>https://learningenglish.voanews.com/a/chinese-researchers-develop-robot-dogs-to-assist-the-blind/7681973.html</link>
-      <description><![CDATA[美国之音新闻中国交通大学 (JTU) 的研究人员开发了一种六足机器人导盲犬，它可以使用摄像头和传感器进行导航。它使用人工智能来识别声音、与用户交流、规划路线和识别交通信号灯。JTU 的高峰表示，中国可能对机器人导盲犬有巨大的市场，因为中国有近 2000 万盲人，但导盲犬只有 400 多只。摘自“机器狗帮助盲人”
-美国之音新闻 (07/02/24) Casey Hall；Xihao Jiang；Jr.，Mario Ritter 查看全文]]></description>
-      <guid>https://learningenglish.voanews.com/a/chinese-researchers-develop-robot-dogs-to-assist-the-blind/7681973.html</guid>
-      <pubDate>Mon, 08 Jul 2024 18:10:10 GMT</pubDate>
+      <title>未来飓风可能对美国电网造成怎样的压力</title>
+      <link>https://www.nytimes.com/2024/07/05/climate/hurricanes-power-outages.html</link>
+      <description><![CDATA[《纽约时报》太平洋西北国家实验室和电力研究所的研究人员发现，气候变化可能使未来几十年美国因飓风引发停电的风险增加 50% 或更多。研究人员在 2066 年至 2100 年的各种气候变化情景下创建了近 100 万次飓风的计算机模型，并将这些数据与根据过去十年袭击美国的 23 次飓风的数据训练的停电模型配对，以绘制未来飓风对电力供应的潜在影响。摘自“未来飓风如何给美国电网带来压力”
+纽约时报 (07/05/24) Austyn Gaffney 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/07/05/climate/hurricanes-power-outages.html</guid>
+      <pubDate>Wed, 10 Jul 2024 15:08:53 GMT</pubDate>
     </item>
     <item>
-      <title>日本引进巨型人形机器人维护火车线路</title>
-      <link>https://www.theguardian.com/world/article/2024/jul/04/japan-train-robot-maintain-railway-lines</link>
-      <description><![CDATA[英国卫报 西日本铁路公司部署了一辆卡车式人形机器人，用于处理维护任务，并解决日本人口老龄化带来的劳动力短缺问题。该机器的垂直伸展范围为 40 英尺（12 米），可承载高达 88 磅（40 公斤）的重物，可握住油漆刷或使用电锯。它由驻扎在卡车驾驶舱中的人员远程操作，人员使用机器人的摄像头“眼睛”进行“观察”。摘自“日本推出巨型人形机器人维护火车线路”
-英国卫报 (07/04/24)]]></description>
-      <guid>https://www.theguardian.com/world/article/2024/jul/04/japan-train-robot-maintain-railway-lines</guid>
-      <pubDate>Mon, 08 Jul 2024 18:10:09 GMT</pubDate>
+      <title>音频反馈系统训练机器人</title>
+      <link>https://interestingengineering.com/innovation/robot-training-audio-system-maniwav</link>
+      <description><![CDATA[有趣的工程斯坦福大学研究人员开发的系统可以记录现场人类演示并提供音频和视觉反馈，以训练机器人完成复杂的操作任务。ManiWAV 使用压电麦克风捕捉高质量的接触音频，并使用算法通过数据增强和端到端感觉运动学习网络解决音频域差距。研究人员使用 ManiWAV 训练机器人擦拭白板、翻转百吉饼、从杯子中倒水以及使用 Velcro 绑扎电线。摘自“音频反馈系统训练机器人”
+有趣的工程 (07/05/24) Jijo Malayil 查看全文]]></description>
+      <guid>https://interestingengineering.com/innovation/robot-training-audio-system-maniwav</guid>
+      <pubDate>Wed, 10 Jul 2024 15:08:53 GMT</pubDate>
     </item>
     <item>
-      <title>古生物学家利用 RFID 标记和追踪恐龙骨骼</title>
-      <link>https://spectrum.ieee.org/dinosaur-fossils-rfid</link>
-      <description><![CDATA[IEEE Spectrum非营利性地球科学基金会的古生物学家正在南达科他州的一个挖掘现场使用射频识别 (RFID) 标签和地理信息系统 (GIS) 软件对化石进行分类和追踪。他们利用 InfraMarker 和 GIS 提供商 Esri 的技术标记了数百块骨头。地球科学基金会的 Tom Hebert 表示，古生物学家使用 RFID 技术记录他们发现的标本只需五分钟或更短的时间。摘自“古生物学家使用 RFID 标记和追踪恐龙骨骼”
-IEEE Spectrum (07/02/24) Gwendolyn Rak 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/dinosaur-fossils-rfid</guid>
-      <pubDate>Mon, 08 Jul 2024 18:10:09 GMT</pubDate>
+      <title>史上最大泄密事件曝光 100 亿个密码</title>
+      <link>https://www.pcmag.com/news/rockyou2024-10-billion-passwords-exposed-largest-leak-ever</link>
+      <description><![CDATA[PC MagazineCyber​​news 研​​究人员在一个流行的黑客论坛上发现了他们所说的史上最大的密码汇编。rockyou2024.txt 文件由名为“ObamaCare”的用户于 7 月 4 日发布，其中包含 9,948,575,739 个唯一的明文密码。尽管这些密码来自新旧数据泄露的组合，但研究人员表示，鉴于这些密码被编译成一个可搜索的数据库，凭证填充攻击的风险更高。摘自“史上最大泄密事件曝光 100 亿个密码”
+PC Magazine（07/06/24）Emily Price 查看全文]]></description>
+      <guid>https://www.pcmag.com/news/rockyou2024-10-billion-passwords-exposed-largest-leak-ever</guid>
+      <pubDate>Wed, 10 Jul 2024 15:08:52 GMT</pubDate>
     </item>
     <item>
-      <title>雷·库兹韦尔会与人工智能融合吗？</title>
-      <link>https://www.nytimes.com/2024/07/04/technology/ray-kurzweil-singularity.html</link>
-      <description><![CDATA[《纽约时报》ACM 研究员雷·库兹韦尔 (Ray Kurzweil) 认为，随着计算机能力的增长，人类与人工智能融合的“奇点”将在 2045 年到来。库兹韦尔因开发出一种能为盲人朗读文本的设备而于 1978 年获得 ACM 的格蕾丝·莫里·霍普奖。他想体验奇点，但他承认，自己已经 76 岁了，可能活不到那一天了。ACM 研究员雷·库兹韦尔表示。图灵奖获得者 Geoffrey Hinton 表示：“他的预测不再那么愚蠢。事情发生的速度比我预期的要快得多。”摘自“雷·库兹韦尔会与人工智能合并吗？”
-
-纽约时报 (07/04/24) Cade Metz 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/07/04/technology/ray-kurzweil-singularity.html</guid>
-      <pubDate>Mon, 08 Jul 2024 18:10:08 GMT</pubDate>
+      <title>商店推出销售子弹的人工智能自动售货机</title>
+      <link>https://gizmodo.com/oklahoma-alabama-now-have-ai-powered-vending-machines-that-sell-bullets-2000377093</link>
+      <description><![CDATA[GizmodoAmerican Rounds 在俄克拉荷马州和阿拉巴马州的市场上推出了自动售货机，可以自动售卖子弹。自动弹药分配器使用人工智能、卡扫描和面部识别技术来验证购买者是否达到购买弹药的法定年龄。American Rounds 在其网站上解释说，“每款软件都协同工作，以验证使用机器的人是否与扫描的身份相符。”摘自“商店推出销售子弹的人工智能自动售货机”
+Gizmodo (07/05/24) Lucas Ropek 查看全文]]></description>
+      <guid>https://gizmodo.com/oklahoma-alabama-now-have-ai-powered-vending-machines-that-sell-bullets-2000377093</guid>
+      <pubDate>Wed, 10 Jul 2024 15:08:52 GMT</pubDate>
     </item>
     <item>
-      <title>澳大利亚情报机构将情报数据转移到云端</title>
-      <link>https://www.reuters.com/world/asia-pacific/australia-spy-agency-moves-intelligence-data-cloud-amazon-deal-2024-07-04/</link>
-      <description><![CDATA[路透社根据与亚马逊网络服务达成的一项协议，澳大利亚国防军将把其绝密情报数据转移到云端，以提高与美国的互操作性。澳大利亚信号局局长 Rachel Noble 补充说，随着国家安全机构加大人工智能数据分析的使用，澳大利亚将在澳大利亚建立绝密数据中心。摘自“澳大利亚间谍机构将情报数据转移到云端”
-路透社 (07/04/24) Kirsty Needham 查看全文]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/australia-spy-agency-moves-intelligence-data-cloud-amazon-deal-2024-07-04/</guid>
-      <pubDate>Mon, 08 Jul 2024 18:10:08 GMT</pubDate>
+      <title>科技出版商不断打破圆周率计算记录</title>
+      <link>https://www.techradar.com/pro/they-did-it-again-tech-publisher-keeps-on-breaking-pi-calculation-world-record-they-almost-doubled-the-previous-one-reaching-202-trillion-digits-in-100-days-and-used-15pb-of-ssd-storage</link>
+      <description><![CDATA[TechRadarStorageReview 工程师使用双 Intel Xeon 8592+ CPU 和 28 个 Solidigm P5336 61.44TB NVMe SSD 将圆周率计算到超过 202 万亿位，创造了新的世界纪录。他们之前的 105 万亿位纪录是在今年早些时候使用双处理器 128 核 AMD EPYC 9754 Bergamo 系统创造的，该系统配备 1.5TB DRAM 和近 1PB 的 Solidigm QLC SSD。 Solidigm 的 Greg Matson 表示：“这项新的 Pi 世界纪录是一项令人兴奋的成就，因为这项计算工作量与我们今天看到的许多 AI 工作量一样大。”摘自“Tech Publisher 不断打破 Pi 计算记录”
+TechRadar (07/06/24) Wayne Williams 查看全文]]></description>
+      <guid>https://www.techradar.com/pro/they-did-it-again-tech-publisher-keeps-on-breaking-pi-calculation-world-record-they-almost-doubled-the-previous-one-reaching-202-trillion-digits-in-100-days-and-used-15pb-of-ssd-storage</guid>
+      <pubDate>Wed, 10 Jul 2024 15:08:51 GMT</pubDate>
     </item>
     <item>
-      <title>3D 食品打印技术打造可食用二维码</title>
-      <link>https://www.techtimes.com/articles/306349/20240704/new-3d-food-printing-tech-creating-edible-qr-codes-developed.htm</link>
-      <description><![CDATA[Tech Times新加坡科技设计大学研究人员开发的 3D 食品打印机可以根据饮食要求、质地和美观度定制菜肴。3D 食品打印机还可以打印可食用的二维码，为互动式食品体验打开大门。为了解决对食品可持续性的担忧，研究人员调整了打印参数，以便整合非常规食品来源，包括豆渣、橘皮和昆虫蛋白。摘自“3D 食品打印技术创造可食用二维码”
-Tech Times (07/04/24) Jace Dela Cruz 查看全文]]></description>
-      <guid>https://www.techtimes.com/articles/306349/20240704/new-3d-food-printing-tech-creating-edible-qr-codes-developed.htm</guid>
-      <pubDate>Mon, 08 Jul 2024 18:10:07 GMT</pubDate>
+      <title>从数字“原始汤”中创造出自我复制的“生命”</title>
+      <link>https://www.newscientist.com/article/2438117-google-creates-self-replicating-life-from-digital-primordial-soup/</link>
+      <description><![CDATA[《新科学家》谷歌研究人员利用随机数据开发出一种可自我复制的人工生命。他们的实验涉及随机混合、组合和执行数以万计的独立计算机代码，没有明确的规则来决定代码样本的变化，也没有对特定行为的奖励。研究人员观察到自我复制程序的发展，这些程序不断繁殖，直到达到代码样本的种群上限。研究人员看到了新类型的复制体的出现，它们取代了之前的种群。摘自“由数字‘原始汤’创造的自我复制‘生命’”
+《新科学家》（07/09/24）Matthew Sparkes 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.newscientist.com/article/2438117-google-creates-self-replicating-life-from-digital-primordial-soup/</guid>
+      <pubDate>Wed, 10 Jul 2024 15:08:50 GMT</pubDate>
     </item>
     <item>
-      <title>科技行业希望将核能锁定用于人工智能</title>
-      <link>https://www.wsj.com/business/energy-oil/tech-industry-wants-to-lock-up-nuclear-power-for-ai-6cb75316</link>
-      <description><![CDATA[华尔街日报大型科技公司正在与美国核电站所有者达成协议，为其数据中心供电。例如，亚马逊网络服务公司正在与 Constellation Energy 合作，直接从东海岸的一家核电站获取电力。大型科技公司愿意支付额外费用直接从发电厂获取电力，因为这样可以减少数据中心的建设时间，消除对新电网基础设施的需求。摘自“科技行业希望为人工智能锁定核电”
-华尔街日报 (07/01/24) Jennifer Hiller；Sebastian Herrera 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/business/energy-oil/tech-industry-wants-to-lock-up-nuclear-power-for-ai-6cb75316</guid>
-      <pubDate>Mon, 08 Jul 2024 18:10:06 GMT</pubDate>
+      <title>中国允许无人驾驶机器人出租车在上海上路</title>
+      <link>https://www.wsj.com/business/autos/china-allows-robotaxis-without-operators-in-shanghai-9dab6b11</link>
+      <description><![CDATA[华尔街日报中国已授权百度、赛科科技、小马智行和 Auto X 在上海浦东 205 公里（约 127 英里）的道路上测试无人驾驶出租车。居民可以在测试期间免费乘坐机器人出租车。自 2022 年以来，北京、深圳和广州也开始实施类似举措，部分行程需收费。摘自“中国允许上海无人驾驶机器人出租车”
+华尔街日报 (07/08/24) Jiahui Huang 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/business/autos/china-allows-robotaxis-without-operators-in-shanghai-9dab6b11</guid>
+      <pubDate>Wed, 10 Jul 2024 15:08:50 GMT</pubDate>
     </item>
     <item>
-      <title>日本赢得软盘“战争”</title>
-      <link>https://www.washingtonpost.com/world/2024/07/05/japan-floppy-disks/</link>
-      <description><![CDATA[《华盛顿邮报》在对政府运作中继续使用软盘宣战两年后，日本数字大臣河野太郎（如图）宣布获胜。河野在 2022 年表示，日本政府仍然需要使用软盘和 CD 来处理大约 1,900 项程序，并发誓要消除它们的使用。他上周表示：“我们在 6 月 28 日赢得了软盘战争！”摘自“日本赢得软盘战争”
-《华盛顿邮报》（07/05/24）Kelsey Ables 查看全文 - 可能需要免费注册]]></description>
-      <guid>https://www.washingtonpost.com/world/2024/07/05/japan-floppy-disks/</guid>
-      <pubDate>Mon, 08 Jul 2024 18:10:06 GMT</pubDate>
+      <title>热门应用被禁止接待青少年</title>
+      <link>https://www.cnn.com/2024/07/09/tech/ftc-ngl-anonymous-messaging-app-teens/index.html</link>
+      <description><![CDATA[CNN美国联邦贸易委员会 (FTC) 和洛杉矶地区检察官办公室已禁止一款匿名消息应用程序向 18 岁以下用户提供服务，原因是该平台上存在“猖獗的网络欺凌和针对儿童和青少年的威胁”。这款下载量达数百万次的 NGL 应用程序背后的公司将支付 500 万美元以和解联邦贸易委员会主席 Lina Khan 所说的“对儿童的鲁莽漠视”安全。”摘自“热门应用被禁止托管青少年”
+CNN (07/09/24) Brian Fung 查看全文]]></description>
+      <guid>https://www.cnn.com/2024/07/09/tech/ftc-ngl-anonymous-messaging-app-teens/index.html</guid>
+      <pubDate>Wed, 10 Jul 2024 15:08:49 GMT</pubDate>
     </item>
     <item>
-      <title>美国提供 5.04 亿美元支持全国技术中心</title>
-      <link>https://apnews.com/article/biden-raimondo-tech-hubs-commerce-02f1c351579532dab6d7157709349dfe</link>
-      <description><![CDATA[美联社拜登政府7月2日宣布，全国12个科技中心将获得总额5.04亿美元的实施补助，以促进量子计算、计算机芯片和其他技术的发展。该政府正试图鼓励全国范围内开展更多的技术创新。商务部长吉娜·雷蒙多 (Gina Raimondo) (如图) 表示：“如果我们不向他们提供资源，让他们参与竞争，并在决定 21 世纪全球经济的技术领域取胜，那么我们将失去很多潜力。”摘自“美国提供 5.04 亿美元支持全国技术中心”
-美联社 (07/02/24) Josh Boak 查看全文]]></description>
-      <guid>https://apnews.com/article/biden-raimondo-tech-hubs-commerce-02f1c351579532dab6d7157709349dfe</guid>
-      <pubDate>Mon, 08 Jul 2024 18:10:05 GMT</pubDate>
+      <title>3D打印机进入太空打印玩具航天飞机</title>
+      <link>https://interestingengineering.com/space/3d-space-printer-spacecraft-parts</link>
+      <description><![CDATA[有趣的工程加州大学伯克利分校研究人员开发的 3D 打印机于 6 月 7 日在维珍银河的 VSS Unity 上首次完成亚轨道太空飞行。SpaceCAL 漂浮了 140 秒，并在微重力条件下使用伯克利开发的计算轴向光刻 (CAL) 技术自动打印了一个航天飞机模型等。该过程可用于按需生产航天器部件，以及为机组人员生产隐形眼镜和牙冠。摘自“3D 打印机进入太空打印玩具航天飞机”
+有趣的工程 (07/05/24) Mrigakshi Dixit 查看全文]]></description>
+      <guid>https://interestingengineering.com/space/3d-space-printer-spacecraft-parts</guid>
+      <pubDate>Wed, 10 Jul 2024 15:08:49 GMT</pubDate>
     </item>
     <item>
-      <title>英特尔 CPU 面临类似 Spectre 的“Indirector”攻击</title>
-      <link>https://www.darkreading.com/endpoint-security/intel-cpus-spectre-like-indirector-attack-leaks-data</link>
-      <description><![CDATA[Dark Reading加州大学圣地亚哥分校的研究人员展示了一种技术，该技术可以利用推测执行功能重定向程序的控制流，对高端英特尔 CPU 部署类似 Spectre 的旁道攻击。这种名为 Indirector 的技术可以欺骗 CPU，使其错误地更改执行单个指令和函数调用的顺序，并允许攻击者访问敏感数据。摘自“英特尔 CPU 面临类似 Spectre 的‘Indirector’攻击”
-Dark Reading (07/03/24) Jai Vijayan 查看全文]]></description>
-      <guid>https://www.darkreading.com/endpoint-security/intel-cpus-spectre-like-indirector-attack-leaks-data</guid>
-      <pubDate>Mon, 08 Jul 2024 18:10:05 GMT</pubDate>
+      <title>美国启动 16 亿美元芯片封装研究竞赛</title>
+      <link>https://www.bloomberg.com/news/articles/2024-07-09/us-opens-1-6-billion-competition-for-chip-packaging-research</link>
+      <description><![CDATA[彭博社美国启动了一项 16 亿美元的芯片封装研发项目资金竞赛。目前，美国占全球芯片封装产能的 3%，其中绝大多数在亚洲完成。这笔资金是 2022 年芯片与科学法案下设立的 110 亿美元研发基金迄今为止最大的机会。这笔资金将用于设备和工具、电力输送和热管理、连接器技术、电子设计自动化和小芯片的研究。摘自“美国启动 16 亿美元芯片封装研究竞赛”
+彭博社 (07/09/24) Mackenzie Hawkins 查看全文]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-07-09/us-opens-1-6-billion-competition-for-chip-packaging-research</guid>
+      <pubDate>Wed, 10 Jul 2024 15:08:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rust 在语言流行度指数中跃升</title>
+      <link>https://www.infoworld.com/article/3715635/rust-leaps-forward-in-language-popularity-index.html</link>
+      <description><![CDATA[InfoWorldRust 在每月的 Tiobe 计算机语言流行度编程指数中取得了有史以来的最高排名，在 7 月份达到了第 13 位。此前，Rust 在该指数中的排名从未超过第 17 位。Tiobe 首席执行官 Paul Jansen 将 Rust 的崛起归因于 2 月份的一份美国报告，该报告出于安全原因建议使用 Rust 而不是 C/C+。摘自“Rust 在语言流行度指数中跃升”
+InfoWorld (07/08/24) Paul Krill 查看全文]]></description>
+      <guid>https://www.infoworld.com/article/3715635/rust-leaps-forward-in-language-popularity-index.html</guid>
+      <pubDate>Wed, 10 Jul 2024 15:08:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
