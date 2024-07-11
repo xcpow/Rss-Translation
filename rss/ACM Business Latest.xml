@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 11 Jul 2024 12:14:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 15:07:50 GMT</lastBuildDate>
+    <item>
+      <title>苹果将​​允许竞争对手使用“Tap and Go”技术</title>
+      <link>https://www.wired.com/story/apple-to-allow-rivals-to-access-tap-and-go-technology/</link>
+      <description><![CDATA[在欧盟规则促使的最新 iOS 改革中，这家智能手机制造商将允许第三方开发商使用其支付技术。]]></description>
+      <guid>https://www.wired.com/story/apple-to-allow-rivals-to-access-tap-and-go-technology/</guid>
+      <pubDate>Thu, 11 Jul 2024 14:49:31 GMT</pubDate>
+    </item>
     <item>
       <title>亚马逊加强安保以阻止 Nimbus 项目抗议活动</title>
       <link>https://www.wired.com/story/aws-summit-nyc-protest-security/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[由于立法、监管和资金方面的阻力，Upside Foods 正在裁员。]]></description>
       <guid>https://www.wired.com/story/leading-lab-grown-meat-company-cuts-dozens-of-jobs-upside-foods-cultivated-chicken/</guid>
       <pubDate>Mon, 01 Jul 2024 21:27:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧盟称 Meta 的付费隐私模式违法</title>
-      <link>https://www.wired.com/story/metas-pay-for-privacy-model-is-illegal-says-eu/</link>
-      <description><![CDATA[在最新的大型科技公司谴责中，欧盟委员会官员表示，该科技巨头必须为欧盟用户提供另一种选择，以选择退出定向广告。]]></description>
-      <guid>https://www.wired.com/story/metas-pay-for-privacy-model-is-illegal-says-eu/</guid>
-      <pubDate>Mon, 01 Jul 2024 11:02:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
