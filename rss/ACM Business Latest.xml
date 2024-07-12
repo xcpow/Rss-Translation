@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 11 Jul 2024 21:08:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 00:35:24 GMT</lastBuildDate>
+    <item>
+      <title>Google DeepMind 的聊天机器人是一场更大革命的一部分</title>
+      <link>https://www.wired.com/story/google-deepmind-ai-robot/</link>
+      <description><![CDATA[机器人研究人员正在探索大型语言模型如何让物理机器变得更加智能。]]></description>
+      <guid>https://www.wired.com/story/google-deepmind-ai-robot/</guid>
+      <pubDate>Thu, 11 Jul 2024 21:37:37 GMT</pubDate>
+    </item>
     <item>
       <title>国会面临越来越大的压力，要求将在尼日利亚监狱服刑的加密货币调查员 Tigran Gambaryan 当作人质对待</title>
       <link>https://www.wired.com/story/tigran-gambaryan-us-congress-resolution-hostage-nigeria/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[在英国大选中领先的工党提议让企业更容易建立新的服务器场，这有可能在全国各地的社区中引发新型冲突。]]></description>
       <guid>https://www.wired.com/story/data-centres-uk-boom-elections/</guid>
       <pubDate>Wed, 03 Jul 2024 07:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Polestar 正准备应对电动汽车关税战。它可能不会毫发无损</title>
-      <link>https://www.wired.com/story/polestar-is-bracing-for-the-ev-tariff-wars-it-may-not-emerge-unscathed/</link>
-      <description><![CDATA[该汽车制造商表示，在财务压力不断增大的情况下，中国关税将影响其核心产品 Polestar 2。]]></description>
-      <guid>https://www.wired.com/story/polestar-is-bracing-for-the-ev-tariff-wars-it-may-not-emerge-unscathed/</guid>
-      <pubDate>Tue, 02 Jul 2024 15:29:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
