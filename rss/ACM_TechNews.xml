@@ -4,94 +4,102 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Fri, 12 Jul 2024 18:09:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 18:10:30 GMT</lastBuildDate>
     <item>
-      <title>物理系统无需传统计算机处理器即可学习非线性任务</title>
-      <link>https://penntoday.upenn.edu/news/physics-engineering-contrastive-local-learning-network</link>
-      <description><![CDATA[宾夕法尼亚大学今日宾夕法尼亚大学 (Penn) 的研究人员开发了一种模拟系统，可以学习复杂的任务，如非线性回归和“异或”(XOR) 关系。这种快速、低功耗、可扩展的系统是一个对比局部学习网络，其组件基于局部规则进行学习，无需中央处理器，也无需了解更大的结构。宾夕法尼亚大学的 Marc Z. Miskin 表示：“由于它不了解网络结构，因此对错误的容忍度很高，并且能够以不同的方式构建，我们认为这为扩大这些技术的规模提供了许多机会。”摘自“物理系统无需传统计算机处理器即可学习非线性任务”
-Penn Today (07/05/24) Erica Moser 查看全文]]></description>
-      <guid>https://penntoday.upenn.edu/news/physics-engineering-contrastive-local-learning-network</guid>
-      <pubDate>Fri, 12 Jul 2024 18:09:09 GMT</pubDate>
+      <title>对于孤独的老年人来说，机器人朋友能解决问题吗？</title>
+      <link>https://www.nytimes.com/2024/07/06/nyregion/ai-robot-elliq-loneliness.html</link>
+      <description><![CDATA[《纽约时报》在过去两年中，纽约州老龄办公室为大约 900 名老年人免费提供了人工智能驱动的声控机器人伴侣，以解决孤独和孤立感。以色列 Intuition Robotics 公司的 ElliQ 机器人可以开始对话、分享头条新闻、玩游戏、讲笑话、提醒用户服药，并参与有关宗教和其他复杂主题的讨论。摘自“对于孤独的老年人，解决方案是机器人朋友吗？”
+《纽约时报》（07/07/24）Erin Nolan 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/07/06/nyregion/ai-robot-elliq-loneliness.html</guid>
+      <pubDate>Mon, 15 Jul 2024 18:10:30 GMT</pubDate>
     </item>
     <item>
-      <title>美国称俄罗斯机器人农场利用人工智能冒充美国人</title>
-      <link>https://www.npr.org/2024/07/09/g-s1-9010/russia-bot-farm-ai-disinformation</link>
-      <description><![CDATA[NPR美国司法部 (DOJ) 表示，已捣毁一个机器人农场，该农场使用人工智能软件在社交媒体平台 X 上创建个人资料，冒充美国人并传播俄罗斯的宣传。该机器人农场的宣传活动据称是俄罗斯政府批准的一个项目的一部分，涉及近 1,000 个虚假个人资料，X 因违反服务条款而暂停了这些账户。摘自“美国称俄罗斯机器人农场使用人工智能冒充美国人”
-NPR (07/09/24) Shannon Bond 查看全文]]></description>
-      <guid>https://www.npr.org/2024/07/09/g-s1-9010/russia-bot-farm-ai-disinformation</guid>
-      <pubDate>Fri, 12 Jul 2024 18:09:08 GMT</pubDate>
+      <title>COVID-19 应用程序提供实时数据</title>
+      <link>https://www.ox.ac.uk/news/2024-07-12-covid-19-phone-apps-shown-provide-real-time-information-spread-infectious-diseases</link>
+      <description><![CDATA[牛津大学（英国）对 COVID-19 疫情期间使用的手机应用程序数据的分析发现，数字接触者追踪可以实时洞察传染病的传播情况。英国研究人员利用英国国家卫生服务局（NHS）的英格兰和威尔士 COVID-19 应用程序收集的数据，计算出每个感染病毒的人将病毒传染给他人的平均次数，发现变化比其他方法早五天。摘自“COVID-19 应用程序提供实时数据”
+牛津大学（英国）（2024 年 7 月 12 日） 查看全文]]></description>
+      <guid>https://www.ox.ac.uk/news/2024-07-12-covid-19-phone-apps-shown-provide-real-time-information-spread-infectious-diseases</guid>
+      <pubDate>Mon, 15 Jul 2024 18:10:29 GMT</pubDate>
     </item>
     <item>
-      <title>您的全息医生现在将为您看诊</title>
-      <link>https://www.nytimes.com/2024/06/29/health/texas-telehealth-hologram-doctor.html</link>
-      <description><![CDATA[《纽约时报》德克萨斯州 Crescent Regional Hospital 与荷兰 Holoconnects 公司合作，尝试让医生以全息影像的形式远程实时与患者交流。借助重达 440 磅、高 7 英尺的 Holobox，患者可以看到医生的高质量全息图像，而医生则坐在摄像机前查看显示患者的显示屏。一些提供商认为，全息图就诊的好处并不能证明 Holobox 的价格合理（42,000 美元加上每年 1,900 美元的服务费）。摘自“您的全息图医生现在将为您看病”
-纽约时报 (07/08/24) Hank Sanders 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/06/29/health/texas-telehealth-hologram-doctor.html</guid>
-      <pubDate>Fri, 12 Jul 2024 18:09:08 GMT</pubDate>
+      <title>俄乌战争中的海上无人机启发新战术</title>
+      <link>https://spectrum.ieee.org/sea-drone</link>
+      <description><![CDATA[IEEE Spectrum乌克兰海军无人机在与俄罗斯的战争中取得的成功促使美国和其他政府考虑无人机在未来海军行动中的作用。Magura V5 可以携带 300 公斤的弹头，并通过 GPS 和与 SpaceX 的 Starlink 卫星的连接自主移动。更大的 Sea Baby 可​​以携带约 800 公斤的炸药，配备监视和后勤设备，可以通过 Starlink 和 GPS 进行远程控制。摘自“俄乌战争中的海上无人机激发了新战术”
+IEEE Spectrum (07/10/24) Bryan Clark 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/sea-drone</guid>
+      <pubDate>Mon, 15 Jul 2024 18:10:29 GMT</pubDate>
     </item>
     <item>
-      <title>简单的固件更新完全隐藏设备的蓝牙指纹</title>
-      <link>https://today.ucsd.edu/story/a-simple-firmware-update-completely-hides-a-devices-bluetooth-fingerprint</link>
-      <description><![CDATA[加州大学圣地亚哥分校今日加州大学圣地亚哥分校研究人员开发的固件更新可防止使用设备独特的蓝牙指纹跟踪连接设备的用户。新方法使用多层随机化隐藏设备的蓝牙指纹。研究人员在各种智能设备中使用的德州仪器 CC2640 芯片组上测试了固件更新，发现在没有固件更新的情况下，一分钟内实现的跟踪精度水平将需要固件更新后 10 天以上的连续观察。摘自“简单的固件更新完全隐藏了设备的蓝牙指纹”
-加州大学圣地亚哥分校今日 (07/10/24) Ioana Patringenaru 查看全文]]></description>
-      <guid>https://today.ucsd.edu/story/a-simple-firmware-update-completely-hides-a-devices-bluetooth-fingerprint</guid>
-      <pubDate>Fri, 12 Jul 2024 18:09:07 GMT</pubDate>
+      <title>应用程序识别气候变化对植物的影响</title>
+      <link>https://www.techtimes.com/articles/306504/20240709/flora-incognita-new-plant-app-developed-researchers-impacts-climate-change.htm</link>
+      <description><![CDATA[Tech TimesFlora Incognita 是一款由德国莱比锡大学、iDiv、MPI-BGC 和伊尔默瑙工业大学的研究人员开发的移动应用程序，用户可以通过拍照来识别野生植物。该应用程序还记录带有时间戳和精确位置的观察结果，以帮助研究人员监测气候变化对植物生命的影响。研究人员开发了一种算法，利用 2018 年至 2021 年期间德国 Flora Incognita 用户对近 3,000 种植物的近 1000 万次观察，识别生态模式和季节变化。摘自“应用程序识别气候变化对植物的影响”
+Tech Times (07/09/24) Jace Dela Cruz 查看全文]]></description>
+      <guid>https://www.techtimes.com/articles/306504/20240709/flora-incognita-new-plant-app-developed-researchers-impacts-climate-change.htm</guid>
+      <pubDate>Mon, 15 Jul 2024 18:10:28 GMT</pubDate>
     </item>
     <item>
-      <title>极端高温引发人们对科技基础设施耐久性的担忧</title>
-      <link>https://www.fastcompany.com/91150666/extreme-heat-raising-concerns-about-tech-infrastructure</link>
-      <description><![CDATA[Fast Company高温引发了人们对美国科技基础设施耐用性的担忧，尤其是考虑到数据中心所需的空调数量。数据中心集中在一个地区的公司面临更大的风险。科技公司面临的最大风险是影响关键系统的长期中断，这可能导致云中断、金融服务中断、沟通不畅和其他影响。随着人工智能继续增加能源需求，这些风险只会上升。摘自“极端高温引发对科技基础设施耐用性的担忧”
-Fast Company (07/08/24) Chris Morris 查看全文]]></description>
-      <guid>https://www.fastcompany.com/91150666/extreme-heat-raising-concerns-about-tech-infrastructure</guid>
-      <pubDate>Fri, 12 Jul 2024 18:09:07 GMT</pubDate>
+      <title>人工智能热潮推动 CIO 薪资上涨</title>
+      <link>https://www.wsj.com/articles/artificial-intelligence-boom-lifts-paychecks-for-cios-e1527eab</link>
+      <description><![CDATA[华尔街日报咨询公司 Janco Associates 的一份报告发现，在过去一年里，大型企业首席信息官 (CIO) 的薪酬平均上涨了 7.48%，中型企业上涨了 9%，其中 IT 工作类别的涨幅最大。与此同时，IT 高管招聘公司 Heller Search Associates 报告称，自 2019 年以来，首席信息官和首席技术官的薪酬增长了 20% 以上。随着越来越多的公司寻求具备生成式人工智能知识的高管，薪酬也随之上涨。摘自“人工智能热潮提升首席信息官薪酬”
+华尔街日报 (07/08/24) Belle Lin 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/articles/artificial-intelligence-boom-lifts-paychecks-for-cios-e1527eab</guid>
+      <pubDate>Mon, 15 Jul 2024 18:10:28 GMT</pubDate>
     </item>
     <item>
-      <title>美国高科技武器对俄罗斯有用——直到它们失效</title>
-      <link>https://www.wsj.com/world/us-weapons-russia-ukraine-0eed240c</link>
-      <description><![CDATA[《华尔街日报》乌克兰使用的一些西方高科技精确武器被俄罗斯的电子对抗措施挫败。乌克兰制造的武器正在快速更新，但乌克兰官员对西方制造商没有这样做感到沮丧。一名乌克兰情报官员说：“这就像更新手机上的软件一样——我们和俄罗斯人必须每月更新才能跟上。但是当我们从西方获得武器时，制造商多年前就安装了软件，很少愿意改变任何东西。”摘自“高科技美国武器对俄罗斯有效——直到它们失效”
-《华尔街日报》（07/10/24）雅罗斯拉夫·特罗菲莫夫；阿利斯泰尔·麦克唐纳 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/world/us-weapons-russia-ukraine-0eed240c</guid>
-      <pubDate>Fri, 12 Jul 2024 18:09:06 GMT</pubDate>
+      <title>德国将逐步淘汰其 5G 核心网络中的中国零部件</title>
+      <link>https://www.reuters.com/business/media-telecom/germany-agrees-phaseout-huawei-zte-components-5g-core-network-2024-07-11/</link>
+      <description><![CDATA[路透社德国内政部长 Nancy Faeser 表示，已经与电信提供商德国电信、沃达丰和西班牙电信德国公司达成了“明确而严格的协议”，将在 2029 年前逐步淘汰华为、中兴和其他中国公司在德国 5G 网络产品中的组件。该协议旨在保护德国的关键基础设施免受中国带来的潜在安全风险。摘自“德国将逐步淘汰其 5G 核心网络中的中国组件”
+路透社 (07/11/24) Andreas Rinke；Rachel More；Chiara Holzhaeuser；等人 查看全文]]></description>
+      <guid>https://www.reuters.com/business/media-telecom/germany-agrees-phaseout-huawei-zte-components-5g-core-network-2024-07-11/</guid>
+      <pubDate>Mon, 15 Jul 2024 18:10:28 GMT</pubDate>
     </item>
     <item>
-      <title>折纸如何增强生物打印？</title>
-      <link>https://english.tau.ac.il/research/origami-bioprinting-method</link>
-      <description><![CDATA[特拉维夫大学以色列特拉维夫大学的研究人员开发了一种在 3D 生物打印组织模型内精确定位传感器的方法。他们创建了一种基于折纸的结构，该结构可以折叠在人造组织周围，并允许战略性地放置传感器。多传感器折纸平台 (MSOP) 使用计算机辅助设计软件为特定组织模型设计定制的多传感结构，该结构用于生成折叠在生物打印组织周围的物理结构，每个传感器都插入到预定义的位置。摘自“折纸如何增强生物打印？”
-特拉维夫大学 (07/09/24) 查看全文]]></description>
-      <guid>https://english.tau.ac.il/research/origami-bioprinting-method</guid>
-      <pubDate>Fri, 12 Jul 2024 18:09:05 GMT</pubDate>
+      <title>量子计算机打破“量子至上”纪录</title>
+      <link>https://www.livescience.com/technology/computing/new-quantum-computer-smashes-quantum-supremacy-record-by-a-factor-of-100-and-it-consumes-30000-times-less-power</link>
+      <description><![CDATA[Live ScienceQuantinuum、摩根大通、加州理工学院和阿贡国家实验室的研究人员建造了一台 56 量子比特的 H2-1 量子计算机，打破了谷歌 Sycamore 机器保持的量子霸权记录。H2 量子计算机的线性交叉熵基准 (XEB) 得分约为 0.35，这意味着它可以在 35% 的时间内生成无错误的结果。相比之下，53 量子比特 Sycamore 的 XEB 得分约为 0.002。摘自“量子计算机打破‘量子霸权’记录”
+Live Science (07/11/24) Keumars Afifi-Sabet 查看全文]]></description>
+      <guid>https://www.livescience.com/technology/computing/new-quantum-computer-smashes-quantum-supremacy-record-by-a-factor-of-100-and-it-consumes-30000-times-less-power</guid>
+      <pubDate>Mon, 15 Jul 2024 18:10:27 GMT</pubDate>
     </item>
     <item>
-      <title>Whataburger 停电地图？Beryl 停电后，德州人使用 Burger Chain 的应用程序获取电力更新</title>
-      <link>https://www.usatoday.com/story/news/nation/2024/07/09/whataburger-power-outage-map-houston-texas/74341208007/</link>
-      <description><![CDATA[《今日美国》飓风贝里尔过后，得克萨斯州的居民断电，他们使用 Whataburger 应用来追踪停电情况，因为自 5 月的一次德雷科风暴以来，CenterPoint Energy 的停电地图一直无法使用。这家汉堡连锁店的应用提供了位置图，如果 Whataburger 餐厅营业，则“W”标志显示为橙色，如果餐厅关门（这可能表示停电），则显示为灰色。 Whataburger 表示，随着门店重新开业，该应用会实时更新。摘自“Whataburger 停电地图？Beryl 停电后，德克萨斯人使用汉堡连锁店的应用获取电力更新”
-今日美国 (07/09/24) Mary Walrath-Holdridge 查看全文]]></description>
-      <guid>https://www.usatoday.com/story/news/nation/2024/07/09/whataburger-power-outage-map-houston-texas/74341208007/</guid>
-      <pubDate>Fri, 12 Jul 2024 18:09:05 GMT</pubDate>
+      <title>鸟类与纽约海滩巡逻无人机发生冲突</title>
+      <link>https://apnews.com/article/new-york-drones-shorebirds-beach-safety-c2cbfb6ca03f771082ff57a28701f915</link>
+      <description><![CDATA[美联社无人机在纽约市海滩巡逻，寻找鲨鱼和挣扎游泳者的踪迹，却遭到当地滨鸟的攻击。自 5 月无人机开始飞行以来，成群的鸟儿不断涌向无人机，迫使无人机调整飞行计划。这些袭击引发了野生动物专家的担忧，他们担心无人机会对沿海地区濒危物种造成影响。摘自“鸟类与巡逻纽约海滩的无人机作斗争”
+美联社 (07/12/24) Jake Offenhartz 查看全文]]></description>
+      <guid>https://apnews.com/article/new-york-drones-shorebirds-beach-safety-c2cbfb6ca03f771082ff57a28701f915</guid>
+      <pubDate>Mon, 15 Jul 2024 18:10:27 GMT</pubDate>
     </item>
     <item>
-      <title>研究表明，英国计算机课程忽视了数字技能</title>
-      <link>https://www.computerweekly.com/news/366592918/Computing-curriculum-leaving-digital-skills-behind-research-suggests</link>
-      <description><![CDATA[《计算机周刊》计算机学科选择、成就和表现项目 (SCARI) 报告称，英国目前的计算机课程过于注重编程技能。SCARI 发现学生，尤其是女学生，通常不愿意学习计算机科目。伦敦国王学院的 Peter Kemp 表示：“我们需要确保计算机是一门对所有学生都有吸引力的学科，并满足年轻人和社会的需求。”摘自“研究表明，英国计算机课程忽视了数字技能”
-《计算机周刊》（07/09/24）Clare McDonald 查看全文]]></description>
-      <guid>https://www.computerweekly.com/news/366592918/Computing-curriculum-leaving-digital-skills-behind-research-suggests</guid>
-      <pubDate>Fri, 12 Jul 2024 18:09:04 GMT</pubDate>
+      <title>北约支持通过太空路由拯救互联网的努力</title>
+      <link>https://www.bloomberg.com/news/articles/2024-07-08/nato-backs-effort-to-reroute-internet-to-space-in-event-of-subsea-attacks</link>
+      <description><![CDATA[彭博社来自美国、冰岛、瑞典和瑞士的研究人员正在参与一个北约资助的项目，该项目的重点是在发生自然灾害或海底电缆系统遭到攻击时维持互联网通信。参与“混合太空和潜艇架构以确保电信信息安全”（HEIST）项目的研究人员将于本月晚些时候在康奈尔大学研讨会上正式启动，他们将考虑如何在必要时将互联网流量从海底电缆重新路由到卫星系统。摘自“北约支持通过重新路由到太空来拯救互联网的努力”
+彭博社（07/09/24）卡特里娜·曼森 查看全文]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-07-08/nato-backs-effort-to-reroute-internet-to-space-in-event-of-subsea-attacks</guid>
+      <pubDate>Mon, 15 Jul 2024 18:10:26 GMT</pubDate>
     </item>
     <item>
-      <title>新的 Blast-RADIUS 攻击破坏了世界各地网络中使用的已有 30 年历史的协议</title>
-      <link>https://arstechnica.com/security/2024/07/new-blast-radius-attack-breaks-30-year-old-protocol-used-in-networks-everywhere/</link>
-      <description><![CDATA[Ars TechnicaCloudfare、加州大学圣地亚哥分校、BastionZero、微软研究院和荷兰 Centrum Wiskunde &amp; Informatica 的研究人员发现，RADIUS（远程身份验证拨入用户服务）网络协议容易受到攻击，这种攻击可能使黑客控制工业控制器、电信服务、ISP、企业网络等。借助“Blast RADIUS”，处于中间位置的主动攻击者可以获得对通过 RADIUS 协议向服务器验证身份的设备的管理访问权限。摘自“新的 Blast-RADIUS 攻击破坏了网络中使用的已有 30 年历史的协议”
-Ars Technica (07/09/24) Dan Goodin 查看全文]]></description>
-      <guid>https://arstechnica.com/security/2024/07/new-blast-radius-attack-breaks-30-year-old-protocol-used-in-networks-everywhere/</guid>
-      <pubDate>Fri, 12 Jul 2024 18:09:04 GMT</pubDate>
+      <title>欧盟 IT 工作者称缺乏计算机技能</title>
+      <link>https://www.computerweekly.com/news/366593173/AI-and-cyber-skills-worryingly-lacking-say-business-leaders</link>
+      <description><![CDATA[《计算机周刊》在《计算机周刊》/TechTarget 年度 IT 薪资调查中，324 名欧洲 IT 工作者中，近 40% 表示他们所在的组织缺乏具备 AI 技能的人才，而三分之一 (37%) 的受访者表示缺乏网络安全技能。另有 27% 的受访者表示他们缺乏 IT 特定认证。此外，17% 的受访者表示，他们的公司正在寻求具备 AI、机器学习和数据科学技能的新员工。摘自“欧盟 IT 工作者称缺乏计算机技能”
+《计算机周刊》（2024 年 7 月 11 日）Clare McDonald 查看全文]]></description>
+      <guid>https://www.computerweekly.com/news/366593173/AI-and-cyber-skills-worryingly-lacking-say-business-leaders</guid>
+      <pubDate>Mon, 15 Jul 2024 18:10:26 GMT</pubDate>
     </item>
     <item>
-      <title>欧洲就中国老一代芯片征询业界意见</title>
-      <link>https://www.reuters.com/technology/europe-seeks-industry-views-chinas-older-generation-chips-2024-07-05/</link>
-      <description><![CDATA[路透社欧盟委员会就中国提高老一代计算机芯片产量的举措与欧盟半导体行业展开了“有针对性的磋商”。一位发言人表示，这项研究可能导致欧盟与美国采取“联合或合作措施”，以“解决依赖或扭曲效应”。欧盟委员会正在寻求有关工业公司芯片来源的反馈、芯片公司产品和定价的信息以及竞争对手的产品和估计定价的信息，包括中国的产品和定价。摘自“欧洲寻求行业对中国老一代芯片的看法”
-路透社 (07/05/24) Toby Sterling；Nick Carey；Foo Yun Chee 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/europe-seeks-industry-views-chinas-older-generation-chips-2024-07-05/</guid>
-      <pubDate>Fri, 12 Jul 2024 18:09:03 GMT</pubDate>
+      <title>CISA 敦促软件制造商消除操作系统命令注入漏洞</title>
+      <link>https://www.infosecurity-magazine.com/news/cisa-software-eliminate-command/</link>
+      <description><![CDATA[Infosecurity Magazine美国网络安全和基础设施安全局 (CISA) 和 FBI 发出警告，呼吁软件制造商消除“完全可预防的”操作系统 (OS) 命令注入漏洞。警告称，设计和开发信任用户输入而未经适当验证或清理的软件“可能允许威胁行为者执行恶意命令，使客户面临风险。”这些机构指出，可以通过明确区分用户输入和命令内容来避免 OS 命令注入漏洞。摘自“CISA 敦促软件制造商消除 OS 命令注入漏洞”
+Infosecurity Magazine (07/11/24) James Coker 查看全文]]></description>
+      <guid>https://www.infosecurity-magazine.com/news/cisa-software-eliminate-command/</guid>
+      <pubDate>Mon, 15 Jul 2024 18:10:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国打造高科技全球供应链以降低与中国相关的风险</title>
+      <link>https://www.nytimes.com/2024/07/08/us/politics/supply-chain-china-tech.html</link>
+      <description><![CDATA[《纽约时报》根据拜登政府发展高科技全球供应链的计划，作为“芯片外交”努力的一部分，美国正在寻求外国公司对美国芯片制造业的投资，并正在努力寻找可以设立工厂进行最终组装的合作伙伴国家。目标是在台湾受到威胁的情况下解决来自中国的安全问题，并降低供应链中断的风险，就像大流行和乌克兰战争期间发生的那样。摘自“美国建立高科技全球供应链以减轻与中国相关的风险”
+《纽约时报》（07/09/24）Edward Wong； Ana Swanson 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/07/08/us/politics/supply-chain-china-tech.html</guid>
+      <pubDate>Mon, 15 Jul 2024 18:10:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
