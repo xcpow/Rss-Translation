@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Tue, 16 Jul 2024 12:14:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 15:07:23 GMT</lastBuildDate>
+    <item>
+      <title>克雷格·赖特因声称自己创造了比特币而面临伪证调查</title>
+      <link>https://www.wired.com/story/craig-wright-perjury-bitcoin-trial/</link>
+      <description><![CDATA[根据英国法官的命令，克雷格赖特不能再声称自己是比特币的创造者，现在面临刑事指控。]]></description>
+      <guid>https://www.wired.com/story/craig-wright-perjury-bitcoin-trial/</guid>
+      <pubDate>Tue, 16 Jul 2024 12:58:12 GMT</pubDate>
+    </item>
     <item>
       <title>苹果、Nvidia、Anthropic 利用数千个 YouTube 视频来训练人工智能</title>
       <link>https://www.wired.com/story/youtube-training-data-apple-nvidia-anthropic/</link>
@@ -20,9 +27,9 @@
       <pubDate>Tue, 16 Jul 2024 11:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>俄罗斯谷歌建筑师回归</title>
+      <title>俄罗斯谷歌架构师回归</title>
       <link>https://www.wired.com/story/the-attempted-comeback-of-a-russian-tech-billionaire/</link>
-      <description><![CDATA[Yandex 联合创始人阿尔卡迪·沃洛日 (Arkady Volozh) 成功抵制制裁，并将反战者赶出阿姆斯特丹联排别墅。现在他准备在荷兰推出自己的新 AI 公司。但欧洲能忘记他的过去吗？]]></description>
+      <description><![CDATA[Yandex 联合创始人阿尔卡迪·沃洛日 (Arkady Volozh) 成功抵制制裁，并将反战非法居住者赶出阿姆斯特丹的联排别墅。现在他准备在荷兰开设自己的新 AI 公司。但欧洲能忘记他的过去吗？]]></description>
       <guid>https://www.wired.com/story/the-attempted-comeback-of-a-russian-tech-billionaire/</guid>
       <pubDate>Tue, 16 Jul 2024 10:18:21 GMT</pubDate>
     </item>
@@ -83,14 +90,14 @@
       <pubDate>Thu, 11 Jul 2024 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>苹果将​​允许竞争对手使用“Tap and Go”技术</title>
+      <title>苹果将​​允许竞争对手使用“触碰即走”技术</title>
       <link>https://www.wired.com/story/apple-to-allow-rivals-to-access-tap-and-go-technology/</link>
       <description><![CDATA[在欧盟规则促使的最新 iOS 改革中，这家智能手机制造商将允许第三方开发商使用其支付技术。]]></description>
       <guid>https://www.wired.com/story/apple-to-allow-rivals-to-access-tap-and-go-technology/</guid>
       <pubDate>Thu, 11 Jul 2024 14:49:31 GMT</pubDate>
     </item>
     <item>
-      <title>亚马逊加强安保以抵御 Nimbus 项目抗议活动</title>
+      <title>亚马逊加强安保以阻止 Nimbus 项目抗议活动</title>
       <link>https://www.wired.com/story/aws-summit-nyc-protest-security/</link>
       <description><![CDATA[前大型科技公司员工意图扰乱周三在纽约举行的 AWS 峰会，以抗议该公司与以色列签订的价值 12 亿美元的合同。]]></description>
       <guid>https://www.wired.com/story/aws-summit-nyc-protest-security/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[即使是技术乐观主义者也不愿说教学最好留给机器人，但对于界限在哪里仍存在争议。]]></description>
       <guid>https://www.wired.com/story/what-aspects-of-teaching-should-remain-human/</guid>
       <pubDate>Wed, 10 Jul 2024 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌的非自愿性露骨图片问题愈演愈烈</title>
-      <link>https://www.wired.com/story/google-still-cant-quite-stop-explicit-deepfakes/</link>
-      <description><![CDATA[未经同意在网上发布私密照片和视频的报道越来越多，而深度伪造则为这一问题增添了新的可怕维度。谷歌内部人士表示，他们一直在努力让高管采取行动。]]></description>
-      <guid>https://www.wired.com/story/google-still-cant-quite-stop-explicit-deepfakes/</guid>
-      <pubDate>Mon, 08 Jul 2024 10:43:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
