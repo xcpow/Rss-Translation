@@ -4,7 +4,28 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Tue, 16 Jul 2024 09:09:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 12:14:33 GMT</lastBuildDate>
+    <item>
+      <title>苹果、Nvidia、Anthropic 利用数千个 YouTube 视频来训练人工智能</title>
+      <link>https://www.wired.com/story/youtube-training-data-apple-nvidia-anthropic/</link>
+      <description><![CDATA[创作者声称他们的视频在他们不知情的情况下被使用。]]></description>
+      <guid>https://www.wired.com/story/youtube-training-data-apple-nvidia-anthropic/</guid>
+      <pubDate>Tue, 16 Jul 2024 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>德克萨斯州一个小村庄即将吞并一个巨大的比特币矿场</title>
+      <link>https://www.wired.com/story/a-tiny-texas-hamlet-is-about-to-annex-an-industrial-scale-bitcoin-mine/</link>
+      <description><![CDATA[为了迂回地赢得公众舆论（以及丰厚的减税优惠），Riot Platforms 正准备将其珍贵的比特币矿场并入德克萨斯州农村的一个小村庄。]]></description>
+      <guid>https://www.wired.com/story/a-tiny-texas-hamlet-is-about-to-annex-an-industrial-scale-bitcoin-mine/</guid>
+      <pubDate>Tue, 16 Jul 2024 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>俄罗斯谷歌建筑师回归</title>
+      <link>https://www.wired.com/story/the-attempted-comeback-of-a-russian-tech-billionaire/</link>
+      <description><![CDATA[Yandex 联合创始人阿尔卡迪·沃洛日 (Arkady Volozh) 成功抵制制裁，并将反战者赶出阿姆斯特丹联排别墅。现在他准备在荷兰推出自己的新 AI 公司。但欧洲能忘记他的过去吗？]]></description>
+      <guid>https://www.wired.com/story/the-attempted-comeback-of-a-russian-tech-billionaire/</guid>
+      <pubDate>Tue, 16 Jul 2024 10:18:21 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌和亚马逊的 Nimbus 项目与以色列军方之间的隐藏联系</title>
       <link>https://www.wired.com/story/amazon-google-project-nimbus-israel-idf/</link>
@@ -62,14 +83,14 @@
       <pubDate>Thu, 11 Jul 2024 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>苹果将​​允许竞争对手使用“触碰即走”技术</title>
+      <title>苹果将​​允许竞争对手使用“Tap and Go”技术</title>
       <link>https://www.wired.com/story/apple-to-allow-rivals-to-access-tap-and-go-technology/</link>
       <description><![CDATA[在欧盟规则促使的最新 iOS 改革中，这家智能手机制造商将允许第三方开发商使用其支付技术。]]></description>
       <guid>https://www.wired.com/story/apple-to-allow-rivals-to-access-tap-and-go-technology/</guid>
       <pubDate>Thu, 11 Jul 2024 14:49:31 GMT</pubDate>
     </item>
     <item>
-      <title>亚马逊加强安保以阻止 Nimbus 项目抗议活动</title>
+      <title>亚马逊加强安保以抵御 Nimbus 项目抗议活动</title>
       <link>https://www.wired.com/story/aws-summit-nyc-protest-security/</link>
       <description><![CDATA[前大型科技公司员工意图扰乱周三在纽约举行的 AWS 峰会，以抗议该公司与以色列签订的价值 12 亿美元的合同。]]></description>
       <guid>https://www.wired.com/story/aws-summit-nyc-protest-security/</guid>
@@ -88,27 +109,6 @@
       <description><![CDATA[未经同意在网上发布私密照片和视频的报道越来越多，而深度伪造则为这一问题增添了新的可怕维度。谷歌内部人士表示，他们一直在努力让高管采取行动。]]></description>
       <guid>https://www.wired.com/story/google-still-cant-quite-stop-explicit-deepfakes/</guid>
       <pubDate>Mon, 08 Jul 2024 10:43:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能超级士兵不仅仅是一个梦想</title>
-      <link>https://www.wired.com/story/us-military-hyper-enabled-operator/</link>
-      <description><![CDATA[美国军方放弃了半个世纪以来的动力装甲梦想，转而青睐“超级赋能操作员”，即特种作战部队的战术人工智能助手。]]></description>
-      <guid>https://www.wired.com/story/us-military-hyper-enabled-operator/</guid>
-      <pubDate>Mon, 08 Jul 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>泄露生成式人工智能文本的单词</title>
-      <link>https://www.wired.com/story/generative-ai-common-words-study/</link>
-      <description><![CDATA[从“深入研究”到“展示”，在法学硕士成为主流之后，某些词汇的使用量激增。]]></description>
-      <guid>https://www.wired.com/story/generative-ai-common-words-study/</guid>
-      <pubDate>Sun, 07 Jul 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Epic Games 因应用商店拒绝其应用而猛烈抨击苹果</title>
-      <link>https://www.wired.com/story/epic-games-lashes-out-at-apple-over-app-store-rejection/</link>
-      <description><![CDATA[Fortnite 的创造者 Epic Games 表示，苹果拒绝了其在 App Store 上的竞争对手，因为其产品与其自身产品过于相似——该公司认为此举“武断、妨碍”，并违反​​了欧盟规则。]]></description>
-      <guid>https://www.wired.com/story/epic-games-lashes-out-at-apple-over-app-store-rejection/</guid>
-      <pubDate>Fri, 05 Jul 2024 15:10:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
