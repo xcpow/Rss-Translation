@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Wed, 17 Jul 2024 15:09:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 18:10:12 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 大力宣传新的 AI 安全研究。批评者称这是很好的一步，但还不够</title>
+      <link>https://www.wired.com/story/openai-safety-transparency-research/</link>
+      <description><![CDATA[该公司宣布了一项新技术，使其系统运行更加透明，但熟悉 OpenAI 的人士表示，需要更多的监督。]]></description>
+      <guid>https://www.wired.com/story/openai-safety-transparency-research/</guid>
+      <pubDate>Wed, 17 Jul 2024 17:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>RealPage 称租赁定价技术存在误解，但房东并不这么认为</title>
       <link>https://www.wired.com/story/realpage-says-rental-pricing-tech-is-misunderstood-but-landlords-arent-so-sure/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>俄罗斯谷歌架构师回归</title>
       <link>https://www.wired.com/story/the-attempted-comeback-of-a-russian-tech-billionaire/</link>
-      <description><![CDATA[Yandex 联合创始人阿尔卡迪·沃洛日 (Arkady Volozh) 成功抵制制裁，并将反战者赶出阿姆斯特丹联排别墅。现在他准备在荷兰推出自己的新 AI 公司。但欧洲能忘记他的过去吗？]]></description>
+      <description><![CDATA[Yandex 联合创始人阿尔卡迪·沃洛日 (Arkady Volozh) 成功抵制制裁，并将反战非法居住者赶出阿姆斯特丹的联排别墅。现在他准备在荷兰开设自己的新 AI 公司。但欧洲能忘记他的过去吗？]]></description>
       <guid>https://www.wired.com/story/the-attempted-comeback-of-a-russian-tech-billionaire/</guid>
       <pubDate>Tue, 16 Jul 2024 10:18:21 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[山姆·奥特曼 (Sam Altman) 正在大力宣传人工智能能够影响人们的行为。他的公司也在努力应对风险。]]></description>
       <guid>https://www.wired.com/story/thrive-ai-openai-artificial-intelligence-persuasion/</guid>
       <pubDate>Thu, 11 Jul 2024 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果将​​允许竞争对手使用“Tap and Go”技术</title>
-      <link>https://www.wired.com/story/apple-to-allow-rivals-to-access-tap-and-go-technology/</link>
-      <description><![CDATA[在欧盟规则促使的最新 iOS 改革中，这家智能手机制造商将允许第三方开发商使用其支付技术。]]></description>
-      <guid>https://www.wired.com/story/apple-to-allow-rivals-to-access-tap-and-go-technology/</guid>
-      <pubDate>Thu, 11 Jul 2024 14:49:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
