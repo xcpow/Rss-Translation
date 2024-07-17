@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Wed, 17 Jul 2024 09:10:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 12:14:34 GMT</lastBuildDate>
+    <item>
+      <title>RealPage 称租赁定价技术存在误解，但房东并不这么认为</title>
+      <link>https://www.wired.com/story/realpage-says-rental-pricing-tech-is-misunderstood-but-landlords-arent-so-sure/</link>
+      <description><![CDATA[该软件公司强烈反驳有关其算法导致美国租金过高的说法。业主和管理人员并不完全相信。]]></description>
+      <guid>https://www.wired.com/story/realpage-says-rental-pricing-tech-is-misunderstood-but-landlords-arent-so-sure/</guid>
+      <pubDate>Wed, 17 Jul 2024 11:01:50 GMT</pubDate>
+    </item>
     <item>
       <title>伊隆·马斯克称将把 X 和 SpaceX 总部迁至德克萨斯州</title>
       <link>https://www.wired.com/story/elon-musk-x-spacex-texas-move/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[在欧盟规则促使的最新 iOS 改革中，这家智能手机制造商将允许第三方开发商使用其支付技术。]]></description>
       <guid>https://www.wired.com/story/apple-to-allow-rivals-to-access-tap-and-go-technology/</guid>
       <pubDate>Thu, 11 Jul 2024 14:49:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚马逊加强安保以抵御 Nimbus 项目抗议活动</title>
-      <link>https://www.wired.com/story/aws-summit-nyc-protest-security/</link>
-      <description><![CDATA[前大型科技公司员工意图扰乱周三在纽约举行的 AWS 峰会，以抗议该公司与以色列签订的价值 12 亿美元的合同。]]></description>
-      <guid>https://www.wired.com/story/aws-summit-nyc-protest-security/</guid>
-      <pubDate>Wed, 10 Jul 2024 21:54:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
