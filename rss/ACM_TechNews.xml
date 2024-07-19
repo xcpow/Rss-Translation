@@ -4,102 +4,94 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Wed, 17 Jul 2024 18:10:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 15:08:42 GMT</lastBuildDate>
     <item>
-      <title>ACC、SEC 将在场边和展台上使用 iPad 播放比赛视频</title>
-      <link>https://www.espn.com/college-football/story/_/id/40569283/acc-sec-use-ipads-sidelines-booths-video-playback</link>
-      <description><![CDATA[ESPN大学体育联盟大西洋海岸联盟 (ACC) 和东南联盟 (SEC) 将在即将到来的美国大学橄榄球赛季期间在教练室和场边推出 iPad 技术。与 Apple 合作，所有 ACC 和 SEC 球队都将使用联盟提供的 iPad Pro 和 iPad Air 型号进行视频播放。此前，美国大学体育协会比赛规则监督小组于 4 月决定批准在比赛中使用视频。摘自“ACC、SEC 将在场边和隔间使用 iPad 进行比赛视频播放”
-ESPN（07/15/24） 查看全文]]></description>
-      <guid>https://www.espn.com/college-football/story/_/id/40569283/acc-sec-use-ipads-sidelines-booths-video-playback</guid>
-      <pubDate>Wed, 17 Jul 2024 18:10:07 GMT</pubDate>
+      <title>数字孪生助力奥运游泳选手</title>
+      <link>https://www.scientificamerican.com/article/training-with-digital-twins-could-boost-olympic-swimmer-speeds/</link>
+      <description><![CDATA[《科学美国人》参加即将举行的夏季奥运会的美国游泳运动员在埃默里大学和弗吉尼亚大学研究人员开发的数字孪生的帮助下进行训练。游泳运动员配备了传感器来记录他们身体的加速度、方向和力量。这些数据被用来创建运动员的数字孪生，捕捉他们精确到毫秒的动作。该系统被用来提出改进技术的建议和提供比赛策略的建议。摘自《数字孪生为奥运游泳运动员助力》
+《科学美国人》（07/08/24）凯瑟琳·道格拉斯；奥古斯都·兰姆；杰里·卢；等人 查看全文]]></description>
+      <guid>https://www.scientificamerican.com/article/training-with-digital-twins-could-boost-olympic-swimmer-speeds/</guid>
+      <pubDate>Fri, 19 Jul 2024 15:08:41 GMT</pubDate>
     </item>
     <item>
-      <title>量子技术在超导体领域追随电子</title>
-      <link>https://www.scmp.com/news/china/science/article/3270118/how-chinese-team-used-quantum-tech-follow-electrons-superconductor-trail</link>
-      <description><![CDATA[南华早报中国科学技术大学 (USTC) 研究人员开发的量子计算机可以模拟固态材料中的电子运动。量子计算机模拟了费米子哈伯德模型，该模型描述了晶格中的电子运动，而超级计算机很难模拟这种运动。摘自“量子技术追随电子的超导轨迹”
-南华早报 (07/12/24) 张通 查看全文]]></description>
-      <guid>https://www.scmp.com/news/china/science/article/3270118/how-chinese-team-used-quantum-tech-follow-electrons-superconductor-trail</guid>
-      <pubDate>Wed, 17 Jul 2024 18:10:06 GMT</pubDate>
+      <title>虚假信息专家不知道如何阻止它</title>
+      <link>https://www.nytimes.com/2024/07/11/technology/disinformation-tools.html</link>
+      <description><![CDATA[《纽约时报》尽管研究确定了虚假信息背后的动机、传播方式以及通常针对的对象，但研究人员仍然不知道最有效的阻止方法。麻省理工学院的 David Rand 表示，打击虚假信息比简单地删除虚假内容要复杂得多。许多研究人员认为，同时实施多种策略可以提供防御，一些人希望人工智能可以充当互联网“走廊监视器”，比人类内容审核员更快、更具成本效益。摘自“虚假信息专家不知道如何阻止它”
+《纽约时报》（07/15/24）Tiffany Hsu；Stuart A. Thompson 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/07/11/technology/disinformation-tools.html</guid>
+      <pubDate>Fri, 19 Jul 2024 15:08:41 GMT</pubDate>
     </item>
     <item>
-      <title>算法偏见继续对少数族裔学生产生负面影响</title>
-      <link>https://www.diverseeducation.com/reports-data/article/15679597/algorithmic-bias-continues-to-impact-minoritized-students</link>
-      <description><![CDATA[多元化教育德克萨斯大学奥斯汀分校和芝加哥大学的研究人员发现，用于预测学生成绩的算法错误地判定了 19% 的黑人学生和 21% 的拉丁裔学生会辍学。研究人员表示，这些算法中应该包括“更能预测少数族裔学生成绩”的变量，例如校园氛围、家庭支持和离家距离。摘自“算法偏见继续对少数族裔学生产生负面影响”
-多元化教育 (07/15/24) Liann Herder 查看全文]]></description>
-      <guid>https://www.diverseeducation.com/reports-data/article/15679597/algorithmic-bias-continues-to-impact-minoritized-students</guid>
-      <pubDate>Wed, 17 Jul 2024 18:10:06 GMT</pubDate>
+      <title>癫痫患者利用意念的力量“说话”</title>
+      <link>https://medicalxpress.com/news/2024-07-success-patient-power-thought.html</link>
+      <description><![CDATA[Medical Xpress以色列特拉维夫大学 (TAU) 和特拉维夫索拉斯基医疗中心的研究人员展示了一名癫痫患者的能力，该患者在大脑中植入了深度电极，仅使用思想的力量就能进行交流。植入物将患者大脑的电信号传输到使用深度学习和机器学习训练的计算机，并大声朗读传输的音节。摘自“癫痫患者利用思想的力量‘说话’”
+Medical Xpress (07/16/24) 查看全文]]></description>
+      <guid>https://medicalxpress.com/news/2024-07-success-patient-power-thought.html</guid>
+      <pubDate>Fri, 19 Jul 2024 15:08:40 GMT</pubDate>
     </item>
     <item>
-      <title>企业和诈骗者都喜欢印度的支付系统</title>
-      <link>https://www.bbc.com/news/articles/c288m1km01po</link>
-      <description><![CDATA[BBC自 2016 年以来，统一支付接口 (UPI) 使印度企业的支付以及印度央行与印度银行业之间的沟通更加顺畅，但它也很容易成为骗子的目标。总部位于德里的未来犯罪研究基金会创始人 Shashank Shekhar 报告称，2020 年 1 月至 2023 年 6 月期间，印度银行系统中近一半的金融欺诈都涉及使用 UPI。摘自“企业和骗子喜欢印度的支付系统”
-BBC (07/12/24) Priti Gupta 查看全文]]></description>
-      <guid>https://www.bbc.com/news/articles/c288m1km01po</guid>
-      <pubDate>Wed, 17 Jul 2024 18:10:05 GMT</pubDate>
+      <title>模特组织一群自主飞行的无人机</title>
+      <link>https://interestingengineering.com/transportation/first-self-driving-drone-traffic</link>
+      <description><![CDATA[有趣的工程匈牙利洛兰大学研究人员开发的自组织无人机模型有助于防止自主无人机之间的交通冲突。该模型将实时路线规划器与自然启发的群集模型相结合，其中无人机像一群鸟一样同步移动。该模型成功模拟了多达 5,000 架无人机以不同速度和优先级飞行的高速随机交通。摘自“模型组织自飞无人机群”
+有趣的工程 (07/16/24) Sujita Sinha 查看全文]]></description>
+      <guid>https://interestingengineering.com/transportation/first-self-driving-drone-traffic</guid>
+      <pubDate>Fri, 19 Jul 2024 15:08:40 GMT</pubDate>
     </item>
     <item>
-      <title>大学不希望人工智能研究落后于自己</title>
-      <link>https://www.wsj.com/articles/universities-dont-want-ai-research-to-leave-them-behind-20318395</link>
-      <description><![CDATA[《华尔街日报》为了在生成式人工智能领域保持相关性，大学正在将研究重点转移到计算能力密集程度较低的人工智能领域。与此同时，学术机构正在寻求扩大其计算资源或与其他大学共享资源。与此同时，硅谷、波士顿、太平洋西北地区和奥斯汀等科技中心的大学正在与行业参与者建立合作伙伴关系。摘自“大学不希望人工智能研究落后于他们”
-《华尔街日报》（07/12/24）Isabelle Bousquette 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/articles/universities-dont-want-ai-research-to-leave-them-behind-20318395</guid>
-      <pubDate>Wed, 17 Jul 2024 18:10:05 GMT</pubDate>
+      <title>美国国家安全局称无法观看 1982 年 Grace Hopper 的录音</title>
+      <link>https://gizmodo.com/nsa-claims-it-cant-watch-an-important-tape-it-recorded-in-the-1980s-2000473433</link>
+      <description><![CDATA[Gizmodo美国海军上将格蕾丝·霍珀 (Grace Hopper) 于 1982 年发表的演讲录音现存于美国国家安全局 (NSA) 的档案中，霍珀曾参与开发编程语言 FLOW-MATIC 和 COBOL。 2021 年 10 月 12 日，Michael Ravnitzky 根据《信息自由法》提交了这些录音带的请求。近三年后，美国国家安全局表示“没有回应文件”，声称“这些文件是 NSA 不再能够查看或数字化的格式”。这些录音带是用 AMPEX 1 英寸录像机录制的。摘自“NSA 声称无法观看 1982 年 Grace Hopper 的录音”
+Gizmodo (07/16/24) Matthew Gault 查看全文]]></description>
+      <guid>https://gizmodo.com/nsa-claims-it-cant-watch-an-important-tape-it-recorded-in-the-1980s-2000473433</guid>
+      <pubDate>Fri, 19 Jul 2024 15:08:39 GMT</pubDate>
     </item>
     <item>
-      <title>Salesforce 裁减更多职位，这是技术紧缩的最新迹象</title>
-      <link>https://www.bloomberg.com/news/articles/2024-07-15/salesforce-cuts-about-300-jobs-in-latest-sign-of-tech-austerity</link>
-      <description><![CDATA[彭博社据报道，软件巨头 Salesforce 本月裁员约 300 人，以精简运营并控制成本。该公司今年早些时候裁员约 700 人，去年年初裁员 10%。其他科技公司最近也宣布裁员，包括 Intuit Inc.、UiPath Inc.、Open Text Corp. 和微软的 Azure 云部门。摘自“Salesforce 裁员更多，这是技术紧缩的最新迹象”
-彭博社 (07/15/24) Brody Ford 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-07-15/salesforce-cuts-about-300-jobs-in-latest-sign-of-tech-austerity</guid>
-      <pubDate>Wed, 17 Jul 2024 18:10:04 GMT</pubDate>
+      <title>“关键”量子计算芯片亮相</title>
+      <link>https://www.bbc.com/news/articles/cgxq789931go</link>
+      <description><![CDATA[BBC牛津离子研究中心的研究人员开发出一种量子计算机芯片，可以控制捕获的离子，从而快速完成复杂的计算。研究人员表示，该芯片适合大规模生产，可以为三年内开发第一台有用的量子计算机铺平道路。英国国家量子计算中心的 Michael Cuthbert 表示：“新成果标志着离子阱量子计算向前迈出了关键一步，并验证了该技术的可扩展性。”摘自“‘关键’量子计算芯片揭晓”
+BBC (07/16/24) Ethan Gudge 查看全文]]></description>
+      <guid>https://www.bbc.com/news/articles/cgxq789931go</guid>
+      <pubDate>Fri, 19 Jul 2024 15:08:39 GMT</pubDate>
     </item>
     <item>
-      <title>乌克兰初创公司打造低成本机器人对抗俄罗斯</title>
-      <link>https://apnews.com/article/ukraine-russia-drones-robots-artificial-intelligence-b07de714659ef859e16c51d7cda4256b</link>
-      <description><![CDATA[美联社大约 250 家乌克兰国防初创公司设立了秘密车间，正在开发机器人军队。例如，企业家 Andrii Denysenko 表示，他的车间只需四天就能生产出一辆无人地面车辆，成本为 35,000 美元，仅为进口车型价格的 10%。这家初创公司还在研发士兵的机动外骨骼和无人运输车，用于将设备或士兵运送上斜坡。摘自“乌克兰初创公司制造低成本机器人对抗俄罗斯”
-美联社 (07/15/24) Derek Gatopoulos； Anton Shtuka 查看全文]]></description>
-      <guid>https://apnews.com/article/ukraine-russia-drones-robots-artificial-intelligence-b07de714659ef859e16c51d7cda4256b</guid>
-      <pubDate>Wed, 17 Jul 2024 18:10:04 GMT</pubDate>
+      <title>欧盟法院裁定 TikTok 所有者无法规避 DMA</title>
+      <link>https://apnews.com/article/tiktok-european-union-digital-markets-act-e6f8d49a93de38453de43802f342b7ce</link>
+      <description><![CDATA[美联社欧盟普通法院裁定 TikTok 母公司字节跳动不能逃避《数字市场法》（DMA）规定的义务。法院驳回了字节跳动的法律挑战，即被归类为网络“守门人”，必须遵守 DMA 规定的额外义务，该法案旨在通过为消费者提供更多选择，使网络竞争更加公平。TikTok 辩称，它不是守门人，而是在社交媒体中扮演新竞争对手的角色，与 Meta 等老牌公司展开竞争；法院不同意。摘自“欧盟法院称 TikTok 所有者无法避免 DMA”
+美联社 (07/17/24) 查看全文]]></description>
+      <guid>https://apnews.com/article/tiktok-european-union-digital-markets-act-e6f8d49a93de38453de43802f342b7ce</guid>
+      <pubDate>Fri, 19 Jul 2024 15:08:38 GMT</pubDate>
     </item>
     <item>
-      <title>香港正在测试自己的 ChatGPT 风格工具</title>
-      <link>https://apnews.com/article/hong-kong-china-chatgpt-openai-2681e2c7724e260686ef88aa4e034a2d</link>
-      <description><![CDATA[美联社香港科技大学领导的研究小组为香港员工开发了一款类似 ChatGPT 的工具。创新科技及工业局局长孙东表示，该工具被称为“公务员文件编辑副驾驶应用程序”，正在由该局进行测试，并将于今年晚些时候在全政府范围内推广。摘自“香港正在测试自己的 ChatGPT 式工具”
-美联社 (07/16/24) Kanis Leung 查看全文]]></description>
-      <guid>https://apnews.com/article/hong-kong-china-chatgpt-openai-2681e2c7724e260686ef88aa4e034a2d</guid>
-      <pubDate>Wed, 17 Jul 2024 18:10:03 GMT</pubDate>
+      <title>调查人员迅速破解特朗普集会枪手使用的手机</title>
+      <link>https://www.washingtonpost.com/nation/2024/07/16/thomas-crooks-phone-motive-parents-trump-shooting/</link>
+      <description><![CDATA[华盛顿邮报最新的手机破解技术被用来快速破解在竞选活动中枪击前美国总统唐纳德·特朗普的嫌疑人的手机。这款手机是相对较新的型号，由于软件较新，执法部门比旧手机更难破解。内部人士称，联邦调查局能够在 45 分钟内破解嫌疑人的手机。摘自“调查人员争相破解特朗普集会枪手使用的手机”
+华盛顿邮报 (07/16/24) Devlin Barrett；Emily Davies 查看全文]]></description>
+      <guid>https://www.washingtonpost.com/nation/2024/07/16/thomas-crooks-phone-motive-parents-trump-shooting/</guid>
+      <pubDate>Fri, 19 Jul 2024 15:08:38 GMT</pubDate>
     </item>
     <item>
-      <title>黑客声称因担心人工智能问题泄露迪士尼内部 Slack 信息</title>
-      <link>https://www.cnn.com/2024/07/15/business/internal-disney-slack-leak-hacker-group/index.html</link>
-      <description><![CDATA[CNN激进黑客组织 Nullbulge 声称，它泄露了迪士尼数千个内部 Slack 消息频道，其中包括有关未发布项目、原始图像、计算机代码和登录的信息。该组织表示，它泄露了大约 1.2 TB 的信息，并表示希望保护艺术家的权利和作品报酬，尤其是在人工智能时代。摘自“黑客因担心人工智能而声称泄露迪士尼内部 Slack 消息”
-CNN (07/15/24) Ramishah Maruf 查看全文]]></description>
-      <guid>https://www.cnn.com/2024/07/15/business/internal-disney-slack-leak-hacker-group/index.html</guid>
-      <pubDate>Wed, 17 Jul 2024 18:10:03 GMT</pubDate>
+      <title>ACM 支持将数字无障碍纳入 ADA 的努力</title>
+      <link>https://www.acm.org/media-center/2024/july/ustpc-statement-digital-accessibility</link>
+      <description><![CDATA[ACM 媒体中心ACM 的美国技术政策委员会 (USTPC) 发表声明，支持《美国残疾人法案》(ADA) 下强制性的综合数字无障碍法规。美国司法部最近更新了 ADA，以确保州和地方政府在线和通过移动应用提供的服务、计划和活动可供残疾人士使用。“在我们的道德和职业行为准则中，ACM 承认计算专业人员有责任为公平公正的社会做出贡献并避免造成伤害，” USTPC 的 Sarah Horton 说道。摘自“ACM 支持将数字无障碍纳入 ADA 的努力”
+ACM 媒体中心 (07/18/24) 查看全文]]></description>
+      <guid>https://www.acm.org/media-center/2024/july/ustpc-statement-digital-accessibility</guid>
+      <pubDate>Fri, 19 Jul 2024 15:08:37 GMT</pubDate>
     </item>
     <item>
-      <title>ASML 支持的大学陷入中美芯片战争</title>
-      <link>https://www.bloomberg.com/news/articles/2024-07-15/us-pressure-on-dutch-china-links-reaches-asml-funded-university</link>
-      <description><![CDATA[彭博社荷兰埃因霍温理工大学卷入了中美芯片战争。埃因霍温是 ASML Holding NV 的主要人才来源，该公司的浸没式 DUV 光刻机用于半导体生产。在美国政府的压力下，海牙已限制向中国客户出口这些机器。摘自“ASML 支持的大学卷入中美芯片战争”
-彭博社 (07/15/24) Cagan Koc 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-07-15/us-pressure-on-dutch-china-links-reaches-asml-funded-university</guid>
-      <pubDate>Wed, 17 Jul 2024 18:10:02 GMT</pubDate>
+      <title>拜耳等公司利用人工智能征服超级杂草</title>
+      <link>https://www.wsj.com/science/environment/super-weed-killer-ai-8105de6a</link>
+      <description><![CDATA[华尔街日报拜耳和先正达等大型农业公司正在使用人工智能来加速开发新型除草剂、杀菌剂和杀虫剂的过程。先正达估计，人工智能可以将从发现到商业化的平均时间从 15 年缩短到 10 年。例如，拜耳的 CropKey 人工智能系统可以比人类更快地分析数据，以识别针对杂草蛋白质结构的化学分子。摘自“拜耳等公司转向人工智能征服超级杂草”
+华尔街日报 (07/17/24) Patrick Thomas 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/science/environment/super-weed-killer-ai-8105de6a</guid>
+      <pubDate>Fri, 19 Jul 2024 15:08:37 GMT</pubDate>
     </item>
     <item>
-      <title>卡巴斯基实验室因遭禁令退出美国</title>
-      <link>https://www.bbc.com/news/articles/cyr7ex16p32o</link>
-      <description><![CDATA[BBC俄罗斯卡巴斯基实验室因美国禁止销售和分销其防病毒和网络安全软件而退出美国，并指出“该国的商业机会已不再可行”。此前，美国商务部长吉娜·雷蒙多 (Gina Raimondo) 表示，由于莫斯科对卡巴斯基的影响，卡巴斯基对美国基础设施和服务构成了严重风险。从 9 月 29 日起，美国将禁止对卡巴斯基产品进行软件更新、转售和授权。摘自“卡巴斯基实验室因被禁而退出美国”
-BBC (07/16/24) Joáo da Silva 查看全文]]></description>
-      <guid>https://www.bbc.com/news/articles/cyr7ex16p32o</guid>
-      <pubDate>Wed, 17 Jul 2024 18:10:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能时代，硅谷准备回馈多少？</title>
-      <link>https://www.nytimes.com/2024/07/16/technology/universal-income-openai-silicon-valley.html</link>
-      <description><![CDATA[《纽约时报》硅谷已经为急需帮助的居民测试了保障收入和无条件现金支付计划，特别是针对那些工作可能被人工智能取代的人。尽管一些州禁止保障收入，但试点项目表明，这些支付可以帮助稳定资金紧张的家庭。一些支持者呼吁科技公司游说联邦政府采用保障收入计划；其他人则希望科技公司做出更实质性的承诺。摘自“在人工智能时代，硅谷准备回馈多少？”
-《纽约时报》（07/16/24）David Streitfeld 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/07/16/technology/universal-income-openai-silicon-valley.html</guid>
-      <pubDate>Wed, 17 Jul 2024 18:10:01 GMT</pubDate>
+      <title>CrowdStrike 问题导致全球大规模中断</title>
+      <link>https://www.cnbc.com/2024/07/19/crowdstrike-suffers-major-outage-affecting-businesses-around-the-world.html</link>
+      <description><![CDATA[CNBC网络安全公司 CrowdStrike 的一次更新导致周五发生重大 IT 中断，影响了全球各地的企业。CrowdStrike 表示，他们正在回滚导致此问题的更新，并且已部署了针对此缺陷的修复程序。首席执行官 George Kurtz 表示：“CrowdStrike 正在积极与受 Windows 主机单个内容更新中发现的缺陷影响的客户合作。Mac 和 Linux 主机不受影响。”航空公司、银行和电信公司是受影响的公司之一。摘自“CrowdStrike 问题导致全球重大中断”
+CNBC（07/19/24）Katrina Bishop；Arjun Kharpal 查看全文]]></description>
+      <guid>https://www.cnbc.com/2024/07/19/crowdstrike-suffers-major-outage-affecting-businesses-around-the-world.html</guid>
+      <pubDate>Fri, 19 Jul 2024 15:08:36 GMT</pubDate>
     </item>
     </channel>
 </rss>

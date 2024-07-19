@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 19 Jul 2024 12:13:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 15:08:46 GMT</lastBuildDate>
+    <item>
+      <title>唐纳德·特朗普与硅谷亿万富翁的挽歌</title>
+      <link>https://www.wired.com/story/donald-trump-and-silicon-valleys-billionaire-elegy/</link>
+      <description><![CDATA[风险投资家本·霍洛维茨 (Ben Horowitz) 和马克·安德森 (Marc Andreessen) 声称，如果我们不拥抱这位前总统，科技行业、加利福尼亚州和整个国家都将注定失败。]]></description>
+      <guid>https://www.wired.com/story/donald-trump-and-silicon-valleys-billionaire-elegy/</guid>
+      <pubDate>Fri, 19 Jul 2024 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>我们让人工智能带我们参观我们的城市。结果一片混乱</title>
       <link>https://www.wired.com/story/littlefoot-ai-chatbot-travel-planner/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[科技创始人描绘了员工在虚拟工作场所打卡上班的愿景。但 VR 在工作场所的采用进展缓慢。]]></description>
       <guid>https://www.wired.com/story/metaverse-virtual-reality-office-work-slow-growth/</guid>
       <pubDate>Sun, 14 Jul 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧盟将对 X 支付蓝色支票</title>
-      <link>https://www.wired.com/story/eu-elon-musk-x-blue-checks/</link>
-      <description><![CDATA[欧盟今天表示，埃隆·马斯克在 X 上的付费蓝色检测系统欺骗了用户，并且可能被恶意行为者滥用。]]></description>
-      <guid>https://www.wired.com/story/eu-elon-musk-x-blue-checks/</guid>
-      <pubDate>Fri, 12 Jul 2024 15:14:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
