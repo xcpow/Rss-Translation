@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 19 Jul 2024 21:06:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2024 00:35:02 GMT</lastBuildDate>
+    <item>
+      <title>CrowdStrike 全球中断引发现金意外回升</title>
+      <link>https://www.wired.com/story/microsoft-crowdstrike-outage-cash/</link>
+      <description><![CDATA[该事件导致机场、杂货店和星巴克门店陷入混乱。]]></description>
+      <guid>https://www.wired.com/story/microsoft-crowdstrike-outage-cash/</guid>
+      <pubDate>Fri, 19 Jul 2024 21:59:45 GMT</pubDate>
+    </item>
     <item>
       <title>硅谷的无情富豪们投奔唐纳德·特朗普——以保住自己的数十亿美元</title>
       <link>https://www.wired.com/story/donald-trump-and-silicon-valleys-billionaire-elegy/</link>
@@ -90,9 +97,9 @@
       <pubDate>Tue, 16 Jul 2024 11:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>俄罗斯谷歌建筑师回归</title>
+      <title>俄罗斯谷歌架构师回归</title>
       <link>https://www.wired.com/story/the-attempted-comeback-of-a-russian-tech-billionaire/</link>
-      <description><![CDATA[Yandex 联合创始人阿尔卡迪·沃洛日 (Arkady Volozh) 成功抵制制裁，并将反战非法居住者赶出阿姆斯特丹的联排别墅。现在他准备在荷兰开设自己的新 AI 公司。但欧洲能忘记他的过去吗？]]></description>
+      <description><![CDATA[Yandex 联合创始人阿尔卡迪·沃洛日 (Arkady Volozh) 成功抵制制裁，并将反战者赶出阿姆斯特丹联排别墅。现在他准备在荷兰推出自己的新 AI 公司。但欧洲能忘记他的过去吗？]]></description>
       <guid>https://www.wired.com/story/the-attempted-comeback-of-a-russian-tech-billionaire/</guid>
       <pubDate>Tue, 16 Jul 2024 10:18:21 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[《连线》杂志的调查发现，官员的公开声明详细说明了 Nimbus 项目与以色列国防军之间的联系比之前报道的要密切得多。]]></description>
       <guid>https://www.wired.com/story/amazon-google-project-nimbus-israel-idf/</guid>
       <pubDate>Mon, 15 Jul 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>元宇宙本应是你的新办公室。你仍在使用 Zoom</title>
-      <link>https://www.wired.com/story/metaverse-virtual-reality-office-work-slow-growth/</link>
-      <description><![CDATA[科技创始人描绘了员工在虚拟工作场所打卡上班的愿景。但 VR 在工作场所的采用进展缓慢。]]></description>
-      <guid>https://www.wired.com/story/metaverse-virtual-reality-office-work-slow-growth/</guid>
-      <pubDate>Sun, 14 Jul 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
