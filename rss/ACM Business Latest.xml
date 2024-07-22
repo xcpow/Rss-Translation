@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Mon, 22 Jul 2024 18:09:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 21:07:29 GMT</lastBuildDate>
+    <item>
+      <title>Waymo 起诉涉嫌砸毁和砍伤其自动驾驶出租车的人</title>
+      <link>https://www.wired.com/story/waymo-sues-alleged-driverless-car-attackers/</link>
+      <description><![CDATA[在旧金山发生一系列暴力事件后，Alphabet 旗下的无人驾驶汽车服务公司开始严厉打击涉嫌破坏行为。]]></description>
+      <guid>https://www.wired.com/story/waymo-sues-alleged-driverless-car-attackers/</guid>
+      <pubDate>Mon, 22 Jul 2024 18:14:00 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI 支持的非营利组织每月向穷人提供 1,000 美元。以下是他们如何使用这笔钱</title>
       <link>https://www.wired.com/story/sam-altmans-big-basic-income-study-is-finally-out/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[为了迂回地赢得公众舆论（以及丰厚的减税优惠），Riot Platforms 正准备将其珍贵的比特币矿场并入德克萨斯州农村的一个小村庄。]]></description>
       <guid>https://www.wired.com/story/a-tiny-texas-hamlet-is-about-to-annex-an-industrial-scale-bitcoin-mine/</guid>
       <pubDate>Tue, 16 Jul 2024 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>俄罗斯谷歌架构师回归</title>
-      <link>https://www.wired.com/story/the-attempted-comeback-of-a-russian-tech-billionaire/</link>
-      <description><![CDATA[Yandex 联合创始人阿尔卡迪·沃洛日 (Arkady Volozh) 成功抵制制裁，并将反战者赶出阿姆斯特丹联排别墅。现在他准备在荷兰推出自己的新 AI 公司。但欧洲能忘记他的过去吗？]]></description>
-      <guid>https://www.wired.com/story/the-attempted-comeback-of-a-russian-tech-billionaire/</guid>
-      <pubDate>Tue, 16 Jul 2024 10:18:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
