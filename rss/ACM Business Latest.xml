@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Tue, 23 Jul 2024 12:14:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 15:08:56 GMT</lastBuildDate>
+    <item>
+      <title>丰田利用双漂移人工智能赛车进行“速度与激情”演示</title>
+      <link>https://www.wired.com/story/toyota-stanford-ai-tandem-drifting-cars/</link>
+      <description><![CDATA[为汽车失去牵引力后进行处理而设计的算法可能会代替人类驾驶员进行干预。]]></description>
+      <guid>https://www.wired.com/story/toyota-stanford-ai-tandem-drifting-cars/</guid>
+      <pubDate>Tue, 23 Jul 2024 11:45:00 GMT</pubDate>
+    </item>
     <item>
       <title>Waymo 起诉涉嫌砸毁和砍伤其自动驾驶出租车的人</title>
       <link>https://www.wired.com/story/waymo-sues-alleged-driverless-car-attackers/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[创作者声称他们的视频在他们不知情的情况下被使用。]]></description>
       <guid>https://www.wired.com/story/youtube-training-data-apple-nvidia-anthropic/</guid>
       <pubDate>Tue, 16 Jul 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>德克萨斯州一个小村庄即将吞并一个巨大的比特币矿场</title>
-      <link>https://www.wired.com/story/a-tiny-texas-hamlet-is-about-to-annex-an-industrial-scale-bitcoin-mine/</link>
-      <description><![CDATA[为了迂回地赢得公众舆论（以及丰厚的减税优惠），Riot Platforms 正准备将其珍贵的比特币矿场并入德克萨斯州农村的一个小村庄。]]></description>
-      <guid>https://www.wired.com/story/a-tiny-texas-hamlet-is-about-to-annex-an-industrial-scale-bitcoin-mine/</guid>
-      <pubDate>Tue, 16 Jul 2024 11:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
