@@ -4,11 +4,18 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Tue, 23 Jul 2024 15:08:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 18:10:22 GMT</lastBuildDate>
+    <item>
+      <title>MetaVs 的新 Llama 3.1 AI 模型免费、功能强大且有风险</title>
+      <link>https://www.wired.com/story/meta-ai-llama-3/</link>
+      <description><![CDATA[最新版本的Llama将使AI更加易于访问和定制，但它也将引发关于在没有护栏的情况下发布AI的危险性的争论。]]></description>
+      <guid>https://www.wired.com/story/meta-ai-llama-3/</guid>
+      <pubDate>Tue, 23 Jul 2024 15:05:18 GMT</pubDate>
+    </item>
     <item>
       <title>丰田利用双漂移人工智能赛车进行“速度与激情”演示</title>
       <link>https://www.wired.com/story/toyota-stanford-ai-tandem-drifting-cars/</link>
-      <description><![CDATA[为汽车失去牵引力后进行处理而设计的算法可能会代替人类驾驶员进行干预。]]></description>
+      <description><![CDATA[为在汽车失去牵引力后进行处理而设计的算法可能会代替人类驾驶员进行干预。]]></description>
       <guid>https://www.wired.com/story/toyota-stanford-ai-tandem-drifting-cars/</guid>
       <pubDate>Tue, 23 Jul 2024 11:45:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[根据英国法官的命令，克雷格赖特不能再声称自己是比特币的创造者，现在面临刑事指控。]]></description>
       <guid>https://www.wired.com/story/craig-wright-perjury-bitcoin-trial/</guid>
       <pubDate>Tue, 16 Jul 2024 12:58:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果、Nvidia、Anthropic 利用数千个 YouTube 视频来训练人工智能</title>
-      <link>https://www.wired.com/story/youtube-training-data-apple-nvidia-anthropic/</link>
-      <description><![CDATA[创作者声称他们的视频在他们不知情的情况下被使用。]]></description>
-      <guid>https://www.wired.com/story/youtube-training-data-apple-nvidia-anthropic/</guid>
-      <pubDate>Tue, 16 Jul 2024 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
