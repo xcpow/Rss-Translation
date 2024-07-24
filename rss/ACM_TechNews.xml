@@ -4,94 +4,94 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Mon, 22 Jul 2024 15:08:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 15:09:06 GMT</lastBuildDate>
     <item>
-      <title>廉价自动驾驶出租车在中国引发焦虑</title>
-      <link>https://www.cnn.com/2024/07/18/cars/china-baidu-apollo-go-robotaxi-anxiety-intl-hnk/index.html</link>
-      <description><![CDATA[CNN在中国中部城市武汉，中国科技巨头百度旗下的 Apollo Go 拥有 500 辆无人驾驶出租车，服务范围覆盖该市约一半的人口。无人驾驶出租车起步价低至 4 元（55 美分），而人工驾驶出租车起步价为 18 元（2.48 美元）。无人驾驶出租车的采用对中国的零工经济劳动力产生了负面影响。上周，对无人驾驶出租车的强烈反对，尤其是对 Apollo Go 定价策略的反对，成为中国微博上第二大热门话题。摘自“廉价无人驾驶出租车在中国引发焦虑”
-CNN (07/22/24) Kathleen Magramo；Hassan Tayir； Joyce Jiang 查看全文]]></description>
-      <guid>https://www.cnn.com/2024/07/18/cars/china-baidu-apollo-go-robotaxi-anxiety-intl-hnk/index.html</guid>
-      <pubDate>Mon, 22 Jul 2024 15:08:46 GMT</pubDate>
+      <title>艺术家保护自己的作品免受人工智能的侵害</title>
+      <link>https://apnews.com/article/artificial-intelligence-ai-glaze-nightshade-9853b48019171368fbb8da20df98a13b</link>
+      <description><![CDATA[美联社芝加哥大学的研究人员正在帮助艺术家保护他们的作品不被纳入生成式人工智能训练模型。他们开发的 Glaze 工具实现了微妙的变化，诱使人工智能检测出不同的艺术风格，而他们的 Nightshade 工具则使人工智能训练模型对图像中的内容感到困惑。然而，宾夕法尼亚州立大学的陈景辉警告说：“当人工智能变得越来越强大时，这些反人工智能工具就会变得越来越弱。”摘自“艺术家保护他们的作品免受人工智能的影响”
+美联社 (07/18/24) Sarah Parvini 查看全文]]></description>
+      <guid>https://apnews.com/article/artificial-intelligence-ai-glaze-nightshade-9853b48019171368fbb8da20df98a13b</guid>
+      <pubDate>Wed, 24 Jul 2024 15:09:06 GMT</pubDate>
     </item>
     <item>
-      <title>乌克兰急于研发人工智能战争无人机</title>
-      <link>https://www.reuters.com/technology/artificial-intelligence/ukraine-rushes-create-ai-enabled-war-drones-2024-07-18/</link>
-      <description><![CDATA[路透社乌克兰初创公司正在努力制造人工智能无人机，可以部署在与俄罗斯的战争前线。这项工作的重点是开发视觉系统以精确定位目标并让无人机飞向目标、地形测绘能力以及允许无人机在互联网络中运行的程序。一些初创公司通过在 Raspberry Pi 上运行人工智能程序来降低制造成本。摘自“乌克兰急于制造人工智能战争无人机”
-路透社 (07/18/24) Max Hunder 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/artificial-intelligence/ukraine-rushes-create-ai-enabled-war-drones-2024-07-18/</guid>
-      <pubDate>Mon, 22 Jul 2024 15:08:46 GMT</pubDate>
+      <title>房东使用软件设定租金。随后诉讼接踵而至</title>
+      <link>https://www.nytimes.com/2024/07/19/business/economy/rent-prices-realpage-lawsuit.html</link>
+      <description><![CDATA[《纽约时报》美国各地提起的诉讼声称，房东正在使用 RealPage 的房地产软件来抬高租金。RealPage 的 YieldStar 允许房东共享租金定价数据和入住率，并通过算法计算建议租金，诉讼称这些租金高于竞争市场的租金。有人担心这可能违反联邦反垄断法，该法禁止竞争对手之间达成固定价格的协议。摘自“房东使用软件来设定租金。然后是诉讼”
+《纽约时报》（2024 年 7 月 23 日）Danielle Kaye 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/07/19/business/economy/rent-prices-realpage-lawsuit.html</guid>
+      <pubDate>Wed, 24 Jul 2024 15:09:05 GMT</pubDate>
     </item>
     <item>
-      <title>衡量宽带政策的成功</title>
-      <link>https://harvardlawreview.org/blog/2024/07/measuring-broadband-policy-success/</link>
-      <description><![CDATA[《哈佛法律评论》哈佛法学院的研究人员发现，美国联邦通信委员会 (FCC) 的“连接美国基金” (CAF) 覆盖的地址中，只有 55% 的地址实际上由补贴互联网服务提供商提供服务，以确保服务不足地区的宽带接入。在这些地址中，只有 33% 的地址接收到符合 FCC 计划规则的服务。摘自“衡量宽带政策成功”
-《哈佛法律评论》 (07/16/24) Haarika Manda；Varshika Srinivasavaradhan；Laasya Koduru；等人 查看全文]]></description>
-      <guid>https://harvardlawreview.org/blog/2024/07/measuring-broadband-policy-success/</guid>
-      <pubDate>Mon, 22 Jul 2024 15:08:45 GMT</pubDate>
+      <title>谷歌取消取消 Cookie 计划</title>
+      <link>https://www.cnbc.com/2024/07/22/google-cancels-plans-to-kill-off-cookies-for-advertisers.html</link>
+      <description><![CDATA[CNBC谷歌取消了在其 Chrome 浏览器中终止对第三方 cookie 的支持的计划。2020 年，谷歌表示将在 2022 年初终止对这些 cookie 的支持。该公司在周一的一篇博客文章中表示，它已经意识到这样的转变需要“许多参与者的大量工作”并将影响几乎所有参与在线广告的人。摘自“谷歌取消淘汰 Cookie 的计划”
+CNBC (07/22/24) Jennifer Elias 查看全文]]></description>
+      <guid>https://www.cnbc.com/2024/07/22/google-cancels-plans-to-kill-off-cookies-for-advertisers.html</guid>
+      <pubDate>Wed, 24 Jul 2024 15:09:05 GMT</pubDate>
     </item>
     <item>
-      <title>模型帮助法学硕士更好地理解电子表格</title>
-      <link>https://siliconangle.com/2024/07/15/microsofts-experimental-spreadsheetllm-helps-ai-better-understand-spreadsheets/</link>
-      <description><![CDATA[Silicon Angle微软研究人员开发了 SpreadsheetLLM，将电子表格内容编码为大型语言模型 (LLM) 可访问的格式。实验模型使用编码机制将电子表格数据压缩 96%，同时保留数据结构和关系，使 LLM 能够处理大型数据集，同时最大限度地减少令牌使用。Constellation Research Inc. 分析师 Holger Mueller 表示，“如果微软能够正确解决这一问题，它不仅可以确保 Excel 的未来，还可以改变我们所知的工作未来。”摘自“模型帮助 LLM 更好地理解电子表格”
-Silicon Angle (07/15/24) Mike Wheatley 查看全文]]></description>
-      <guid>https://siliconangle.com/2024/07/15/microsofts-experimental-spreadsheetllm-helps-ai-better-understand-spreadsheets/</guid>
-      <pubDate>Mon, 22 Jul 2024 15:08:45 GMT</pubDate>
+      <title>人工智能让 11,000 名大学橄榄球运动员重回数字化生活</title>
+      <link>https://www.wsj.com/tech/ai/how-ai-brought-11-000-college-football-players-to-digital-life-in-three-months-84d7c00f</link>
+      <description><![CDATA[《华尔街日报》美国艺电公司 (EA) 的开发人员首次在其新发布的大学橄榄球视频游戏的制作中使用人工智能。他们花了三个月的时间将大约 11,000 名球员的肖像融入 EA Sports College Football 25。这个过程包括收集运动员的头像，然后使用人工智能技术为每个运动员创建完整的 3D 头像。艺术家们会根据需要改进数字版本，将更改输入到 AI 程序中，帮助它从错误中吸取教训。摘自“AI 将 11,000 名大学橄榄球运动员带入数字生活”
+华尔街日报 (07/21/24) Sarah E. Needleman 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/tech/ai/how-ai-brought-11-000-college-football-players-to-digital-life-in-three-months-84d7c00f</guid>
+      <pubDate>Wed, 24 Jul 2024 15:09:04 GMT</pubDate>
     </item>
     <item>
-      <title>需要铜的人工智能会帮助寻找它</title>
-      <link>https://www.nytimes.com/2024/07/11/climate/kobold-zambia-copper-ai-mining.html</link>
-      <description><![CDATA[《纽约时报》KoBold Metals 于 7 月 18 日宣布，其 AI 技术已在赞比亚地下一英里处发现了一个铜矿脉，据说这是十多年来最大的铜矿发现。KoBold 估计，该矿井全面投入运营后，将在几十年内每年产出不少于 30 万吨铜。考虑到 AI 数据中心所需的大量铜，这一发现意义重大。摘自“需要铜的 AI 帮助找到它”
-《纽约时报》（07/18/24）Max Bearak 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/07/11/climate/kobold-zambia-copper-ai-mining.html</guid>
-      <pubDate>Mon, 22 Jul 2024 15:08:44 GMT</pubDate>
+      <title>国土安全部开发用于对抗 DoS 攻击的机器人</title>
+      <link>https://www.tomshardware.com/tech-industry/big-tech/dog-like-robot-jams-home-networks-and-disables-devices-during-police-raids-dhs-develops-neo-robot-for-walking-denial-of-service-attacks</link>
+      <description><![CDATA[Tom&#39;s Hardware美国国土安全部 (DHS) 开发了一款四足机器人，旨在干扰智能家居设备的无线传输。NEO 机器人配备了天线阵列，旨在使家庭网络超载，从而破坏依赖无线通信协议的设备。该机器人还可用于与目标区域内的人员进行通信，或为地面上的特工提供远程眼睛和耳朵。摘自“国土安全部开发用于行走 DoS 攻击的机器人”
+Tom&#39;s Hardware (07/23/24) Jowi Morales 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.tomshardware.com/tech-industry/big-tech/dog-like-robot-jams-home-networks-and-disables-devices-during-police-raids-dhs-develops-neo-robot-for-walking-denial-of-service-attacks</guid>
+      <pubDate>Wed, 24 Jul 2024 15:09:04 GMT</pubDate>
     </item>
     <item>
-      <title>计算机系统预测异常波浪</title>
-      <link>https://www.npr.org/2024/07/18/nx-s1-5041762/rogue-waves-deadly-computer-program-predicts-advance-warning</link>
-      <description><![CDATA[NPR马里兰大学的研究人员开发了一种计算机系统，用于预测可能损坏船只和海上关键基础设施的流氓波。该系统通过美国和太平洋岛屿海岸 172 个浮标的数十亿次海面高程测量数据进行训练。马里兰大学的 Thomas Breunung 表示，这些浮标提供了总计 880 年的海浪数据。该系统可以提前五分钟预测异常大的海浪，准确率达到 73%。摘自“计算机系统预测流氓波”
-NPR (07/18/24) Nell Greenfieldboyce 查看全文]]></description>
-      <guid>https://www.npr.org/2024/07/18/nx-s1-5041762/rogue-waves-deadly-computer-program-predicts-advance-warning</guid>
-      <pubDate>Mon, 22 Jul 2024 15:08:44 GMT</pubDate>
+      <title>美国联邦贸易委员会正在调查基于个人数据的定向定价</title>
+      <link>https://www.reuters.com/world/us/us-ftc-looking-into-targeted-pricing-based-personal-data-2024-07-23/</link>
+      <description><![CDATA[路透社美国联邦贸易委员会 (FTC) 已启动一项产品研究，研究内容包括公司可以根据位置和历史购买记录等个人数据为消费者设定不同的价格。该机构周二表示，已要求包括 IT 服务和软件提供商在内的多家公司提供有关定向定价产品、它们使用的数据、用户以及对价格的影响的信息。摘自“FTC 正在调查基于个人数据的定向定价”
+路透社 (07/23/24) Jody Godoy 查看全文]]></description>
+      <guid>https://www.reuters.com/world/us/us-ftc-looking-into-targeted-pricing-based-personal-data-2024-07-23/</guid>
+      <pubDate>Wed, 24 Jul 2024 15:09:03 GMT</pubDate>
     </item>
     <item>
-      <title>机器狗用脚踏吸尘器清理海滩</title>
-      <link>https://spectrum.ieee.org/robot-dog-vacuum</link>
-      <description><![CDATA[IEEE Spectrum意大利理工学院的研究人员制造了一个可以吸走海滩上丢弃的烟头的机器人。VERO（配备真空吸尘器的机器人）是一款配备商用吸尘器的 Unitree AlienGo 四足机器人，每条腿上都有软管，脚附近有定制的 3D 打印喷嘴用于吸尘。VERO 在指定清洁区域后可以自主操作，绘制其探索路径，使用机载摄像头和神经网络检测烟头，并计算出安全稳定的姿势以避免在吸尘时摔倒。摘自“机器狗用脚踏式吸尘器清理海滩”
-IEEE Spectrum (07/18/24) Evan Ackerman 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/robot-dog-vacuum</guid>
-      <pubDate>Mon, 22 Jul 2024 15:08:44 GMT</pubDate>
+      <title>恶意软件导致乌克兰城市供暖中断</title>
+      <link>https://techcrunch.com/2024/07/23/hackers-shut-down-heating-in-ukrainian-city-with-malware-researchers-say/</link>
+      <description><![CDATA[TechCrunch网络安全公司 Dragos 周二发布了一份报告，详细介绍了一种针对特定类型的供暖系统控制器的新恶意软件如何导致乌克兰利沃夫 600 多栋公寓楼在冬季停暖近 48 小时。FrostyGoop 恶意软件旨在通过 Modbus 与工业控制设备交互，Modbus 是一种已有数十年历史的协议，在世界各地广泛用于控制工业环境中的设备。摘自“恶意软件关闭乌克兰城市的供暖系统”
+TechCrunch (07/23/24) Lorenzo Franceschi-Bicchierai 查看全文]]></description>
+      <guid>https://techcrunch.com/2024/07/23/hackers-shut-down-heating-in-ukrainian-city-with-malware-researchers-say/</guid>
+      <pubDate>Wed, 24 Jul 2024 15:09:03 GMT</pubDate>
     </item>
     <item>
-      <title>软件开发员职业的兴衰</title>
-      <link>https://www.axios.com/2024/07/18/rise-and-fall-of-software-developer-jobs</link>
-      <description><![CDATA[Axios尽管整体劳动力市场强劲，但科技行业高薪白领岗位数量有所下降。特别是，自 2022 年以来，对软件开发人员的需求有所下降。然而，软件开发人员在美国劳工部未来十年预计就业增长最快的职业名单中排名第二。摘自“软件开发人员工作的兴衰”
-Axios (07/18/24) Emily Peck 查看全文]]></description>
-      <guid>https://www.axios.com/2024/07/18/rise-and-fall-of-software-developer-jobs</guid>
-      <pubDate>Mon, 22 Jul 2024 15:08:43 GMT</pubDate>
+      <title>瑞士要求政府软件开源</title>
+      <link>https://www.zdnet.com/article/switzerland-now-requires-all-government-software-to-be-open-source/</link>
+      <description><![CDATA[ZDNet瑞士的一项新法律要求在公共部门使用开源软件。该法律规定，所有公共机构必须披露由其或为其开发的软件的源代码，除非第三方权利或安全问题阻止这样做。它还要求将非个人和非安全敏感的政府数据作为开放政府数据发布。摘自“瑞士要求政府软件开源”
+ZDNet (07/23/24) Steven Vaughan-Nichols 查看全文]]></description>
+      <guid>https://www.zdnet.com/article/switzerland-now-requires-all-government-software-to-be-open-source/</guid>
+      <pubDate>Wed, 24 Jul 2024 15:09:02 GMT</pubDate>
     </item>
     <item>
-      <title>昆虫大脑帮助无人机导航</title>
-      <link>https://www.popsci.com/technology/drones-ants-memory/</link>
-      <description><![CDATA[大众科学荷兰代尔夫特理工大学的研究人员开发了一种受蚂蚁启发的系统，该系统使一架重量为 56 克的无人机能够仅使用 0.65 千字节的内存自主穿越障碍赛道。代尔夫特的研究人员在 100 米长的障碍赛道上放置了参考快照，间隔尽可能远，以尽量减少无人机成功导航所需存储的图像数量。使用廉价的微控制器来处理视觉计算。摘自“虫子大脑帮助无人机导航”
-大众科学 (07/17/24) Mack DeGeurin 查看全文]]></description>
-      <guid>https://www.popsci.com/technology/drones-ants-memory/</guid>
-      <pubDate>Mon, 22 Jul 2024 15:08:43 GMT</pubDate>
+      <title>中国对超级计算机讳莫如深</title>
+      <link>https://www.wsj.com/tech/china-supercomputers-0200642f</link>
+      <description><![CDATA[《华尔街日报》美国政府的制裁终止了美国和中国科学家在超级计算机方面的合作，中国退出了 Top500 国际超级计算机论坛，因此很难确定哪个国家的超级计算机速度更快。在最新的全球 500 台最快超级计算机 Top500 排名中，橡树岭国家实验室的 Frontier 位居榜首。然而，Top500 联合创始人 Jack Dongarra 指出，2023 年的一篇科学论文表明，中国的神威超级计算机拥有 3900 万个核心，是 Frontier 的四倍。摘自“中国对超级计算机讳莫如深”
+华尔街日报 (07/23/24) Stu Woo 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/tech/china-supercomputers-0200642f</guid>
+      <pubDate>Wed, 24 Jul 2024 15:09:01 GMT</pubDate>
     </item>
     <item>
-      <title>中国如何避免全球科技行业最严重的衰退</title>
-      <link>https://www.bbc.com/news/articles/c3g01y047pdo</link>
-      <description><![CDATA[BBC 新闻中国之所以没有受到周五 CrowdStrike 软件更新故障造成的大部分损失，原因很简单，因为中国很少使用这家计算机安全提供商。此外，中国对微软的依赖程度并不像世界其他国家那么高；国内公司是中国主要的云提供商。摘自“中国如何避免全球科技危机最严重的时期”
-BBC 新闻 (07/20/24) Nick Marsh 查看全文]]></description>
-      <guid>https://www.bbc.com/news/articles/c3g01y047pdo</guid>
-      <pubDate>Mon, 22 Jul 2024 15:08:42 GMT</pubDate>
+      <title>美国要求加强研发机构网络安全</title>
+      <link>https://securityintelligence.com/news/white-house-mandates-stricter-cybersecurity-for-research-and-development/</link>
+      <description><![CDATA[安全情报根据美国科学技术政策办公室的一份备忘录，经联邦研究机构认证的高等教育机构必须实施网络安全计划，以确保研发 (R&amp;D) 安全。每年获得超过 5000 万美元联邦科学和工程支持的机构必须向资助机构证明其研发安全计划涵盖网络安全，并且必须根据《CHIPS 和科学法案》针对以研究为重点的实体的网络安全文件实施网络安全计划。摘自“美国要求对研发机构实施更严格的网络安全”
+安全情报 (07/22/24) Jonathan Reed 查看全文]]></description>
+      <guid>https://securityintelligence.com/news/white-house-mandates-stricter-cybersecurity-for-research-and-development/</guid>
+      <pubDate>Wed, 24 Jul 2024 15:09:01 GMT</pubDate>
     </item>
     <item>
-      <title>算法告诉警方她是安全的。但这是错的</title>
-      <link>https://www.nytimes.com/interactive/2024/07/18/technology/spain-domestic-violence-viogen-algorithm.html</link>
-      <description><![CDATA[《纽约时报》西班牙警方依靠一种算法来打击性别暴力，该算法使用诸如是否使用了武器、是否存在经济问题或攻击者是否表现出控制行为等问题的答案来评估风险。自 2007 年以来，约有 8% 的女性使用过 VioGén 算法，且被发现风险微乎其微，另有 14% 的女性被发现风险较低，但她们报告称再次受到伤害。摘自“一种算法告诉警方她是安全的。它错了”
-纽约时报 (07/18/24) Adam Satariano；Roser Toll Pifarré 查看全文]]></description>
-      <guid>https://www.nytimes.com/interactive/2024/07/18/technology/spain-domestic-violence-viogen-algorithm.html</guid>
-      <pubDate>Mon, 22 Jul 2024 15:08:42 GMT</pubDate>
+      <title>历史性宕机事件后微软全球扩张遭遇打击</title>
+      <link>https://www.washingtonpost.com/technology/2024/07/20/microsoft-outage-crowdstrike-regulatory-scrutiny/</link>
+      <description><![CDATA[《华盛顿邮报》7 月 19 日，由于 CrowdStrike 对 Windows 系统的更新存在缺陷，导致全球计算机中断，这凸显了全球经济对微软的依赖。尽管微软表示，受影响的设备估计只有 850 万台，占运行 Windows 操作系统的计算机的不到 1%，但美国联邦贸易委员会主席 Lina Khan 表示，这凸显了“集中度如何创造脆弱的系统”。摘自“历史性中断后微软全球扩张受到抨击”
+《华盛顿邮报》（07/20/24）Cristiano Lima-Strong；Cat Zakrzewski； Jeff Stein 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.washingtonpost.com/technology/2024/07/20/microsoft-outage-crowdstrike-regulatory-scrutiny/</guid>
+      <pubDate>Wed, 24 Jul 2024 15:09:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
