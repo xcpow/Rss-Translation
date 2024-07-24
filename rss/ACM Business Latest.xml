@@ -4,7 +4,21 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Wed, 24 Jul 2024 09:08:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 12:14:15 GMT</lastBuildDate>
+    <item>
+      <title>美国公民自由联盟 (ACLU) 为你争取制作 Deepfakes 的宪法权利</title>
+      <link>https://www.wired.com/story/aclu-artificial-intelligence-deepfakes-free-speech/</link>
+      <description><![CDATA[美国各州正在寻求将某些使用人工智能生成内容的行为定为犯罪。民权组织对此表示反对，他们认为这些新法律中的一些与《第一修正案》相抵触。]]></description>
+      <guid>https://www.wired.com/story/aclu-artificial-intelligence-deepfakes-free-speech/</guid>
+      <pubDate>Wed, 24 Jul 2024 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>IT 部门如何应对 CrowdStrike 混乱局面</title>
+      <link>https://www.wired.com/story/it-departments-crowdstrike-microsoft-outage-response/</link>
+      <description><![CDATA[在有史以来最严重的数字停电事件之一中，系统管理员及其团队于上周五立即采取行动并不懈努力以使公司恢复在线。]]></description>
+      <guid>https://www.wired.com/story/it-departments-crowdstrike-microsoft-outage-response/</guid>
+      <pubDate>Wed, 24 Jul 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Meta 的新 Llama 3.1 AI 模型免费、功能强大且有风险</title>
       <link>https://www.wired.com/story/meta-ai-llama-3/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[该软件公司强烈反驳有关其算法导致美国租金过高的说法。业主和管理人员并不完全相信。]]></description>
       <guid>https://www.wired.com/story/realpage-says-rental-pricing-tech-is-misunderstood-but-landlords-arent-so-sure/</guid>
       <pubDate>Wed, 17 Jul 2024 11:01:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>伊隆·马斯克称将把 X 和 SpaceX 总部迁至德克萨斯州</title>
-      <link>https://www.wired.com/story/elon-musk-x-spacex-texas-move/</link>
-      <description><![CDATA[这位科技大亨称加州新出台的跨性别者权益法是压死他搬离该州的“最后一根稻草”。]]></description>
-      <guid>https://www.wired.com/story/elon-musk-x-spacex-texas-move/</guid>
-      <pubDate>Tue, 16 Jul 2024 22:24:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>克雷格·赖特因声称自己创造了比特币而面临伪证调查</title>
-      <link>https://www.wired.com/story/craig-wright-perjury-bitcoin-trial/</link>
-      <description><![CDATA[根据英国法官的命令，克雷格赖特不能再声称自己是比特币的创造者，现在面临刑事指控。]]></description>
-      <guid>https://www.wired.com/story/craig-wright-perjury-bitcoin-trial/</guid>
-      <pubDate>Tue, 16 Jul 2024 12:58:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
