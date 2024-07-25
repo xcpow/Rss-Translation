@@ -4,9 +4,16 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 25 Jul 2024 09:09:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 12:14:01 GMT</lastBuildDate>
     <item>
-      <title>美国公民自由联盟 (ACLU) 为你争取制作 Deepfakes 的宪法权利</title>
+      <title>在 2024 年夏季奥运会上，人工智能正在关注你</title>
+      <link>https://www.wired.com/story/at-the-olympics-ai-algorithms-are-watching-you/</link>
+      <description><![CDATA[巴黎备受争议的新型监控系统预示着未来闭路电视摄像机数量将过多，超出人类实际可监控的范围。]]></description>
+      <guid>https://www.wired.com/story/at-the-olympics-ai-algorithms-are-watching-you/</guid>
+      <pubDate>Thu, 25 Jul 2024 11:25:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国公民自由联盟 (ACLU) 为宪法赋予的制作 Deepfakes 的权利而战</title>
       <link>https://www.wired.com/story/aclu-artificial-intelligence-deepfakes-free-speech/</link>
       <description><![CDATA[美国各州正在寻求将某些使用人工智能生成内容的行为定为犯罪。民权组织对此表示反对，他们认为这些新法律中的一些与《第一修正案》相抵触。]]></description>
       <guid>https://www.wired.com/story/aclu-artificial-intelligence-deepfakes-free-speech/</guid>
@@ -29,7 +36,7 @@
     <item>
       <title>丰田利用双漂移人工智能赛车进行“速度与激情”演示</title>
       <link>https://www.wired.com/story/toyota-stanford-ai-tandem-drifting-cars/</link>
-      <description><![CDATA[为在汽车失去牵引力后进行处理而设计的算法可能会代替人类驾驶员进行干预。]]></description>
+      <description><![CDATA[为汽车失去牵引力后进行处理而设计的算法可能会代替人类驾驶员进行干预。]]></description>
       <guid>https://www.wired.com/story/toyota-stanford-ai-tandem-drifting-cars/</guid>
       <pubDate>Tue, 23 Jul 2024 11:45:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[该公司宣布了一项新技术，使其系统运行更加透明，但熟悉 OpenAI 的人士表示，需要更多的监督。]]></description>
       <guid>https://www.wired.com/story/openai-safety-transparency-research/</guid>
       <pubDate>Wed, 17 Jul 2024 17:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>RealPage 被指控操纵租金。现在它开始反击</title>
-      <link>https://www.wired.com/story/realpage-says-rental-pricing-tech-is-misunderstood-but-landlords-arent-so-sure/</link>
-      <description><![CDATA[该软件公司强烈反驳有关其算法导致美国租金过高的说法。业主和管理人员并不完全相信。]]></description>
-      <guid>https://www.wired.com/story/realpage-says-rental-pricing-tech-is-misunderstood-but-landlords-arent-so-sure/</guid>
-      <pubDate>Wed, 17 Jul 2024 11:01:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
