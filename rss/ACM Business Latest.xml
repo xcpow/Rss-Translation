@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 25 Jul 2024 15:08:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 18:10:15 GMT</lastBuildDate>
+    <item>
+      <title>Google DeepMind 的游戏 AI 解决了聊天机器人的盲点</title>
+      <link>https://www.wired.com/story/google-deepmind-alphaproof-ai-math/</link>
+      <description><![CDATA[谷歌的最新进展将大型语言模型与自学人工智能相结合。该技术可以解决人工智能的一些缺陷——尽管也存在一些问题。]]></description>
+      <guid>https://www.wired.com/story/google-deepmind-alphaproof-ai-math/</guid>
+      <pubDate>Thu, 25 Jul 2024 15:30:26 GMT</pubDate>
+    </item>
     <item>
       <title>汽车现在就像是流动的电脑，那么它们需要多长时间才能更新？汽车制造商无法保证</title>
       <link>https://www.wired.com/story/cars-are-now-rolling-computers-so-how-long-will-they-get-updates-automakers-cant-say/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[随着竞争模型（包括许多免费模型）涌入市场，OpenAI 宣布了一种更便宜的 AI 使用方式。]]></description>
       <guid>https://www.wired.com/story/openai-gpt-4o-mini/</guid>
       <pubDate>Thu, 18 Jul 2024 14:55:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spotify，别再试图成为社交媒体应用了</title>
-      <link>https://www.wired.com/story/spotify-podcast-comments-social-media/</link>
-      <description><![CDATA[音乐流媒体服务在播客下添加了评论功能。它到底是为谁准备的？]]></description>
-      <guid>https://www.wired.com/story/spotify-podcast-comments-social-media/</guid>
-      <pubDate>Thu, 18 Jul 2024 10:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
