@@ -4,9 +4,16 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 25 Jul 2024 12:14:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 15:08:05 GMT</lastBuildDate>
     <item>
-      <title>在 2024 年夏季奥运会上，人工智能正在关注你</title>
+      <title>汽车现在就像是流动的电脑，那么它们需要多长时间才能更新？汽车制造商无法保证</title>
+      <link>https://www.wired.com/story/cars-are-now-rolling-computers-so-how-long-will-they-get-updates-automakers-cant-say/</link>
+      <description><![CDATA[手机的支持远远超出了其平均拥有寿命。与此形成鲜明对比的是，汽车制造商正在努力确定他们的“车轮上的智能手机”可以在路上行驶多长时间。]]></description>
+      <guid>https://www.wired.com/story/cars-are-now-rolling-computers-so-how-long-will-they-get-updates-automakers-cant-say/</guid>
+      <pubDate>Thu, 25 Jul 2024 13:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>在奥运会上，人工智能正在观察你</title>
       <link>https://www.wired.com/story/at-the-olympics-ai-algorithms-are-watching-you/</link>
       <description><![CDATA[巴黎备受争议的新型监控系统预示着未来闭路电视摄像机数量将过多，超出人类实际可监控的范围。]]></description>
       <guid>https://www.wired.com/story/at-the-olympics-ai-algorithms-are-watching-you/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[音乐流媒体服务在播客下添加了评论功能。它到底是为谁准备的？]]></description>
       <guid>https://www.wired.com/story/spotify-podcast-comments-social-media/</guid>
       <pubDate>Thu, 18 Jul 2024 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 大力宣传新的 AI 安全研究。批评者称这是很好的一步，但还不够</title>
-      <link>https://www.wired.com/story/openai-safety-transparency-research/</link>
-      <description><![CDATA[该公司宣布了一项新技术，使其系统运行更加透明，但熟悉 OpenAI 的人士表示，需要更多的监督。]]></description>
-      <guid>https://www.wired.com/story/openai-safety-transparency-research/</guid>
-      <pubDate>Wed, 17 Jul 2024 17:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
