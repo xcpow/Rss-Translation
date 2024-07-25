@@ -4,7 +4,28 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 25 Jul 2024 18:10:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 21:08:14 GMT</lastBuildDate>
+    <item>
+      <title>加州最高法院裁定 Uber 和 Lyft 司机将继续作为独立承包商</title>
+      <link>https://www.wired.com/story/california-supreme-court-uber-lyft-drivers-independent-contractors/</link>
+      <description><![CDATA[对于基于应用程序的公司来说，这是一个重大胜利，他们的司机将不再被视为员工。]]></description>
+      <guid>https://www.wired.com/story/california-supreme-court-uber-lyft-drivers-independent-contractors/</guid>
+      <pubDate>Thu, 25 Jul 2024 20:03:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>SearchGPT 是 OpenAI 对谷歌的直接攻击</title>
+      <link>https://www.wired.com/story/searchgpt-openai-search-engine-generative-ai/</link>
+      <description><![CDATA[ChatGPT 背后的公司正在向搜索领域扩张，并且严重依赖与出版商的关系。]]></description>
+      <guid>https://www.wired.com/story/searchgpt-openai-search-engine-generative-ai/</guid>
+      <pubDate>Thu, 25 Jul 2024 20:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>新泽西州斥资 5 亿美元竞标成为人工智能中心</title>
+      <link>https://www.wired.com/story/new-jerseys-500-million-dollar-bid-to-become-an-ai-epicenter/</link>
+      <description><![CDATA[花园之州专门为人工智能企业制定了巨额新税收抵免政策。但税收激励措施（尤其是针对数据中心的税收激励措施）并不总是能创造大量就业机会。]]></description>
+      <guid>https://www.wired.com/story/new-jerseys-500-million-dollar-bid-to-become-an-ai-epicenter/</guid>
+      <pubDate>Thu, 25 Jul 2024 18:29:25 GMT</pubDate>
+    </item>
     <item>
       <title>Google DeepMind 的游戏 AI 解决了聊天机器人的盲点</title>
       <link>https://www.wired.com/story/google-deepmind-alphaproof-ai-math/</link>
@@ -27,9 +48,9 @@
       <pubDate>Thu, 25 Jul 2024 11:25:54 GMT</pubDate>
     </item>
     <item>
-      <title>美国公民自由联盟 (ACLU) 为宪法赋予的制作 Deepfakes 的权利而战</title>
+      <title>美国公民自由联盟 (ACLU) 为你争取制作 Deepfakes 的宪法权利</title>
       <link>https://www.wired.com/story/aclu-artificial-intelligence-deepfakes-free-speech/</link>
-      <description><![CDATA[美国各州正在寻求将某些使用人工智能生成内容的行为定为犯罪。民权组织对此表示反对，他们认为这些新法律中的一些与《第一修正案》相抵触。]]></description>
+      <description><![CDATA[美国各州正在寻求将某些使用人工智能生成内容的行为定为犯罪。民权组织对此表示反对，称其中一些新法律与《第一修正案》相抵触。]]></description>
       <guid>https://www.wired.com/story/aclu-artificial-intelligence-deepfakes-free-speech/</guid>
       <pubDate>Wed, 24 Jul 2024 11:30:00 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[我们有一个专门的聊天机器人，可以帮我们策划在伦敦和纽约的完美一日游，费用不到 100 美元。我们仍在从旅途中恢复过来。]]></description>
       <guid>https://www.wired.com/story/littlefoot-ai-chatbot-travel-planner/</guid>
       <pubDate>Fri, 19 Jul 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>与 CrowdStrike 相关的大规模 Microsoft 中断导致全球各地的计算机瘫痪</title>
-      <link>https://www.wired.com/story/microsoft-windows-outage-crowdstrike-global-it-probems/</link>
-      <description><![CDATA[网络安全公司 CrowdStrike 的软件更新似乎无意中破坏了全球 IT 系统。]]></description>
-      <guid>https://www.wired.com/story/microsoft-windows-outage-crowdstrike-global-it-probems/</guid>
-      <pubDate>Fri, 19 Jul 2024 08:40:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能驱动的编码未来即将到来</title>
-      <link>https://www.wired.com/ai-powered-coding/</link>
-      <description><![CDATA[包括 OpenAI 在内的科技公司正在开发新一代人工智能助手，它不仅可以编写代码，还可以调试、组织和批评代码。]]></description>
-      <guid>https://www.wired.com/ai-powered-coding/</guid>
-      <pubDate>Thu, 18 Jul 2024 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 通过“迷你”模型大幅降低使用 AI 的成本</title>
-      <link>https://www.wired.com/story/openai-gpt-4o-mini/</link>
-      <description><![CDATA[随着竞争模型（包括许多免费模型）涌入市场，OpenAI 宣布了一种更便宜的 AI 使用方式。]]></description>
-      <guid>https://www.wired.com/story/openai-gpt-4o-mini/</guid>
-      <pubDate>Thu, 18 Jul 2024 14:55:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
