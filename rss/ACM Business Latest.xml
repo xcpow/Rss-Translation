@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 25 Jul 2024 21:08:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 00:35:52 GMT</lastBuildDate>
+    <item>
+      <title>集体诉讼指控 T-Mobile 违反了其终身价格保证</title>
+      <link>https://www.wired.com/story/t-mobile-class-action-lawsuit-lifetime-price-guarantee/</link>
+      <description><![CDATA[该非运营商的客户希望 T-Mobile 在将他们的旧手机套餐更换为更昂贵的套餐后支付费用。]]></description>
+      <guid>https://www.wired.com/story/t-mobile-class-action-lawsuit-lifetime-price-guarantee/</guid>
+      <pubDate>Thu, 25 Jul 2024 21:13:28 GMT</pubDate>
+    </item>
     <item>
       <title>加州最高法院裁定 Uber 和 Lyft 司机将继续作为独立承包商</title>
       <link>https://www.wired.com/story/california-supreme-court-uber-lyft-drivers-independent-contractors/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>新泽西州斥资 5 亿美元竞标成为人工智能中心</title>
       <link>https://www.wired.com/story/new-jerseys-500-million-dollar-bid-to-become-an-ai-epicenter/</link>
-      <description><![CDATA[花园之州专门为人工智能企业制定了巨额新税收抵免政策。但税收激励措施（尤其是针对数据中心的税收激励措施）并不总是能创造大量就业机会。]]></description>
+      <description><![CDATA[花园州专门为人工智能企业制定了巨额新税收抵免政策。但税收优惠政策（尤其是针对数据中心的政策）并不总能创造大量就业机会。]]></description>
       <guid>https://www.wired.com/story/new-jerseys-500-million-dollar-bid-to-become-an-ai-epicenter/</guid>
       <pubDate>Thu, 25 Jul 2024 18:29:25 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[风险投资家本·霍洛维茨 (Ben Horowitz) 和马克·安德森 (Marc Andreessen) 声称，如果我们不拥抱这位前总统，科技行业、加利福尼亚州和整个国家都将注定失败。]]></description>
       <guid>https://www.wired.com/story/donald-trump-and-silicon-valleys-billionaire-elegy/</guid>
       <pubDate>Fri, 19 Jul 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们让人工智能带我们参观我们的城市。结果一片混乱</title>
-      <link>https://www.wired.com/story/littlefoot-ai-chatbot-travel-planner/</link>
-      <description><![CDATA[我们有一个专门的聊天机器人，可以帮我们策划在伦敦和纽约的完美一日游，费用不到 100 美元。我们仍在从旅途中恢复过来。]]></description>
-      <guid>https://www.wired.com/story/littlefoot-ai-chatbot-travel-planner/</guid>
-      <pubDate>Fri, 19 Jul 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
