@@ -4,94 +4,102 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Wed, 24 Jul 2024 15:09:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 15:08:30 GMT</lastBuildDate>
     <item>
-      <title>艺术家保护自己的作品免受人工智能的侵害</title>
-      <link>https://apnews.com/article/artificial-intelligence-ai-glaze-nightshade-9853b48019171368fbb8da20df98a13b</link>
-      <description><![CDATA[美联社芝加哥大学的研究人员正在帮助艺术家保护他们的作品不被纳入生成式人工智能训练模型。他们开发的 Glaze 工具实现了微妙的变化，诱使人工智能检测出不同的艺术风格，而他们的 Nightshade 工具则使人工智能训练模型对图像中的内容感到困惑。然而，宾夕法尼亚州立大学的陈景辉警告说：“当人工智能变得越来越强大时，这些反人工智能工具就会变得越来越弱。”摘自“艺术家保护他们的作品免受人工智能的影响”
-美联社 (07/18/24) Sarah Parvini 查看全文]]></description>
-      <guid>https://apnews.com/article/artificial-intelligence-ai-glaze-nightshade-9853b48019171368fbb8da20df98a13b</guid>
-      <pubDate>Wed, 24 Jul 2024 15:09:06 GMT</pubDate>
+      <title>法国监管机构称欧盟云计算计划需要更多隐私保障</title>
+      <link>https://www.euronews.com/next/2024/07/22/eu-cloud-scheme-needs-more-privacy-safeguards-french-watchdog-says</link>
+      <description><![CDATA[Euronews法国隐私监管机构 CNIL 表示，必须对拟议的欧盟云服务认证计划 (EUCS) 中的数据保护保障措施进行改进。EUCS 旨在保护在欧盟销售的 ICT 软件包免受网络攻击。然而，CNIL 表示，“在目前的状态下，EUCS 不再允许提供商证明他们保护存储的数据不被外国势力访问。”摘自“法国监管机构称欧盟云计划需要更多隐私保障措施”
+Euronews (07/22/24) Cynthia Kroet 查看全文]]></description>
+      <guid>https://www.euronews.com/next/2024/07/22/eu-cloud-scheme-needs-more-privacy-safeguards-french-watchdog-says</guid>
+      <pubDate>Fri, 26 Jul 2024 15:08:29 GMT</pubDate>
     </item>
     <item>
-      <title>房东使用软件设定租金。随后诉讼接踵而至</title>
-      <link>https://www.nytimes.com/2024/07/19/business/economy/rent-prices-realpage-lawsuit.html</link>
-      <description><![CDATA[《纽约时报》美国各地提起的诉讼声称，房东正在使用 RealPage 的房地产软件来抬高租金。RealPage 的 YieldStar 允许房东共享租金定价数据和入住率，并通过算法计算建议租金，诉讼称这些租金高于竞争市场的租金。有人担心这可能违反联邦反垄断法，该法禁止竞争对手之间达成固定价格的协议。摘自“房东使用软件来设定租金。然后是诉讼”
-《纽约时报》（2024 年 7 月 23 日）Danielle Kaye 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/07/19/business/economy/rent-prices-realpage-lawsuit.html</guid>
-      <pubDate>Wed, 24 Jul 2024 15:09:05 GMT</pubDate>
+      <title>推动生成式人工智能的发展，避免诉讼</title>
+      <link>https://www.nytimes.com/2024/07/19/technology/generative-ai-getty-shutterstock.html</link>
+      <description><![CDATA[《纽约时报》Getty Images 和 Shutterstock 等图片库公司使用自己的数据开发 AI 图像生成器，以避免谷歌、OpenAI 和其他公司在构建图像生成器和 AI 聊天机器人时从网络上抓取内容而遭受的诉讼。Getty 与 Picsart 合作开发 AI 图像模型，与 Nvidia 合作开发图像生成器，并为以色列初创公司 Bria AI 正在开发的 AI 模型提供图像。Shutterstock 正在与 Databricks 和 Nvidia 合作开发 AI 模型。摘自“推动开发生成式 AI，避免所有诉讼”
+《纽约时报》（2024 年 7 月 22 日）Nico Grant； Cade Metz 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/07/19/technology/generative-ai-getty-shutterstock.html</guid>
+      <pubDate>Fri, 26 Jul 2024 15:08:29 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌取消取消 Cookie 计划</title>
-      <link>https://www.cnbc.com/2024/07/22/google-cancels-plans-to-kill-off-cookies-for-advertisers.html</link>
-      <description><![CDATA[CNBC谷歌取消了在其 Chrome 浏览器中终止对第三方 cookie 的支持的计划。2020 年，谷歌表示将在 2022 年初终止对这些 cookie 的支持。该公司在周一的一篇博客文章中表示，它已经意识到这样的转变需要“许多参与者的大量工作”并将影响几乎所有参与在线广告的人。摘自“谷歌取消淘汰 Cookie 的计划”
-CNBC (07/22/24) Jennifer Elias 查看全文]]></description>
-      <guid>https://www.cnbc.com/2024/07/22/google-cancels-plans-to-kill-off-cookies-for-advertisers.html</guid>
-      <pubDate>Wed, 24 Jul 2024 15:09:05 GMT</pubDate>
+      <title>安全公司发现远程工作人员是朝鲜黑客</title>
+      <link>https://www.pcmag.com/news/security-firm-discovers-remote-worker-is-really-a-north-korean-hacker</link>
+      <description><![CDATA[PC Magazine美国安全培训公司 KnowBe4 披露，其在不知情的情况下雇佣了一名远程软件工程师，而该工程师后来被发现是一名朝鲜黑客。该公司在一篇博客文章中透露，该员工收到公司发放的 Mac 后，电脑就开始加载恶意软件。然而，Mac 的内置安全软件检测到了该恶意软件，公司得以阻止黑客使用该设备破坏其内部系统。摘自“安全公司发现远程工作者是朝鲜黑客”
+PC Magazine (07/23/24) Michael Kan 查看全文]]></description>
+      <guid>https://www.pcmag.com/news/security-firm-discovers-remote-worker-is-really-a-north-korean-hacker</guid>
+      <pubDate>Fri, 26 Jul 2024 15:08:28 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能让 11,000 名大学橄榄球运动员重回数字化生活</title>
-      <link>https://www.wsj.com/tech/ai/how-ai-brought-11-000-college-football-players-to-digital-life-in-three-months-84d7c00f</link>
-      <description><![CDATA[《华尔街日报》美国艺电公司 (EA) 的开发人员首次在其新发布的大学橄榄球视频游戏的制作中使用人工智能。他们花了三个月的时间将大约 11,000 名球员的肖像融入 EA Sports College Football 25。这个过程包括收集运动员的头像，然后使用人工智能技术为每个运动员创建完整的 3D 头像。艺术家们会根据需要改进数字版本，将更改输入到 AI 程序中，帮助它从错误中吸取教训。摘自“AI 将 11,000 名大学橄榄球运动员带入数字生活”
-华尔街日报 (07/21/24) Sarah E. Needleman 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/tech/ai/how-ai-brought-11-000-college-football-players-to-digital-life-in-three-months-84d7c00f</guid>
-      <pubDate>Wed, 24 Jul 2024 15:09:04 GMT</pubDate>
+      <title>FCC 应用程序测试宽带覆盖的准确性</title>
+      <link>https://www.upi.com/Top_News/US/2024/07/23/Federal-Communications-Commission-broadband-test-app/1001721768876/</link>
+      <description><![CDATA[UPI美国联邦通信委员会 (FCC) 推出了一款新应用，用户可以通过测试移动宽带速度来评估提供商移动覆盖范围的准确性。重复测试功能使用户能够执行多次测试，而无需每次输入和验证信息，从而方便在驾驶时进行免提移动测试。该应用程序还将提供地图叠加层以显示测试区域，并允许用户登录 FCC 的国家宽带地图以查看速度测试结果。摘自“FCC 应用程序测试宽带覆盖的准确性”
+UPI (07/23/24) Chris Benson 查看全文]]></description>
+      <guid>https://www.upi.com/Top_News/US/2024/07/23/Federal-Communications-Commission-broadband-test-app/1001721768876/</guid>
+      <pubDate>Fri, 26 Jul 2024 15:08:28 GMT</pubDate>
     </item>
     <item>
-      <title>国土安全部开发用于对抗 DoS 攻击的机器人</title>
-      <link>https://www.tomshardware.com/tech-industry/big-tech/dog-like-robot-jams-home-networks-and-disables-devices-during-police-raids-dhs-develops-neo-robot-for-walking-denial-of-service-attacks</link>
-      <description><![CDATA[Tom&#39;s Hardware美国国土安全部 (DHS) 开发了一款四足机器人，旨在干扰智能家居设备的无线传输。NEO 机器人配备了天线阵列，旨在使家庭网络超载，从而破坏依赖无线通信协议的设备。该机器人还可用于与目标区域内的人员进行通信，或为地面上的特工提供远程眼睛和耳朵。摘自“国土安全部开发用于行走 DoS 攻击的机器人”
-Tom&#39;s Hardware (07/23/24) Jowi Morales 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.tomshardware.com/tech-industry/big-tech/dog-like-robot-jams-home-networks-and-disables-devices-during-police-raids-dhs-develops-neo-robot-for-walking-denial-of-service-attacks</guid>
-      <pubDate>Wed, 24 Jul 2024 15:09:04 GMT</pubDate>
+      <title>亚利桑那州警方将使用无人机作为第一反应</title>
+      <link>https://www.engadget.com/police-in-scottsdale-az-will-start-using-drones-as-first-responders-195503311.html</link>
+      <description><![CDATA[Engadget亚利桑那州各地的警察部门计划在紧急情况下使用空中无人机。斯科茨代尔市警察局将成为该州第一个使用特殊无人机机队的警察局，这些无人机机队可部署到潜在的犯罪现场和紧急情况下。无人机将实时响应，在人类急救人员赶赴现场时为急救人员提供紧急情况的视图。摘自“亚利桑那州警方将使用无人机作为急救人员”
+Engadget (07/24/24) Danny Gallagher 查看全文]]></description>
+      <guid>https://www.engadget.com/police-in-scottsdale-az-will-start-using-drones-as-first-responders-195503311.html</guid>
+      <pubDate>Fri, 26 Jul 2024 15:08:27 GMT</pubDate>
     </item>
     <item>
-      <title>美国联邦贸易委员会正在调查基于个人数据的定向定价</title>
-      <link>https://www.reuters.com/world/us/us-ftc-looking-into-targeted-pricing-based-personal-data-2024-07-23/</link>
-      <description><![CDATA[路透社美国联邦贸易委员会 (FTC) 已启动一项产品研究，研究内容包括公司可以根据位置和历史购买记录等个人数据为消费者设定不同的价格。该机构周二表示，已要求包括 IT 服务和软件提供商在内的多家公司提供有关定向定价产品、它们使用的数据、用户以及对价格的影响的信息。摘自“FTC 正在调查基于个人数据的定向定价”
-路透社 (07/23/24) Jody Godoy 查看全文]]></description>
-      <guid>https://www.reuters.com/world/us/us-ftc-looking-into-targeted-pricing-based-personal-data-2024-07-23/</guid>
-      <pubDate>Wed, 24 Jul 2024 15:09:03 GMT</pubDate>
+      <title>试飞演示手机信号导航</title>
+      <link>https://spectrum.ieee.org/gps-alternatives</link>
+      <description><![CDATA[IEEE Spectrum一种新的导航系统可以利用手机信号跟踪距离超过 100 公里、处于不同高度的飞机。该系统由俄亥俄州立大学研究人员领导的团队开发，精度达到个位数米，为用作 GPS 的备份以及防止干扰和欺骗事件铺平了道路。研究人员与美国空军合作创建了无线电同步定位和测绘 (SLAM) 系统。摘自“试飞演示手机信号导航”
+IEEE Spectrum (07/23/24) Michelle Hampson 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/gps-alternatives</guid>
+      <pubDate>Fri, 26 Jul 2024 15:08:27 GMT</pubDate>
     </item>
     <item>
-      <title>恶意软件导致乌克兰城市供暖中断</title>
-      <link>https://techcrunch.com/2024/07/23/hackers-shut-down-heating-in-ukrainian-city-with-malware-researchers-say/</link>
-      <description><![CDATA[TechCrunch网络安全公司 Dragos 周二发布了一份报告，详细介绍了一种针对特定类型的供暖系统控制器的新恶意软件如何导致乌克兰利沃夫 600 多栋公寓楼在冬季停暖近 48 小时。FrostyGoop 恶意软件旨在通过 Modbus 与工业控制设备交互，Modbus 是一种已有数十年历史的协议，在世界各地广泛用于控制工业环境中的设备。摘自“恶意软件关闭乌克兰城市的供暖系统”
-TechCrunch (07/23/24) Lorenzo Franceschi-Bicchierai 查看全文]]></description>
-      <guid>https://techcrunch.com/2024/07/23/hackers-shut-down-heating-in-ukrainian-city-with-malware-researchers-say/</guid>
-      <pubDate>Wed, 24 Jul 2024 15:09:03 GMT</pubDate>
+      <title>瘫痪网球运动员利用机器人外骨骼传递奥运火炬</title>
+      <link>https://futurism.com/the-byte/paralyzed-tennis-olympic-torch-exoskeleton</link>
+      <description><![CDATA[未来主义奥运会残疾运动员凯文·皮埃特 (Kevin Piette) 在机器人外骨骼的帮助下，传递了奥运火炬穿过巴黎。该外骨骼由 Wandercraft 制造，皮埃特在一次事故中失去双腿 11 年后，得以行走。 Wandercraft 的自平衡、电池供电的外骨骼于 2022 年获得美国食品和药物管理局的批准，用于中风康复。摘自“瘫痪网球运动员使用机器人外骨骼传递奥运火炬”
+未来主义 (07/24/24) Noor Al-Sibai 查看全文]]></description>
+      <guid>https://futurism.com/the-byte/paralyzed-tennis-olympic-torch-exoskeleton</guid>
+      <pubDate>Fri, 26 Jul 2024 15:08:26 GMT</pubDate>
     </item>
     <item>
-      <title>瑞士要求政府软件开源</title>
-      <link>https://www.zdnet.com/article/switzerland-now-requires-all-government-software-to-be-open-source/</link>
-      <description><![CDATA[ZDNet瑞士的一项新法律要求在公共部门使用开源软件。该法律规定，所有公共机构必须披露由其或为其开发的软件的源代码，除非第三方权利或安全问题阻止这样做。它还要求将非个人和非安全敏感的政府数据作为开放政府数据发布。摘自“瑞士要求政府软件开源”
-ZDNet (07/23/24) Steven Vaughan-Nichols 查看全文]]></description>
-      <guid>https://www.zdnet.com/article/switzerland-now-requires-all-government-software-to-be-open-source/</guid>
-      <pubDate>Wed, 24 Jul 2024 15:09:02 GMT</pubDate>
+      <title>“数字孪生”使无线网络更快、更可靠</title>
+      <link>https://news.ncsu.edu/2024/07/improved-edge-caching/</link>
+      <description><![CDATA[北卡罗来纳州立大学新闻北卡罗来纳州立大学计算机科学研究人员领导的团队开发了一种边缘缓存优化方法来预测用户的数据需求。该方法被称为 D-REC，它使用定义的无线网络的数字孪生来模拟使用来自网络的实时数据来预测用户最有可能请求的数据。网络利用预测结果做出边缘缓存决策。摘自“‘数字孪生’让无线网络更快、更可靠”
+北卡罗来纳州立大学新闻 (07/24/24) Matt Shipman 查看全文]]></description>
+      <guid>https://news.ncsu.edu/2024/07/improved-edge-caching/</guid>
+      <pubDate>Fri, 26 Jul 2024 15:08:26 GMT</pubDate>
     </item>
     <item>
-      <title>中国对超级计算机讳莫如深</title>
-      <link>https://www.wsj.com/tech/china-supercomputers-0200642f</link>
-      <description><![CDATA[《华尔街日报》美国政府的制裁终止了美国和中国科学家在超级计算机方面的合作，中国退出了 Top500 国际超级计算机论坛，因此很难确定哪个国家的超级计算机速度更快。在最新的全球 500 台最快超级计算机 Top500 排名中，橡树岭国家实验室的 Frontier 位居榜首。然而，Top500 联合创始人 Jack Dongarra 指出，2023 年的一篇科学论文表明，中国的神威超级计算机拥有 3900 万个核心，是 Frontier 的四倍。摘自“中国对超级计算机讳莫如深”
-华尔街日报 (07/23/24) Stu Woo 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/tech/china-supercomputers-0200642f</guid>
-      <pubDate>Wed, 24 Jul 2024 15:09:01 GMT</pubDate>
+      <title>谷歌 DeepMind 距离破解顶级数学又近了一步</title>
+      <link>https://www.theguardian.com/technology/article/2024/jul/25/google-deepmind-takes-step-closer-to-cracking-top-level-maths</link>
+      <description><![CDATA[英国卫报Google DeepMind 的 AlphaProof 和 A​​lphaGeometry 2 系统合作解答了国际数学奥林匹克竞赛（一项针对中学生的全球数学竞赛）的题目，并共同获得了银牌。在他们成功回答的每一个问题中，系统都获得了满分，但对于六个问题中的两个，他们甚至无法开始寻找答案。摘自“Google DeepMind 向破解顶级数学迈进了一步”
+英国卫报（2024 年 7 月 25 日）Alex Hern 查看全文]]></description>
+      <guid>https://www.theguardian.com/technology/article/2024/jul/25/google-deepmind-takes-step-closer-to-cracking-top-level-maths</guid>
+      <pubDate>Fri, 26 Jul 2024 15:08:25 GMT</pubDate>
     </item>
     <item>
-      <title>美国要求加强研发机构网络安全</title>
-      <link>https://securityintelligence.com/news/white-house-mandates-stricter-cybersecurity-for-research-and-development/</link>
-      <description><![CDATA[安全情报根据美国科学技术政策办公室的一份备忘录，经联邦研究机构认证的高等教育机构必须实施网络安全计划，以确保研发 (R&amp;D) 安全。每年获得超过 5000 万美元联邦科学和工程支持的机构必须向资助机构证明其研发安全计划涵盖网络安全，并且必须根据《CHIPS 和科学法案》针对以研究为重点的实体的网络安全文件实施网络安全计划。摘自“美国要求对研发机构实施更严格的网络安全”
-安全情报 (07/22/24) Jonathan Reed 查看全文]]></description>
-      <guid>https://securityintelligence.com/news/white-house-mandates-stricter-cybersecurity-for-research-and-development/</guid>
-      <pubDate>Wed, 24 Jul 2024 15:09:01 GMT</pubDate>
+      <title>技术政策专家称是时候重新考虑数据隐私保护了</title>
+      <link>https://www.acm.org/media-center/2024/july/techbrief-data-privacy-protection</link>
+      <description><![CDATA[ACM 媒体中心ACM 全球技术政策委员会发布的最新 TechBrief 重点关注数据隐私保护。麻省理工学院的共同作者 Micah Altman 表示：“很少有人意识到，仅在过去十年中，生成式 AI 等新技术就已让确保数据隐私的旧方法变得过时。” “我们呼吁在我们的领域采取一套新的最佳实践来管理隐私风险。我们还强调，隐私监管必须与隐私保护技术保持同步。”摘自“技术政策专家称是时候重新考虑数据隐私保护了”
+ACM 媒体中心 (07/25/24) 查看全文]]></description>
+      <guid>https://www.acm.org/media-center/2024/july/techbrief-data-privacy-protection</guid>
+      <pubDate>Fri, 26 Jul 2024 15:08:25 GMT</pubDate>
     </item>
     <item>
-      <title>历史性宕机事件后微软全球扩张遭遇打击</title>
-      <link>https://www.washingtonpost.com/technology/2024/07/20/microsoft-outage-crowdstrike-regulatory-scrutiny/</link>
-      <description><![CDATA[《华盛顿邮报》7 月 19 日，由于 CrowdStrike 对 Windows 系统的更新存在缺陷，导致全球计算机中断，这凸显了全球经济对微软的依赖。尽管微软表示，受影响的设备估计只有 850 万台，占运行 Windows 操作系统的计算机的不到 1%，但美国联邦贸易委员会主席 Lina Khan 表示，这凸显了“集中度如何创造脆弱的系统”。摘自“历史性中断后微软全球扩张受到抨击”
-《华盛顿邮报》（07/20/24）Cristiano Lima-Strong；Cat Zakrzewski； Jeff Stein 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.washingtonpost.com/technology/2024/07/20/microsoft-outage-crowdstrike-regulatory-scrutiny/</guid>
-      <pubDate>Wed, 24 Jul 2024 15:09:00 GMT</pubDate>
+      <title>人工智能让美国众议员韦克斯顿重拾声音</title>
+      <link>https://apnews.com/article/jennifer-wexton-ai-voice-clone-progressive-suprenuclear-palsy-speech-6569e27b4095db2b58c36b61e833d0e0</link>
+      <description><![CDATA[美联社美国众议员詹妮弗·韦克斯顿 (Jennifer Wexton) (弗吉尼亚州民主党众议员) 在 ElevenLabs 的 AI 语音克隆程序的帮助下恢复了因进行性核上性麻痹而失去的声音。周四，韦克斯顿首次使用 AI 克隆的声音在众议院发表演讲。该程序允许韦克斯顿将她的想法输入 iPad，然后 iPad 会用她自己的声音朗读文本。韦克斯顿表示，人工智能语音克隆技术“正在变得人性化，并且赋予人们力量。”摘自“人工智能让美国众议员韦克斯顿重拾声音”
+美联社 (07/25/24) Dan Merica 查看全文]]></description>
+      <guid>https://apnews.com/article/jennifer-wexton-ai-voice-clone-progressive-suprenuclear-palsy-speech-6569e27b4095db2b58c36b61e833d0e0</guid>
+      <pubDate>Fri, 26 Jul 2024 15:08:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能超级计算机在孟菲斯引发希望与担忧</title>
+      <link>https://www.bloomberg.com/news/features/2024-07-25/in-memphis-elon-musk-s-xai-supercomputer-stirs-hope-and-concern?sref=db2f3qgr</link>
+      <description><![CDATA[彭博社初创公司 xAI 计划在田纳西州孟菲斯市的一个工业基地建造“世界上最大的超级计算机”，当地居民、市议会成员和环保人士担心该项目的潜在影响，并对该项目在缺乏公众意见的情况下快速进展感到沮丧。该项目于 6 月初宣布，施工工作已经开始，并已开始有限的运营。随着孟菲斯和其他城市竞相成为人工智能、超级计算和量子计算等领域的主要参与者，人们越来越担心此类项目对环境的影响。摘自“人工智能超级计算机在孟菲斯引发希望和担忧”
+彭博社 (07/25/24) Patrick Sisson 查看全文]]></description>
+      <guid>https://www.bloomberg.com/news/features/2024-07-25/in-memphis-elon-musk-s-xai-supercomputer-stirs-hope-and-concern?sref=db2f3qgr</guid>
+      <pubDate>Fri, 26 Jul 2024 15:08:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
