@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 26 Jul 2024 21:07:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2024 00:35:58 GMT</lastBuildDate>
+    <item>
+      <title>开源人工智能让创始人和联邦贸易委员会兴奋不已</title>
+      <link>https://www.wired.com/story/open-source-ai-y-combinator/</link>
+      <description><![CDATA[DC 去 YC 谈操作系统。]]></description>
+      <guid>https://www.wired.com/story/open-source-ai-y-combinator/</guid>
+      <pubDate>Fri, 26 Jul 2024 21:56:06 GMT</pubDate>
+    </item>
     <item>
       <title>史蒂夫·乔布斯知道未来已经到来。它再次召唤我们</title>
       <link>https://www.wired.com/story/steve-jobs-speech-personal-computers-ai/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[OpenResearch 发布了一项关于向贫困美国人提供无限制现金补助的最全面研究的首批结果。研究人员表示，这将激起福利争论双方的激烈争论。]]></description>
       <guid>https://www.wired.com/story/sam-altmans-big-basic-income-study-is-finally-out/</guid>
       <pubDate>Mon, 22 Jul 2024 12:00:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike 全球中断引发现金意外回升</title>
-      <link>https://www.wired.com/story/microsoft-crowdstrike-outage-cash/</link>
-      <description><![CDATA[该事件导致机场、杂货店和星巴克门店陷入混乱。]]></description>
-      <guid>https://www.wired.com/story/microsoft-crowdstrike-outage-cash/</guid>
-      <pubDate>Fri, 19 Jul 2024 21:59:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
