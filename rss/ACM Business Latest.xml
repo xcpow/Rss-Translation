@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Sun, 28 Jul 2024 12:13:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2024 15:07:03 GMT</lastBuildDate>
+    <item>
+      <title>比特币兄弟为唐纳德·特朗普疯狂</title>
+      <link>https://www.wired.com/story/bitcoin-bros-go-wild-for-donald-trump/</link>
+      <description><![CDATA[在纳什维尔举行的 2024 年比特币会议上，特朗普终于告诉了加密货币爱好者他们想听到的话。]]></description>
+      <guid>https://www.wired.com/story/bitcoin-bros-go-wild-for-donald-trump/</guid>
+      <pubDate>Sun, 28 Jul 2024 12:43:07 GMT</pubDate>
+    </item>
     <item>
       <title>唐纳德·特朗普在对加密货币忠实粉丝的演讲中支持“战略性比特币储备”</title>
       <link>https://www.wired.com/story/donald-trump-strategic-bitcoin-stockpile-bitcoin-2024/</link>
@@ -78,7 +85,7 @@
     <item>
       <title>美国公民自由联盟 (ACLU) 为你争取制作 Deepfakes 的宪法权利</title>
       <link>https://www.wired.com/story/aclu-artificial-intelligence-deepfakes-free-speech/</link>
-      <description><![CDATA[美国各州正在寻求将某些使用人工智能生成内容的行为定为犯罪。民权组织对此表示反对，他们认为这些新法律中的一些与《第一修正案》相抵触。]]></description>
+      <description><![CDATA[美国各州正在寻求将某些使用人工智能生成内容的行为定为犯罪。民权组织对此表示反对，称其中一些新法律与《第一修正案》相抵触。]]></description>
       <guid>https://www.wired.com/story/aclu-artificial-intelligence-deepfakes-free-speech/</guid>
       <pubDate>Wed, 24 Jul 2024 11:30:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[为汽车失去牵引力后进行处理而设计的算法可能会代替人类驾驶员进行干预。]]></description>
       <guid>https://www.wired.com/story/toyota-stanford-ai-tandem-drifting-cars/</guid>
       <pubDate>Tue, 23 Jul 2024 11:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Waymo 起诉涉嫌砸毁和砍伤其自动驾驶出租车的人</title>
-      <link>https://www.wired.com/story/waymo-sues-alleged-driverless-car-attackers/</link>
-      <description><![CDATA[在旧金山发生一系列暴力事件后，Alphabet 旗下的无人驾驶汽车服务公司开始严厉打击涉嫌破坏行为。]]></description>
-      <guid>https://www.wired.com/story/waymo-sues-alleged-driverless-car-attackers/</guid>
-      <pubDate>Mon, 22 Jul 2024 18:14:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
