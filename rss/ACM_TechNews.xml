@@ -4,102 +4,94 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Fri, 26 Jul 2024 15:08:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 18:10:26 GMT</lastBuildDate>
     <item>
-      <title>法国监管机构称欧盟云计算计划需要更多隐私保障</title>
-      <link>https://www.euronews.com/next/2024/07/22/eu-cloud-scheme-needs-more-privacy-safeguards-french-watchdog-says</link>
-      <description><![CDATA[Euronews法国隐私监管机构 CNIL 表示，必须对拟议的欧盟云服务认证计划 (EUCS) 中的数据保护保障措施进行改进。EUCS 旨在保护在欧盟销售的 ICT 软件包免受网络攻击。然而，CNIL 表示，“在目前的状态下，EUCS 不再允许提供商证明他们保护存储的数据不被外国势力访问。”摘自“法国监管机构称欧盟云计划需要更多隐私保障措施”
-Euronews (07/22/24) Cynthia Kroet 查看全文]]></description>
-      <guid>https://www.euronews.com/next/2024/07/22/eu-cloud-scheme-needs-more-privacy-safeguards-french-watchdog-says</guid>
-      <pubDate>Fri, 26 Jul 2024 15:08:29 GMT</pubDate>
+      <title>美国起诉朝鲜黑客</title>
+      <link>https://www.cnn.com/2024/07/25/politics/us-indicts-north-korean-hacker/index.html</link>
+      <description><![CDATA[CNN美国司法部周四宣布，林正赫（见图）因涉嫌参与入侵美国医院计算机系统并勒索赎金的计划而被起诉。林正赫被指控为朝鲜军事情报机构黑客组织的成员。美国、韩国和英国政府安全机构周四公布了有关朝鲜黑客的信息策略并警告黑客的目标是核、航空航天和其他领域的机密和其他敏感信息，以推进其国家的军事和核计划。摘自“美国起诉朝鲜黑客”
+CNN (07/25/24) Sean Lyngaas 查看全文]]></description>
+      <guid>https://www.cnn.com/2024/07/25/politics/us-indicts-north-korean-hacker/index.html</guid>
+      <pubDate>Mon, 29 Jul 2024 18:10:26 GMT</pubDate>
     </item>
     <item>
-      <title>推动生成式人工智能的发展，避免诉讼</title>
-      <link>https://www.nytimes.com/2024/07/19/technology/generative-ai-getty-shutterstock.html</link>
-      <description><![CDATA[《纽约时报》Getty Images 和 Shutterstock 等图片库公司使用自己的数据开发 AI 图像生成器，以避免谷歌、OpenAI 和其他公司在构建图像生成器和 AI 聊天机器人时从网络上抓取内容而遭受的诉讼。Getty 与 Picsart 合作开发 AI 图像模型，与 Nvidia 合作开发图像生成器，并为以色列初创公司 Bria AI 正在开发的 AI 模型提供图像。Shutterstock 正在与 Databricks 和 Nvidia 合作开发 AI 模型。摘自“推动开发生成式 AI，避免所有诉讼”
-《纽约时报》（2024 年 7 月 22 日）Nico Grant； Cade Metz 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/07/19/technology/generative-ai-getty-shutterstock.html</guid>
-      <pubDate>Fri, 26 Jul 2024 15:08:29 GMT</pubDate>
+      <title>俄罗斯军队在乌克兰战争中使用智能手机 遭严惩</title>
+      <link>https://www.reuters.com/world/europe/russian-lawmakers-seek-punishment-troops-using-smartphones-ukraine-war-2024-07-23/</link>
+      <description><![CDATA[路透社俄罗斯国家杜马国防委员会提出的一项法律草案将把在乌克兰战区使用用于“家庭用途”的电子设备归类为严重违纪行为。这些设备配备了摄像头、音频和地理定位功能，就像智能​​手机一样。网络安全软件公司 Enea 最近的一份报告发现，手机可以在战场上以多种方式轻松追踪。摘自“俄罗斯军队在乌克兰战争中使用智能手机应受到惩罚”
+路透社 (07/23/24) Lidia Kelly 查看全文]]></description>
+      <guid>https://www.reuters.com/world/europe/russian-lawmakers-seek-punishment-troops-using-smartphones-ukraine-war-2024-07-23/</guid>
+      <pubDate>Mon, 29 Jul 2024 18:10:26 GMT</pubDate>
     </item>
     <item>
-      <title>安全公司发现远程工作人员是朝鲜黑客</title>
-      <link>https://www.pcmag.com/news/security-firm-discovers-remote-worker-is-really-a-north-korean-hacker</link>
-      <description><![CDATA[PC Magazine美国安全培训公司 KnowBe4 披露，其在不知情的情况下雇佣了一名远程软件工程师，而该工程师后来被发现是一名朝鲜黑客。该公司在一篇博客文章中透露，该员工收到公司发放的 Mac 后，电脑就开始加载恶意软件。然而，Mac 的内置安全软件检测到了该恶意软件，公司得以阻止黑客使用该设备破坏其内部系统。摘自“安全公司发现远程工作者是朝鲜黑客”
-PC Magazine (07/23/24) Michael Kan 查看全文]]></description>
-      <guid>https://www.pcmag.com/news/security-firm-discovers-remote-worker-is-really-a-north-korean-hacker</guid>
-      <pubDate>Fri, 26 Jul 2024 15:08:28 GMT</pubDate>
+      <title>马来西亚寻求社交媒体平台承诺打击网络犯罪</title>
+      <link>https://www.reuters.com/technology/malaysia-seeking-social-media-platforms-commitment-tackle-cybercrimes-2024-07-24/</link>
+      <description><![CDATA[路透社马来西亚监管机构呼吁社交媒体平台加强监控，以打击诈骗、网络欺凌、儿童色情和其他网络犯罪。马来西亚政府在 2024 年第一季度将 51,638 起涉及有害内容的案件提交给社交媒体平台采取进一步行动，高于 2023 年全年的 42,904 起案件。通讯部长 Fahmi Fadzil 表示：“有些平台更愿意与政府合作，而有些平台的合作并不令人满意。”摘自“马来西亚寻求社交媒体平台承诺打击网络犯罪”
+路透社 (07/24/24) Rozanna Latiff； Danial Azhar 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/malaysia-seeking-social-media-platforms-commitment-tackle-cybercrimes-2024-07-24/</guid>
+      <pubDate>Mon, 29 Jul 2024 18:10:25 GMT</pubDate>
     </item>
     <item>
-      <title>FCC 应用程序测试宽带覆盖的准确性</title>
-      <link>https://www.upi.com/Top_News/US/2024/07/23/Federal-Communications-Commission-broadband-test-app/1001721768876/</link>
-      <description><![CDATA[UPI美国联邦通信委员会 (FCC) 推出了一款新应用，用户可以通过测试移动宽带速度来评估提供商移动覆盖范围的准确性。重复测试功能使用户能够执行多次测试，而无需每次输入和验证信息，从而方便在驾驶时进行免提移动测试。该应用程序还将提供地图叠加层以显示测试区域，并允许用户登录 FCC 的国家宽带地图以查看速度测试结果。摘自“FCC 应用程序测试宽带覆盖的准确性”
-UPI (07/23/24) Chris Benson 查看全文]]></description>
-      <guid>https://www.upi.com/Top_News/US/2024/07/23/Federal-Communications-Commission-broadband-test-app/1001721768876/</guid>
-      <pubDate>Fri, 26 Jul 2024 15:08:28 GMT</pubDate>
+      <title>NeuralGCM 大幅削减天气预报所需的计算机能力</title>
+      <link>https://www.newscientist.com/article/2439849-google-ai-slashes-computer-power-needed-for-weather-forecasts/</link>
+      <description><![CDATA[新科学家谷歌研究人员开发的 AI 模型在预测天气和气候模式方面的表现与当前的物理模型一样好，但使用的计算能力却更少。NeuralGCM 模型使用单个张量处理单元 (TPU) 在 24 小时内处理 70,000 天的模拟；竞争对手 X-SHiELD 模型需要配备数千个 TPU 的超级计算机来处理 19 天的模拟。摘自“NeuralGCM 大幅削减天气预报所需的计算机能力”
+新科学家 (07/22/24) Matthew Sparkes 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.newscientist.com/article/2439849-google-ai-slashes-computer-power-needed-for-weather-forecasts/</guid>
+      <pubDate>Mon, 29 Jul 2024 18:10:25 GMT</pubDate>
     </item>
     <item>
-      <title>亚利桑那州警方将使用无人机作为第一反应</title>
-      <link>https://www.engadget.com/police-in-scottsdale-az-will-start-using-drones-as-first-responders-195503311.html</link>
-      <description><![CDATA[Engadget亚利桑那州各地的警察部门计划在紧急情况下使用空中无人机。斯科茨代尔市警察局将成为该州第一个使用特殊无人机机队的警察局，这些无人机机队可部署到潜在的犯罪现场和紧急情况下。无人机将实时响应，在人类急救人员赶赴现场时为急救人员提供紧急情况的视图。摘自“亚利桑那州警方将使用无人机作为急救人员”
-Engadget (07/24/24) Danny Gallagher 查看全文]]></description>
-      <guid>https://www.engadget.com/police-in-scottsdale-az-will-start-using-drones-as-first-responders-195503311.html</guid>
-      <pubDate>Fri, 26 Jul 2024 15:08:27 GMT</pubDate>
+      <title>黑客竞相争夺数百万美元以阻止网络攻击</title>
+      <link>https://www.washingtonpost.com/technology/2024/07/27/pentagon-cybersecurity-ai-hackathon-darpa-challenge/</link>
+      <description><![CDATA[华盛顿邮报在由美国国防高级研究计划局 (DARPA) 赞助的一项比赛中，约有 40 名参赛者争夺 200 万美元的奖金，参赛者必须开发出一种能够扫描开源代码行、识别安全漏洞并修复漏洞的自主程序。AIxCC 挑战赛旨在利用人工智能来弥补缺乏熟练工程师来捕获维护不善的开源软件的不足。摘自“黑客在比赛中争夺数百万美元以阻止网络攻击”
+华盛顿邮报 (07/27/24) Joseph Menn 查看全文]]></description>
+      <guid>https://www.washingtonpost.com/technology/2024/07/27/pentagon-cybersecurity-ai-hackathon-darpa-challenge/</guid>
+      <pubDate>Mon, 29 Jul 2024 18:10:24 GMT</pubDate>
     </item>
     <item>
-      <title>试飞演示手机信号导航</title>
-      <link>https://spectrum.ieee.org/gps-alternatives</link>
-      <description><![CDATA[IEEE Spectrum一种新的导航系统可以利用手机信号跟踪距离超过 100 公里、处于不同高度的飞机。该系统由俄亥俄州立大学研究人员领导的团队开发，精度达到个位数米，为用作 GPS 的备份以及防止干扰和欺骗事件铺平了道路。研究人员与美国空军合作创建了无线电同步定位和测绘 (SLAM) 系统。摘自“试飞演示手机信号导航”
-IEEE Spectrum (07/23/24) Michelle Hampson 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/gps-alternatives</guid>
-      <pubDate>Fri, 26 Jul 2024 15:08:27 GMT</pubDate>
+      <title>搜索引擎曝光侵犯隐私的行为</title>
+      <link>https://www.wired.com/story/webxray-online-privacy-violations/</link>
+      <description><![CDATA[Wired前谷歌工程师 Tim Libert 推出了 webXray，这是一款搜索引擎，可让用户识别哪些网站在跟踪他们以及数据流向何处。用户可以输入一个搜索词来识别与该词相关的所有网站，这些网站正在跟踪与其 IP 地址相关的数据和搜索查询，并将这些信息提供给谷歌、广告商和第三方数据代理商。Libert 表示，他的目标是“让隐私执法者拥有与隐私侵犯者同等的技术。”摘自“搜索引擎揭露隐私侵犯行为”
+Wired (07/24/24) Brian Merchant 查看全文]]></description>
+      <guid>https://www.wired.com/story/webxray-online-privacy-violations/</guid>
+      <pubDate>Mon, 29 Jul 2024 18:10:24 GMT</pubDate>
     </item>
     <item>
-      <title>瘫痪网球运动员利用机器人外骨骼传递奥运火炬</title>
-      <link>https://futurism.com/the-byte/paralyzed-tennis-olympic-torch-exoskeleton</link>
-      <description><![CDATA[未来主义奥运会残疾运动员凯文·皮埃特 (Kevin Piette) 在机器人外骨骼的帮助下，传递了奥运火炬穿过巴黎。该外骨骼由 Wandercraft 制造，皮埃特在一次事故中失去双腿 11 年后，得以行走。 Wandercraft 的自平衡、电池供电的外骨骼于 2022 年获得美国食品和药物管理局的批准，用于中风康复。摘自“瘫痪网球运动员使用机器人外骨骼传递奥运火炬”
-未来主义 (07/24/24) Noor Al-Sibai 查看全文]]></description>
-      <guid>https://futurism.com/the-byte/paralyzed-tennis-olympic-torch-exoskeleton</guid>
-      <pubDate>Fri, 26 Jul 2024 15:08:26 GMT</pubDate>
+      <title>一个问题拯救了法拉利，使其免于 Deepfake 骗局</title>
+      <link>https://www.bloomberg.com/news/articles/2024-07-26/ferrari-narrowly-dodges-deepfake-scam-simulating-deal-hungry-ceo?sref=db2f3qgr</link>
+      <description><![CDATA[彭博社法拉利的一位高管只问了一个问题，就阻止了使用深度伪造技术欺骗公司的企图。首席执行官贝内代托·维尼亚 (Benedetto Vigna)（如图）在一次电话中被深度伪造软件冒充，该软件模仿维尼亚的意大利南部口音，说他需要讨论一些机密事项，需要进行一项未指明的货币对冲交易。这位高管开始产生怀疑，为了辨认身份，他问维尼亚最近推荐给他的书名是什么。通话就这样结束了。摘自“一个问题让法拉利免于 Deepfake 骗局”
+彭博社 (07/26/24) Daniele Lepido 查看全文]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-07-26/ferrari-narrowly-dodges-deepfake-scam-simulating-deal-hungry-ceo?sref=db2f3qgr</guid>
+      <pubDate>Mon, 29 Jul 2024 18:10:23 GMT</pubDate>
     </item>
     <item>
-      <title>“数字孪生”使无线网络更快、更可靠</title>
-      <link>https://news.ncsu.edu/2024/07/improved-edge-caching/</link>
-      <description><![CDATA[北卡罗来纳州立大学新闻北卡罗来纳州立大学计算机科学研究人员领导的团队开发了一种边缘缓存优化方法来预测用户的数据需求。该方法被称为 D-REC，它使用定义的无线网络的数字孪生来模拟使用来自网络的实时数据来预测用户最有可能请求的数据。网络利用预测结果做出边缘缓存决策。摘自“‘数字孪生’让无线网络更快、更可靠”
-北卡罗来纳州立大学新闻 (07/24/24) Matt Shipman 查看全文]]></description>
-      <guid>https://news.ncsu.edu/2024/07/improved-edge-caching/</guid>
-      <pubDate>Fri, 26 Jul 2024 15:08:26 GMT</pubDate>
+      <title>武器扫描仪进驻纽约地铁</title>
+      <link>https://www.nytimes.com/2024/07/26/nyregion/subway-gun-scanner-nyc.html</link>
+      <description><![CDATA[《纽约时报》纽约市长埃里克·亚当斯宣布启动一项新计划，在地铁站安装枪支检测扫描仪，并警告说，拒绝接受扫描的人将不允许乘坐火车。该扫描仪的制造商是马萨诸塞州的初创公司 Evolv Technology，该公司表示，其设备已根据“特征”进行编程某些物品，允许他们检测武器，但该公司已被用户起诉，质疑其产品的合宪性。摘自“武器扫描仪抵达纽约地铁”
+纽约时报 (07/26/24) Emma G. Fitzsimmons 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/07/26/nyregion/subway-gun-scanner-nyc.html</guid>
+      <pubDate>Mon, 29 Jul 2024 18:10:23 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌 DeepMind 距离破解顶级数学又近了一步</title>
-      <link>https://www.theguardian.com/technology/article/2024/jul/25/google-deepmind-takes-step-closer-to-cracking-top-level-maths</link>
-      <description><![CDATA[英国卫报Google DeepMind 的 AlphaProof 和 A​​lphaGeometry 2 系统合作解答了国际数学奥林匹克竞赛（一项针对中学生的全球数学竞赛）的题目，并共同获得了银牌。在他们成功回答的每一个问题中，系统都获得了满分，但对于六个问题中的两个，他们甚至无法开始寻找答案。摘自“Google DeepMind 向破解顶级数学迈进了一步”
-英国卫报（2024 年 7 月 25 日）Alex Hern 查看全文]]></description>
-      <guid>https://www.theguardian.com/technology/article/2024/jul/25/google-deepmind-takes-step-closer-to-cracking-top-level-maths</guid>
-      <pubDate>Fri, 26 Jul 2024 15:08:25 GMT</pubDate>
+      <title>3D打印人造血管可治疗心脏病</title>
+      <link>https://scitechdaily.com/3d-printed-artificial-blood-vessels-could-revolutionize-the-treatment-of-heart-disease/</link>
+      <description><![CDATA[SciTechDaily英国爱丁堡大学的研究人员利用 3D 打印技术制造出坚固、柔韧、凝胶状的管子，有助于治疗心脏病。研究人员称，这种人造血管的厚度可以从 1 毫米到直径 40 毫米不等，而且它们的柔韧性意味着它们可以融入人体。摘自“3D 打印人造血管可以治疗心脏病”
+SciTechDaily (07/27/24) 查看全文]]></description>
+      <guid>https://scitechdaily.com/3d-printed-artificial-blood-vessels-could-revolutionize-the-treatment-of-heart-disease/</guid>
+      <pubDate>Mon, 29 Jul 2024 18:10:22 GMT</pubDate>
     </item>
     <item>
-      <title>技术政策专家称是时候重新考虑数据隐私保护了</title>
-      <link>https://www.acm.org/media-center/2024/july/techbrief-data-privacy-protection</link>
-      <description><![CDATA[ACM 媒体中心ACM 全球技术政策委员会发布的最新 TechBrief 重点关注数据隐私保护。麻省理工学院的共同作者 Micah Altman 表示：“很少有人意识到，仅在过去十年中，生成式 AI 等新技术就已让确保数据隐私的旧方法变得过时。” “我们呼吁在我们的领域采取一套新的最佳实践来管理隐私风险。我们还强调，隐私监管必须与隐私保护技术保持同步。”摘自“技术政策专家称是时候重新考虑数据隐私保护了”
-ACM 媒体中心 (07/25/24) 查看全文]]></description>
-      <guid>https://www.acm.org/media-center/2024/july/techbrief-data-privacy-protection</guid>
-      <pubDate>Fri, 26 Jul 2024 15:08:25 GMT</pubDate>
+      <title>日本连锁超市利用人工智能来标准化员工微笑</title>
+      <link>https://www.scmp.com/news/people-culture/article/3271333/japan-supermarket-chain-uses-ai-gauge-staff-smiles-speech-tones-quality-service-push</link>
+      <description><![CDATA[南华早报日本连锁超市 AEON 部署的 AI 系统根据 450 多个要素（包括面部表情、音量和问候语调）对员工的服务态度进行评分。InstaVR 的 Mr. Smile 系统具有游戏元素，鼓励员工通过改善服务态度来挑战自己的分数。 AEON 表示，该系统旨在“使员工的微笑标准化，最大限度地满足客户的需求”。摘自“日本连锁超市利用人工智能使员工微笑标准化”
+南华早报 (07/22/24) Fran Lu 查看全文]]></description>
+      <guid>https://www.scmp.com/news/people-culture/article/3271333/japan-supermarket-chain-uses-ai-gauge-staff-smiles-speech-tones-quality-service-push</guid>
+      <pubDate>Mon, 29 Jul 2024 18:10:22 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能让美国众议员韦克斯顿重拾声音</title>
-      <link>https://apnews.com/article/jennifer-wexton-ai-voice-clone-progressive-suprenuclear-palsy-speech-6569e27b4095db2b58c36b61e833d0e0</link>
-      <description><![CDATA[美联社美国众议员詹妮弗·韦克斯顿 (Jennifer Wexton) (弗吉尼亚州民主党众议员) 在 ElevenLabs 的 AI 语音克隆程序的帮助下恢复了因进行性核上性麻痹而失去的声音。周四，韦克斯顿首次使用 AI 克隆的声音在众议院发表演讲。该程序允许韦克斯顿将她的想法输入 iPad，然后 iPad 会用她自己的声音朗读文本。韦克斯顿表示，人工智能语音克隆技术“正在变得人性化，并且赋予人们力量。”摘自“人工智能让美国众议员韦克斯顿重拾声音”
-美联社 (07/25/24) Dan Merica 查看全文]]></description>
-      <guid>https://apnews.com/article/jennifer-wexton-ai-voice-clone-progressive-suprenuclear-palsy-speech-6569e27b4095db2b58c36b61e833d0e0</guid>
-      <pubDate>Fri, 26 Jul 2024 15:08:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能超级计算机在孟菲斯引发希望与担忧</title>
-      <link>https://www.bloomberg.com/news/features/2024-07-25/in-memphis-elon-musk-s-xai-supercomputer-stirs-hope-and-concern?sref=db2f3qgr</link>
-      <description><![CDATA[彭博社初创公司 xAI 计划在田纳西州孟菲斯市的一个工业基地建造“世界上最大的超级计算机”，当地居民、市议会成员和环保人士担心该项目的潜在影响，并对该项目在缺乏公众意见的情况下快速进展感到沮丧。该项目于 6 月初宣布，施工工作已经开始，并已开始有限的运营。随着孟菲斯和其他城市竞相成为人工智能、超级计算和量子计算等领域的主要参与者，人们越来越担心此类项目对环境的影响。摘自“人工智能超级计算机在孟菲斯引发希望和担忧”
-彭博社 (07/25/24) Patrick Sisson 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/features/2024-07-25/in-memphis-elon-musk-s-xai-supercomputer-stirs-hope-and-concern?sref=db2f3qgr</guid>
-      <pubDate>Fri, 26 Jul 2024 15:08:24 GMT</pubDate>
+      <title>巴黎奥运会网络团队做好迎接猛烈攻击的准备</title>
+      <link>https://www.bloomberg.com/news/articles/2024-07-25/paris-olympics-cyber-team-braces-for-onslaught-from-hackers</link>
+      <description><![CDATA[彭博社政府、私营部门和奥运会网络安全专家已合作数月，以防止夏季奥运会期间遭受网络攻击。法国政府的网络安全机构 ANSSI 与 500 家被认定为对夏季奥运会至关重要的公司、组织和设施合作，对其系统进行网络安全审计。摘自“巴黎奥运会网络团队做好迎接猛攻的准备”
+彭博社 (07/25/24) Jamie Tarabay； Benoit Berthelot 查看全文]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-07-25/paris-olympics-cyber-team-braces-for-onslaught-from-hackers</guid>
+      <pubDate>Mon, 29 Jul 2024 18:10:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
