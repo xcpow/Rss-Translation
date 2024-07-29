@@ -4,7 +4,21 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Mon, 29 Jul 2024 09:08:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 12:14:36 GMT</lastBuildDate>
+    <item>
+      <title>人们正在使用 Memecoins 押注美国大选</title>
+      <link>https://www.wired.com/story/political-memecoins-betting-trump-biden-harris/</link>
+      <description><![CDATA[当一场关于美国大选押注的争斗在法庭上展开时，科技迷们正在向受政客启发的加密货币投入数亿美元。]]></description>
+      <guid>https://www.wired.com/story/political-memecoins-betting-trump-biden-harris/</guid>
+      <pubDate>Mon, 29 Jul 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>回归 BASIC——计算机史上最重要的编程语言</title>
+      <link>https://www.wired.com/story/back-to-basic-the-most-consequential-programming-language/</link>
+      <description><![CDATA[在 BASIC 普及之前，编码一直是精英阶层的专利。]]></description>
+      <guid>https://www.wired.com/story/back-to-basic-the-most-consequential-programming-language/</guid>
+      <pubDate>Mon, 29 Jul 2024 10:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>比特币兄弟为唐纳德·特朗普疯狂</title>
       <link>https://www.wired.com/story/bitcoin-bros-go-wild-for-donald-trump/</link>
@@ -83,7 +97,7 @@
       <pubDate>Thu, 25 Jul 2024 11:25:54 GMT</pubDate>
     </item>
     <item>
-      <title>美国公民自由联盟 (ACLU) 为宪法赋予的制作 Deepfakes 的权利而战</title>
+      <title>美国公民自由联盟 (ACLU) 为你争取制作 Deepfakes 的宪法权利</title>
       <link>https://www.wired.com/story/aclu-artificial-intelligence-deepfakes-free-speech/</link>
       <description><![CDATA[美国各州正在寻求将某些使用人工智能生成内容的行为定为犯罪。民权组织对此表示反对，称其中一些新法律与《第一修正案》相抵触。]]></description>
       <guid>https://www.wired.com/story/aclu-artificial-intelligence-deepfakes-free-speech/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[在有史以来最严重的数字停电事件之一中，系统管理员及其团队于上周五立即采取行动并不懈努力以使公司恢复在线。]]></description>
       <guid>https://www.wired.com/story/it-departments-crowdstrike-microsoft-outage-response/</guid>
       <pubDate>Wed, 24 Jul 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 的新 Llama 3.1 AI 模型免费、功能强大且有风险</title>
-      <link>https://www.wired.com/story/meta-ai-llama-3/</link>
-      <description><![CDATA[最新版本的Llama将使AI更加易于访问和定制，但它也将引发关于在没有护栏的情况下发布AI的危险性的争论。]]></description>
-      <guid>https://www.wired.com/story/meta-ai-llama-3/</guid>
-      <pubDate>Tue, 23 Jul 2024 15:05:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>丰田利用双漂移人工智能赛车进行“速度与激情”演示</title>
-      <link>https://www.wired.com/story/toyota-stanford-ai-tandem-drifting-cars/</link>
-      <description><![CDATA[为汽车失去牵引力后进行处理而设计的算法可能会代替人类驾驶员进行干预。]]></description>
-      <guid>https://www.wired.com/story/toyota-stanford-ai-tandem-drifting-cars/</guid>
-      <pubDate>Tue, 23 Jul 2024 11:45:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
