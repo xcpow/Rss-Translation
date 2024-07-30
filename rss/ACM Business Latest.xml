@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Mon, 29 Jul 2024 21:08:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 00:36:35 GMT</lastBuildDate>
+    <item>
+      <title>Instagram 将允许你制作自定义 AI 聊天机器人，甚至基于你自己</title>
+      <link>https://www.wired.com/story/meta-ai-studio-instagram-chatbots/</link>
+      <description><![CDATA[Meta 的 AI Studio 将允许用户创建虚拟角色，但有一些限制。]]></description>
+      <guid>https://www.wired.com/story/meta-ai-studio-instagram-chatbots/</guid>
+      <pubDate>Mon, 29 Jul 2024 22:33:50 GMT</pubDate>
+    </item>
     <item>
       <title>人们正在使用 Memecoins 押注美国大选</title>
       <link>https://www.wired.com/story/political-memecoins-betting-trump-biden-harris/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[美国各州正在寻求将某些使用人工智能生成内容的行为定为犯罪。民权组织对此表示反对，他们认为这些新法律中的一些与《第一修正案》相抵触。]]></description>
       <guid>https://www.wired.com/story/aclu-artificial-intelligence-deepfakes-free-speech/</guid>
       <pubDate>Wed, 24 Jul 2024 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>IT 部门如何应对 CrowdStrike 混乱局面</title>
-      <link>https://www.wired.com/story/it-departments-crowdstrike-microsoft-outage-response/</link>
-      <description><![CDATA[在有史以来最严重的数字停电事件之一中，系统管理员及其团队于上周五立即采取行动并不懈努力以使公司恢复在线。]]></description>
-      <guid>https://www.wired.com/story/it-departments-crowdstrike-microsoft-outage-response/</guid>
-      <pubDate>Wed, 24 Jul 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
