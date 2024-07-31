@@ -4,94 +4,110 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Mon, 29 Jul 2024 18:10:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 15:06:47 GMT</lastBuildDate>
     <item>
-      <title>美国起诉朝鲜黑客</title>
-      <link>https://www.cnn.com/2024/07/25/politics/us-indicts-north-korean-hacker/index.html</link>
-      <description><![CDATA[CNN美国司法部周四宣布，林正赫（见图）因涉嫌参与入侵美国医院计算机系统并勒索赎金的计划而被起诉。林正赫被指控为朝鲜军事情报机构黑客组织的成员。美国、韩国和英国政府安全机构周四公布了有关朝鲜黑客的信息策略并警告黑客的目标是核、航空航天和其他领域的机密和其他敏感信息，以推进其国家的军事和核计划。摘自“美国起诉朝鲜黑客”
-CNN (07/25/24) Sean Lyngaas 查看全文]]></description>
-      <guid>https://www.cnn.com/2024/07/25/politics/us-indicts-north-korean-hacker/index.html</guid>
-      <pubDate>Mon, 29 Jul 2024 18:10:26 GMT</pubDate>
+      <title>机器人技术勘测海上风电场</title>
+      <link>https://www.siliconrepublic.com/machines/robots-offshore-wind-farms-university-limerick</link>
+      <description><![CDATA[硅谷共和国爱尔兰利默里克大学的研究人员开发了一种机器人检查海上浮动风电场的方法，这种方法可以帮助提高风电场的可靠性，同时降低运营成本。研究人员建造了一支由现场机器人、海底遥控车辆和无人机组成的车队，对葡萄牙海岸外的半潜式浮动风电场进行干预、维修和维护调查。他们使用自适应控制系统来计算浮动涡轮机的运动，采用定制的机器视觉算法进行图像后处理，并生成水线上方和下方风电场结构的高分辨率 3D 模型。摘自“机器人技术调查海上风电场”
+硅谷共和国 (07/29/24) Leigh McGowran 查看全文]]></description>
+      <guid>https://www.siliconrepublic.com/machines/robots-offshore-wind-farms-university-limerick</guid>
+      <pubDate>Wed, 31 Jul 2024 15:06:47 GMT</pubDate>
     </item>
     <item>
-      <title>俄罗斯军队在乌克兰战争中使用智能手机 遭严惩</title>
-      <link>https://www.reuters.com/world/europe/russian-lawmakers-seek-punishment-troops-using-smartphones-ukraine-war-2024-07-23/</link>
-      <description><![CDATA[路透社俄罗斯国家杜马国防委员会提出的一项法律草案将把在乌克兰战区使用用于“家庭用途”的电子设备归类为严重违纪行为。这些设备配备了摄像头、音频和地理定位功能，就像智能​​手机一样。网络安全软件公司 Enea 最近的一份报告发现，手机可以在战场上以多种方式轻松追踪。摘自“俄罗斯军队在乌克兰战争中使用智能手机应受到惩罚”
-路透社 (07/23/24) Lidia Kelly 查看全文]]></description>
-      <guid>https://www.reuters.com/world/europe/russian-lawmakers-seek-punishment-troops-using-smartphones-ukraine-war-2024-07-23/</guid>
-      <pubDate>Mon, 29 Jul 2024 18:10:26 GMT</pubDate>
+      <title>英国政府投资 1.06 亿英镑建设量子技术中心</title>
+      <link>https://www.computerweekly.com/news/366599252/UK-government-invests-106m-in-five-quantum-tech-hubs</link>
+      <description><![CDATA[《计算机周刊》英国政府宣布投资 1.06 亿英镑（1.36 亿美元）建设五个新的量子中心，重点关注量子传感、网络和定位。该项目将由英国研究与创新工程和物理科学研究委员会 (EPSRC) 领导。 EPSRC 首席执行官 Charlotte Deane 表示，“利用量子特性的技术将提供无与伦比的分子水平分析能力和能力，为医疗保健、基础设施和计算等各个领域带来革命性的可能性。”摘自“英国政府投资 1.06 亿英镑建设量子技术中心”
+Computer Weekly (07/29/24) Cliff Saran 查看全文]]></description>
+      <guid>https://www.computerweekly.com/news/366599252/UK-government-invests-106m-in-five-quantum-tech-hubs</guid>
+      <pubDate>Wed, 31 Jul 2024 15:06:46 GMT</pubDate>
     </item>
     <item>
-      <title>马来西亚寻求社交媒体平台承诺打击网络犯罪</title>
-      <link>https://www.reuters.com/technology/malaysia-seeking-social-media-platforms-commitment-tackle-cybercrimes-2024-07-24/</link>
-      <description><![CDATA[路透社马来西亚监管机构呼吁社交媒体平台加强监控，以打击诈骗、网络欺凌、儿童色情和其他网络犯罪。马来西亚政府在 2024 年第一季度将 51,638 起涉及有害内容的案件提交给社交媒体平台采取进一步行动，高于 2023 年全年的 42,904 起案件。通讯部长 Fahmi Fadzil 表示：“有些平台更愿意与政府合作，而有些平台的合作并不令人满意。”摘自“马来西亚寻求社交媒体平台承诺打击网络犯罪”
-路透社 (07/24/24) Rozanna Latiff； Danial Azhar 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/malaysia-seeking-social-media-platforms-commitment-tackle-cybercrimes-2024-07-24/</guid>
-      <pubDate>Mon, 29 Jul 2024 18:10:25 GMT</pubDate>
+      <title>“清洗”选民名单背后的应用程序</title>
+      <link>https://www.cnn.com/2024/07/29/politics/voter-rolls-ballot-challenges-true-the-vote-elections/index.html</link>
+      <description><![CDATA[CNNCNN 的一项调查发现，美国各地的选举办公室都收到了大量关于选民记录不准确的可疑投诉，这些投诉主要来自总部位于德克萨斯州的非营利组织 True the Vote。该组织表示，近 7,000 名用户使用 IV3 应用程序对超过 500,000 份选民记录提出质疑，该应用程序允许用户研究选民数据并向当地选举办公室提交选民资格质疑。CNN 发现许多质疑充斥着错误，或针对弱势群体。摘自“‘清洁’选民名单背后的应用程序”
+CNN (07/29/24) Curt Devine；Yahya Abou-Ghazala； Kyung Lah 查看全文]]></description>
+      <guid>https://www.cnn.com/2024/07/29/politics/voter-rolls-ballot-challenges-true-the-vote-elections/index.html</guid>
+      <pubDate>Wed, 31 Jul 2024 15:06:46 GMT</pubDate>
     </item>
     <item>
-      <title>NeuralGCM 大幅削减天气预报所需的计算机能力</title>
-      <link>https://www.newscientist.com/article/2439849-google-ai-slashes-computer-power-needed-for-weather-forecasts/</link>
-      <description><![CDATA[新科学家谷歌研究人员开发的 AI 模型在预测天气和气候模式方面的表现与当前的物理模型一样好，但使用的计算能力却更少。NeuralGCM 模型使用单个张量处理单元 (TPU) 在 24 小时内处理 70,000 天的模拟；竞争对手 X-SHiELD 模型需要配备数千个 TPU 的超级计算机来处理 19 天的模拟。摘自“NeuralGCM 大幅削减天气预报所需的计算机能力”
-新科学家 (07/22/24) Matthew Sparkes 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.newscientist.com/article/2439849-google-ai-slashes-computer-power-needed-for-weather-forecasts/</guid>
-      <pubDate>Mon, 29 Jul 2024 18:10:25 GMT</pubDate>
+      <title>企业逐渐放弃 Oracle Java</title>
+      <link>https://www.itpro.com/software/development/organizations-shift-away-from-oracle-java-as-pricing-changes-bite</link>
+      <description><![CDATA[ITProJava 平台 Azul Systems 对 663 名 Java 专业人士进行的一项调查显示，86% 的受访者表示他们正在从 Oracle Java 迁移。超过 50% 的受访者提到了成本问题，47% 的受访者表示他们更喜欢开源发行版，40% 的受访者对 Oracle 定价、许可和支持的持续变化表示担忧。另有 25% 的受访者提到了可能的 Java 使用审计，类似比例的受访者表示对 Oracle 支持不满意。摘自“组织正在从 Oracle Java 迁移”
+ITPro (07/26/24) Emma Woollacott 查看全文]]></description>
+      <guid>https://www.itpro.com/software/development/organizations-shift-away-from-oracle-java-as-pricing-changes-bite</guid>
+      <pubDate>Wed, 31 Jul 2024 15:06:45 GMT</pubDate>
     </item>
     <item>
-      <title>黑客竞相争夺数百万美元以阻止网络攻击</title>
-      <link>https://www.washingtonpost.com/technology/2024/07/27/pentagon-cybersecurity-ai-hackathon-darpa-challenge/</link>
-      <description><![CDATA[华盛顿邮报在由美国国防高级研究计划局 (DARPA) 赞助的一项比赛中，约有 40 名参赛者争夺 200 万美元的奖金，参赛者必须开发出一种能够扫描开源代码行、识别安全漏洞并修复漏洞的自主程序。AIxCC 挑战赛旨在利用人工智能来弥补缺乏熟练工程师来捕获维护不善的开源软件的不足。摘自“黑客在比赛中争夺数百万美元以阻止网络攻击”
-华盛顿邮报 (07/27/24) Joseph Menn 查看全文]]></description>
-      <guid>https://www.washingtonpost.com/technology/2024/07/27/pentagon-cybersecurity-ai-hackathon-darpa-challenge/</guid>
-      <pubDate>Mon, 29 Jul 2024 18:10:24 GMT</pubDate>
+      <title>美国司法部称 TikTok 收集美国用户对敏感问题的看法</title>
+      <link>https://apnews.com/article/tiktok-bytedance-censorship-us-data-240e11d9bb6212b0c9b1adab821e5005</link>
+      <description><![CDATA[美联社在华盛顿联邦上诉法院提交的文件中，美国司法部 (DOJ) 律师表示，TikTok 员工通过内部 Web 套件系统向母公司字节跳动在中国的工程师发送了有关美国用户的敏感数据。Lark 系统用于传输用户对宗教、堕胎和枪支管制等敏感话题的看法数据；这些数据存储在中国服务器上。司法部对中国政府可能进行“秘密内容操纵”表示担忧。摘自“司法部称 TikTok 收集了美国用户对敏感问题的看法”
+美联社 (07/27/24) Haleluya Hadero；埃里克·塔克 查看全文]]></description>
+      <guid>https://apnews.com/article/tiktok-bytedance-censorship-us-data-240e11d9bb6212b0c9b1adab821e5005</guid>
+      <pubDate>Wed, 31 Jul 2024 15:06:45 GMT</pubDate>
     </item>
     <item>
-      <title>搜索引擎曝光侵犯隐私的行为</title>
-      <link>https://www.wired.com/story/webxray-online-privacy-violations/</link>
-      <description><![CDATA[Wired前谷歌工程师 Tim Libert 推出了 webXray，这是一款搜索引擎，可让用户识别哪些网站在跟踪他们以及数据流向何处。用户可以输入一个搜索词来识别与该词相关的所有网站，这些网站正在跟踪与其 IP 地址相关的数据和搜索查询，并将这些信息提供给谷歌、广告商和第三方数据代理商。Libert 表示，他的目标是“让隐私执法者拥有与隐私侵犯者同等的技术。”摘自“搜索引擎揭露隐私侵犯行为”
-Wired (07/24/24) Brian Merchant 查看全文]]></description>
-      <guid>https://www.wired.com/story/webxray-online-privacy-violations/</guid>
-      <pubDate>Mon, 29 Jul 2024 18:10:24 GMT</pubDate>
+      <title>AI 监听 HDMI 线缆以捕获屏幕数据</title>
+      <link>https://www.tomshardware.com/tech-industry/cyber-security/ai-can-snoop-on-your-computer-screen-using-signals-leaking-from-hdmi-cables</link>
+      <description><![CDATA[Tom&#39;s Hardware乌拉圭共和国大学的研究人员开发了一种人工智能模型，它可以通过拦截连接计算机和显示器的 HDMI 电缆泄漏的电磁辐射来重建数字信号。这将允许黑客在用户输入加密消息或个人信息时查看他们的计算机屏幕。该大学的 Federico Larroca 表示，“如果你真的关心你的安全，无论你的理由是什么，这都可能是一个问题。”摘自“AI 窥探 HDMI 电缆以捕获屏幕数据”
+Tom&#39;s Hardware (07/28/24) Jeff Butts 查看全文]]></description>
+      <guid>https://www.tomshardware.com/tech-industry/cyber-security/ai-can-snoop-on-your-computer-screen-using-signals-leaking-from-hdmi-cables</guid>
+      <pubDate>Wed, 31 Jul 2024 15:06:45 GMT</pubDate>
     </item>
     <item>
-      <title>一个问题拯救了法拉利，使其免于 Deepfake 骗局</title>
-      <link>https://www.bloomberg.com/news/articles/2024-07-26/ferrari-narrowly-dodges-deepfake-scam-simulating-deal-hungry-ceo?sref=db2f3qgr</link>
-      <description><![CDATA[彭博社法拉利的一位高管只问了一个问题，就阻止了使用深度伪造技术欺骗公司的企图。首席执行官贝内代托·维尼亚 (Benedetto Vigna)（如图）在一次电话中被深度伪造软件冒充，该软件模仿维尼亚的意大利南部口音，说他需要讨论一些机密事项，需要进行一项未指明的货币对冲交易。这位高管开始产生怀疑，为了辨认身份，他问维尼亚最近推荐给他的书名是什么。通话就这样结束了。摘自“一个问题让法拉利免于 Deepfake 骗局”
-彭博社 (07/26/24) Daniele Lepido 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-07-26/ferrari-narrowly-dodges-deepfake-scam-simulating-deal-hungry-ceo?sref=db2f3qgr</guid>
-      <pubDate>Mon, 29 Jul 2024 18:10:23 GMT</pubDate>
+      <title>美国称目前无需限制“开源”人工智能</title>
+      <link>https://apnews.com/article/ai-open-source-white-house-f62009172c46c5003ddd9481aa49f7c3</link>
+      <description><![CDATA[美联社美国商务部国家电信和信息管理局（NTIA）周二发布的一份报告称，目前没有迫切需要对“开源”人工智能系统进行限制。不过，该报告表示，美国政府应继续监控该技术，并“做好在风险加剧时采取行动的准备”。 NTIA 管理员 Alan Davidson 表示：“我们仍然对 AI 安全感到担忧，但这份报告反映了一种更为平衡的观点，表明这些技术的开放性确实有好处。”摘自“美国称目前无需限制‘开源’AI”
+美联社 (07/30/24) Matt O&#39;Brien 查看全文]]></description>
+      <guid>https://apnews.com/article/ai-open-source-white-house-f62009172c46c5003ddd9481aa49f7c3</guid>
+      <pubDate>Wed, 31 Jul 2024 15:06:44 GMT</pubDate>
     </item>
     <item>
-      <title>武器扫描仪进驻纽约地铁</title>
-      <link>https://www.nytimes.com/2024/07/26/nyregion/subway-gun-scanner-nyc.html</link>
-      <description><![CDATA[《纽约时报》纽约市长埃里克·亚当斯宣布启动一项新计划，在地铁站安装枪支检测扫描仪，并警告说，拒绝接受扫描的人将不允许乘坐火车。该扫描仪的制造商是马萨诸塞州的初创公司 Evolv Technology，该公司表示，其设备已根据“特征”进行编程某些物品，允许他们检测武器，但该公司已被用户起诉，质疑其产品的合宪性。摘自“武器扫描仪抵达纽约地铁”
-纽约时报 (07/26/24) Emma G. Fitzsimmons 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/07/26/nyregion/subway-gun-scanner-nyc.html</guid>
-      <pubDate>Mon, 29 Jul 2024 18:10:23 GMT</pubDate>
+      <title>机器人像人类一样灵巧地剥南瓜皮</title>
+      <link>https://www.newscientist.com/article/2440687-watch-a-robot-peel-a-squash-with-human-like-dexterity/</link>
+      <description><![CDATA[新科学家麻省理工学院的研究人员开发了一种机器人系统，可以模仿人类的动作来剥蔬菜，包括一只手旋转水果和蔬菜，另一只手剥皮。在现实条件下的测试中，机器人利用触摸传感器的反馈旋转南瓜、萝卜和木瓜，而剥皮则由人控制的机械臂完成。摘自“机器人以类似人类的灵巧性剥南瓜”
+新科学家 (07/26/24) Alex Wilkins 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.newscientist.com/article/2440687-watch-a-robot-peel-a-squash-with-human-like-dexterity/</guid>
+      <pubDate>Wed, 31 Jul 2024 15:06:44 GMT</pubDate>
     </item>
     <item>
-      <title>3D打印人造血管可治疗心脏病</title>
-      <link>https://scitechdaily.com/3d-printed-artificial-blood-vessels-could-revolutionize-the-treatment-of-heart-disease/</link>
-      <description><![CDATA[SciTechDaily英国爱丁堡大学的研究人员利用 3D 打印技术制造出坚固、柔韧、凝胶状的管子，有助于治疗心脏病。研究人员称，这种人造血管的厚度可以从 1 毫米到直径 40 毫米不等，而且它们的柔韧性意味着它们可以融入人体。摘自“3D 打印人造血管可以治疗心脏病”
-SciTechDaily (07/27/24) 查看全文]]></description>
-      <guid>https://scitechdaily.com/3d-printed-artificial-blood-vessels-could-revolutionize-the-treatment-of-heart-disease/</guid>
-      <pubDate>Mon, 29 Jul 2024 18:10:22 GMT</pubDate>
+      <title>加州机动车管理局将 4200 万辆汽车所有权信息上链</title>
+      <link>https://www.reuters.com/technology/california-dmv-puts-42-million-car-titles-blockchain-fight-fraud-2024-07-30/</link>
+      <description><![CDATA[路透社为了提高所有权转让过程的效率并防止欺诈，加州机动车管理局 (DMV) 将 4200 万份汽车所有权证数字化，并将其放在 Ava Labs 的 Avalanche 区块链上。这将允许加州居民通过移动应用程序领取他们的汽车所有权证，并减少亲自前往 DMV 的次数。此外，借助区块链技术，将创建透明且不可更改的财产所有权记录，从而更容易发现留置权欺诈。摘自“加州 DMV 将 4200 万份汽车所有权证放在区块链上”
+路透社 (07/30/24) Akash Sriram 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/california-dmv-puts-42-million-car-titles-blockchain-fight-fraud-2024-07-30/</guid>
+      <pubDate>Wed, 31 Jul 2024 15:06:43 GMT</pubDate>
     </item>
     <item>
-      <title>日本连锁超市利用人工智能来标准化员工微笑</title>
-      <link>https://www.scmp.com/news/people-culture/article/3271333/japan-supermarket-chain-uses-ai-gauge-staff-smiles-speech-tones-quality-service-push</link>
-      <description><![CDATA[南华早报日本连锁超市 AEON 部署的 AI 系统根据 450 多个要素（包括面部表情、音量和问候语调）对员工的服务态度进行评分。InstaVR 的 Mr. Smile 系统具有游戏元素，鼓励员工通过改善服务态度来挑战自己的分数。 AEON 表示，该系统旨在“使员工的微笑标准化，最大限度地满足客户的需求”。摘自“日本连锁超市利用人工智能使员工微笑标准化”
-南华早报 (07/22/24) Fran Lu 查看全文]]></description>
-      <guid>https://www.scmp.com/news/people-culture/article/3271333/japan-supermarket-chain-uses-ai-gauge-staff-smiles-speech-tones-quality-service-push</guid>
-      <pubDate>Mon, 29 Jul 2024 18:10:22 GMT</pubDate>
+      <title>ACM 出版物巩固了科睿唯安最新期刊引证报告中的领先地位</title>
+      <link>https://www.acm.org/media-center/2024/july/impact-factors-2024</link>
+      <description><![CDATA[ACM 媒体中心ACM Computing Surveys 在 Clarivate Analytics 最新的期刊引文报告中的影响因子为 23.8，在计算机科学、理论与方法类别的 143 种期刊中排名第一。旗舰期刊 Communications of the ACM 的影响因子为 11.1，连续第二年在计算机科学、硬件与架构类别中排名第一。 ACM 的 Scott Delman 表示：“这些最新数据让我们激动不已，我们认为这是 ACM 走上可持续、负责任的开放获取之路的有力证明。”摘自“ACM 出版物巩固最新 Clarivate 期刊引文报告中的领先地位”
+ACM 媒体中心 (07/30/24) 查看全文]]></description>
+      <guid>https://www.acm.org/media-center/2024/july/impact-factors-2024</guid>
+      <pubDate>Wed, 31 Jul 2024 15:06:43 GMT</pubDate>
     </item>
     <item>
-      <title>巴黎奥运会网络团队做好迎接猛烈攻击的准备</title>
-      <link>https://www.bloomberg.com/news/articles/2024-07-25/paris-olympics-cyber-team-braces-for-onslaught-from-hackers</link>
-      <description><![CDATA[彭博社政府、私营部门和奥运会网络安全专家已合作数月，以防止夏季奥运会期间遭受网络攻击。法国政府的网络安全机构 ANSSI 与 500 家被认定为对夏季奥运会至关重要的公司、组织和设施合作，对其系统进行网络安全审计。摘自“巴黎奥运会网络团队做好迎接猛攻的准备”
-彭博社 (07/25/24) Jamie Tarabay； Benoit Berthelot 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-07-25/paris-olympics-cyber-team-braces-for-onslaught-from-hackers</guid>
-      <pubDate>Mon, 29 Jul 2024 18:10:21 GMT</pubDate>
+      <title>Meta 同意就生物特征数据诉讼达成 14 亿美元和解</title>
+      <link>https://www.cnbc.com/2024/07/30/meta-agrees-to-1point4-billion-settlement-in-texas-biometric-data-lawsuit.html</link>
+      <description><![CDATA[CNBCFacebook 母公司 Meta 同意支付 14 亿美元以和解德克萨斯州的一起诉讼，该诉讼涉及未经授权使用用户的生物特征数据。该诉讼由该州总检察长于 2022 年提起，指控 Meta 未经许可从 Facebook 上传的照片和视频中获取和使用数百万德克萨斯州居民的生物特征数据，违反了州法律。摘自“Meta 同意在生物特征数据诉讼中支付 14 亿美元和解金”
+CNBC (07/30/24) Dan Mangan 查看全文]]></description>
+      <guid>https://www.cnbc.com/2024/07/30/meta-agrees-to-1point4-billion-settlement-in-texas-biometric-data-lawsuit.html</guid>
+      <pubDate>Wed, 31 Jul 2024 15:06:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>马斯克转发修改后的卡玛拉·哈里斯竞选广告</title>
+      <link>https://www.nbcnews.com/news/us-news/elon-musk-retweets-altered-kamala-harris-campaign-ad-rcna163985</link>
+      <description><![CDATA[NBC 新闻埃隆·马斯克在他的 X 社交媒体平台上分享了一段模仿美国副总统卡马拉·哈里斯声音的经过修改的视频，但没有透露该视频最初是作为恶搞发布的。该视频使用了哈里斯发布的真实广告中的视觉效果，以启动她的总统竞选活动，并用人工智能生成的声音听起来像她，但说了哈里斯没有说过的话。截至周日下午，马斯克转发的视频已被观看 1.199 亿次。摘自“马斯克转发修改后的卡马拉·哈里斯竞选广告”
+NBC 新闻 (07/28/24) Mirna Alsharif；Alexandra Marquez；奥斯汀·穆伦 查看全文]]></description>
+      <guid>https://www.nbcnews.com/news/us-news/elon-musk-retweets-altered-kamala-harris-campaign-ad-rcna163985</guid>
+      <pubDate>Wed, 31 Jul 2024 15:06:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>参议院通过旨在保护未成年人上网的立法</title>
+      <link>https://www.cnn.com/2024/07/30/politics/senate-passes-legislation-protecting-minors-online/index.html</link>
+      <description><![CDATA[CNN美国参议院周二通过了一项旨在保护儿童上网的两党立法。《儿童在线安全法案》要求平台为未成年人提供保障，包括限制未成年人访问个人数据，并为父母提供监督未成年人使用平台的工具。《儿童和青少年在线隐私保护法》修订了 1998 年的《儿童在线隐私保护法》，以加强对未成年人个人信息在线收集、使用和披露的保护。摘自“参议院通过旨在保护未成年人上网的立法”
+CNN (07/30/24) Shania Shelton 查看全文]]></description>
+      <guid>https://www.cnn.com/2024/07/30/politics/senate-passes-legislation-protecting-minors-online/index.html</guid>
+      <pubDate>Wed, 31 Jul 2024 15:06:41 GMT</pubDate>
     </item>
     </channel>
 </rss>

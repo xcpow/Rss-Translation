@@ -4,7 +4,28 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Wed, 31 Jul 2024 12:14:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 15:06:52 GMT</lastBuildDate>
+    <item>
+      <title>谷歌严厉打击明显的 Deepfakes</title>
+      <link>https://www.wired.com/story/google-tries-to-crack-down-on-explicit-deepfakes/</link>
+      <description><![CDATA[该搜索巨头最近宣布的措施旨在使人工智能生成或其他方式欺骗的露骨内容更难被发现。]]></description>
+      <guid>https://www.wired.com/story/google-tries-to-crack-down-on-explicit-deepfakes/</guid>
+      <pubDate>Wed, 31 Jul 2024 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>“像妖精一样约会”认为玩游戏可以修复约会应用程序</title>
+      <link>https://www.wired.com/story/dating-apps-suck-date-like-goblins/</link>
+      <description><![CDATA[更多小众约会应用希望打破 Tinder 和 Hinge 等巨头的主导地位。最新应用鼓励人们以“妖精模式”约会。]]></description>
+      <guid>https://www.wired.com/story/dating-apps-suck-date-like-goblins/</guid>
+      <pubDate>Wed, 31 Jul 2024 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>唐纳德·特朗普囤积数十亿美元比特币的计划让经济学家感到困惑</title>
+      <link>https://www.wired.com/story/donald-trumps-plan-to-hoard-billions-in-bitcoin-has-economists-stumped/</link>
+      <description><![CDATA[这位美国前总统承诺，如果他再次当选，将建立“国家比特币储备”，并用它来抵消通货膨胀。但经济学家认为该计划没有什么价值。]]></description>
+      <guid>https://www.wired.com/story/donald-trumps-plan-to-hoard-billions-in-bitcoin-has-economists-stumped/</guid>
+      <pubDate>Wed, 31 Jul 2024 12:13:03 GMT</pubDate>
+    </item>
     <item>
       <title>平价连接计划失败——数千户家庭已失去互联网</title>
       <link>https://www.wired.com/story/affordable-care-act-low-income-households-lose-internet/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[ChatGPT 背后的公司正在向搜索领域扩张，并且严重依赖与出版商的关系。]]></description>
       <guid>https://www.wired.com/story/searchgpt-openai-search-engine-generative-ai/</guid>
       <pubDate>Thu, 25 Jul 2024 20:03:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>新泽西州斥资 5 亿美元竞标成为人工智能中心</title>
-      <link>https://www.wired.com/story/new-jerseys-500-million-dollar-bid-to-become-an-ai-epicenter/</link>
-      <description><![CDATA[花园州专门为人工智能企业制定了巨额新税收抵免政策。但税收优惠政策（尤其是针对数据中心的政策）并不总能创造大量就业机会。]]></description>
-      <guid>https://www.wired.com/story/new-jerseys-500-million-dollar-bid-to-become-an-ai-epicenter/</guid>
-      <pubDate>Thu, 25 Jul 2024 18:29:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google DeepMind 的游戏 AI 解决了聊天机器人的盲点</title>
-      <link>https://www.wired.com/story/google-deepmind-alphaproof-ai-math/</link>
-      <description><![CDATA[谷歌的最新进展将大型语言模型与自学人工智能相结合。该技术可以解决人工智能的一些缺陷——尽管也存在一些问题。]]></description>
-      <guid>https://www.wired.com/story/google-deepmind-alphaproof-ai-math/</guid>
-      <pubDate>Thu, 25 Jul 2024 15:30:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>汽车现在就是移动的电脑。那么当它们停止更新时会发生什么？</title>
-      <link>https://www.wired.com/story/cars-are-now-rolling-computers-so-how-long-will-they-get-updates-automakers-cant-say/</link>
-      <description><![CDATA[手机的支持远远超出了其平均拥有寿命。与此形成鲜明对比的是，汽车制造商正在努力确定他们的“车轮上的智能手机”可以在路上行驶多长时间。]]></description>
-      <guid>https://www.wired.com/story/cars-are-now-rolling-computers-so-how-long-will-they-get-updates-automakers-cant-say/</guid>
-      <pubDate>Thu, 25 Jul 2024 13:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
