@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Wed, 31 Jul 2024 21:07:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 00:39:58 GMT</lastBuildDate>
+    <item>
+      <title>亚马逊必须召回 40 多万种危险产品</title>
+      <link>https://www.wired.com/story/amazon-third-party-defective-recall-legally-responsible/</link>
+      <description><![CDATA[监管机构发现，亚马逊应对其第三方供应商销售的有缺陷的产品负责，其中包括易燃睡衣、有故障的一氧化碳探测器以及可能触电的吹风机。]]></description>
+      <guid>https://www.wired.com/story/amazon-third-party-defective-recall-legally-responsible/</guid>
+      <pubDate>Wed, 31 Jul 2024 21:29:08 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌严厉打击明显的 Deepfakes</title>
       <link>https://www.wired.com/story/google-tries-to-crack-down-on-explicit-deepfakes/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[对于基于应用程序的公司来说，这是一个重大胜利，他们的司机将不再被视为员工。]]></description>
       <guid>https://www.wired.com/story/california-supreme-court-uber-lyft-drivers-independent-contractors/</guid>
       <pubDate>Thu, 25 Jul 2024 20:03:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>SearchGPT 是 OpenAI 对谷歌的直接攻击</title>
-      <link>https://www.wired.com/story/searchgpt-openai-search-engine-generative-ai/</link>
-      <description><![CDATA[ChatGPT 背后的公司正在向搜索领域扩张，并且严重依赖与出版商的关系。]]></description>
-      <guid>https://www.wired.com/story/searchgpt-openai-search-engine-generative-ai/</guid>
-      <pubDate>Thu, 25 Jul 2024 20:03:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
