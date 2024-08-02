@@ -4,9 +4,16 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 02 Aug 2024 09:09:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 12:13:45 GMT</lastBuildDate>
     <item>
-      <title>尽管获得美国政府数十亿美元资助，英特尔仍将裁员 15,000 多人</title>
+      <title>你不会相信汽车前灯能带来什么</title>
+      <link>https://www.wired.com/story/you-wont-believe-what-car-headlights-have-in-store/</link>
+      <description><![CDATA[新技术和对电动动力系统的追求融合在一起，创造了一个耀眼的新汽车照明格局。接下来可能出现一种国际化的灯光语言。]]></description>
+      <guid>https://www.wired.com/story/you-wont-believe-what-car-headlights-have-in-store/</guid>
+      <pubDate>Fri, 02 Aug 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>尽管获得美国政府数十亿美元资金支持，英特尔仍将裁员 15,000 多人</title>
       <link>https://www.wired.com/story/intel-job-cuts/</link>
       <description><![CDATA[该芯片制造商已经落后于竞争对手，正在裁员 15%。]]></description>
       <guid>https://www.wired.com/story/intel-job-cuts/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>平价连接计划失败——数千户家庭已失去互联网</title>
       <link>https://www.wired.com/story/affordable-care-act-low-income-households-lose-internet/</link>
-      <description><![CDATA[ACP 为低收入美国人提供价格实惠的互联网连接。自 5 月到期以来，约 10 万 Charter 用户不得不停止使用。]]></description>
+      <description><![CDATA[ACP 为低收入美国人提供价格实惠的互联网连接。自 5 月到期以来，约有 10 万 Charter 用户不得不停止使用。]]></description>
       <guid>https://www.wired.com/story/affordable-care-act-low-income-households-lose-internet/</guid>
       <pubDate>Tue, 30 Jul 2024 20:36:51 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[DC 去 YC 谈操作系统。]]></description>
       <guid>https://www.wired.com/story/open-source-ai-y-combinator/</guid>
       <pubDate>Fri, 26 Jul 2024 21:56:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>史蒂夫·乔布斯知道未来已经到来。它再次召唤我们</title>
-      <link>https://www.wired.com/story/steve-jobs-speech-personal-computers-ai/</link>
-      <description><![CDATA[在最近披露的 1983 年演讲中，史蒂夫·乔布斯预测了个人电脑的普及。2024 年，人工智能将带我们走向另一个转折点。]]></description>
-      <guid>https://www.wired.com/story/steve-jobs-speech-personal-computers-ai/</guid>
-      <pubDate>Fri, 26 Jul 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
