@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 02 Aug 2024 12:13:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 15:08:19 GMT</lastBuildDate>
+    <item>
+      <title>特朗普拥抱加密货币可能会给比特币带来灾难</title>
+      <link>https://www.wired.com/story/donald-trump-bitcoin-reserve-promises/</link>
+      <description><![CDATA[在纳什维尔举行的比特币 2024 大会上，唐纳德·特朗普向加密货币社区许下了天价承诺。他们最好祈祷自己不会实现这个承诺。]]></description>
+      <guid>https://www.wired.com/story/donald-trump-bitcoin-reserve-promises/</guid>
+      <pubDate>Fri, 02 Aug 2024 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>你不会相信汽车前灯能带来什么</title>
       <link>https://www.wired.com/story/you-wont-believe-what-car-headlights-have-in-store/</link>
@@ -13,7 +20,7 @@
       <pubDate>Fri, 02 Aug 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>尽管获得美国政府数十亿美元资金支持，英特尔仍将裁员 15,000 多人</title>
+      <title>尽管获得美国政府数十亿美元资助，英特尔仍将裁员 15,000 多人</title>
       <link>https://www.wired.com/story/intel-job-cuts/</link>
       <description><![CDATA[该芯片制造商已经落后于竞争对手，正在裁员 15%。]]></description>
       <guid>https://www.wired.com/story/intel-job-cuts/</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>平价连接计划失败——数千户家庭已失去互联网</title>
       <link>https://www.wired.com/story/affordable-care-act-low-income-households-lose-internet/</link>
-      <description><![CDATA[ACP 为低收入美国人提供价格实惠的互联网连接。自 5 月到期以来，约有 10 万 Charter 用户不得不停止使用。]]></description>
+      <description><![CDATA[ACP 为低收入美国人提供价格实惠的互联网连接。自 5 月到期以来，约 10 万 Charter 用户不得不停止使用。]]></description>
       <guid>https://www.wired.com/story/affordable-care-act-low-income-households-lose-internet/</guid>
       <pubDate>Tue, 30 Jul 2024 20:36:51 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[特朗普在比特币 2024 大会上还承诺“解雇”美国证券交易委员会主席加里·根斯勒 (Gary Gensler)，成立加密货币咨询委员会，并让美国成为“世界加密货币之都”。]]></description>
       <guid>https://www.wired.com/story/donald-trump-strategic-bitcoin-stockpile-bitcoin-2024/</guid>
       <pubDate>Sat, 27 Jul 2024 22:32:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源人工智能让创始人和联邦贸易委员会兴奋不已</title>
-      <link>https://www.wired.com/story/open-source-ai-y-combinator/</link>
-      <description><![CDATA[DC 去 YC 谈操作系统。]]></description>
-      <guid>https://www.wired.com/story/open-source-ai-y-combinator/</guid>
-      <pubDate>Fri, 26 Jul 2024 21:56:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
