@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 02 Aug 2024 15:08:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 18:11:08 GMT</lastBuildDate>
+    <item>
+      <title>一种新方法可以阻止开源人工智能的滥用</title>
+      <link>https://www.wired.com/story/center-for-ai-safety-open-source-llm-safeguards/</link>
+      <description><![CDATA[研究人员已经开发出一种防篡改开源大型语言模型的方法，以防止它们被哄骗去解释如何制造炸弹。]]></description>
+      <guid>https://www.wired.com/story/center-for-ai-safety-open-source-llm-safeguards/</guid>
+      <pubDate>Fri, 02 Aug 2024 15:49:10 GMT</pubDate>
+    </item>
     <item>
       <title>特朗普拥抱加密货币可能会给比特币带来灾难</title>
       <link>https://www.wired.com/story/donald-trump-bitcoin-reserve-promises/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[在纳什维尔举行的 2024 年比特币会议上，特朗普终于告诉了加密货币爱好者他们想听到的话。]]></description>
       <guid>https://www.wired.com/story/bitcoin-bros-go-wild-for-donald-trump/</guid>
       <pubDate>Sun, 28 Jul 2024 12:43:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>唐纳德·特朗普在对加密货币忠实粉丝的演讲中支持“战略性比特币储备”</title>
-      <link>https://www.wired.com/story/donald-trump-strategic-bitcoin-stockpile-bitcoin-2024/</link>
-      <description><![CDATA[特朗普在比特币 2024 大会上还承诺“解雇”美国证券交易委员会主席加里·根斯勒 (Gary Gensler)，成立加密货币咨询委员会，并让美国成为“世界加密货币之都”。]]></description>
-      <guid>https://www.wired.com/story/donald-trump-strategic-bitcoin-stockpile-bitcoin-2024/</guid>
-      <pubDate>Sat, 27 Jul 2024 22:32:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
