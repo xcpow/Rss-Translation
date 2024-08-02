@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 01 Aug 2024 21:08:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 00:36:15 GMT</lastBuildDate>
+    <item>
+      <title>尽管获得美国政府数十亿美元资金支持，英特尔仍将裁员 15,000 多人</title>
+      <link>https://www.wired.com/story/intel-job-cuts/</link>
+      <description><![CDATA[该芯片制造商已经落后于竞争对手，正在裁员 15%。]]></description>
+      <guid>https://www.wired.com/story/intel-job-cuts/</guid>
+      <pubDate>Thu, 01 Aug 2024 21:26:10 GMT</pubDate>
+    </item>
     <item>
       <title>为了引领人工智能，美国需要一场硅革命</title>
       <link>https://www.wired.com/story/laurie-locascio-interview-ai-silicon-revolution/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>平价连接计划失败——数千户家庭已失去互联网</title>
       <link>https://www.wired.com/story/affordable-care-act-low-income-households-lose-internet/</link>
-      <description><![CDATA[ACP 为低收入美国人提供价格实惠的互联网连接。自 5 月到期以来，约 10 万 Charter 用户不得不停止使用。]]></description>
+      <description><![CDATA[ACP 为低收入美国人提供价格实惠的互联网连接。自 5 月到期以来，约有 10 万 Charter 用户不得不停止使用。]]></description>
       <guid>https://www.wired.com/story/affordable-care-act-low-income-households-lose-internet/</guid>
       <pubDate>Tue, 30 Jul 2024 20:36:51 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[在最近披露的 1983 年演讲中，史蒂夫·乔布斯预测了个人电脑的普及。2024 年，人工智能将带我们走向另一个转折点。]]></description>
       <guid>https://www.wired.com/story/steve-jobs-speech-personal-computers-ai/</guid>
       <pubDate>Fri, 26 Jul 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>集体诉讼指控 T-Mobile 违反了其终身价格保证</title>
-      <link>https://www.wired.com/story/t-mobile-class-action-lawsuit-lifetime-price-guarantee/</link>
-      <description><![CDATA[该非运营商的客户希望 T-Mobile 在将他们的旧手机套餐更换为更昂贵的套餐后支付费用。]]></description>
-      <guid>https://www.wired.com/story/t-mobile-class-action-lawsuit-lifetime-price-guarantee/</guid>
-      <pubDate>Thu, 25 Jul 2024 21:13:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
