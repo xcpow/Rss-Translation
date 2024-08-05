@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Mon, 05 Aug 2024 18:10:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 21:08:56 GMT</lastBuildDate>
+    <item>
+      <title>美国法官裁定谷歌搜索属于非法垄断</title>
+      <link>https://www.wired.com/story/google-search-antitrust-monopoly-ruling/</link>
+      <description><![CDATA[在美国政府起诉谷歌近一年后，一名法官裁定这家科技巨头违反了反垄断法。新的审判将决定谷歌应受到何种惩罚。]]></description>
+      <guid>https://www.wired.com/story/google-search-antitrust-monopoly-ruling/</guid>
+      <pubDate>Mon, 05 Aug 2024 19:52:00 GMT</pubDate>
+    </item>
     <item>
       <title>备受争议的《儿童网络安全法案》前景不明朗</title>
       <link>https://www.wired.com/story/kids-online-safety-act-kosa-stalled-in-house/</link>
@@ -34,7 +41,7 @@
       <pubDate>Fri, 02 Aug 2024 15:49:10 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普拥抱加密货币可能会给比特币带来一场灾难</title>
+      <title>特朗普拥抱加密货币可能会给比特币带来灾难</title>
       <link>https://www.wired.com/story/donald-trump-bitcoin-reserve-promises/</link>
       <description><![CDATA[在纳什维尔举行的比特币 2024 大会上，唐纳德·特朗普向加密货币社区许下了天价承诺。他们最好祈祷自己不会实现这个承诺。]]></description>
       <guid>https://www.wired.com/story/donald-trump-bitcoin-reserve-promises/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[深受喜爱的另类周刊，例如《乡村之声》，已经开始发布看似由人工智能生成的关于 OnlyFans 的点击诱饵。]]></description>
       <guid>https://www.wired.com/story/zombie-alt-weeklies-are-stuffed-with-ai-slop-about-onlyfans/</guid>
       <pubDate>Tue, 30 Jul 2024 14:28:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Instagram 将允许你制作自定义 AI 聊天机器人，甚至基于你自己</title>
-      <link>https://www.wired.com/story/meta-ai-studio-instagram-chatbots/</link>
-      <description><![CDATA[Meta 的 AI Studio 将允许用户创建虚拟角色，但有一些限制。]]></description>
-      <guid>https://www.wired.com/story/meta-ai-studio-instagram-chatbots/</guid>
-      <pubDate>Mon, 29 Jul 2024 22:33:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
