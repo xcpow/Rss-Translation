@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Mon, 05 Aug 2024 15:08:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 18:10:58 GMT</lastBuildDate>
+    <item>
+      <title>备受争议的《儿童网络安全法案》前景不明朗</title>
+      <link>https://www.wired.com/story/kids-online-safety-act-kosa-stalled-in-house/</link>
+      <description><![CDATA[尽管该法案在参议院轻松获得通过，但众议院却休会，没有将该法案提交表决。批评人士称，该法案将阻止年轻人获取有关性健康等问题的重要信息。]]></description>
+      <guid>https://www.wired.com/story/kids-online-safety-act-kosa-stalled-in-house/</guid>
+      <pubDate>Mon, 05 Aug 2024 17:34:13 GMT</pubDate>
+    </item>
     <item>
       <title>Zoom 将利用人工智能驱动的文档追赶谷歌和微软</title>
       <link>https://www.wired.com/story/zoom-is-going-after-google-and-microsoft-with-ai-driven-docs/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[Meta 的 AI Studio 将允许用户创建虚拟角色，但有一些限制。]]></description>
       <guid>https://www.wired.com/story/meta-ai-studio-instagram-chatbots/</guid>
       <pubDate>Mon, 29 Jul 2024 22:33:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>人们正在使用 Memecoins 押注美国大选</title>
-      <link>https://www.wired.com/story/political-memecoins-betting-trump-biden-harris/</link>
-      <description><![CDATA[当一场关于美国大选押注的争斗在法庭上展开时，科技迷们正在向受政客启发的加密货币投入数亿美元。]]></description>
-      <guid>https://www.wired.com/story/political-memecoins-betting-trump-biden-harris/</guid>
-      <pubDate>Mon, 29 Jul 2024 12:08:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
