@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Mon, 05 Aug 2024 12:14:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 15:08:14 GMT</lastBuildDate>
+    <item>
+      <title>Zoom 将利用人工智能驱动的文档追赶谷歌和微软</title>
+      <link>https://www.wired.com/story/zoom-is-going-after-google-and-microsoft-with-ai-driven-docs/</link>
+      <description><![CDATA[这款视频会议应用正试图在拥挤的市场中打造一款“适用于一切工作场所”的应用。]]></description>
+      <guid>https://www.wired.com/story/zoom-is-going-after-google-and-microsoft-with-ai-driven-docs/</guid>
+      <pubDate>Mon, 05 Aug 2024 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>TikTok 因涉嫌侵犯儿童隐私遭美国司法部起诉</title>
       <link>https://www.wired.com/story/us-justice-department-sues-tiktok-kids-privacy/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[当一场关于美国大选押注的争斗在法庭上展开时，科技迷们正在向受政客启发的加密货币投入数亿美元。]]></description>
       <guid>https://www.wired.com/story/political-memecoins-betting-trump-biden-harris/</guid>
       <pubDate>Mon, 29 Jul 2024 12:08:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>回归 BASIC——计算机史上最重要的编程语言</title>
-      <link>https://www.wired.com/story/back-to-basic-the-most-consequential-programming-language/</link>
-      <description><![CDATA[在 BASIC 普及之前，编码一直是精英阶层的专利。]]></description>
-      <guid>https://www.wired.com/story/back-to-basic-the-most-consequential-programming-language/</guid>
-      <pubDate>Mon, 29 Jul 2024 10:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

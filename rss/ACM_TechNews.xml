@@ -4,106 +4,103 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Fri, 02 Aug 2024 15:08:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 15:08:10 GMT</lastBuildDate>
     <item>
-      <title>Apple Vision Pro 通过 BCI 由思想控制</title>
-      <link>https://www.zdnet.com/article/apple-vision-pro-can-be-controlled-by-thoughts-now-thanks-to-bci-integration/</link>
-      <description><![CDATA[ZDNet脑机接口 (BCI) 公司 Synchron 表示，其大脑植入物可让用户使用 Apple Vision Pro 耳机。Synchron 的测试对象是一名患有 ALS 的男子，他可以玩纸牌、看 Apple TV 并免提发送短信。Synchron 的 BCI 已植入至少六名美国患者体内。它通过颈静脉插入并输送到位于大脑表面的血管，无需手术。摘自“通过 BCI 由思想控制的 Apple Vision Pro”
-ZDNet (07/30/24) Artie Beaty 查看全文]]></description>
-      <guid>https://www.zdnet.com/article/apple-vision-pro-can-be-controlled-by-thoughts-now-thanks-to-bci-integration/</guid>
-      <pubDate>Fri, 02 Aug 2024 15:08:13 GMT</pubDate>
+      <title>受损机器人适应游泳</title>
+      <link>https://interestingengineering.com/science/robot-adapts-damage-bioinspired-techniques</link>
+      <description><![CDATA[有趣的工程加州理工学院 (Caltech) 的研究人员使用机器学习算法来教机器人调整其推进机制，以便在受损时保持其水上能力。加州理工学院的 Meredith Hooper 解释说：“机器学习算法根据它们产生我们期望的力的程度来选择最佳候选轨迹。然后，该算法会根据前一组轨迹的启发，提出另一组 10 条轨迹。”摘自“受损机器人适应游泳”
+有趣的工程 (08/01/24) Sujita Sinha 查看全文]]></description>
+      <guid>https://interestingengineering.com/science/robot-adapts-damage-bioinspired-techniques</guid>
+      <pubDate>Mon, 05 Aug 2024 15:08:09 GMT</pubDate>
     </item>
     <item>
-      <title>中间人博弈H-1B计划</title>
-      <link>https://www.bloomberg.com/graphics/2024-staffing-firms-game-h1b-visa-lottery-system/</link>
-      <description><![CDATA[彭博社去年，约有 446,000 人申请 H-1B 签证，该签证允许美国雇主雇用外国工人从事专业职业，尽管只有约 85,000 个签证名额。彭博社 的一项分析排除了最小的抽签参与者，发现一些公司操纵了该系统，导致分析中近一半的 H-1B 签证流向了外包或人力资源公司。超过 11,600 个签证流向了跨国外包公司，这些公司可以利用其庞大的海外劳动力来大量抽签，而 22,600 个签证流向了 IT 人力资源公司，其中许多公司为同一工人提交了多个申请。
+      <title>内存技术降低人工智能处理能耗</title>
+      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-detail-new-technology-for-reducing-ai-processing-energy-requirements-by-1000-times-or-better</link>
+      <description><![CDATA[Tom&#39;s Hardware明尼苏达大学双城分校的研究人员开发了计算随机存取存储器 (CRAM) 技术，他们表示，该技术可以大幅降低人工智能处理所消耗的能量。借助 CRAM，高密度、可重构的自旋电子内存计算基板位于内存单元本身内，数据在此进行处理。当用于执行 MNIST 手写数字分类器任务时，CRAM 比使用 16nm 技术节点的近内存处理系统节能 2,500 倍，速度快 1,700 倍。摘自“Memory Tech 降低 AI 处理能耗”
+Tom&#39;s Hardware (07/29/24) Jeff Butts 查看全文]]></description>
+      <guid>https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-detail-new-technology-for-reducing-ai-processing-energy-requirements-by-1000-times-or-better</guid>
+      <pubDate>Mon, 05 Aug 2024 15:08:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能在美国高速公路上设定可变速度限制</title>
+      <link>https://www.newscientist.com/article/2440325-ai-put-in-charge-of-setting-variable-speed-limits-on-us-freeway/</link>
+      <description><![CDATA[新科学家人工智能正被用于控制田纳西州纳什维尔附近 27 公里（16.8 英里）路段的可变限速。范德比尔特大学的 Daniel Work 及其同事利用历史交通数据训练人工智能来监控摄像头并做出限速决定。这套新的自动化系统于 3 月推出，98% 的时间都准确无误，但偶尔会要求将限速改变到每小时 10 英里以上，这违反了联邦法律。摘自“人工智能在美国高速公路上设置可变限速”
 
-摘自“中间人玩弄 H-1B 计划”
-彭博社 (07/31/24) Eric Fan；Zachary Mider；Denise Lu；等人 查看全文]]></description>
-      <guid>https://www.bloomberg.com/graphics/2024-staffing-firms-game-h1b-visa-lottery-system/</guid>
-      <pubDate>Fri, 02 Aug 2024 15:08:13 GMT</pubDate>
+新科学家 (07/30/24) Matthew Sparkes 查看全文]]></description>
+      <guid>https://www.newscientist.com/article/2440325-ai-put-in-charge-of-setting-variable-speed-limits-on-us-freeway/</guid>
+      <pubDate>Mon, 05 Aug 2024 15:08:08 GMT</pubDate>
     </item>
     <item>
-      <title>Meta 的 AI 安全系统被空格键击败</title>
-      <link>https://www.theregister.com/2024/07/29/meta_ai_safety/</link>
-      <description><![CDATA[The Register（英国）Meta 上周推出了 Prompt-Guard-86M 及其 Llama 3.1 生成式 AI 模型，以检测提示注入攻击。然而，Robust Intelligence 研究员 Aman Priyanshu 发现 Prompt-Guard-86M 分类器模型本身容易受到提示注入攻击。Priyanshu 解释说，在给定提示的字母之间添加空格并省略标点符号“实际上会使分类器无法检测到潜在的有害内容。”摘自“Meta 的 AI 安全系统被空格键击败”
-The Register（英国）（2024 年 7 月 29 日）Thomas Claburn]]></description>
-      <guid>https://www.theregister.com/2024/07/29/meta_ai_safety/</guid>
-      <pubDate>Fri, 02 Aug 2024 15:08:12 GMT</pubDate>
+      <title>坦桑尼亚村庄将设立 3D 打印社区中心</title>
+      <link>https://edition.cnn.com/2024/08/01/style/hassell-hope-village-tanzania-3d-printed-building/index.html</link>
+      <description><![CDATA[CNN坦桑尼亚的一个新村庄将设立一个 3D 打印社区中心，为经历过苦难的儿童提供住所。墙壁将使用来自 25 公里内的土壤建造。3D 打印的使用实现了开放式“多孔”墙壁设计，该设计已进行了原型设计，高度可达 2 米。摘自“坦桑尼亚村庄将设立 3D 打印社区中心”
+CNN (08/01/24) Tom Page 查看全文]]></description>
+      <guid>https://edition.cnn.com/2024/08/01/style/hassell-hope-village-tanzania-3d-printed-building/index.html</guid>
+      <pubDate>Mon, 05 Aug 2024 15:08:08 GMT</pubDate>
     </item>
     <item>
-      <title>3D 打印制造 3D 芯片电路</title>
-      <link>https://www.tomshardware.com/3d-printing/new-technique-uses-3d-printing-to-fab-three-dimensional-circuits</link>
-      <description><![CDATA[Tom&#39;s Hardware新加坡国立大学的一个研究小组展示了如何使用 3D 金属打印技术制造一系列紧凑型电子产品。CHARM3D 技术使用直接墨水书写来制造三维 (3D) 电路。该团队已使用 CHARM3D 制造了可穿戴无电池温度传感器的 3D 电路、用于无线生命体征监测的天线以及用于电磁波操控的超材料。
-
-摘自“3D 打印制造 3D 芯片电路”
-Tom&#39;s Hardware (07/31/24) Jeff Butts 查看全文]]></description>
-      <guid>https://www.tomshardware.com/3d-printing/new-technique-uses-3d-printing-to-fab-three-dimensional-circuits</guid>
-      <pubDate>Fri, 02 Aug 2024 15:08:12 GMT</pubDate>
+      <title>法院阻止美国网络中立规则</title>
+      <link>https://www.reuters.com/legal/us-court-blocks-biden-administration-net-neutrality-rules-2024-08-01/</link>
+      <description><![CDATA[路透社上诉法院周四阻止了美国联邦通信委员会 (FCC) 恢复网络中立规则的企图，称宽带提供商很可能在法律挑战中获胜。FCC 于 4 月投票决定重新承担对宽带互联网的监管监督，并恢复 2015 年通过的开放互联网规则，这些规则在上一届政府时期被撤销。法院计划在 10 月下旬或 11 月初就此问题进行口头辩论。摘自“法院阻止美国网络中立规则”
+路透社 (08/01/24) David Shepardson 查看全文]]></description>
+      <guid>https://www.reuters.com/legal/us-court-blocks-biden-administration-net-neutrality-rules-2024-08-01/</guid>
+      <pubDate>Mon, 05 Aug 2024 15:08:07 GMT</pubDate>
     </item>
     <item>
-      <title>DDoS 攻击引发微软新一轮全球中断</title>
-      <link>https://www.infosecurity-magazine.com/news/ddos-microsoft-global-outage/</link>
-      <description><![CDATA[Infosecurity Magazine微软表示，周二微软服务全球中断是由分布式拒绝服务 (DDoS) 攻击引发的。该公司补充说，微软 DDoS 保护措施中的一个错误加剧了攻击的影响，而不是减轻了攻击的影响。中断持续了大约 10 个小时，在此期间，客户报告了一系列微软平台的问题。摘自“DDoS 攻击引发新的微软全球中断”
-Infosecurity Magazine (07/31/24) James Coker 查看全文]]></description>
-      <guid>https://www.infosecurity-magazine.com/news/ddos-microsoft-global-outage/</guid>
-      <pubDate>Fri, 02 Aug 2024 15:08:11 GMT</pubDate>
+      <title>3D 打印柔性贴片模拟人体组织</title>
+      <link>https://interestingengineering.com/science/3d-print-technique-flexible-patches-repair-heart</link>
+      <description><![CDATA[有趣的工程科罗拉多大学博尔德分校和宾夕法尼亚大学的研究人员创造了一种新方法，用于 3D 打印粘合材料，以模仿人体组织的强度和柔韧性。他们的“光照后持续固化辅助氧化还原引发 (CLEAR)”方法将 3D 打印材料中的长分子交织在一起。该团队希望该技术能够产生先进的生物材料，例如注入药物的心脏绷带、软骨补片和无针缝合线。摘自“3D 打印的柔性补片模仿人体组织”
+有趣的工程 (08/02/24) Mrigakshi Dixit 查看全文]]></description>
+      <guid>https://interestingengineering.com/science/3d-print-technique-flexible-patches-repair-heart</guid>
+      <pubDate>Mon, 05 Aug 2024 15:08:07 GMT</pubDate>
     </item>
     <item>
-      <title>机器人揭示南极冰层底部“神秘”形状</title>
-      <link>https://www.nytimes.com/2024/07/31/climate/antarctic-glacier-underside.html</link>
-      <description><![CDATA[《纽约时报》南极洲周围变暖的海洋中的一艘水下机器人潜水器利用声波让科学家们详细地观察了南极洲巨型冰架融化的底部，揭示了“神秘”的构造。Ran 潜水器被编程为在 Dotson 冰架下方来回移动，用声波收集数据。该机器人完成了 14 次任务，其中约一半被认为完全成功。摘自“机器人揭示南极冰层底部的‘神秘’形状”
-《纽约时报》（2024 年 8 月 1 日）Raymond Zhong 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/07/31/climate/antarctic-glacier-underside.html</guid>
-      <pubDate>Fri, 02 Aug 2024 15:08:11 GMT</pubDate>
+      <title>旧金山将禁用租金设定软件</title>
+      <link>https://www.bloomberg.com/news/articles/2024-07-31/san-francisco-to-ban-software-amid-worry-on-gouging-in-rents?sref=db2f3qgr</link>
+      <description><![CDATA[彭博社旧金山即将成为美国首个禁止使用算法软件推荐租金的城市。旧金山监事会主席 Aaron Peskin 表示，此类工具可让大型企业房东操纵价格。监事会一致投票禁止该市使用这些产品。佩斯金表示，他之所以推出这项法令，是因为他观察到，尽管人们搬离了城市，市中心的写字楼空置率也上升了，但住宅租金在疫情期间和疫情过后却一直在上涨。摘自《旧金山将禁止使用租金设定软件》
+彭博社 (07/31/24) Rya Jetha 查看全文]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-07-31/san-francisco-to-ban-software-amid-worry-on-gouging-in-rents?sref=db2f3qgr</guid>
+      <pubDate>Mon, 05 Aug 2024 15:08:06 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌致力于减少搜索中非自愿的深度伪造色情内容</title>
-      <link>https://www.bloomberg.com/news/articles/2024-07-31/google-works-to-reduce-non-consensual-deepfake-porn-in-search?sref=db2f3qgr</link>
-      <description><![CDATA[彭博社谷歌正在改变其搜索引擎，以减少色情虚假内容在其搜索结果中的排名。当人工智能生成的内容未经允许展示真人的脸或身体时，该人可以要求将其从搜索结果中删除。该公司周三表示，当谷歌决定有必要删除时，它现在将过滤类似搜索的所有露骨结果并删除重复的图片。摘自“谷歌努力减少搜索中的非自愿深度伪造色情”
-彭博社 (07/31/24) Davey Alba；Cecilia D&#39;Anastasio 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-07-31/google-works-to-reduce-non-consensual-deepfake-porn-in-search?sref=db2f3qgr</guid>
-      <pubDate>Fri, 02 Aug 2024 15:08:10 GMT</pubDate>
+      <title>美国司法部起诉 TikTok，指控其违反儿童隐私法</title>
+      <link>https://www.washingtonpost.com/technology/2024/08/02/doj-tiktok-child-privacy-lawsuit/</link>
+      <description><![CDATA[《华盛顿邮报》美国司法部 (DOJ) 周五起诉 TikTok 及其中国所有者字节跳动，指控他们收集了数百万 13 岁以下美国人的数据，违反了儿童隐私法。据美国司法部称，TikTok 让儿童可以轻易创建账户，然后收集那些创建账户的人的数据，构成了对《儿童在线隐私保护法》的“大规模”违反。摘自“美国司法部起诉 TikTok，指控其违反了儿童隐私法”
+《华盛顿邮报》（08/02/24）Drew Harwell 查看全文]]></description>
+      <guid>https://www.washingtonpost.com/technology/2024/08/02/doj-tiktok-child-privacy-lawsuit/</guid>
+      <pubDate>Mon, 05 Aug 2024 15:08:06 GMT</pubDate>
     </item>
     <item>
-      <title>量子计算机即将登陆你身边的数据中心</title>
-      <link>https://spectrum.ieee.org/quantum-data-center</link>
-      <description><![CDATA[IEEE Spectrum量子硬件制造商 QuEra Computing 的 Yuval Boger 表示，数据中心和高性能计算 (HPC) 设施对量子处理器集成的需求正在上升，这带来了一些工程挑战。超导量子计算机制造商 Rigetti 的 David Rivas 指出，量子计算机已经是混合设备，量子处理器连接到经典控制系统，并表示控制系统有一天会与 HPC 系统的控制系统合并。摘自“量子计算机，即将进入您附近的数据中心”
-IEEE Spectrum (07/29/24) Edd Gent 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/quantum-data-center</guid>
-      <pubDate>Fri, 02 Aug 2024 15:08:10 GMT</pubDate>
+      <title>X射线升级可3D查看晶体管</title>
+      <link>https://spectrum.ieee.org/semiconductor-inspection</link>
+      <description><![CDATA[IEEE Spectrum瑞士和美国研究人员开发的一种新型 X 射线成像技术可以提供芯片内部工作原理的清晰 3D 图像。该方法的分辨率为 4 纳米，提供的图像足够清晰，可以绘制芯片的布线路径并显示微小的晶体管特征，而不会破坏芯片。该技术的工作原理是使用相干的高能 X 射线束从不同角度反复照射样品。摘自“X 射线升级可以 3D 视图晶体管”
+IEEE Spectrum (07/31/24) Katherine Bourzac 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/semiconductor-inspection</guid>
+      <pubDate>Mon, 05 Aug 2024 15:08:05 GMT</pubDate>
     </item>
     <item>
-      <title>达美航空首席执行官称航班中断导致航空公司损失 5 亿美元</title>
-      <link>https://www.cnbc.com/2024/07/31/delta-ceo-crowdstrike-microsoft-outage-cost-the-airline-500-million.html</link>
-      <description><![CDATA[CNBC达美航空首席执行官艾德·巴斯蒂安（如图）周三表示，上个月由 CrowdStrike 软件造成的中断给该航空公司造成了 5 亿美元的损失，包括航班取消、退款以及滞留客户五天内的酒店费用造成的收入损失。巴斯蒂安表示，达美航空将对此次中断事件追究责任，并补充道：“如果你要优先使用达美航空的技术生态系统，就必须对它们进行测试。”摘自“达美航空首席执行官称航班中断事件给航空公司造成 5 亿美元损失”
-CNBC（2024 年 7 月 31 日）Leslie Josephs；Ece Yildirim 查看全文]]></description>
-      <guid>https://www.cnbc.com/2024/07/31/delta-ceo-crowdstrike-microsoft-outage-cost-the-airline-500-million.html</guid>
-      <pubDate>Fri, 02 Aug 2024 15:08:09 GMT</pubDate>
+      <title>英特尔将解雇 15,000 名员工</title>
+      <link>https://www.washingtonpost.com/technology/2024/08/01/intel-layoffs-chips/</link>
+      <description><![CDATA[华盛顿邮报芯片制造商英特尔周四表示，计划裁员 15,000 人，占其员工总数的 15％ 以上。英特尔已成为“美国芯片”计划的大赢家，拜登政府今年宣布向该公司提供 85 亿美元的赠款和 110 亿美元的贷款，以帮助将部分芯片制造业务带回美国。英特尔尚未收到这些资金。摘自“英特尔将解雇 15,000 名员工”
+华盛顿邮报 (08/01/24) Eva Dou 查看全文]]></description>
+      <guid>https://www.washingtonpost.com/technology/2024/08/01/intel-layoffs-chips/</guid>
+      <pubDate>Mon, 05 Aug 2024 15:08:04 GMT</pubDate>
     </item>
     <item>
-      <title>佐治亚州允许选民取消登记的网站显示个人数据</title>
-      <link>https://apnews.com/article/georgia-cancel-voter-registration-personal-information-5bf7d7d474e0e077c7fd50141ff487e8</link>
-      <description><![CDATA[美联社佐治亚州选举官员敦促人们在有人搬出州或死亡时使用州网站取消选民登记，尽管周一推出的网站出现故障，允许人们访问他人的个人数据。这个问题已经得到修复，凸显了人们对该网站可能允许外人不合理地取消选民登记的担忧。摘自“佐治亚州网站允许选民取消显示个人数据的登记”
-美联社 (07/30/24) Jeff Amy；Charlotte Kramon 查看全文]]></description>
-      <guid>https://apnews.com/article/georgia-cancel-voter-registration-personal-information-5bf7d7d474e0e077c7fd50141ff487e8</guid>
-      <pubDate>Fri, 02 Aug 2024 15:08:09 GMT</pubDate>
+      <title>应用程序可检测假冒婴儿配方奶粉</title>
+      <link>http://koreabizwire.com/smartphone-app-detects-fake-baby-formula-offering-hope-against-counterfeits/288457</link>
+      <description><![CDATA[韩国商业新闻韩国和新加坡的研究人员开发了一种基于智能手机的系统，可以检测假冒婴儿配方奶粉。PowDew 系统允许用户使用智能手机的摄像头拍摄婴儿配方奶粉的图像；然后，该应用程序观察粉末表面水滴的运动以验证其真实性。在涉及六个婴儿配方奶粉品牌的测试中，该系统在识别假冒产品方面的准确率高达 96.1%。摘自“应用程序检测假冒婴儿配方奶粉”
+韩国商业新闻 (08/03/24) Ashley Song 查看全文]]></description>
+      <guid>http://koreabizwire.com/smartphone-app-detects-fake-baby-formula-offering-hope-against-counterfeits/288457</guid>
+      <pubDate>Mon, 05 Aug 2024 15:08:04 GMT</pubDate>
     </item>
     <item>
-      <title>欧盟人工智能规则正式生效</title>
-      <link>https://apnews.com/article/european-union-artificial-intelligence-8ed875df104fbc254b3dd09f348255e8</link>
-      <description><![CDATA[美联社欧盟的人工智能法于周四正式生效，涵盖了欧盟境内使用人工智能的所有产品或服务。限制基于四个风险等级，绝大多数系统预计属于低风险类别，例如内容推荐系统或垃圾邮件过滤器。这些规定将分阶段生效，周四的实施日期将开启未来几年生效的倒计时。摘自“欧盟人工智能规则正式生效”
-美联社 (08/01/24) Kelvin Chan 查看全文]]></description>
-      <guid>https://apnews.com/article/european-union-artificial-intelligence-8ed875df104fbc254b3dd09f348255e8</guid>
-      <pubDate>Fri, 02 Aug 2024 15:08:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国拟启动国家互联网身份系统</title>
-      <link>https://www.nytimes.com/2024/07/31/business/china-national-internet-id.html</link>
-      <description><![CDATA[《纽约时报》中国的网站和应用程序使用电话号码来验证用户，这些电话号码与所有成年人的个人身份证号码相关联。现在，政府希望承担用户验证的工作，并给人们一个可以在互联网上使用的单一身份证。批评人士警告说，此举将赋予政府更多权力来监控人们在网上的行为。摘自“中国希望启动国家互联网身份证系统”
-《纽约时报》（2024 年 7 月 31 日）Meaghan Tobin；John Liu 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/07/31/business/china-national-internet-id.html</guid>
-      <pubDate>Fri, 02 Aug 2024 15:08:08 GMT</pubDate>
+      <title>虚假信息引发骚乱 英国首相向社交媒体公司发出警告</title>
+      <link>https://www.reuters.com/world/uk/pm-starmer-warns-social-media-firms-after-southport-misinformation-fuels-uk-2024-08-01/</link>
+      <description><![CDATA[路透社英国首相凯尔·斯塔默警告社交媒体公司，他们必须遵守禁止在网上煽动暴力的法律，此前本周早些时候有关致命大规模刺伤事件的错误信息引发了暴力骚乱。斯塔默说：“我还要对大型社交媒体公司及其经营者说，显然在网上煽动暴力骚乱：这也是一种犯罪行为。”他补充说，在处理此类平台时需要“取得平衡”。摘自“英国首相警告社交媒体公司，错误信息引发骚乱”
+路透社 (08/02/24) Alistair Smout；Nick Vant 查看全文]]></description>
+      <guid>https://www.reuters.com/world/uk/pm-starmer-warns-social-media-firms-after-southport-misinformation-fuels-uk-2024-08-01/</guid>
+      <pubDate>Mon, 05 Aug 2024 15:08:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
