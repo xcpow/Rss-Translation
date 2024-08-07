@@ -4,103 +4,110 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Mon, 05 Aug 2024 15:08:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 18:10:08 GMT</lastBuildDate>
     <item>
-      <title>受损机器人适应游泳</title>
-      <link>https://interestingengineering.com/science/robot-adapts-damage-bioinspired-techniques</link>
-      <description><![CDATA[有趣的工程加州理工学院 (Caltech) 的研究人员使用机器学习算法来教机器人调整其推进机制，以便在受损时保持其水上能力。加州理工学院的 Meredith Hooper 解释说：“机器学习算法根据它们产生我们期望的力的程度来选择最佳候选轨迹。然后，该算法会根据前一组轨迹的启发，提出另一组 10 条轨迹。”摘自“受损机器人适应游泳”
-有趣的工程 (08/01/24) Sujita Sinha 查看全文]]></description>
-      <guid>https://interestingengineering.com/science/robot-adapts-damage-bioinspired-techniques</guid>
-      <pubDate>Mon, 05 Aug 2024 15:08:09 GMT</pubDate>
+      <title>伊利诺伊州选民数据被不安全的数据库泄露</title>
+      <link>https://www.wired.com/story/illinois-voter-databases-exposed/</link>
+      <description><![CDATA[Wired互联网上公开了十多个包含伊利诺伊州多个县敏感选民信息的数据库，披露了 460 万条记录，其中包括驾照号码和其他个人身份信息。安全研究员 Jeremiah Fowler 发现了总共 13 个暴露的数据库，这些数据库都没有密码保护，也不需要任何类型的身份验证即可访问。摘自“不安全的数据库暴露了伊利诺伊州选民数据”
+Wired (08/02/24) Lily Hay Newman 查看全文]]></description>
+      <guid>https://www.wired.com/story/illinois-voter-databases-exposed/</guid>
+      <pubDate>Wed, 07 Aug 2024 18:10:07 GMT</pubDate>
     </item>
     <item>
-      <title>内存技术降低人工智能处理能耗</title>
-      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-detail-new-technology-for-reducing-ai-processing-energy-requirements-by-1000-times-or-better</link>
-      <description><![CDATA[Tom&#39;s Hardware明尼苏达大学双城分校的研究人员开发了计算随机存取存储器 (CRAM) 技术，他们表示，该技术可以大幅降低人工智能处理所消耗的能量。借助 CRAM，高密度、可重构的自旋电子内存计算基板位于内存单元本身内，数据在此进行处理。当用于执行 MNIST 手写数字分类器任务时，CRAM 比使用 16nm 技术节点的近内存处理系统节能 2,500 倍，速度快 1,700 倍。摘自“Memory Tech 降低 AI 处理能耗”
-Tom&#39;s Hardware (07/29/24) Jeff Butts 查看全文]]></description>
-      <guid>https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-detail-new-technology-for-reducing-ai-processing-energy-requirements-by-1000-times-or-better</guid>
-      <pubDate>Mon, 05 Aug 2024 15:08:09 GMT</pubDate>
+      <title>中国将发射首批星座卫星，与星链卫星竞争</title>
+      <link>https://www.reuters.com/technology/space/china-launches-first-satellites-constellation-rival-starlink-newspaper-reports-2024-08-05/</link>
+      <description><![CDATA[路透社中国国有企业上海航天卫星技术有限公司（SSST）将发射首批卫星，用于一个巨型星座，旨在与 Space X 的 Starlink 互联网网络相媲美，该网络包括约 5,500 颗卫星。此次发射是 SSST “千帆星座”计划的一部分，该计划旨在部署超过 15,000 颗低地球轨道 (LEO) 卫星。摘自“中国将发射首批星座卫星以与 Starlink 竞争”
+路透社 (08/05/24) Eduardo Baptista 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/space/china-launches-first-satellites-constellation-rival-starlink-newspaper-reports-2024-08-05/</guid>
+      <pubDate>Wed, 07 Aug 2024 18:10:07 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能在美国高速公路上设定可变速度限制</title>
-      <link>https://www.newscientist.com/article/2440325-ai-put-in-charge-of-setting-variable-speed-limits-on-us-freeway/</link>
-      <description><![CDATA[新科学家人工智能正被用于控制田纳西州纳什维尔附近 27 公里（16.8 英里）路段的可变限速。范德比尔特大学的 Daniel Work 及其同事利用历史交通数据训练人工智能来监控摄像头并做出限速决定。这套新的自动化系统于 3 月推出，98% 的时间都准确无误，但偶尔会要求将限速改变到每小时 10 英里以上，这违反了联邦法律。摘自“人工智能在美国高速公路上设置可变限速”
-
-新科学家 (07/30/24) Matthew Sparkes 查看全文]]></description>
-      <guid>https://www.newscientist.com/article/2440325-ai-put-in-charge-of-setting-variable-speed-limits-on-us-freeway/</guid>
-      <pubDate>Mon, 05 Aug 2024 15:08:08 GMT</pubDate>
+      <title>腾讯云的流量控制工具将 WAN 延迟减半</title>
+      <link>https://www.theregister.com/2024/08/05/tencent_clouds_homegrown_traffictamer_halves/</link>
+      <description><![CDATA[The Register（英国）中国网络巨头腾讯表示，其云中的流量工程 (TE) 系统通过根据虚拟机 (VM) 或容器生成的单个流量的需求定制网络配置，从而超越竞争对手。MegaTE 系统依赖于已知 TE 配置的数据库和 Redis 实例来存储它们，并在虚拟机寻求有关如何引导其创建的流量的良好数据时允许持续快速交易。腾讯的缪聪聪表示，MegaTE 将 WAN 数据包延迟降低了 51%。摘自“腾讯云的流量控制器将 WAN 延迟减半”
+The Register（英国）（08/05/24）Simon Sharwood 查看全文]]></description>
+      <guid>https://www.theregister.com/2024/08/05/tencent_clouds_homegrown_traffictamer_halves/</guid>
+      <pubDate>Wed, 07 Aug 2024 18:10:06 GMT</pubDate>
     </item>
     <item>
-      <title>坦桑尼亚村庄将设立 3D 打印社区中心</title>
-      <link>https://edition.cnn.com/2024/08/01/style/hassell-hope-village-tanzania-3d-printed-building/index.html</link>
-      <description><![CDATA[CNN坦桑尼亚的一个新村庄将设立一个 3D 打印社区中心，为经历过苦难的儿童提供住所。墙壁将使用来自 25 公里内的土壤建造。3D 打印的使用实现了开放式“多孔”墙壁设计，该设计已进行了原型设计，高度可达 2 米。摘自“坦桑尼亚村庄将设立 3D 打印社区中心”
-CNN (08/01/24) Tom Page 查看全文]]></description>
-      <guid>https://edition.cnn.com/2024/08/01/style/hassell-hope-village-tanzania-3d-printed-building/index.html</guid>
-      <pubDate>Mon, 05 Aug 2024 15:08:08 GMT</pubDate>
+      <title>股市抛售期间交易平台遭遇中断</title>
+      <link>https://www.wsj.com/finance/stocks/outages-plague-trading-platforms-during-the-stock-market-selloff-9f3b2330</link>
+      <description><![CDATA[《华尔街日报》周一股市大跌期间，各大零售经纪公司都遭遇了网络中断，令惊慌失措的客户感到沮丧。嘉信理财、先锋集团和富达投资均表示，周一早上部分客户登录账户时遇到困难。到中午左右，这些经纪公司表示问题已经解决。摘自“股市大跌期间交易平台网络中断”
+《华尔街日报》（08/06/24）Hannah Miao；Alexander Osipovich 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/finance/stocks/outages-plague-trading-platforms-during-the-stock-market-selloff-9f3b2330</guid>
+      <pubDate>Wed, 07 Aug 2024 18:10:06 GMT</pubDate>
     </item>
     <item>
-      <title>法院阻止美国网络中立规则</title>
-      <link>https://www.reuters.com/legal/us-court-blocks-biden-administration-net-neutrality-rules-2024-08-01/</link>
-      <description><![CDATA[路透社上诉法院周四阻止了美国联邦通信委员会 (FCC) 恢复网络中立规则的企图，称宽带提供商很可能在法律挑战中获胜。FCC 于 4 月投票决定重新承担对宽带互联网的监管监督，并恢复 2015 年通过的开放互联网规则，这些规则在上一届政府时期被撤销。法院计划在 10 月下旬或 11 月初就此问题进行口头辩论。摘自“法院阻止美国网络中立规则”
-路透社 (08/01/24) David Shepardson 查看全文]]></description>
-      <guid>https://www.reuters.com/legal/us-court-blocks-biden-administration-net-neutrality-rules-2024-08-01/</guid>
-      <pubDate>Mon, 05 Aug 2024 15:08:07 GMT</pubDate>
+      <title>量子计算旨在实现多样性</title>
+      <link>https://www.nature.com/articles/d41586-024-02541-z</link>
+      <description><![CDATA[《自然》到 2032 年，美国量子计算领域的就业岗位预计将增长 5%，但每 54 名量子岗位申请者中只有一名是女性，80% 的量子公司没有女性担任高级领导职务。已经启动了多项旨在扩大该领域多样性的计划，包括“量子女孩”、“量子多样性”和“Qubit by Qubit”。加州 Qubit by Qubit 公司的 Kiera Peltz 表示：“量子计算肯定会对社会产生影响，我认为，这使得拥有塑造这些技术的多样化声音和经验变得更加重要。”摘自“量子计算旨在实现多样性”
+《自然》（08/05/24）Amanda Heidt 查看全文]]></description>
+      <guid>https://www.nature.com/articles/d41586-024-02541-z</guid>
+      <pubDate>Wed, 07 Aug 2024 18:10:05 GMT</pubDate>
     </item>
     <item>
-      <title>3D 打印柔性贴片模拟人体组织</title>
-      <link>https://interestingengineering.com/science/3d-print-technique-flexible-patches-repair-heart</link>
-      <description><![CDATA[有趣的工程科罗拉多大学博尔德分校和宾夕法尼亚大学的研究人员创造了一种新方法，用于 3D 打印粘合材料，以模仿人体组织的强度和柔韧性。他们的“光照后持续固化辅助氧化还原引发 (CLEAR)”方法将 3D 打印材料中的长分子交织在一起。该团队希望该技术能够产生先进的生物材料，例如注入药物的心脏绷带、软骨补片和无针缝合线。摘自“3D 打印的柔性补片模仿人体组织”
-有趣的工程 (08/02/24) Mrigakshi Dixit 查看全文]]></description>
-      <guid>https://interestingengineering.com/science/3d-print-technique-flexible-patches-repair-heart</guid>
-      <pubDate>Mon, 05 Aug 2024 15:08:07 GMT</pubDate>
+      <title>华盛顿州数据中心税收减免滚雪球般变成企业赠品</title>
+      <link>https://www.propublica.org/article/washington-data-centers-tech-jobs-tax-break</link>
+      <description><![CDATA[ProPublica2010 年，华盛顿州立法机构批准了在该州建立数据中心的税收减免，并承诺这些减免将转化为新的就业机会。西雅图时报和ProPublica的一项调查发现，曾经被宣传为针对陷入困境的农村地区新兴产业的计划，如今却成为了华盛顿最大的企业税收减免之一，尽管根据该州的纳税人保密法，实际创造的就业岗位数量数据一直处于保密状态。摘自“华盛顿数据中心税收减免滚雪球般演变为企业减免”
+ProPublica (08/04/24) Sydney Brownstone；Lulu Ramadan 查看全文]]></description>
+      <guid>https://www.propublica.org/article/washington-data-centers-tech-jobs-tax-break</guid>
+      <pubDate>Wed, 07 Aug 2024 18:10:05 GMT</pubDate>
     </item>
     <item>
-      <title>旧金山将禁用租金设定软件</title>
-      <link>https://www.bloomberg.com/news/articles/2024-07-31/san-francisco-to-ban-software-amid-worry-on-gouging-in-rents?sref=db2f3qgr</link>
-      <description><![CDATA[彭博社旧金山即将成为美国首个禁止使用算法软件推荐租金的城市。旧金山监事会主席 Aaron Peskin 表示，此类工具可让大型企业房东操纵价格。监事会一致投票禁止该市使用这些产品。佩斯金表示，他之所以推出这项法令，是因为他观察到，尽管人们搬离了城市，市中心的写字楼空置率也上升了，但住宅租金在疫情期间和疫情过后却一直在上涨。摘自《旧金山将禁止使用租金设定软件》
-彭博社 (07/31/24) Rya Jetha 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-07-31/san-francisco-to-ban-software-amid-worry-on-gouging-in-rents?sref=db2f3qgr</guid>
-      <pubDate>Mon, 05 Aug 2024 15:08:06 GMT</pubDate>
+      <title>马来西亚设立芯片设计中心以促进半导体产业发展</title>
+      <link>https://www.bloomberg.com/news/articles/2024-08-06/malaysia-sets-up-chip-design-hub-to-boost-semiconductor-industry?sref=db2f3qgr</link>
+      <description><![CDATA[彭博社马来西亚在雪兰莪州设立芯片设计中心，以支持其半导体产业并可能吸引外国投资。该国正在寻求提高其芯片设计能力。马来西亚今年早些时候承诺至少投入 250 亿林吉特（56 亿美元）支持其半导体产业，该产业的目标是到 2030 年将出口额翻一番至 1.2 万亿林吉特（2700 亿美元），成为世界第六大芯片出口国。摘自“马来西亚设立芯片设计中心以促进半导体产业发展”
+彭博社 (08/06/24) Kok Leong Chan; Netty Idayu Ismail 查看全文]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-08-06/malaysia-sets-up-chip-design-hub-to-boost-semiconductor-industry?sref=db2f3qgr</guid>
+      <pubDate>Wed, 07 Aug 2024 18:10:04 GMT</pubDate>
     </item>
     <item>
-      <title>美国司法部起诉 TikTok，指控其违反儿童隐私法</title>
-      <link>https://www.washingtonpost.com/technology/2024/08/02/doj-tiktok-child-privacy-lawsuit/</link>
-      <description><![CDATA[《华盛顿邮报》美国司法部 (DOJ) 周五起诉 TikTok 及其中国所有者字节跳动，指控他们收集了数百万 13 岁以下美国人的数据，违反了儿童隐私法。据美国司法部称，TikTok 让儿童可以轻易创建账户，然后收集那些创建账户的人的数据，构成了对《儿童在线隐私保护法》的“大规模”违反。摘自“美国司法部起诉 TikTok，指控其违反了儿童隐私法”
-《华盛顿邮报》（08/02/24）Drew Harwell 查看全文]]></description>
-      <guid>https://www.washingtonpost.com/technology/2024/08/02/doj-tiktok-child-privacy-lawsuit/</guid>
-      <pubDate>Mon, 05 Aug 2024 15:08:06 GMT</pubDate>
+      <title>CMD-IT 授予密歇根大学 Chad Jenkins 2024 年 Tapia 成就奖</title>
+      <link>https://www.hpcwire.com/off-the-wire/cmd-it-awards-2024-tapia-achievement-to-university-of-michigans-chad-jenkins/</link>
+      <description><![CDATA[HPCwire密歇根大学 (UofM) 机器人学教授 Chad Jenkins 被提名为 2024 年理查德·A·塔皮亚成就奖获得者，该奖项由 IT 领域少数民族和残疾人中心 (CMD-IT) 颁发，旨在表彰其在科学奖学金、公民科学和多样化计算方面做出的贡献。Jenkins 的工作重点是让机器人能够协助人类。詹金斯说：“我非常幸运能够站在塔皮亚社区巨人的肩膀上。”摘自“CMD-IT 2024 年度塔皮亚成就奖颁给密歇根大学的查德·詹金斯”
+HPCwire (08/05/24) 查看全文]]></description>
+      <guid>https://www.hpcwire.com/off-the-wire/cmd-it-awards-2024-tapia-achievement-to-university-of-michigans-chad-jenkins/</guid>
+      <pubDate>Wed, 07 Aug 2024 18:10:04 GMT</pubDate>
     </item>
     <item>
-      <title>X射线升级可3D查看晶体管</title>
-      <link>https://spectrum.ieee.org/semiconductor-inspection</link>
-      <description><![CDATA[IEEE Spectrum瑞士和美国研究人员开发的一种新型 X 射线成像技术可以提供芯片内部工作原理的清晰 3D 图像。该方法的分辨率为 4 纳米，提供的图像足够清晰，可以绘制芯片的布线路径并显示微小的晶体管特征，而不会破坏芯片。该技术的工作原理是使用相干的高能 X 射线束从不同角度反复照射样品。摘自“X 射线升级可以 3D 视图晶体管”
-IEEE Spectrum (07/31/24) Katherine Bourzac 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/semiconductor-inspection</guid>
-      <pubDate>Mon, 05 Aug 2024 15:08:05 GMT</pubDate>
+      <title>Python 在 Tiobe 指数中取得最高评级</title>
+      <link>https://www.infoworld.com/article/3481502/python-scores-its-highest-rating-in-tiobe-index.html</link>
+      <description><![CDATA[InfoWorld在 Tiobe 2024 年 8 月编程语言流行度指数中，Python 获得了有史以来的最高评分 (18.04%)，成为自 2016 年 11 月 Java 以来第一个达到 18% 的语言。Python 领先排名第二的 C++ 8 个百分点，后者的评分为 10.04%。同样在 8 月份的指数中，Rust 语言从上个月创下的第 13 位跌至第 14 位。摘自“Python 在 Tiobe 指数中获得最高评价”
+InfoWorld (08/05/24) Paul Krill 查看全文]]></description>
+      <guid>https://www.infoworld.com/article/3481502/python-scores-its-highest-rating-in-tiobe-index.html</guid>
+      <pubDate>Wed, 07 Aug 2024 18:10:03 GMT</pubDate>
     </item>
     <item>
-      <title>英特尔将解雇 15,000 名员工</title>
-      <link>https://www.washingtonpost.com/technology/2024/08/01/intel-layoffs-chips/</link>
-      <description><![CDATA[华盛顿邮报芯片制造商英特尔周四表示，计划裁员 15,000 人，占其员工总数的 15％ 以上。英特尔已成为“美国芯片”计划的大赢家，拜登政府今年宣布向该公司提供 85 亿美元的赠款和 110 亿美元的贷款，以帮助将部分芯片制造业务带回美国。英特尔尚未收到这些资金。摘自“英特尔将解雇 15,000 名员工”
-华盛顿邮报 (08/01/24) Eva Dou 查看全文]]></description>
-      <guid>https://www.washingtonpost.com/technology/2024/08/01/intel-layoffs-chips/</guid>
-      <pubDate>Mon, 05 Aug 2024 15:08:04 GMT</pubDate>
+      <title>法国博物馆网络遭受勒索软件攻击</title>
+      <link>https://apnews.com/article/paris-2024-ransomware-museums-olympic-competitions-12a1facc4a245e2e58f229cfc041beac</link>
+      <description><![CDATA[美联社法国国家博物馆联盟网络中数十家博物馆的中央数据系统遭到勒索软件攻击。虽然网络中的场馆正在举办夏季奥运会的比赛，但官员表示，到目前为止，没有任何赛事受到干扰。周日发现的这次攻击袭击了全国约 40 家博物馆使用的数据系统。摘自“法国博物馆网络遭受勒索软件攻击”
+美联社 (08/06/24) 查看全文]]></description>
+      <guid>https://apnews.com/article/paris-2024-ransomware-museums-olympic-competitions-12a1facc4a245e2e58f229cfc041beac</guid>
+      <pubDate>Wed, 07 Aug 2024 18:10:03 GMT</pubDate>
     </item>
     <item>
-      <title>应用程序可检测假冒婴儿配方奶粉</title>
-      <link>http://koreabizwire.com/smartphone-app-detects-fake-baby-formula-offering-hope-against-counterfeits/288457</link>
-      <description><![CDATA[韩国商业新闻韩国和新加坡的研究人员开发了一种基于智能手机的系统，可以检测假冒婴儿配方奶粉。PowDew 系统允许用户使用智能手机的摄像头拍摄婴儿配方奶粉的图像；然后，该应用程序观察粉末表面水滴的运动以验证其真实性。在涉及六个婴儿配方奶粉品牌的测试中，该系统在识别假冒产品方面的准确率高达 96.1%。摘自“应用程序检测假冒婴儿配方奶粉”
-韩国商业新闻 (08/03/24) Ashley Song 查看全文]]></description>
-      <guid>http://koreabizwire.com/smartphone-app-detects-fake-baby-formula-offering-hope-against-counterfeits/288457</guid>
-      <pubDate>Mon, 05 Aug 2024 15:08:04 GMT</pubDate>
+      <title>大型机在人工智能时代焕发新生</title>
+      <link>https://www.wsj.com/articles/mainframes-find-new-life-in-ai-era-1e32b951</link>
+      <description><![CDATA[《华尔街日报》大型计算机正通过人工智能时代的新应用证明其韧性。银行、保险提供商、航空公司和其他仍然依赖大型计算机进行高速数据处理的行业现在正寻求在硬件源头而不是云端将人工智能应用于其交易数据。 IBM 的 Ross Mauri 表示，“每个人都意识到，将 AI 带到数据所在的地方比将数据带到 AI 那里更好。”摘自“大型机在 AI 时代找到新生命”
+华尔街日报 (08/06/24) Belle Lin 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/articles/mainframes-find-new-life-in-ai-era-1e32b951</guid>
+      <pubDate>Wed, 07 Aug 2024 18:10:02 GMT</pubDate>
     </item>
     <item>
-      <title>虚假信息引发骚乱 英国首相向社交媒体公司发出警告</title>
-      <link>https://www.reuters.com/world/uk/pm-starmer-warns-social-media-firms-after-southport-misinformation-fuels-uk-2024-08-01/</link>
-      <description><![CDATA[路透社英国首相凯尔·斯塔默警告社交媒体公司，他们必须遵守禁止在网上煽动暴力的法律，此前本周早些时候有关致命大规模刺伤事件的错误信息引发了暴力骚乱。斯塔默说：“我还要对大型社交媒体公司及其经营者说，显然在网上煽动暴力骚乱：这也是一种犯罪行为。”他补充说，在处理此类平台时需要“取得平衡”。摘自“英国首相警告社交媒体公司，错误信息引发骚乱”
-路透社 (08/02/24) Alistair Smout；Nick Vant 查看全文]]></description>
-      <guid>https://www.reuters.com/world/uk/pm-starmer-warns-social-media-firms-after-southport-misinformation-fuels-uk-2024-08-01/</guid>
-      <pubDate>Mon, 05 Aug 2024 15:08:03 GMT</pubDate>
+      <title>2024 年如何成为 Zoom 选举</title>
+      <link>https://www.nytimes.com/2024/08/05/technology/how-2024-became-the-zoom-election.html</link>
+      <description><![CDATA[《纽约时报》通过 Zoom 举行的集会为美国总统候选人卡马拉·哈里斯筹集了数百万美元。在拜登总统宣布退出竞选后举行的首场大型支持哈里斯 Zoom 活动中，一个名为“与黑人女性一起获胜”的组织在其每周 Zoom 会议上接待了约 44,000 名与会者，并为竞选活动筹集了超过 150 万美元。这激发了其他支持哈里斯的团体组织类似的活动，其中一些活动已经超出了 Zoom 的技术极限。摘自“2024 年如何成为 Zoom 大选”
+纽约时报 (08/05/24) Kevin Roose 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/08/05/technology/how-2024-became-the-zoom-election.html</guid>
+      <pubDate>Wed, 07 Aug 2024 18:10:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>法官裁定谷歌非法垄断搜索业务</title>
+      <link>https://www.cnn.com/2024/08/05/business/google-loses-antitrust-lawsuit-doj/index.html</link>
+      <description><![CDATA[CNN周一，美国地区法官裁定，谷歌的搜索业务违反了联邦反垄断法。美国政府指控，该公司花费数百亿美元签订合同，以确保其作为智能手机和网络浏览器上全球默认搜索提供商的主导地位，从而拥有阻止潜在竞争对手的规模。摘自“法官裁定谷歌在搜索领域存在非法垄断”
+CNN (08/06/24) Brian Fung；Clare Duffy 查看全文]]></description>
+      <guid>https://www.cnn.com/2024/08/05/business/google-loses-antitrust-lawsuit-doj/index.html</guid>
+      <pubDate>Wed, 07 Aug 2024 18:10:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
