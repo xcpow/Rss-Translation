@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Wed, 07 Aug 2024 09:09:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 12:16:09 GMT</lastBuildDate>
+    <item>
+      <title>CrowdStrike 可能面临大量诉讼。专家称，只有细则才能挽救它</title>
+      <link>https://www.wired.com/story/crowdstrike-outage-microsoft-delta-lawsuits-analysis/</link>
+      <description><![CDATA[在导致全球数百万台计算机崩溃、企业陷入混乱之后，网络安全公司 CrowdStrike 必须保护自己免受已经开始的一系列法律行动的打击。细节决定成败。]]></description>
+      <guid>https://www.wired.com/story/crowdstrike-outage-microsoft-delta-lawsuits-analysis/</guid>
+      <pubDate>Wed, 07 Aug 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>美国法官裁定谷歌为非法垄断者。接下来可能会发生什么</title>
       <link>https://www.wired.com/story/google-search-monopoly-judge-amit-mehta-options/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[监管机构发现，亚马逊应对其第三方供应商销售的有缺陷的产品负责，其中包括易燃睡衣、有故障的一氧化碳探测器以及可能触电的吹风机。]]></description>
       <guid>https://www.wired.com/story/amazon-third-party-defective-recall-legally-responsible/</guid>
       <pubDate>Wed, 31 Jul 2024 21:29:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌严厉打击明显的 Deepfakes</title>
-      <link>https://www.wired.com/story/google-tries-to-crack-down-on-explicit-deepfakes/</link>
-      <description><![CDATA[该搜索巨头最近宣布的措施旨在使人工智能生成或其他方式欺骗的露骨内容更难被发现。]]></description>
-      <guid>https://www.wired.com/story/google-tries-to-crack-down-on-explicit-deepfakes/</guid>
-      <pubDate>Wed, 31 Jul 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
