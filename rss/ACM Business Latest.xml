@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 08 Aug 2024 18:12:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 21:07:45 GMT</lastBuildDate>
+    <item>
+      <title>Beyond Meat 在美国停滞不前。欧洲或将迎来另一个故事</title>
+      <link>https://www.wired.com/story/beyond-plant-based-meat-sales-trends-us-europe/</link>
+      <description><![CDATA[这家曾经被大肆宣传的公司如今成为植物肉行业整体下滑的最突出受害者。]]></description>
+      <guid>https://www.wired.com/story/beyond-plant-based-meat-sales-trends-us-europe/</guid>
+      <pubDate>Thu, 08 Aug 2024 19:18:29 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI 警告用户可能会对其语音模式产生情感依赖</title>
       <link>https://www.wired.com/story/openai-voice-mode-emotional-attachment/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>美国法官裁定谷歌为非法垄断者。接下来可能会发生什么</title>
       <link>https://www.wired.com/story/google-search-monopoly-judge-amit-mehta-options/</link>
-      <description><![CDATA[法官阿米特·梅塔的裁决引发了一场可能长达数年的程序，以决定如何惩罚该公司。对于用户来说，这可能意味着未来谷歌不再是无处不在的焦点。]]></description>
+      <description><![CDATA[法官阿米特·梅塔的裁决可能引发一场长达数年的程序来决定如何惩罚该公司。对于用户来说，这可能意味着未来谷歌不再是无处不在的焦点。]]></description>
       <guid>https://www.wired.com/story/google-search-monopoly-judge-amit-mehta-options/</guid>
       <pubDate>Tue, 06 Aug 2024 22:02:01 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[研究人员已经开发出一种防篡改开源大型语言模型的方法，以防止它们被哄骗去解释如何制造炸弹。]]></description>
       <guid>https://www.wired.com/story/center-for-ai-safety-open-source-llm-safeguards/</guid>
       <pubDate>Fri, 02 Aug 2024 15:49:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普拥抱加密货币可能会给比特币带来一场灾难</title>
-      <link>https://www.wired.com/story/donald-trump-bitcoin-reserve-promises/</link>
-      <description><![CDATA[在纳什维尔举行的比特币 2024 大会上，唐纳德·特朗普向加密货币社区许下了天价承诺。他们最好祈祷自己不会实现这个承诺。]]></description>
-      <guid>https://www.wired.com/story/donald-trump-bitcoin-reserve-promises/</guid>
-      <pubDate>Fri, 02 Aug 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
