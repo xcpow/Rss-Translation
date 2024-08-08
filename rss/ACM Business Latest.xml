@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 08 Aug 2024 03:09:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 06:12:08 GMT</lastBuildDate>
+    <item>
+      <title>帕尔默·卢基的国防初创公司 Anduril 融资 15 亿美元，用于生产人工智能武器</title>
+      <link>https://www.wired.com/story/anduril-palmer-luckey-funding-ai-drones-arsenal-factory/</link>
+      <description><![CDATA[该公司计划建造一座特斯拉风格、软件优化的工厂，用于生产自动无人机和其他战场技术。]]></description>
+      <guid>https://www.wired.com/story/anduril-palmer-luckey-funding-ai-drones-arsenal-factory/</guid>
+      <pubDate>Thu, 08 Aug 2024 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Telegram 争夺控制权，X 助长英国极右翼骚乱</title>
       <link>https://www.wired.com/story/telegram-is-blocking-the-far-right-from-boosting-the-uk-riots-x-is-emboldening-them/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[该芯片制造商已经落后于竞争对手，正在裁员 15%。]]></description>
       <guid>https://www.wired.com/story/intel-job-cuts/</guid>
       <pubDate>Thu, 01 Aug 2024 21:26:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>为了引领人工智能，美国需要一场硅革命</title>
-      <link>https://www.wired.com/story/laurie-locascio-interview-ai-silicon-revolution/</link>
-      <description><![CDATA[美国商务部副部长劳里·洛卡西奥表示，美国需要发明新的芯片制造技术。]]></description>
-      <guid>https://www.wired.com/story/laurie-locascio-interview-ai-silicon-revolution/</guid>
-      <pubDate>Thu, 01 Aug 2024 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
