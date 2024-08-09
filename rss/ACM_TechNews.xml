@@ -4,110 +4,102 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Wed, 07 Aug 2024 18:10:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 15:09:02 GMT</lastBuildDate>
     <item>
-      <title>伊利诺伊州选民数据被不安全的数据库泄露</title>
-      <link>https://www.wired.com/story/illinois-voter-databases-exposed/</link>
-      <description><![CDATA[Wired互联网上公开了十多个包含伊利诺伊州多个县敏感选民信息的数据库，披露了 460 万条记录，其中包括驾照号码和其他个人身份信息。安全研究员 Jeremiah Fowler 发现了总共 13 个暴露的数据库，这些数据库都没有密码保护，也不需要任何类型的身份验证即可访问。摘自“不安全的数据库暴露了伊利诺伊州选民数据”
-Wired (08/02/24) Lily Hay Newman 查看全文]]></description>
-      <guid>https://www.wired.com/story/illinois-voter-databases-exposed/</guid>
-      <pubDate>Wed, 07 Aug 2024 18:10:07 GMT</pubDate>
+      <title>研究人员发现 AWS 漏洞、“影子资源”载体</title>
+      <link>https://www.techtarget.com/searchsecurity/news/366602412/Researchers-unveil-AWS-vulnerabilities-shadow-resource-vector</link>
+      <description><![CDATA[TechTarget在 Black Hat USA 2024 会议上，Aqua Security 研究人员详细介绍了 AWS 服务中的六个关键漏洞（这些漏洞现已得到修补）以及一种新的“影子资源”攻击媒介。当客户首次在新区域使用 AWS 管理控制台创建 CloudFormation 服务时，会自动创建 AWS S3 存储桶（影子资源）。研究人员发现了存储桶命名过程中的弱点，这些弱点可能允许攻击者在创建存储桶之前猜出潜在存储桶的名称。摘自“研究人员发现 AWS 漏洞、‘影子资源’媒介”
+TechTarget (08/07/24) Rob Wright 查看全文]]></description>
+      <guid>https://www.techtarget.com/searchsecurity/news/366602412/Researchers-unveil-AWS-vulnerabilities-shadow-resource-vector</guid>
+      <pubDate>Fri, 09 Aug 2024 15:09:02 GMT</pubDate>
     </item>
     <item>
-      <title>中国将发射首批星座卫星，与星链卫星竞争</title>
-      <link>https://www.reuters.com/technology/space/china-launches-first-satellites-constellation-rival-starlink-newspaper-reports-2024-08-05/</link>
-      <description><![CDATA[路透社中国国有企业上海航天卫星技术有限公司（SSST）将发射首批卫星，用于一个巨型星座，旨在与 Space X 的 Starlink 互联网网络相媲美，该网络包括约 5,500 颗卫星。此次发射是 SSST “千帆星座”计划的一部分，该计划旨在部署超过 15,000 颗低地球轨道 (LEO) 卫星。摘自“中国将发射首批星座卫星以与 Starlink 竞争”
-路透社 (08/05/24) Eduardo Baptista 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/space/china-launches-first-satellites-constellation-rival-starlink-newspaper-reports-2024-08-05/</guid>
-      <pubDate>Wed, 07 Aug 2024 18:10:07 GMT</pubDate>
+      <title>无人机警告纽约人风暴危险</title>
+      <link>https://apnews.com/article/new-york-drones-weather-01ab1c02ea79c7131abe9978380671c1</link>
+      <description><![CDATA[美联社纽约市应急管理机构周二部署了五个小组，每个小组都配备多架无人机，向洪水易发社区的居民发出暴雨即将来临的警告。无人机配备了扬声器，以多种语言提醒地下室公寓的居民在发生洪水时撤离。无人机与社交媒体、短信警报和紧急信息系统一起使用，该系统可覆盖数千个为老年人和残疾人等提供服务的城市组织。摘自“无人机警告纽约人暴风雨危险”
+美联社 (08/07/24) 查看全文]]></description>
+      <guid>https://apnews.com/article/new-york-drones-weather-01ab1c02ea79c7131abe9978380671c1</guid>
+      <pubDate>Fri, 09 Aug 2024 15:09:02 GMT</pubDate>
     </item>
     <item>
-      <title>腾讯云的流量控制工具将 WAN 延迟减半</title>
-      <link>https://www.theregister.com/2024/08/05/tencent_clouds_homegrown_traffictamer_halves/</link>
-      <description><![CDATA[The Register（英国）中国网络巨头腾讯表示，其云中的流量工程 (TE) 系统通过根据虚拟机 (VM) 或容器生成的单个流量的需求定制网络配置，从而超越竞争对手。MegaTE 系统依赖于已知 TE 配置的数据库和 Redis 实例来存储它们，并在虚拟机寻求有关如何引导其创建的流量的良好数据时允许持续快速交易。腾讯的缪聪聪表示，MegaTE 将 WAN 数据包延迟降低了 51%。摘自“腾讯云的流量控制器将 WAN 延迟减半”
-The Register（英国）（08/05/24）Simon Sharwood 查看全文]]></description>
-      <guid>https://www.theregister.com/2024/08/05/tencent_clouds_homegrown_traffictamer_halves/</guid>
-      <pubDate>Wed, 07 Aug 2024 18:10:06 GMT</pubDate>
+      <title>GPU 集群研究荣获 SC24 时间考验奖</title>
+      <link>https://sc24.supercomputing.org/2024/08/pioneering-gpu-cluster-research-earns-sc24-test-of-time-award/</link>
+      <description><![CDATA[SC24由石溪大学 Arie Kaufman 领导的研究为当今 GPU 驱动的超级计算领域奠定了基础，并获得了今年的 SC 时间考验奖。研究人员的方法受到 GPU 提供的每美元 FLOP 改进的启发，与传统 CPU 硬件相比。为了利用这一点，该团队创建了一个由 30 个 GPU 节点组成的集群，以模拟纽约市时代广场的空气污染物扩散，其速度比当时的 CPU 集群实现快 4.6 倍。摘自“GPU 集群研究获得 SC24 时间考验奖”
+SC24 (08/08/24) Waleed Atallah 查看全文]]></description>
+      <guid>https://sc24.supercomputing.org/2024/08/pioneering-gpu-cluster-research-earns-sc24-test-of-time-award/</guid>
+      <pubDate>Fri, 09 Aug 2024 15:09:01 GMT</pubDate>
     </item>
     <item>
-      <title>股市抛售期间交易平台遭遇中断</title>
-      <link>https://www.wsj.com/finance/stocks/outages-plague-trading-platforms-during-the-stock-market-selloff-9f3b2330</link>
-      <description><![CDATA[《华尔街日报》周一股市大跌期间，各大零售经纪公司都遭遇了网络中断，令惊慌失措的客户感到沮丧。嘉信理财、先锋集团和富达投资均表示，周一早上部分客户登录账户时遇到困难。到中午左右，这些经纪公司表示问题已经解决。摘自“股市大跌期间交易平台网络中断”
-《华尔街日报》（08/06/24）Hannah Miao；Alexander Osipovich 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/finance/stocks/outages-plague-trading-platforms-during-the-stock-market-selloff-9f3b2330</guid>
-      <pubDate>Wed, 07 Aug 2024 18:10:06 GMT</pubDate>
+      <title>争当首个无证件机场</title>
+      <link>https://edition.cnn.com/travel/abu-dhabi-smart-travel-project/index.html</link>
+      <description><![CDATA[CNN阿布扎比的扎耶德国际机场可能在 2025 年成为世界上第一个无证件机场。作为智能旅行项目的一部分，机场正在每个身份检查站安装生物识别传感器。联邦身份、公民、海关和港口安全局收集任何进入阿拉伯联合酋长国移民局的人员的生物识别信息，机场系统会访问该数据库以在每个检查站验证乘客身份。摘自“争夺第一个无证件机场”
+CNN (08/07/24) Ana DeOliva 查看全文]]></description>
+      <guid>https://edition.cnn.com/travel/abu-dhabi-smart-travel-project/index.html</guid>
+      <pubDate>Fri, 09 Aug 2024 15:09:01 GMT</pubDate>
     </item>
     <item>
-      <title>量子计算旨在实现多样性</title>
-      <link>https://www.nature.com/articles/d41586-024-02541-z</link>
-      <description><![CDATA[《自然》到 2032 年，美国量子计算领域的就业岗位预计将增长 5%，但每 54 名量子岗位申请者中只有一名是女性，80% 的量子公司没有女性担任高级领导职务。已经启动了多项旨在扩大该领域多样性的计划，包括“量子女孩”、“量子多样性”和“Qubit by Qubit”。加州 Qubit by Qubit 公司的 Kiera Peltz 表示：“量子计算肯定会对社会产生影响，我认为，这使得拥有塑造这些技术的多样化声音和经验变得更加重要。”摘自“量子计算旨在实现多样性”
-《自然》（08/05/24）Amanda Heidt 查看全文]]></description>
-      <guid>https://www.nature.com/articles/d41586-024-02541-z</guid>
-      <pubDate>Wed, 07 Aug 2024 18:10:05 GMT</pubDate>
+      <title>智能手机漏洞可泄露楼层平面图</title>
+      <link>https://www.newscientist.com/article/2442011-smartphone-flaw-allows-hackers-and-governments-to-map-your-home/</link>
+      <description><![CDATA[新科学家智能手机中发现的一个安全漏洞可用于创建用户所在房间的地图并确定他们在做什么。印度理工学院德里分校的研究人员发现的这一漏洞利用了 GPS 信号中的数据。研究人员创建了一个名为 AndroCon 的基于人工智能的系统，该系统可以解释五种 Android 智能手机的数据提供的指标。摘自“智能手机漏洞揭示楼层平面图”
+新科学家 (08/08/24) Matthew Sparkes 查看全文]]></description>
+      <guid>https://www.newscientist.com/article/2442011-smartphone-flaw-allows-hackers-and-governments-to-map-your-home/</guid>
+      <pubDate>Fri, 09 Aug 2024 15:09:00 GMT</pubDate>
     </item>
     <item>
-      <title>华盛顿州数据中心税收减免滚雪球般变成企业赠品</title>
-      <link>https://www.propublica.org/article/washington-data-centers-tech-jobs-tax-break</link>
-      <description><![CDATA[ProPublica2010 年，华盛顿州立法机构批准了在该州建立数据中心的税收减免，并承诺这些减免将转化为新的就业机会。西雅图时报和ProPublica的一项调查发现，曾经被宣传为针对陷入困境的农村地区新兴产业的计划，如今却成为了华盛顿最大的企业税收减免之一，尽管根据该州的纳税人保密法，实际创造的就业岗位数量数据一直处于保密状态。摘自“华盛顿数据中心税收减免滚雪球般演变为企业减免”
-ProPublica (08/04/24) Sydney Brownstone；Lulu Ramadan 查看全文]]></description>
-      <guid>https://www.propublica.org/article/washington-data-centers-tech-jobs-tax-break</guid>
-      <pubDate>Wed, 07 Aug 2024 18:10:05 GMT</pubDate>
+      <title>阿里巴巴 T-Head C910 RISC-V CPU 中的错误指令破坏了所有安全性</title>
+      <link>https://www.theregister.com/2024/08/07/riscv_business_thead_c910_vulnerable/</link>
+      <description><![CDATA[The Register（英国）德国 CISPA 亥姆霍兹信息安全中心的研究人员发现，阿里巴巴子公司 T-Head Semiconductor 的 RISC-V 处理器中存在一个严重漏洞，该漏洞可能允许攻击者完全控制设备。 GhostWrite 漏洞影响 TH1520 SoC 中的四个 T-Head C910 CPU 内核，可使攻击者能够读取和写入物理内存，并以内核和机器模式权限执行任意代码。摘自“阿里巴巴 T-Head C910 RISC-V CPU 中的错误指令破坏了所有安全性”
+The Register (英国) (08/07/24) Thomas Claburn 查看全文]]></description>
+      <guid>https://www.theregister.com/2024/08/07/riscv_business_thead_c910_vulnerable/</guid>
+      <pubDate>Fri, 09 Aug 2024 15:09:00 GMT</pubDate>
     </item>
     <item>
-      <title>马来西亚设立芯片设计中心以促进半导体产业发展</title>
-      <link>https://www.bloomberg.com/news/articles/2024-08-06/malaysia-sets-up-chip-design-hub-to-boost-semiconductor-industry?sref=db2f3qgr</link>
-      <description><![CDATA[彭博社马来西亚在雪兰莪州设立芯片设计中心，以支持其半导体产业并可能吸引外国投资。该国正在寻求提高其芯片设计能力。马来西亚今年早些时候承诺至少投入 250 亿林吉特（56 亿美元）支持其半导体产业，该产业的目标是到 2030 年将出口额翻一番至 1.2 万亿林吉特（2700 亿美元），成为世界第六大芯片出口国。摘自“马来西亚设立芯片设计中心以促进半导体产业发展”
-彭博社 (08/06/24) Kok Leong Chan; Netty Idayu Ismail 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-08-06/malaysia-sets-up-chip-design-hub-to-boost-semiconductor-industry?sref=db2f3qgr</guid>
-      <pubDate>Wed, 07 Aug 2024 18:10:04 GMT</pubDate>
+      <title>俄罗斯各地报告 YouTube 大面积中断</title>
+      <link>https://www.themoscowtimes.com/2024/08/08/widespread-youtube-outages-reported-across-russia-a85969</link>
+      <description><![CDATA[《莫斯科时报》（俄罗斯）周四，俄罗斯各地用户报告 YouTube 出现大面积中断，几周前，俄罗斯当局曾批评该视频流媒体平台采取所谓的反政府行动。自俄罗斯入侵乌克兰以来，有关 YouTube 可能在俄罗斯被封锁的猜测不断增加，当时俄罗斯当局指责谷歌旗下的平台传播“恐怖主义”反战内容。上周，在当局要求谷歌恢复约 200 个亲政府频道后，俄罗斯用户开始注意到 YouTube 的下载速度变慢。摘自“俄罗斯各地报告 YouTube 大面积中断”
+莫斯科时报（俄罗斯）（08/08/24） 查看全文]]></description>
+      <guid>https://www.themoscowtimes.com/2024/08/08/widespread-youtube-outages-reported-across-russia-a85969</guid>
+      <pubDate>Fri, 09 Aug 2024 15:08:59 GMT</pubDate>
     </item>
     <item>
-      <title>CMD-IT 授予密歇根大学 Chad Jenkins 2024 年 Tapia 成就奖</title>
-      <link>https://www.hpcwire.com/off-the-wire/cmd-it-awards-2024-tapia-achievement-to-university-of-michigans-chad-jenkins/</link>
-      <description><![CDATA[HPCwire密歇根大学 (UofM) 机器人学教授 Chad Jenkins 被提名为 2024 年理查德·A·塔皮亚成就奖获得者，该奖项由 IT 领域少数民族和残疾人中心 (CMD-IT) 颁发，旨在表彰其在科学奖学金、公民科学和多样化计算方面做出的贡献。Jenkins 的工作重点是让机器人能够协助人类。詹金斯说：“我非常幸运能够站在塔皮亚社区巨人的肩膀上。”摘自“CMD-IT 2024 年度塔皮亚成就奖颁给密歇根大学的查德·詹金斯”
-HPCwire (08/05/24) 查看全文]]></description>
-      <guid>https://www.hpcwire.com/off-the-wire/cmd-it-awards-2024-tapia-achievement-to-university-of-michigans-chad-jenkins/</guid>
-      <pubDate>Wed, 07 Aug 2024 18:10:04 GMT</pubDate>
+      <title>全球最大的 3D 打印社区即将竣工</title>
+      <link>https://www.reuters.com/world/us/worlds-largest-3d-printed-neighborhood-nears-completion-texas-2024-08-08/</link>
+      <description><![CDATA[路透社ICON 的机器人打印机正在完成德克萨斯州乔治敦社区 100 栋 3D 打印房屋中的最后几栋，一旦完成，该社区将成为世界上最大的 3D 打印社区。这些单层三到四间卧室的房屋大约需要三周时间才能完成打印，地基和金属屋顶按传统方式安装。它们的价格从 450,000 美元左右到近 600,000 美元不等。摘自“世界上最大的 3D 打印社区即将完工”
+路透社 (08/08/24) Evan Garcia 查看全文]]></description>
+      <guid>https://www.reuters.com/world/us/worlds-largest-3d-printed-neighborhood-nears-completion-texas-2024-08-08/</guid>
+      <pubDate>Fri, 09 Aug 2024 15:08:59 GMT</pubDate>
     </item>
     <item>
-      <title>Python 在 Tiobe 指数中取得最高评级</title>
-      <link>https://www.infoworld.com/article/3481502/python-scores-its-highest-rating-in-tiobe-index.html</link>
-      <description><![CDATA[InfoWorld在 Tiobe 2024 年 8 月编程语言流行度指数中，Python 获得了有史以来的最高评分 (18.04%)，成为自 2016 年 11 月 Java 以来第一个达到 18% 的语言。Python 领先排名第二的 C++ 8 个百分点，后者的评分为 10.04%。同样在 8 月份的指数中，Rust 语言从上个月创下的第 13 位跌至第 14 位。摘自“Python 在 Tiobe 指数中获得最高评价”
-InfoWorld (08/05/24) Paul Krill 查看全文]]></description>
-      <guid>https://www.infoworld.com/article/3481502/python-scores-its-highest-rating-in-tiobe-index.html</guid>
-      <pubDate>Wed, 07 Aug 2024 18:10:03 GMT</pubDate>
+      <title>专家支持加州人工智能安全法案</title>
+      <link>https://time.com/7008947/california-ai-bill-letter/</link>
+      <description><![CDATA[《时代》杂志在致加州立法领导人的一封信中，ACM A. M. 图灵奖获得者 Yoshua Bengio 和 Geoffrey Hinton 以及著名教授 Lawrence Lessig 和 Stuart Russell 表示支持一项法案，该法案要求人工智能公司训练大型模型，进行严格的安全测试，以识别潜在的危险能力，并制定全面的安全措施来降低风险。信中说，该法案相当于“有效监管这项技术的最低限度”。摘自“专家支持加州的人工智能安全法案”
+《时代》杂志 (08/07/24) Tharin Pillay；Harry Booth 查看全文]]></description>
+      <guid>https://time.com/7008947/california-ai-bill-letter/</guid>
+      <pubDate>Fri, 09 Aug 2024 15:08:58 GMT</pubDate>
     </item>
     <item>
-      <title>法国博物馆网络遭受勒索软件攻击</title>
-      <link>https://apnews.com/article/paris-2024-ransomware-museums-olympic-competitions-12a1facc4a245e2e58f229cfc041beac</link>
-      <description><![CDATA[美联社法国国家博物馆联盟网络中数十家博物馆的中央数据系统遭到勒索软件攻击。虽然网络中的场馆正在举办夏季奥运会的比赛，但官员表示，到目前为止，没有任何赛事受到干扰。周日发现的这次攻击袭击了全国约 40 家博物馆使用的数据系统。摘自“法国博物馆网络遭受勒索软件攻击”
-美联社 (08/06/24) 查看全文]]></description>
-      <guid>https://apnews.com/article/paris-2024-ransomware-museums-olympic-competitions-12a1facc4a245e2e58f229cfc041beac</guid>
-      <pubDate>Wed, 07 Aug 2024 18:10:03 GMT</pubDate>
+      <title>Fugaku 超级计算机在云端发布</title>
+      <link>https://www.theregister.com/2024/08/07/riken_offers_virtual_fugaku_supercomputer/</link>
+      <description><![CDATA[The Register（英国）可在 Amazon Web Services (AWS) 平台上运行的 Fugaku 超级计算机虚拟版本将使任何用户都能更轻松地开发私有 Fugaku 环境。日本理化学研究所计算科学中心推出的 Virtual Fugaku 被编码为在 Amazon 的 Graviton 处理器上运行，该处理器基于 Arm 架构并使用可扩展矢量扩展指令来加快数字运算速度。摘自“Fugaku 超级计算机在云端发布”
+The Register（英国）（2024 年 7 月 8 日）Dan Robinson 查看全文]]></description>
+      <guid>https://www.theregister.com/2024/08/07/riken_offers_virtual_fugaku_supercomputer/</guid>
+      <pubDate>Fri, 09 Aug 2024 15:08:58 GMT</pubDate>
     </item>
     <item>
-      <title>大型机在人工智能时代焕发新生</title>
-      <link>https://www.wsj.com/articles/mainframes-find-new-life-in-ai-era-1e32b951</link>
-      <description><![CDATA[《华尔街日报》大型计算机正通过人工智能时代的新应用证明其韧性。银行、保险提供商、航空公司和其他仍然依赖大型计算机进行高速数据处理的行业现在正寻求在硬件源头而不是云端将人工智能应用于其交易数据。 IBM 的 Ross Mauri 表示，“每个人都意识到，将 AI 带到数据所在的地方比将数据带到 AI 那里更好。”摘自“大型机在 AI 时代找到新生命”
-华尔街日报 (08/06/24) Belle Lin 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/articles/mainframes-find-new-life-in-ai-era-1e32b951</guid>
-      <pubDate>Wed, 07 Aug 2024 18:10:02 GMT</pubDate>
+      <title>人工智能正在冲击印度的外包行业</title>
+      <link>https://www.wsj.com/tech/ai/ai-is-coming-for-indias-famous-tech-hub-97261085</link>
+      <description><![CDATA[《华尔街日报》随着各家公司用生成式人工智能取代呼叫中心和其他低级运营，印度价值 2500 亿美元的外包行业被迫做出调整。TCS 的 Harrick Vin 表示：“未来的角色将需要更高水平的批判性思维、设计、战略目标设定和创造性解决问题的能力。”与此同时，行业高管认为人工智能工具正在推动一些企业的发展，尤其是编程人员。摘自“人工智能正在进军印度外包行业”
+《华尔街日报》（08/06/24）Megha Mandavia 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/tech/ai/ai-is-coming-for-indias-famous-tech-hub-97261085</guid>
+      <pubDate>Fri, 09 Aug 2024 15:08:58 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年如何成为 Zoom 选举</title>
-      <link>https://www.nytimes.com/2024/08/05/technology/how-2024-became-the-zoom-election.html</link>
-      <description><![CDATA[《纽约时报》通过 Zoom 举行的集会为美国总统候选人卡马拉·哈里斯筹集了数百万美元。在拜登总统宣布退出竞选后举行的首场大型支持哈里斯 Zoom 活动中，一个名为“与黑人女性一起获胜”的组织在其每周 Zoom 会议上接待了约 44,000 名与会者，并为竞选活动筹集了超过 150 万美元。这激发了其他支持哈里斯的团体组织类似的活动，其中一些活动已经超出了 Zoom 的技术极限。摘自“2024 年如何成为 Zoom 大选”
-纽约时报 (08/05/24) Kevin Roose 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/08/05/technology/how-2024-became-the-zoom-election.html</guid>
-      <pubDate>Wed, 07 Aug 2024 18:10:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>法官裁定谷歌非法垄断搜索业务</title>
-      <link>https://www.cnn.com/2024/08/05/business/google-loses-antitrust-lawsuit-doj/index.html</link>
-      <description><![CDATA[CNN周一，美国地区法官裁定，谷歌的搜索业务违反了联邦反垄断法。美国政府指控，该公司花费数百亿美元签订合同，以确保其作为智能手机和网络浏览器上全球默认搜索提供商的主导地位，从而拥有阻止潜在竞争对手的规模。摘自“法官裁定谷歌在搜索领域存在非法垄断”
-CNN (08/06/24) Brian Fung；Clare Duffy 查看全文]]></description>
-      <guid>https://www.cnn.com/2024/08/05/business/google-loses-antitrust-lawsuit-doj/index.html</guid>
-      <pubDate>Wed, 07 Aug 2024 18:10:01 GMT</pubDate>
+      <title>全球五大芯片制造商承诺美国投资</title>
+      <link>https://www.nytimes.com/2024/08/06/business/economy/chipmakers-promise-investment.html</link>
+      <description><![CDATA[《纽约时报》8 月 6 日，拜登政府宣布将向韩国芯片制造商 SK 海力士提供高达 4.5 亿美元的补助金，用于其在印第安纳州建设新的芯片工厂。这意味着，继与英特尔、台湾半导体制造公司、三星和美光达成协议后，美国政府已收到全球五大领先半导体制造商在美国建设芯片工厂的承诺。摘自“全球五大芯片制造商承诺在美国投资”
+纽约时报 (08/06/24) Ana Swanson；Madeleine Ngo 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/08/06/business/economy/chipmakers-promise-investment.html</guid>
+      <pubDate>Fri, 09 Aug 2024 15:08:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
