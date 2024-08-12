@@ -4,102 +4,102 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Fri, 09 Aug 2024 15:09:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 15:09:13 GMT</lastBuildDate>
     <item>
-      <title>研究人员发现 AWS 漏洞、“影子资源”载体</title>
-      <link>https://www.techtarget.com/searchsecurity/news/366602412/Researchers-unveil-AWS-vulnerabilities-shadow-resource-vector</link>
-      <description><![CDATA[TechTarget在 Black Hat USA 2024 会议上，Aqua Security 研究人员详细介绍了 AWS 服务中的六个关键漏洞（这些漏洞现已得到修补）以及一种新的“影子资源”攻击媒介。当客户首次在新区域使用 AWS 管理控制台创建 CloudFormation 服务时，会自动创建 AWS S3 存储桶（影子资源）。研究人员发现了存储桶命名过程中的弱点，这些弱点可能允许攻击者在创建存储桶之前猜出潜在存储桶的名称。摘自“研究人员发现 AWS 漏洞、‘影子资源’媒介”
-TechTarget (08/07/24) Rob Wright 查看全文]]></description>
-      <guid>https://www.techtarget.com/searchsecurity/news/366602412/Researchers-unveil-AWS-vulnerabilities-shadow-resource-vector</guid>
-      <pubDate>Fri, 09 Aug 2024 15:09:02 GMT</pubDate>
+      <title>陷入困境的人工智能初创企业寻求大型科技公司的救助</title>
+      <link>https://www.wsj.com/tech/ai/struggling-ai-startups-look-for-a-bailout-from-big-tech-3e635927</link>
+      <description><![CDATA[《华尔街日报》去年筹集了数十亿美元的许多人工智能初创公司现在正在寻求大型科技公司的救助。谷歌已同意聘请 Character.AI 的许多研究人员和高管，并通过以约 20 亿美元的价格获得该初创公司的技术许可，帮助收购早期投资者。亚马逊最近支付了约 3.3 亿美元聘请了 Adept AI 的大部分员工并获得了其技术许可，此前微软聘请了 Inflection 的几乎所有员工，以创建一个新的消费者人工智能部门，并以约 6.5 亿美元的价格获得该初创公司的技术许可。这些交易被认为比可能面临监管审查的直接收购更为有利。摘自“陷入困境的人工智能初创公司寻求大型科技公司的救助”
+《华尔街日报》（08/06/24）Berber Jin；Tom Dotan；Miles Kruppa；等人 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/tech/ai/struggling-ai-startups-look-for-a-bailout-from-big-tech-3e635927</guid>
+      <pubDate>Mon, 12 Aug 2024 15:09:12 GMT</pubDate>
     </item>
     <item>
-      <title>无人机警告纽约人风暴危险</title>
-      <link>https://apnews.com/article/new-york-drones-weather-01ab1c02ea79c7131abe9978380671c1</link>
-      <description><![CDATA[美联社纽约市应急管理机构周二部署了五个小组，每个小组都配备多架无人机，向洪水易发社区的居民发出暴雨即将来临的警告。无人机配备了扬声器，以多种语言提醒地下室公寓的居民在发生洪水时撤离。无人机与社交媒体、短信警报和紧急信息系统一起使用，该系统可覆盖数千个为老年人和残疾人等提供服务的城市组织。摘自“无人机警告纽约人暴风雨危险”
-美联社 (08/07/24) 查看全文]]></description>
-      <guid>https://apnews.com/article/new-york-drones-weather-01ab1c02ea79c7131abe9978380671c1</guid>
-      <pubDate>Fri, 09 Aug 2024 15:09:02 GMT</pubDate>
+      <title>计算机崩溃报告是尚未开发的黑客金矿</title>
+      <link>https://www.wired.com/story/crash-reports-vulnerability-data/</link>
+      <description><![CDATA[Wired在 Black Hat 安全大会的一次演讲中，Mac 安全研究员 Patrick Wardle 解释说，崩溃报告揭示了 CrowdStrike 缺陷软件更新导致全球计算机中断的原因，而这还未正式披露。Wardle 表示，崩溃报告提供了有关编码问题和可能被利用的软件漏洞的宝贵信息，网络犯罪分子和受政府支持的黑客会仔细研究这些信息，以获取可以利用的信息。 Wardle 介绍了他在自己的设备崩溃报告中发现的多个漏洞，包括分析工具 YARA 和 Apple 当前版本的 macOS 操作系统中的漏洞。摘自“计算机崩溃报告是尚未开发的黑客金矿”
+Wired (08/08/24) Lily Hay Newman 查看全文]]></description>
+      <guid>https://www.wired.com/story/crash-reports-vulnerability-data/</guid>
+      <pubDate>Mon, 12 Aug 2024 15:09:12 GMT</pubDate>
     </item>
     <item>
-      <title>GPU 集群研究荣获 SC24 时间考验奖</title>
-      <link>https://sc24.supercomputing.org/2024/08/pioneering-gpu-cluster-research-earns-sc24-test-of-time-award/</link>
-      <description><![CDATA[SC24由石溪大学 Arie Kaufman 领导的研究为当今 GPU 驱动的超级计算领域奠定了基础，并获得了今年的 SC 时间考验奖。研究人员的方法受到 GPU 提供的每美元 FLOP 改进的启发，与传统 CPU 硬件相比。为了利用这一点，该团队创建了一个由 30 个 GPU 节点组成的集群，以模拟纽约市时代广场的空气污染物扩散，其速度比当时的 CPU 集群实现快 4.6 倍。摘自“GPU 集群研究获得 SC24 时间考验奖”
-SC24 (08/08/24) Waleed Atallah 查看全文]]></description>
-      <guid>https://sc24.supercomputing.org/2024/08/pioneering-gpu-cluster-research-earns-sc24-test-of-time-award/</guid>
-      <pubDate>Fri, 09 Aug 2024 15:09:01 GMT</pubDate>
+      <title>Bengio 加入英国预防人工智能灾难项目</title>
+      <link>https://www.technologyreview.com/2024/08/07/1095879/ai-godfather-yoshua-bengio-joins-uk-project-to-prevent-ai-catastrophes/</link>
+      <description><![CDATA[《麻省理工技术评论》ACM A. M. 图灵奖获得者 Yoshua Bengio 已加入 Safeguarded AI，这是英国政府资助的一个项目，旨在开发一个可以评估部署在关键领域的其他 AI 系统安全性的 AI 系统。这个“守门人”AI 将分配风险评分，并提供有关 AI 系统对现实世界影响的其他量化保证。 Bengio 将担任该项目的科学总监，他表示，使用人工智能来保护人工智能是“唯一的方法，因为从某种程度上来说，这些人工智能实在是太复杂了。”摘自“Bengio 加入英国防止人工智能灾难项目”
+麻省理工技术评论 (08/07/24) Melissa Heikkilä 查看全文]]></description>
+      <guid>https://www.technologyreview.com/2024/08/07/1095879/ai-godfather-yoshua-bengio-joins-uk-project-to-prevent-ai-catastrophes/</guid>
+      <pubDate>Mon, 12 Aug 2024 15:09:11 GMT</pubDate>
     </item>
     <item>
-      <title>争当首个无证件机场</title>
-      <link>https://edition.cnn.com/travel/abu-dhabi-smart-travel-project/index.html</link>
-      <description><![CDATA[CNN阿布扎比的扎耶德国际机场可能在 2025 年成为世界上第一个无证件机场。作为智能旅行项目的一部分，机场正在每个身份检查站安装生物识别传感器。联邦身份、公民、海关和港口安全局收集任何进入阿拉伯联合酋长国移民局的人员的生物识别信息，机场系统会访问该数据库以在每个检查站验证乘客身份。摘自“争夺第一个无证件机场”
-CNN (08/07/24) Ana DeOliva 查看全文]]></description>
-      <guid>https://edition.cnn.com/travel/abu-dhabi-smart-travel-project/index.html</guid>
-      <pubDate>Fri, 09 Aug 2024 15:09:01 GMT</pubDate>
+      <title>DeepMind 开发出一款“纯业余”乒乓球机器人</title>
+      <link>https://techcrunch.com/2024/08/08/google-deepmind-develops-a-solidly-amateur-table-tennis-robot/</link>
+      <description><![CDATA[TechCrunch谷歌的 DeepMind Robotics 研究人员开发了一款“纯业余”机器人乒乓球运动员。在测试中，该机器人击败了它面对的所有初学者级别的球员。在与中级球员的比赛中，该机器人赢得了 55% 的比赛。该系统最大的缺点是对快速球的反应，DeepMind 将其归咎于系统延迟、两次击球之间的强制重置以及缺乏有用的数据。摘自“DeepMind 开发了一款‘纯业余’乒乓球机器人”
+TechCrunch (08/08/24) Brian Heater 查看全文]]></description>
+      <guid>https://techcrunch.com/2024/08/08/google-deepmind-develops-a-solidly-amateur-table-tennis-robot/</guid>
+      <pubDate>Mon, 12 Aug 2024 15:09:11 GMT</pubDate>
     </item>
     <item>
-      <title>智能手机漏洞可泄露楼层平面图</title>
-      <link>https://www.newscientist.com/article/2442011-smartphone-flaw-allows-hackers-and-governments-to-map-your-home/</link>
-      <description><![CDATA[新科学家智能手机中发现的一个安全漏洞可用于创建用户所在房间的地图并确定他们在做什么。印度理工学院德里分校的研究人员发现的这一漏洞利用了 GPS 信号中的数据。研究人员创建了一个名为 AndroCon 的基于人工智能的系统，该系统可以解释五种 Android 智能手机的数据提供的指标。摘自“智能手机漏洞揭示楼层平面图”
-新科学家 (08/08/24) Matthew Sparkes 查看全文]]></description>
-      <guid>https://www.newscientist.com/article/2442011-smartphone-flaw-allows-hackers-and-governments-to-map-your-home/</guid>
-      <pubDate>Fri, 09 Aug 2024 15:09:00 GMT</pubDate>
+      <title>纽约街道下维持的纠缠光子</title>
+      <link>https://physics.aps.org/articles/v17/125</link>
+      <description><![CDATA[物理学使用现有商用光纤电缆的量子网络在实现基于偏振的量子纠缠分布的同时，实现了高保存率和保真度，超越了以前的性能指标。纽约初创公司 Qunnect 联合创始人 Mehdi Namazi 领导的团队连续 15 天向纽约市光纤网络 34 公里长的路段发送了每秒 20,000 个纠缠光子。测试实现了 99.84% 的正常运行时间，纠缠光子的补偿保真度达到 99%，传输速率约为每秒 20,000 个。每秒有 50 万个光子，保真度接近 90%。摘自“纽约街道下维持的纠缠光子”
+物理学 (08/09/24) Charles Day 查看全文]]></description>
+      <guid>https://physics.aps.org/articles/v17/125</guid>
+      <pubDate>Mon, 12 Aug 2024 15:09:10 GMT</pubDate>
     </item>
     <item>
-      <title>阿里巴巴 T-Head C910 RISC-V CPU 中的错误指令破坏了所有安全性</title>
-      <link>https://www.theregister.com/2024/08/07/riscv_business_thead_c910_vulnerable/</link>
-      <description><![CDATA[The Register（英国）德国 CISPA 亥姆霍兹信息安全中心的研究人员发现，阿里巴巴子公司 T-Head Semiconductor 的 RISC-V 处理器中存在一个严重漏洞，该漏洞可能允许攻击者完全控制设备。 GhostWrite 漏洞影响 TH1520 SoC 中的四个 T-Head C910 CPU 内核，可使攻击者能够读取和写入物理内存，并以内核和机器模式权限执行任意代码。摘自“阿里巴巴 T-Head C910 RISC-V CPU 中的错误指令破坏了所有安全性”
-The Register (英国) (08/07/24) Thomas Claburn 查看全文]]></description>
-      <guid>https://www.theregister.com/2024/08/07/riscv_business_thead_c910_vulnerable/</guid>
-      <pubDate>Fri, 09 Aug 2024 15:09:00 GMT</pubDate>
+      <title>GPS 欺骗器对商业航空公司实施“黑客攻击”</title>
+      <link>https://www.reuters.com/technology/cybersecurity/gps-spoofers-hack-time-commercial-airlines-researchers-say-2024-08-10/</link>
+      <description><![CDATA[路透社网络安全公司 Pen Test Partners 创始人肯·蒙罗 (Ken Munro) 表示，最近 GPS “欺骗”事件激增，其中包括时间被“黑客”的事件。蒙罗在周六的 DEF CON 黑客大会上发表演讲时表示：“我们过多地认为 GPS 是位置来源，但实际上它是时间来源。”他描述了最近发生的一起案件，一家西方大型航空公司运营的飞机上的机载时钟突然向前调了好几年，导致飞机无法访问其数字加密的通信系统。摘自“GPS 欺骗者‘黑客入侵’商业航空公司的时间”
+路透社 (08/10/24) James Pearson 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/cybersecurity/gps-spoofers-hack-time-commercial-airlines-researchers-say-2024-08-10/</guid>
+      <pubDate>Mon, 12 Aug 2024 15:09:10 GMT</pubDate>
     </item>
     <item>
-      <title>俄罗斯各地报告 YouTube 大面积中断</title>
-      <link>https://www.themoscowtimes.com/2024/08/08/widespread-youtube-outages-reported-across-russia-a85969</link>
-      <description><![CDATA[《莫斯科时报》（俄罗斯）周四，俄罗斯各地用户报告 YouTube 出现大面积中断，几周前，俄罗斯当局曾批评该视频流媒体平台采取所谓的反政府行动。自俄罗斯入侵乌克兰以来，有关 YouTube 可能在俄罗斯被封锁的猜测不断增加，当时俄罗斯当局指责谷歌旗下的平台传播“恐怖主义”反战内容。上周，在当局要求谷歌恢复约 200 个亲政府频道后，俄罗斯用户开始注意到 YouTube 的下载速度变慢。摘自“俄罗斯各地报告 YouTube 大面积中断”
-莫斯科时报（俄罗斯）（08/08/24） 查看全文]]></description>
-      <guid>https://www.themoscowtimes.com/2024/08/08/widespread-youtube-outages-reported-across-russia-a85969</guid>
-      <pubDate>Fri, 09 Aug 2024 15:08:59 GMT</pubDate>
+      <title>芯片制造巨头了解到在台湾行得通的方法在亚利桑那州行不通</title>
+      <link>https://www.nytimes.com/2024/08/08/business/tsmc-phoenix-arizona-semiconductor.html</link>
+      <description><![CDATA[《纽约时报》宣布计划在亚利桑那州建立芯片厂四年后，台湾半导体制造公司 (TSMC) 仍未开始销售在那里生产的半导体，目前预计芯片生产将于 2025 年上半年开始。大部分滞后可以归因于台湾管理人员和美国工人之间的文化冲突，促使该公司为管理人员提供沟通培训。台积电在亚利桑那州也缺乏熟练工人和供应商网络，尽管它从台湾引进了数千名工人到凤凰城，但高管们表示，这一战略是不可持续的。与此同时，当地的高中和大学正在加大力度培训未来的台积电工人。摘自“芯片制造巨头了解到在台湾行得通的东西在亚利桑那州行不通”
+纽约时报 (08/08/24) John Liu 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/08/08/business/tsmc-phoenix-arizona-semiconductor.html</guid>
+      <pubDate>Mon, 12 Aug 2024 15:09:09 GMT</pubDate>
     </item>
     <item>
-      <title>全球最大的 3D 打印社区即将竣工</title>
-      <link>https://www.reuters.com/world/us/worlds-largest-3d-printed-neighborhood-nears-completion-texas-2024-08-08/</link>
-      <description><![CDATA[路透社ICON 的机器人打印机正在完成德克萨斯州乔治敦社区 100 栋 3D 打印房屋中的最后几栋，一旦完成，该社区将成为世界上最大的 3D 打印社区。这些单层三到四间卧室的房屋大约需要三周时间才能完成打印，地基和金属屋顶按传统方式安装。它们的价格从 450,000 美元左右到近 600,000 美元不等。摘自“世界上最大的 3D 打印社区即将完工”
-路透社 (08/08/24) Evan Garcia 查看全文]]></description>
-      <guid>https://www.reuters.com/world/us/worlds-largest-3d-printed-neighborhood-nears-completion-texas-2024-08-08/</guid>
-      <pubDate>Fri, 09 Aug 2024 15:08:59 GMT</pubDate>
+      <title>初创公司推出应对阿片类药物危机的救命技术</title>
+      <link>https://spectrum.ieee.org/opioid-addiction</link>
+      <description><![CDATA[IEEE Spectrum科技初创公司正在开发应对阿片类药物危机的技术。例如，OpiAID 的研究人员正在研究一种预测算法，该算法使用患者的生物特征数据来帮助临床医生定制阿片类药物使用障碍的治疗方案。与此同时，Masimo 的 Halo 设备（配有脉搏血氧仪和传感器）和 Celero Systems 的 Rescue-Rx（一种可摄入的传感器）监测生命体征以检测阿片类药物引起的呼吸抑制。Rescue-Rx 还可用于自动输送过量药物。摘自“初创公司推出应对阿片类药物危机的救命技术”
+IEEE Spectrum (08/08/24) Shannon Cuthrell 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/opioid-addiction</guid>
+      <pubDate>Mon, 12 Aug 2024 15:09:09 GMT</pubDate>
     </item>
     <item>
-      <title>专家支持加州人工智能安全法案</title>
-      <link>https://time.com/7008947/california-ai-bill-letter/</link>
-      <description><![CDATA[《时代》杂志在致加州立法领导人的一封信中，ACM A. M. 图灵奖获得者 Yoshua Bengio 和 Geoffrey Hinton 以及著名教授 Lawrence Lessig 和 Stuart Russell 表示支持一项法案，该法案要求人工智能公司训练大型模型，进行严格的安全测试，以识别潜在的危险能力，并制定全面的安全措施来降低风险。信中说，该法案相当于“有效监管这项技术的最低限度”。摘自“专家支持加州的人工智能安全法案”
-《时代》杂志 (08/07/24) Tharin Pillay；Harry Booth 查看全文]]></description>
-      <guid>https://time.com/7008947/california-ai-bill-letter/</guid>
-      <pubDate>Fri, 09 Aug 2024 15:08:58 GMT</pubDate>
+      <title>思科将在最新一轮技术裁员中裁掉数千人</title>
+      <link>https://www.reuters.com/technology/cisco-lay-off-thousands-more-second-job-cut-this-year-sources-say-2024-08-09/</link>
+      <description><![CDATA[路透社据内部人士称，网络设备制造商思科将在今年第二轮裁员中裁减数千名员工。消息人士称，受影响的人数可能与思科 2 月份裁员的 4,000 名员工人数相同或略高。这是科技行业的最新裁员，该行业今年一直在削减成本以抵消对人工智能的巨额投资。根据跟踪网站 Layoffs.fyi 的数据，自今年年初以来，393 家科技公司已有超过 126,000 人被解雇。摘自“思科将在最新一轮科技裁员中裁员数千人”
+路透社 (08/10/24) Utkarsh Shetti； Supantha Mukherjee 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/cisco-lay-off-thousands-more-second-job-cut-this-year-sources-say-2024-08-09/</guid>
+      <pubDate>Mon, 12 Aug 2024 15:09:08 GMT</pubDate>
     </item>
     <item>
-      <title>Fugaku 超级计算机在云端发布</title>
-      <link>https://www.theregister.com/2024/08/07/riken_offers_virtual_fugaku_supercomputer/</link>
-      <description><![CDATA[The Register（英国）可在 Amazon Web Services (AWS) 平台上运行的 Fugaku 超级计算机虚拟版本将使任何用户都能更轻松地开发私有 Fugaku 环境。日本理化学研究所计算科学中心推出的 Virtual Fugaku 被编码为在 Amazon 的 Graviton 处理器上运行，该处理器基于 Arm 架构并使用可扩展矢量扩展指令来加快数字运算速度。摘自“Fugaku 超级计算机在云端发布”
-The Register（英国）（2024 年 7 月 8 日）Dan Robinson 查看全文]]></description>
-      <guid>https://www.theregister.com/2024/08/07/riken_offers_virtual_fugaku_supercomputer/</guid>
-      <pubDate>Fri, 09 Aug 2024 15:08:58 GMT</pubDate>
+      <title>加州与 Nvidia 合作，为高校提供 AI 资源</title>
+      <link>https://apnews.com/article/nvidia-artificial-intelligence-ai-california-0958f43b6aecbdb7617dfcb78bad7319</link>
+      <description><![CDATA[美联社加州与科技巨头 Nvidia 合作，帮助培训该州的学生、大学教师、开发人员和数据科学家。该计划旨在增加新的课程和认证、硬件和软件以及 AI 实验室和研讨会，并特别关注社区学院。州长加文·纽森表示，“加州的世界领先公司正在开创人工智能突破，我们必须为加州人创造更多机会，让他们获得利用这项技术的技能，并推进他们的职业生涯。”摘自“加州与 Nvidia 合作，为大学带来人工智能资源”
+美联社 (08/09/24) Sarah Parvini 查看全文]]></description>
+      <guid>https://apnews.com/article/nvidia-artificial-intelligence-ai-california-0958f43b6aecbdb7617dfcb78bad7319</guid>
+      <pubDate>Mon, 12 Aug 2024 15:09:08 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能正在冲击印度的外包行业</title>
-      <link>https://www.wsj.com/tech/ai/ai-is-coming-for-indias-famous-tech-hub-97261085</link>
-      <description><![CDATA[《华尔街日报》随着各家公司用生成式人工智能取代呼叫中心和其他低级运营，印度价值 2500 亿美元的外包行业被迫做出调整。TCS 的 Harrick Vin 表示：“未来的角色将需要更高水平的批判性思维、设计、战略目标设定和创造性解决问题的能力。”与此同时，行业高管认为人工智能工具正在推动一些企业的发展，尤其是编程人员。摘自“人工智能正在进军印度外包行业”
-《华尔街日报》（08/06/24）Megha Mandavia 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/tech/ai/ai-is-coming-for-indias-famous-tech-hub-97261085</guid>
-      <pubDate>Fri, 09 Aug 2024 15:08:58 GMT</pubDate>
+      <title>特朗普竞选团队证实遭黑客攻击</title>
+      <link>https://www.politico.com/news/2024/08/10/trump-campaign-hack-00173503</link>
+      <description><![CDATA[Politico前总统唐纳德·特朗普的竞选团队周六表示，其部分内部电子邮件遭到黑客攻击。此前，Politico 开始收到来自匿名账户的电子邮件，其中包含特朗普内部运作的文件，包括竞选团队对特朗普竞选搭档俄亥俄州参议员 JD Vance 的研究档案。竞选团队将责任归咎于“对美国怀有敌意的外国消息来源”，援引微软周五的一份报告称，伊朗黑客“6 月份向总统竞选活动的一名高级官员发送了一封鱼叉式网络钓鱼电子邮件”。摘自“特朗普竞选团队证实遭到黑客攻击”
+Politico (08/10/24) Alex Isenstadt 查看全文]]></description>
+      <guid>https://www.politico.com/news/2024/08/10/trump-campaign-hack-00173503</guid>
+      <pubDate>Mon, 12 Aug 2024 15:09:07 GMT</pubDate>
     </item>
     <item>
-      <title>全球五大芯片制造商承诺美国投资</title>
-      <link>https://www.nytimes.com/2024/08/06/business/economy/chipmakers-promise-investment.html</link>
-      <description><![CDATA[《纽约时报》8 月 6 日，拜登政府宣布将向韩国芯片制造商 SK 海力士提供高达 4.5 亿美元的补助金，用于其在印第安纳州建设新的芯片工厂。这意味着，继与英特尔、台湾半导体制造公司、三星和美光达成协议后，美国政府已收到全球五大领先半导体制造商在美国建设芯片工厂的承诺。摘自“全球五大芯片制造商承诺在美国投资”
-纽约时报 (08/06/24) Ana Swanson；Madeleine Ngo 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/08/06/business/economy/chipmakers-promise-investment.html</guid>
-      <pubDate>Fri, 09 Aug 2024 15:08:57 GMT</pubDate>
+      <title>科技旨在识别未来的奥运选手</title>
+      <link>https://www.bbc.com/news/articles/cmj2jkppvx3o</link>
+      <description><![CDATA[BBC 新闻在巴黎奥林匹克体育场附近设立的基于人工智能的人才发现技术旨在发现下一代体育明星。研究人员分析了跑步、跳跃和握力等五项测试的数据，以评估一个人的力量、爆发力、耐力、反应时间、力量和敏捷性。研究人员将结果与专业运动员和奥运会运动员的数据进行比较。英特尔奥运会和残奥会项目负责人 Sarah Vickers 表示：“我们使用计算机视觉和历史数据，因此普通人可以将自己与精英运动员进行比较，看看他们最适合哪项运动。”摘自“科技旨在发现未来的奥运选手”
+BBC 新闻 (08/08/24) Peter Ball 查看全文]]></description>
+      <guid>https://www.bbc.com/news/articles/cmj2jkppvx3o</guid>
+      <pubDate>Mon, 12 Aug 2024 15:09:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
