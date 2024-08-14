@@ -4,102 +4,110 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Mon, 12 Aug 2024 15:09:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 15:07:58 GMT</lastBuildDate>
     <item>
-      <title>陷入困境的人工智能初创企业寻求大型科技公司的救助</title>
-      <link>https://www.wsj.com/tech/ai/struggling-ai-startups-look-for-a-bailout-from-big-tech-3e635927</link>
-      <description><![CDATA[《华尔街日报》去年筹集了数十亿美元的许多人工智能初创公司现在正在寻求大型科技公司的救助。谷歌已同意聘请 Character.AI 的许多研究人员和高管，并通过以约 20 亿美元的价格获得该初创公司的技术许可，帮助收购早期投资者。亚马逊最近支付了约 3.3 亿美元聘请了 Adept AI 的大部分员工并获得了其技术许可，此前微软聘请了 Inflection 的几乎所有员工，以创建一个新的消费者人工智能部门，并以约 6.5 亿美元的价格获得该初创公司的技术许可。这些交易被认为比可能面临监管审查的直接收购更为有利。摘自“陷入困境的人工智能初创公司寻求大型科技公司的救助”
-《华尔街日报》（08/06/24）Berber Jin；Tom Dotan；Miles Kruppa；等人 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/tech/ai/struggling-ai-startups-look-for-a-bailout-from-big-tech-3e635927</guid>
-      <pubDate>Mon, 12 Aug 2024 15:09:12 GMT</pubDate>
+      <title>家用机器人可能被黑客入侵，监视主人</title>
+      <link>https://techcrunch.com/2024/08/09/ecovacs-home-robots-can-be-hacked-to-spy-on-their-owners-researchers-say/</link>
+      <description><![CDATA[TechCrunch安全研究人员 Dennis Giese 和 Braelynn 发现 Ecovacs 的吸尘和割草机器人存在漏洞，黑客可以利用这些漏洞访问设备的摄像头和麦克风。研究人员发现，任何在距离 Ecovacs 机器人 450 英尺范围内的手机用户都可以通过蓝牙入侵该设备，然后远程访问麦克风和摄像头来监视用户。他们还发现，即使用户删除了账户，机器人上存储的数据以及身份验证令牌仍会保留在 Ecovacs 的云服务器上，而用于保护割草机机器人的 PIN 码则以纯文本形式存储在设备内部。摘自“家用机器人可能被黑客入侵以监视主人”
+TechCrunch (08/09/24) Lorenzo Franceschi-Bicchierai 查看全文]]></description>
+      <guid>https://techcrunch.com/2024/08/09/ecovacs-home-robots-can-be-hacked-to-spy-on-their-owners-researchers-say/</guid>
+      <pubDate>Wed, 14 Aug 2024 15:07:58 GMT</pubDate>
     </item>
     <item>
-      <title>计算机崩溃报告是尚未开发的黑客金矿</title>
-      <link>https://www.wired.com/story/crash-reports-vulnerability-data/</link>
-      <description><![CDATA[Wired在 Black Hat 安全大会的一次演讲中，Mac 安全研究员 Patrick Wardle 解释说，崩溃报告揭示了 CrowdStrike 缺陷软件更新导致全球计算机中断的原因，而这还未正式披露。Wardle 表示，崩溃报告提供了有关编码问题和可能被利用的软件漏洞的宝贵信息，网络犯罪分子和受政府支持的黑客会仔细研究这些信息，以获取可以利用的信息。 Wardle 介绍了他在自己的设备崩溃报告中发现的多个漏洞，包括分析工具 YARA 和 Apple 当前版本的 macOS 操作系统中的漏洞。摘自“计算机崩溃报告是尚未开发的黑客金矿”
-Wired (08/08/24) Lily Hay Newman 查看全文]]></description>
-      <guid>https://www.wired.com/story/crash-reports-vulnerability-data/</guid>
-      <pubDate>Mon, 12 Aug 2024 15:09:12 GMT</pubDate>
+      <title>奥运会为视障观众提供无障碍技术</title>
+      <link>https://apnews.com/article/olympics-2024-accessibility-technology-8b918cbb5c49c6dad2f0e095444f67f1</link>
+      <description><![CDATA[美联社巴黎奥运会组织者采取措施，让有视力障碍的人更方便观看比赛。例如，Vision Pad 使用了一个移动的磁球，这样用户就可以在篮球、足球、橄榄球和四项残奥会运动中跟踪球的运动。低视力头盔可以让用户放大比赛、游戏或运动员，并在实况和电视报道之间切换。与此同时，奥运会应用程序提供了音频描述广播。摘自“奥运会为视障球迷提供无障碍技术”
+美联社 (08/10/24) 拉斐尔莱斯特 查看全文]]></description>
+      <guid>https://apnews.com/article/olympics-2024-accessibility-technology-8b918cbb5c49c6dad2f0e095444f67f1</guid>
+      <pubDate>Wed, 14 Aug 2024 15:07:57 GMT</pubDate>
     </item>
     <item>
-      <title>Bengio 加入英国预防人工智能灾难项目</title>
-      <link>https://www.technologyreview.com/2024/08/07/1095879/ai-godfather-yoshua-bengio-joins-uk-project-to-prevent-ai-catastrophes/</link>
-      <description><![CDATA[《麻省理工技术评论》ACM A. M. 图灵奖获得者 Yoshua Bengio 已加入 Safeguarded AI，这是英国政府资助的一个项目，旨在开发一个可以评估部署在关键领域的其他 AI 系统安全性的 AI 系统。这个“守门人”AI 将分配风险评分，并提供有关 AI 系统对现实世界影响的其他量化保证。 Bengio 将担任该项目的科学总监，他表示，使用人工智能来保护人工智能是“唯一的方法，因为从某种程度上来说，这些人工智能实在是太复杂了。”摘自“Bengio 加入英国防止人工智能灾难项目”
-麻省理工技术评论 (08/07/24) Melissa Heikkilä 查看全文]]></description>
-      <guid>https://www.technologyreview.com/2024/08/07/1095879/ai-godfather-yoshua-bengio-joins-uk-project-to-prevent-ai-catastrophes/</guid>
-      <pubDate>Mon, 12 Aug 2024 15:09:11 GMT</pubDate>
+      <title>红外激光监视笔记本电脑的按键</title>
+      <link>https://www.wired.com/story/infrared-laser-microphone-keystroke-surveillance/</link>
+      <description><![CDATA[Wired黑客 Samy Kamkar（如图）在 Defcon 安全会议上演示了一种基于光的按键窃听技术。该技术包括通过窗户将不可见的激光指向笔记本电脑，并记录计算机的振动以重建正在输入的字符。Kamkar 表示，他的开源监视系统配备了第一个“在射频域中调制”的激光麦克风，能够拾取目标房间中说出或输入的任何内容。使用 400 千赫兹的频率，激光麦克风可以将声音转换为光，然后转换为无线电，然后再转换为声音。摘自“红外激光监视笔记本电脑的按键”
+Wired (08/08/24) Andy Greenberg 查看全文]]></description>
+      <guid>https://www.wired.com/story/infrared-laser-microphone-keystroke-surveillance/</guid>
+      <pubDate>Wed, 14 Aug 2024 15:07:57 GMT</pubDate>
     </item>
     <item>
-      <title>DeepMind 开发出一款“纯业余”乒乓球机器人</title>
-      <link>https://techcrunch.com/2024/08/08/google-deepmind-develops-a-solidly-amateur-table-tennis-robot/</link>
-      <description><![CDATA[TechCrunch谷歌的 DeepMind Robotics 研究人员开发了一款“纯业余”机器人乒乓球运动员。在测试中，该机器人击败了它面对的所有初学者级别的球员。在与中级球员的比赛中，该机器人赢得了 55% 的比赛。该系统最大的缺点是对快速球的反应，DeepMind 将其归咎于系统延迟、两次击球之间的强制重置以及缺乏有用的数据。摘自“DeepMind 开发了一款‘纯业余’乒乓球机器人”
-TechCrunch (08/08/24) Brian Heater 查看全文]]></description>
-      <guid>https://techcrunch.com/2024/08/08/google-deepmind-develops-a-solidly-amateur-table-tennis-robot/</guid>
-      <pubDate>Mon, 12 Aug 2024 15:09:11 GMT</pubDate>
+      <title>无人机可独立控制位置和高度</title>
+      <link>https://interestingengineering.com/innovation/spain-aerial-robot-drone-overactuated</link>
+      <description><![CDATA[有趣的工程西班牙 Tecnalia 巴斯克研究与技术联盟的研究人员开发了一种过度驱动的空中机器人，它可以自主控制其位置和方向。它的中央主体通过被动万向节连接到四个四旋翼飞行器，使其能够独立地在六个方向上移动并执行复杂的动作。该机器人还可以在倾斜表面上起飞和降落，并具有先进的推力矢量功能。除其他外，其专门的控制算法将主体的期望位置和方向转换为其 16 个螺旋桨的角速度命令。摘自“无人机可以独立控制位置和高度”
+有趣的工程 (08/09/24) Kapil Kajal 查看全文]]></description>
+      <guid>https://interestingengineering.com/innovation/spain-aerial-robot-drone-overactuated</guid>
+      <pubDate>Wed, 14 Aug 2024 15:07:57 GMT</pubDate>
     </item>
     <item>
-      <title>纽约街道下维持的纠缠光子</title>
-      <link>https://physics.aps.org/articles/v17/125</link>
-      <description><![CDATA[物理学使用现有商用光纤电缆的量子网络在实现基于偏振的量子纠缠分布的同时，实现了高保存率和保真度，超越了以前的性能指标。纽约初创公司 Qunnect 联合创始人 Mehdi Namazi 领导的团队连续 15 天向纽约市光纤网络 34 公里长的路段发送了每秒 20,000 个纠缠光子。测试实现了 99.84% 的正常运行时间，纠缠光子的补偿保真度达到 99%，传输速率约为每秒 20,000 个。每秒有 50 万个光子，保真度接近 90%。摘自“纽约街道下维持的纠缠光子”
-物理学 (08/09/24) Charles Day 查看全文]]></description>
-      <guid>https://physics.aps.org/articles/v17/125</guid>
-      <pubDate>Mon, 12 Aug 2024 15:09:10 GMT</pubDate>
+      <title>人工智能拼凑古代史诗</title>
+      <link>https://www.nytimes.com/2024/08/12/books/booksupdate/ai-ancient-tablets-gilgamesh.html</link>
+      <description><![CDATA[《纽约时报》研究人员正在利用人工智能来解读 3000 多年前的泥板，上面记载着《吉尔伽美什史诗》和其他古代著作的残片。全球各地的博物馆和大学收藏着 50 多万块泥板和更多的泥板残片，由于缺乏楔形文字专家，许多泥板尚未被阅读或出版。德国慕尼黑路德维希马克西米利安大学的 Enrique Jiménez 领导的研究人员使用机器学习模型识别了这首诗的新片段以及其他作品中数百个缺失的单词和行。摘自《AI 拼凑古代史诗》
+纽约时报 (08/12/24) Erik Ofgang 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/08/12/books/booksupdate/ai-ancient-tablets-gilgamesh.html</guid>
+      <pubDate>Wed, 14 Aug 2024 15:07:56 GMT</pubDate>
     </item>
     <item>
-      <title>GPS 欺骗器对商业航空公司实施“黑客攻击”</title>
-      <link>https://www.reuters.com/technology/cybersecurity/gps-spoofers-hack-time-commercial-airlines-researchers-say-2024-08-10/</link>
-      <description><![CDATA[路透社网络安全公司 Pen Test Partners 创始人肯·蒙罗 (Ken Munro) 表示，最近 GPS “欺骗”事件激增，其中包括时间被“黑客”的事件。蒙罗在周六的 DEF CON 黑客大会上发表演讲时表示：“我们过多地认为 GPS 是位置来源，但实际上它是时间来源。”他描述了最近发生的一起案件，一家西方大型航空公司运营的飞机上的机载时钟突然向前调了好几年，导致飞机无法访问其数字加密的通信系统。摘自“GPS 欺骗者‘黑客入侵’商业航空公司的时间”
-路透社 (08/10/24) James Pearson 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/cybersecurity/gps-spoofers-hack-time-commercial-airlines-researchers-say-2024-08-10/</guid>
-      <pubDate>Mon, 12 Aug 2024 15:09:10 GMT</pubDate>
+      <title>夏娃，收集 DNA 的机器鱼</title>
+      <link>https://www.cnn.com/science/switzerland-dna-collecting-robot-fish-hnk-spc/index.html</link>
+      <description><![CDATA[CNN瑞士苏黎世联邦理工学院的工程系学生开发了一种机器鱼，它带有硅胶尾巴，可以与苏黎世湖的生态系统融为一体。这种机器鱼名为 Eve，由隐藏的泵驱动，并配有一个摄像头，可以在水下拍摄。Eve 使用声纳结合算法绕过障碍物。此外，它还配备了一个过滤器，可以从环境中收集 DNA，这可以用来识别生活在水体中的物种。摘自“Eve，收集 DNA 的机器鱼”
+CNN (08/11/24) Amy Gunia；Alkira Reinfrank 查看全文]]></description>
+      <guid>https://www.cnn.com/science/switzerland-dna-collecting-robot-fish-hnk-spc/index.html</guid>
+      <pubDate>Wed, 14 Aug 2024 15:07:56 GMT</pubDate>
     </item>
     <item>
-      <title>芯片制造巨头了解到在台湾行得通的方法在亚利桑那州行不通</title>
-      <link>https://www.nytimes.com/2024/08/08/business/tsmc-phoenix-arizona-semiconductor.html</link>
-      <description><![CDATA[《纽约时报》宣布计划在亚利桑那州建立芯片厂四年后，台湾半导体制造公司 (TSMC) 仍未开始销售在那里生产的半导体，目前预计芯片生产将于 2025 年上半年开始。大部分滞后可以归因于台湾管理人员和美国工人之间的文化冲突，促使该公司为管理人员提供沟通培训。台积电在亚利桑那州也缺乏熟练工人和供应商网络，尽管它从台湾引进了数千名工人到凤凰城，但高管们表示，这一战略是不可持续的。与此同时，当地的高中和大学正在加大力度培训未来的台积电工人。摘自“芯片制造巨头了解到在台湾行得通的东西在亚利桑那州行不通”
-纽约时报 (08/08/24) John Liu 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/08/08/business/tsmc-phoenix-arizona-semiconductor.html</guid>
-      <pubDate>Mon, 12 Aug 2024 15:09:09 GMT</pubDate>
+      <title>克罗格因使用电子货架标签而受到批评</title>
+      <link>https://www.grocerydive.com/news/kroger-electronic-shelf-labels-instore-technology-senators-inflation/723939/</link>
+      <description><![CDATA[Grocery Dive美国参议员伊丽莎白·沃伦 (Elizabeth Warren) 和罗伯特·P·凯西 (Robert P. Casey, Jr.) 正在向 Kroger 寻求有关其使用电子货架标签的信息。在致 Kroger 董事长兼首席执行官罗德尼·麦克马伦 (Rodney McMullen) 的一封信中，参议员们指责该公司使用该技术“调整价格上涨以获取最大利润”并“收集和利用敏感的消费者数据”。他们表示，当特定产品的需求增加时，该技术可以让杂货店提高价格。他们还对使用摄像头和面部识别技术来确定购物者的年龄、性别和其他信息以生成个性化优惠和广告表示担忧。摘自“Kroger 因使用电子货架标签而受到抨击”
+Grocery Dive (08/12/2024) Peyton Bigora 查看全文]]></description>
+      <guid>https://www.grocerydive.com/news/kroger-electronic-shelf-labels-instore-technology-senators-inflation/723939/</guid>
+      <pubDate>Wed, 14 Aug 2024 15:07:55 GMT</pubDate>
     </item>
     <item>
-      <title>初创公司推出应对阿片类药物危机的救命技术</title>
-      <link>https://spectrum.ieee.org/opioid-addiction</link>
-      <description><![CDATA[IEEE Spectrum科技初创公司正在开发应对阿片类药物危机的技术。例如，OpiAID 的研究人员正在研究一种预测算法，该算法使用患者的生物特征数据来帮助临床医生定制阿片类药物使用障碍的治疗方案。与此同时，Masimo 的 Halo 设备（配有脉搏血氧仪和传感器）和 Celero Systems 的 Rescue-Rx（一种可摄入的传感器）监测生命体征以检测阿片类药物引起的呼吸抑制。Rescue-Rx 还可用于自动输送过量药物。摘自“初创公司推出应对阿片类药物危机的救命技术”
-IEEE Spectrum (08/08/24) Shannon Cuthrell 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/opioid-addiction</guid>
-      <pubDate>Mon, 12 Aug 2024 15:09:09 GMT</pubDate>
+      <title>冷却数据中心的新想法：管道中的液体、浸泡浴缸</title>
+      <link>https://www.wsj.com/tech/novel-ideas-to-cool-data-centers-liquid-in-pipes-or-a-dunking-bath-cdb7a393</link>
+      <description><![CDATA[《华尔街日报》生成式人工智能的出现让数据中心的冷却成为热门话题。到 2030 年，数据中心预计将消耗美国总电力需求的 8%，而目前约为 3%。对于即将推出的 GB200 服务器机架，Nvidia 将使用管道中循环的液体而不是空气来冷却硬件。该公司还在研究其他冷却技术，包括将整个抽屉大小的计算机浸泡在吸收和散发热量的非导电液体中。摘自“冷却数据中心的新想法：管道中的液体，浸泡浴缸”
+华尔街日报 (08/11/24) 杨杰 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/tech/novel-ideas-to-cool-data-centers-liquid-in-pipes-or-a-dunking-bath-cdb7a393</guid>
+      <pubDate>Wed, 14 Aug 2024 15:07:55 GMT</pubDate>
     </item>
     <item>
-      <title>思科将在最新一轮技术裁员中裁掉数千人</title>
-      <link>https://www.reuters.com/technology/cisco-lay-off-thousands-more-second-job-cut-this-year-sources-say-2024-08-09/</link>
-      <description><![CDATA[路透社据内部人士称，网络设备制造商思科将在今年第二轮裁员中裁减数千名员工。消息人士称，受影响的人数可能与思科 2 月份裁员的 4,000 名员工人数相同或略高。这是科技行业的最新裁员，该行业今年一直在削减成本以抵消对人工智能的巨额投资。根据跟踪网站 Layoffs.fyi 的数据，自今年年初以来，393 家科技公司已有超过 126,000 人被解雇。摘自“思科将在最新一轮科技裁员中裁员数千人”
-路透社 (08/10/24) Utkarsh Shetti； Supantha Mukherjee 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/cisco-lay-off-thousands-more-second-job-cut-this-year-sources-say-2024-08-09/</guid>
-      <pubDate>Mon, 12 Aug 2024 15:09:08 GMT</pubDate>
+      <title>捷克小镇助力欧洲参与全球芯片战争</title>
+      <link>https://www.bloomberg.com/news/features/2024-08-13/the-sleepy-czech-town-helping-the-eu-compete-in-the-global-chip-war</link>
+      <description><![CDATA[彭博社6 月，美国芯片制造商安森美半导体公司宣布将在捷克小镇罗兹诺夫建立一个价值 20 亿美元的制造中心，这是捷克 30 年来最大的外国投资。该计划涉及扩建一个已经用于生产电动汽车和可再生能源行业芯片的工厂。罗兹诺夫工厂目前每天生产 1000 万块芯片。随着工厂的重点转向更高容量的碳化硅半导体，这项新投资将提振捷克经济。摘自“捷克小镇帮助欧洲参与全球芯片战争”
+彭博社 (08/13/24) Krystof Chamonikolas; Michal Kubala 查看全文]]></description>
+      <guid>https://www.bloomberg.com/news/features/2024-08-13/the-sleepy-czech-town-helping-the-eu-compete-in-the-global-chip-war</guid>
+      <pubDate>Wed, 14 Aug 2024 15:07:54 GMT</pubDate>
     </item>
     <item>
-      <title>加州与 Nvidia 合作，为高校提供 AI 资源</title>
-      <link>https://apnews.com/article/nvidia-artificial-intelligence-ai-california-0958f43b6aecbdb7617dfcb78bad7319</link>
-      <description><![CDATA[美联社加州与科技巨头 Nvidia 合作，帮助培训该州的学生、大学教师、开发人员和数据科学家。该计划旨在增加新的课程和认证、硬件和软件以及 AI 实验室和研讨会，并特别关注社区学院。州长加文·纽森表示，“加州的世界领先公司正在开创人工智能突破，我们必须为加州人创造更多机会，让他们获得利用这项技术的技能，并推进他们的职业生涯。”摘自“加州与 Nvidia 合作，为大学带来人工智能资源”
-美联社 (08/09/24) Sarah Parvini 查看全文]]></description>
-      <guid>https://apnews.com/article/nvidia-artificial-intelligence-ai-california-0958f43b6aecbdb7617dfcb78bad7319</guid>
-      <pubDate>Mon, 12 Aug 2024 15:09:08 GMT</pubDate>
+      <title>TikTok 增加亲中内容</title>
+      <link>https://thehill.com/policy/technology/4826274-tiktok-boosts-pro-cpp-content-shifts-users-views-toward-china-study/</link>
+      <description><![CDATA[国会山报根据网络传染研究所 (NCRI) 与罗格斯大学联合发布的一份报告，TikTok 的算法会推广有利于中国政府的内容，以改变用户的观点。研究发现，该算法会推广亲中共的内容，并压制批评政府的视频。研究还发现，许多亲中共的内容都与国家政府支持的账户有关，包括国家支持的网红或官方媒体。摘自“TikTok 助推亲中内容”
+国会山报 (08/13/24) Nick Robertson 查看全文]]></description>
+      <guid>https://thehill.com/policy/technology/4826274-tiktok-boosts-pro-cpp-content-shifts-users-views-toward-china-study/</guid>
+      <pubDate>Wed, 14 Aug 2024 15:07:54 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普竞选团队证实遭黑客攻击</title>
-      <link>https://www.politico.com/news/2024/08/10/trump-campaign-hack-00173503</link>
-      <description><![CDATA[Politico前总统唐纳德·特朗普的竞选团队周六表示，其部分内部电子邮件遭到黑客攻击。此前，Politico 开始收到来自匿名账户的电子邮件，其中包含特朗普内部运作的文件，包括竞选团队对特朗普竞选搭档俄亥俄州参议员 JD Vance 的研究档案。竞选团队将责任归咎于“对美国怀有敌意的外国消息来源”，援引微软周五的一份报告称，伊朗黑客“6 月份向总统竞选活动的一名高级官员发送了一封鱼叉式网络钓鱼电子邮件”。摘自“特朗普竞选团队证实遭到黑客攻击”
-Politico (08/10/24) Alex Isenstadt 查看全文]]></description>
-      <guid>https://www.politico.com/news/2024/08/10/trump-campaign-hack-00173503</guid>
-      <pubDate>Mon, 12 Aug 2024 15:09:07 GMT</pubDate>
+      <title>NIST 发布首批三项最终版后量子加密标准</title>
+      <link>https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards</link>
+      <description><![CDATA[NIST美国国家标准与技术研究所 (NIST) 发布了三种加密算法，旨在抵御来自量子计算机的网络攻击。FIPS 203 源自后量子加密算法 Kyber。FIPS 204 基于 Dilithium，旨在保护数字签名。FIPS 205 基于 SHA-2 或 SHA-3 的安全性，使用非常小的公钥提供强大的安全性，生成约 7 千字节的签名。NIST 的 Laurie E. Locascio 说道。 “量子计算技术可能成为解决许多社会最棘手问题的力量，新标准代表了 NIST 致力于确保它不会同时破坏我们的安全。”摘自“NIST 发布前三个最终确定的后量子加密标准”
+NIST (08/13/24) 查看全文]]></description>
+      <guid>https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards</guid>
+      <pubDate>Wed, 14 Aug 2024 15:07:53 GMT</pubDate>
     </item>
     <item>
-      <title>科技旨在识别未来的奥运选手</title>
-      <link>https://www.bbc.com/news/articles/cmj2jkppvx3o</link>
-      <description><![CDATA[BBC 新闻在巴黎奥林匹克体育场附近设立的基于人工智能的人才发现技术旨在发现下一代体育明星。研究人员分析了跑步、跳跃和握力等五项测试的数据，以评估一个人的力量、爆发力、耐力、反应时间、力量和敏捷性。研究人员将结果与专业运动员和奥运会运动员的数据进行比较。英特尔奥运会和残奥会项目负责人 Sarah Vickers 表示：“我们使用计算机视觉和历史数据，因此普通人可以将自己与精英运动员进行比较，看看他们最适合哪项运动。”摘自“科技旨在发现未来的奥运选手”
-BBC 新闻 (08/08/24) Peter Ball 查看全文]]></description>
-      <guid>https://www.bbc.com/news/articles/cmj2jkppvx3o</guid>
-      <pubDate>Mon, 12 Aug 2024 15:09:07 GMT</pubDate>
+      <title>美国老年人为迎接人工智能做好准备</title>
+      <link>https://apnews.com/article/seniors-artificial-intelligence-deepfake-education-classes-bc30958c273af7c79bfe77d321617738</link>
+      <description><![CDATA[美联社美国各地都在开设课程，帮助老年人更好地了解人工智能的好处和风险。这些课程通常会详细介绍人工智能如何使某些任务变得更容易，同时警告他们注意深度伪造、错误信息和人工智能骗局。布法罗大学的 Siwei Lyu 说：“我们需要为老年人提供这种教育，但我们采取的方法必须非常平衡且精心设计。”摘自“美国老年人为人工智能做好准备”
+美联社 (08/13/24) Dan Merica 查看全文]]></description>
+      <guid>https://apnews.com/article/seniors-artificial-intelligence-deepfake-education-classes-bc30958c273af7c79bfe77d321617738</guid>
+      <pubDate>Wed, 14 Aug 2024 15:07:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>专家尝试破解新的投票平台</title>
+      <link>https://www.reuters.com/technology/can-online-voting-be-secure-experts-las-vegas-try-hack-new-platform-2024-08-09/</link>
+      <description><![CDATA[路透社在 8 月 9 日举行的 DEF CON 会议上，黑客试图入侵新的在线安全互联网投票 (SIV) 平台以识别漏洞。SIV 平台正在美国各地的小型试点项目中进行测试，并在 2023 年共和党初选期间使用。任何发现 SIV 平台漏洞的黑客都将分享 SIV 的 10,000 美元奖金。摘自“专家试图破解新投票平台”
+路透社 (08/09/24) James Pearson；Christopher Bing 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/can-online-voting-be-secure-experts-las-vegas-try-hack-new-platform-2024-08-09/</guid>
+      <pubDate>Wed, 14 Aug 2024 15:07:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
