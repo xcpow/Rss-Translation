@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 15 Aug 2024 06:11:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 09:08:18 GMT</lastBuildDate>
+    <item>
+      <title>密码破译者正在利用人工智能破译心脏的秘密节奏</title>
+      <link>https://www.wired.com/story/ai-doctor-roeland-decorte-future-industries/</link>
+      <description><![CDATA[罗兰·德科特 (Roeland Decorte) 受到自己破解古代密码的专业知识的启发，开发了一款智能手机应用程序，可以持续监听我们脉搏中隐藏的疾病迹象。]]></description>
+      <guid>https://www.wired.com/story/ai-doctor-roeland-decorte-future-industries/</guid>
+      <pubDate>Thu, 15 Aug 2024 09:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>2025 款福特 Maverick 表明混合动力皮卡将成为主流</title>
       <link>https://www.wired.com/story/the-2025-ford-maverick-shows-that-hybrid-pickup-trucks-are-going-mainstream/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[在导致全球数百万台计算机崩溃、企业陷入混乱之后，网络安全公司 CrowdStrike 必须保护自己免受已经开始的一系列法律行动的打击。细节决定成败。]]></description>
       <guid>https://www.wired.com/story/crowdstrike-outage-microsoft-delta-lawsuits-analysis/</guid>
       <pubDate>Wed, 07 Aug 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国法官裁定谷歌为非法垄断者。接下来可能会发生什么</title>
-      <link>https://www.wired.com/story/google-search-monopoly-judge-amit-mehta-options/</link>
-      <description><![CDATA[法官阿米特·梅塔的裁决引发了一场可能长达数年的程序，以决定如何惩罚该公司。对于用户来说，这可能意味着未来谷歌不再是无处不在的焦点。]]></description>
-      <guid>https://www.wired.com/story/google-search-monopoly-judge-amit-mehta-options/</guid>
-      <pubDate>Tue, 06 Aug 2024 22:02:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
