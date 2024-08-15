@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 15 Aug 2024 09:08:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 12:14:56 GMT</lastBuildDate>
+    <item>
+      <title>谷歌对黑客和诈骗者采取法律行动</title>
+      <link>https://www.wired.com/story/google-affirmative-litigation-hacker-scammer-lawsuits/</link>
+      <description><![CDATA[这家科技巨头表示，其“积极诉讼”可以阻止不良行为并提高人们对不良行为的认识。但怀疑者怀疑这些诉讼是否只是小事一桩。]]></description>
+      <guid>https://www.wired.com/story/google-affirmative-litigation-hacker-scammer-lawsuits/</guid>
+      <pubDate>Thu, 15 Aug 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>密码破译者正在利用人工智能破译心脏的秘密节奏</title>
       <link>https://www.wired.com/story/ai-doctor-roeland-decorte-future-industries/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[极右翼抗议者试图在社交媒体上传播暴力言论。Telegram 首次屏蔽了他们，而 X 则为他们提供了平台。]]></description>
       <guid>https://www.wired.com/story/telegram-is-blocking-the-far-right-from-boosting-the-uk-riots-x-is-emboldening-them/</guid>
       <pubDate>Wed, 07 Aug 2024 15:43:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike 可能面临大量诉讼。专家称，只有细则才能挽救它</title>
-      <link>https://www.wired.com/story/crowdstrike-outage-microsoft-delta-lawsuits-analysis/</link>
-      <description><![CDATA[在导致全球数百万台计算机崩溃、企业陷入混乱之后，网络安全公司 CrowdStrike 必须保护自己免受已经开始的一系列法律行动的打击。细节决定成败。]]></description>
-      <guid>https://www.wired.com/story/crowdstrike-outage-microsoft-delta-lawsuits-analysis/</guid>
-      <pubDate>Wed, 07 Aug 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
