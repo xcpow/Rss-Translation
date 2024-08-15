@@ -4,11 +4,25 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 15 Aug 2024 15:08:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 18:11:08 GMT</lastBuildDate>
+    <item>
+      <title>新款 Celsius 套装揭露 Tether 正在玩一场冒险的游戏</title>
+      <link>https://www.wired.com/story/tether-celsius-crypto-lawsuit-close-call/</link>
+      <description><![CDATA[这家破产的加密货币贷款机构的法律行动凸显了幕后操纵，这种操纵几乎使 Tether 免受广泛的市场动荡的影响。]]></description>
+      <guid>https://www.wired.com/story/tether-celsius-crypto-lawsuit-close-call/</guid>
+      <pubDate>Thu, 15 Aug 2024 17:42:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>研究人员根据风险对人工智能模型进行了排名——结果发现风险范围很广</title>
+      <link>https://www.wired.com/story/ai-models-risk-rank-studies/</link>
+      <description><![CDATA[研究表明，可以加强监管以防止人工智能的不当行为。]]></description>
+      <guid>https://www.wired.com/story/ai-models-risk-rank-studies/</guid>
+      <pubDate>Thu, 15 Aug 2024 16:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌对黑客和诈骗者采取法律行动</title>
       <link>https://www.wired.com/story/google-affirmative-litigation-hacker-scammer-lawsuits/</link>
-      <description><![CDATA[这家科技巨头表示，其“积极诉讼”可以阻止不良行为并提高人们对不良行为的认识。但怀疑者怀疑这些诉讼是否太微不足道。]]></description>
+      <description><![CDATA[这家科技巨头表示，其“积极诉讼”可以阻止不良行为并提高人们对不良行为的认识。怀疑论者怀疑这些诉讼是否只是小事一桩。]]></description>
       <guid>https://www.wired.com/story/google-affirmative-litigation-hacker-scammer-lawsuits/</guid>
       <pubDate>Thu, 15 Aug 2024 10:00:00 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[比尔·格罗斯的 ProRata 已与时代杂志和环球音乐集团等合作伙伴达成协议，其策略是让人工智能巨头为内容付费。]]></description>
       <guid>https://www.wired.com/story/bill-gross-prorata-generative-ai-business/</guid>
       <pubDate>Thu, 08 Aug 2024 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>帕尔默·卢基的国防初创公司 Anduril 融资 15 亿美元，用于生产人工智能武器</title>
-      <link>https://www.wired.com/story/anduril-palmer-luckey-funding-ai-drones-arsenal-factory/</link>
-      <description><![CDATA[该公司计划建造一座特斯拉风格、软件优化的工厂，用于生产自动无人机和其他战场技术。]]></description>
-      <guid>https://www.wired.com/story/anduril-palmer-luckey-funding-ai-drones-arsenal-factory/</guid>
-      <pubDate>Thu, 08 Aug 2024 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Telegram 争夺控制权，X 助长英国极右翼骚乱</title>
-      <link>https://www.wired.com/story/telegram-is-blocking-the-far-right-from-boosting-the-uk-riots-x-is-emboldening-them/</link>
-      <description><![CDATA[极右翼抗议者试图在社交媒体上传播暴力言论。Telegram 首次屏蔽了他们，而 X 则为他们提供了平台。]]></description>
-      <guid>https://www.wired.com/story/telegram-is-blocking-the-far-right-from-boosting-the-uk-riots-x-is-emboldening-them/</guid>
-      <pubDate>Wed, 07 Aug 2024 15:43:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
