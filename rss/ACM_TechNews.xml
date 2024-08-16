@@ -4,110 +4,110 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Wed, 14 Aug 2024 15:07:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2024 18:10:58 GMT</lastBuildDate>
     <item>
-      <title>家用机器人可能被黑客入侵，监视主人</title>
-      <link>https://techcrunch.com/2024/08/09/ecovacs-home-robots-can-be-hacked-to-spy-on-their-owners-researchers-say/</link>
-      <description><![CDATA[TechCrunch安全研究人员 Dennis Giese 和 Braelynn 发现 Ecovacs 的吸尘和割草机器人存在漏洞，黑客可以利用这些漏洞访问设备的摄像头和麦克风。研究人员发现，任何在距离 Ecovacs 机器人 450 英尺范围内的手机用户都可以通过蓝牙入侵该设备，然后远程访问麦克风和摄像头来监视用户。他们还发现，即使用户删除了账户，机器人上存储的数据以及身份验证令牌仍会保留在 Ecovacs 的云服务器上，而用于保护割草机机器人的 PIN 码则以纯文本形式存储在设备内部。摘自“家用机器人可能被黑客入侵以监视主人”
-TechCrunch (08/09/24) Lorenzo Franceschi-Bicchierai 查看全文]]></description>
-      <guid>https://techcrunch.com/2024/08/09/ecovacs-home-robots-can-be-hacked-to-spy-on-their-owners-researchers-say/</guid>
-      <pubDate>Wed, 14 Aug 2024 15:07:58 GMT</pubDate>
+      <title>气动计算机可预防血栓</title>
+      <link>https://news.ucr.edu/articles/2024/08/14/how-air-powered-computers-can-prevent-blood-clots</link>
+      <description><![CDATA[加州大学河滨分校新闻气动计算机可以监控间歇性气动压缩 (IPC) 设备，并在设备发生故障时发出警报。该计算机由加州大学河滨分校的研究人员开发，使用空气发出这些警报，在检测到问题时发出哨声。目标是通过消除电子传感器，以更低的成本提供更可靠的方法来预防血栓和中风。摘自“气动计算机可以预防血栓”
+加州大学河滨分校新闻 (08/14/24) Jules Bernstein 查看全文]]></description>
+      <guid>https://news.ucr.edu/articles/2024/08/14/how-air-powered-computers-can-prevent-blood-clots</guid>
+      <pubDate>Fri, 16 Aug 2024 18:10:58 GMT</pubDate>
     </item>
     <item>
-      <title>奥运会为视障观众提供无障碍技术</title>
-      <link>https://apnews.com/article/olympics-2024-accessibility-technology-8b918cbb5c49c6dad2f0e095444f67f1</link>
-      <description><![CDATA[美联社巴黎奥运会组织者采取措施，让有视力障碍的人更方便观看比赛。例如，Vision Pad 使用了一个移动的磁球，这样用户就可以在篮球、足球、橄榄球和四项残奥会运动中跟踪球的运动。低视力头盔可以让用户放大比赛、游戏或运动员，并在实况和电视报道之间切换。与此同时，奥运会应用程序提供了音频描述广播。摘自“奥运会为视障球迷提供无障碍技术”
-美联社 (08/10/24) 拉斐尔莱斯特 查看全文]]></description>
-      <guid>https://apnews.com/article/olympics-2024-accessibility-technology-8b918cbb5c49c6dad2f0e095444f67f1</guid>
-      <pubDate>Wed, 14 Aug 2024 15:07:57 GMT</pubDate>
+      <title>想赢得自行车比赛？破解对手的无线变速器</title>
+      <link>https://www.wired.com/story/shimano-wireless-bicycle-shifter-jamming-replay-attacks/</link>
+      <description><![CDATA[有线据加州大学圣地亚哥分校和东北大学的研究人员称，使用相对便宜的硬件即可破解自行车手使用的 Shimano Di2 无线变速系统。他们使用价值 1,500 美元的 USRP 软件定义无线电、天线和笔记本电脑测试了窃听和重放攻击，但表示该装置可以小型化。攻击者可以从 30 英尺外发出伪造信号，导致目标自行车意外换档或锁定在错误的档位。 Shimano 已发布固件更新来解决此问题。摘自“想赢得自行车比赛？破解对手的无线变速器”
+Wired (08/14/24) Andy Greenberg 查看全文]]></description>
+      <guid>https://www.wired.com/story/shimano-wireless-bicycle-shifter-jamming-replay-attacks/</guid>
+      <pubDate>Fri, 16 Aug 2024 18:10:57 GMT</pubDate>
     </item>
     <item>
-      <title>红外激光监视笔记本电脑的按键</title>
-      <link>https://www.wired.com/story/infrared-laser-microphone-keystroke-surveillance/</link>
-      <description><![CDATA[Wired黑客 Samy Kamkar（如图）在 Defcon 安全会议上演示了一种基于光的按键窃听技术。该技术包括通过窗户将不可见的激光指向笔记本电脑，并记录计算机的振动以重建正在输入的字符。Kamkar 表示，他的开源监视系统配备了第一个“在射频域中调制”的激光麦克风，能够拾取目标房间中说出或输入的任何内容。使用 400 千赫兹的频率，激光麦克风可以将声音转换为光，然后转换为无线电，然后再转换为声音。摘自“红外激光监视笔记本电脑的按键”
-Wired (08/08/24) Andy Greenberg 查看全文]]></description>
-      <guid>https://www.wired.com/story/infrared-laser-microphone-keystroke-surveillance/</guid>
-      <pubDate>Wed, 14 Aug 2024 15:07:57 GMT</pubDate>
+      <title>洛杉矶 Shake Shack 计划通过机器人送货</title>
+      <link>https://www.cnn.com/2024/08/14/business/la-residents-your-next-shake-shack-order-could-be-delivered-by-a-robot/index.html</link>
+      <description><![CDATA[CNN快餐休闲汉堡连锁店 Shake Shack 和 Serve Robotics 宣布合作，通过 Uber Eats 应用程序使用自动送货机器人在洛杉矶送餐。这些机器人形状像购物车，有四个轮子，将在人行道上行驶。自 2022 年以来，Serve 机器人已经通过 Uber Eats 从洛杉矶地区的餐厅送餐。摘自“洛杉矶 Shake Shack 订购机器人送货服务”
+CNN (08/14/24) Ramishah Maruf 查看全文]]></description>
+      <guid>https://www.cnn.com/2024/08/14/business/la-residents-your-next-shake-shack-order-could-be-delivered-by-a-robot/index.html</guid>
+      <pubDate>Fri, 16 Aug 2024 18:10:57 GMT</pubDate>
     </item>
     <item>
-      <title>无人机可独立控制位置和高度</title>
-      <link>https://interestingengineering.com/innovation/spain-aerial-robot-drone-overactuated</link>
-      <description><![CDATA[有趣的工程西班牙 Tecnalia 巴斯克研究与技术联盟的研究人员开发了一种过度驱动的空中机器人，它可以自主控制其位置和方向。它的中央主体通过被动万向节连接到四个四旋翼飞行器，使其能够独立地在六个方向上移动并执行复杂的动作。该机器人还可以在倾斜表面上起飞和降落，并具有先进的推力矢量功能。除其他外，其专门的控制算法将主体的期望位置和方向转换为其 16 个螺旋桨的角速度命令。摘自“无人机可以独立控制位置和高度”
-有趣的工程 (08/09/24) Kapil Kajal 查看全文]]></description>
-      <guid>https://interestingengineering.com/innovation/spain-aerial-robot-drone-overactuated</guid>
-      <pubDate>Wed, 14 Aug 2024 15:07:57 GMT</pubDate>
+      <title>每晚 Waymo Robotaxi 停车场的鸣笛声都会吵醒邻居</title>
+      <link>https://www.theverge.com/2024/8/11/24218134/waymo-parking-lot-livestream-honking-4am-san-francisco</link>
+      <description><![CDATA[The Verge旧金山软件工程师 Sophia Tung 本月早些时候进行了直播，展示了 Waymo 租用的停车场深夜的活动。Tung 指出，停车场通常在凌晨 4 点左右就停满了机器人出租车，车辆倒车、驶入或驶出时会鸣笛一小时左右。 Waymo 的 Chris Bonelli 表示，公司“意识到在某些情况下，我们的车辆在停车场行驶时可能会短暂鸣笛”，并正在努力纠正这一行为。摘自“夜间 Waymo Robotaxi 停车场鸣笛狂欢唤醒邻居”
+The Verge (08/11/24) Wes Davis 查看全文]]></description>
+      <guid>https://www.theverge.com/2024/8/11/24218134/waymo-parking-lot-livestream-honking-4am-san-francisco</guid>
+      <pubDate>Fri, 16 Aug 2024 18:10:56 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能拼凑古代史诗</title>
-      <link>https://www.nytimes.com/2024/08/12/books/booksupdate/ai-ancient-tablets-gilgamesh.html</link>
-      <description><![CDATA[《纽约时报》研究人员正在利用人工智能来解读 3000 多年前的泥板，上面记载着《吉尔伽美什史诗》和其他古代著作的残片。全球各地的博物馆和大学收藏着 50 多万块泥板和更多的泥板残片，由于缺乏楔形文字专家，许多泥板尚未被阅读或出版。德国慕尼黑路德维希马克西米利安大学的 Enrique Jiménez 领导的研究人员使用机器学习模型识别了这首诗的新片段以及其他作品中数百个缺失的单词和行。摘自《AI 拼凑古代史诗》
-纽约时报 (08/12/24) Erik Ofgang 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/08/12/books/booksupdate/ai-ancient-tablets-gilgamesh.html</guid>
-      <pubDate>Wed, 14 Aug 2024 15:07:56 GMT</pubDate>
+      <title>英国将在送货和紧急服务中试用无人机</title>
+      <link>https://www.reuters.com/business/aerospace-defense/britain-trial-use-drones-deliveries-emergency-services-2024-08-14/</link>
+      <description><![CDATA[路透社英国民航局 (CAA) 已选定六个项目，测试无人机在送货、基础设施检查和紧急服务中的使用情况。目前，英国的无人机用户仅被允许在严格限制的试验中飞出视线范围。作为民航局宣布的试验的一部分，选定的项目将能够使用先进的导航、控制和飞机检测技术，将无人机飞到飞行员无法看到的距离。摘自“英国将在送货、紧急服务中试用无人机”
+路透社 (08/14/24) Catarina Demony 查看全文]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/britain-trial-use-drones-deliveries-emergency-services-2024-08-14/</guid>
+      <pubDate>Fri, 16 Aug 2024 18:10:56 GMT</pubDate>
     </item>
     <item>
-      <title>夏娃，收集 DNA 的机器鱼</title>
-      <link>https://www.cnn.com/science/switzerland-dna-collecting-robot-fish-hnk-spc/index.html</link>
-      <description><![CDATA[CNN瑞士苏黎世联邦理工学院的工程系学生开发了一种机器鱼，它带有硅胶尾巴，可以与苏黎世湖的生态系统融为一体。这种机器鱼名为 Eve，由隐藏的泵驱动，并配有一个摄像头，可以在水下拍摄。Eve 使用声纳结合算法绕过障碍物。此外，它还配备了一个过滤器，可以从环境中收集 DNA，这可以用来识别生活在水体中的物种。摘自“Eve，收集 DNA 的机器鱼”
-CNN (08/11/24) Amy Gunia；Alkira Reinfrank 查看全文]]></description>
-      <guid>https://www.cnn.com/science/switzerland-dna-collecting-robot-fish-hnk-spc/index.html</guid>
-      <pubDate>Wed, 14 Aug 2024 15:07:56 GMT</pubDate>
+      <title>Boaty McBoatface 再次出现</title>
+      <link>https://www.bbc.com/news/articles/cy849kzep98o</link>
+      <description><![CDATA[BBC一艘名为“Boaty McBoatface”的机器人潜艇完成了从冰岛到苏格兰的创纪录旅程，以研究“海洋雪”，即来自微小动物的微小废物颗粒，这些颗粒含有大量碳并沉入海底。该机器人由英国国家海洋学中心的研究人员通过短信控制，包含 20 多个监测生物和化学状况的传感器。摘自“Boaty McBoatface 重新浮出水面”
+BBC (08/09/24) Georgina Rannard；Gwyndaf Hughes；Tony Jolliffe 查看全文]]></description>
+      <guid>https://www.bbc.com/news/articles/cy849kzep98o</guid>
+      <pubDate>Fri, 16 Aug 2024 18:10:55 GMT</pubDate>
     </item>
     <item>
-      <title>克罗格因使用电子货架标签而受到批评</title>
-      <link>https://www.grocerydive.com/news/kroger-electronic-shelf-labels-instore-technology-senators-inflation/723939/</link>
-      <description><![CDATA[Grocery Dive美国参议员伊丽莎白·沃伦 (Elizabeth Warren) 和罗伯特·P·凯西 (Robert P. Casey, Jr.) 正在向 Kroger 寻求有关其使用电子货架标签的信息。在致 Kroger 董事长兼首席执行官罗德尼·麦克马伦 (Rodney McMullen) 的一封信中，参议员们指责该公司使用该技术“调整价格上涨以获取最大利润”并“收集和利用敏感的消费者数据”。他们表示，当特定产品的需求增加时，该技术可以让杂货店提高价格。他们还对使用摄像头和面部识别技术来确定购物者的年龄、性别和其他信息以生成个性化优惠和广告表示担忧。摘自“Kroger 因使用电子货架标签而受到抨击”
-Grocery Dive (08/12/2024) Peyton Bigora 查看全文]]></description>
-      <guid>https://www.grocerydive.com/news/kroger-electronic-shelf-labels-instore-technology-senators-inflation/723939/</guid>
-      <pubDate>Wed, 14 Aug 2024 15:07:55 GMT</pubDate>
+      <title>黑客泄露 27 亿条包含社会安全号码的数据记录</title>
+      <link>https://www.bleepingcomputer.com/news/security/hackers-leak-27-billion-data-records-with-social-security-numbers/</link>
+      <description><![CDATA[BleepingComputer一个名为 Fenice 的威胁行为者泄露了今年早些时候从国家公共数据中窃取的近 27 亿条美国居民个人信息记录的最完整版本。这些数据可以通过 Breached 黑客论坛免费访问。这些数据以两个文本文件的形式提供，总计 277GB，包括姓名、社会安全号码、邮寄地址和可能的别名。这些数据是从公共来源抓取的，并出售给背景调查、犯罪记录搜索和私人调查员使用。摘自“黑客泄露 27 亿条包含社会安全号码的数据记录”
+BleepingComputer (08/11/24) Lawrence Abrams 查看全文]]></description>
+      <guid>https://www.bleepingcomputer.com/news/security/hackers-leak-27-billion-data-records-with-social-security-numbers/</guid>
+      <pubDate>Fri, 16 Aug 2024 18:10:55 GMT</pubDate>
     </item>
     <item>
-      <title>冷却数据中心的新想法：管道中的液体、浸泡浴缸</title>
-      <link>https://www.wsj.com/tech/novel-ideas-to-cool-data-centers-liquid-in-pipes-or-a-dunking-bath-cdb7a393</link>
-      <description><![CDATA[《华尔街日报》生成式人工智能的出现让数据中心的冷却成为热门话题。到 2030 年，数据中心预计将消耗美国总电力需求的 8%，而目前约为 3%。对于即将推出的 GB200 服务器机架，Nvidia 将使用管道中循环的液体而不是空气来冷却硬件。该公司还在研究其他冷却技术，包括将整个抽屉大小的计算机浸泡在吸收和散发热量的非导电液体中。摘自“冷却数据中心的新想法：管道中的液体，浸泡浴缸”
-华尔街日报 (08/11/24) 杨杰 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/tech/novel-ideas-to-cool-data-centers-liquid-in-pipes-or-a-dunking-bath-cdb7a393</guid>
-      <pubDate>Wed, 14 Aug 2024 15:07:55 GMT</pubDate>
+      <title>Meta 消灭虚假信息追踪工具</title>
+      <link>https://apnews.com/article/meta-crowdtangle-research-misinformation-shutdown-facebook-977ece074b99adddb4887bf719f2112a</link>
+      <description><![CDATA[美联社Meta Platforms 周三关闭了 CrowdTangle，该工具被研究人员、监督组织和记者广泛使用，用于追踪虚假信息在公司平台上的传播情况。5 月，数十个团体致信该公司，要求该公司至少在 1 月份之前保持该工具的运行，以便在美国总统大选期间可以使用。 Meta 发布了一个名为 Meta 内容库的替代方案，但访问权限仅限于学术研究人员和非营利组织，不包括大多数新闻机构。摘自“Meta 消灭虚假信息追踪工具”
+美联社 (08/14/24) Barbara Ortutay 查看全文]]></description>
+      <guid>https://apnews.com/article/meta-crowdtangle-research-misinformation-shutdown-facebook-977ece074b99adddb4887bf719f2112a</guid>
+      <pubDate>Fri, 16 Aug 2024 18:10:54 GMT</pubDate>
     </item>
     <item>
-      <title>捷克小镇助力欧洲参与全球芯片战争</title>
-      <link>https://www.bloomberg.com/news/features/2024-08-13/the-sleepy-czech-town-helping-the-eu-compete-in-the-global-chip-war</link>
-      <description><![CDATA[彭博社6 月，美国芯片制造商安森美半导体公司宣布将在捷克小镇罗兹诺夫建立一个价值 20 亿美元的制造中心，这是捷克 30 年来最大的外国投资。该计划涉及扩建一个已经用于生产电动汽车和可再生能源行业芯片的工厂。罗兹诺夫工厂目前每天生产 1000 万块芯片。随着工厂的重点转向更高容量的碳化硅半导体，这项新投资将提振捷克经济。摘自“捷克小镇帮助欧洲参与全球芯片战争”
-彭博社 (08/13/24) Krystof Chamonikolas; Michal Kubala 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/features/2024-08-13/the-sleepy-czech-town-helping-the-eu-compete-in-the-global-chip-war</guid>
-      <pubDate>Wed, 14 Aug 2024 15:07:54 GMT</pubDate>
+      <title>ACM 设立奖项，表彰历史上代表性不足的社区的研究人员</title>
+      <link>https://www.acm.org/media-center/2024/august/barroso-award-announcement</link>
+      <description><![CDATA[ACM 媒体中心ACM 设立了 Luiz André Barroso 奖，以表彰那些来自历史上代表性不足的社区、为计算机科学做出过根本性贡献的研究人员。Barroso 是一位巴西计算机工程师，他率先设计了现代数据中心。该年度奖项的获奖者将在他们选择的 ACM 大型会议上进行一小时的受邀演讲，并获得 40,000 美元的现金奖励，以及向获奖者选择的经批准的慈善机构额外捐赠 10,000 美元的现金。摘自“ACM 设立奖项，表彰来自历史上代表性不足的社区的研究人员”
+ACM 媒体中心 (08/15/24) 查看全文]]></description>
+      <guid>https://www.acm.org/media-center/2024/august/barroso-award-announcement</guid>
+      <pubDate>Fri, 16 Aug 2024 18:10:54 GMT</pubDate>
     </item>
     <item>
-      <title>TikTok 增加亲中内容</title>
-      <link>https://thehill.com/policy/technology/4826274-tiktok-boosts-pro-cpp-content-shifts-users-views-toward-china-study/</link>
-      <description><![CDATA[国会山报根据网络传染研究所 (NCRI) 与罗格斯大学联合发布的一份报告，TikTok 的算法会推广有利于中国政府的内容，以改变用户的观点。研究发现，该算法会推广亲中共的内容，并压制批评政府的视频。研究还发现，许多亲中共的内容都与国家政府支持的账户有关，包括国家支持的网红或官方媒体。摘自“TikTok 助推亲中内容”
-国会山报 (08/13/24) Nick Robertson 查看全文]]></description>
-      <guid>https://thehill.com/policy/technology/4826274-tiktok-boosts-pro-cpp-content-shifts-users-views-toward-china-study/</guid>
-      <pubDate>Wed, 14 Aug 2024 15:07:54 GMT</pubDate>
+      <title>亚马逊争夺核动力数据中心</title>
+      <link>https://spectrum.ieee.org/amazon-data-center-nuclear-power</link>
+      <description><![CDATA[IEEE Spectrum亚马逊网络服务公司 (Amazon Web Services) 将从 Susquehanna 蒸汽发电站购买额外的 180MW 电力，为其位于宾夕法尼亚州贝里克的数据中心供电，但该交易仍陷入监管之争。亚马逊特意将数据中心设在核能供应商附近，此举被称为共置，允许数据中心直接从发电厂获取电力，而不是连接到电网。共置为数据中心提供稳定、低成本和无碳的电力，但引发了对能源安全和公平性的担忧。摘自“亚马逊争夺核能数据中心”
+IEEE Spectrum (08/12/24) Andrew Moseman 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/amazon-data-center-nuclear-power</guid>
+      <pubDate>Fri, 16 Aug 2024 18:10:54 GMT</pubDate>
     </item>
     <item>
-      <title>NIST 发布首批三项最终版后量子加密标准</title>
-      <link>https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards</link>
-      <description><![CDATA[NIST美国国家标准与技术研究所 (NIST) 发布了三种加密算法，旨在抵御来自量子计算机的网络攻击。FIPS 203 源自后量子加密算法 Kyber。FIPS 204 基于 Dilithium，旨在保护数字签名。FIPS 205 基于 SHA-2 或 SHA-3 的安全性，使用非常小的公钥提供强大的安全性，生成约 7 千字节的签名。NIST 的 Laurie E. Locascio 说道。 “量子计算技术可能成为解决许多社会最棘手问题的力量，新标准代表了 NIST 致力于确保它不会同时破坏我们的安全。”摘自“NIST 发布前三个最终确定的后量子加密标准”
-NIST (08/13/24) 查看全文]]></description>
-      <guid>https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards</guid>
-      <pubDate>Wed, 14 Aug 2024 15:07:53 GMT</pubDate>
+      <title>范柯、Daniel Nichols 荣获 2024 年 ACM-IEEE CS 乔治·迈克尔纪念 HPC 奖学金</title>
+      <link>https://www.acm.org/media-center/2024/august/george-michael-fellowship-recipients-2024</link>
+      <description><![CDATA[ACM 媒体中心伊利诺伊大学芝加哥分校的范柯和马里兰大学的 Daniel Nichols 荣获 2024 年 ACM-IEEE CS 乔治·迈克尔纪念 HPC 奖学金。范柯因其在优化 MPI 集合性能、提高不规则并行 I/O 操作性能以及提高性能自省框架可扩展性方面的研究而获得认可。 Nichols 因在基于机器学习的性能建模以及 HPC 和科学代码的大型语言模型方面的进步而获得认可。摘自“Ke Fan、Daniel Nichols 获得 2024 年 ACM-IEEE CS George Michael 纪念 HPC 奖学金”
+ACM 媒体中心 (08/14/24) 查看全文]]></description>
+      <guid>https://www.acm.org/media-center/2024/august/george-michael-fellowship-recipients-2024</guid>
+      <pubDate>Fri, 16 Aug 2024 18:10:53 GMT</pubDate>
     </item>
     <item>
-      <title>美国老年人为迎接人工智能做好准备</title>
-      <link>https://apnews.com/article/seniors-artificial-intelligence-deepfake-education-classes-bc30958c273af7c79bfe77d321617738</link>
-      <description><![CDATA[美联社美国各地都在开设课程，帮助老年人更好地了解人工智能的好处和风险。这些课程通常会详细介绍人工智能如何使某些任务变得更容易，同时警告他们注意深度伪造、错误信息和人工智能骗局。布法罗大学的 Siwei Lyu 说：“我们需要为老年人提供这种教育，但我们采取的方法必须非常平衡且精心设计。”摘自“美国老年人为人工智能做好准备”
-美联社 (08/13/24) Dan Merica 查看全文]]></description>
-      <guid>https://apnews.com/article/seniors-artificial-intelligence-deepfake-education-classes-bc30958c273af7c79bfe77d321617738</guid>
-      <pubDate>Wed, 14 Aug 2024 15:07:53 GMT</pubDate>
+      <title>德国网络机构要求微软和 CrowdStrike 产品在故障后做出改进</title>
+      <link>https://www.wsj.com/articles/german-cyber-agency-wants-changes-in-microsoft-crowdstrike-products-after-tech-outage-05b82c19</link>
+      <description><![CDATA[WSJ Pro Cyber​​security德国联邦信息安全局 (BSI) 希望微软改变允许安全提供商访问其 Windows 内核的方式以及 CrowdStrike 和其他网络公司设计其工具的方式，以期限制这种访问。该机构表示，其努力重点是降低大规模技术中断的可能性，例如上个月因 CrowdStrike 软件故障而导致的中断。摘自“德国网络机构希望在中断后对微软、CrowdStrike 产品进行更改”
+WSJ Pro Cyber​​security (08/14/24) Catherine Stupp 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/articles/german-cyber-agency-wants-changes-in-microsoft-crowdstrike-products-after-tech-outage-05b82c19</guid>
+      <pubDate>Fri, 16 Aug 2024 18:10:53 GMT</pubDate>
     </item>
     <item>
-      <title>专家尝试破解新的投票平台</title>
-      <link>https://www.reuters.com/technology/can-online-voting-be-secure-experts-las-vegas-try-hack-new-platform-2024-08-09/</link>
-      <description><![CDATA[路透社在 8 月 9 日举行的 DEF CON 会议上，黑客试图入侵新的在线安全互联网投票 (SIV) 平台以识别漏洞。SIV 平台正在美国各地的小型试点项目中进行测试，并在 2023 年共和党初选期间使用。任何发现 SIV 平台漏洞的黑客都将分享 SIV 的 10,000 美元奖金。摘自“专家试图破解新投票平台”
-路透社 (08/09/24) James Pearson；Christopher Bing 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/can-online-voting-be-secure-experts-las-vegas-try-hack-new-platform-2024-08-09/</guid>
-      <pubDate>Wed, 14 Aug 2024 15:07:53 GMT</pubDate>
+      <title>文本转语音脑植入物帮助 ALS 患者恢复声音</title>
+      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/text-to-speech-brain-implant-restores-als-patients-voice-2024-08-14/</link>
+      <description><![CDATA[路透社一名患有肌萎缩侧索硬化症 (ALS) 并失去说话能力的男子，现在能够通过 Blackrock Neurotech 的文字转语音大脑植入物进行交流。研究人员植入了四个微电极阵列，使用 256 个皮层内电极来记录神经活动。解码器软件可以快速训练并在线重新校准。屏幕上显示单词，然后使用软件将其发声，该软件设计为听起来像该男子患 ALS 之前的声音。摘自“文本转语音脑植入物恢复 ALS 患者的声音”
+路透社 (08/15/24) Nancy Lapid 查看全文]]></description>
+      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/text-to-speech-brain-implant-restores-als-patients-voice-2024-08-14/</guid>
+      <pubDate>Fri, 16 Aug 2024 18:10:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
