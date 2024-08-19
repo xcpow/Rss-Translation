@@ -4,110 +4,94 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Fri, 16 Aug 2024 18:10:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 15:08:04 GMT</lastBuildDate>
     <item>
-      <title>气动计算机可预防血栓</title>
-      <link>https://news.ucr.edu/articles/2024/08/14/how-air-powered-computers-can-prevent-blood-clots</link>
-      <description><![CDATA[加州大学河滨分校新闻气动计算机可以监控间歇性气动压缩 (IPC) 设备，并在设备发生故障时发出警报。该计算机由加州大学河滨分校的研究人员开发，使用空气发出这些警报，在检测到问题时发出哨声。目标是通过消除电子传感器，以更低的成本提供更可靠的方法来预防血栓和中风。摘自“气动计算机可以预防血栓”
-加州大学河滨分校新闻 (08/14/24) Jules Bernstein 查看全文]]></description>
-      <guid>https://news.ucr.edu/articles/2024/08/14/how-air-powered-computers-can-prevent-blood-clots</guid>
-      <pubDate>Fri, 16 Aug 2024 18:10:58 GMT</pubDate>
+      <title>光子芯片降低搜寻系外行星的成本</title>
+      <link>https://spectrum.ieee.org/photonic-integrated-circuit</link>
+      <description><![CDATA[IEEE Spectrum加拿大国家研究委员会的研究人员开发了一种光子芯片，用于立方体卫星（小型标准化卫星），以减小探测系外行星所需组件的尺寸、重量和成本。该芯片采用光子集成电路 (PIC) 滤波器，可在系外行星“日食”期间识别细微的气体特征。研究人员发现，当集成到定制的 3U 立方体卫星平台中时，氮化硅 PIC 可检测到入射光中 CO2 的吸收特征。摘自“光子芯片降低寻找系外行星的成本”
+IEEE Spectrum (08/12/24) Rachel Berkowitz 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/photonic-integrated-circuit</guid>
+      <pubDate>Mon, 19 Aug 2024 15:08:04 GMT</pubDate>
     </item>
     <item>
-      <title>想赢得自行车比赛？破解对手的无线变速器</title>
-      <link>https://www.wired.com/story/shimano-wireless-bicycle-shifter-jamming-replay-attacks/</link>
-      <description><![CDATA[有线据加州大学圣地亚哥分校和东北大学的研究人员称，使用相对便宜的硬件即可破解自行车手使用的 Shimano Di2 无线变速系统。他们使用价值 1,500 美元的 USRP 软件定义无线电、天线和笔记本电脑测试了窃听和重放攻击，但表示该装置可以小型化。攻击者可以从 30 英尺外发出伪造信号，导致目标自行车意外换档或锁定在错误的档位。 Shimano 已发布固件更新来解决此问题。摘自“想赢得自行车比赛？破解对手的无线变速器”
-Wired (08/14/24) Andy Greenberg 查看全文]]></description>
-      <guid>https://www.wired.com/story/shimano-wireless-bicycle-shifter-jamming-replay-attacks/</guid>
-      <pubDate>Fri, 16 Aug 2024 18:10:57 GMT</pubDate>
+      <title>Instagram 未能遏制针对女性政客的仇恨言论</title>
+      <link>https://www.reuters.com/technology/metas-instagram-failed-curtail-hate-speech-against-women-politicians-report-says-2024-08-14/</link>
+      <description><![CDATA[路透社在 8 月 14 日发布的一份报告中，反数字仇恨中心 (CCDH) 指责 Meta Platforms 的 Instagram 未能删除针对女性政治候选人的仇恨言论。该非营利组织对女性政治家（五名民主党人和五名共和党人）在 Instagram 帖子上发表的 50 多万条评论进行了研究，发现有超过 2 万条“有毒”评论，其中 1,000 条包括性别歧视和种族歧视辱骂以及强奸或死亡威胁。尽管违反了平台的标准，但这些评论中有 93% 并未被删除。摘自“Instagram 未能遏制针对女性政治家的仇恨言论”
+路透社 (08/14/24) Priyanka.G; Akash Sriram 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/metas-instagram-failed-curtail-hate-speech-against-women-politicians-report-says-2024-08-14/</guid>
+      <pubDate>Mon, 19 Aug 2024 15:08:03 GMT</pubDate>
     </item>
     <item>
-      <title>洛杉矶 Shake Shack 计划通过机器人送货</title>
-      <link>https://www.cnn.com/2024/08/14/business/la-residents-your-next-shake-shack-order-could-be-delivered-by-a-robot/index.html</link>
-      <description><![CDATA[CNN快餐休闲汉堡连锁店 Shake Shack 和 Serve Robotics 宣布合作，通过 Uber Eats 应用程序使用自动送货机器人在洛杉矶送餐。这些机器人形状像购物车，有四个轮子，将在人行道上行驶。自 2022 年以来，Serve 机器人已经通过 Uber Eats 从洛杉矶地区的餐厅送餐。摘自“洛杉矶 Shake Shack 订购机器人送货服务”
-CNN (08/14/24) Ramishah Maruf 查看全文]]></description>
-      <guid>https://www.cnn.com/2024/08/14/business/la-residents-your-next-shake-shack-order-could-be-delivered-by-a-robot/index.html</guid>
-      <pubDate>Fri, 16 Aug 2024 18:10:57 GMT</pubDate>
+      <title>哈里斯竞选团队的 Google 广告改写了新闻头条</title>
+      <link>https://www.axios.com/2024/08/13/harris-campaign-google-poltical-ads-news-publishers</link>
+      <description><![CDATA[Axios美国总统候选人卡马拉·哈里斯的竞选团队一直在编辑谷歌搜索广告中的新闻标题和描述，使其看起来好像主要媒体出版商支持她。广告称它们是赞助的，但目前尚不清楚伴随真实新闻链接的文字是由竞选团队撰写的，而不是媒体出版物本身撰写的。摘自“哈里斯竞选团队的谷歌广告改写新闻头条”
+Axios (08/13/24) Sara Fischer 查看全文]]></description>
+      <guid>https://www.axios.com/2024/08/13/harris-campaign-google-poltical-ads-news-publishers</guid>
+      <pubDate>Mon, 19 Aug 2024 15:08:03 GMT</pubDate>
     </item>
     <item>
-      <title>每晚 Waymo Robotaxi 停车场的鸣笛声都会吵醒邻居</title>
-      <link>https://www.theverge.com/2024/8/11/24218134/waymo-parking-lot-livestream-honking-4am-san-francisco</link>
-      <description><![CDATA[The Verge旧金山软件工程师 Sophia Tung 本月早些时候进行了直播，展示了 Waymo 租用的停车场深夜的活动。Tung 指出，停车场通常在凌晨 4 点左右就停满了机器人出租车，车辆倒车、驶入或驶出时会鸣笛一小时左右。 Waymo 的 Chris Bonelli 表示，公司“意识到在某些情况下，我们的车辆在停车场行驶时可能会短暂鸣笛”，并正在努力纠正这一行为。摘自“夜间 Waymo Robotaxi 停车场鸣笛狂欢唤醒邻居”
-The Verge (08/11/24) Wes Davis 查看全文]]></description>
-      <guid>https://www.theverge.com/2024/8/11/24218134/waymo-parking-lot-livestream-honking-4am-san-francisco</guid>
-      <pubDate>Fri, 16 Aug 2024 18:10:56 GMT</pubDate>
+      <title>加州数字驾驶执照可在苹果、谷歌钱包中使用</title>
+      <link>https://www.latimes.com/california/story/2024-08-15/california-mobile-drivers-license-apple-google-wallet</link>
+      <description><![CDATA[洛杉矶时报自 9 月试运行以来，加州的数字驾照用户已达 50 万，约占该州持照司机的 2%。当苹果和谷歌开始支持预装在 iPhone 和安卓智能手机上的钱包中的移动加州驾照时，这一数字可能会上升。摘自“加州的数字驾照将在苹果、谷歌钱包中发挥作用”
+洛杉矶时报 (08/15/24) Jon Healey 查看全文]]></description>
+      <guid>https://www.latimes.com/california/story/2024-08-15/california-mobile-drivers-license-apple-google-wallet</guid>
+      <pubDate>Mon, 19 Aug 2024 15:08:02 GMT</pubDate>
     </item>
     <item>
-      <title>英国将在送货和紧急服务中试用无人机</title>
-      <link>https://www.reuters.com/business/aerospace-defense/britain-trial-use-drones-deliveries-emergency-services-2024-08-14/</link>
-      <description><![CDATA[路透社英国民航局 (CAA) 已选定六个项目，测试无人机在送货、基础设施检查和紧急服务中的使用情况。目前，英国的无人机用户仅被允许在严格限制的试验中飞出视线范围。作为民航局宣布的试验的一部分，选定的项目将能够使用先进的导航、控制和飞机检测技术，将无人机飞到飞行员无法看到的距离。摘自“英国将在送货、紧急服务中试用无人机”
-路透社 (08/14/24) Catarina Demony 查看全文]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/britain-trial-use-drones-deliveries-emergency-services-2024-08-14/</guid>
-      <pubDate>Fri, 16 Aug 2024 18:10:56 GMT</pubDate>
+      <title>出售的安卓手机含有隐藏的不安全功能</title>
+      <link>https://www.washingtonpost.com/technology/2024/08/15/google-sold-android-phones-with-hidden-insecure-feature-companies-find/</link>
+      <description><![CDATA[《华盛顿邮报》据安全公司 iVerify 称，谷歌为某些 Android 手机开发的主软件包含一项隐藏功能，激活后可允许远程控制或监视用户。该公司在美国情报承包商的手机中发现了该功能。该功能旨在让商店员工能够深入访问手机，以便他们演示手机的工作原理。该应用程序名为 Showcase.apk，通常处于休眠状态，但 iVerify 能够在其拥有的设备上启用它。摘自“出售带有隐藏不安全功能的 Android 手机”
+《华盛顿邮报》（2024 年 8 月 15 日）Joseph Menn 查看全文]]></description>
+      <guid>https://www.washingtonpost.com/technology/2024/08/15/google-sold-android-phones-with-hidden-insecure-feature-companies-find/</guid>
+      <pubDate>Mon, 19 Aug 2024 15:08:02 GMT</pubDate>
     </item>
     <item>
-      <title>Boaty McBoatface 再次出现</title>
-      <link>https://www.bbc.com/news/articles/cy849kzep98o</link>
-      <description><![CDATA[BBC一艘名为“Boaty McBoatface”的机器人潜艇完成了从冰岛到苏格兰的创纪录旅程，以研究“海洋雪”，即来自微小动物的微小废物颗粒，这些颗粒含有大量碳并沉入海底。该机器人由英国国家海洋学中心的研究人员通过短信控制，包含 20 多个监测生物和化学状况的传感器。摘自“Boaty McBoatface 重新浮出水面”
-BBC (08/09/24) Georgina Rannard；Gwyndaf Hughes；Tony Jolliffe 查看全文]]></description>
-      <guid>https://www.bbc.com/news/articles/cy849kzep98o</guid>
-      <pubDate>Fri, 16 Aug 2024 18:10:55 GMT</pubDate>
+      <title>英国攻读计算机科学学位的女性数量持续增长</title>
+      <link>https://www.bcs.org/articles-opinion-and-research/number-of-women-taking-computer-science-degrees-continues-to-grow/</link>
+      <description><![CDATA[英国计算机学会英国特许信息技术协会 (BCS) 援引英国大学和学院招生服务中心的数据报告称，与 2023-24 学年相比，今年秋季入读学位级计算机课程的英国 18 岁女性人数增加了 8%。虽然该地区的男女比例仍保持在 4:1 左右，但随着女学生的参与度增加，男女比例继续缩小。摘自“英国攻读计算机科学学位的女性人数持续增长”
+英国计算机学会 (08/15/24)]]></description>
+      <guid>https://www.bcs.org/articles-opinion-and-research/number-of-women-taking-computer-science-degrees-continues-to-grow/</guid>
+      <pubDate>Mon, 19 Aug 2024 15:08:01 GMT</pubDate>
     </item>
     <item>
-      <title>黑客泄露 27 亿条包含社会安全号码的数据记录</title>
-      <link>https://www.bleepingcomputer.com/news/security/hackers-leak-27-billion-data-records-with-social-security-numbers/</link>
-      <description><![CDATA[BleepingComputer一个名为 Fenice 的威胁行为者泄露了今年早些时候从国家公共数据中窃取的近 27 亿条美国居民个人信息记录的最完整版本。这些数据可以通过 Breached 黑客论坛免费访问。这些数据以两个文本文件的形式提供，总计 277GB，包括姓名、社会安全号码、邮寄地址和可能的别名。这些数据是从公共来源抓取的，并出售给背景调查、犯罪记录搜索和私人调查员使用。摘自“黑客泄露 27 亿条包含社会安全号码的数据记录”
-BleepingComputer (08/11/24) Lawrence Abrams 查看全文]]></description>
-      <guid>https://www.bleepingcomputer.com/news/security/hackers-leak-27-billion-data-records-with-social-security-numbers/</guid>
-      <pubDate>Fri, 16 Aug 2024 18:10:55 GMT</pubDate>
+      <title>犹他州软件开发人员的薪资很高且增长迅速</title>
+      <link>https://www.axios.com/local/salt-lake-city/2024/08/15/utah-salt-lake-software-developer-salaries</link>
+      <description><![CDATA[AxiosADP 研究所的最新数据显示，盐湖城大都市地区的软件开发人员的薪资增长速度比美国其他任何地方都快，现在那里的薪资比大得多、生活成本高得多的城市都要高。之前的分析显示，犹他州的科技薪资落后于西部其他地区，但自 2018 年以来，盐湖城的薪资增长了 35%，现在盐湖城的开发人员的收入超过了丹佛和波特兰，甚至超过了芝加哥和华盛顿特区等大城市。摘自“犹他州软件开发人员的薪资很高，而且增长迅速”
+Axios (08/15/24) Erin Alberty； Kavya Beheraj 查看全文]]></description>
+      <guid>https://www.axios.com/local/salt-lake-city/2024/08/15/utah-salt-lake-software-developer-salaries</guid>
+      <pubDate>Mon, 19 Aug 2024 15:08:01 GMT</pubDate>
     </item>
     <item>
-      <title>Meta 消灭虚假信息追踪工具</title>
-      <link>https://apnews.com/article/meta-crowdtangle-research-misinformation-shutdown-facebook-977ece074b99adddb4887bf719f2112a</link>
-      <description><![CDATA[美联社Meta Platforms 周三关闭了 CrowdTangle，该工具被研究人员、监督组织和记者广泛使用，用于追踪虚假信息在公司平台上的传播情况。5 月，数十个团体致信该公司，要求该公司至少在 1 月份之前保持该工具的运行，以便在美国总统大选期间可以使用。 Meta 发布了一个名为 Meta 内容库的替代方案，但访问权限仅限于学术研究人员和非营利组织，不包括大多数新闻机构。摘自“Meta 消灭虚假信息追踪工具”
-美联社 (08/14/24) Barbara Ortutay 查看全文]]></description>
-      <guid>https://apnews.com/article/meta-crowdtangle-research-misinformation-shutdown-facebook-977ece074b99adddb4887bf719f2112a</guid>
-      <pubDate>Fri, 16 Aug 2024 18:10:54 GMT</pubDate>
+      <title>联邦法院维持加州儿童网络安全法禁令</title>
+      <link>https://www.washingtonpost.com/technology/2024/08/16/child-online-safety-california-blocked/</link>
+      <description><![CDATA[《华盛顿邮报》周五，旧金山第九巡回上诉法院基本维持了下级法院的一项裁决，该裁决阻止了加州 2022 年儿童网络安全法的关键条款，裁定该法律要求科技公司在推出产品之前检查其产品是否会对儿童造成伤害，这可能违反了第一修正案。法院裁定，该要求引发了宪法审查，“因为它明显强制言论”，迫使公司“发表意见”哪些内容可能对儿童有害。摘自“联邦法院维持对加州儿童网络安全法的禁令”
+华盛顿邮报 (08/17/24) Cristiano Lima-Strong 查看全文]]></description>
+      <guid>https://www.washingtonpost.com/technology/2024/08/16/child-online-safety-california-blocked/</guid>
+      <pubDate>Mon, 19 Aug 2024 15:08:00 GMT</pubDate>
     </item>
     <item>
-      <title>ACM 设立奖项，表彰历史上代表性不足的社区的研究人员</title>
-      <link>https://www.acm.org/media-center/2024/august/barroso-award-announcement</link>
-      <description><![CDATA[ACM 媒体中心ACM 设立了 Luiz André Barroso 奖，以表彰那些来自历史上代表性不足的社区、为计算机科学做出过根本性贡献的研究人员。Barroso 是一位巴西计算机工程师，他率先设计了现代数据中心。该年度奖项的获奖者将在他们选择的 ACM 大型会议上进行一小时的受邀演讲，并获得 40,000 美元的现金奖励，以及向获奖者选择的经批准的慈善机构额外捐赠 10,000 美元的现金。摘自“ACM 设立奖项，表彰来自历史上代表性不足的社区的研究人员”
-ACM 媒体中心 (08/15/24) 查看全文]]></description>
-      <guid>https://www.acm.org/media-center/2024/august/barroso-award-announcement</guid>
-      <pubDate>Fri, 16 Aug 2024 18:10:54 GMT</pubDate>
+      <title>德州仪器将获得 16 亿美元联邦资金用于建设芯片工厂</title>
+      <link>https://www.pcmag.com/news/texas-instruments-1-billion-in-biden-federal-funding-for-us-chip-plants</link>
+      <description><![CDATA[PC Magazine作为 2022 年芯片和科学法案的一部分，德州仪器已与美国商务部达成协议，根据该协议，它将获得高达 16 亿美元的美国补助金和 60 亿至 80 亿美元的税收抵免，以继续建设三家芯片工厂。另外还拨出 1000 万美元用于劳动力发展。这些工厂将生产 300 毫米晶圆。摘自“德州仪器将获得 16 亿美元联邦资金用于芯片工厂建设”
+PC Magazine (08/16/24) Kate Irwin 查看全文]]></description>
+      <guid>https://www.pcmag.com/news/texas-instruments-1-billion-in-biden-federal-funding-for-us-chip-plants</guid>
+      <pubDate>Mon, 19 Aug 2024 15:08:00 GMT</pubDate>
     </item>
     <item>
-      <title>亚马逊争夺核动力数据中心</title>
-      <link>https://spectrum.ieee.org/amazon-data-center-nuclear-power</link>
-      <description><![CDATA[IEEE Spectrum亚马逊网络服务公司 (Amazon Web Services) 将从 Susquehanna 蒸汽发电站购买额外的 180MW 电力，为其位于宾夕法尼亚州贝里克的数据中心供电，但该交易仍陷入监管之争。亚马逊特意将数据中心设在核能供应商附近，此举被称为共置，允许数据中心直接从发电厂获取电力，而不是连接到电网。共置为数据中心提供稳定、低成本和无碳的电力，但引发了对能源安全和公平性的担忧。摘自“亚马逊争夺核能数据中心”
-IEEE Spectrum (08/12/24) Andrew Moseman 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/amazon-data-center-nuclear-power</guid>
-      <pubDate>Fri, 16 Aug 2024 18:10:54 GMT</pubDate>
+      <title>美国发布汽车通信计划</title>
+      <link>https://www.npr.org/2024/08/16/nx-s1-5078616/cars-v2x-connected-vehicles-transportation-dot-nhtsa</link>
+      <description><![CDATA[NPR美国交通部发布了一份路线图，以促进允许汽车无线通信的技术的部署。V2X（车对万物）技术将允许车辆相互交换位置信息，并可能与骑行者和行人以及道路基础设施交换位置信息。该计划旨在到 2028 年在 20% 的国家公路系统上建立 V2X 基础设施。摘自“美国发布让汽车通信的计划”
+NPR (08/16/24) Joel Rose 查看全文]]></description>
+      <guid>https://www.npr.org/2024/08/16/nx-s1-5078616/cars-v2x-connected-vehicles-transportation-dot-nhtsa</guid>
+      <pubDate>Mon, 19 Aug 2024 15:07:59 GMT</pubDate>
     </item>
     <item>
-      <title>范柯、Daniel Nichols 荣获 2024 年 ACM-IEEE CS 乔治·迈克尔纪念 HPC 奖学金</title>
-      <link>https://www.acm.org/media-center/2024/august/george-michael-fellowship-recipients-2024</link>
-      <description><![CDATA[ACM 媒体中心伊利诺伊大学芝加哥分校的范柯和马里兰大学的 Daniel Nichols 荣获 2024 年 ACM-IEEE CS 乔治·迈克尔纪念 HPC 奖学金。范柯因其在优化 MPI 集合性能、提高不规则并行 I/O 操作性能以及提高性能自省框架可扩展性方面的研究而获得认可。 Nichols 因在基于机器学习的性能建模以及 HPC 和科学代码的大型语言模型方面的进步而获得认可。摘自“Ke Fan、Daniel Nichols 获得 2024 年 ACM-IEEE CS George Michael 纪念 HPC 奖学金”
-ACM 媒体中心 (08/14/24) 查看全文]]></description>
-      <guid>https://www.acm.org/media-center/2024/august/george-michael-fellowship-recipients-2024</guid>
-      <pubDate>Fri, 16 Aug 2024 18:10:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>德国网络机构要求微软和 CrowdStrike 产品在故障后做出改进</title>
-      <link>https://www.wsj.com/articles/german-cyber-agency-wants-changes-in-microsoft-crowdstrike-products-after-tech-outage-05b82c19</link>
-      <description><![CDATA[WSJ Pro Cyber​​security德国联邦信息安全局 (BSI) 希望微软改变允许安全提供商访问其 Windows 内核的方式以及 CrowdStrike 和其他网络公司设计其工具的方式，以期限制这种访问。该机构表示，其努力重点是降低大规模技术中断的可能性，例如上个月因 CrowdStrike 软件故障而导致的中断。摘自“德国网络机构希望在中断后对微软、CrowdStrike 产品进行更改”
-WSJ Pro Cyber​​security (08/14/24) Catherine Stupp 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/articles/german-cyber-agency-wants-changes-in-microsoft-crowdstrike-products-after-tech-outage-05b82c19</guid>
-      <pubDate>Fri, 16 Aug 2024 18:10:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>文本转语音脑植入物帮助 ALS 患者恢复声音</title>
-      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/text-to-speech-brain-implant-restores-als-patients-voice-2024-08-14/</link>
-      <description><![CDATA[路透社一名患有肌萎缩侧索硬化症 (ALS) 并失去说话能力的男子，现在能够通过 Blackrock Neurotech 的文字转语音大脑植入物进行交流。研究人员植入了四个微电极阵列，使用 256 个皮层内电极来记录神经活动。解码器软件可以快速训练并在线重新校准。屏幕上显示单词，然后使用软件将其发声，该软件设计为听起来像该男子患 ALS 之前的声音。摘自“文本转语音脑植入物恢复 ALS 患者的声音”
-路透社 (08/15/24) Nancy Lapid 查看全文]]></description>
-      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/text-to-speech-brain-implant-restores-als-patients-voice-2024-08-14/</guid>
-      <pubDate>Fri, 16 Aug 2024 18:10:52 GMT</pubDate>
+      <title>“数据中心巷”用水量猛增</title>
+      <link>https://www.ft.com/content/1d468bd2-6712-4cdd-ac71-21e0ace2d048</link>
+      <description><![CDATA[金融时报弗吉尼亚州“数据中心巷”设施的耗水量自 2019 年以来增长了近三分之二。该地区是世界上最大的数据中心集中地，仓库里堆满了电脑和网络设备，2023 年至少消耗了 18.5 亿加仑（70 亿升）的水，而 2019 年为 11.3 亿加仑。摘自“数据中心巷道用水量飙升”
+《金融时报》（2024 年 8 月 18 日）卡米拉·霍奇森 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.ft.com/content/1d468bd2-6712-4cdd-ac71-21e0ace2d048</guid>
+      <pubDate>Mon, 19 Aug 2024 15:07:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
