@@ -4,94 +4,103 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Mon, 19 Aug 2024 15:08:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 18:10:26 GMT</lastBuildDate>
     <item>
-      <title>光子芯片降低搜寻系外行星的成本</title>
-      <link>https://spectrum.ieee.org/photonic-integrated-circuit</link>
-      <description><![CDATA[IEEE Spectrum加拿大国家研究委员会的研究人员开发了一种光子芯片，用于立方体卫星（小型标准化卫星），以减小探测系外行星所需组件的尺寸、重量和成本。该芯片采用光子集成电路 (PIC) 滤波器，可在系外行星“日食”期间识别细微的气体特征。研究人员发现，当集成到定制的 3U 立方体卫星平台中时，氮化硅 PIC 可检测到入射光中 CO2 的吸收特征。摘自“光子芯片降低寻找系外行星的成本”
-IEEE Spectrum (08/12/24) Rachel Berkowitz 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/photonic-integrated-circuit</guid>
-      <pubDate>Mon, 19 Aug 2024 15:08:04 GMT</pubDate>
+      <title>好莱坞联盟与广告商达成协议，利用人工智能复制演员的声音</title>
+      <link>https://www.reuters.com/technology/artificial-intelligence/hollywood-union-strikes-deal-advertisers-replicate-actors-voices-with-ai-2024-08-14/</link>
+      <description><![CDATA[路透社好莱坞演员工会美国演员工会（SAG-AFTRA）与在线人才市场 Narrativ 达成协议，允许演员将使用人工智能复制其声音的权利出售给广告商。该协议确保演员可以控制其数字声音复制品的使用，并将从该技术中获得至少相当于美国演员工会（SAG-AFTRA）音频广告最低报酬的收入。品牌需要为使用其人工智能生成的语音复制品的每个广告征得演员的同意。摘自“好莱坞工会与广告商达成协议，使用人工智能复制演员的声音”
+路透社（2024 年 8 月 14 日）Danielle Broadway； Dawn Chmielewski 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/artificial-intelligence/hollywood-union-strikes-deal-advertisers-replicate-actors-voices-with-ai-2024-08-14/</guid>
+      <pubDate>Wed, 21 Aug 2024 18:10:26 GMT</pubDate>
     </item>
     <item>
-      <title>Instagram 未能遏制针对女性政客的仇恨言论</title>
-      <link>https://www.reuters.com/technology/metas-instagram-failed-curtail-hate-speech-against-women-politicians-report-says-2024-08-14/</link>
-      <description><![CDATA[路透社在 8 月 14 日发布的一份报告中，反数字仇恨中心 (CCDH) 指责 Meta Platforms 的 Instagram 未能删除针对女性政治候选人的仇恨言论。该非营利组织对女性政治家（五名民主党人和五名共和党人）在 Instagram 帖子上发表的 50 多万条评论进行了研究，发现有超过 2 万条“有毒”评论，其中 1,000 条包括性别歧视和种族歧视辱骂以及强奸或死亡威胁。尽管违反了平台的标准，但这些评论中有 93% 并未被删除。摘自“Instagram 未能遏制针对女性政治家的仇恨言论”
-路透社 (08/14/24) Priyanka.G; Akash Sriram 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/metas-instagram-failed-curtail-hate-speech-against-women-politicians-report-says-2024-08-14/</guid>
-      <pubDate>Mon, 19 Aug 2024 15:08:03 GMT</pubDate>
+      <title>宜家员工将迎来新的人工智能无人机同事</title>
+      <link>https://gizmodo.com/ikea-employees-are-getting-new-ai-drone-coworkers-in-the-u-s-2000487964</link>
+      <description><![CDATA[Gizmodo宜家将在其位于马里兰州的配送中心推出支持人工智能的自动无人机，它们将与人类员工并肩工作以检查库存。Verity 的无人机可以使用算法识别和拍摄产品存储位置，使用自定义室内定位系统访问更高级别，并使用障碍物检测功能重新规划路径以避免碰撞。宜家已经在 9 个国家的 73 个地点使用了 250 架无人机，但这是它们首次与人类员工一起工作。摘自“宜家员工正在获得新的人工智能无人机同事”
+Gizmodo (08/16/24) Matt Novak 查看全文]]></description>
+      <guid>https://gizmodo.com/ikea-employees-are-getting-new-ai-drone-coworkers-in-the-u-s-2000487964</guid>
+      <pubDate>Wed, 21 Aug 2024 18:10:26 GMT</pubDate>
     </item>
     <item>
-      <title>哈里斯竞选团队的 Google 广告改写了新闻头条</title>
-      <link>https://www.axios.com/2024/08/13/harris-campaign-google-poltical-ads-news-publishers</link>
-      <description><![CDATA[Axios美国总统候选人卡马拉·哈里斯的竞选团队一直在编辑谷歌搜索广告中的新闻标题和描述，使其看起来好像主要媒体出版商支持她。广告称它们是赞助的，但目前尚不清楚伴随真实新闻链接的文字是由竞选团队撰写的，而不是媒体出版物本身撰写的。摘自“哈里斯竞选团队的谷歌广告改写新闻头条”
-Axios (08/13/24) Sara Fischer 查看全文]]></description>
-      <guid>https://www.axios.com/2024/08/13/harris-campaign-google-poltical-ads-news-publishers</guid>
-      <pubDate>Mon, 19 Aug 2024 15:08:03 GMT</pubDate>
+      <title>五角大楼新超级计算机将增强对生物威胁的防御能力</title>
+      <link>https://www.techradar.com/pro/pentagon-unveils-new-supercomputer-aimed-at-boosting-defense-against-biothreats</link>
+      <description><![CDATA[TechRadar美国国防部 (DOD) 宣布了一个新的超级计算机和快速反应实验室 (RRL)，旨在加强其化学和生物防御计划的生成无约束智能药物工程 (GUIDE) 计划。超级计算机将与 RRL 结合使用 AI 建模、模拟、威胁分类和医疗对策开发来改善生物防御。摘自“五角大楼的新超级计算机将增强对生物威胁的防御能力”
+TechRadar (08/19/24) Benedict Collins 查看全文]]></description>
+      <guid>https://www.techradar.com/pro/pentagon-unveils-new-supercomputer-aimed-at-boosting-defense-against-biothreats</guid>
+      <pubDate>Wed, 21 Aug 2024 18:10:25 GMT</pubDate>
     </item>
     <item>
-      <title>加州数字驾驶执照可在苹果、谷歌钱包中使用</title>
-      <link>https://www.latimes.com/california/story/2024-08-15/california-mobile-drivers-license-apple-google-wallet</link>
-      <description><![CDATA[洛杉矶时报自 9 月试运行以来，加州的数字驾照用户已达 50 万，约占该州持照司机的 2%。当苹果和谷歌开始支持预装在 iPhone 和安卓智能手机上的钱包中的移动加州驾照时，这一数字可能会上升。摘自“加州的数字驾照将在苹果、谷歌钱包中发挥作用”
-洛杉矶时报 (08/15/24) Jon Healey 查看全文]]></description>
-      <guid>https://www.latimes.com/california/story/2024-08-15/california-mobile-drivers-license-apple-google-wallet</guid>
-      <pubDate>Mon, 19 Aug 2024 15:08:02 GMT</pubDate>
+      <title>心脏数据揭开睡眠秘密</title>
+      <link>https://viterbischool.usc.edu/news/2024/08/heart-data-unlocks-sleep-secrets/</link>
+      <description><![CDATA[南加州大学维特比工程学院南加州大学计算机科学家开发了一款开源软件，任何具备基本编码知识的人都可以开发廉价的 DIY 睡眠跟踪设备。他们的模型使用心脏数据和深度学习神经网络来评估睡眠阶段。自动心电图专用网络可以准确地对睡眠阶段进行分类。研究人员表示，它的表现优于商用睡眠跟踪设备和其他不使用脑电图数据的模型。摘自“心脏数据解锁睡眠秘密”
+南加州大学维特比工程学院 (08/19/24) Caitlin Dawson 查看全文]]></description>
+      <guid>https://viterbischool.usc.edu/news/2024/08/heart-data-unlocks-sleep-secrets/</guid>
+      <pubDate>Wed, 21 Aug 2024 18:10:25 GMT</pubDate>
     </item>
     <item>
-      <title>出售的安卓手机含有隐藏的不安全功能</title>
-      <link>https://www.washingtonpost.com/technology/2024/08/15/google-sold-android-phones-with-hidden-insecure-feature-companies-find/</link>
-      <description><![CDATA[《华盛顿邮报》据安全公司 iVerify 称，谷歌为某些 Android 手机开发的主软件包含一项隐藏功能，激活后可允许远程控制或监视用户。该公司在美国情报承包商的手机中发现了该功能。该功能旨在让商店员工能够深入访问手机，以便他们演示手机的工作原理。该应用程序名为 Showcase.apk，通常处于休眠状态，但 iVerify 能够在其拥有的设备上启用它。摘自“出售带有隐藏不安全功能的 Android 手机”
-《华盛顿邮报》（2024 年 8 月 15 日）Joseph Menn 查看全文]]></description>
-      <guid>https://www.washingtonpost.com/technology/2024/08/15/google-sold-android-phones-with-hidden-insecure-feature-companies-find/</guid>
-      <pubDate>Mon, 19 Aug 2024 15:08:02 GMT</pubDate>
+      <title>世界币与政府之间的斗争就在你眼前</title>
+      <link>https://www.wsj.com/tech/sam-altman-openai-humanness-iris-scanning-4d0e1dab</link>
+      <description><![CDATA[《华尔街日报》各国政府越来越担心，由 OpenAI 的 Sam Altman 领导的 Worldcoin 生物识别加密货币项目正在建立一个几乎没有监管的全球生物识别数据库。该计划的目标是扫描每个人的眼睛，发布在线“世界 ID”护照以证明用户是人类，并使用 Worldcoin 的 WLD 加密货币向用户付款。各国政府对有关 Worldcoin 虹膜扫描设备运营商鼓励用户允许 Worldcoin 使用虹膜扫描来训练其算法的报道表示担忧。摘自“Worldcoin 与政府争夺您的眼睛”
+华尔街日报 (08/18/24) Angus Berwick；Berber Jin 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/tech/sam-altman-openai-humanness-iris-scanning-4d0e1dab</guid>
+      <pubDate>Wed, 21 Aug 2024 18:10:25 GMT</pubDate>
     </item>
     <item>
-      <title>英国攻读计算机科学学位的女性数量持续增长</title>
-      <link>https://www.bcs.org/articles-opinion-and-research/number-of-women-taking-computer-science-degrees-continues-to-grow/</link>
-      <description><![CDATA[英国计算机学会英国特许信息技术协会 (BCS) 援引英国大学和学院招生服务中心的数据报告称，与 2023-24 学年相比，今年秋季入读学位级计算机课程的英国 18 岁女性人数增加了 8%。虽然该地区的男女比例仍保持在 4:1 左右，但随着女学生的参与度增加，男女比例继续缩小。摘自“英国攻读计算机科学学位的女性人数持续增长”
-英国计算机学会 (08/15/24)]]></description>
-      <guid>https://www.bcs.org/articles-opinion-and-research/number-of-women-taking-computer-science-degrees-continues-to-grow/</guid>
-      <pubDate>Mon, 19 Aug 2024 15:08:01 GMT</pubDate>
+      <title>巴基斯坦互联网速度减慢归咎于国家防火墙</title>
+      <link>https://apnews.com/article/pakistan-internet-disruptions-cybersecurity-firewall-elections-de408fbd514aa754fdbbf44e0f462070</link>
+      <description><![CDATA[美联社巴基斯坦的互联网速度已经放缓，在某些情况下甚至低于其正常容量的 50%。巴基斯坦软件公司协会表示，由于互联网速度下降导致业务中断，经济可能损失 3 亿美元，并将其归咎于国家防火墙的实施。信息和技术部长 Shiza Fatima 将连接速度缓慢归咎于虚拟专用网络的使用，并表示政府没有实施任何限制。摘自“巴基斯坦互联网速度放缓归咎于国家防火墙”
+美联社 (08/19/24) Babar Dogar； Asim Tanveer 查看全文]]></description>
+      <guid>https://apnews.com/article/pakistan-internet-disruptions-cybersecurity-firewall-elections-de408fbd514aa754fdbbf44e0f462070</guid>
+      <pubDate>Wed, 21 Aug 2024 18:10:24 GMT</pubDate>
     </item>
     <item>
-      <title>犹他州软件开发人员的薪资很高且增长迅速</title>
-      <link>https://www.axios.com/local/salt-lake-city/2024/08/15/utah-salt-lake-software-developer-salaries</link>
-      <description><![CDATA[AxiosADP 研究所的最新数据显示，盐湖城大都市地区的软件开发人员的薪资增长速度比美国其他任何地方都快，现在那里的薪资比大得多、生活成本高得多的城市都要高。之前的分析显示，犹他州的科技薪资落后于西部其他地区，但自 2018 年以来，盐湖城的薪资增长了 35%，现在盐湖城的开发人员的收入超过了丹佛和波特兰，甚至超过了芝加哥和华盛顿特区等大城市。摘自“犹他州软件开发人员的薪资很高，而且增长迅速”
-Axios (08/15/24) Erin Alberty； Kavya Beheraj 查看全文]]></description>
-      <guid>https://www.axios.com/local/salt-lake-city/2024/08/15/utah-salt-lake-software-developer-salaries</guid>
-      <pubDate>Mon, 19 Aug 2024 15:08:01 GMT</pubDate>
+      <title>智能蜂巢促进可持续养蜂</title>
+      <link>https://projects.research-and-innovation.ec.europa.eu/en/horizon-magazine/latest-buzz-smart-hives-and-dancing-robot-bees-boost-sustainable-beekeeping</link>
+      <description><![CDATA[Horizo​​n：欧盟研究与创新杂志比利时根特大学的 Dirk de Graaf 和来自 13 个欧洲国家的研究人员团队开发了一种实时蜂巢监控系统，可以检测问题并提出干预措施。该系统由每个蜂巢中的几个配备传感器的数字蜂巢组成，蜜蜂围绕这些蜂巢建造蜂巢。研究人员对 13 个欧洲国家的近 400 个蜂群进行了为期三个季节的监测，并开发了算法来解释蜂巢数据，以确定哪些需要干预，并为养蜂人提供量身定制的指导。摘自“智能蜂巢促进可持续养蜂”
+地平线：欧盟研究与创新杂志 (08/19/24) Sofia Strodt 查看全文]]></description>
+      <guid>https://projects.research-and-innovation.ec.europa.eu/en/horizon-magazine/latest-buzz-smart-hives-and-dancing-robot-bees-boost-sustainable-beekeeping</guid>
+      <pubDate>Wed, 21 Aug 2024 18:10:24 GMT</pubDate>
     </item>
     <item>
-      <title>联邦法院维持加州儿童网络安全法禁令</title>
-      <link>https://www.washingtonpost.com/technology/2024/08/16/child-online-safety-california-blocked/</link>
-      <description><![CDATA[《华盛顿邮报》周五，旧金山第九巡回上诉法院基本维持了下级法院的一项裁决，该裁决阻止了加州 2022 年儿童网络安全法的关键条款，裁定该法律要求科技公司在推出产品之前检查其产品是否会对儿童造成伤害，这可能违反了第一修正案。法院裁定，该要求引发了宪法审查，“因为它明显强制言论”，迫使公司“发表意见”哪些内容可能对儿童有害。摘自“联邦法院维持对加州儿童网络安全法的禁令”
-华盛顿邮报 (08/17/24) Cristiano Lima-Strong 查看全文]]></description>
-      <guid>https://www.washingtonpost.com/technology/2024/08/16/child-online-safety-california-blocked/</guid>
-      <pubDate>Mon, 19 Aug 2024 15:08:00 GMT</pubDate>
+      <title>ACM USTPC 呼吁开展公开调查，防止 CrowdStrike 事件重演</title>
+      <link>https://www.acm.org/media-center/2024/august/ustpc-statement-crowdstrike</link>
+      <description><![CDATA[ACM 媒体中心ACM 的美国技术政策委员会 (USTPC) 就上个月因 CrowdStrike 更新故障导致的全球中断发表了一份声明，指出虽然这家网络安全技术公司提供了一些有关中断原因的信息，但还需要更多细节。ACM USTPC 敦促彻底、公开调查事件的各个方面，以防止将来再次发生此类事件。
+摘自“ACM USTPC 呼吁公开调查，防止 CrowdStrike 事件重演”
+ACM 媒体中心 (08/20/24) 查看全文]]></description>
+      <guid>https://www.acm.org/media-center/2024/august/ustpc-statement-crowdstrike</guid>
+      <pubDate>Wed, 21 Aug 2024 18:10:23 GMT</pubDate>
     </item>
     <item>
-      <title>德州仪器将获得 16 亿美元联邦资金用于建设芯片工厂</title>
-      <link>https://www.pcmag.com/news/texas-instruments-1-billion-in-biden-federal-funding-for-us-chip-plants</link>
-      <description><![CDATA[PC Magazine作为 2022 年芯片和科学法案的一部分，德州仪器已与美国商务部达成协议，根据该协议，它将获得高达 16 亿美元的美国补助金和 60 亿至 80 亿美元的税收抵免，以继续建设三家芯片工厂。另外还拨出 1000 万美元用于劳动力发展。这些工厂将生产 300 毫米晶圆。摘自“德州仪器将获得 16 亿美元联邦资金用于芯片工厂建设”
-PC Magazine (08/16/24) Kate Irwin 查看全文]]></description>
-      <guid>https://www.pcmag.com/news/texas-instruments-1-billion-in-biden-federal-funding-for-us-chip-plants</guid>
-      <pubDate>Mon, 19 Aug 2024 15:08:00 GMT</pubDate>
+      <title>美国公司警告香港“史无前例”的网络规则</title>
+      <link>https://www.bloomberg.com/news/articles/2024-08-20/us-firms-warn-against-unprecedented-hong-kong-cyber-rules</link>
+      <description><![CDATA[彭博社一些美国公司警告称，香港拟议的网络法规可能会被香港政府用来访问其计算机系统。亚洲互联网联盟是批评新规则的机构之一，官员们表示，这些新规则旨在保护关键基础设施免受网络攻击。一个主要的反对意见是拟议中的调查权力，允许当局将其设备连接到私营公司拥有的关键计算机系统，甚至在这些系统上安装程序。摘自“美国公司警告‘史无前例’的香港网络规则”
+彭博社 (08/20/24) Newley Purnell 查看全文]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-08-20/us-firms-warn-against-unprecedented-hong-kong-cyber-rules</guid>
+      <pubDate>Wed, 21 Aug 2024 18:10:23 GMT</pubDate>
     </item>
     <item>
-      <title>美国发布汽车通信计划</title>
-      <link>https://www.npr.org/2024/08/16/nx-s1-5078616/cars-v2x-connected-vehicles-transportation-dot-nhtsa</link>
-      <description><![CDATA[NPR美国交通部发布了一份路线图，以促进允许汽车无线通信的技术的部署。V2X（车对万物）技术将允许车辆相互交换位置信息，并可能与骑行者和行人以及道路基础设施交换位置信息。该计划旨在到 2028 年在 20% 的国家公路系统上建立 V2X 基础设施。摘自“美国发布让汽车通信的计划”
-NPR (08/16/24) Joel Rose 查看全文]]></description>
-      <guid>https://www.npr.org/2024/08/16/nx-s1-5078616/cars-v2x-connected-vehicles-transportation-dot-nhtsa</guid>
-      <pubDate>Mon, 19 Aug 2024 15:07:59 GMT</pubDate>
+      <title>AI助手监控团队合作，促进有效协作</title>
+      <link>https://news.mit.edu/2024/ai-assistant-monitors-teamwork-promote-effective-collaboration-0819</link>
+      <description><![CDATA[MIT 新闻麻省理工学院计算机科学家开发的 AI 助手可以监督人类和 AI 代理团队，协调他们的角色并在必要时进行干预，以改善团队合作，实现共同目标。AI 助手可以推断人类的计划和对彼此的理解，并在出现问题时调整他们的信念、提出问题并提供指导。摘自“AI 助手监控团队合作以促进有效协作”
+MIT 新闻 (08/19/24) Alex Shipps 查看全文]]></description>
+      <guid>https://news.mit.edu/2024/ai-assistant-monitors-teamwork-promote-effective-collaboration-0819</guid>
+      <pubDate>Wed, 21 Aug 2024 18:10:23 GMT</pubDate>
     </item>
     <item>
-      <title>“数据中心巷”用水量猛增</title>
-      <link>https://www.ft.com/content/1d468bd2-6712-4cdd-ac71-21e0ace2d048</link>
-      <description><![CDATA[金融时报弗吉尼亚州“数据中心巷”设施的耗水量自 2019 年以来增长了近三分之二。该地区是世界上最大的数据中心集中地，仓库里堆满了电脑和网络设备，2023 年至少消耗了 18.5 亿加仑（70 亿升）的水，而 2019 年为 11.3 亿加仑。摘自“数据中心巷道用水量飙升”
-《金融时报》（2024 年 8 月 18 日）卡米拉·霍奇森 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.ft.com/content/1d468bd2-6712-4cdd-ac71-21e0ace2d048</guid>
-      <pubDate>Mon, 19 Aug 2024 15:07:59 GMT</pubDate>
+      <title>帕金森症的个性化脑起搏器</title>
+      <link>https://www.nytimes.com/2024/08/19/health/parkinsons-brain-pacemaker.html</link>
+      <description><![CDATA[《纽约时报》加州大学旧金山分校的研究人员为四名帕金森病患者创建了个性化的“脑起搏器”。研究人员在患者的大脑中植入电极，并根据每位患者最困扰的症状开发个性化的人工智能算法。研究人员发现，个性化治疗使患者经历最困扰症状的时间减少了一半。摘自“帕金森病的个性化脑起搏器”
+《纽约时报》（2024 年 8 月 19 日）Pam Belluck 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/08/19/health/parkinsons-brain-pacemaker.html</guid>
+      <pubDate>Wed, 21 Aug 2024 18:10:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧盟批准在德累斯顿建芯片厂</title>
+      <link>https://www.dw.com/en/eu-greenlights-new-chip-factory-in-dresden/a-69994371</link>
+      <description><![CDATA[德国之声 (德国)欧盟委员会批准在德国德累斯顿建立一家新的硅芯片工厂。这项批准允许德国联邦政府为新成立的欧洲半导体制造公司 (ESMC) 提供 50 亿欧元的财政支持，该公司是台湾半导体巨头台积电、德国博世和英飞凌以及荷兰恩智浦的合资企业。该工厂预计将于 2027 年开始生产，重点是汽车行业的芯片。摘自“欧盟批准在德累斯顿建立芯片工厂”
+德国之声 (德国) (08/20/24) 查看全文]]></description>
+      <guid>https://www.dw.com/en/eu-greenlights-new-chip-factory-in-dresden/a-69994371</guid>
+      <pubDate>Wed, 21 Aug 2024 18:10:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
