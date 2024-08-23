@@ -4,7 +4,21 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 23 Aug 2024 12:14:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 15:09:07 GMT</lastBuildDate>
+    <item>
+      <title>美国司法部起诉称公寓租赁市场受到算法操纵</title>
+      <link>https://www.wired.com/story/realpage-antitrust-lawsuit/</link>
+      <description><![CDATA[美国司法部声称，一家名为 RealPage 的公司对全国数百万套公寓租赁单元的价格操纵负有责任。]]></description>
+      <guid>https://www.wired.com/story/realpage-antitrust-lawsuit/</guid>
+      <pubDate>Fri, 23 Aug 2024 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>加密货币闪亮的新政治机器</title>
+      <link>https://www.wired.com/story/crypto-political-donations-super-pacs-campaigns/</link>
+      <description><![CDATA[尽管加密货币行业规模相对较小，并且仍然缺乏任何明显的主流用途，但其在美国大选中投入的资金比其他任何行业都要多。]]></description>
+      <guid>https://www.wired.com/story/crypto-political-donations-super-pacs-campaigns/</guid>
+      <pubDate>Fri, 23 Aug 2024 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>一款流行的 iOS 插画应用拒绝生成式 AI</title>
       <link>https://www.wired.com/story/procreate-app-no-generative-ai/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>迈克·林奇，‘英国的比尔·盖茨’，证实在超级游艇沉船中丧生</title>
       <link>https://www.wired.com/story/mike-lynch-dies-superyacht-accident/</link>
-      <description><![CDATA[这位连续软件企业家去世的几周前，美国陪审团刚刚宣判他无欺诈罪。]]></description>
+      <description><![CDATA[这位连续软件企业家去世的几周前，美国陪审团刚刚裁定他无罪释放。]]></description>
       <guid>https://www.wired.com/story/mike-lynch-dies-superyacht-accident/</guid>
       <pubDate>Thu, 22 Aug 2024 09:23:52 GMT</pubDate>
     </item>
@@ -83,7 +97,7 @@
       <pubDate>Thu, 15 Aug 2024 17:42:45 GMT</pubDate>
     </item>
     <item>
-      <title>研究人员根据风险对人工智能模型进行了排名——结果发现风险范围很广</title>
+      <title>研究人员根据风险对人工智能模型进行了排名，结果发现风险范围很广</title>
       <link>https://www.wired.com/story/ai-models-risk-rank-studies/</link>
       <description><![CDATA[研究表明，可以加强监管以防止人工智能的不当行为。]]></description>
       <guid>https://www.wired.com/story/ai-models-risk-rank-studies/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[这家科技巨头表示，其“积极诉讼”可以阻止不良行为并提高人们对不良行为的认识。怀疑论者怀疑这些诉讼是否只是小事一桩。]]></description>
       <guid>https://www.wired.com/story/google-affirmative-litigation-hacker-scammer-lawsuits/</guid>
       <pubDate>Thu, 15 Aug 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>密码破译者正在利用人工智能破译心脏的秘密节奏</title>
-      <link>https://www.wired.com/story/ai-doctor-roeland-decorte-future-industries/</link>
-      <description><![CDATA[罗兰·德科特 (Roeland Decorte) 受到自己破解古代密码的专业知识的启发，开发了一款智能手机应用程序，可以持续监听我们脉搏中隐藏的疾病迹象。]]></description>
-      <guid>https://www.wired.com/story/ai-doctor-roeland-decorte-future-industries/</guid>
-      <pubDate>Thu, 15 Aug 2024 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025 款福特 Maverick 表明混合动力皮卡将成为主流</title>
-      <link>https://www.wired.com/story/the-2025-ford-maverick-shows-that-hybrid-pickup-trucks-are-going-mainstream/</link>
-      <description><![CDATA[就在特斯拉放弃售价 60,000 美元的 Cyber​​truck 时，福特终于允许买家将其高效的混合动力系统与全轮驱动和牵引套件搭配使用。哈利路亚。]]></description>
-      <guid>https://www.wired.com/story/the-2025-ford-maverick-shows-that-hybrid-pickup-trucks-are-going-mainstream/</guid>
-      <pubDate>Wed, 14 Aug 2024 10:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

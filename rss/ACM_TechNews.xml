@@ -4,103 +4,114 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Wed, 21 Aug 2024 18:10:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 15:09:02 GMT</lastBuildDate>
     <item>
-      <title>好莱坞联盟与广告商达成协议，利用人工智能复制演员的声音</title>
-      <link>https://www.reuters.com/technology/artificial-intelligence/hollywood-union-strikes-deal-advertisers-replicate-actors-voices-with-ai-2024-08-14/</link>
-      <description><![CDATA[路透社好莱坞演员工会美国演员工会（SAG-AFTRA）与在线人才市场 Narrativ 达成协议，允许演员将使用人工智能复制其声音的权利出售给广告商。该协议确保演员可以控制其数字声音复制品的使用，并将从该技术中获得至少相当于美国演员工会（SAG-AFTRA）音频广告最低报酬的收入。品牌需要为使用其人工智能生成的语音复制品的每个广告征得演员的同意。摘自“好莱坞工会与广告商达成协议，使用人工智能复制演员的声音”
-路透社（2024 年 8 月 14 日）Danielle Broadway； Dawn Chmielewski 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/artificial-intelligence/hollywood-union-strikes-deal-advertisers-replicate-actors-voices-with-ai-2024-08-14/</guid>
-      <pubDate>Wed, 21 Aug 2024 18:10:26 GMT</pubDate>
+      <title>月球上现在几点？</title>
+      <link>https://www.nist.gov/news-events/news/2024/08/what-time-it-moon</link>
+      <description><![CDATA[NIST美国国家标准与技术研究所 (NIST) 的研究人员开发了一种系统，以确保月球上的精确计时，这对于航天器着陆和与地球的通信至关重要。该系统根据月球的引力环境创建了一个新的主“月球时间”，类似于地球上的协调世界时。NIST 的 Bijunath Patla 说：“这就像让整个月球同步到一个根据月球引力调整的‘时区’，而不是让时钟逐渐与地球时间不同步。”摘自“月球上现在几点？”
+
+NIST (08/12/24) 查看全文]]></description>
+      <guid>https://www.nist.gov/news-events/news/2024/08/what-time-it-moon</guid>
+      <pubDate>Fri, 23 Aug 2024 15:09:02 GMT</pubDate>
     </item>
     <item>
-      <title>宜家员工将迎来新的人工智能无人机同事</title>
-      <link>https://gizmodo.com/ikea-employees-are-getting-new-ai-drone-coworkers-in-the-u-s-2000487964</link>
-      <description><![CDATA[Gizmodo宜家将在其位于马里兰州的配送中心推出支持人工智能的自动无人机，它们将与人类员工并肩工作以检查库存。Verity 的无人机可以使用算法识别和拍摄产品存储位置，使用自定义室内定位系统访问更高级别，并使用障碍物检测功能重新规划路径以避免碰撞。宜家已经在 9 个国家的 73 个地点使用了 250 架无人机，但这是它们首次与人类员工一起工作。摘自“宜家员工正在获得新的人工智能无人机同事”
-Gizmodo (08/16/24) Matt Novak 查看全文]]></description>
-      <guid>https://gizmodo.com/ikea-employees-are-getting-new-ai-drone-coworkers-in-the-u-s-2000487964</guid>
-      <pubDate>Wed, 21 Aug 2024 18:10:26 GMT</pubDate>
+      <title>数字钱包安全漏洞</title>
+      <link>https://www.umass.edu/news/article/new-study-reveals-loophole-digital-wallet-security-even-if-rightful-cardholder-doesnt</link>
+      <description><![CDATA[马萨诸塞大学阿默斯特分校马萨诸塞大学阿默斯特分校的计算机工程师发现，Apple Pay、Google Pay、PayPal 和类似的数字钱包并不安全，因为它们依赖于过时的身份验证方法，并且将便利性置于安全性之上。研究人员指出，数字钱包缺乏足够的机制来验证支付卡的用户是否是注册的持卡人，并补充说，当卡被盗时，银行会阻止实体卡上的交易，但不会阻止数字钱包上的交易。摘自“数字钱包安全漏洞”
+马萨诸塞大学阿默斯特分校 (08/14/24) 查看全文]]></description>
+      <guid>https://www.umass.edu/news/article/new-study-reveals-loophole-digital-wallet-security-even-if-rightful-cardholder-doesnt</guid>
+      <pubDate>Fri, 23 Aug 2024 15:09:01 GMT</pubDate>
     </item>
     <item>
-      <title>五角大楼新超级计算机将增强对生物威胁的防御能力</title>
-      <link>https://www.techradar.com/pro/pentagon-unveils-new-supercomputer-aimed-at-boosting-defense-against-biothreats</link>
-      <description><![CDATA[TechRadar美国国防部 (DOD) 宣布了一个新的超级计算机和快速反应实验室 (RRL)，旨在加强其化学和生物防御计划的生成无约束智能药物工程 (GUIDE) 计划。超级计算机将与 RRL 结合使用 AI 建模、模拟、威胁分类和医疗对策开发来改善生物防御。摘自“五角大楼的新超级计算机将增强对生物威胁的防御能力”
-TechRadar (08/19/24) Benedict Collins 查看全文]]></description>
-      <guid>https://www.techradar.com/pro/pentagon-unveils-new-supercomputer-aimed-at-boosting-defense-against-biothreats</guid>
-      <pubDate>Wed, 21 Aug 2024 18:10:25 GMT</pubDate>
+      <title>人工智能检测工具常常无法发现选举深度伪造</title>
+      <link>https://www.washingtonpost.com/technology/interactive/2024/ai-detection-tools-accuracy-deepfakes-election-2024/</link>
+      <description><![CDATA[华盛顿邮报路透社新闻研究所 4 月份的一项研究表明，基本的软件技巧和编辑技术可以欺骗许多深度伪造检测器。美国、澳大利亚和印度研究人员在 2023 年进行的一项研究发现，深度伪造检测器的准确率仅为 25% 至 82%。加州大学伯克利分校计算机科学教授 Hany Farid 表示，用于训练检测器的数据集主要包含实验室创建的而非现实世界的深度伪造，并且在识别身体运动或光照的异常模式方面表现不佳。摘自“AI 检测工具通常无法捕捉选举深度伪造”
+华盛顿邮报 (08/15/24) Kevin Schaul；Pranshu Verma； Cat Zakrzewski 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.washingtonpost.com/technology/interactive/2024/ai-detection-tools-accuracy-deepfakes-election-2024/</guid>
+      <pubDate>Fri, 23 Aug 2024 15:09:01 GMT</pubDate>
     </item>
     <item>
-      <title>心脏数据揭开睡眠秘密</title>
-      <link>https://viterbischool.usc.edu/news/2024/08/heart-data-unlocks-sleep-secrets/</link>
-      <description><![CDATA[南加州大学维特比工程学院南加州大学计算机科学家开发了一款开源软件，任何具备基本编码知识的人都可以开发廉价的 DIY 睡眠跟踪设备。他们的模型使用心脏数据和深度学习神经网络来评估睡眠阶段。自动心电图专用网络可以准确地对睡眠阶段进行分类。研究人员表示，它的表现优于商用睡眠跟踪设备和其他不使用脑电图数据的模型。摘自“心脏数据解锁睡眠秘密”
-南加州大学维特比工程学院 (08/19/24) Caitlin Dawson 查看全文]]></description>
-      <guid>https://viterbischool.usc.edu/news/2024/08/heart-data-unlocks-sleep-secrets/</guid>
-      <pubDate>Wed, 21 Aug 2024 18:10:25 GMT</pubDate>
+      <title>瑞士将参与欧盟两项安全合作项目</title>
+      <link>https://www.reuters.com/technology/cybersecurity/neutral-swiss-join-european-cyber-security-group-2024-08-21/</link>
+      <description><![CDATA[路透社瑞士联邦委员会宣布，将参与军事机动和网络靶场联盟计划，这是欧盟永久结构化合作政策的一部分。军事机动计划旨在促进跨境运输和移动申请处理，而网络靶场联盟的目标是改善网络防御合作。此前，瑞士决定加入欧洲网络安全组织，以增强对网络攻击的防御能力。摘自“瑞士将加入两个欧盟安全合作项目”
+路透社 (08/21/24) John Revill；Dave Graham 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/cybersecurity/neutral-swiss-join-european-cyber-security-group-2024-08-21/</guid>
+      <pubDate>Fri, 23 Aug 2024 15:09:00 GMT</pubDate>
     </item>
     <item>
-      <title>世界币与政府之间的斗争就在你眼前</title>
-      <link>https://www.wsj.com/tech/sam-altman-openai-humanness-iris-scanning-4d0e1dab</link>
-      <description><![CDATA[《华尔街日报》各国政府越来越担心，由 OpenAI 的 Sam Altman 领导的 Worldcoin 生物识别加密货币项目正在建立一个几乎没有监管的全球生物识别数据库。该计划的目标是扫描每个人的眼睛，发布在线“世界 ID”护照以证明用户是人类，并使用 Worldcoin 的 WLD 加密货币向用户付款。各国政府对有关 Worldcoin 虹膜扫描设备运营商鼓励用户允许 Worldcoin 使用虹膜扫描来训练其算法的报道表示担忧。摘自“Worldcoin 与政府争夺您的眼睛”
-华尔街日报 (08/18/24) Angus Berwick；Berber Jin 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/tech/sam-altman-openai-humanness-iris-scanning-4d0e1dab</guid>
-      <pubDate>Wed, 21 Aug 2024 18:10:25 GMT</pubDate>
+      <title>特斯拉为穿着动作捕捉服的人员支付高达 48 美元/小时的费用</title>
+      <link>https://www.businessinsider.com/tesla-job-training-optimus-robot-motion-capture-suit-2024-8</link>
+      <description><![CDATA[Business InsiderLinkedIn 数据显示，特斯拉在过去一年中一直在招聘数十名工人，让他们穿上动作捕捉服，帮助训练其人形机器人 Optimus。这些“数据收集操作员”每天穿着动作捕捉服和虚拟现实耳机超过七个小时，同时行走测试路线并完成指定任务。操作员必须撰写每日报告，分析他们收集的数据，并执行与设备和软件相关的小任务。摘自“特斯拉向穿着动作捕捉服的人支付每小时高达 48 美元的费用”
+Business Insider (08/19/24) Grace Kay 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.businessinsider.com/tesla-job-training-optimus-robot-motion-capture-suit-2024-8</guid>
+      <pubDate>Fri, 23 Aug 2024 15:09:00 GMT</pubDate>
     </item>
     <item>
-      <title>巴基斯坦互联网速度减慢归咎于国家防火墙</title>
-      <link>https://apnews.com/article/pakistan-internet-disruptions-cybersecurity-firewall-elections-de408fbd514aa754fdbbf44e0f462070</link>
-      <description><![CDATA[美联社巴基斯坦的互联网速度已经放缓，在某些情况下甚至低于其正常容量的 50%。巴基斯坦软件公司协会表示，由于互联网速度下降导致业务中断，经济可能损失 3 亿美元，并将其归咎于国家防火墙的实施。信息和技术部长 Shiza Fatima 将连接速度缓慢归咎于虚拟专用网络的使用，并表示政府没有实施任何限制。摘自“巴基斯坦互联网速度放缓归咎于国家防火墙”
-美联社 (08/19/24) Babar Dogar； Asim Tanveer 查看全文]]></description>
-      <guid>https://apnews.com/article/pakistan-internet-disruptions-cybersecurity-firewall-elections-de408fbd514aa754fdbbf44e0f462070</guid>
-      <pubDate>Wed, 21 Aug 2024 18:10:24 GMT</pubDate>
+      <title>俄克拉荷马州立大学将在头盔上佩戴二维码</title>
+      <link>https://apnews.com/article/oklahoma-state-qr-codes-beae524a87eb5cc91be9975fdf40ae24</link>
+      <description><![CDATA[美联社本赛季，俄克拉荷马州立大学球员佩戴的橄榄球头盔上将显示与球队一般基金关联的二维码，让球迷可以为其名称、形象和肖像基金捐款。1.5 英寸的贴纸上印有每位球员的姓名和号码，在转播的特写镜头和社交媒体上的赛后照片中都可以看到。摘自“俄克拉荷马州立大学将在头盔上佩戴二维码”
+美联社 (08/20/24) 查看全文]]></description>
+      <guid>https://apnews.com/article/oklahoma-state-qr-codes-beae524a87eb5cc91be9975fdf40ae24</guid>
+      <pubDate>Fri, 23 Aug 2024 15:08:59 GMT</pubDate>
     </item>
     <item>
-      <title>智能蜂巢促进可持续养蜂</title>
-      <link>https://projects.research-and-innovation.ec.europa.eu/en/horizon-magazine/latest-buzz-smart-hives-and-dancing-robot-bees-boost-sustainable-beekeeping</link>
-      <description><![CDATA[Horizo​​n：欧盟研究与创新杂志比利时根特大学的 Dirk de Graaf 和来自 13 个欧洲国家的研究人员团队开发了一种实时蜂巢监控系统，可以检测问题并提出干预措施。该系统由每个蜂巢中的几个配备传感器的数字蜂巢组成，蜜蜂围绕这些蜂巢建造蜂巢。研究人员对 13 个欧洲国家的近 400 个蜂群进行了为期三个季节的监测，并开发了算法来解释蜂巢数据，以确定哪些需要干预，并为养蜂人提供量身定制的指导。摘自“智能蜂巢促进可持续养蜂”
-地平线：欧盟研究与创新杂志 (08/19/24) Sofia Strodt 查看全文]]></description>
-      <guid>https://projects.research-and-innovation.ec.europa.eu/en/horizon-magazine/latest-buzz-smart-hives-and-dancing-robot-bees-boost-sustainable-beekeeping</guid>
-      <pubDate>Wed, 21 Aug 2024 18:10:24 GMT</pubDate>
+      <title>美国政府希望你——是的，你——追查生成人工智能的缺陷</title>
+      <link>https://www.wired.com/story/nist-humane-intelligence-generative-ai-red-team-contest/</link>
+      <description><![CDATA[Wired道德人工智能和算法评估非营利组织 Humane Intelligence 和美国国家标准与技术研究所 (NIST) 正在呼吁公众参与 NIST 的“评估人工智能风险和影响”挑战赛资格赛。通过在线资格赛的选手将参加 10 月份在信息安全应用机器学习会议上举行的现场红队测试活动，以评估人工智能办公生产力软件。 Humane Intelligence 的 Theo Skeadas 表示：“我们希望使评估能力民主化，并确保每个使用这些模型的人都可以自己评估模型是否满足他们的需求。”摘自“美国政府希望你——是的，你——追查生成式人工智能的缺陷”
+Wired (08/21/24) Lily Hay Newman 查看全文]]></description>
+      <guid>https://www.wired.com/story/nist-humane-intelligence-generative-ai-red-team-contest/</guid>
+      <pubDate>Fri, 23 Aug 2024 15:08:59 GMT</pubDate>
     </item>
     <item>
-      <title>ACM USTPC 呼吁开展公开调查，防止 CrowdStrike 事件重演</title>
-      <link>https://www.acm.org/media-center/2024/august/ustpc-statement-crowdstrike</link>
-      <description><![CDATA[ACM 媒体中心ACM 的美国技术政策委员会 (USTPC) 就上个月因 CrowdStrike 更新故障导致的全球中断发表了一份声明，指出虽然这家网络安全技术公司提供了一些有关中断原因的信息，但还需要更多细节。ACM USTPC 敦促彻底、公开调查事件的各个方面，以防止将来再次发生此类事件。
-摘自“ACM USTPC 呼吁公开调查，防止 CrowdStrike 事件重演”
-ACM 媒体中心 (08/20/24) 查看全文]]></description>
-      <guid>https://www.acm.org/media-center/2024/august/ustpc-statement-crowdstrike</guid>
-      <pubDate>Wed, 21 Aug 2024 18:10:23 GMT</pubDate>
+      <title>通用汽车将裁减 1,000 多名软件工程师，大部分在美国</title>
+      <link>https://www.bloomberg.com/news/articles/2024-08-19/gm-to-cut-more-than-1-000-software-engineers-mostly-in-the-us</link>
+      <description><![CDATA[彭博社据报道，通用汽车公司 (GM) 将裁掉 1,000 多名软件工程师，而就在两个月前，苹果前高管被聘为该汽车制造商软件和服务部门的高级副总裁。此次裁员是通用汽车近年来在软件开发领域招聘更多员工，并进军电动汽车、自动驾驶汽车和软件相关服务领域。 摘自“通用汽车将裁减 1,000 多名软件工程师，大部分在美国”
+彭博社 (08/19/24) David Welch 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-08-19/gm-to-cut-more-than-1-000-software-engineers-mostly-in-the-us</guid>
+      <pubDate>Fri, 23 Aug 2024 15:08:58 GMT</pubDate>
     </item>
     <item>
-      <title>美国公司警告香港“史无前例”的网络规则</title>
-      <link>https://www.bloomberg.com/news/articles/2024-08-20/us-firms-warn-against-unprecedented-hong-kong-cyber-rules</link>
-      <description><![CDATA[彭博社一些美国公司警告称，香港拟议的网络法规可能会被香港政府用来访问其计算机系统。亚洲互联网联盟是批评新规则的机构之一，官员们表示，这些新规则旨在保护关键基础设施免受网络攻击。一个主要的反对意见是拟议中的调查权力，允许当局将其设备连接到私营公司拥有的关键计算机系统，甚至在这些系统上安装程序。摘自“美国公司警告‘史无前例’的香港网络规则”
-彭博社 (08/20/24) Newley Purnell 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-08-20/us-firms-warn-against-unprecedented-hong-kong-cyber-rules</guid>
-      <pubDate>Wed, 21 Aug 2024 18:10:23 GMT</pubDate>
+      <title>联邦调查局恢复向社交媒体巨头举报外国虚假信息</title>
+      <link>https://www.nytimes.com/2024/08/15/business/fbi-social-media-disinformation.html</link>
+      <description><![CDATA[《纽约时报》自从美国最高法院驳回了对拜登政府审查制度的指控后，美国联邦调查局、美国司法部 (DOJ) 和其他机构已恢复与主要社交媒体平台的协调，以遏制外国的虚假宣传活动。司法部公布了与社交媒体公司沟通的程序，澄清联邦调查局不能强迫他们针对有关外国影响力行动的信息采取行动。摘自“FBI 恢复向社交媒体巨头举报外国虚假信息”
+《纽约时报》（2024 年 8 月 15 日）Steven Lee Myers；Sheera Frenkel 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/08/15/business/fbi-social-media-disinformation.html</guid>
+      <pubDate>Fri, 23 Aug 2024 15:08:58 GMT</pubDate>
     </item>
     <item>
-      <title>AI助手监控团队合作，促进有效协作</title>
-      <link>https://news.mit.edu/2024/ai-assistant-monitors-teamwork-promote-effective-collaboration-0819</link>
-      <description><![CDATA[MIT 新闻麻省理工学院计算机科学家开发的 AI 助手可以监督人类和 AI 代理团队，协调他们的角色并在必要时进行干预，以改善团队合作，实现共同目标。AI 助手可以推断人类的计划和对彼此的理解，并在出现问题时调整他们的信念、提出问题并提供指导。摘自“AI 助手监控团队合作以促进有效协作”
-MIT 新闻 (08/19/24) Alex Shipps 查看全文]]></description>
-      <guid>https://news.mit.edu/2024/ai-assistant-monitors-teamwork-promote-effective-collaboration-0819</guid>
-      <pubDate>Wed, 21 Aug 2024 18:10:23 GMT</pubDate>
+      <title>中国在自动驾驶出租车比赛中争夺杆位</title>
+      <link>https://www.wsj.com/world/asia/china-maneuvers-for-pole-position-in-robotaxi-race-7d840b67</link>
+      <description><![CDATA[《华尔街日报》分析师预测，随着自动驾驶汽车开始在北京、上海和广州运营，中国企业将在价值超过 1000 亿美元的自动驾驶出租车市场中占据竞争优势。然而，尽管中国政府加快了政策和努力，以支持自动驾驶技术的商业应用，但高盛分析师认为，大规模应用仍“至少需要几年时间”。摘自“中国在自动驾驶出租车竞赛中争夺杆位”
+《华尔街日报》（2024 年 8 月 20 日）黄嘉辉 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/world/asia/china-maneuvers-for-pole-position-in-robotaxi-race-7d840b67</guid>
+      <pubDate>Fri, 23 Aug 2024 15:08:57 GMT</pubDate>
     </item>
     <item>
-      <title>帕金森症的个性化脑起搏器</title>
-      <link>https://www.nytimes.com/2024/08/19/health/parkinsons-brain-pacemaker.html</link>
-      <description><![CDATA[《纽约时报》加州大学旧金山分校的研究人员为四名帕金森病患者创建了个性化的“脑起搏器”。研究人员在患者的大脑中植入电极，并根据每位患者最困扰的症状开发个性化的人工智能算法。研究人员发现，个性化治疗使患者经历最困扰症状的时间减少了一半。摘自“帕金森病的个性化脑起搏器”
-《纽约时报》（2024 年 8 月 19 日）Pam Belluck 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/08/19/health/parkinsons-brain-pacemaker.html</guid>
-      <pubDate>Wed, 21 Aug 2024 18:10:22 GMT</pubDate>
+      <title>发现科学错误可获现金奖励</title>
+      <link>https://www.nature.com/articles/d41586-024-02681-2</link>
+      <description><![CDATA[《自然》“评估研究的可靠性和稳健性”（ERROR）项目由瑞士伯尔尼大学和德国莱比锡大学的研究人员发起，该项目为发现心理学和心理学相关论文中的代码、统计分析和参考引文错误的审阅者提供报酬。该项目仿照软件漏洞赏金计划，审阅者每分析一篇论文可获得高达 1,000 瑞士法郎（约合 1,172 美元）的报酬，发现错误还可获得奖金，其中需要发布重大更正通知或撤回的错误可获得高达 2,500 法郎（2,930 美元）的奖金。同时，作者因提供数据和回答问题可获得 250 法郎（293 美元）的报酬，如果没有发现错误或只发现轻微错误，则可再获得 250 法郎。摘自“发现科学错误的现金”
+《自然》（2024 年 8 月 19 日）Julian Nowogrodzki 查看全文]]></description>
+      <guid>https://www.nature.com/articles/d41586-024-02681-2</guid>
+      <pubDate>Fri, 23 Aug 2024 15:08:57 GMT</pubDate>
     </item>
     <item>
-      <title>欧盟批准在德累斯顿建芯片厂</title>
-      <link>https://www.dw.com/en/eu-greenlights-new-chip-factory-in-dresden/a-69994371</link>
-      <description><![CDATA[德国之声 (德国)欧盟委员会批准在德国德累斯顿建立一家新的硅芯片工厂。这项批准允许德国联邦政府为新成立的欧洲半导体制造公司 (ESMC) 提供 50 亿欧元的财政支持，该公司是台湾半导体巨头台积电、德国博世和英飞凌以及荷兰恩智浦的合资企业。该工厂预计将于 2027 年开始生产，重点是汽车行业的芯片。摘自“欧盟批准在德累斯顿建立芯片工厂”
-德国之声 (德国) (08/20/24) 查看全文]]></description>
-      <guid>https://www.dw.com/en/eu-greenlights-new-chip-factory-in-dresden/a-69994371</guid>
-      <pubDate>Wed, 21 Aug 2024 18:10:22 GMT</pubDate>
+      <title>2024 年最热门的编程语言</title>
+      <link>https://spectrum.ieee.org/top-programming-languages-2024</link>
+      <description><![CDATA[IEEE Spectrum尽管 Python 在受雇主欢迎的编程语言中排名仅次于数据库查询语言 SQL，但在 IEEE Spectrum 第 11 届年度最受欢迎编程语言排名中，Python 仍占据主导地位。Java、Javascript 和 C++ 继续名列前茅，但 Typescript 的排名正在上升。Rust 也取得了进步，这在一定程度上可以归因于 2 月份白宫的一份网络安全报告，该报告呼吁用内存安全的编程语言取代 C 和 C++。
+摘自“2024 年最热门的编程语言”
+IEEE Spectrum (08/22/24) Stephen Cass 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/top-programming-languages-2024</guid>
+      <pubDate>Fri, 23 Aug 2024 15:08:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>哈里伯顿公司遭受网络攻击</title>
+      <link>https://www.cnn.com/2024/08/21/business/oil-giant-halliburton-apparent-cyberattack/index.html</link>
+      <description><![CDATA[CNN消息人士称，哈里伯顿公司遭受的网络攻击正在影响这家油田服务公司休斯顿园区的业务运营和一些全球网络。哈里伯顿公司在一份声明中表示：“我们意识到存在影响某些公司系统的问题，并正在努力评估原因和潜在影响。”美国能源部发言人表示，该机构“注意到有关一家能源服务公司遭遇网络事件的报道”，并补充说，“目前没有迹象表明该事件正在影响能源服务。”
+
+摘自“哈里伯顿公司遭遇明显网络攻击”
+CNN (08/22/24) Matt Egan 查看全文]]></description>
+      <guid>https://www.cnn.com/2024/08/21/business/oil-giant-halliburton-apparent-cyberattack/index.html</guid>
+      <pubDate>Fri, 23 Aug 2024 15:08:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
