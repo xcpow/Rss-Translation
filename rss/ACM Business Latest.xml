@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Sun, 25 Aug 2024 21:06:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 00:38:11 GMT</lastBuildDate>
+    <item>
+      <title>帕维尔·杜罗夫被捕，电报悬而未决</title>
+      <link>https://www.wired.com/story/telegram-ceo-pavel-durov-arrest/</link>
+      <description><![CDATA[据报道，杜罗夫因 Telegram 未能充分监管该消息应用程序上的非法内容而在法国被拘留。他的被捕引发了强烈反对，一些同事不禁要问，现在该怎么办？]]></description>
+      <guid>https://www.wired.com/story/telegram-ceo-pavel-durov-arrest/</guid>
+      <pubDate>Sun, 25 Aug 2024 22:01:52 GMT</pubDate>
+    </item>
     <item>
       <title>洛杉矶“无车”奥运会能成功吗？</title>
       <link>https://www.wired.com/story/how-the-car-free-los-angeles-olympics-will-work/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[这家破产的加密货币贷款机构的法律行动凸显了幕后操纵，这种操纵几乎使 Tether 免受广泛的市场动荡的影响。]]></description>
       <guid>https://www.wired.com/story/tether-celsius-crypto-lawsuit-close-call/</guid>
       <pubDate>Thu, 15 Aug 2024 17:42:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究人员根据风险对人工智能模型进行了排名——结果发现风险范围很广</title>
-      <link>https://www.wired.com/story/ai-models-risk-rank-studies/</link>
-      <description><![CDATA[研究表明，可以加强监管以防止人工智能的不当行为。]]></description>
-      <guid>https://www.wired.com/story/ai-models-risk-rank-studies/</guid>
-      <pubDate>Thu, 15 Aug 2024 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
