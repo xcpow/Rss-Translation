@@ -4,114 +4,94 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Fri, 23 Aug 2024 15:09:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 18:10:38 GMT</lastBuildDate>
     <item>
-      <title>月球上现在几点？</title>
-      <link>https://www.nist.gov/news-events/news/2024/08/what-time-it-moon</link>
-      <description><![CDATA[NIST美国国家标准与技术研究所 (NIST) 的研究人员开发了一种系统，以确保月球上的精确计时，这对于航天器着陆和与地球的通信至关重要。该系统根据月球的引力环境创建了一个新的主“月球时间”，类似于地球上的协调世界时。NIST 的 Bijunath Patla 说：“这就像让整个月球同步到一个根据月球引力调整的‘时区’，而不是让时钟逐渐与地球时间不同步。”摘自“月球上现在几点？”
-
-NIST (08/12/24) 查看全文]]></description>
-      <guid>https://www.nist.gov/news-events/news/2024/08/what-time-it-moon</guid>
-      <pubDate>Fri, 23 Aug 2024 15:09:02 GMT</pubDate>
+      <title>“Styx Stealer”恶意软件开发人员在“严重 Opsec 错误”中意外向研究人员泄露个人信息</title>
+      <link>https://therecord.media/styx-stealer-malware-developer-opsec-error-exposes-personal-info</link>
+      <description><![CDATA[The RecordCheck Point 安全研究人员报告称，新 Styx Stealer 恶意软件的疑似开发者发生了“重大操作安全错误”，他在其中暴露了自己的身份并“提供了有关其他网络犯罪分子的宝贵情报”。信息泄露发生在 Styx Stealer 开发人员使用参与 Agent Tesla 恶意软件活动的客户提供的 Telegram 机器人令牌在自己的计算机上调试窃取程序时。泄露的信息包括他的 Telegram 帐户、电子邮件和联系人。摘自“&#39;Styx Stealer&#39; 恶意软件开发人员在“严重 Opsec 错误”中意外向研究人员泄露个人信息”
+The Record (08/20/24) Daryna Antoniuk 查看全文]]></description>
+      <guid>https://therecord.media/styx-stealer-malware-developer-opsec-error-exposes-personal-info</guid>
+      <pubDate>Mon, 26 Aug 2024 18:10:38 GMT</pubDate>
     </item>
     <item>
-      <title>数字钱包安全漏洞</title>
-      <link>https://www.umass.edu/news/article/new-study-reveals-loophole-digital-wallet-security-even-if-rightful-cardholder-doesnt</link>
-      <description><![CDATA[马萨诸塞大学阿默斯特分校马萨诸塞大学阿默斯特分校的计算机工程师发现，Apple Pay、Google Pay、PayPal 和类似的数字钱包并不安全，因为它们依赖于过时的身份验证方法，并且将便利性置于安全性之上。研究人员指出，数字钱包缺乏足够的机制来验证支付卡的用户是否是注册的持卡人，并补充说，当卡被盗时，银行会阻止实体卡上的交易，但不会阻止数字钱包上的交易。摘自“数字钱包安全漏洞”
-马萨诸塞大学阿默斯特分校 (08/14/24) 查看全文]]></description>
-      <guid>https://www.umass.edu/news/article/new-study-reveals-loophole-digital-wallet-security-even-if-rightful-cardholder-doesnt</guid>
-      <pubDate>Fri, 23 Aug 2024 15:09:01 GMT</pubDate>
+      <title>尽管存在潜在风险，但微软 macOS 应用程序中的多个漏洞仍未得到修补</title>
+      <link>https://www.theregister.com/2024/08/19/cisco_talos_microsoft_macos/</link>
+      <description><![CDATA[The Register思科 Talos 的安全研究人员发现微软 macOS 应用程序中存在八个漏洞，这些漏洞可能允许黑客访问设备以录制视频和声音、获取敏感数据、记录用户输入并提升权限。这些漏洞影响微软产品 Excel、OneNote、Outlook、PowerPoint、Teams 和 Word。研究人员表示，微软认为这些漏洞风险较低，没有计划修复它们。摘自“尽管存在潜在风险，但微软 macOS 应用程序中的多个漏洞仍未得到修补”
+The Register (08/19/24) Connor Jones 查看全文]]></description>
+      <guid>https://www.theregister.com/2024/08/19/cisco_talos_microsoft_macos/</guid>
+      <pubDate>Mon, 26 Aug 2024 18:10:38 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能检测工具常常无法发现选举深度伪造</title>
-      <link>https://www.washingtonpost.com/technology/interactive/2024/ai-detection-tools-accuracy-deepfakes-election-2024/</link>
-      <description><![CDATA[华盛顿邮报路透社新闻研究所 4 月份的一项研究表明，基本的软件技巧和编辑技术可以欺骗许多深度伪造检测器。美国、澳大利亚和印度研究人员在 2023 年进行的一项研究发现，深度伪造检测器的准确率仅为 25% 至 82%。加州大学伯克利分校计算机科学教授 Hany Farid 表示，用于训练检测器的数据集主要包含实验室创建的而非现实世界的深度伪造，并且在识别身体运动或光照的异常模式方面表现不佳。摘自“AI 检测工具通常无法捕捉选举深度伪造”
-华盛顿邮报 (08/15/24) Kevin Schaul；Pranshu Verma； Cat Zakrzewski 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.washingtonpost.com/technology/interactive/2024/ai-detection-tools-accuracy-deepfakes-election-2024/</guid>
-      <pubDate>Fri, 23 Aug 2024 15:09:01 GMT</pubDate>
+      <title>拥有 50 年历史的科技品牌和零售商正试图退出</title>
+      <link>https://www.wsj.com/articles/the-50-year-old-technology-that-brands-and-retailers-are-trying-to-quit-1fbfab3f</link>
+      <description><![CDATA[《华尔街日报》品牌和零售商最早可能在 2027 年用二维码取代条形码，但这种转变需要零售商更新他们使用的软件和硬件，而品牌则需要进行制造方面的变革，并且需要全球各行业之间的协作。此外，习惯于在自助结账亭扫描条形码的客户必须接受如何与二维码互动的培训。目标是使用单个二维码进行销售点和库存扫描以及客户互动。摘自“50 年历史的科技品牌和零售商正试图退出”
+华尔街日报 (08/19/24) Isabelle Bousquette 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/articles/the-50-year-old-technology-that-brands-and-retailers-are-trying-to-quit-1fbfab3f</guid>
+      <pubDate>Mon, 26 Aug 2024 18:10:37 GMT</pubDate>
     </item>
     <item>
-      <title>瑞士将参与欧盟两项安全合作项目</title>
-      <link>https://www.reuters.com/technology/cybersecurity/neutral-swiss-join-european-cyber-security-group-2024-08-21/</link>
-      <description><![CDATA[路透社瑞士联邦委员会宣布，将参与军事机动和网络靶场联盟计划，这是欧盟永久结构化合作政策的一部分。军事机动计划旨在促进跨境运输和移动申请处理，而网络靶场联盟的目标是改善网络防御合作。此前，瑞士决定加入欧洲网络安全组织，以增强对网络攻击的防御能力。摘自“瑞士将加入两个欧盟安全合作项目”
-路透社 (08/21/24) John Revill；Dave Graham 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/cybersecurity/neutral-swiss-join-european-cyber-security-group-2024-08-21/</guid>
-      <pubDate>Fri, 23 Aug 2024 15:09:00 GMT</pubDate>
+      <title>谷歌加入 2.5 亿美元协议，为加州新闻编辑室提供支持</title>
+      <link>https://www.nytimes.com/2024/08/21/business/google-california-news-funding.html</link>
+      <description><![CDATA[《纽约时报》谷歌、加州新闻出版商协会和加州立法者宣布了一项史无前例的协议，将为该州的新闻编辑室提供高达 2.5 亿美元的资金，同时允许谷歌避免拟议的立法，该立法要求科技公司在其平台上的文章旁边出现广告时向新闻机构付费。根据这项为期五年的协议，将设立一个新的转型基金，以保护和扩大该州的新闻业。摘自“谷歌加入 2.5 亿美元协议，支持加州新闻编辑室”
+《纽约时报》（2024 年 8 月 21 日）Karen Weise；Shawn Hubler；Nico Grant 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/08/21/business/google-california-news-funding.html</guid>
+      <pubDate>Mon, 26 Aug 2024 18:10:36 GMT</pubDate>
     </item>
     <item>
-      <title>特斯拉为穿着动作捕捉服的人员支付高达 48 美元/小时的费用</title>
-      <link>https://www.businessinsider.com/tesla-job-training-optimus-robot-motion-capture-suit-2024-8</link>
-      <description><![CDATA[Business InsiderLinkedIn 数据显示，特斯拉在过去一年中一直在招聘数十名工人，让他们穿上动作捕捉服，帮助训练其人形机器人 Optimus。这些“数据收集操作员”每天穿着动作捕捉服和虚拟现实耳机超过七个小时，同时行走测试路线并完成指定任务。操作员必须撰写每日报告，分析他们收集的数据，并执行与设备和软件相关的小任务。摘自“特斯拉向穿着动作捕捉服的人支付每小时高达 48 美元的费用”
-Business Insider (08/19/24) Grace Kay 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.businessinsider.com/tesla-job-training-optimus-robot-motion-capture-suit-2024-8</guid>
-      <pubDate>Fri, 23 Aug 2024 15:09:00 GMT</pubDate>
+      <title>引文黑市：售卖虚假引文的骗局让科学家感到担忧</title>
+      <link>https://www.nature.com/articles/d41586-024-01672-7</link>
+      <description><![CDATA[Nature人们越来越担心黑市允许科学家购买虚假引文来充实他们的 Google Scholar 个人资料。纽约大学的计算机科学家进行了一次诱捕行动，他们以 300 美元的价格购买了 50 条引文，并将其添加到他们创建的虚假 Google Scholar 个人资料中。研究人员还提出了一个引文集中指数，以识别仅从少数来源获得大量引文的科学家。摘自“引文黑市：销售虚假引文的计划让科学家感到恐慌”
+Nature (08/20/24) Dalmeet Singh Chawla 查看全文]]></description>
+      <guid>https://www.nature.com/articles/d41586-024-01672-7</guid>
+      <pubDate>Mon, 26 Aug 2024 18:10:36 GMT</pubDate>
     </item>
     <item>
-      <title>俄克拉荷马州立大学将在头盔上佩戴二维码</title>
-      <link>https://apnews.com/article/oklahoma-state-qr-codes-beae524a87eb5cc91be9975fdf40ae24</link>
-      <description><![CDATA[美联社本赛季，俄克拉荷马州立大学球员佩戴的橄榄球头盔上将显示与球队一般基金关联的二维码，让球迷可以为其名称、形象和肖像基金捐款。1.5 英寸的贴纸上印有每位球员的姓名和号码，在转播的特写镜头和社交媒体上的赛后照片中都可以看到。摘自“俄克拉荷马州立大学将在头盔上佩戴二维码”
-美联社 (08/20/24) 查看全文]]></description>
-      <guid>https://apnews.com/article/oklahoma-state-qr-codes-beae524a87eb5cc91be9975fdf40ae24</guid>
-      <pubDate>Fri, 23 Aug 2024 15:08:59 GMT</pubDate>
+      <title>脑电波阅读机器人“教练”可以帮助中风患者康复</title>
+      <link>https://interestingengineering.com/health/headset-equipped-robot-coaches-stroke-patients</link>
+      <description><![CDATA[有趣的工程英国国家机器人中心和 AIT 奥地利理工学院的研究人员开发了一种机器人康复系统，可以帮助中风和脑损伤患者恢复肢体的使用。该系统的耳机通过脑机接口检测神经活动，使机器人能够理解预期的动作。这些机器人被编程为康复教练，帮助患者完成个性化的康复程序，而无需人工干预。摘自“脑电波阅读机器人‘教练’可以帮助中风幸存者康复”
+有趣的工程 (08/20/24) Chris Young 查看全文]]></description>
+      <guid>https://interestingengineering.com/health/headset-equipped-robot-coaches-stroke-patients</guid>
+      <pubDate>Mon, 26 Aug 2024 18:10:35 GMT</pubDate>
     </item>
     <item>
-      <title>美国政府希望你——是的，你——追查生成人工智能的缺陷</title>
-      <link>https://www.wired.com/story/nist-humane-intelligence-generative-ai-red-team-contest/</link>
-      <description><![CDATA[Wired道德人工智能和算法评估非营利组织 Humane Intelligence 和美国国家标准与技术研究所 (NIST) 正在呼吁公众参与 NIST 的“评估人工智能风险和影响”挑战赛资格赛。通过在线资格赛的选手将参加 10 月份在信息安全应用机器学习会议上举行的现场红队测试活动，以评估人工智能办公生产力软件。 Humane Intelligence 的 Theo Skeadas 表示：“我们希望使评估能力民主化，并确保每个使用这些模型的人都可以自己评估模型是否满足他们的需求。”摘自“美国政府希望你——是的，你——追查生成式人工智能的缺陷”
-Wired (08/21/24) Lily Hay Newman 查看全文]]></description>
-      <guid>https://www.wired.com/story/nist-humane-intelligence-generative-ai-red-team-contest/</guid>
-      <pubDate>Fri, 23 Aug 2024 15:08:59 GMT</pubDate>
+      <title>随着机器人变得越来越智能，人工智能研究人员呼吁“人格认证”</title>
+      <link>https://www.washingtonpost.com/politics/2024/08/21/human-bot-personhood-credentials-worldcoin/</link>
+      <description><![CDATA[华盛顿邮报包括来自 OpenAI、微软和哈佛大学的研究人员在内的一个团队提议开发“人格凭证”，以帮助区分人类和在线机器人。这样的系统将要求人类离线验证其身份，以获得加密凭证，从而允许他们访问一系列在线服务。研究人员建议创建多个人格凭证系统，以便用户有选择，并且单一实体不会控制市场。摘自“随着机器人变得越来越聪明，人工智能研究人员呼吁‘人格凭证’”
+华盛顿邮报 (08/21/24) Will Oremus 查看全文]]></description>
+      <guid>https://www.washingtonpost.com/politics/2024/08/21/human-bot-personhood-credentials-worldcoin/</guid>
+      <pubDate>Mon, 26 Aug 2024 18:10:35 GMT</pubDate>
     </item>
     <item>
-      <title>通用汽车将裁减 1,000 多名软件工程师，大部分在美国</title>
-      <link>https://www.bloomberg.com/news/articles/2024-08-19/gm-to-cut-more-than-1-000-software-engineers-mostly-in-the-us</link>
-      <description><![CDATA[彭博社据报道，通用汽车公司 (GM) 将裁掉 1,000 多名软件工程师，而就在两个月前，苹果前高管被聘为该汽车制造商软件和服务部门的高级副总裁。此次裁员是通用汽车近年来在软件开发领域招聘更多员工，并进军电动汽车、自动驾驶汽车和软件相关服务领域。 摘自“通用汽车将裁减 1,000 多名软件工程师，大部分在美国”
-彭博社 (08/19/24) David Welch 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-08-19/gm-to-cut-more-than-1-000-software-engineers-mostly-in-the-us</guid>
-      <pubDate>Fri, 23 Aug 2024 15:08:58 GMT</pubDate>
+      <title>机器学习算法提高3D打印效率</title>
+      <link>https://www.engineering.com/machine-learning-algorithm-improves-3d-printing-efficiency/</link>
+      <description><![CDATA[Engineering.com华盛顿州立大学 (WSU) 的研究人员开发了一种机器学习算法，可以识别出生产复杂结构的最有效 3D 打印设置。研究人员使用该算法优化了肾脏和前列腺器官模型的设计，重点关注几何精度、重量、多孔性和打印时间。WSU 的 Eric Chen 表示：“无论打印类型或材料形状如何，我们都能够取得良好的平衡，并实现最佳质量的打印。”摘自“机器学习算法提高 3D 打印效率”
+Engineering.com (08/22/24) Ian Wright 查看全文]]></description>
+      <guid>https://www.engineering.com/machine-learning-algorithm-improves-3d-printing-efficiency/</guid>
+      <pubDate>Mon, 26 Aug 2024 18:10:34 GMT</pubDate>
     </item>
     <item>
-      <title>联邦调查局恢复向社交媒体巨头举报外国虚假信息</title>
-      <link>https://www.nytimes.com/2024/08/15/business/fbi-social-media-disinformation.html</link>
-      <description><![CDATA[《纽约时报》自从美国最高法院驳回了对拜登政府审查制度的指控后，美国联邦调查局、美国司法部 (DOJ) 和其他机构已恢复与主要社交媒体平台的协调，以遏制外国的虚假宣传活动。司法部公布了与社交媒体公司沟通的程序，澄清联邦调查局不能强迫他们针对有关外国影响力行动的信息采取行动。摘自“FBI 恢复向社交媒体巨头举报外国虚假信息”
-《纽约时报》（2024 年 8 月 15 日）Steven Lee Myers；Sheera Frenkel 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/08/15/business/fbi-social-media-disinformation.html</guid>
-      <pubDate>Fri, 23 Aug 2024 15:08:58 GMT</pubDate>
+      <title>迈向密码破译量子计算机</title>
+      <link>https://news.mit.edu/2024/toward-code-breaking-quantum-computer-0823</link>
+      <description><![CDATA[MIT 新闻麻省理工学院 (MIT) 的研究人员开发了一种算法，该算法可以为加密方法铺平道路，这种加密方法足够强大，可以承受量子计算机的密码破译能力，并且易于实施。新算法使用一系列斐波那契数，只需进行简单的乘法而不是平方，这样就可以仅使用两个量子位来计算任何指数。它还解决了错误校正问题，过滤掉损坏的结果并仅处理正确的结果。摘自“迈向密码破译量子计算机”
+MIT 新闻 (08/23/24) Adam Zewe 查看全文]]></description>
+      <guid>https://news.mit.edu/2024/toward-code-breaking-quantum-computer-0823</guid>
+      <pubDate>Mon, 26 Aug 2024 18:10:34 GMT</pubDate>
     </item>
     <item>
-      <title>中国在自动驾驶出租车比赛中争夺杆位</title>
-      <link>https://www.wsj.com/world/asia/china-maneuvers-for-pole-position-in-robotaxi-race-7d840b67</link>
-      <description><![CDATA[《华尔街日报》分析师预测，随着自动驾驶汽车开始在北京、上海和广州运营，中国企业将在价值超过 1000 亿美元的自动驾驶出租车市场中占据竞争优势。然而，尽管中国政府加快了政策和努力，以支持自动驾驶技术的商业应用，但高盛分析师认为，大规模应用仍“至少需要几年时间”。摘自“中国在自动驾驶出租车竞赛中争夺杆位”
-《华尔街日报》（2024 年 8 月 20 日）黄嘉辉 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/world/asia/china-maneuvers-for-pole-position-in-robotaxi-race-7d840b67</guid>
-      <pubDate>Fri, 23 Aug 2024 15:08:57 GMT</pubDate>
+      <title>人工智能可以帮助日益减少的程序员队伍保持过时的程序正常运行</title>
+      <link>https://www.newscientist.com/article/2443466-ai-could-help-shrinking-pool-of-coders-keep-outdated-programs-working/</link>
+      <description><![CDATA[新科学家越南 FPT 软件 AI 中心的研究人员开发的一种 AI 模型可以让基于 COBOL 的系统继续运行，因为熟悉旧编程语言的工程师数量正在不断减少。研究人员正在训练 XMainframe 模型来解释 COBOL 代码并用其他编程语言重写它。在测试中，该模型在准确总结 COBOL 代码的用途方面优于其他 AI 模型。摘自“AI 可以帮助减少的程序员队伍让过时的程序继续运行”
+新科学家 (08/20/24) Matthew Sparkes 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.newscientist.com/article/2443466-ai-could-help-shrinking-pool-of-coders-keep-outdated-programs-working/</guid>
+      <pubDate>Mon, 26 Aug 2024 18:10:33 GMT</pubDate>
     </item>
     <item>
-      <title>发现科学错误可获现金奖励</title>
-      <link>https://www.nature.com/articles/d41586-024-02681-2</link>
-      <description><![CDATA[《自然》“评估研究的可靠性和稳健性”（ERROR）项目由瑞士伯尔尼大学和德国莱比锡大学的研究人员发起，该项目为发现心理学和心理学相关论文中的代码、统计分析和参考引文错误的审阅者提供报酬。该项目仿照软件漏洞赏金计划，审阅者每分析一篇论文可获得高达 1,000 瑞士法郎（约合 1,172 美元）的报酬，发现错误还可获得奖金，其中需要发布重大更正通知或撤回的错误可获得高达 2,500 法郎（2,930 美元）的奖金。同时，作者因提供数据和回答问题可获得 250 法郎（293 美元）的报酬，如果没有发现错误或只发现轻微错误，则可再获得 250 法郎。摘自“发现科学错误的现金”
-《自然》（2024 年 8 月 19 日）Julian Nowogrodzki 查看全文]]></description>
-      <guid>https://www.nature.com/articles/d41586-024-02681-2</guid>
-      <pubDate>Fri, 23 Aug 2024 15:08:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年最热门的编程语言</title>
-      <link>https://spectrum.ieee.org/top-programming-languages-2024</link>
-      <description><![CDATA[IEEE Spectrum尽管 Python 在受雇主欢迎的编程语言中排名仅次于数据库查询语言 SQL，但在 IEEE Spectrum 第 11 届年度最受欢迎编程语言排名中，Python 仍占据主导地位。Java、Javascript 和 C++ 继续名列前茅，但 Typescript 的排名正在上升。Rust 也取得了进步，这在一定程度上可以归因于 2 月份白宫的一份网络安全报告，该报告呼吁用内存安全的编程语言取代 C 和 C++。
-摘自“2024 年最热门的编程语言”
-IEEE Spectrum (08/22/24) Stephen Cass 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/top-programming-languages-2024</guid>
-      <pubDate>Fri, 23 Aug 2024 15:08:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>哈里伯顿公司遭受网络攻击</title>
-      <link>https://www.cnn.com/2024/08/21/business/oil-giant-halliburton-apparent-cyberattack/index.html</link>
-      <description><![CDATA[CNN消息人士称，哈里伯顿公司遭受的网络攻击正在影响这家油田服务公司休斯顿园区的业务运营和一些全球网络。哈里伯顿公司在一份声明中表示：“我们意识到存在影响某些公司系统的问题，并正在努力评估原因和潜在影响。”美国能源部发言人表示，该机构“注意到有关一家能源服务公司遭遇网络事件的报道”，并补充说，“目前没有迹象表明该事件正在影响能源服务。”
-
-摘自“哈里伯顿公司遭遇明显网络攻击”
-CNN (08/22/24) Matt Egan 查看全文]]></description>
-      <guid>https://www.cnn.com/2024/08/21/business/oil-giant-halliburton-apparent-cyberattack/index.html</guid>
-      <pubDate>Fri, 23 Aug 2024 15:08:56 GMT</pubDate>
+      <title>保护联网自动驾驶汽车免受黑客攻击</title>
+      <link>https://cse.engin.umich.edu/stories/protecting-connected-self-driving-vehicles-from-hackers</link>
+      <description><![CDATA[密歇根大学计算机科学与工程系密歇根大学 (U-M) 的研究人员发现，联网自动驾驶汽车容易受到数据伪造攻击，这种攻击发生在黑客从感知数据中删除真实物体或插入假物体时。密歇根大学 Mcity 测试设施的研究人员使用伪造的基于 LiDAR 的 3D 传感器数据和零延迟攻击调度来更好地了解安全漏洞，并开发了协作异常检测系统作为对策。该系统使用共享的 2D 占用图来交叉检查数据并快速识别几何不一致之处。摘自“保护联网自动驾驶汽车免受黑客攻击”
+密歇根大学计算机科学与工程系 (08/20/24) Patricia DeLacey 查看全文]]></description>
+      <guid>https://cse.engin.umich.edu/stories/protecting-connected-self-driving-vehicles-from-hackers</guid>
+      <pubDate>Mon, 26 Aug 2024 18:10:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
