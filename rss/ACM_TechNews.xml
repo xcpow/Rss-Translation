@@ -4,94 +4,112 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Mon, 26 Aug 2024 18:10:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 15:08:26 GMT</lastBuildDate>
     <item>
-      <title>“Styx Stealer”恶意软件开发人员在“严重 Opsec 错误”中意外向研究人员泄露个人信息</title>
-      <link>https://therecord.media/styx-stealer-malware-developer-opsec-error-exposes-personal-info</link>
-      <description><![CDATA[The RecordCheck Point 安全研究人员报告称，新 Styx Stealer 恶意软件的疑似开发者发生了“重大操作安全错误”，他在其中暴露了自己的身份并“提供了有关其他网络犯罪分子的宝贵情报”。信息泄露发生在 Styx Stealer 开发人员使用参与 Agent Tesla 恶意软件活动的客户提供的 Telegram 机器人令牌在自己的计算机上调试窃取程序时。泄露的信息包括他的 Telegram 帐户、电子邮件和联系人。摘自“&#39;Styx Stealer&#39; 恶意软件开发人员在“严重 Opsec 错误”中意外向研究人员泄露个人信息”
-The Record (08/20/24) Daryna Antoniuk 查看全文]]></description>
-      <guid>https://therecord.media/styx-stealer-malware-developer-opsec-error-exposes-personal-info</guid>
-      <pubDate>Mon, 26 Aug 2024 18:10:38 GMT</pubDate>
+      <title>DNA Tech 提供数据存储和计算功能</title>
+      <link>https://news.ncsu.edu/2024/08/functional-dna-computing/</link>
+      <description><![CDATA[北卡罗来纳州立大学新闻北卡罗来纳州立大学和约翰霍普金斯大学的研究人员开发的基于 DNA 的技术可以同时执行数据存储和计算功能。研究人员创造了树枝状胶体，这种微尺度聚合物结构彼此分支，形成纳米级纤维网络，DNA 可以沉积和存储于其上。这种“原始 DNA 存储和计算引擎”可以解决基本的数独和国际象棋问题。摘自“DNA 技术提供数据存储和计算功能”
+北卡罗来纳州立大学新闻 (08/22/24) Matt Shipman 查看全文]]></description>
+      <guid>https://news.ncsu.edu/2024/08/functional-dna-computing/</guid>
+      <pubDate>Wed, 28 Aug 2024 15:08:25 GMT</pubDate>
     </item>
     <item>
-      <title>尽管存在潜在风险，但微软 macOS 应用程序中的多个漏洞仍未得到修补</title>
-      <link>https://www.theregister.com/2024/08/19/cisco_talos_microsoft_macos/</link>
-      <description><![CDATA[The Register思科 Talos 的安全研究人员发现微软 macOS 应用程序中存在八个漏洞，这些漏洞可能允许黑客访问设备以录制视频和声音、获取敏感数据、记录用户输入并提升权限。这些漏洞影响微软产品 Excel、OneNote、Outlook、PowerPoint、Teams 和 Word。研究人员表示，微软认为这些漏洞风险较低，没有计划修复它们。摘自“尽管存在潜在风险，但微软 macOS 应用程序中的多个漏洞仍未得到修补”
-The Register (08/19/24) Connor Jones 查看全文]]></description>
-      <guid>https://www.theregister.com/2024/08/19/cisco_talos_microsoft_macos/</guid>
-      <pubDate>Mon, 26 Aug 2024 18:10:38 GMT</pubDate>
+      <title>攀登中国长城的游客现在可以通过无人机送外卖</title>
+      <link>https://www.cnn.com/2024/08/22/tech/china-drone-delivery-great-wall-intl-hnk/index.html</link>
+      <description><![CDATA[CNN中国外卖公司美团推出了一项无人机送货服务，让游客在长城上收到食物、饮料、医疗用品和其他物品。美团员工接单后，将订单送到附近的酒店屋顶，将订单装上无人机，通过自动驾驶仪飞到长城南延伸段八达岭的瞭望塔。无人机可携带约 5 磅的物品，大约五分钟即可完成行程。摘自“攀登中国长城的游客现在可以通过无人机送外卖”
+CNN (08/22/24) Nectar Gan；Hassan Tayir；Joyce Jiang 查看全文]]></description>
+      <guid>https://www.cnn.com/2024/08/22/tech/china-drone-delivery-great-wall-intl-hnk/index.html</guid>
+      <pubDate>Wed, 28 Aug 2024 15:08:25 GMT</pubDate>
     </item>
     <item>
-      <title>拥有 50 年历史的科技品牌和零售商正试图退出</title>
-      <link>https://www.wsj.com/articles/the-50-year-old-technology-that-brands-and-retailers-are-trying-to-quit-1fbfab3f</link>
-      <description><![CDATA[《华尔街日报》品牌和零售商最早可能在 2027 年用二维码取代条形码，但这种转变需要零售商更新他们使用的软件和硬件，而品牌则需要进行制造方面的变革，并且需要全球各行业之间的协作。此外，习惯于在自助结账亭扫描条形码的客户必须接受如何与二维码互动的培训。目标是使用单个二维码进行销售点和库存扫描以及客户互动。摘自“50 年历史的科技品牌和零售商正试图退出”
-华尔街日报 (08/19/24) Isabelle Bousquette 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/articles/the-50-year-old-technology-that-brands-and-retailers-are-trying-to-quit-1fbfab3f</guid>
-      <pubDate>Mon, 26 Aug 2024 18:10:37 GMT</pubDate>
+      <title>中国人工智能工程师秘密获取被禁的 Nvidia 芯片</title>
+      <link>https://www.wsj.com/tech/ai/chinas-ai-engineers-are-secretly-accessing-banned-nvidia-chips-58728bf3</link>
+      <description><![CDATA[华尔街日报中国人工智能开发商越来越多地通过与经纪人合作从海外获取芯片，规避美国出口管制，这些管制禁止他们直接进口 Nvidia 芯片。用户的身份通过区块链的“智能合约”隐藏，交易使用加密货币支付。专家表示，这些安排没有违反任何法律。摘自“中国人工智能工程师秘密获取被禁 Nvidia 芯片”
+华尔街日报 (08/26/24) Raffaele Huang 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/tech/ai/chinas-ai-engineers-are-secretly-accessing-banned-nvidia-chips-58728bf3</guid>
+      <pubDate>Wed, 28 Aug 2024 15:08:24 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌加入 2.5 亿美元协议，为加州新闻编辑室提供支持</title>
-      <link>https://www.nytimes.com/2024/08/21/business/google-california-news-funding.html</link>
-      <description><![CDATA[《纽约时报》谷歌、加州新闻出版商协会和加州立法者宣布了一项史无前例的协议，将为该州的新闻编辑室提供高达 2.5 亿美元的资金，同时允许谷歌避免拟议的立法，该立法要求科技公司在其平台上的文章旁边出现广告时向新闻机构付费。根据这项为期五年的协议，将设立一个新的转型基金，以保护和扩大该州的新闻业。摘自“谷歌加入 2.5 亿美元协议，支持加州新闻编辑室”
-《纽约时报》（2024 年 8 月 21 日）Karen Weise；Shawn Hubler；Nico Grant 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/08/21/business/google-california-news-funding.html</guid>
-      <pubDate>Mon, 26 Aug 2024 18:10:36 GMT</pubDate>
+      <title>人工智能选举的不顺之年</title>
+      <link>https://www.nytimes.com/2024/08/21/technology/ai-election-campaigns.html</link>
+      <description><![CDATA[《纽约时报》二十多家科技公司提供面向政治竞选的人工智能产品，这些产品能够重新整理选民名单、处理竞选电子邮件和自动电话，并生成人工智能生成的候选人肖像，用于虚拟见面会。然而，对科技公司和政治竞选活动的采访表明，这项技术尚未起飞，主要是因为选民对人工智能不信任。摘自“没有人工智能的选举之年”
+《纽约时报》（2024 年 8 月 21 日）Sheera Frenkel 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/08/21/technology/ai-election-campaigns.html</guid>
+      <pubDate>Wed, 28 Aug 2024 15:08:24 GMT</pubDate>
     </item>
     <item>
-      <title>引文黑市：售卖虚假引文的骗局让科学家感到担忧</title>
-      <link>https://www.nature.com/articles/d41586-024-01672-7</link>
-      <description><![CDATA[Nature人们越来越担心黑市允许科学家购买虚假引文来充实他们的 Google Scholar 个人资料。纽约大学的计算机科学家进行了一次诱捕行动，他们以 300 美元的价格购买了 50 条引文，并将其添加到他们创建的虚假 Google Scholar 个人资料中。研究人员还提出了一个引文集中指数，以识别仅从少数来源获得大量引文的科学家。摘自“引文黑市：销售虚假引文的计划让科学家感到恐慌”
-Nature (08/20/24) Dalmeet Singh Chawla 查看全文]]></description>
-      <guid>https://www.nature.com/articles/d41586-024-01672-7</guid>
-      <pubDate>Mon, 26 Aug 2024 18:10:36 GMT</pubDate>
+      <title>微软大亨的科学珍品将被拍卖——研究人员垂涎欲滴</title>
+      <link>https://www.nature.com/articles/d41586-024-02769-9</link>
+      <description><![CDATA[自然微软保罗·艾​​伦遗产中的科学史珍品正在虚拟竞标中。研究人员和策展人最感兴趣的物品包括一台 1941 年的四转子 Enigma 密码机，格里芬科学与工业博物馆的 Voula Saridakis 称它是“计算机黎明”的核心。一台 1976 年的 Apple I 个人电脑（曾放在苹果联合创始人史蒂夫·乔布斯的办公室里）和宇航员艾德·怀特的备用太空服也有望引起人们的兴趣。摘自“微软大亨的科学珍品即将拍卖——研究人员垂涎欲滴”
+《自然》（2024 年 8 月 23 日）Alix Soliman 查看全文]]></description>
+      <guid>https://www.nature.com/articles/d41586-024-02769-9</guid>
+      <pubDate>Wed, 28 Aug 2024 15:08:23 GMT</pubDate>
     </item>
     <item>
-      <title>脑电波阅读机器人“教练”可以帮助中风患者康复</title>
-      <link>https://interestingengineering.com/health/headset-equipped-robot-coaches-stroke-patients</link>
-      <description><![CDATA[有趣的工程英国国家机器人中心和 AIT 奥地利理工学院的研究人员开发了一种机器人康复系统，可以帮助中风和脑损伤患者恢复肢体的使用。该系统的耳机通过脑机接口检测神经活动，使机器人能够理解预期的动作。这些机器人被编程为康复教练，帮助患者完成个性化的康复程序，而无需人工干预。摘自“脑电波阅读机器人‘教练’可以帮助中风幸存者康复”
-有趣的工程 (08/20/24) Chris Young 查看全文]]></description>
-      <guid>https://interestingengineering.com/health/headset-equipped-robot-coaches-stroke-patients</guid>
-      <pubDate>Mon, 26 Aug 2024 18:10:35 GMT</pubDate>
+      <title>计算机科学家发现流行安全协议中的漏洞</title>
+      <link>https://today.ucsd.edu/story/computer-scientists-discover-vulnerabilities-in-a-popular-security-protocol</link>
+      <description><![CDATA[加州大学圣地亚哥分校今日加州大学圣地亚哥分校计算机科学家领导的研究小组发现了远程身份验证拨入用户服务 (RADIUS) 协议中存在数十年的漏洞。Blast-RADIUS 漏洞可能允许“中间人”攻击 RADIUS 客户端或联网设备与 RADIUS 服务器之间的通信。研究人员将该漏洞归因于 RADIUS 是在了解加密协议设计之前开发的。供应商已经发布了短期补丁。摘自“计算机科学家发现流行安全协议中的漏洞”
+加州大学圣地亚哥分校今日 (08/20/24) Katie E. Ismael 查看全文]]></description>
+      <guid>https://today.ucsd.edu/story/computer-scientists-discover-vulnerabilities-in-a-popular-security-protocol</guid>
+      <pubDate>Wed, 28 Aug 2024 15:08:23 GMT</pubDate>
     </item>
     <item>
-      <title>随着机器人变得越来越智能，人工智能研究人员呼吁“人格认证”</title>
-      <link>https://www.washingtonpost.com/politics/2024/08/21/human-bot-personhood-credentials-worldcoin/</link>
-      <description><![CDATA[华盛顿邮报包括来自 OpenAI、微软和哈佛大学的研究人员在内的一个团队提议开发“人格凭证”，以帮助区分人类和在线机器人。这样的系统将要求人类离线验证其身份，以获得加密凭证，从而允许他们访问一系列在线服务。研究人员建议创建多个人格凭证系统，以便用户有选择，并且单一实体不会控制市场。摘自“随着机器人变得越来越聪明，人工智能研究人员呼吁‘人格凭证’”
-华盛顿邮报 (08/21/24) Will Oremus 查看全文]]></description>
-      <guid>https://www.washingtonpost.com/politics/2024/08/21/human-bot-personhood-credentials-worldcoin/</guid>
-      <pubDate>Mon, 26 Aug 2024 18:10:35 GMT</pubDate>
+      <title>科学家利用水凝胶来提高乒乓球电子游戏水平</title>
+      <link>https://www.theguardian.com/technology/article/2024/aug/22/scientists-enable-hydrogel-to-play-and-improve-at-pong-video-game</link>
+      <description><![CDATA[卫报英国雷丁大学的研究人员发现，水凝胶可以玩电子游戏 Pong，并且随着时间的推移，水平会不断提高。研究人员将一种电活性聚合物水凝胶放在两块板之间，两块板包含 3x3 电极阵列，连接到模拟 Pong 的计算机。雷丁大学的 Vincent Strong 表示：“随着时间的推移，离子浓度会在球最多的地方增加，就像一种肌肉记忆。”摘自“科学家让水凝胶能够玩和提高 Pong 电子游戏水平”
+卫报 (08/22/24) Nicola Davis 查看全文]]></description>
+      <guid>https://www.theguardian.com/technology/article/2024/aug/22/scientists-enable-hydrogel-to-play-and-improve-at-pong-video-game</guid>
+      <pubDate>Wed, 28 Aug 2024 15:08:22 GMT</pubDate>
     </item>
     <item>
-      <title>机器学习算法提高3D打印效率</title>
-      <link>https://www.engineering.com/machine-learning-algorithm-improves-3d-printing-efficiency/</link>
-      <description><![CDATA[Engineering.com华盛顿州立大学 (WSU) 的研究人员开发了一种机器学习算法，可以识别出生产复杂结构的最有效 3D 打印设置。研究人员使用该算法优化了肾脏和前列腺器官模型的设计，重点关注几何精度、重量、多孔性和打印时间。WSU 的 Eric Chen 表示：“无论打印类型或材料形状如何，我们都能够取得良好的平衡，并实现最佳质量的打印。”摘自“机器学习算法提高 3D 打印效率”
-Engineering.com (08/22/24) Ian Wright 查看全文]]></description>
-      <guid>https://www.engineering.com/machine-learning-algorithm-improves-3d-printing-efficiency/</guid>
-      <pubDate>Mon, 26 Aug 2024 18:10:34 GMT</pubDate>
+      <title>难以解锁手机？你可能丢失了指纹</title>
+      <link>https://www.wired.com/story/why-you-might-be-losing-your-fingerprints/</link>
+      <description><![CDATA[Wired指纹越来越多地用于安全应用，但这可能会给丢失指纹的人带来问题。这种情况可能随着人们年龄的增长而发生，也可能来自“微创伤”，例如游戏、打字、建筑工作和攀岩等活动中指尖的反复磨损。法医科学家 Glenn Langenburg 表示，使用多种生物识别因素（例如视网膜扫描或面部识别）可以帮助解决指纹问题。
+
+摘自“难以解锁手机？你可能丢失了指纹”
+Wired (08/26/24) Dawn Fallik 查看全文]]></description>
+      <guid>https://www.wired.com/story/why-you-might-be-losing-your-fingerprints/</guid>
+      <pubDate>Wed, 28 Aug 2024 15:08:22 GMT</pubDate>
     </item>
     <item>
-      <title>迈向密码破译量子计算机</title>
-      <link>https://news.mit.edu/2024/toward-code-breaking-quantum-computer-0823</link>
-      <description><![CDATA[MIT 新闻麻省理工学院 (MIT) 的研究人员开发了一种算法，该算法可以为加密方法铺平道路，这种加密方法足够强大，可以承受量子计算机的密码破译能力，并且易于实施。新算法使用一系列斐波那契数，只需进行简单的乘法而不是平方，这样就可以仅使用两个量子位来计算任何指数。它还解决了错误校正问题，过滤掉损坏的结果并仅处理正确的结果。摘自“迈向密码破译量子计算机”
-MIT 新闻 (08/23/24) Adam Zewe 查看全文]]></description>
-      <guid>https://news.mit.edu/2024/toward-code-breaking-quantum-computer-0823</guid>
-      <pubDate>Mon, 26 Aug 2024 18:10:34 GMT</pubDate>
+      <title>视觉导航</title>
+      <link>https://spacenews.com/navigating-by-sight/</link>
+      <description><![CDATA[太空新闻据斯坦福大学的 Simone D’Amico 称，NASA 于 7 月发射了四颗立方体卫星，作为 Starling 编队飞行光学实验 (StarFOX) 的一部分，这些立方体卫星已经展示了“无需先验信息，也无需机动来提高导航精度”的导航能力。立方体卫星使用仅角度的绝对和相对轨迹测量系统 (ARTMS)，该系统融合了图像处理、初始轨道确定和随时间推移对卫星群状态的估计的算法。摘自“视觉导航”
+太空新闻 (08/20/24) Debra Werner 查看全文]]></description>
+      <guid>https://spacenews.com/navigating-by-sight/</guid>
+      <pubDate>Wed, 28 Aug 2024 15:08:22 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能可以帮助日益减少的程序员队伍保持过时的程序正常运行</title>
-      <link>https://www.newscientist.com/article/2443466-ai-could-help-shrinking-pool-of-coders-keep-outdated-programs-working/</link>
-      <description><![CDATA[新科学家越南 FPT 软件 AI 中心的研究人员开发的一种 AI 模型可以让基于 COBOL 的系统继续运行，因为熟悉旧编程语言的工程师数量正在不断减少。研究人员正在训练 XMainframe 模型来解释 COBOL 代码并用其他编程语言重写它。在测试中，该模型在准确总结 COBOL 代码的用途方面优于其他 AI 模型。摘自“AI 可以帮助减少的程序员队伍让过时的程序继续运行”
-新科学家 (08/20/24) Matthew Sparkes 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.newscientist.com/article/2443466-ai-could-help-shrinking-pool-of-coders-keep-outdated-programs-working/</guid>
-      <pubDate>Mon, 26 Aug 2024 18:10:33 GMT</pubDate>
+      <title>科技公司如何掩盖人工智能的真实碳足迹</title>
+      <link>https://www.bloomberg.com/news/articles/2024-08-21/ai-tech-giants-hide-dirty-energy-with-outdated-carbon-accounting-rules</link>
+      <description><![CDATA[彭博社彭博绿色分析发现，亚马逊、微软和 Meta 正在购买数百万个非捆绑可再生能源证书 (REC)，以便他们能够声称自己减少了排放。尽管目前的碳核算规则将这些信用额度计入公司的碳足迹计算中，但研究表明，纸面上的碳节约并不能转化为大气中的实际减排量。摘自“科技公司如何掩盖人工智能的真实碳足迹”
+彭博社 (08/21/24) Akshat Rathi；Natasha White；Ben Elgin；等人 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-08-21/ai-tech-giants-hide-dirty-energy-with-outdated-carbon-accounting-rules</guid>
+      <pubDate>Wed, 28 Aug 2024 15:08:21 GMT</pubDate>
     </item>
     <item>
-      <title>保护联网自动驾驶汽车免受黑客攻击</title>
-      <link>https://cse.engin.umich.edu/stories/protecting-connected-self-driving-vehicles-from-hackers</link>
-      <description><![CDATA[密歇根大学计算机科学与工程系密歇根大学 (U-M) 的研究人员发现，联网自动驾驶汽车容易受到数据伪造攻击，这种攻击发生在黑客从感知数据中删除真实物体或插入假物体时。密歇根大学 Mcity 测试设施的研究人员使用伪造的基于 LiDAR 的 3D 传感器数据和零延迟攻击调度来更好地了解安全漏洞，并开发了协作异常检测系统作为对策。该系统使用共享的 2D 占用图来交叉检查数据并快速识别几何不一致之处。摘自“保护联网自动驾驶汽车免受黑客攻击”
-密歇根大学计算机科学与工程系 (08/20/24) Patricia DeLacey 查看全文]]></description>
-      <guid>https://cse.engin.umich.edu/stories/protecting-connected-self-driving-vehicles-from-hackers</guid>
-      <pubDate>Mon, 26 Aug 2024 18:10:33 GMT</pubDate>
+      <title>中国机器人制造商追赶特斯拉，提供人形工人</title>
+      <link>https://www.reuters.com/technology/chinas-robot-makers-chase-tesla-deliver-humanoid-workers-2024-08-23/</link>
+      <description><![CDATA[路透社在最近于北京举行的世界机器人大会上，展出了众多用于工厂和仓库的人形机器人，以及国产的精密零件。特斯拉的 Optimum 机器人也参加了此次展会。中国分析师和竞争对手承认特斯拉在人工智能领域的领先地位，但也吹捧中国有能力大幅降低生产成本。摘自“中国机器人制造商追赶特斯拉，提供人形工人”
+路透社 (08/23/24) Qiaoyi Li; Ken Krolicki 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/chinas-robot-makers-chase-tesla-deliver-humanoid-workers-2024-08-23/</guid>
+      <pubDate>Wed, 28 Aug 2024 15:08:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>以色列研究人员称可穿戴传感器可以减少传染病的传播</title>
+      <link>https://www.timesofisrael.com/israeli-researchers-say-wearable-sensors-could-cut-spread-of-contagious-disease/</link>
+      <description><![CDATA[以色列时报以色列特拉维夫大学的研究人员表示，追踪生物标记的智能手表可以尽早发现传染病，有助于阻止感染的蔓延。这项研究涉及 4,795 名佩戴智能手表的以色列成年人，他们不断监测自己的生命体征，并每天接受有关其身心健康的问卷调查。这项为期两年的研究发现了 490 例流感病例、2,206 例 COVID-19 病例和 320 例 A 组链球菌病例。摘自“以色列研究人员称可穿戴传感器可以减少传染病的传播”
+以色列时报 (08/22/24) Diana Bletter 查看全文]]></description>
+      <guid>https://www.timesofisrael.com/israeli-researchers-say-wearable-sensors-could-cut-spread-of-contagious-disease/</guid>
+      <pubDate>Wed, 28 Aug 2024 15:08:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub 调查发现几乎所有开发人员都使用 AI 编码工具</title>
+      <link>https://www.infoworld.com/article/3489925/github-survey-finds-nearly-all-developers-using-ai-coding-tools.html</link>
+      <description><![CDATA[InfoWorldGitHub 在美国、巴西、德国和印度对 2,000 名开发人员、工程师和程序员进行了调查，其中几乎所有人都 (97%) 表示他们在工作中使用过 AI 编码工具。大多数受访者表示，使用 AI 工具后，他们认为代码质量有所提高，60% 至 71% 的受访者表示，使用 AI 编码工具可以“轻松”地采用新的编程语言或理解现有的代码库。摘自“GitHub 调查发现几乎所有开发人员都使用 AI 编码工具”
+InfoWorld (08/21/24) 查看全文]]></description>
+      <guid>https://www.infoworld.com/article/3489925/github-survey-finds-nearly-all-developers-using-ai-coding-tools.html</guid>
+      <pubDate>Wed, 28 Aug 2024 15:08:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
