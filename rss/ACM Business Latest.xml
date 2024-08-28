@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Wed, 28 Aug 2024 15:08:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 18:10:46 GMT</lastBuildDate>
+    <item>
+      <title>生成式人工智能改变了英语作业。接下来是数学</title>
+      <link>https://www.wired.com/story/gauth-ai-math-homework-app/</link>
+      <description><![CDATA[字节跳动的 Gauth 应用可以扫描数学作业，并使用人工智能提供全面且通常正确的答案。数百万人已经免费下载了该应用。]]></description>
+      <guid>https://www.wired.com/story/gauth-ai-math-homework-app/</guid>
+      <pubDate>Wed, 28 Aug 2024 16:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>巴黎奥运会承诺推出飞行出租车——但未能推出</title>
       <link>https://www.wired.com/story/the-dream-of-flying-taxis-in-paris-failed-to-take-off/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[通过“开放式”实验让程序学习可能会释放出惊人的新功能，以及新的风险。]]></description>
       <guid>https://www.wired.com/story/ai-scientist-ubc-lab/</guid>
       <pubDate>Wed, 21 Aug 2024 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>福特放弃电动汽车，并表示混合动力汽车才是未来</title>
-      <link>https://www.wired.com/story/ford-steps-back-from-evs-and-says-hybrids-are-the-future/</link>
-      <description><![CDATA[该汽车制造商正在停止生产其电动三排 SUV，推迟推出下一代皮卡，并致力于未来的汽油和柴油汽车，理由是消费者对全电动汽车缺乏兴趣。]]></description>
-      <guid>https://www.wired.com/story/ford-steps-back-from-evs-and-says-hybrids-are-the-future/</guid>
-      <pubDate>Wed, 21 Aug 2024 14:20:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
