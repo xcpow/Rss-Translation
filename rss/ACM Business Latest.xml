@@ -4,7 +4,28 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Wed, 04 Sep 2024 15:08:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 18:11:16 GMT</lastBuildDate>
+    <item>
+      <title>互联网档案馆在重大版权案件中败诉</title>
+      <link>https://www.wired.com/story/internet-archive-loses-hachette-books-case-appeal/</link>
+      <description><![CDATA[这场法律纠纷是由图书出版商反对该档案馆的数字借阅图书馆而引发的。]]></description>
+      <guid>https://www.wired.com/story/internet-archive-loses-hachette-books-case-appeal/</guid>
+      <pubDate>Wed, 04 Sep 2024 17:55:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>这会是亚马逊下一次机器人革命的开始吗？</title>
+      <link>https://www.wired.com/amazon-covariant-robotics-deal/</link>
+      <description><![CDATA[这家电子商务巨头已经收购了一支团队，旨在让机器人更加智能、更加灵活——有可能实现更多仓库运营的自动化。]]></description>
+      <guid>https://www.wired.com/amazon-covariant-robotics-deal/</guid>
+      <pubDate>Wed, 04 Sep 2024 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普推迟披露加密货币，冒名顶替者趁机得手</title>
+      <link>https://www.wired.com/story/impersonators-take-advantage-as-the-trumps-dawdle-over-crypto-reveal/</link>
+      <description><![CDATA[特朗普家族在过去一个月大力宣传即将开展的加密货币项目。由于缺乏有关该项目的确切细节，骗子们只能填补空白。]]></description>
+      <guid>https://www.wired.com/story/impersonators-take-advantage-as-the-trumps-dawdle-over-crypto-reveal/</guid>
+      <pubDate>Wed, 04 Sep 2024 15:39:23 GMT</pubDate>
+    </item>
     <item>
       <title>一个新组织正在努力使人工智能数据许可变得合乎道德</title>
       <link>https://www.wired.com/story/dataset-providers-alliance-ethical-generative-ai-licensing/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[问题在于数字收藏品是否可以被视为证券。“美国证券交易委员会的所作所为直接影响了我的谋生能力，”一名原告说。]]></description>
       <guid>https://www.wired.com/story/jonathan-mann-brian-frye-sec-lawsuit-nfts-art-securities/</guid>
       <pubDate>Mon, 26 Aug 2024 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>帕维尔·杜罗夫被捕，电报悬而未决</title>
-      <link>https://www.wired.com/story/telegram-ceo-pavel-durov-arrest/</link>
-      <description><![CDATA[据报道，杜罗夫因 Telegram 未能充分审核该消息应用程序上的非法内容而在法国被拘留。他的被捕引发了强烈反对，一些同事不禁要问，现在该怎么办？]]></description>
-      <guid>https://www.wired.com/story/telegram-ceo-pavel-durov-arrest/</guid>
-      <pubDate>Sun, 25 Aug 2024 22:01:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>洛杉矶“无车”奥运会能成功吗？</title>
-      <link>https://www.wired.com/story/how-the-car-free-los-angeles-olympics-will-work/</link>
-      <description><![CDATA[2028 年夏季奥运会的组织者将尝试重现 20 世纪初该市公共交通的鼎盛时期，但淘汰汽车——即使只是几周——也将代价高昂。]]></description>
-      <guid>https://www.wired.com/story/how-the-car-free-los-angeles-olympics-will-work/</guid>
-      <pubDate>Sat, 24 Aug 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国司法部起诉称公寓租赁市场受到算法操纵</title>
-      <link>https://www.wired.com/story/realpage-antitrust-lawsuit/</link>
-      <description><![CDATA[美国司法部声称，一家名为 RealPage 的公司对全国数百万套公寓租赁单元的价格操纵负有责任。]]></description>
-      <guid>https://www.wired.com/story/realpage-antitrust-lawsuit/</guid>
-      <pubDate>Fri, 23 Aug 2024 15:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
