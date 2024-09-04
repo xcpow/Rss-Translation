@@ -4,110 +4,111 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Fri, 30 Aug 2024 15:08:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 15:08:54 GMT</lastBuildDate>
     <item>
-      <title>无人机投放掠食性黄蜂保护葡萄园</title>
-      <link>https://edition.cnn.com/world/africa/south-africa-vergelegen-drone-wasps-spc/index.html</link>
-      <description><![CDATA[CNN无人机被用来向南非的 Vergelegen 葡萄酒庄园投放捕食性黄蜂，这是一种不使用杀虫剂的害虫防治方式。SkyBugs 是捕食性昆虫供应商 FieldBUGS 和农业科技公司 Aerobotics 的合作项目，它部署的无人机携带弹药筒，每次飞行可在多达 20 公顷的土地上释放 500 只黄蜂蛹。与使用杀虫剂相比，无人机应用更快捷、更便宜、更环保。摘自“无人机投放捕食性黄蜂保护葡萄园”
-CNN (08/27/24) Gertrude Kitongo 查看全文]]></description>
-      <guid>https://edition.cnn.com/world/africa/south-africa-vergelegen-drone-wasps-spc/index.html</guid>
-      <pubDate>Fri, 30 Aug 2024 15:08:42 GMT</pubDate>
+      <title>OpenAI、Anthropic 与 NIST 达成 AI 安全研究协议</title>
+      <link>https://thehill.com/policy/technology/4854139-ai-companies-us-government/</link>
+      <description><![CDATA[国会山美国国家标准与技术研究所 (NIST) 宣布了一项协议，该协议将允许 NIST 的美国人工智能安全研究所在 OpenAI 和 Anthropic 的新人工智能模型公开发布之前和之后访问它们。这些协议将有助于加强对人工智能能力和风险的研究，并允许 NIST 提出安全改进建议。摘自“OpenAI、Anthropic 与 NIST 达成人工智能安全研究协议”
+The Hill (08/29/24) Miranda Nazzaro 查看全文]]></description>
+      <guid>https://thehill.com/policy/technology/4854139-ai-companies-us-government/</guid>
+      <pubDate>Wed, 04 Sep 2024 15:08:53 GMT</pubDate>
     </item>
     <item>
-      <title>Z 世代是电脑高手。只是不要让他们打字</title>
-      <link>https://www.wsj.com/lifestyle/gen-z-typing-computers-keyboards-c83d15f0</link>
-      <description><![CDATA[《华尔街日报》尽管 Z 世代以精通科技著称，但许多 Z 世代并未接受盲打培训。美国教育部报告称，美国高中毕业生中，参加过键盘课程的比例从 2000 年的 44% 下降到 2019 年的 2.5%。许多 Z 世代选择使用 iPad 或其他平板电脑，而不是使用实体键盘的设备。摘自“Z 世代是电脑高手。只是不要让他们打字”
-《华尔街日报》（2024 年 8 月 26 日）Georgia Wells 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/lifestyle/gen-z-typing-computers-keyboards-c83d15f0</guid>
-      <pubDate>Fri, 30 Aug 2024 15:08:41 GMT</pubDate>
+      <title>中国科技公司能在硅谷找到立足之地吗？</title>
+      <link>https://www.nytimes.com/2024/08/29/business/china-venture-capital.html</link>
+      <description><![CDATA[《纽约时报》中国正在失去越来越多将目光投向硅谷的科技专业人士。其中许多人是风险投资家，他们对中国政府与私营企业之间的紧张关系感到担忧。然而，他们在人工智能、量子计算和半导体领域的投资能力受到中国和美国政府的阻碍。摘自《中国科技能在硅谷找到立足之地吗？》
+
+《纽约时报》（2024 年 8 月 29 日）李源 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/08/29/business/china-venture-capital.html</guid>
+      <pubDate>Wed, 04 Sep 2024 15:08:53 GMT</pubDate>
     </item>
     <item>
-      <title>专家警告称，人工智能可能引发流行病</title>
-      <link>https://time.com/7014800/ai-pandemic-bioterrorism/</link>
-      <description><![CDATA[《时代》杂志斯坦福医学院、福特汉姆大学和约翰霍普金斯大学卫生安全中心的公共卫生和法律专业人士撰写的一份政策文件呼吁对先进的生物人工智能模型进行强制监督和保护。作者写道，他们认为政府应该与机器学习、传染病和伦理专家合作，开发测试，以确定生物人工智能模型是否可能带来“大流行级风险”。摘自“专家警告称，人工智能可能引发大流行”
-《时代》杂志 (08/27/24) Tharin Pillay；Harry Booth 查看全文]]></description>
-      <guid>https://time.com/7014800/ai-pandemic-bioterrorism/</guid>
-      <pubDate>Fri, 30 Aug 2024 15:08:41 GMT</pubDate>
+      <title>机器学习可以提前数月预测地震</title>
+      <link>https://interestingengineering.com/science/earthquake-forecast-months-before-possible</link>
+      <description><![CDATA[有趣的工程阿拉斯加大学费尔班克斯分校 (UAF) 的研究人员开发了一种使用机器学习在地震发生前数月准确预测地震的方法。研究人员开发了一种算法，可以搜索地震数据中的异常活动并对即将发生的地震做出明智的预测。通过研究 2018 年阿拉斯加和 2019 年加利福尼亚发生的大地震，研究人员发现大地震之前会出现低水平的构造动荡，他们将其归因于断层内孔隙流体压力的显着增加。摘自“机器学习可以提前数月预测地震”
+有趣的工程 (08/30/24) Prabhat Ranjan Mishra 查看全文]]></description>
+      <guid>https://interestingengineering.com/science/earthquake-forecast-months-before-possible</guid>
+      <pubDate>Wed, 04 Sep 2024 15:08:53 GMT</pubDate>
     </item>
     <item>
-      <title>每分钟一分钱的语音机器人助力印度初创企业</title>
-      <link>https://www.bloomberg.com/news/articles/2024-08-26/cheap-ai-voice-bots-are-taking-off-with-businesses-in-india</link>
-      <description><![CDATA[彭博社印度初创公司 Sarvam AI 推出了一款软件，允许企业使用语音和文本与客户互动。该技术的使用价格为每分钟 1 卢比（约 1.2 美分），是使用 10 种印度本土语言的数据开发的。印度初创公司越来越专注于开发能够提供实时口头响应并自动执行客户服务任务的聊天机器人。摘自“一分钟一分钱的语音机器人帮助印度初创公司”
-彭博社 (08/25/24) Saritha Rai 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-08-26/cheap-ai-voice-bots-are-taking-off-with-businesses-in-india</guid>
-      <pubDate>Fri, 30 Aug 2024 15:08:40 GMT</pubDate>
+      <title>低成本“智能口罩”可通过呼吸检测疾病</title>
+      <link>https://www.theguardian.com/science/article/2024/aug/29/smart-mask-detect-disease-breath</link>
+      <description><![CDATA[英国卫报加州理工学院的研究人员开发了一种智能口罩，它通过分析佩戴者的呼吸生物标志物来检测疾病。口罩中的 EBCare 设备会浓缩佩戴者的呼吸，然后通过内置传感器进行分析，以确定酒精、pH、铵和亚硝酸盐水平，从而识别肾脏疾病、慢性阻塞性肺病和哮喘。数据通过蓝牙传输到应用程序。摘自“低成本‘智能口罩’通过呼吸检测疾病”
+英国卫报 (08/29/24) Nicola Davis]]></description>
+      <guid>https://www.theguardian.com/science/article/2024/aug/29/smart-mask-detect-disease-breath</guid>
+      <pubDate>Wed, 04 Sep 2024 15:08:52 GMT</pubDate>
     </item>
     <item>
-      <title>由人类脑细胞制成的“生物计算机”可供出租</title>
-      <link>https://interestingengineering.com/science/biocomputers-available-on-rent-finalspark</link>
-      <description><![CDATA[有趣的工程研究人员可以以每月 500 美元的费用从瑞士科技公司 FinalSpark 租用“生物计算机”的云访问权限。这些生物计算机或类器官是 AI 模型的低能耗替代品，由人类脑细胞组成，寿命仅为 100 天左右。在获准使用 FinalSpark 生物计算机的九所大学中，有密歇根大学、德国柏林自由大学和兰卡斯特大学。摘自“可供出租的由人类脑细胞制成的‘生物计算机’”
-有趣的工程 (08/25/24) Gairika Mitra 查看全文]]></description>
-      <guid>https://interestingengineering.com/science/biocomputers-available-on-rent-finalspark</guid>
-      <pubDate>Fri, 30 Aug 2024 15:08:40 GMT</pubDate>
+      <title>潜水机器人测量南极冰融化情况</title>
+      <link>https://www.fastcompany.com/91182156/prototype-help-climate-scientists-measure-melting-antarctic-ice</link>
+      <description><![CDATA[Fast Company美国宇航局喷气推进实验室的研究人员测试了原型潜水器，这将有助于评估变暖的海水融化南极冰盖的速度，并有助于改进预测未来海平面上升的计算机模型。原型于 3 月部署在阿拉斯加北部冰冻的波弗特海下，当时它下潜了 330 英尺（100 米）以收集盐度、温度和流量数据。该团队的目标是部署一支由 10 个自动机器人组成的舰队。摘自“潜水机器人车辆测量南极冰融化”
+Fast Company (08/30/24) Steve Gorman 查看全文]]></description>
+      <guid>https://www.fastcompany.com/91182156/prototype-help-climate-scientists-measure-melting-antarctic-ice</guid>
+      <pubDate>Wed, 04 Sep 2024 15:08:51 GMT</pubDate>
     </item>
     <item>
-      <title>真菌为机器人提供动力</title>
-      <link>https://www.nationalgeographic.com/science/article/fungi-oyster-mushroom-robot-technology</link>
-      <description><![CDATA[国家地理康奈尔大学研究人员发明的“生物混合”机器人由蘑菇信号驱动。研究人员在装有电极的 3D 打印支架上从杏鲍菇中培育出菌丝体（连接地下蘑菇的丝状网络）。相互连接的菌丝体响应环境变化而产生的电脉冲与计算机接口通信，计算机接口将其转换为数字命令并传输给机器人，从而使机器人能够移动。摘自“真菌为机器人提供动力”
-国家地理 (08/28/24) Olivia Ferrari 查看全文]]></description>
-      <guid>https://www.nationalgeographic.com/science/article/fungi-oyster-mushroom-robot-technology</guid>
-      <pubDate>Fri, 30 Aug 2024 15:08:39 GMT</pubDate>
+      <title>研究人员打造“人工智能科学家”</title>
+      <link>https://www.nature.com/articles/d41586-024-02842-3</link>
+      <description><![CDATA[《自然》来自美国、加拿大和日本的研究人员团队开发了 AI Scientist，旨在实现部分科学研究过程的自动化。基于大型语言模型，AI Scientist 可以执行完整的研究周期，从阅读现有文献、提出假设到测试解决方案和撰写论文。它还可以评估自己的结果，然后在此基础上重新启动研究周期。摘自“研究人员打造‘AI Scientist’”
+《自然》 (08/30/24) Davide Castelvecchi 查看全文]]></description>
+      <guid>https://www.nature.com/articles/d41586-024-02842-3</guid>
+      <pubDate>Wed, 04 Sep 2024 15:08:51 GMT</pubDate>
     </item>
     <item>
-      <title>美国漫画救济组织推出 Roblox 游戏，帮助儿童建立社区</title>
-      <link>https://apnews.com/article/comic-relief-us-roblox-game-philanthropy-kids-fab7c61c6ed51eb415049229dc34d01f</link>
-      <description><![CDATA[美联社继去年成功推出 Roblox 多元宇宙之后，美国喜剧救济组织正在扩大游戏范围，以吸引新一代在线捐赠者。作为儿童救济组织“改变世界游戏运动”的一部分，这家反贫困非营利组织和合作伙伴 Nickelodeon 将推出一个新的 Roblox 世界，孩子们可以通过寻宝游戏筹集资金。目标是将与协作游戏相关的社区建设转化为现实世界的善举。摘自“Comic Relief U.S. 推出 Roblox 游戏帮助儿童建立社区”
-美联社 (08/27/24) James Pollard 查看全文]]></description>
-      <guid>https://apnews.com/article/comic-relief-us-roblox-game-philanthropy-kids-fab7c61c6ed51eb415049229dc34d01f</guid>
-      <pubDate>Fri, 30 Aug 2024 15:08:39 GMT</pubDate>
+      <title>量子全息图可以发送消失的信息</title>
+      <link>https://www.newscientist.com/article/2445870-quantum-holograms-can-send-messages-that-disappear/</link>
+      <description><![CDATA[《新科学家》英国埃克塞特大学研究人员开发的量子全息图可用于嵌入发送后即被删除的安全信息。研究人员利用超表面创建量子全息图，其中可以编码和恢复复杂信息。南非威特沃特斯兰德大学的 Andrew Forbes 表示：“每个人的梦想都是看到这种量子技术在桌子上占地数平方米，但体积足够小，可以放在智能手机中。”超表面似乎是解决这一问题的好方法。”摘自“量子全息图可以发送消失的信息”
+《新科学家》（2024 年 8 月 30 日）Karmela Padavic-Callaghan 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.newscientist.com/article/2445870-quantum-holograms-can-send-messages-that-disappear/</guid>
+      <pubDate>Wed, 04 Sep 2024 15:08:51 GMT</pubDate>
     </item>
     <item>
-      <title>中国政府黑客入侵美国互联网服务提供商</title>
-      <link>https://www.washingtonpost.com/technology/2024/08/27/chinese-government-hackers-penetrate-us-internet-providers-spy/</link>
-      <description><![CDATA[《华盛顿邮报》研究人员称，美国互联网服务提供商 (ISP) 已被中国政府支持的黑客入侵，目的是收集用户情报。据信，秘密工作的政府和军​​事人员以及对中国有战略利益的团体是主要目标。Lumen Technologies 的研究人员表示，今年夏天，三家美国 ISP 被黑客入侵，攻击者利用 Versa Networks 用于管理广域网的程序中一个此前未知的零日漏洞。摘自“中国政府黑客入侵美国 ISP”
-《华盛顿邮报》（2024 年 8 月 27 日）Joseph Menn 查看全文]]></description>
-      <guid>https://www.washingtonpost.com/technology/2024/08/27/chinese-government-hackers-penetrate-us-internet-providers-spy/</guid>
-      <pubDate>Fri, 30 Aug 2024 15:08:38 GMT</pubDate>
+      <title>目前哪些编程语言最流行？</title>
+      <link>https://www.zdnet.com/article/which-programming-languages-are-most-popular-now-and-what-does-that-even-mean/</link>
+      <description><![CDATA[ZDNetZDNET 编程语言流行度指数包含五个集群，第一个集群中 Python、JavaScript 和 Java 位居榜首，其次是 C++、C#、C、TypeScript 和 SQL。第三个集群包含 HTML/CSS、PHP、Shell 和 Go，第四个集群中 Rust 和 Kotlin 位居其后。最后一个集群包含 Lua、Ruby、R、Dart 和 Swift。该指数汇总了来自九个不同排名的调查数据。摘自“现在哪些编程语言最受欢迎？”
+ZDNet (08/30/24) David Gerwitz 查看全文]]></description>
+      <guid>https://www.zdnet.com/article/which-programming-languages-are-most-popular-now-and-what-does-that-even-mean/</guid>
+      <pubDate>Wed, 04 Sep 2024 15:08:50 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能的能源竞赛与比特币挖矿竞争</title>
-      <link>https://www.reuters.com/technology/artificial-intelligence/ais-race-us-energy-butts-up-against-bitcoin-mining-2024-08-28</link>
-      <description><![CDATA[路透社美国科技公司寻求更多电力来为人工智能和云计算数据中心供电，因此转向比特币矿工。到 2027 年底，预计 20% 的比特币矿工电力容量将转向人工智能。摩根士丹利的研究人员发现，通过重新利用人工智能和云计算，加密采矿设施的价值可能会提高五倍以上。此外，通过购买或租赁至少具有 100 兆瓦容量的比特币采矿设施，数据中心的等待时间可以缩短约 3.5 年。摘自“人工智能的能源竞赛与比特币采矿相冲突”
-路透社 (08/28/24) Laila Kearney； Mrinalika Roy 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/artificial-intelligence/ais-race-us-energy-butts-up-against-bitcoin-mining-2024-08-28</guid>
-      <pubDate>Fri, 30 Aug 2024 15:08:38 GMT</pubDate>
+      <title>荷兰将在全国范围内禁止在校使用手机</title>
+      <link>https://www.dw.com/en/netherlands-nationwide-ban-on-phones-in-schools-underway/a-70110245</link>
+      <description><![CDATA[德国之声 (德国)荷兰政府已禁止中小学学生使用手机、智能手表和平板电脑。该禁令于 1 月在中学生效，9 月 2 日在小学生效。政府在一份声明中表示：“越来越多的证据表明，上课时使用手机有害。学生的注意力会下降，成绩也会受到影响。我们需要保护学生免受这些影响。”此前，希腊和意大利的学校也出台了类似的禁令。摘自“荷兰全国学校手机禁令正在实施中”
+德国之声 (德国) (09/02/24) 查看全文]]></description>
+      <guid>https://www.dw.com/en/netherlands-nationwide-ban-on-phones-in-schools-underway/a-70110245</guid>
+      <pubDate>Wed, 04 Sep 2024 15:08:50 GMT</pubDate>
     </item>
     <item>
-      <title>IT 问题使荷兰海岸警卫队、军队和机场陷入瘫痪</title>
-      <link>https://www.dw.com/en/netherlands-eindhoven-airport-grounds-flights-due-to-it-problems/a-70069373</link>
-      <description><![CDATA[德国之声 (德国)周三，荷兰国防部 IT 网络出现问题，影响了埃因霍温国际机场和海岸警卫队、宪兵等多个公共服务部门。荷兰紧急服务部门也遭遇全国性停电，导致警报和通信系统中断。国家网络安全中心的消息人士表示，目前尚无证据表明发生了网络攻击，并补充说，一次停电可能与另一次停电有关。摘自“IT 问题使荷兰海岸警卫队、军队和机场陷入瘫痪”
-德国之声 (德国) (08/28/24) 查看全文]]></description>
-      <guid>https://www.dw.com/en/netherlands-eindhoven-airport-grounds-flights-due-to-it-problems/a-70069373</guid>
-      <pubDate>Fri, 30 Aug 2024 15:08:37 GMT</pubDate>
+      <title>肯尼亚的机器人服务员引起轰动</title>
+      <link>https://apnews.com/article/robot-cafe-waiters-kenya-technology-845cbb0bc610ef7f6fcbd86ef05803d2</link>
+      <description><![CDATA[美联社在肯尼亚内罗毕的机器人咖啡馆，三台机器人为顾客提供食物。这些机器人由人类服务员使用 iPad 应用程序控制，用托盘送餐，并被编程为发出简单的回应，例如“您的订单已准备好”。机器人咖啡馆经理 John Kariuki 表示，这些机器人并不是要取代人类服务员，理由是购买成本高，而且机器人无法处理所有餐厅服务。摘自“肯尼亚的机器人服务员引起轰动”
+美联社 (09/01/24) Desmond Tiro；Evelyne Musambi 查看全文]]></description>
+      <guid>https://apnews.com/article/robot-cafe-waiters-kenya-technology-845cbb0bc610ef7f6fcbd86ef05803d2</guid>
+      <pubDate>Wed, 04 Sep 2024 15:08:49 GMT</pubDate>
     </item>
     <item>
-      <title>加州理工学院的最新 STEM 突破：大多数新生都是女性</title>
-      <link>https://www.latimes.com/california/story/2024-08-27/caltech-long-male-bastion-to-enroll-majority-women-for-first-time</link>
-      <description><![CDATA[洛杉矶时报加州理工学院 (Caltech) 宣布，在其 133 年的历史上，今年秋季入学的本科生中，女性首次占到一半以上。美国大学妇女协会首席执行官 Gloria L. Blackwell 称赞了加州理工学院的成就，但指出女性在计算机科学学位持有者中所占比例仍然只有 18% 左右。摘自“加州理工学院最新的 STEM 突破：大多数新生都是女性”
-洛杉矶时报 (08/27/24) Teresa Watanabe 查看全文]]></description>
-      <guid>https://www.latimes.com/california/story/2024-08-27/caltech-long-male-bastion-to-enroll-majority-women-for-first-time</guid>
-      <pubDate>Fri, 30 Aug 2024 15:08:37 GMT</pubDate>
+      <title>SQL注入绕过机场安全检查</title>
+      <link>https://www.bleepingcomputer.com/news/security/researchers-find-sql-injection-to-bypass-airport-tsa-security-checks/</link>
+      <description><![CDATA[BleepingComputer安全研究人员发现，航空公司用于管理已知机组人员 (KCM) 计划和驾驶舱访问安全系统 (CASS) 的第三方 Web 服务存在漏洞。他们发现 FlyCASS 登录系统容易受到 SQL 注入攻击，这可能允许黑客以管理员身份登录并操纵员工数据。美国国土安全部表示，FlyCASS 于 5 月与 KCM/CASS 断开连接；据报道，该漏洞随后不久就得到了修复。摘自“SQL 注入绕过机场安全检查”
+BleepingComputer (08/30/24) Sergiu Gatlan 查看全文]]></description>
+      <guid>https://www.bleepingcomputer.com/news/security/researchers-find-sql-injection-to-bypass-airport-tsa-security-checks/</guid>
+      <pubDate>Wed, 04 Sep 2024 15:08:49 GMT</pubDate>
     </item>
     <item>
-      <title>加州通过人工智能安全法案</title>
-      <link>https://www.bloomberg.com/news/articles/2024-08-28/controversial-ai-safety-bill-passed-by-california-state-assembly?sref=db2f3qgr</link>
-      <description><![CDATA[彭博社加州立法机构批准了一项遭到许多科技公司反对的人工智能安全法案。该法案于周三在州议会通过后，被递交至州长加文·纽瑟姆的办公桌上，参议院于周四予以最终批准。SB 1047 要求开发人工智能模型的公司采取“合理谨慎”措施，以确保其技术不会造成“严重伤害”，例如大规模人员伤亡或超过 5 亿美元的财产损失。摘自“加州通过人工智能安全法案”
-彭博社 (08/29/24) Shirin Ghaffary 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-08-28/controversial-ai-safety-bill-passed-by-california-state-assembly?sref=db2f3qgr</guid>
-      <pubDate>Fri, 30 Aug 2024 15:08:36 GMT</pubDate>
+      <title>女性因自动化面临更大的失业风险</title>
+      <link>https://www.computerweekly.com/news/366609373/Women-face-greater-risk-of-job-displacement-from-automation</link>
+      <description><![CDATA[Computer WeeklyCode First Girls 和 Tech Talent Charter 的一项研究发现，女性受工作自动化影响的可能性比男性高 40%。Code First Girls 将此部分归因于男性占软件工程师的大多数，这引发了人们对人工智能中存在偏见的担忧。Code First Girls 表示，技能提升和再培训可以帮助女性避免被人工智能和自动化取代。摘自“女性面临更大的被自动化取代的风险”
+Computer Weekly (08/29/24) Clare McDonald 查看全文]]></description>
+      <guid>https://www.computerweekly.com/news/366609373/Women-face-greater-risk-of-job-displacement-from-automation</guid>
+      <pubDate>Wed, 04 Sep 2024 15:08:48 GMT</pubDate>
     </item>
     <item>
-      <title>Telegram 创始人被起诉，加密技术成为焦点</title>
-      <link>https://www.nytimes.com/2024/08/29/technology/telegram-encryption-pavel-durov.html</link>
-      <description><![CDATA[《纽约时报》Telegram 首席执行官 Pavel Durov 在法国被起诉，罪名包括该消息平台未经许可提供旨在确保机密性的加密服务。加密一直是政府和科技公司之间长期存在的摩擦点，后者认为加密对于数字隐私至关重要，而前者则认为加密会助长非法活动。 Telegram 的加密并不像其他消息平台上的加密那样透明。摘自“Telegram 创始人起诉书将加密推向聚光灯下”
-纽约时报 (08/30/24) Mike Isaac；Sheera Frenkel 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/08/29/technology/telegram-encryption-pavel-durov.html</guid>
-      <pubDate>Fri, 30 Aug 2024 15:08:36 GMT</pubDate>
+      <title>数据中心面临七年等待 Dominion Power 连接</title>
+      <link>https://www.bloomberg.com/news/articles/2024-08-29/data-centers-face-seven-year-wait-for-power-hookups-in-virginia</link>
+      <description><![CDATA[彭博社为弗吉尼亚州北部“数据中心巷”提供服务的电力公司 Dominion Energy Inc. 表示，将新数据中心连接到电网的等待时间可能为 4 到 7 年。该估计适用于需要超过 100 兆瓦电力的数据中心，与之前的估计相比，额外增加了一到三年的时间。数据中心的电力需求超过了世界许多地区的可用电力供应。摘自“数据中心面临七年等待 Dominion 电力连接的等待”
+彭博社 (08/29/24) Josh Saul；Will Wade 查看全文]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-08-29/data-centers-face-seven-year-wait-for-power-hookups-in-virginia</guid>
+      <pubDate>Wed, 04 Sep 2024 15:08:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
