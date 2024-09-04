@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Wed, 04 Sep 2024 09:09:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 12:17:03 GMT</lastBuildDate>
+    <item>
+      <title>一个新组织正在努力使人工智能数据许可变得合乎道德</title>
+      <link>https://www.wired.com/story/dataset-providers-alliance-ethical-generative-ai-licensing/</link>
+      <description><![CDATA[数据集提供商联盟呼吁创作者和权利持有者能够选择将其材料用于培训目的。]]></description>
+      <guid>https://www.wired.com/story/dataset-providers-alliance-ethical-generative-ai-licensing/</guid>
+      <pubDate>Wed, 04 Sep 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>巴西法官禁止埃隆·马斯克驾驶 X</title>
       <link>https://www.wired.com/story/elon-musks-standoff-with-brazil-reaches-a-tipping-point/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[美国司法部声称，一家名为 RealPage 的公司对全国数百万套公寓租赁单元的价格操纵负有责任。]]></description>
       <guid>https://www.wired.com/story/realpage-antitrust-lawsuit/</guid>
       <pubDate>Fri, 23 Aug 2024 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>加密货币闪亮的新政治机器</title>
-      <link>https://www.wired.com/story/crypto-political-donations-super-pacs-campaigns/</link>
-      <description><![CDATA[尽管加密货币行业规模相对较小，并且仍然缺乏任何明显的主流用途，但其在美国大选中投入的资金比其他任何行业都要多。]]></description>
-      <guid>https://www.wired.com/story/crypto-political-donations-super-pacs-campaigns/</guid>
-      <pubDate>Fri, 23 Aug 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
