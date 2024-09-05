@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 05 Sep 2024 15:08:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 18:09:57 GMT</lastBuildDate>
+    <item>
+      <title>为什么在巴西全面封锁X如此困难</title>
+      <link>https://www.wired.com/story/brazil-x-ban-isp-blocking/</link>
+      <description><![CDATA[巴西全国有 20,000 家互联网提供商，封锁 X 所面临的技术挑战意味着一些连接会出现漏洞。]]></description>
+      <guid>https://www.wired.com/story/brazil-x-ban-isp-blocking/</guid>
+      <pubDate>Thu, 05 Sep 2024 15:41:52 GMT</pubDate>
+    </item>
     <item>
       <title>纽约一年前开始严厉打击 Airbnb。纽约市住房市场仍一片混乱</title>
       <link>https://www.wired.com/story/new-york-city-airbnb-law-one-year-results/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[法国当局拘留了杜罗夫，对他进行讯问，这是对洗钱和 CSAM 等一系列涉嫌违法行为调查的一部分，但目前尚不清楚他是否会面临指控。]]></description>
       <guid>https://www.wired.com/story/telegram-pavel-durov-arrest-investigation-allegations/</guid>
       <pubDate>Mon, 26 Aug 2024 21:23:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>以色列购买谷歌广告以抹黑联合国最高加沙援助机构</title>
-      <link>https://www.wired.com/story/israel-unrwa-usa-hamas-google-search-ads/</link>
-      <description><![CDATA[近东救济工程处称以色列传播所谓虚假信息的策略是“破坏性的”。]]></description>
-      <guid>https://www.wired.com/story/israel-unrwa-usa-hamas-google-search-ads/</guid>
-      <pubDate>Mon, 26 Aug 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
