@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 06 Sep 2024 09:08:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 12:14:24 GMT</lastBuildDate>
+    <item>
+      <title>伊隆·马斯克在巴西陷入困境</title>
+      <link>https://www.wired.com/story/x-starlink-brazil-suspension-musk/</link>
+      <description><![CDATA[在就 X 和 Starlink 在该国的运营与法官公开对峙之后，埃隆·马斯克表现出动摇的迹象。]]></description>
+      <guid>https://www.wired.com/story/x-starlink-brazil-suspension-musk/</guid>
+      <pubDate>Fri, 06 Sep 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>为什么在巴西全面封锁X如此困难</title>
       <link>https://www.wired.com/story/brazil-x-ban-isp-blocking/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[在汉堡，航空巨头空中客车公司正在利用最先进的机器人技术改造飞机生产。我们参观了 A321neo 飞机交付的幕后场景。]]></description>
       <guid>https://www.wired.com/story/heres-what-the-inside-of-an-airbus-factory-looks-like/</guid>
       <pubDate>Tue, 27 Aug 2024 21:36:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Telegram 首席执行官 Pavel Durov 被捕与大规模刑事调查有关</title>
-      <link>https://www.wired.com/story/telegram-pavel-durov-arrest-investigation-allegations/</link>
-      <description><![CDATA[法国当局拘留了杜罗夫，对他进行讯问，这是对洗钱和 CSAM 等一系列涉嫌违法行为调查的一部分，但目前尚不清楚他是否会面临指控。]]></description>
-      <guid>https://www.wired.com/story/telegram-pavel-durov-arrest-investigation-allegations/</guid>
-      <pubDate>Mon, 26 Aug 2024 21:23:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
