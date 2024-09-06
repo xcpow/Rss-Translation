@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 06 Sep 2024 12:14:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 15:08:14 GMT</lastBuildDate>
+    <item>
+      <title>美国国家安全局有播客——以下是解码方法</title>
+      <link>https://www.wired.com/story/the-nsa-has-a-podcast-heres-how-to-decode-it-no-such-podcast/</link>
+      <description><![CDATA[这个不敢透露姓名的间谍机构现在成了 SIGINT 界的乔·罗根。这个播客确实值得一听。]]></description>
+      <guid>https://www.wired.com/story/the-nsa-has-a-podcast-heres-how-to-decode-it-no-such-podcast/</guid>
+      <pubDate>Fri, 06 Sep 2024 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>伊隆·马斯克在巴西陷入困境</title>
       <link>https://www.wired.com/story/x-starlink-brazil-suspension-musk/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[由于批评者嘲笑飞行出租车是一项“荒谬”的发明，“只会让少数超级富豪受益”，游客飞越巴黎的未来计划陷入停滞。]]></description>
       <guid>https://www.wired.com/story/the-dream-of-flying-taxis-in-paris-failed-to-take-off/</guid>
       <pubDate>Wed, 28 Aug 2024 11:34:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>一窥空中客车工厂如何彻底改变飞机世界</title>
-      <link>https://www.wired.com/story/heres-what-the-inside-of-an-airbus-factory-looks-like/</link>
-      <description><![CDATA[在汉堡，航空巨头空中客车公司正在利用最先进的机器人技术改造飞机生产。我们参观了 A321neo 飞机交付的幕后场景。]]></description>
-      <guid>https://www.wired.com/story/heres-what-the-inside-of-an-airbus-factory-looks-like/</guid>
-      <pubDate>Tue, 27 Aug 2024 21:36:04 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,111 +4,102 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Wed, 04 Sep 2024 15:08:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 15:08:09 GMT</lastBuildDate>
     <item>
-      <title>OpenAI、Anthropic 与 NIST 达成 AI 安全研究协议</title>
-      <link>https://thehill.com/policy/technology/4854139-ai-companies-us-government/</link>
-      <description><![CDATA[国会山美国国家标准与技术研究所 (NIST) 宣布了一项协议，该协议将允许 NIST 的美国人工智能安全研究所在 OpenAI 和 Anthropic 的新人工智能模型公开发布之前和之后访问它们。这些协议将有助于加强对人工智能能力和风险的研究，并允许 NIST 提出安全改进建议。摘自“OpenAI、Anthropic 与 NIST 达成人工智能安全研究协议”
-The Hill (08/29/24) Miranda Nazzaro 查看全文]]></description>
-      <guid>https://thehill.com/policy/technology/4854139-ai-companies-us-government/</guid>
-      <pubDate>Wed, 04 Sep 2024 15:08:53 GMT</pubDate>
+      <title>中国芯片工具采购量超过韩国、台湾和美国总和</title>
+      <link>https://asia.nikkei.com/Business/Tech/Semiconductors/China-buys-more-chip-tools-than-South-Korea-Taiwan-U.S.-combined</link>
+      <description><![CDATA[日经亚洲（日本）2024 年上半年，中国半导体制造商在芯片制造设备上投资了 250 亿美元，超过了同期韩国、台湾和美国的总投资。预计中国全年投资将达到 500 亿美元。到 2025 年，中国将有十几座晶圆厂上线，成为全球经济放缓背景下唯一一个增加晶圆厂工具支出的主要市场。摘自“中国购买的芯片工具比韩国、台湾和美国的总和还多”
+日经亚洲（日本）（09/02/24）Cheng Ting-Fang； Lauly Li 查看全文]]></description>
+      <guid>https://asia.nikkei.com/Business/Tech/Semiconductors/China-buys-more-chip-tools-than-South-Korea-Taiwan-U.S.-combined</guid>
+      <pubDate>Fri, 06 Sep 2024 15:08:09 GMT</pubDate>
     </item>
     <item>
-      <title>中国科技公司能在硅谷找到立足之地吗？</title>
-      <link>https://www.nytimes.com/2024/08/29/business/china-venture-capital.html</link>
-      <description><![CDATA[《纽约时报》中国正在失去越来越多将目光投向硅谷的科技专业人士。其中许多人是风险投资家，他们对中国政府与私营企业之间的紧张关系感到担忧。然而，他们在人工智能、量子计算和半导体领域的投资能力受到中国和美国政府的阻碍。摘自《中国科技能在硅谷找到立足之地吗？》
-
-《纽约时报》（2024 年 8 月 29 日）李源 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/08/29/business/china-venture-capital.html</guid>
-      <pubDate>Wed, 04 Sep 2024 15:08:53 GMT</pubDate>
+      <title>Mohror 将获得 ACM SIGHPC 奖</title>
+      <link>https://insidehpc.com/2024/09/livermore-labs-dr-kathryn-mohror-wins-acm-sighpc-emerging-woman-leader-in-technical-computing-award/</link>
+      <description><![CDATA[HPC 内部劳伦斯利弗莫尔国家实验室的 Kathryn Mohror 因其在高性能计算 (HPC) 社区中的领导地位以及她对 HPC I/O 和编程模型与工具的贡献，被提名获得 ACM SIGHPC 技术计算新兴女性领袖 (EWLTC) 奖。除此之外，Mohror 还因领导可扩展检查点/重启框架工作以及共同领导 UnifyFS 开发（美国能源部百亿亿次计算项目的一部分）而闻名。摘自“Mohror 将获得 ACM SIGHPC 奖”
+Inside HPC（09/03/24） 查看全文]]></description>
+      <guid>https://insidehpc.com/2024/09/livermore-labs-dr-kathryn-mohror-wins-acm-sighpc-emerging-woman-leader-in-technical-computing-award/</guid>
+      <pubDate>Fri, 06 Sep 2024 15:08:08 GMT</pubDate>
     </item>
     <item>
-      <title>机器学习可以提前数月预测地震</title>
-      <link>https://interestingengineering.com/science/earthquake-forecast-months-before-possible</link>
-      <description><![CDATA[有趣的工程阿拉斯加大学费尔班克斯分校 (UAF) 的研究人员开发了一种使用机器学习在地震发生前数月准确预测地震的方法。研究人员开发了一种算法，可以搜索地震数据中的异常活动并对即将发生的地震做出明智的预测。通过研究 2018 年阿拉斯加和 2019 年加利福尼亚发生的大地震，研究人员发现大地震之前会出现低水平的构造动荡，他们将其归因于断层内孔隙流体压力的显着增加。摘自“机器学习可以提前数月预测地震”
-有趣的工程 (08/30/24) Prabhat Ranjan Mishra 查看全文]]></description>
-      <guid>https://interestingengineering.com/science/earthquake-forecast-months-before-possible</guid>
-      <pubDate>Wed, 04 Sep 2024 15:08:53 GMT</pubDate>
+      <title>港口工人可能因自动化而罢工</title>
+      <link>https://www.nytimes.com/2024/09/02/business/economy/port-workers-robots-automation-strike.html</link>
+      <description><![CDATA[《纽约时报》今年秋天，东海岸和墨西哥湾沿岸港口可能会发生罢工，罢工的焦点是阿拉巴马州莫比尔一处港口的技术使用问题。国际码头工人协会工会在得知港口已部署技术检查卡车，但没有工会工人参与后，于 6 月结束了与美国海事联盟的合同谈判。根据现行合同，禁止使用“无人参与”的设备，但允许使用“半自动化”机械。摘自“港口工人可能因自动化而罢工”
+《纽约时报》（2024 年 9 月 2 日）Peter Eavis 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/09/02/business/economy/port-workers-robots-automation-strike.html</guid>
+      <pubDate>Fri, 06 Sep 2024 15:08:08 GMT</pubDate>
     </item>
     <item>
-      <title>低成本“智能口罩”可通过呼吸检测疾病</title>
-      <link>https://www.theguardian.com/science/article/2024/aug/29/smart-mask-detect-disease-breath</link>
-      <description><![CDATA[英国卫报加州理工学院的研究人员开发了一种智能口罩，它通过分析佩戴者的呼吸生物标志物来检测疾病。口罩中的 EBCare 设备会浓缩佩戴者的呼吸，然后通过内置传感器进行分析，以确定酒精、pH、铵和亚硝酸盐水平，从而识别肾脏疾病、慢性阻塞性肺病和哮喘。数据通过蓝牙传输到应用程序。摘自“低成本‘智能口罩’通过呼吸检测疾病”
-英国卫报 (08/29/24) Nicola Davis]]></description>
-      <guid>https://www.theguardian.com/science/article/2024/aug/29/smart-mask-detect-disease-breath</guid>
-      <pubDate>Wed, 04 Sep 2024 15:08:52 GMT</pubDate>
+      <title>人工智能开发人员跻身十大薪酬最高的 IT 职位</title>
+      <link>https://www.ciodive.com/news/AI-developers-salary-highest-paid-IT-workers-Stack-Overflow/725955/</link>
+      <description><![CDATA[CIO DiveAI 开发人员首次跻身薪酬最高的 10 个 IT 职位之列，年薪平均为 160,000 美元，在 Stack Overflow 对 11,000 多名美国开发人员进行的一项调查中排名第七。调查发现，移动开发人员的平均年薪为 185,000 美元，而后端开发人员的平均年薪为 170,000 美元。调查显示，站点可靠性工程师的平均年薪为 166,500 美元，紧随其后的是云基础设施工程师，年薪为 165,000 美元。摘自“AI 开发人员跻身十大薪酬最高的 IT 职位”
+CIO Dive (09/03/24) Lindsey Wilkinson 查看全文]]></description>
+      <guid>https://www.ciodive.com/news/AI-developers-salary-highest-paid-IT-workers-Stack-Overflow/725955/</guid>
+      <pubDate>Fri, 06 Sep 2024 15:08:08 GMT</pubDate>
     </item>
     <item>
-      <title>潜水机器人测量南极冰融化情况</title>
-      <link>https://www.fastcompany.com/91182156/prototype-help-climate-scientists-measure-melting-antarctic-ice</link>
-      <description><![CDATA[Fast Company美国宇航局喷气推进实验室的研究人员测试了原型潜水器，这将有助于评估变暖的海水融化南极冰盖的速度，并有助于改进预测未来海平面上升的计算机模型。原型于 3 月部署在阿拉斯加北部冰冻的波弗特海下，当时它下潜了 330 英尺（100 米）以收集盐度、温度和流量数据。该团队的目标是部署一支由 10 个自动机器人组成的舰队。摘自“潜水机器人车辆测量南极冰融化”
-Fast Company (08/30/24) Steve Gorman 查看全文]]></description>
-      <guid>https://www.fastcompany.com/91182156/prototype-help-climate-scientists-measure-melting-antarctic-ice</guid>
-      <pubDate>Wed, 04 Sep 2024 15:08:51 GMT</pubDate>
+      <title>比特币矿池和澡堂的兴起</title>
+      <link>https://time.com/7017395/bitcoin-data-center-heat-bathhouses/</link>
+      <description><![CDATA[时代人们正在加大力度，利用密集计算所消耗的大量且不断增长的能源，为社会提供更多用途。例如，曼哈顿的水疗中心 Bathhouse 使用比特币挖矿操作来加热其游泳池。在巴黎，一家数据中心正在利用其热空气废物来加热水，并将其输送到当地的能源系统，然后将其输送到包括奥林匹克水上运动中心在内的建筑物。摘自“比特币供电游泳池和浴室的崛起”
+时代 (09/04/24) Andrew R. Chow 查看全文]]></description>
+      <guid>https://time.com/7017395/bitcoin-data-center-heat-bathhouses/</guid>
+      <pubDate>Fri, 06 Sep 2024 15:08:07 GMT</pubDate>
     </item>
     <item>
-      <title>研究人员打造“人工智能科学家”</title>
-      <link>https://www.nature.com/articles/d41586-024-02842-3</link>
-      <description><![CDATA[《自然》来自美国、加拿大和日本的研究人员团队开发了 AI Scientist，旨在实现部分科学研究过程的自动化。基于大型语言模型，AI Scientist 可以执行完整的研究周期，从阅读现有文献、提出假设到测试解决方案和撰写论文。它还可以评估自己的结果，然后在此基础上重新启动研究周期。摘自“研究人员打造‘AI Scientist’”
-《自然》 (08/30/24) Davide Castelvecchi 查看全文]]></description>
-      <guid>https://www.nature.com/articles/d41586-024-02842-3</guid>
-      <pubDate>Wed, 04 Sep 2024 15:08:51 GMT</pubDate>
+      <title>中国需要更多工厂机器人。它能自己制造吗？</title>
+      <link>https://www.wsj.com/business/china-needs-more-factory-robots-can-it-build-its-own-0a6b4d96</link>
+      <description><![CDATA[华尔街日报随着中国提高工厂自动化程度以应对人口老龄化和工资上涨，工业机器人越来越受欢迎。 MIR Databank 报告称，2024 年上半年，中国生产商占据了全国工业机器人市场的一半以上，高于 2022 年的 36% 左右。尽管中国企业在协作机器人生产方面获得了市场份额，但高端机器人市场仍然由外国公司主导。摘自“中国需要更多工厂机器人。它能自己制造吗？”
+华尔街日报 (09/03/24) Jacky Wong 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/business/china-needs-more-factory-robots-can-it-build-its-own-0a6b4d96</guid>
+      <pubDate>Fri, 06 Sep 2024 15:08:07 GMT</pubDate>
     </item>
     <item>
-      <title>量子全息图可以发送消失的信息</title>
-      <link>https://www.newscientist.com/article/2445870-quantum-holograms-can-send-messages-that-disappear/</link>
-      <description><![CDATA[《新科学家》英国埃克塞特大学研究人员开发的量子全息图可用于嵌入发送后即被删除的安全信息。研究人员利用超表面创建量子全息图，其中可以编码和恢复复杂信息。南非威特沃特斯兰德大学的 Andrew Forbes 表示：“每个人的梦想都是看到这种量子技术在桌子上占地数平方米，但体积足够小，可以放在智能手机中。”超表面似乎是解决这一问题的好方法。”摘自“量子全息图可以发送消失的信息”
-《新科学家》（2024 年 8 月 30 日）Karmela Padavic-Callaghan 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.newscientist.com/article/2445870-quantum-holograms-can-send-messages-that-disappear/</guid>
-      <pubDate>Wed, 04 Sep 2024 15:08:51 GMT</pubDate>
+      <title>价值 1 亿美元的计算机将增强 NOAA 的天气预报能力</title>
+      <link>https://www.upi.com/Top_News/US/2024/09/03/NOAA-Rhea-Commerce-Department/6281725386869/</link>
+      <description><![CDATA[UPI美国国家海洋和大气管理局 (NOAA) 表示，增加一台价值 1 亿美元的新型高性能计算机 (HPC) 将提升其计算能力，使其能够扩大对天气、气候、海洋和生态系统预测的研究力度。美国商务部助理部长 Michael C. Morgan 表示，Rhea HPC“将加强 NOAA 对人工智能和机器学习能力的探索和应用。”摘自“1 亿美元的计算机将提升 NOAA 的天气预报能力”
+UPI (09/03/24) Chris Benson 查看全文]]></description>
+      <guid>https://www.upi.com/Top_News/US/2024/09/03/NOAA-Rhea-Commerce-Department/6281725386869/</guid>
+      <pubDate>Fri, 06 Sep 2024 15:08:06 GMT</pubDate>
     </item>
     <item>
-      <title>目前哪些编程语言最流行？</title>
-      <link>https://www.zdnet.com/article/which-programming-languages-are-most-popular-now-and-what-does-that-even-mean/</link>
-      <description><![CDATA[ZDNetZDNET 编程语言流行度指数包含五个集群，第一个集群中 Python、JavaScript 和 Java 位居榜首，其次是 C++、C#、C、TypeScript 和 SQL。第三个集群包含 HTML/CSS、PHP、Shell 和 Go，第四个集群中 Rust 和 Kotlin 位居其后。最后一个集群包含 Lua、Ruby、R、Dart 和 Swift。该指数汇总了来自九个不同排名的调查数据。摘自“现在哪些编程语言最受欢迎？”
-ZDNet (08/30/24) David Gerwitz 查看全文]]></description>
-      <guid>https://www.zdnet.com/article/which-programming-languages-are-most-popular-now-and-what-does-that-even-mean/</guid>
-      <pubDate>Wed, 04 Sep 2024 15:08:50 GMT</pubDate>
+      <title>笔将盲文转换成英文文本</title>
+      <link>https://interestingengineering.com/innovation/new-pen-translates-braille-to-english</link>
+      <description><![CDATA[有趣的工程英国布里斯托大学的研究人员开发了一种类似笔的设备，将盲文转换为口语英语文本的准确率高达 84.5%。这种“盲文笔尖”设备配备一个传感器，可将硅胶膜下 19 个敏感区域的触觉信息传输到摄像头。算法可以实时翻译数据，而无需依赖深度学习或大量训练，从而使数据可预测、可解释且可适应其他触觉传感器。摘自“笔将盲文转换为英文文本”
+有趣的工程 (09/04/24) Sujita Sinha 查看全文]]></description>
+      <guid>https://interestingengineering.com/innovation/new-pen-translates-braille-to-english</guid>
+      <pubDate>Fri, 06 Sep 2024 15:08:06 GMT</pubDate>
     </item>
     <item>
-      <title>荷兰将在全国范围内禁止在校使用手机</title>
-      <link>https://www.dw.com/en/netherlands-nationwide-ban-on-phones-in-schools-underway/a-70110245</link>
-      <description><![CDATA[德国之声 (德国)荷兰政府已禁止中小学学生使用手机、智能手表和平板电脑。该禁令于 1 月在中学生效，9 月 2 日在小学生效。政府在一份声明中表示：“越来越多的证据表明，上课时使用手机有害。学生的注意力会下降，成绩也会受到影响。我们需要保护学生免受这些影响。”此前，希腊和意大利的学校也出台了类似的禁令。摘自“荷兰全国学校手机禁令正在实施中”
-德国之声 (德国) (09/02/24) 查看全文]]></description>
-      <guid>https://www.dw.com/en/netherlands-nationwide-ban-on-phones-in-schools-underway/a-70110245</guid>
-      <pubDate>Wed, 04 Sep 2024 15:08:50 GMT</pubDate>
+      <title>印度、新加坡墨水芯片交易</title>
+      <link>https://www.bloomberg.com/news/articles/2024-09-05/india-inks-chip-deal-with-singapore-as-modi-pushes-tech-ambition</link>
+      <description><![CDATA[彭博社印度和新加坡政府签署协议，培养芯片设计和制造人才。两国还同意加强网络安全、第五代移动网络、超级计算和人工智能方面的合作。加强印度的半导体生态系统是总理纳伦德拉·莫迪将印度转变为科技超级大国的计划的重要组成部分，而新加坡以其内存芯片和成熟的逻辑处理器而闻名。摘自“印度、新加坡签署芯片协议”
+彭博社 (09/04/24) 高远；Philip Heijmans；Santosh Kumar；等人 查看全文]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-09-05/india-inks-chip-deal-with-singapore-as-modi-pushes-tech-ambition</guid>
+      <pubDate>Fri, 06 Sep 2024 15:08:05 GMT</pubDate>
     </item>
     <item>
-      <title>肯尼亚的机器人服务员引起轰动</title>
-      <link>https://apnews.com/article/robot-cafe-waiters-kenya-technology-845cbb0bc610ef7f6fcbd86ef05803d2</link>
-      <description><![CDATA[美联社在肯尼亚内罗毕的机器人咖啡馆，三台机器人为顾客提供食物。这些机器人由人类服务员使用 iPad 应用程序控制，用托盘送餐，并被编程为发出简单的回应，例如“您的订单已准备好”。机器人咖啡馆经理 John Kariuki 表示，这些机器人并不是要取代人类服务员，理由是购买成本高，而且机器人无法处理所有餐厅服务。摘自“肯尼亚的机器人服务员引起轰动”
-美联社 (09/01/24) Desmond Tiro；Evelyne Musambi 查看全文]]></description>
-      <guid>https://apnews.com/article/robot-cafe-waiters-kenya-technology-845cbb0bc610ef7f6fcbd86ef05803d2</guid>
-      <pubDate>Wed, 04 Sep 2024 15:08:49 GMT</pubDate>
+      <title>谷歌推出城市耐热工具</title>
+      <link>https://www.axios.com/2024/09/04/google-heat-resilience-tool-cities</link>
+      <description><![CDATA[Axios谷歌周三推出了一款工具，帮助城市决策者采取措施降低极端高温的影响。该工具使用基于卫星的高分辨率地表温度数据，并采用机器学习算法来识别建筑物、树木和其他对确定一块土地吸收多少热量至关重要的因素。它还结合了社会脆弱性指标，以确定最需要缓解热量的地区。摘自“谷歌推出城市耐热工具”
+Axios (09/04/24) Andrew Freedman 查看全文]]></description>
+      <guid>https://www.axios.com/2024/09/04/google-heat-resilience-tool-cities</guid>
+      <pubDate>Fri, 06 Sep 2024 15:08:05 GMT</pubDate>
     </item>
     <item>
-      <title>SQL注入绕过机场安全检查</title>
-      <link>https://www.bleepingcomputer.com/news/security/researchers-find-sql-injection-to-bypass-airport-tsa-security-checks/</link>
-      <description><![CDATA[BleepingComputer安全研究人员发现，航空公司用于管理已知机组人员 (KCM) 计划和驾驶舱访问安全系统 (CASS) 的第三方 Web 服务存在漏洞。他们发现 FlyCASS 登录系统容易受到 SQL 注入攻击，这可能允许黑客以管理员身份登录并操纵员工数据。美国国土安全部表示，FlyCASS 于 5 月与 KCM/CASS 断开连接；据报道，该漏洞随后不久就得到了修复。摘自“SQL 注入绕过机场安全检查”
-BleepingComputer (08/30/24) Sergiu Gatlan 查看全文]]></description>
-      <guid>https://www.bleepingcomputer.com/news/security/researchers-find-sql-injection-to-bypass-airport-tsa-security-checks/</guid>
-      <pubDate>Wed, 04 Sep 2024 15:08:49 GMT</pubDate>
+      <title>欧盟、英国、美国签署国际人工智能条约</title>
+      <link>https://www.dw.com/en/us-uk-eu-sign-international-ai-treaty/a-70144667</link>
+      <description><![CDATA[德国之声 (德国)周四，欧盟、美国和英国与安道尔、格鲁吉亚、冰岛、挪威、摩尔多瓦、圣马力诺和以色列签署了一项国际人工智能条约。该条约在立陶宛首都维尔纽斯举行的欧洲委员会司法部长会议上开放签署。欧洲委员会称赞该协议是关于人工智能系统使用的“第一项具有国际法律约束力的条约”，并指出这是一项开放条约，可以由更多国家签署。摘自“欧盟、英国、美国签署国际人工智能条约”
+德国之声 (德国) (09/05/24) 查看全文]]></description>
+      <guid>https://www.dw.com/en/us-uk-eu-sign-international-ai-treaty/a-70144667</guid>
+      <pubDate>Fri, 06 Sep 2024 15:08:04 GMT</pubDate>
     </item>
     <item>
-      <title>女性因自动化面临更大的失业风险</title>
-      <link>https://www.computerweekly.com/news/366609373/Women-face-greater-risk-of-job-displacement-from-automation</link>
-      <description><![CDATA[Computer WeeklyCode First Girls 和 Tech Talent Charter 的一项研究发现，女性受工作自动化影响的可能性比男性高 40%。Code First Girls 将此部分归因于男性占软件工程师的大多数，这引发了人们对人工智能中存在偏见的担忧。Code First Girls 表示，技能提升和再培训可以帮助女性避免被人工智能和自动化取代。摘自“女性面临更大的被自动化取代的风险”
-Computer Weekly (08/29/24) Clare McDonald 查看全文]]></description>
-      <guid>https://www.computerweekly.com/news/366609373/Women-face-greater-risk-of-job-displacement-from-automation</guid>
-      <pubDate>Wed, 04 Sep 2024 15:08:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>数据中心面临七年等待 Dominion Power 连接</title>
-      <link>https://www.bloomberg.com/news/articles/2024-08-29/data-centers-face-seven-year-wait-for-power-hookups-in-virginia</link>
-      <description><![CDATA[彭博社为弗吉尼亚州北部“数据中心巷”提供服务的电力公司 Dominion Energy Inc. 表示，将新数据中心连接到电网的等待时间可能为 4 到 7 年。该估计适用于需要超过 100 兆瓦电力的数据中心，与之前的估计相比，额外增加了一到三年的时间。数据中心的电力需求超过了世界许多地区的可用电力供应。摘自“数据中心面临七年等待 Dominion 电力连接的等待”
-彭博社 (08/29/24) Josh Saul；Will Wade 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-08-29/data-centers-face-seven-year-wait-for-power-hookups-in-virginia</guid>
-      <pubDate>Wed, 04 Sep 2024 15:08:48 GMT</pubDate>
+      <title>美国加强对量子、芯片技术的出口管制</title>
+      <link>https://www.theregister.com/2024/09/06/us_rolls_out_new_export/</link>
+      <description><![CDATA[The Register (英国)美国周四发布的一项临时最终规则详细说明了对量子计算和半导体技术的新出口管制，以解决包括中国、伊朗和俄罗斯在内的敌人带来的国防和外交政策问题。这些限制涵盖量子计算、相关组件和软件；先进的半导体制造；用于开发超级计算机和其他高端设备的高性能芯片的栅极全场效应晶体管 (GAAFET) 技术；以及用于制造金属或金属合金部件的增材制造工具。摘自“美国加强对量子、芯片技术的出口管制”
+The Register (英国) (09/06/24) Thomas Claburn 查看全文]]></description>
+      <guid>https://www.theregister.com/2024/09/06/us_rolls_out_new_export/</guid>
+      <pubDate>Fri, 06 Sep 2024 15:08:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
