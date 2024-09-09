@@ -4,7 +4,21 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Mon, 09 Sep 2024 09:10:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 12:15:48 GMT</lastBuildDate>
+    <item>
+      <title>谷歌的下一次反垄断审判可能会让在线广告变得不那么烦人</title>
+      <link>https://www.wired.com/story/google-ad-tech-antitrust-trial-doubleclick/</link>
+      <description><![CDATA[谷歌将于周一出庭接受广告技术垄断指控。专家表示，司法部胜诉将创造更美好的浏览未来。]]></description>
+      <guid>https://www.wired.com/story/google-ad-tech-antitrust-trial-doubleclick/</guid>
+      <pubDate>Mon, 09 Sep 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>您需要了解的有关 Grok AI 和您的隐私的信息</title>
+      <link>https://www.wired.com/story/grok-ai-privacy-opt-out/</link>
+      <description><![CDATA[与竞争对手相比，xAI 的生成式 AI 工具 Grok AI 显得有些不正常。它还收集了人们在 X 上发布的大量数据。以下是如何让您的帖子不被 Grok 记录下来——以及您应该这样做的原因。]]></description>
+      <guid>https://www.wired.com/story/grok-ai-privacy-opt-out/</guid>
+      <pubDate>Mon, 09 Sep 2024 10:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>如何解决像 Polestar 这样的难题？</title>
       <link>https://www.wired.com/story/how-do-you-solve-a-problem-like-polestar/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[今年夏天，苹果给予网站更多控制权，决定是否允许公司使用其数据训练 AI 模型。《纽约时报》和 Facebook 等主要出版商和平台已经选择退出。]]></description>
       <guid>https://www.wired.com/story/applebot-extended-apple-ai-scraping/</guid>
       <pubDate>Thu, 29 Aug 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Telegram 创始人 Pavel Durov 因涉嫌使用该应用程序进行犯罪活动而受到指控</title>
-      <link>https://www.wired.com/story/telegram-pavel-durov-indictment/</link>
-      <description><![CDATA[在被法国警方拘留四天后，Telegram 首席执行官被指控涉嫌传播儿童色情图片等罪名。]]></description>
-      <guid>https://www.wired.com/story/telegram-pavel-durov-indictment/</guid>
-      <pubDate>Wed, 28 Aug 2024 20:17:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>生成式人工智能改变了英语作业。接下来是数学</title>
-      <link>https://www.wired.com/story/gauth-ai-math-homework-app/</link>
-      <description><![CDATA[字节跳动的 Gauth 应用可以扫描数学作业，并使用人工智能提供全面且通常正确的答案。数百万人已经免费下载了该应用。]]></description>
-      <guid>https://www.wired.com/story/gauth-ai-math-homework-app/</guid>
-      <pubDate>Wed, 28 Aug 2024 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
