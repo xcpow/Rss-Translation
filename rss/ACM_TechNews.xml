@@ -4,103 +4,110 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Mon, 09 Sep 2024 18:11:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 15:09:31 GMT</lastBuildDate>
     <item>
-      <title>自动驾驶汽车可从数百英里外的人类获得帮助</title>
-      <link>https://www.nytimes.com/interactive/2024/09/03/technology/zoox-self-driving-cars-remote-control.html</link>
-      <description><![CDATA[《纽约时报》在位于加利福尼亚州福斯特城的 Zoox 指挥中心，人类技术人员为这家亚马逊旗下公司的自动驾驶汽车提供协助。他们的任务是引导自动驾驶汽车绕过施工区和其他意外情况，尽管他们无法完全控制车辆。他们还可以跟踪机器人出租车，并通过内部扬声器和麦克风为乘客提供口头帮助。摘自“自动驾驶汽车从数百英里外的人类那里获得帮助”
-《纽约时报》（09/03/24）Cade Metz；Jason Henry；Ben Laffin；等人 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/interactive/2024/09/03/technology/zoox-self-driving-cars-remote-control.html</guid>
-      <pubDate>Mon, 09 Sep 2024 18:11:05 GMT</pubDate>
+      <title>视频游戏表演者就人工智能达成协议</title>
+      <link>https://apnews.com/article/video-game-actors-strike-sag-aftra-97b288fa74f148790cf82899c4a05848</link>
+      <description><![CDATA[美联社美国演员工会-美国电视和广播艺人联合会（SAG-AFTRA）上周与 80 款电子游戏就游戏演员的 AI 保护达成协议。各个电子游戏与 SAG-AFTRA 达成了临时或分级预算协议，并同意工会的 AI 条款。争议的焦点在于游戏能否在未经配音演员和动作捕捉艺术家同意或公平补偿的情况下，使用 AI 复制他们的形象。摘自“游戏演员就 AI 达成协议”
+美联社 (09/05/24) Kaitlyn Huamani 查看全文]]></description>
+      <guid>https://apnews.com/article/video-game-actors-strike-sag-aftra-97b288fa74f148790cf82899c4a05848</guid>
+      <pubDate>Wed, 11 Sep 2024 15:09:31 GMT</pubDate>
     </item>
     <item>
-      <title>新的招聘挑战：筛选人工智能制作的简历</title>
-      <link>https://www.wsj.com/tech/ai/automation-tools-ai-resumes-human-vetting-65a7100d</link>
-      <description><![CDATA[《华尔街日报》科技公司和招聘人员认为，招聘信息之所以受到广泛关注，是因为人工智能可以快速定制和提交大量简历。为了避免聘用“虚假应聘者”，招聘人员正在采取额外措施来核实应聘者的身份和经验。有些公司会记录面试情况，如果应聘者在回答问题前将视线从摄像头移开，则会标记应聘者以进行进一步审查，因为他们可能正在咨询 ChatGPT 以寻求答案。摘自“新招聘挑战：筛选 AI 制作的简历”
-华尔街日报 (09/04/24) Katherine Bindley 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/tech/ai/automation-tools-ai-resumes-human-vetting-65a7100d</guid>
-      <pubDate>Mon, 09 Sep 2024 18:11:05 GMT</pubDate>
+      <title>自动驾驶汽车在黑暗中看清道路的能力得到增强</title>
+      <link>https://spectrum.ieee.org/autonomous-vehicles</link>
+      <description><![CDATA[IEEE Spectrum中国科学院大学的研究人员通过应用 Retinx 理论提高了自动驾驶汽车导航系统在黑暗中“看”东西的能力，该理论表明人类可以通过辨别光的反射和照明成分来识别弱光条件下的颜色。研究人员采用了两种算法，一种可以像人眼一样补偿亮度变化，另一种可以在处理入射光的反射特性时消除背景噪音。摘自“自动驾驶汽车在黑暗中看东西的能力得到提升”
+IEEE Spectrum (09/07/24) Michelle Hampson 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/autonomous-vehicles</guid>
+      <pubDate>Wed, 11 Sep 2024 15:09:31 GMT</pubDate>
     </item>
     <item>
-      <title>乌克兰将派机器狗对抗俄罗斯</title>
-      <link>https://www.popularmechanics.com/technology/robots/a61939495/ukraine-robodogs-against-russia/</link>
-      <description><![CDATA[《大众机械》乌克兰武装部队在与俄罗斯的战争中部署了两种机器狗。其中包括中国 UniTree 公司的 Go-2 Pro 机器狗和中国 DEEP Robotics 公司的 Lite3 Venture 机器狗，这两款机器狗均由英国 Brit Alliance 重新设计，命名为 BAD1 和 BAD2。这些机器狗的价格仅为 2,000 至 3,000 美元，比西方制造的机器狗便宜得多。英国联盟首席执行官 Kyle Thornburn 表示，机器狗旨在执行侦察、排雷和后勤任务。摘自“乌克兰将向俄罗斯发射机器狗”
-
-Popular Mechanics (09/03/24) Séeacute;bastien Roblin 查看全文]]></description>
-      <guid>https://www.popularmechanics.com/technology/robots/a61939495/ukraine-robodogs-against-russia/</guid>
-      <pubDate>Mon, 09 Sep 2024 18:11:04 GMT</pubDate>
+      <title>欧盟打开通用钱包之门，伯纳斯-李想加入</title>
+      <link>https://thenextweb.com/news/eu-digital-id-supports-universal-digital-wallet</link>
+      <description><![CDATA[下一个网络欧盟计划在 2026 年之前推出欧洲数字身份 (eID)，允许公民使用单个数字钱包应用程序来管理财务、访问服务、签订合同和旅行。ACM A.M. 图灵奖获得者 Tim Berners-Lee 和他的初创公司 Inrupt 最近推出了一个通用数据钱包基础设施，该基础设施可实现跨多台服务器的互操作性，安全地将数据托管在个人数据“pod”中，而用户则保持控制权。Berners-Lee 表示，他希望欧盟为钱包设定一个“重要门槛”并执行“标准”获取凭证。摘自“欧盟打开通用钱包之门。伯纳斯-李想加入”
+The Next Web (09/06/24) Thomas Macaulay 查看全文]]></description>
+      <guid>https://thenextweb.com/news/eu-digital-id-supports-universal-digital-wallet</guid>
+      <pubDate>Wed, 11 Sep 2024 15:09:30 GMT</pubDate>
     </item>
     <item>
-      <title>委内瑞拉政府打击非法新闻，AI 主播保护记者</title>
-      <link>https://www.reuters.com/world/americas/venezuelas-newest-news-agency-says-ai-anchors-protect-reporters-amid-government-2024-09-02/</link>
-      <description><![CDATA[路透社为了回应委内瑞拉政府对记者和抗议者的镇压，哥伦比亚非营利组织 Connectas 创造了人工智能生成的新闻主播，在保护记者的同时，从独立媒体渠道播报委内瑞拉的新闻。人工智能主播被命名为“El Pana”，这是委内瑞拉俚语中“朋友”的意思，以及“La Chama”，意思是“女孩”。Connectas 的 Carlos Huertas 说：“我们决定使用人工智能作为我们发布信息的‘代言人’，因为我们仍在外工作的同事面临着更大的风险。”摘自“委内瑞拉政府镇压期间人工智能主播保护记者”
-路透社 (09/02/24) Maria Paula Laguna； Kylie Madry 查看全文]]></description>
-      <guid>https://www.reuters.com/world/americas/venezuelas-newest-news-agency-says-ai-anchors-protect-reporters-amid-government-2024-09-02/</guid>
-      <pubDate>Mon, 09 Sep 2024 18:11:04 GMT</pubDate>
+      <title>犯罪现场的智能扬声器可以提供有价值的线索</title>
+      <link>https://www.newscientist.com/article/2445673-smart-speakers-at-crime-scenes-could-provide-valuable-clues-to-police/</link>
+      <description><![CDATA[《新科学家》可以在犯罪现场从智能扬声器中提取数据，而无需从其所有者或制造商处获取数据。在对亚马逊 Echo Show 15 的测试中，德国埃尔朗根-纽伦堡大学的研究人员能够访问该设备的本地数据和存储在云端的数据。 Echo Show 未加密的文件系统提供了内置摄像头和 AI 检测到的运动和面部的日志。摘自“犯罪现场的智能扬声器可以提供有价值的线索”
+《新科学家》（09/06/24）Matthew Sparkes 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.newscientist.com/article/2445673-smart-speakers-at-crime-scenes-could-provide-valuable-clues-to-police/</guid>
+      <pubDate>Wed, 11 Sep 2024 15:09:30 GMT</pubDate>
     </item>
     <item>
-      <title>世界上速度最快的超级计算机的日常生活</title>
-      <link>https://www.nature.com/articles/d41586-024-02832-5</link>
-      <description><![CDATA[《自然》橡树岭国家实验室的 Frontier 是世界上第一台突破百亿亿级速度障碍的超级计算机。研究人员一直在使用 Frontier 开发气候模型和大型语言模型，模拟蛋白质以开发新药等等。2023 年，131 个项目获得了这台超级计算机的使用时间，平均分配时间约为 500,000 个节点小时。只要研究人员公布他们的研究结果，就可以免费使用这台超级计算机。摘自“世界上速度最快的超级计算机的一天”
-《自然》 (09/04/24) Sophia Chen 查看全文]]></description>
-      <guid>https://www.nature.com/articles/d41586-024-02832-5</guid>
-      <pubDate>Mon, 09 Sep 2024 18:11:03 GMT</pubDate>
+      <title>汽车收集大量数据。它们应该分享吗？</title>
+      <link>https://apnews.com/article/v2x-infrastructure-cars-streets-utah-michigan-texas-4609b3f43768f6726bbb4e5442f40f21</link>
+      <description><![CDATA[美联社在 2000 万美元的联邦拨款帮助下，犹他州官员正在采取措施确保该州道路上的每辆车都能相互通信并与路边基础设施通信，从而发出拥堵、事故、道路危险和天气状况警报。目标是通过车联网 (V2X) 技术“连接西部”，并将该技术扩展到邻近的科罗拉多州和怀俄明州。然而，隐私权倡导者担心智能道路系统可以收集有关特定车辆的足够信息，以识别驾驶员及其目的地。摘自“汽车收集大量数据。它们应该分享吗？”
+美联社 (09/08/24) Jeff McMurray 查看全文]]></description>
+      <guid>https://apnews.com/article/v2x-infrastructure-cars-streets-utah-michigan-texas-4609b3f43768f6726bbb4e5442f40f21</guid>
+      <pubDate>Wed, 11 Sep 2024 15:09:29 GMT</pubDate>
     </item>
     <item>
-      <title>地方政府沉迷于一家公司的劣质软件</title>
-      <link>https://www.bloomberg.com/news/features/2024-09-05/tyler-tech-s-odyssey-software-took-over-local-government-and-courts</link>
-      <description><![CDATA[彭博社北卡罗来纳州与 Tyler Technologies Inc. 签订了一份为期 10 年、价值 8500 万美元的合同，以实施其 Odyssey 软件，将其司法系统带入数字时代。四个县于 2023 年初启动该系统后，州行政人员发现了 573 个软件缺陷，用户报告的问题包括上传案件延迟和错误逮捕等。泰勒以其各种地方政府软件应用程序而闻名，但软件缺陷、发布延迟、投诉和诉讼的历史也不容乐观。摘自“地方政府对一家公司的劣质软件上瘾”
-彭博社 (09/05/24) Austin Carr 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/features/2024-09-05/tyler-tech-s-odyssey-software-took-over-local-government-and-courts</guid>
-      <pubDate>Mon, 09 Sep 2024 18:11:02 GMT</pubDate>
+      <title>欧洲航天局在太空中 3D 打印金属形状</title>
+      <link>https://www.theregister.com/2024/09/06/esa_metal_3d_printing/</link>
+      <description><![CDATA[The Register欧洲航天局 (ESA) 已在太空中 3D 打印出第一个金属部件，这是将在国际空间站生产并送回地球进行研究的四个部件中的第一个。打印机需要 10 到 25 天才能生产出相当于软饮料罐外部尺寸的样品。ESA 的 Daniel Neuenschwander 表示，这一成就“为长距离和长期任务铺平了道路，在这些任务中，按需制造备件、建筑部件和工具将是必不可少的。”摘自“ESA 在太空中 3D 打印金属形状”
+The Register (09/06/24) Richard Speed 查看全文]]></description>
+      <guid>https://www.theregister.com/2024/09/06/esa_metal_3d_printing/</guid>
+      <pubDate>Wed, 11 Sep 2024 15:09:29 GMT</pubDate>
     </item>
     <item>
-      <title>当你停车时，机器人咖啡车就会为你准备好饮料</title>
-      <link>https://www.masslive.com/entertainment/2024/09/robotic-coffee-drive-thru-in-mass-has-your-drink-ready-as-you-pull-up.html</link>
-      <description><![CDATA[MassLive.com位于马萨诸塞州洛厄尔的 p!ng 自动咖啡免下车点餐机允许客户通过公司的应用程序下单，并在他们到达时准备好咖啡以供取货。司机必须在车上随身携带应用程序，当监控器记录到他们距离点餐机 300 英尺以内时，他们的订单就会被处理。大多数订单在 30 秒或更短的时间内完成。摘自“机器人咖啡免下车点餐机让您在停车时即可享用饮品”
-MassLive.com (09/04/24) David Cifarelli 查看全文]]></description>
-      <guid>https://www.masslive.com/entertainment/2024/09/robotic-coffee-drive-thru-in-mass-has-your-drink-ready-as-you-pull-up.html</guid>
-      <pubDate>Mon, 09 Sep 2024 18:11:02 GMT</pubDate>
+      <title>美国 GPS 现代化面临延误和技术挑战</title>
+      <link>https://spacenews.com/u-s-gps-modernization-faces-delays-technical-challenges-gao-report/</link>
+      <description><![CDATA[太空新闻美国政府问责局的一份报告称，由于 GPS 技术现代化面临技术挑战，用于军事行动的 24 颗具有 M 码能力的卫星的交付可能会被推迟到 2030 年代。现代化工作中的地面控制部分 OCX 预计于 2025 年 12 月获得军方验收，但新发现的用于处理 M 码信号的微芯片和卡的缺陷，以及 GPS 芯片和卡的潜在短缺，可能会延长该时间表。摘自“美国 GPS 现代化面临延误和技术挑战”
+太空新闻 (09/09/24) Sandra Erwin 查看全文]]></description>
+      <guid>https://spacenews.com/u-s-gps-modernization-faces-delays-technical-challenges-gao-report/</guid>
+      <pubDate>Wed, 11 Sep 2024 15:09:28 GMT</pubDate>
     </item>
     <item>
-      <title>RAMBO 利用隔离计算机中的 RAM 窃取数据</title>
-      <link>https://www.bleepingcomputer.com/news/security/new-rambo-attack-steals-data-using-ram-in-air-gapped-computers/</link>
-      <description><![CDATA[BleepingComputer以色列本·古里安大学内盖夫分校的 Mordechai Guri 领导的团队发明了一种侧信道攻击，该攻击从设备的随机存取存储器 (RAM) 产生电磁辐射，以从隔离的计算机发送数据。RAMBO（隔离内存总线辐射攻击）需要在隔离的计算机上植入恶意软件来收集数据并准备传输。它通过操纵内存访问模式来传输数据，从而从设备的 RAM 中产生受控的电磁辐射。摘自“RAMBO 使用隔离计算机中的 RAM 窃取数据”
-BleepingComputer (09/07/24) Bill Toulas 查看全文]]></description>
-      <guid>https://www.bleepingcomputer.com/news/security/new-rambo-attack-steals-data-using-ram-in-air-gapped-computers/</guid>
-      <pubDate>Mon, 09 Sep 2024 18:11:01 GMT</pubDate>
+      <title>印度成为全球人工智能竞赛的关键参与者</title>
+      <link>https://time.com/7018294/india-ai-artificial-intelligence-ambani/</link>
+      <description><![CDATA[《时代》杂志印度正努力成为人工智能领域的全球主要参与者，政府已向印度人工智能计划投入 12.5 亿美元，以促进公共部门的计算基础设施、初创企业和人工智能应用程序开发。许多印度初创公司已经开始开发自己的大型语言模型，政府已采购 1,000 个 GPU，为人工智能开发人员提供计算能力。摘自“印度成为全球人工智能竞赛的关键参与者”
+《时代》杂志 (09/05/24) Astha Rajvanshi 查看全文]]></description>
+      <guid>https://time.com/7018294/india-ai-artificial-intelligence-ambani/</guid>
+      <pubDate>Wed, 11 Sep 2024 15:09:28 GMT</pubDate>
     </item>
     <item>
-      <title>伊比利亚猞猁从边缘回归，受到虚拟围栏的保护</title>
-      <link>https://edition.cnn.com/science/spain-iberian-lynx-virtual-fence-spc-c2e/index.html</link>
-      <description><![CDATA[CNN得益于欧盟和西班牙政府资助的一项 1 亿欧元（1.12 亿美元）保护项目，伊比利亚猞猁的数量目前已超过 2,000 只，而 2001 年野生成年猞猁的数量还不到 50 只。然而，由于道路安全等因素，这种野生猫科动物仍然受到威胁，因此必须安装虚拟围栏。该系统的传感器每隔 50 米就安装在公路沿线，可发出声音和灯光警告动物，并提示驾驶员减速。摘自“伊比利亚猞猁，从边缘回归，受到虚拟围栏的保护”
-CNN (09/05/24) Victoria Barauna 查看全文]]></description>
-      <guid>https://edition.cnn.com/science/spain-iberian-lynx-virtual-fence-spc-c2e/index.html</guid>
-      <pubDate>Mon, 09 Sep 2024 18:11:01 GMT</pubDate>
+      <title>Tiobe 流行度指数显示 C 语言下滑</title>
+      <link>https://www.infoworld.com/article/3511336/c-language-slumps-in-tiobe-popularity-index.html</link>
+      <description><![CDATA[InfoWorld编程语言 C 在 Tiobe 编程社区语言流行度指数中跌至第四位，这是自 2001 年推出该指数以来，其在月度排名中的最低位置。9 月份的指数中，Python 位居榜首，其次是 C++ 和 Java。C 和 C++ 是白宫国家网络总监办公室 2 月份报告的重点，该报告建议软件开发人员放弃它们，转而使用 Rust 等内存安全的语言。摘自“C 语言在 Tiobe 流行度指数中下滑”
+InfoWorld (09/09/24) Paul Krill 查看全文]]></description>
+      <guid>https://www.infoworld.com/article/3511336/c-language-slumps-in-tiobe-popularity-index.html</guid>
+      <pubDate>Wed, 11 Sep 2024 15:09:27 GMT</pubDate>
     </item>
     <item>
-      <title>监管机构试图计算人工智能的安全性</title>
-      <link>https://apnews.com/article/measuring-ai-safety-risk-flops-california-1047-6d556799683b02aa192b821462422aa2</link>
-      <description><![CDATA[美联社加州通过的人工智能安全立法，如果得到州长加文·纽瑟姆签署成为法律，将对每秒进行 10 的 26 次浮点运算训练的人工智能模型进行监管，这也是总统乔·拜登在 2023 年签署的行政命令中要求向美国政府报告的门槛。一些立法者和人工智能安全倡导者认为，这一门槛是人工智能系统可能变得危险的计算能力水平，但批评者称这一措施是武断的。摘自“监管机构试图对人工智能安全进行计算”
-美联社 (09/04/24) Matt O&#39;Brien 查看全文]]></description>
-      <guid>https://apnews.com/article/measuring-ai-safety-risk-flops-california-1047-6d556799683b02aa192b821462422aa2</guid>
-      <pubDate>Mon, 09 Sep 2024 18:11:00 GMT</pubDate>
+      <title>司法部称谷歌创造了广告技术垄断</title>
+      <link>https://www.nytimes.com/2024/09/09/technology/google-antitrust-ad-technology.html</link>
+      <description><![CDATA[《纽约时报》在周一开始的一场审判中，美国司法部 (DOJ) 指控谷歌利用其在广告技术领域的规模和影响力来排挤竞争对手。此次审判源于美国司法部和八个州去年对谷歌提起的诉讼，指控其违反反垄断法。这是该公司一年内面临的第二场联邦反垄断审判，8 月份的另一起案件中，联邦法官裁定谷歌非法维持了在线搜索的垄断地位。摘自“司法部认为谷歌创造了广告技术垄断”
+《纽约时报》（09/10/24）大卫·麦凯布 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/09/09/technology/google-antitrust-ad-technology.html</guid>
+      <pubDate>Wed, 11 Sep 2024 15:09:27 GMT</pubDate>
     </item>
     <item>
-      <title>美国选民成为中国网络影响力的目标</title>
-      <link>https://www.reuters.com/world/us/us-voters-targeted-by-chinese-influence-online-researchers-say-2024-09-03/</link>
-      <description><![CDATA[路透社情报公司 Graphika 报告称，与中国政府有关的社交媒体影响力行动“Spamouflage”或“Dragonbridge”正在美国总统大选前加紧活动。Graphika 研究人员发现，该行动正在使用 50 多个社交媒体平台、论坛和网站上的数千个账户来贬低美国政客、宣传分裂信息并冒充美国选民。摘自“美国选民成为中国网络影响力的目标”
-路透社 (09/03/24) Christopher Bing；Katie Paul；Sheila Dang；等人 查看全文]]></description>
-      <guid>https://www.reuters.com/world/us/us-voters-targeted-by-chinese-influence-online-researchers-say-2024-09-03/</guid>
-      <pubDate>Mon, 09 Sep 2024 18:11:00 GMT</pubDate>
+      <title>澳大利亚将对社交媒体使用实行年龄限制</title>
+      <link>https://www.bloomberg.com/news/articles/2024-09-09/australia-to-impose-new-age-limits-on-social-media-websites</link>
+      <description><![CDATA[彭博社澳大利亚总理安东尼·阿尔巴尼斯表示，未来几个月将出台新法律，对社交媒体网站实施年龄限制。他说，政府计划与各州和领地合作设定年龄限制，并指出正在考虑将年龄上限设为 14 至 16 岁。与此同时，政府正在测试年龄保证技术，以限制儿童访问不适当的在线内容。摘自“澳大利亚将对社交媒体使用实施年龄限制”
+彭博社 (09/09/24) 本·韦斯科特 查看全文]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-09-09/australia-to-impose-new-age-limits-on-social-media-websites</guid>
+      <pubDate>Wed, 11 Sep 2024 15:09:26 GMT</pubDate>
     </item>
     <item>
-      <title>阿帕拉契的安全警报帮助挽救生命</title>
-      <link>https://www.washingtonpost.com/nation/2024/09/06/security-apalachee-school-shooting/</link>
-      <description><![CDATA[《华盛顿邮报》乔治亚州阿帕拉契高中的安全系统在上周的枪击事件中帮助防止了进一步的流血事件。每位教师和工作人员都配备了一个带有紧急按钮的身份徽章。如果按钮连续按下八次，就像袭击期间工作人员所做的那样，就会向当地的 911 系统以及大楼内的其他人发出警告。摘自“阿帕拉契的安全警报帮助挽救了生命”
-《华盛顿邮报》（09/06/24）Laura Meckler；Karina Elwood；Hannah Natanson 查看全文]]></description>
-      <guid>https://www.washingtonpost.com/nation/2024/09/06/security-apalachee-school-shooting/</guid>
-      <pubDate>Mon, 09 Sep 2024 18:10:59 GMT</pubDate>
+      <title>美国提议要求高级人工智能和云提供商提交报告</title>
+      <link>https://www.reuters.com/technology/us-proposes-requiring-reporting-advanced-ai-cloud-providers-2024-09-09/</link>
+      <description><![CDATA[路透社美国商务部工业和安全局已提议对人工智能开发商和云计算提供商提出强制性报告要求，要求其报告“前沿”人工智能模型和计算集群的开发情况。报告将涵盖网络安全措施和“红队行动”的结果，例如测试人工智能模型是否可以协助网络攻击或使非专家能够开发化学、生物、放射或核武器。摘自“美国提议要求高级人工智能和云提供商进行报告”
+路透社 (09/09/24) David Shepardson 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/us-proposes-requiring-reporting-advanced-ai-cloud-providers-2024-09-09/</guid>
+      <pubDate>Wed, 11 Sep 2024 15:09:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>IT 失业率达到 6%</title>
+      <link>https://www.wsj.com/articles/it-unemployment-hits-6-amid-overall-u-s-jobs-growth-bc2f2915</link>
+      <description><![CDATA[《华尔街日报》Janco Associates 对美国劳工部数据的分析显示，8 月份 IT 工作者的失业率攀升至 6%。Janco 的 Victor Janulaitis 表示，这一失业率是 21 世纪初互联网泡沫破灭以来的最高水平，并将失业率上升归因于人工智能带来的技术格局的“巨大变化”。另一方面，Janulaitis 表示，人工智能和网络安全岗位正在增长。摘自“IT 失业率达到 6%”
+华尔街日报 (09/07/24) Belle Lin 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/articles/it-unemployment-hits-6-amid-overall-u-s-jobs-growth-bc2f2915</guid>
+      <pubDate>Wed, 11 Sep 2024 15:09:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
