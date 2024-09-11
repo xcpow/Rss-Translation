@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Wed, 11 Sep 2024 18:11:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 21:08:17 GMT</lastBuildDate>
+    <item>
+      <title>一个叫詹姆斯的人工智能机器人接手了我以前的地方新闻工作</title>
+      <link>https://www.wired.com/story/an-ai-bot-named-james-has-my-old-local-news-job/</link>
+      <description><![CDATA[夏威夷的一家当地报纸开始使用人工智能生成的主持人来吸引新的观众。]]></description>
+      <guid>https://www.wired.com/story/an-ai-bot-named-james-has-my-old-local-news-job/</guid>
+      <pubDate>Wed, 11 Sep 2024 19:35:34 GMT</pubDate>
+    </item>
     <item>
       <title>这项新技术让人工智能与自己的情感和你的情感相联系</title>
       <link>https://www.wired.com/story/hume-ai-emotional-intelligence/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>为什么人工智能在生成卡玛拉·哈里斯的图像方面如此糟糕</title>
       <link>https://www.wired.com/story/bad-kamala-harris-ai-generated-images/</link>
-      <description><![CDATA[种族和性别是其中的一部分原因，但总统候选人的这些难以令人信服的照片还存在更多问题。]]></description>
+      <description><![CDATA[种族和性别是其中的一部分，但总统候选人的这些难以令人信服的照片还隐藏着更多问题。]]></description>
       <guid>https://www.wired.com/story/bad-kamala-harris-ai-generated-images/</guid>
       <pubDate>Tue, 10 Sep 2024 10:30:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[阿歇特诉互联网档案馆案是由图书出版商因反对档案馆的数字借阅图书馆而提起的。]]></description>
       <guid>https://www.wired.com/story/internet-archive-loses-hachette-books-case-appeal/</guid>
       <pubDate>Wed, 04 Sep 2024 17:55:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>这可能是亚马逊下一次机器人革命的开始</title>
-      <link>https://www.wired.com/amazon-covariant-robotics-deal/</link>
-      <description><![CDATA[这家电子商务巨头已经收购了一个团队，旨在让机器人更加智能、更加灵活——有可能使其仓库运营的更多部分实现自动化。]]></description>
-      <guid>https://www.wired.com/amazon-covariant-robotics-deal/</guid>
-      <pubDate>Wed, 04 Sep 2024 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
