@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Wed, 11 Sep 2024 09:09:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 12:15:17 GMT</lastBuildDate>
+    <item>
+      <title>全球最大比特币矿场正在震动德克萨斯州这个石油小镇</title>
+      <link>https://www.wired.com/story/the-worlds-biggest-bitcoin-mine-is-rattling-this-texas-oil-town/</link>
+      <description><![CDATA[德克萨斯州农村一个资金短缺的城市即将成为世界上最大的比特币矿场所在地。当地抗议者正在“大闹一场”。]]></description>
+      <guid>https://www.wired.com/story/the-worlds-biggest-bitcoin-mine-is-rattling-this-texas-oil-town/</guid>
+      <pubDate>Wed, 11 Sep 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>苹果须向爱尔兰支付 144 亿美元以打击“私下交易”</title>
       <link>https://www.wired.com/story/apples-tax-bust-up-in-ireland-is-a-warning-to-big-tech/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>为什么人工智能在生成卡玛拉·哈里斯的图像方面如此糟糕</title>
       <link>https://www.wired.com/story/bad-kamala-harris-ai-generated-images/</link>
-      <description><![CDATA[种族和性别是其中的一部分原因，但总统候选人的这些难以令人信服的照片还存在更多问题。]]></description>
+      <description><![CDATA[种族和性别是其中的一部分，但总统候选人的这些难以令人信服的照片还隐藏着更多问题。]]></description>
       <guid>https://www.wired.com/story/bad-kamala-harris-ai-generated-images/</guid>
       <pubDate>Tue, 10 Sep 2024 10:30:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[特朗普家族在过去一个月大力宣传即将开展的加密货币项目。由于缺乏有关该项目的确切细节，骗子们只能填补空白。]]></description>
       <guid>https://www.wired.com/story/impersonators-take-advantage-as-the-trumps-dawdle-over-crypto-reveal/</guid>
       <pubDate>Wed, 04 Sep 2024 15:39:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个新组织正在努力使人工智能数据许可变得合乎道德</title>
-      <link>https://www.wired.com/story/dataset-providers-alliance-ethical-generative-ai-licensing/</link>
-      <description><![CDATA[数据集提供商联盟呼吁创作者和权利持有者能够选择将其材料用于培训目的。]]></description>
-      <guid>https://www.wired.com/story/dataset-providers-alliance-ethical-generative-ai-licensing/</guid>
-      <pubDate>Wed, 04 Sep 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
