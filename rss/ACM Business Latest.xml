@@ -4,7 +4,21 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 12 Sep 2024 15:08:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 18:12:35 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 宣布推出代号为 Strawberry 的全新 AI 模型，可逐步解决难题</title>
+      <link>https://www.wired.com/story/openai-o1-strawberry-problem-reasoning/</link>
+      <description><![CDATA[ChatGPT 制造商透露了官方称为 OpenAI-o1 的细节，这表明人工智能需要的不仅仅是规模才能发展。]]></description>
+      <guid>https://www.wired.com/story/openai-o1-strawberry-problem-reasoning/</guid>
+      <pubDate>Thu, 12 Sep 2024 17:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>是的，你现在可以押注美国大选</title>
+      <link>https://www.wired.com/story/yes-you-can-now-bet-on-elections-in-the-us/</link>
+      <description><![CDATA[一名美国法官推翻了一项禁止赌博公司让人们对选举结果下注的禁令。]]></description>
+      <guid>https://www.wired.com/story/yes-you-can-now-bet-on-elections-in-the-us/</guid>
+      <pubDate>Thu, 12 Sep 2024 16:34:09 GMT</pubDate>
+    </item>
     <item>
       <title>亚马逊的运输和配送排放量持续上升</title>
       <link>https://www.wired.com/story/amazons-shipping-and-delivery-emissions-just-keep-going-up/</link>
@@ -85,7 +99,7 @@
     <item>
       <title>您需要了解的有关 Grok AI 和您的隐私的信息</title>
       <link>https://www.wired.com/story/grok-ai-privacy-opt-out/</link>
-      <description><![CDATA[与竞争对手相比，xAI 的生成式 AI 工具 Grok AI 显得有些疯狂。它还收集了人们在 X 上发布的大量数据。以下是如何让您的帖子不被 Grok 收录 — 以及您应该这么做的原因。]]></description>
+      <description><![CDATA[与竞争对手相比，xAI 的生成式 AI 工具 Grok AI 显得有些不正常。它还收集了人们在 X 上发布的大量数据。以下是如何让您的帖子不被 Grok 收录 — 以及您应该这么做的原因。]]></description>
       <guid>https://www.wired.com/story/grok-ai-privacy-opt-out/</guid>
       <pubDate>Mon, 09 Sep 2024 10:30:00 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[沃尔沃的全电动兄弟公司迎来了新首席执行官、推出了新车型并在南卡罗来纳州开设了新工厂——但这足以阻止电动汽车品牌的衰落吗？]]></description>
       <guid>https://www.wired.com/story/how-do-you-solve-a-problem-like-polestar/</guid>
       <pubDate>Sat, 07 Sep 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国国家安全局有播客——以下是解码方法</title>
-      <link>https://www.wired.com/story/the-nsa-has-a-podcast-heres-how-to-decode-it-no-such-podcast/</link>
-      <description><![CDATA[这个不敢透露姓名的间谍机构现在成了 SIGINT 界的乔·罗根。这个播客确实值得一听。]]></description>
-      <guid>https://www.wired.com/story/the-nsa-has-a-podcast-heres-how-to-decode-it-no-such-podcast/</guid>
-      <pubDate>Fri, 06 Sep 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>伊隆·马斯克在巴西陷入困境</title>
-      <link>https://www.wired.com/story/x-starlink-brazil-suspension-musk/</link>
-      <description><![CDATA[在就 X 和 Starlink 在该国的运营与法官公开对峙之后，埃隆·马斯克表现出动摇的迹象。]]></description>
-      <guid>https://www.wired.com/story/x-starlink-brazil-suspension-musk/</guid>
-      <pubDate>Fri, 06 Sep 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
