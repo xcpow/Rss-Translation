@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 13 Sep 2024 09:09:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 12:14:42 GMT</lastBuildDate>
+    <item>
+      <title>人工智能教母希望每个人都成为世界建设者</title>
+      <link>https://www.wired.com/story/plaintext-the-godmother-of-ai-wants-everyone-to-be-a-world-builder/</link>
+      <description><![CDATA[斯坦福大学计算机科学家李飞飞创办了一家初创公司，旨在教会人工智能系统深入了解物理现实。投资者正在向该公司投入资金。]]></description>
+      <guid>https://www.wired.com/story/plaintext-the-godmother-of-ai-wants-everyone-to-be-a-world-builder/</guid>
+      <pubDate>Fri, 13 Sep 2024 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI 宣布推出代号为 Strawberry 的全新 AI 模型，可逐步解决难题</title>
       <link>https://www.wired.com/story/openai-o1-strawberry-problem-reasoning/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[与竞争对手相比，xAI 的生成式 AI 工具 Grok AI 显得有些不正常。它还收集了人们在 X 上发布的大量数据。以下是如何让您的帖子不被 Grok 收录 — 以及您应该这么做的原因。]]></description>
       <guid>https://www.wired.com/story/grok-ai-privacy-opt-out/</guid>
       <pubDate>Mon, 09 Sep 2024 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何解决像 Polestar 这样的难题？</title>
-      <link>https://www.wired.com/story/how-do-you-solve-a-problem-like-polestar/</link>
-      <description><![CDATA[沃尔沃的全电动兄弟公司迎来了新首席执行官、推出了新车型并在南卡罗来纳州开设了新工厂——但这足以阻止电动汽车品牌的衰落吗？]]></description>
-      <guid>https://www.wired.com/story/how-do-you-solve-a-problem-like-polestar/</guid>
-      <pubDate>Sat, 07 Sep 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
