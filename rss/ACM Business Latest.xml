@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Sat, 14 Sep 2024 03:10:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 06:11:19 GMT</lastBuildDate>
+    <item>
+      <title>人工智能帮助 Shein 成为快时尚的最大污染源</title>
+      <link>https://www.wired.com/story/shein-is-officially-the-biggest-polluter-in-fast-fashion-ai-is-making-things-worse/</link>
+      <description><![CDATA[2023 年，该公司的排放量几乎增加了一倍，成为这个出了名的不可持续行业中排放量最严重的企业。]]></description>
+      <guid>https://www.wired.com/story/shein-is-officially-the-biggest-polluter-in-fast-fashion-ai-is-making-things-worse/</guid>
+      <pubDate>Sat, 14 Sep 2024 06:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能教母希望每个人都成为世界建设者</title>
       <link>https://www.wired.com/story/plaintext-the-godmother-of-ai-wants-everyone-to-be-a-world-builder/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[谷歌将于周一出庭接受广告技术垄断指控。专家表示，司法部胜诉将创造更美好的浏览未来。]]></description>
       <guid>https://www.wired.com/story/google-ad-tech-antitrust-trial-doubleclick/</guid>
       <pubDate>Mon, 09 Sep 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>您需要了解的有关 Grok AI 和您的隐私的信息</title>
-      <link>https://www.wired.com/story/grok-ai-privacy-opt-out/</link>
-      <description><![CDATA[与竞争对手相比，xAI 的生成式 AI 工具 Grok AI 显得有些不正常。它还收集了人们在 X 上发布的大量数据。以下是如何让您的帖子不被 Grok 收录 — 以及您应该这么做的原因。]]></description>
-      <guid>https://www.wired.com/story/grok-ai-privacy-opt-out/</guid>
-      <pubDate>Mon, 09 Sep 2024 10:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
