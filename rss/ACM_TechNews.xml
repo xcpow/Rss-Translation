@@ -4,110 +4,95 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Fri, 13 Sep 2024 15:08:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 18:11:08 GMT</lastBuildDate>
     <item>
-      <title>公司终于发现 VR 在工作中的用途</title>
-      <link>https://www.wsj.com/articles/companies-finally-find-a-use-for-virtual-reality-at-work-9dddf8db</link>
-      <description><![CDATA[《华尔街日报》随着虚拟现实 (VR) 技术越来越完善、越来越实惠，越来越多的公司开始采用该技术。UPS 正在使用 VR 培训司机，例如如何堆放包裹或处理现场的某些情况，例如狗袭击，而沃尔玛则用它来培训员工的“软技能”，例如如何在处理沮丧的客户时表现出同理心。“人们的学习方式正在发生根本性的变化，而 VR 正是推动这种变化的因素，” ArborXR 的 Brad Scoggin 说道，该公司帮助企业管理和整合 VR 设备和内容。摘自“企业终于发现 VR 在工作中的用途”
-华尔街日报 (09/09/24) Isabelle Bousquette 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/articles/companies-finally-find-a-use-for-virtual-reality-at-work-9dddf8db</guid>
-      <pubDate>Fri, 13 Sep 2024 15:08:13 GMT</pubDate>
+      <title>雇主最需要的技术技能</title>
+      <link>https://www.entrepreneur.com/business-news/the-most-in-demand-tech-skills-employers-are-looking-for-now/479677</link>
+      <description><![CDATA[企业家软件公司 Finoit 的研究人员分析了大约 24,000 份美国招聘信息，以确定最需要的技术技能。他们确定了 10 项技术技能在招聘信息中被提及的次数，然后将这些技能与 Indeed 上的平均工资进行匹配。Python 和 SQL 位居榜首，在 24,000 份招聘信息中均有提及，平均工资分别为 126,673 美元和 92,457 美元。紧随其后的是 AWS（16,000 个职位列表，平均工资为 140,733 美元）、机器人技术（15,000 美元，117,234 美元）、Linux（13,000 美元，84,939 美元）、Java（11,000 美元，92,177 美元）、JavaScript（9,000 美元，111,620 美元）、Azure（9,000 美元，140,733 美元）、C#（8,000 美元，122,372 美元）和 C++（8,000 美元，126,129 美元）。摘自“雇主最需要的技术技能”
+企业家 (09/10/24) Sherin Shibu 查看全文]]></description>
+      <guid>https://www.entrepreneur.com/business-news/the-most-in-demand-tech-skills-employers-are-looking-for-now/479677</guid>
+      <pubDate>Mon, 16 Sep 2024 18:11:08 GMT</pubDate>
     </item>
     <item>
-      <title>量子计算机纠正自身错误，提高计算能力</title>
-      <link>https://www.sciencenews.org/article/quantum-computer-error-correction</link>
-      <description><![CDATA[ScienceNews微软和 Quantinuum 的研究人员展示了一台量子计算机，它利用量子纠错技术在计算过程中修正自己的错误。研究人员能够对八个逻辑量子比特反复执行运算和纠错，修正后的计算错误率仅为原始物理量子比特的十分之一。研究人员还实现了创纪录的 12 个逻辑量子比特纠缠，错误率不到原始物理量子比特的二十分之一。摘自“量子计算机修正了自己的错误，提高了计算能力”
-ScienceNews (09/10/24) Emily Conover 查看全文]]></description>
-      <guid>https://www.sciencenews.org/article/quantum-computer-error-correction</guid>
-      <pubDate>Fri, 13 Sep 2024 15:08:12 GMT</pubDate>
+      <title>Oracle 正在设计一个由三座小型核反应堆驱动的数据中心</title>
+      <link>https://www.cnbc.com/2024/09/10/oracle-is-designing-a-data-center-that-would-be-powered-by-three-small-nuclear-reactors.html</link>
+      <description><![CDATA[CNBC甲骨文联合创始人兼董事长拉里·埃里森表示，该公司正在开发一个由三座小型模块化核反应堆供电的数据中心，因为它需要超过 1 千兆瓦的电力。小型模块化核反应堆旨在加快无碳能源的部署，因为电力需求（包括数据中心的需求）不断增加。核工业高管预计，直到 2030 年代，它们才会在美国实现商业化。摘自“甲骨文正在设计一个由三座小型核反应堆供电的数据中心”
+CNBC (09/10/24) Spencer Kimball 查看全文]]></description>
+      <guid>https://www.cnbc.com/2024/09/10/oracle-is-designing-a-data-center-that-would-be-powered-by-three-small-nuclear-reactors.html</guid>
+      <pubDate>Mon, 16 Sep 2024 18:11:08 GMT</pubDate>
     </item>
     <item>
-      <title>苹果将​​推出内置助听器的 AirPods</title>
-      <link>https://www.upi.com/Health_News/2024/09/10/Apple-AirPods-built-in-hearing-aids/9801725980261/</link>
-      <description><![CDATA[UPI苹果表示，其最新款 AirPods 将配备内置助听器，适合轻度至中度听力损失者。使用运行 iOS 18 的 iPhone 或 iPad，用户可以进行五分钟的听力测试，结果将私密存储在 Health App 中。然后，他们的 AirPods 将进行“个性化动态调整”，实时将声音放大到规定的水平。听力设置将自动应用于正在使用的任何媒体。摘自“Apple 将发布内置助听器的 AirPods”
-UPI (09/10/24) Robin Foster 查看全文]]></description>
-      <guid>https://www.upi.com/Health_News/2024/09/10/Apple-AirPods-built-in-hearing-aids/9801725980261/</guid>
-      <pubDate>Fri, 13 Sep 2024 15:08:12 GMT</pubDate>
+      <title>制作电子游戏曾是一份理想的职业。但后来大规模裁员来了</title>
+      <link>https://www.wsj.com/lifestyle/careers/making-videogames-was-a-dream-career-then-the-mass-layoffs-came-539d3696</link>
+      <description><![CDATA[《华尔街日报》加州技术艺术家 Farhan Noor 汇编的解雇公告和新闻报道显示，今年电子游戏公司裁员略多于 11,500 人，高于 2023 年的 10,500 人和 2022 年的 8,500 人。裁员可以归因于疫情时期的过度招聘、频繁的在线更新使玩家可以比以前更长时间地继续玩单个游戏、生产和营销成本上升以及行业整合。摘自“制作电子游戏是一项梦想的职业。然后大规模裁员来了”
+《华尔街日报》（09/07/24）Sarah E. Needleman 查看完整文章 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/lifestyle/careers/making-videogames-was-a-dream-career-then-the-mass-layoffs-came-539d3696</guid>
+      <pubDate>Mon, 16 Sep 2024 18:11:07 GMT</pubDate>
     </item>
     <item>
-      <title>机器人开始执行从受损核电站回收熔化燃料的任务</title>
-      <link>https://apnews.com/article/japan-nuclear-fukushima-meltdown-fuel-debris-robot-f36c5ead0bdb0facf77688dde644b7dc</link>
-      <description><![CDATA[美联社可伸缩机器人“telesco”正在执行为期两周的任务，从日本福岛第一核电站受损反应堆中获取熔化燃料碎片样本。这是核电站运营商东京电力控股公司首次使用机器人进行三座受损反应堆内部检查以外的工作。该机器人将远程操作，用钳子收集小于 3 克（0.1 盎司）的样本。摘自“机器人开始执行从受损核电站回收熔化燃料的任务”
-美联社 (09/10/24) Mari Yamaguchi 查看全文]]></description>
-      <guid>https://apnews.com/article/japan-nuclear-fukushima-meltdown-fuel-debris-robot-f36c5ead0bdb0facf77688dde644b7dc</guid>
-      <pubDate>Fri, 13 Sep 2024 15:08:11 GMT</pubDate>
+      <title>20 美元和失效域名如何让安全专家破坏互联网诚信</title>
+      <link>https://www.theregister.com/2024/09/11/watchtowr_black_hat_whois/</link>
+      <description><![CDATA[The RegisterwatchTowr Labs 的研究人员发现 WHOIS 协议中存在一个漏洞，该漏洞可能会破坏证书颁发机构。他们发现 [.]mobi 的 WHOIS 服务器已从 whois[.]dotmobiregistry[.]net 迁移到 whois[.]nic[.]mobi，他们以 20 美元的价格收购了该过期域名。研究人员随后部署了新的 WHOIS 服务器，并确定了尚未将其客户端更新为新的 nic[.]mobi 地址的用户。一周之内，研究人员报告称有超过 135,000 个独立系统与服务器通信，并发出了超过 250 万次查询。摘自“20 美元和失效域名如何让安全专家破坏互联网完整性”
+The Register (09/11/24) Jessica Lyons 查看全文]]></description>
+      <guid>https://www.theregister.com/2024/09/11/watchtowr_black_hat_whois/</guid>
+      <pubDate>Mon, 16 Sep 2024 18:11:07 GMT</pubDate>
     </item>
     <item>
-      <title>2023 年美国人使用了 100 万亿兆字节的无线数据</title>
-      <link>https://www.reuters.com/technology/americans-used-record-100-trillion-megabytes-wireless-data-2023-2024-09-10/</link>
-      <description><![CDATA[路透社无线行业协会CTIA的一项调查发现，去年美国人使用的无线数据略超过100万亿兆字节，比2022年增长36%或26万亿兆字节。这是5G无线设备使用数量单年最大增幅。调查还显示，受无人机、自动驾驶汽车、太空任务和精准农业的推动，同期无线连接数增长 6%，达到 5.58 亿。摘自“2023 年美国人使用了 100 万亿兆字节的无线数据”
-路透社 (09/10/24) David Shepardson 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/americans-used-record-100-trillion-megabytes-wireless-data-2023-2024-09-10/</guid>
-      <pubDate>Fri, 13 Sep 2024 15:08:11 GMT</pubDate>
+      <title>科技公司将在 2023 年将商务旅行减少一半，但 Alphabet 和 Apple 落后</title>
+      <link>https://www.reuters.com/technology/tech-firms-halve-business-travel-2023-alphabet-apple-lag-study-shows-2024-09-10/</link>
+      <description><![CDATA[路透社布鲁塞尔运输与环境局（T&amp;E）进行的一项分析显示，2019 年至 2023 年，26 家大型科技公司的企业航班排放量平均下降了 49%，尽管其中只有 7 家公司设定了具体的减排目标。 T&amp;E 的 Denise Auclair 表示：“科技公司长期以来一直声称自己是气候领袖，许多公司已经大幅减少了商务旅行排放，但如果他们想获得信誉，就必须设定减排目标。”摘自“科技公司在 2023 年将商务旅行减半，但 Alphabet 和 Apple 落后”
+路透社 (09/10/24) Dagmarah Mackos 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/tech-firms-halve-business-travel-2023-alphabet-apple-lag-study-shows-2024-09-10/</guid>
+      <pubDate>Mon, 16 Sep 2024 18:11:06 GMT</pubDate>
     </item>
     <item>
-      <title>UVA 团队赢得印地自动驾驶挑战赛</title>
-      <link>https://www.forbes.com/sites/johnkoetsier/2024/09/07/university-of-virginia-becomes-first-american-team-to-win-indy-autonomous-challenge-averaging--171-mph/</link>
-      <description><![CDATA[《福布斯》上周，弗吉尼亚大学 (UVA) 的 Cavalier 自动驾驶赛车队在印第安纳波利斯赛车场举行的 Indy 自动驾驶挑战赛中夺冠，其参赛车辆的平均时速超过 171 英里。该车队击败了来自德国、韩国、意大利和其他美国大学的竞争对手。挑战赛主席兼主席 Paul Mitchell 表示：“这辆车上的所有硬件如今都已在商用车中配备。” …我们正在进行故障测试并确定这些组件的问题。”摘自“UVA 团队赢得 Indy Autonomous Challenge”
-福布斯 (09/09/24) John Koetsier 查看全文]]></description>
-      <guid>https://www.forbes.com/sites/johnkoetsier/2024/09/07/university-of-virginia-becomes-first-american-team-to-win-indy-autonomous-challenge-averaging--171-mph/</guid>
-      <pubDate>Fri, 13 Sep 2024 15:08:10 GMT</pubDate>
+      <title>可伸缩电子元件助力软体机器人实现嵌入式计算</title>
+      <link>https://interestingengineering.com/innovation/stretchable-electronics-for-soft-robots-created</link>
+      <description><![CDATA[有趣的工程耶鲁大学研究人员开发的可拉伸复杂电路可以将电路板集成到软机器人中。他们设计了一种方法来创建任何复杂双层电路的柔软可拉伸版本。研究人员采用这种方法生产了市售的 Arduino Pro Mini、Arduino Lilypad、Sparkfun 声音探测器以及 Sparkfun RGB 和手势传感器的可拉伸版本。摘自“用于软机器人的可拉伸电子设备可实现嵌入式计算”
+有趣的工程 (09/11/24) Mrigakshi Dixit 查看全文]]></description>
+      <guid>https://interestingengineering.com/innovation/stretchable-electronics-for-soft-robots-created</guid>
+      <pubDate>Mon, 16 Sep 2024 18:11:06 GMT</pubDate>
     </item>
     <item>
-      <title>融合物理和虚拟世界，推动气候紧迫性</title>
-      <link>https://news.cornell.edu/stories/2024/09/mixing-physical-virtual-worlds-drive-home-climate-urgency</link>
-      <description><![CDATA[康奈尔纪事报康奈尔大学、纽约大学和马萨诸塞大学阿默斯特分校的研究人员开发的公共扩展现实 (CXR) 系统将物理和虚拟环境融合在一起，供乘坐巴士游览纽约市罗斯福岛的乘客使用。使用虚拟现实耳机和导览解说，观光者可以体验九个场景，这些场景描绘了气候变化日益增加的影响。完全沉浸式、共享的扩展现实体验旨在强调气候预报的紧迫性。摘自“混合物理和虚拟世界以推动气候紧迫性”
-康奈尔纪事报 (09/11/24) Sarah Marquart 查看全文]]></description>
-      <guid>https://news.cornell.edu/stories/2024/09/mixing-physical-virtual-worlds-drive-home-climate-urgency</guid>
-      <pubDate>Fri, 13 Sep 2024 15:08:10 GMT</pubDate>
+      <title>L&T 参与芯片开发，印度半导体雄心勃勃</title>
+      <link>https://www.bloomberg.com/news/articles/2024-09-11/india-semiconductor-ambition-grows-with-l-t-joining-chip-effort</link>
+      <description><![CDATA[彭博社印度企业集团 Larsen &amp; Toubro Ltd. (L&amp;T) 是最新进入该国半导体行业的企业，计划在三年内投资超过 3 亿美元创建一家无晶圆厂芯片制造商。 L&amp;T Semiconductor Technologies 的 Sandeep Kumar 表示，预计到今年年底将有 15 种产品设计，并于 2027 年开始销售。L&amp;T 将专注于电源芯片、射频半导体和混合信号集成电路。摘自“L&amp;T 加入芯片行业，印度半导体雄心壮志不断增长”
+彭博社 (09/10/24) Sankalp Phartiyal 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-09-11/india-semiconductor-ambition-grows-with-l-t-joining-chip-effort</guid>
+      <pubDate>Mon, 16 Sep 2024 18:11:05 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌人工智能模型面临欧盟隐私监管机构的审查</title>
-      <link>https://apnews.com/article/google-ireland-european-union-data-privacy-artificial-intelligence-e0bb5f7d38653724ba65e5d6c30266f7</link>
-      <description><![CDATA[美联社欧盟监管机构周四表示，他们正在调查谷歌的 Pathways 语言模型 2 (PaLM2)，担心其是否符合欧盟的数据隐私规则。负责监督谷歌数据隐私事务的爱尔兰数据保护委员会表示，已展开调查，以评估该人工智能模型的数据处理是否可能导致“对个人权利和自由造成高风险”在欧盟。摘自“谷歌人工智能模型面临欧盟隐私监管机构的审查”
-美联社 (09/11/24) Kelvin Chan 查看全文]]></description>
-      <guid>https://apnews.com/article/google-ireland-european-union-data-privacy-artificial-intelligence-e0bb5f7d38653724ba65e5d6c30266f7</guid>
-      <pubDate>Fri, 13 Sep 2024 15:08:09 GMT</pubDate>
+      <title>运营技术容易受到网络攻击</title>
+      <link>https://www.infosecurity-magazine.com/news/ot-open-cyberattack/</link>
+      <description><![CDATA[Infosecurity MagazineTeam82 安全研究人员分析了来自 50,000 多台支持远程访问的设备的数据，并确定不受控制地使用远程访问工具 (RAT) 对运营技术 (OT) 构成危险。研究人员发现 55% 的组织使用至少四种 RAT，另有 33% 的组织使用六种或更多。研究人员建议在 OT 和工业控制系统中集中管理 RAT，并采用通用访问控制策略。摘自“运营技术容易受到网络攻击”
+Infosecurity Magazine (09/11/24) Stephen Pritchard 查看全文]]></description>
+      <guid>https://www.infosecurity-magazine.com/news/ot-open-cyberattack/</guid>
+      <pubDate>Mon, 16 Sep 2024 18:11:05 GMT</pubDate>
     </item>
     <item>
-      <title>功能手机、传真机是 Boss Flex 的新亮点</title>
-      <link>https://www.wsj.com/lifestyle/careers/low-tech-executives-security-focus-a495f9e7</link>
-      <description><![CDATA[《华尔街日报》越来越多的高管开始使用简易手机、指针式手表、寻呼机和传真机，以远离需要全天候在线的先进设备。一些高管表示，这让他们能够更好地专注于工作，全身心投入会议，并成为更好的领导者。 Snap 董事长 Michael Lynton 认为传真比电子邮件更安全，而 Diff 首席执行官 Benjamin Crudo 表示，使用“功能手机”让他可以将技术作为一种工具，而不是一种干扰。摘自“功能手机、传真机是新的 Boss Flex”
-华尔街日报 (09/11/24) Callum Borchers 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/lifestyle/careers/low-tech-executives-security-focus-a495f9e7</guid>
-      <pubDate>Fri, 13 Sep 2024 15:08:09 GMT</pubDate>
+      <title>中国年轻移民面临美国签证抽签</title>
+      <link>https://www.nytimes.com/2024/09/12/business/chinese-h1b-visa.html</link>
+      <description><![CDATA[《纽约时报》许多来美国接受教育并希望留下来的中国移民发现，很难获得 H-1B 工作签证。美国政府每年通过抽签程序发放 85,000 份 H-1B 签证，但注册人数从 2023 财年的 480,000 人激增至 2024 财年的 780,000 人。中美紧张关系也带来挑战。摘自《中国年轻移民面临美国签证抽签》
+
+纽约时报 (09/12/24) 李源 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/09/12/business/chinese-h1b-visa.html</guid>
+      <pubDate>Mon, 16 Sep 2024 18:11:04 GMT</pubDate>
     </item>
     <item>
-      <title>磁控假手让截肢者能够完成日常任务</title>
-      <link>https://interestingengineering.com/innovation/first-magnet-controlled-prosthetic-hand</link>
-      <description><![CDATA[有趣的工程意大利圣安娜高等学校的研究人员开发了一种假手，由植入佩戴者肌肉的小磁铁操作。当佩戴者的残留肌肉收缩时，磁铁会移动；算法将这种运动转化为假肢的命令。在测试中，患者能够使用假手拿起和移动各种物体、打开罐子、使用刀和螺丝刀等。摘自“磁控假手让截肢者完成日常任务”
-有趣的工程 (09/11/24) Jijo Malayil 查看全文]]></description>
-      <guid>https://interestingengineering.com/innovation/first-magnet-controlled-prosthetic-hand</guid>
-      <pubDate>Fri, 13 Sep 2024 15:08:09 GMT</pubDate>
+      <title>英飞凌推出 12 英寸 GaN 功率芯片晶圆技术</title>
+      <link>https://asia.nikkei.com/Business/Tech/Semiconductors/Infineon-unveils-world-s-first-12-inch-GaN-power-chip-wafer-tech</link>
+      <description><![CDATA[日经亚洲英飞凌表示，已开发出 12 英寸氮化镓 (GaN) 晶圆技术，该技术可容纳的芯片数量是当前行业标准 8 英寸晶圆的 2.3 倍。英飞凌指出，GaN 芯片可在制造硅芯片的同一设备上生产。英飞凌的 Adam White 表示：“我们看到该技术在工业、消费、计算应用以及人工智能 [数据中心] 电源等领域的应用，并且“在机器人技术领域的应用也日益广泛。”摘自“英飞凌推出 12 英寸 GaN 功率芯片晶圆技术”
+日经亚洲 (09/11/24) 郑廷芳 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://asia.nikkei.com/Business/Tech/Semiconductors/Infineon-unveils-world-s-first-12-inch-GaN-power-chip-wafer-tech</guid>
+      <pubDate>Mon, 16 Sep 2024 18:11:04 GMT</pubDate>
     </item>
     <item>
-      <title>Check Point 称今年美国公用事业遭受的网络攻击激增 70%</title>
-      <link>https://www.reuters.com/technology/cybersecurity/cyberattacks-us-utilities-surged-70-this-year-says-check-point-2024-09-11/</link>
-      <description><![CDATA[路透社Check Point Research 报告称，2024 年前 8 个月针对美国公用事业的网络攻击增加了近 70%，总计 1,162 次，而 2023 年同期为 689 次。尽管这些网络攻击都没有损害美国公用事业，但业内专家表示，随着电网的扩展，潜在的攻击点会更多，特别是与生成式 AI 数据中心的增量互连。摘自“Check Point 称，今年针对美国公用事业的网络攻击激增 70%”
-路透社 (09/11/24) Seher Dareen； Srivastava Vallari 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/cybersecurity/cyberattacks-us-utilities-surged-70-this-year-says-check-point-2024-09-11/</guid>
-      <pubDate>Fri, 13 Sep 2024 15:08:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>42 个州检察长在社交媒体上认可警告标签</title>
-      <link>https://www.washingtonpost.com/technology/2024/09/10/state-attorneys-endorse-social-media-warning-labels/</link>
-      <description><![CDATA[华盛顿邮报在致美国国会的一封信中，由 42 个州检察长组成的联盟批准了一项在社交媒体平台上贴上警告标签的计划，称这是“减轻对青少年造成伤害风险的重要一步”。信中表示，警告标签将“补充其他努力，以激发对社交媒体平台监管的关注、研究和投资。”摘自“42 个州检察长支持在社交媒体上贴上警告标签”
-华盛顿邮报 (09/10/24) Cristiano Lima-Strong 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.washingtonpost.com/technology/2024/09/10/state-attorneys-endorse-social-media-warning-labels/</guid>
-      <pubDate>Fri, 13 Sep 2024 15:08:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>英国将数据中心列为关键基础设施</title>
-      <link>https://www.cnbc.com/2024/09/12/uk-labels-data-centers-critical-infrastructure-to-boost-cybersecurity.html</link>
-      <description><![CDATA[CNBC英国科技部长 Peter Kyle 宣布，英国数据中心将获得关键国家基础设施 (CNI) 称号，该称号通常用于能源、核能、国防、太空和紧急服务。Kyle 说：“数据中心是现代生活的引擎；它们为数字经济提供动力，并保护我们最私密的信息安全。”摘自“英国将数据中心列为关键基础设施”
-CNBC (09/11/24) Ryan Browne 查看全文]]></description>
-      <guid>https://www.cnbc.com/2024/09/12/uk-labels-data-centers-critical-infrastructure-to-boost-cybersecurity.html</guid>
-      <pubDate>Fri, 13 Sep 2024 15:08:07 GMT</pubDate>
+      <title>随着量子计算威胁迫在眉睫，微软更新其核心加密库</title>
+      <link>https://arstechnica.com/security/2024/09/microsoft-adds-quantum-resistant-algorithms-to-its-core-crypto-library/</link>
+      <description><![CDATA[Ars Technica微软更新了 SymCrypt 加密库，添加了两种新的加密算法，以抵御来自量子计算机的攻击。新算法是 ML-KEM（带错误密钥封装的模块学习），这是美国国家标准与技术研究所 (NIST) 于 8 月正式制定的三个后量子标准之一，以及 NIST 推荐的 XMSS（扩展 Merkle 签名方案）。摘自“随着量子计算威胁的迫近，微软更新了其核心加密库”
+Ars Technica (09/11/24) Dan Goodin 查看全文]]></description>
+      <guid>https://arstechnica.com/security/2024/09/microsoft-adds-quantum-resistant-algorithms-to-its-core-crypto-library/</guid>
+      <pubDate>Mon, 16 Sep 2024 18:11:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
