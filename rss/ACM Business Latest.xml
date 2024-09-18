@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Tue, 17 Sep 2024 21:07:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 00:39:02 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 威胁禁止调查其“草莓”人工智能模型的用户</title>
+      <link>https://www.wired.com/story/openai-threatens-bans-as-users-probe-o1-model/</link>
+      <description><![CDATA[如果您尝试弄清楚 OpenAI 的 o1 模型如何解决问题，您可能会收到一封令人讨厌的邮件。]]></description>
+      <guid>https://www.wired.com/story/openai-threatens-bans-as-users-probe-o1-model/</guid>
+      <pubDate>Tue, 17 Sep 2024 23:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>特朗普家族与 World Liberty Financial 全面进军加密货币领域</title>
       <link>https://www.wired.com/story/trump-world-liberty-financial-crypto-defi/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>继《创智赢家》之后，马克·库班只想打破陈规——尤其是处方药行业</title>
       <link>https://www.wired.com/story/big-interview-after-shark-tank-mark-cuban-just-wants-to-break-shit-especially-the-prescription-drug-industry/</link>
-      <description><![CDATA[亿万富翁马克·库班 (Mark Cuban) 已经完成了他的热门电视节目，但他仍然致力于对抗制药公司的中间人、成为一名父亲以及刺激埃隆·马斯克。]]></description>
+      <description><![CDATA[亿万富翁马克·库班 (Mark Cuban) 已经完成了他的热门电视节目，但他仍然致力于对抗制药公司的中间人、成为一名父亲以及刺激埃隆·马斯克 (Elon Musk)。]]></description>
       <guid>https://www.wired.com/story/big-interview-after-shark-tank-mark-cuban-just-wants-to-break-shit-especially-the-prescription-drug-industry/</guid>
       <pubDate>Thu, 12 Sep 2024 10:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[YC 支持的创业公司 NetworkOcean 计划将 GPU 沉入旧金山湾。WIRED 采访的多名加州监管机构尚未听说过这项测试，并对其可能对环境造成的影响表示担忧。]]></description>
       <guid>https://www.wired.com/story/networkocean-datacenter-san-francisco-bay-environment/</guid>
       <pubDate>Tue, 10 Sep 2024 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么人工智能在生成卡玛拉·哈里斯的图像方面如此糟糕</title>
-      <link>https://www.wired.com/story/bad-kamala-harris-ai-generated-images/</link>
-      <description><![CDATA[种族和性别是其中的一部分，但总统候选人的这些难以令人信服的照片还隐藏着更多问题。]]></description>
-      <guid>https://www.wired.com/story/bad-kamala-harris-ai-generated-images/</guid>
-      <pubDate>Tue, 10 Sep 2024 10:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
