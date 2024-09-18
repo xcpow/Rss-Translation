@@ -4,95 +4,111 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Mon, 16 Sep 2024 18:11:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 15:08:58 GMT</lastBuildDate>
     <item>
-      <title>雇主最需要的技术技能</title>
-      <link>https://www.entrepreneur.com/business-news/the-most-in-demand-tech-skills-employers-are-looking-for-now/479677</link>
-      <description><![CDATA[企业家软件公司 Finoit 的研究人员分析了大约 24,000 份美国招聘信息，以确定最需要的技术技能。他们确定了 10 项技术技能在招聘信息中被提及的次数，然后将这些技能与 Indeed 上的平均工资进行匹配。Python 和 SQL 位居榜首，在 24,000 份招聘信息中均有提及，平均工资分别为 126,673 美元和 92,457 美元。紧随其后的是 AWS（16,000 个职位列表，平均工资为 140,733 美元）、机器人技术（15,000 美元，117,234 美元）、Linux（13,000 美元，84,939 美元）、Java（11,000 美元，92,177 美元）、JavaScript（9,000 美元，111,620 美元）、Azure（9,000 美元，140,733 美元）、C#（8,000 美元，122,372 美元）和 C++（8,000 美元，126,129 美元）。摘自“雇主最需要的技术技能”
-企业家 (09/10/24) Sherin Shibu 查看全文]]></description>
-      <guid>https://www.entrepreneur.com/business-news/the-most-in-demand-tech-skills-employers-are-looking-for-now/479677</guid>
-      <pubDate>Mon, 16 Sep 2024 18:11:08 GMT</pubDate>
+      <title>马来西亚因担心审查而搁置网络流量重新路由计划</title>
+      <link>https://www.reuters.com/business/media-telecom/malaysia-defends-web-traffic-re-routing-plan-against-online-censorship-concerns-2024-09-08/</link>
+      <description><![CDATA[路透社马来西亚通讯部长 Fahmi Fadzil 表示，从 9 月 30 日起，马来西亚通讯与多媒体委员会 (MCMC) 将不再通过本地域名服务器 (DNS) 重新路由网络流量。该指令将用户请求从第三方 DNS 服务器重定向到马来西亚互联网服务提供商运营的服务器，引发了人们对在线审查和网络安全的担忧。摘自“马来西亚因审查担忧搁置网络流量重新路由计划”
+路透社 (09/08/24) Rozanna Latiff； Xinghui Kok 查看全文]]></description>
+      <guid>https://www.reuters.com/business/media-telecom/malaysia-defends-web-traffic-re-routing-plan-against-online-censorship-concerns-2024-09-08/</guid>
+      <pubDate>Wed, 18 Sep 2024 15:08:57 GMT</pubDate>
     </item>
     <item>
-      <title>Oracle 正在设计一个由三座小型核反应堆驱动的数据中心</title>
-      <link>https://www.cnbc.com/2024/09/10/oracle-is-designing-a-data-center-that-would-be-powered-by-three-small-nuclear-reactors.html</link>
-      <description><![CDATA[CNBC甲骨文联合创始人兼董事长拉里·埃里森表示，该公司正在开发一个由三座小型模块化核反应堆供电的数据中心，因为它需要超过 1 千兆瓦的电力。小型模块化核反应堆旨在加快无碳能源的部署，因为电力需求（包括数据中心的需求）不断增加。核工业高管预计，直到 2030 年代，它们才会在美国实现商业化。摘自“甲骨文正在设计一个由三座小型核反应堆供电的数据中心”
-CNBC (09/10/24) Spencer Kimball 查看全文]]></description>
-      <guid>https://www.cnbc.com/2024/09/10/oracle-is-designing-a-data-center-that-would-be-powered-by-three-small-nuclear-reactors.html</guid>
-      <pubDate>Mon, 16 Sep 2024 18:11:08 GMT</pubDate>
+      <title>PIXHELL 攻击利用 LCD 屏幕噪音窃取隔离计算机的数据</title>
+      <link>https://thehackernews.com/2024/09/new-pixhell-attack-exploits-screen.html</link>
+      <description><![CDATA[黑客新闻以色列本·古里安大学的研究人员发现了一种侧信道攻击，该攻击利用了隔离计算机 LCD 屏幕上像素图案产生的噪音。本·古里安大学的 Mordechai Guri 表示，PIXHELL 攻击“利用线圈和电容器产生的声音来控制屏幕发出的频率。” PIXHELL 使用部署在受感染设备上的恶意软件来创建声学通道，并通过在声学信号中编码来窃取敏感数据。摘自“PIXHELL 攻击利用 LCD 屏幕噪音从隔离计算机中窃取数据”
+The Hacker News (09/10/24) Ravie Lakshmanan 查看全文]]></description>
+      <guid>https://thehackernews.com/2024/09/new-pixhell-attack-exploits-screen.html</guid>
+      <pubDate>Wed, 18 Sep 2024 15:08:57 GMT</pubDate>
     </item>
     <item>
-      <title>制作电子游戏曾是一份理想的职业。但后来大规模裁员来了</title>
-      <link>https://www.wsj.com/lifestyle/careers/making-videogames-was-a-dream-career-then-the-mass-layoffs-came-539d3696</link>
-      <description><![CDATA[《华尔街日报》加州技术艺术家 Farhan Noor 汇编的解雇公告和新闻报道显示，今年电子游戏公司裁员略多于 11,500 人，高于 2023 年的 10,500 人和 2022 年的 8,500 人。裁员可以归因于疫情时期的过度招聘、频繁的在线更新使玩家可以比以前更长时间地继续玩单个游戏、生产和营销成本上升以及行业整合。摘自“制作电子游戏是一项梦想的职业。然后大规模裁员来了”
-《华尔街日报》（09/07/24）Sarah E. Needleman 查看完整文章 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/lifestyle/careers/making-videogames-was-a-dream-career-then-the-mass-layoffs-came-539d3696</guid>
-      <pubDate>Mon, 16 Sep 2024 18:11:07 GMT</pubDate>
+      <title>类脑设备每秒每瓦可执行 4.1 万亿次运算</title>
+      <link>https://interestingengineering.com/innovation/14-bit-breakthrough-brain-like-device-ai</link>
+      <description><![CDATA[有趣的工程一个国际研究团队开发了一种神经形态设备，该设备由分子组成，当施加电荷时，这些分子可以改变其电特性，从而可以操纵材料以集成到电气系统中。研究人员将 14 位神经形态加速器集成到电路板中，实现了每秒每瓦 4.1 万亿次操作的能源效率，使其适用于神经网络训练、自然语言处理和信号处理。摘自“类脑设备达到每秒每瓦 4.1 万亿次操作的大规模”
+有趣的工程 (09/13/24) Rupendra Brahambhatt 查看全文]]></description>
+      <guid>https://interestingengineering.com/innovation/14-bit-breakthrough-brain-like-device-ai</guid>
+      <pubDate>Wed, 18 Sep 2024 15:08:57 GMT</pubDate>
     </item>
     <item>
-      <title>20 美元和失效域名如何让安全专家破坏互联网诚信</title>
-      <link>https://www.theregister.com/2024/09/11/watchtowr_black_hat_whois/</link>
-      <description><![CDATA[The RegisterwatchTowr Labs 的研究人员发现 WHOIS 协议中存在一个漏洞，该漏洞可能会破坏证书颁发机构。他们发现 [.]mobi 的 WHOIS 服务器已从 whois[.]dotmobiregistry[.]net 迁移到 whois[.]nic[.]mobi，他们以 20 美元的价格收购了该过期域名。研究人员随后部署了新的 WHOIS 服务器，并确定了尚未将其客户端更新为新的 nic[.]mobi 地址的用户。一周之内，研究人员报告称有超过 135,000 个独立系统与服务器通信，并发出了超过 250 万次查询。摘自“20 美元和失效域名如何让安全专家破坏互联网完整性”
-The Register (09/11/24) Jessica Lyons 查看全文]]></description>
-      <guid>https://www.theregister.com/2024/09/11/watchtowr_black_hat_whois/</guid>
-      <pubDate>Mon, 16 Sep 2024 18:11:07 GMT</pubDate>
+      <title>谷歌与互联网档案馆合作恢复缓存功能</title>
+      <link>https://gizmodo.com/google-teams-with-the-internet-archive-to-revive-cache-feature-2000497624</link>
+      <description><![CDATA[Gizmodo通过与互联网档案馆合作，谷歌正在将网站的缓存版本链接到互联网档案馆的 Wayback Machine。此前，谷歌在 2 月份删除了一项允许用户查看旧网站存档版本的功能。用户可以照常执行谷歌搜索，点击搜索结果中 URL 旁边的三个点以打开新的浏览器选项卡，然后点击“关于此页面的更多信息”以查看 Wayback 档案的链接。摘自“谷歌与互联网档案馆合作恢复缓存功能”
+Gizmodo (09/11/24) Matthew Gault 查看全文]]></description>
+      <guid>https://gizmodo.com/google-teams-with-the-internet-archive-to-revive-cache-feature-2000497624</guid>
+      <pubDate>Wed, 18 Sep 2024 15:08:56 GMT</pubDate>
     </item>
     <item>
-      <title>科技公司将在 2023 年将商务旅行减少一半，但 Alphabet 和 Apple 落后</title>
-      <link>https://www.reuters.com/technology/tech-firms-halve-business-travel-2023-alphabet-apple-lag-study-shows-2024-09-10/</link>
-      <description><![CDATA[路透社布鲁塞尔运输与环境局（T&amp;E）进行的一项分析显示，2019 年至 2023 年，26 家大型科技公司的企业航班排放量平均下降了 49%，尽管其中只有 7 家公司设定了具体的减排目标。 T&amp;E 的 Denise Auclair 表示：“科技公司长期以来一直声称自己是气候领袖，许多公司已经大幅减少了商务旅行排放，但如果他们想获得信誉，就必须设定减排目标。”摘自“科技公司在 2023 年将商务旅行减半，但 Alphabet 和 Apple 落后”
-路透社 (09/10/24) Dagmarah Mackos 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/tech-firms-halve-business-travel-2023-alphabet-apple-lag-study-shows-2024-09-10/</guid>
-      <pubDate>Mon, 16 Sep 2024 18:11:06 GMT</pubDate>
+      <title>研究称 STEM 领域的性别偏见可能始于幼儿园</title>
+      <link>https://www.forbes.com/sites/kimelsesser/2024/09/13/gender-bias-in-stem-may-start-in-kindergarten-study-says/</link>
+      <description><![CDATA[《福布斯》伊利诺伊大学和路易斯维尔大学研究人员开展的一项研究发现，围绕 STEM 领域的性别刻板印象早在幼儿园时期就已形成。研究人员要求幼儿园至三年级的学生预测五年级学生在复杂科目的具有挑战性的测试中的表现如何；他们发现，“与非 STEM 科目相比，儿童认为女孩学习新奇且困难的 STEM 科目的能力较弱，但他们认为男孩同样有能力学习 STEM 和非 STEM 科目。” 摘自“研究表明，STEM 领域的性别偏见可能始于幼儿园”
+福布斯 (09/13/24) Kim Elsesser 查看全文]]></description>
+      <guid>https://www.forbes.com/sites/kimelsesser/2024/09/13/gender-bias-in-stem-may-start-in-kindergarten-study-says/</guid>
+      <pubDate>Wed, 18 Sep 2024 15:08:56 GMT</pubDate>
     </item>
     <item>
-      <title>可伸缩电子元件助力软体机器人实现嵌入式计算</title>
-      <link>https://interestingengineering.com/innovation/stretchable-electronics-for-soft-robots-created</link>
-      <description><![CDATA[有趣的工程耶鲁大学研究人员开发的可拉伸复杂电路可以将电路板集成到软机器人中。他们设计了一种方法来创建任何复杂双层电路的柔软可拉伸版本。研究人员采用这种方法生产了市售的 Arduino Pro Mini、Arduino Lilypad、Sparkfun 声音探测器以及 Sparkfun RGB 和手势传感器的可拉伸版本。摘自“用于软机器人的可拉伸电子设备可实现嵌入式计算”
-有趣的工程 (09/11/24) Mrigakshi Dixit 查看全文]]></description>
-      <guid>https://interestingengineering.com/innovation/stretchable-electronics-for-soft-robots-created</guid>
-      <pubDate>Mon, 16 Sep 2024 18:11:06 GMT</pubDate>
+      <title>调查：大多数美国人不相信人工智能提供的选举信息</title>
+      <link>https://apnews.com/article/ai-chatbots-misinformation-voting-election-2024-7131822c0f2ebe843b4c7e3cb111a3d3</link>
+      <description><![CDATA[美联社美联社-NORC 公共事务研究中心和 USAFacts 的一项调查发现，三分之二 (67%) 的美国成年人对人工智能聊天机器人或搜索引擎提供真实、可靠的信息缺乏信心。在调查的 1,019 名受访者中，25% 的人认为使用人工智能将使查找有关 2024 年大选的事实信息变得“非常”或“有点”困难。只有 16% 的受访者认为人工智能将使查找准确的选举信息变得更容易。摘自“调查：大多数美国人不相信人工智能提供的选举信息”
+美联社 (09/12/24) Ali Swenson；林利·桑德斯 查看全文]]></description>
+      <guid>https://apnews.com/article/ai-chatbots-misinformation-voting-election-2024-7131822c0f2ebe843b4c7e3cb111a3d3</guid>
+      <pubDate>Wed, 18 Sep 2024 15:08:55 GMT</pubDate>
     </item>
     <item>
-      <title>L&T 参与芯片开发，印度半导体雄心勃勃</title>
-      <link>https://www.bloomberg.com/news/articles/2024-09-11/india-semiconductor-ambition-grows-with-l-t-joining-chip-effort</link>
-      <description><![CDATA[彭博社印度企业集团 Larsen &amp; Toubro Ltd. (L&amp;T) 是最新进入该国半导体行业的企业，计划在三年内投资超过 3 亿美元创建一家无晶圆厂芯片制造商。 L&amp;T Semiconductor Technologies 的 Sandeep Kumar 表示，预计到今年年底将有 15 种产品设计，并于 2027 年开始销售。L&amp;T 将专注于电源芯片、射频半导体和混合信号集成电路。摘自“L&amp;T 加入芯片行业，印度半导体雄心壮志不断增长”
-彭博社 (09/10/24) Sankalp Phartiyal 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-09-11/india-semiconductor-ambition-grows-with-l-t-joining-chip-effort</guid>
-      <pubDate>Mon, 16 Sep 2024 18:11:05 GMT</pubDate>
+      <title>科技团体中的女性“不能仅靠灵感”</title>
+      <link>https://www.bbc.com/news/articles/c7858w2yj75o</link>
+      <description><![CDATA[BBC艾达·洛夫莱斯日是全球每年为 STEM 领域女性工作者举办的庆祝活动，但该活动的资金可能很快就会用完。创始人兼主席 Suw Charman-Anderson 表示，科技界普遍认为艾达·洛夫莱斯日鼓舞人心，但“组织不能仅靠灵感来运作。STEM 领域的女性都在为钱而挣扎。这种情况一直存在，但似乎变得更糟了。”摘自“科技界女性团体‘不能仅靠灵感来运作’”
+BBC (09/15/24) Zoe Kleinman 查看全文]]></description>
+      <guid>https://www.bbc.com/news/articles/c7858w2yj75o</guid>
+      <pubDate>Wed, 18 Sep 2024 15:08:55 GMT</pubDate>
     </item>
     <item>
-      <title>运营技术容易受到网络攻击</title>
-      <link>https://www.infosecurity-magazine.com/news/ot-open-cyberattack/</link>
-      <description><![CDATA[Infosecurity MagazineTeam82 安全研究人员分析了来自 50,000 多台支持远程访问的设备的数据，并确定不受控制地使用远程访问工具 (RAT) 对运营技术 (OT) 构成危险。研究人员发现 55% 的组织使用至少四种 RAT，另有 33% 的组织使用六种或更多。研究人员建议在 OT 和工业控制系统中集中管理 RAT，并采用通用访问控制策略。摘自“运营技术容易受到网络攻击”
-Infosecurity Magazine (09/11/24) Stephen Pritchard 查看全文]]></description>
-      <guid>https://www.infosecurity-magazine.com/news/ot-open-cyberattack/</guid>
-      <pubDate>Mon, 16 Sep 2024 18:11:05 GMT</pubDate>
+      <title>SEC 手机如何预示股价即将下跌</title>
+      <link>https://www.ft.com/content/d4f725ee-9923-4e37-bbfc-b040f519476c</link>
+      <description><![CDATA[《金融时报》四所美国中西部大学的研究人员通过手机定位数据发现，美国证券交易委员会 (SEC) 工作人员访问上市公司总部与公司股价大幅下跌有关。该研究追踪了在 SEC 办公室停留时间较长以及访问全球公司总部的手机。虽然 84% 的访问对象是从未披露正在接受调查的集团，但在 SEC 访问后的三个月内，其股价比大盘低 1.94%。摘自“SEC 手机如何预示股价即将下跌”
+金融时报 (09/13/24) Brooke Masters 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.ft.com/content/d4f725ee-9923-4e37-bbfc-b040f519476c</guid>
+      <pubDate>Wed, 18 Sep 2024 15:08:54 GMT</pubDate>
     </item>
     <item>
-      <title>中国年轻移民面临美国签证抽签</title>
-      <link>https://www.nytimes.com/2024/09/12/business/chinese-h1b-visa.html</link>
-      <description><![CDATA[《纽约时报》许多来美国接受教育并希望留下来的中国移民发现，很难获得 H-1B 工作签证。美国政府每年通过抽签程序发放 85,000 份 H-1B 签证，但注册人数从 2023 财年的 480,000 人激增至 2024 财年的 780,000 人。中美紧张关系也带来挑战。摘自《中国年轻移民面临美国签证抽签》
+      <title>微软机器人拆卸并回收硬盘</title>
+      <link>https://www.tomshardware.com/pc-components/hdds/microsoft-uses-robots-to-disassemble-and-recycle-hdds-company-typically-shreds-two-million-hard-drives-per-year</link>
+      <description><![CDATA[Tom&#39;s Hardware微软开发了用于拆卸硬盘驱动器 (HDD) 的机器人，以便回收其组件。机器人系统可以识别不同类型的 HDD、找到螺钉、破坏承载数据的盘片，并回收印刷电路板和磁铁等贵重部件以供再利用。据报道，微软在 2022 年销毁了 200 万块硬盘，但其新推出的“NoShred”计划旨在到 2025 年重新使用和回收 90% 的硬盘。摘自“微软机器人拆卸、回收硬盘”
+Tom&#39;s Hardware (09/13/24) Anton Shilov 查看全文]]></description>
+      <guid>https://www.tomshardware.com/pc-components/hdds/microsoft-uses-robots-to-disassemble-and-recycle-hdds-company-typically-shreds-two-million-hard-drives-per-year</guid>
+      <pubDate>Wed, 18 Sep 2024 15:08:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>英特尔达成 35 亿美元军用芯片生产协议</title>
+      <link>https://www.bloomberg.com/news/articles/2024-09-13/intel-solidifies-3-5-billion-deal-to-make-chips-for-us-military</link>
+      <description><![CDATA[彭博社据报道，英特尔公司已与美国政府达成一项具有约束力的协议，为五角大楼生产半导体。消息人士称，英特尔可能会获得高达 35 亿美元的联邦拨款，作为安全飞地计划的一部分，该计划旨在提高具有军事和情报应用的先进芯片的生产。安全飞地资金将是英特尔今年早些时候根据《芯片和科学法案》获得的潜在 85 亿美元拨款和 110 亿美元贷款的补充。摘自“英特尔巩固 35 亿美元交易，为军方制造芯片”
+彭博社 (09/13/24) Mackenzie Hawkins； Ian King 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-09-13/intel-solidifies-3-5-billion-deal-to-make-chips-for-us-military</guid>
+      <pubDate>Wed, 18 Sep 2024 15:08:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>瑞士推出超级计算机“Alps”，排名世界第六</title>
+      <link>https://www.euronews.com/next/2024/09/15/switzerland-unveils-new-supercomputer-alps-already-ranked-sixth-in-the-world</link>
+      <description><![CDATA[Euronews瑞士国家超级计算中心 (CSCS) 的新阿尔卑斯超级计算机在 6 月份的 Top 500 全球超级计算机排名中名列第六。CSCS 主任 Thomas Schulthess 表示，这台超级计算机的高功耗意味着其运行成本在 1500 万至 2000 万瑞士法郎（1500 万至 2100 万欧元）之间。 Alps 一天内就能完成一台标准笔记本电脑需要 4 万年才能完成的计算。摘自“瑞士推出超级计算机‘Alps’，已位居世界第六”
+Euronews (09/15/24) 查看全文]]></description>
+      <guid>https://www.euronews.com/next/2024/09/15/switzerland-unveils-new-supercomputer-alps-already-ranked-sixth-in-the-world</guid>
+      <pubDate>Wed, 18 Sep 2024 15:08:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能先驱呼吁防范“灾难性风险”</title>
+      <link>https://www.nytimes.com/2024/09/16/business/china-ai-safety.html</link>
+      <description><![CDATA[《纽约时报》图灵奖获得者 Yoshua Bengio、Andrew Yao 和 Geoffrey Hinton 等一批 AI 先驱于 9 月 16 日发表声明，表示他们担心这项技术的能力可能在几年内超越其创造者，从而“给全人类带来灾难性后果”。他们还建议各国建立 AI 安全机构，在其境内注册 AI 系统，并合作确定该技术的红线和警告信号。摘自“AI 先驱呼吁防范‘灾难性风险’”
+《纽约时报》（2024 年 9 月 16 日）Meaghan Tobin 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/09/16/business/china-ai-safety.html</guid>
+      <pubDate>Wed, 18 Sep 2024 15:08:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>半导体公司与学术界合作弥补技能差距</title>
+      <link>https://www.entrepreneur.com/en-in/technology/semiconductor-companies-partner-with-academia-to-bridge/479886</link>
+      <description><![CDATA[印度企业家TeamLease Degree Apprenticeship 的一项研究预测，到 2027 年，印度半导体行业将缺少 25 万至 30 万名专业人才。为了弥补这一预期的技能差距，印度的半导体公司正在与学术机构合作。应用材料印度公司正在与印度理工学院等机构合作，开发针对特定工作角色和技能的课程。 Lam Research 与印度半导体代表团和印度科学研究所签署了一份谅解备忘录，将通过该备忘录捐赠近 2900 万美元的软件许可，用于培训 2,800 名学生。摘自“半导体公司与学术界合作弥补技能差距”
 
-纽约时报 (09/12/24) 李源 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/09/12/business/chinese-h1b-visa.html</guid>
-      <pubDate>Mon, 16 Sep 2024 18:11:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>英飞凌推出 12 英寸 GaN 功率芯片晶圆技术</title>
-      <link>https://asia.nikkei.com/Business/Tech/Semiconductors/Infineon-unveils-world-s-first-12-inch-GaN-power-chip-wafer-tech</link>
-      <description><![CDATA[日经亚洲英飞凌表示，已开发出 12 英寸氮化镓 (GaN) 晶圆技术，该技术可容纳的芯片数量是当前行业标准 8 英寸晶圆的 2.3 倍。英飞凌指出，GaN 芯片可在制造硅芯片的同一设备上生产。英飞凌的 Adam White 表示：“我们看到该技术在工业、消费、计算应用以及人工智能 [数据中心] 电源等领域的应用，并且“在机器人技术领域的应用也日益广泛。”摘自“英飞凌推出 12 英寸 GaN 功率芯片晶圆技术”
-日经亚洲 (09/11/24) 郑廷芳 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://asia.nikkei.com/Business/Tech/Semiconductors/Infineon-unveils-world-s-first-12-inch-GaN-power-chip-wafer-tech</guid>
-      <pubDate>Mon, 16 Sep 2024 18:11:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着量子计算威胁迫在眉睫，微软更新其核心加密库</title>
-      <link>https://arstechnica.com/security/2024/09/microsoft-adds-quantum-resistant-algorithms-to-its-core-crypto-library/</link>
-      <description><![CDATA[Ars Technica微软更新了 SymCrypt 加密库，添加了两种新的加密算法，以抵御来自量子计算机的攻击。新算法是 ML-KEM（带错误密钥封装的模块学习），这是美国国家标准与技术研究所 (NIST) 于 8 月正式制定的三个后量子标准之一，以及 NIST 推荐的 XMSS（扩展 Merkle 签名方案）。摘自“随着量子计算威胁的迫近，微软更新了其核心加密库”
-Ars Technica (09/11/24) Dan Goodin 查看全文]]></description>
-      <guid>https://arstechnica.com/security/2024/09/microsoft-adds-quantum-resistant-algorithms-to-its-core-crypto-library/</guid>
-      <pubDate>Mon, 16 Sep 2024 18:11:03 GMT</pubDate>
+Entrepreneur India (09/16/24) Ayushman Baruah 查看全文]]></description>
+      <guid>https://www.entrepreneur.com/en-in/technology/semiconductor-companies-partner-with-academia-to-bridge/479886</guid>
+      <pubDate>Wed, 18 Sep 2024 15:08:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
