@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Wed, 18 Sep 2024 06:12:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 09:10:01 GMT</lastBuildDate>
+    <item>
+      <title>大多数美国青少年使用生成式人工智能。但他们的大多数父母并不知道</title>
+      <link>https://www.wired.com/story/teens-generative-ai-use-schools-parents/</link>
+      <description><![CDATA[一项新闻调查显示，近几个月来，高中生对人工智能的使用呈爆炸式增长，教育工作者和家长都难以跟上这一趋势。]]></description>
+      <guid>https://www.wired.com/story/teens-generative-ai-use-schools-parents/</guid>
+      <pubDate>Wed, 18 Sep 2024 09:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI 威胁禁止调查其“草莓”人工智能模型的用户</title>
       <link>https://www.wired.com/story/openai-threatens-bans-as-users-probe-o1-model/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[欧洲法院已命令苹果公司向爱尔兰补缴数十亿美元的税款，此举标志着欧盟委员会在打击爱尔兰与大型科技公司之间所谓的“私下交易”方面取得了胜利。]]></description>
       <guid>https://www.wired.com/story/apples-tax-bust-up-in-ireland-is-a-warning-to-big-tech/</guid>
       <pubDate>Tue, 10 Sep 2024 11:31:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>旧金山湾水下数据中心？监管机构称不会这么快实施</title>
-      <link>https://www.wired.com/story/networkocean-datacenter-san-francisco-bay-environment/</link>
-      <description><![CDATA[YC 支持的创业公司 NetworkOcean 计划将 GPU 沉入旧金山湾。WIRED 采访的多名加州监管机构尚未听说过这项测试，并对其可能对环境造成的影响表示担忧。]]></description>
-      <guid>https://www.wired.com/story/networkocean-datacenter-san-francisco-bay-environment/</guid>
-      <pubDate>Tue, 10 Sep 2024 11:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
