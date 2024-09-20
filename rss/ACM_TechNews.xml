@@ -4,111 +4,103 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Wed, 18 Sep 2024 15:08:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 15:08:18 GMT</lastBuildDate>
     <item>
-      <title>马来西亚因担心审查而搁置网络流量重新路由计划</title>
-      <link>https://www.reuters.com/business/media-telecom/malaysia-defends-web-traffic-re-routing-plan-against-online-censorship-concerns-2024-09-08/</link>
-      <description><![CDATA[路透社马来西亚通讯部长 Fahmi Fadzil 表示，从 9 月 30 日起，马来西亚通讯与多媒体委员会 (MCMC) 将不再通过本地域名服务器 (DNS) 重新路由网络流量。该指令将用户请求从第三方 DNS 服务器重定向到马来西亚互联网服务提供商运营的服务器，引发了人们对在线审查和网络安全的担忧。摘自“马来西亚因审查担忧搁置网络流量重新路由计划”
-路透社 (09/08/24) Rozanna Latiff； Xinghui Kok 查看全文]]></description>
-      <guid>https://www.reuters.com/business/media-telecom/malaysia-defends-web-traffic-re-routing-plan-against-online-censorship-concerns-2024-09-08/</guid>
-      <pubDate>Wed, 18 Sep 2024 15:08:57 GMT</pubDate>
+      <title>聊天机器人让人们远离阴谋论</title>
+      <link>https://www.nytimes.com/2024/09/12/health/chatbot-debunk-conspiracy-theories.html</link>
+      <description><![CDATA[《纽约时报》康奈尔大学研究人员开发的 AI 聊天机器人旨在说服用户停止相信阴谋论。在他们的研究中，超过 2,000 名美国成年人被要求描述他们所相信的阴谋论；随后，其中一些人与 DebunkBot 进行了讨论，在讨论中，他们提供了支持其立场的证据，DebunkBot 提供了信息来反驳他们的错误信息。在与 DebunkBot 进行三次交流后，参与者的信念评级下降了约 20%，约 25% 的参与者不再相信阴谋论。摘自“聊天机器人让人们远离阴谋论”
+纽约时报 (09/13/24) Teddy Rosenbluth 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/09/12/health/chatbot-debunk-conspiracy-theories.html</guid>
+      <pubDate>Fri, 20 Sep 2024 15:08:18 GMT</pubDate>
     </item>
     <item>
-      <title>PIXHELL 攻击利用 LCD 屏幕噪音窃取隔离计算机的数据</title>
-      <link>https://thehackernews.com/2024/09/new-pixhell-attack-exploits-screen.html</link>
-      <description><![CDATA[黑客新闻以色列本·古里安大学的研究人员发现了一种侧信道攻击，该攻击利用了隔离计算机 LCD 屏幕上像素图案产生的噪音。本·古里安大学的 Mordechai Guri 表示，PIXHELL 攻击“利用线圈和电容器产生的声音来控制屏幕发出的频率。” PIXHELL 使用部署在受感染设备上的恶意软件来创建声学通道，并通过在声学信号中编码来窃取敏感数据。摘自“PIXHELL 攻击利用 LCD 屏幕噪音从隔离计算机中窃取数据”
-The Hacker News (09/10/24) Ravie Lakshmanan 查看全文]]></description>
-      <guid>https://thehackernews.com/2024/09/new-pixhell-attack-exploits-screen.html</guid>
-      <pubDate>Wed, 18 Sep 2024 15:08:57 GMT</pubDate>
+      <title>Apple Vision Pro 的眼动追踪功能揭示了人们的打字方式</title>
+      <link>https://www.wired.com/story/apple-vision-pro-persona-eye-tracking-spy-typing/</link>
+      <description><![CDATA[Wired来自佛罗里达大学、德克萨斯理工大学和区块链安全公司 CertiK 的计算机科学家证明，黑客可以用眼睛破译 Apple Vision Pro 混合现实耳机用户输入的字母。GAZEploit 漏洞涉及一个循环神经网络，该网络会分析用户的 3D 头像以识别他们何时输入，并进行几何计算以确定用户的键盘位置和大小。Apple 已修复此漏洞。摘自“Apple Vision Pro 的眼动追踪揭示了人们输入的内容”
+Wired (09/12/24) Matt Burgess 查看全文]]></description>
+      <guid>https://www.wired.com/story/apple-vision-pro-persona-eye-tracking-spy-typing/</guid>
+      <pubDate>Fri, 20 Sep 2024 15:08:18 GMT</pubDate>
     </item>
     <item>
-      <title>类脑设备每秒每瓦可执行 4.1 万亿次运算</title>
-      <link>https://interestingengineering.com/innovation/14-bit-breakthrough-brain-like-device-ai</link>
-      <description><![CDATA[有趣的工程一个国际研究团队开发了一种神经形态设备，该设备由分子组成，当施加电荷时，这些分子可以改变其电特性，从而可以操纵材料以集成到电气系统中。研究人员将 14 位神经形态加速器集成到电路板中，实现了每秒每瓦 4.1 万亿次操作的能源效率，使其适用于神经网络训练、自然语言处理和信号处理。摘自“类脑设备达到每秒每瓦 4.1 万亿次操作的大规模”
-有趣的工程 (09/13/24) Rupendra Brahambhatt 查看全文]]></description>
-      <guid>https://interestingengineering.com/innovation/14-bit-breakthrough-brain-like-device-ai</guid>
-      <pubDate>Wed, 18 Sep 2024 15:08:57 GMT</pubDate>
+      <title>夏威夷更多学校开设计算机科学课程，但并非所有学生都能从中受益</title>
+      <link>https://www.civilbeat.org/2024/09/more-hawaii-schools-are-offering-computer-science-but-are-all-students-benefitting/</link>
+      <description><![CDATA[檀香山民意调查到 2024-25 学年结束，所有夏威夷学校都必须开设至少一门计算机科学课程。去年，大约 75% 的夏威夷学校达到了这一标准。然而，小型学校很难聘请教职员工教授新课程，而对于一些农村地区的学生来说，使用电脑或互联网完成家庭作业仍然是一个问题。摘自“更多夏威夷学校提供计算机科学，但并非所有学生都能受益”
+檀香山民意调查 (09/16/24) Megan Tagami 查看全文]]></description>
+      <guid>https://www.civilbeat.org/2024/09/more-hawaii-schools-are-offering-computer-science-but-are-all-students-benefitting/</guid>
+      <pubDate>Fri, 20 Sep 2024 15:08:17 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌与互联网档案馆合作恢复缓存功能</title>
-      <link>https://gizmodo.com/google-teams-with-the-internet-archive-to-revive-cache-feature-2000497624</link>
-      <description><![CDATA[Gizmodo通过与互联网档案馆合作，谷歌正在将网站的缓存版本链接到互联网档案馆的 Wayback Machine。此前，谷歌在 2 月份删除了一项允许用户查看旧网站存档版本的功能。用户可以照常执行谷歌搜索，点击搜索结果中 URL 旁边的三个点以打开新的浏览器选项卡，然后点击“关于此页面的更多信息”以查看 Wayback 档案的链接。摘自“谷歌与互联网档案馆合作恢复缓存功能”
-Gizmodo (09/11/24) Matthew Gault 查看全文]]></description>
-      <guid>https://gizmodo.com/google-teams-with-the-internet-archive-to-revive-cache-feature-2000497624</guid>
-      <pubDate>Wed, 18 Sep 2024 15:08:56 GMT</pubDate>
+      <title>牛津离子学大幅减少量子误差</title>
+      <link>https://interestingengineering.com/science/oxford-ionics-sets-new-world-record</link>
+      <description><![CDATA[有趣的工程据报道，牛津离子学研究人员开发的一种识别和拒绝错误量子比特的协议创造了量子态制备和测量 (SPAM) 的新世界纪录。与目前最好的方法相比，新协议将 SPAM 错误减少了 13 倍。该协议融合了标准 SPAM 方法和中路非拆除测量。摘自“牛津离子学削减量子错误”
+有趣的工程 (09/15/24) Rupendra Brahambhatt 查看全文]]></description>
+      <guid>https://interestingengineering.com/science/oxford-ionics-sets-new-world-record</guid>
+      <pubDate>Fri, 20 Sep 2024 15:08:17 GMT</pubDate>
     </item>
     <item>
-      <title>研究称 STEM 领域的性别偏见可能始于幼儿园</title>
-      <link>https://www.forbes.com/sites/kimelsesser/2024/09/13/gender-bias-in-stem-may-start-in-kindergarten-study-says/</link>
-      <description><![CDATA[《福布斯》伊利诺伊大学和路易斯维尔大学研究人员开展的一项研究发现，围绕 STEM 领域的性别刻板印象早在幼儿园时期就已形成。研究人员要求幼儿园至三年级的学生预测五年级学生在复杂科目的具有挑战性的测试中的表现如何；他们发现，“与非 STEM 科目相比，儿童认为女孩学习新奇且困难的 STEM 科目的能力较弱，但他们认为男孩同样有能力学习 STEM 和非 STEM 科目。” 摘自“研究表明，STEM 领域的性别偏见可能始于幼儿园”
-福布斯 (09/13/24) Kim Elsesser 查看全文]]></description>
-      <guid>https://www.forbes.com/sites/kimelsesser/2024/09/13/gender-bias-in-stem-may-start-in-kindergarten-study-says/</guid>
-      <pubDate>Wed, 18 Sep 2024 15:08:56 GMT</pubDate>
+      <title>Chipotle 机器人帮助制作鳄梨酱</title>
+      <link>https://www.reuters.com/business/retail-consumer/chipotle-adds-automation-autocado-robot-helps-make-guacamole-2024-09-16/</link>
+      <description><![CDATA[路透社Chipotle 在加州的两家门店部署了一台自动碗装沙拉机和一台鳄梨加工机器人。“增强型制作线”将把米饭、玉米、生菜和其他食材分装到柜台下面的碗中，同时员工继续制作墨西哥卷饼和玉米饼，添加配菜，并监控机器的性能。“自动鳄梨机”会切割、去核和剥皮鳄梨，员工将用它们制作鳄梨酱。摘自“Chipotle 机器人帮助制作鳄梨酱”
+路透社 (09/16/24) Waylon Cunningham 查看全文]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/chipotle-adds-automation-autocado-robot-helps-make-guacamole-2024-09-16/</guid>
+      <pubDate>Fri, 20 Sep 2024 15:08:16 GMT</pubDate>
     </item>
     <item>
-      <title>调查：大多数美国人不相信人工智能提供的选举信息</title>
-      <link>https://apnews.com/article/ai-chatbots-misinformation-voting-election-2024-7131822c0f2ebe843b4c7e3cb111a3d3</link>
-      <description><![CDATA[美联社美联社-NORC 公共事务研究中心和 USAFacts 的一项调查发现，三分之二 (67%) 的美国成年人对人工智能聊天机器人或搜索引擎提供真实、可靠的信息缺乏信心。在调查的 1,019 名受访者中，25% 的人认为使用人工智能将使查找有关 2024 年大选的事实信息变得“非常”或“有点”困难。只有 16% 的受访者认为人工智能将使查找准确的选举信息变得更容易。摘自“调查：大多数美国人不相信人工智能提供的选举信息”
-美联社 (09/12/24) Ali Swenson；林利·桑德斯 查看全文]]></description>
-      <guid>https://apnews.com/article/ai-chatbots-misinformation-voting-election-2024-7131822c0f2ebe843b4c7e3cb111a3d3</guid>
-      <pubDate>Wed, 18 Sep 2024 15:08:55 GMT</pubDate>
+      <title>研究人员在笔记本电脑上运行小型人工智能</title>
+      <link>https://www.nature.com/articles/d41586-024-02998-y</link>
+      <description><![CDATA[Nature研究人员越来越多地能够在笔记本电脑上运行本地 AI 系统。与此同时，包括 Google DeepMind、Meta、Microsoft 和 Allen 人工智能研究所在内的科技公司和研究机构都提供了可在本地下载和运行的大型语言模型的小型和开放版本，以及可在消费硬件上运行的缩小版。本地 AI 成本较低，允许对开放模型进行微调以针对重点应用进行微调，并保护数据隐私。摘自“研究人员在笔记本电脑上运行小型 AI”
+Nature (09/16/24) Matthew Hutson 查看全文]]></description>
+      <guid>https://www.nature.com/articles/d41586-024-02998-y</guid>
+      <pubDate>Fri, 20 Sep 2024 15:08:16 GMT</pubDate>
     </item>
     <item>
-      <title>科技团体中的女性“不能仅靠灵感”</title>
-      <link>https://www.bbc.com/news/articles/c7858w2yj75o</link>
-      <description><![CDATA[BBC艾达·洛夫莱斯日是全球每年为 STEM 领域女性工作者举办的庆祝活动，但该活动的资金可能很快就会用完。创始人兼主席 Suw Charman-Anderson 表示，科技界普遍认为艾达·洛夫莱斯日鼓舞人心，但“组织不能仅靠灵感来运作。STEM 领域的女性都在为钱而挣扎。这种情况一直存在，但似乎变得更糟了。”摘自“科技界女性团体‘不能仅靠灵感来运作’”
-BBC (09/15/24) Zoe Kleinman 查看全文]]></description>
-      <guid>https://www.bbc.com/news/articles/c7858w2yj75o</guid>
-      <pubDate>Wed, 18 Sep 2024 15:08:55 GMT</pubDate>
+      <title>Wi-Fi 世界纪录比之前最佳纪录高出近 5 倍</title>
+      <link>https://www.tomshardware.com/networking/halow-wi-fi-has-now-been-tested-at-99-miles-new-wi-fi-world-record-is-a-near-5x-increase-over-previous-best</link>
+      <description><![CDATA[Tom&#39;s Hardware澳大利亚 Morse Micro 公司的研究人员利用 HaLow（802.11ah）标准打破了他们之前创造的 Wi-Fi 覆盖范围世界纪录，在加利福尼亚州约书亚树国家公园的一次视频通话中，在 9.9 英里的距离上实现了每秒 2 兆比特的连接速度。测试表明，HaLow 可能适合在城市地区以外进行户外工作的用户，因为这些地方的蜂窝覆盖范围较差，蜂窝数据费用较高。摘自“Wi-Fi 世界纪录接近之前最佳纪录的 5 倍”
+Tom&#39;s Hardware (09/15/24) Christopher Harper 查看全文]]></description>
+      <guid>https://www.tomshardware.com/networking/halow-wi-fi-has-now-been-tested-at-99-miles-new-wi-fi-world-record-is-a-near-5x-increase-over-previous-best</guid>
+      <pubDate>Fri, 20 Sep 2024 15:08:15 GMT</pubDate>
     </item>
     <item>
-      <title>SEC 手机如何预示股价即将下跌</title>
-      <link>https://www.ft.com/content/d4f725ee-9923-4e37-bbfc-b040f519476c</link>
-      <description><![CDATA[《金融时报》四所美国中西部大学的研究人员通过手机定位数据发现，美国证券交易委员会 (SEC) 工作人员访问上市公司总部与公司股价大幅下跌有关。该研究追踪了在 SEC 办公室停留时间较长以及访问全球公司总部的手机。虽然 84% 的访问对象是从未披露正在接受调查的集团，但在 SEC 访问后的三个月内，其股价比大盘低 1.94%。摘自“SEC 手机如何预示股价即将下跌”
-金融时报 (09/13/24) Brooke Masters 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.ft.com/content/d4f725ee-9923-4e37-bbfc-b040f519476c</guid>
-      <pubDate>Wed, 18 Sep 2024 15:08:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软机器人拆卸并回收硬盘</title>
-      <link>https://www.tomshardware.com/pc-components/hdds/microsoft-uses-robots-to-disassemble-and-recycle-hdds-company-typically-shreds-two-million-hard-drives-per-year</link>
-      <description><![CDATA[Tom&#39;s Hardware微软开发了用于拆卸硬盘驱动器 (HDD) 的机器人，以便回收其组件。机器人系统可以识别不同类型的 HDD、找到螺钉、破坏承载数据的盘片，并回收印刷电路板和磁铁等贵重部件以供再利用。据报道，微软在 2022 年销毁了 200 万块硬盘，但其新推出的“NoShred”计划旨在到 2025 年重新使用和回收 90% 的硬盘。摘自“微软机器人拆卸、回收硬盘”
-Tom&#39;s Hardware (09/13/24) Anton Shilov 查看全文]]></description>
-      <guid>https://www.tomshardware.com/pc-components/hdds/microsoft-uses-robots-to-disassemble-and-recycle-hdds-company-typically-shreds-two-million-hard-drives-per-year</guid>
-      <pubDate>Wed, 18 Sep 2024 15:08:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>英特尔达成 35 亿美元军用芯片生产协议</title>
-      <link>https://www.bloomberg.com/news/articles/2024-09-13/intel-solidifies-3-5-billion-deal-to-make-chips-for-us-military</link>
-      <description><![CDATA[彭博社据报道，英特尔公司已与美国政府达成一项具有约束力的协议，为五角大楼生产半导体。消息人士称，英特尔可能会获得高达 35 亿美元的联邦拨款，作为安全飞地计划的一部分，该计划旨在提高具有军事和情报应用的先进芯片的生产。安全飞地资金将是英特尔今年早些时候根据《芯片和科学法案》获得的潜在 85 亿美元拨款和 110 亿美元贷款的补充。摘自“英特尔巩固 35 亿美元交易，为军方制造芯片”
-彭博社 (09/13/24) Mackenzie Hawkins； Ian King 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-09-13/intel-solidifies-3-5-billion-deal-to-make-chips-for-us-military</guid>
-      <pubDate>Wed, 18 Sep 2024 15:08:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>瑞士推出超级计算机“Alps”，排名世界第六</title>
-      <link>https://www.euronews.com/next/2024/09/15/switzerland-unveils-new-supercomputer-alps-already-ranked-sixth-in-the-world</link>
-      <description><![CDATA[Euronews瑞士国家超级计算中心 (CSCS) 的新阿尔卑斯超级计算机在 6 月份的 Top 500 全球超级计算机排名中名列第六。CSCS 主任 Thomas Schulthess 表示，这台超级计算机的高功耗意味着其运行成本在 1500 万至 2000 万瑞士法郎（1500 万至 2100 万欧元）之间。 Alps 一天内就能完成一台标准笔记本电脑需要 4 万年才能完成的计算。摘自“瑞士推出超级计算机‘Alps’，已位居世界第六”
-Euronews (09/15/24) 查看全文]]></description>
-      <guid>https://www.euronews.com/next/2024/09/15/switzerland-unveils-new-supercomputer-alps-already-ranked-sixth-in-the-world</guid>
-      <pubDate>Wed, 18 Sep 2024 15:08:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能先驱呼吁防范“灾难性风险”</title>
-      <link>https://www.nytimes.com/2024/09/16/business/china-ai-safety.html</link>
-      <description><![CDATA[《纽约时报》图灵奖获得者 Yoshua Bengio、Andrew Yao 和 Geoffrey Hinton 等一批 AI 先驱于 9 月 16 日发表声明，表示他们担心这项技术的能力可能在几年内超越其创造者，从而“给全人类带来灾难性后果”。他们还建议各国建立 AI 安全机构，在其境内注册 AI 系统，并合作确定该技术的红线和警告信号。摘自“AI 先驱呼吁防范‘灾难性风险’”
-《纽约时报》（2024 年 9 月 16 日）Meaghan Tobin 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/09/16/business/china-ai-safety.html</guid>
-      <pubDate>Wed, 18 Sep 2024 15:08:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>半导体公司与学术界合作弥补技能差距</title>
-      <link>https://www.entrepreneur.com/en-in/technology/semiconductor-companies-partner-with-academia-to-bridge/479886</link>
-      <description><![CDATA[印度企业家TeamLease Degree Apprenticeship 的一项研究预测，到 2027 年，印度半导体行业将缺少 25 万至 30 万名专业人才。为了弥补这一预期的技能差距，印度的半导体公司正在与学术机构合作。应用材料印度公司正在与印度理工学院等机构合作，开发针对特定工作角色和技能的课程。 Lam Research 与印度半导体代表团和印度科学研究所签署了一份谅解备忘录，将通过该备忘录捐赠近 2900 万美元的软件许可，用于培训 2,800 名学生。摘自“半导体公司与学术界合作弥补技能差距”
+      <title>互联网档案馆可以保存数字历史吗？</title>
+      <link>https://www.bbc.com/future/article/20240912-the-archivists-battling-to-save-the-internet</link>
+      <description><![CDATA[BBC互联网档案馆正在努力保存数字历史，迄今为止已收集了 8660 亿个网页、4400 万本书籍和 1060 万个电影和电视节目视频等。其努力受到财务问题、知识产权法律挑战、技术问题和网络攻击的阻碍。弗吉尼亚大学的马尔·希克斯 (Mar Hicks) 表示，分散的互联网保存工作的另一个问题是档案组织的“优先事项各异”，这些组织独立运营，主要由业余爱好者和志愿者运营。摘自“互联网档案馆能保存数字历史吗？”
 
-Entrepreneur India (09/16/24) Ayushman Baruah 查看全文]]></description>
-      <guid>https://www.entrepreneur.com/en-in/technology/semiconductor-companies-partner-with-academia-to-bridge/479886</guid>
-      <pubDate>Wed, 18 Sep 2024 15:08:52 GMT</pubDate>
+BBC (09/16/24) Chris Stokel-Walker 查看全文]]></description>
+      <guid>https://www.bbc.com/future/article/20240912-the-archivists-battling-to-save-the-internet</guid>
+      <pubDate>Fri, 20 Sep 2024 15:08:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>加州州长签署法律，严厉打击选举伪造行为</title>
+      <link>https://apnews.com/article/california-artificial-intelligence-deepfakes-election-0e70cb32b06d9187eaef5bdacaba6d77</link>
+      <description><![CDATA[美联社9 月 17 日，加州州长加文·纽瑟姆签署法律，禁止在选举日前 120 天和选举日后 60 天内制作和发布与选举相关的深度伪造视频，同时允许法院阻止其传播并施加民事处罚。纽森签署的其他法案将要求大型社交媒体平台删除深度伪造，并要求政治竞选活动公开披露是否投放了包含人工智能修改材料的广告。摘自“加州州长签署法律打击选举深度伪造”
+美联社 (09/17/24) Tran Nguyen 查看全文]]></description>
+      <guid>https://apnews.com/article/california-artificial-intelligence-deepfakes-election-0e70cb32b06d9187eaef5bdacaba6d77</guid>
+      <pubDate>Fri, 20 Sep 2024 15:08:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>研究人员超越数字计算</title>
+      <link>https://www.economist.com/technology-quarterly/2024/09/16/researchers-are-looking-beyond-digital-computing</link>
+      <description><![CDATA[《经济学人》加州大学伯克利分校的研究人员发现，在过去二十年中，处理器性能每两年就会提高三倍，同时内存访问速度也会提高 50%，这表明处理器完成计算的速度比从内存中获取数据的速度要快。为此，研究人员将注意力转向神经形态计算，这种计算通过仅在需要时激活处理单元来降低能耗，类似于人脑中的神经元。摘自“研究人员展望数字计算之外的世界”
+《经济学人》（2024 年 9 月 16 日） 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.economist.com/technology-quarterly/2024/09/16/researchers-are-looking-beyond-digital-computing</guid>
+      <pubDate>Fri, 20 Sep 2024 15:08:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>David A. Padua 将获得 ACM-IEEE CS Ken Kennedy 奖</title>
+      <link>https://www.acm.org/media-center/2024/september/kennedy-award-2024</link>
+      <description><![CDATA[ACM 媒体中心伊利诺伊大学厄巴纳-香槟分校的 David A. Padua 因其在并行和高性能计算领域的重大贡献而被提名为 2024 年 ACM-IEEE CS Ken Kennedy 奖的获得者。Padua 是 ACM 和 IEEE 的研究员，他因其在开发推测并行性和数组私有化方面所发挥的作用而获得认可，这些功能可以在并行计算期间正确同步多个线程；用于调试并行程序的竞争检测；数组平铺以提高并行性和缓存性能；并行 Matlab 编译和矢量化编译器评估技术。摘自“David A. Padua 将获得 ACM-IEEE CS Ken Kennedy 奖”
+ACM 媒体中心 (09/18/24) 查看全文]]></description>
+      <guid>https://www.acm.org/media-center/2024/september/kennedy-award-2024</guid>
+      <pubDate>Fri, 20 Sep 2024 15:08:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>FTC 报告批评社交网络的隐私和安全措施</title>
+      <link>https://www.washingtonpost.com/technology/2024/09/19/ftc-report-social-media-streaming-child-online-privacy-safety/</link>
+      <description><![CDATA[华盛顿邮报美国联邦贸易委员会 (FTC) 在周四发布的一份工作人员报告中总结了一项长达数年的行业实践研究，批评社交媒体和在线流媒体公司没有“始终优先考虑”用户隐私，广泛收集数据以支持新的 AI 工具，并拒绝正视对儿童的潜在风险。FTC 的 Lina Khan 表示，该报告显示了公司如何做法“会危及人们的隐私，威胁他们的自由，并使他们面临一系列危害。”摘自“FTC 报告抨击社交网络的隐私和安全做法”
+华盛顿邮报 (09/19/24) Cristiano Lima-Strong；Naomi Nix 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.washingtonpost.com/technology/2024/09/19/ftc-report-social-media-streaming-child-online-privacy-safety/</guid>
+      <pubDate>Fri, 20 Sep 2024 15:08:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
