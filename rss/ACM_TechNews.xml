@@ -4,103 +4,104 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Fri, 20 Sep 2024 15:08:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 18:11:19 GMT</lastBuildDate>
     <item>
-      <title>聊天机器人让人们远离阴谋论</title>
-      <link>https://www.nytimes.com/2024/09/12/health/chatbot-debunk-conspiracy-theories.html</link>
-      <description><![CDATA[《纽约时报》康奈尔大学研究人员开发的 AI 聊天机器人旨在说服用户停止相信阴谋论。在他们的研究中，超过 2,000 名美国成年人被要求描述他们所相信的阴谋论；随后，其中一些人与 DebunkBot 进行了讨论，在讨论中，他们提供了支持其立场的证据，DebunkBot 提供了信息来反驳他们的错误信息。在与 DebunkBot 进行三次交流后，参与者的信念评级下降了约 20%，约 25% 的参与者不再相信阴谋论。摘自“聊天机器人让人们远离阴谋论”
-纽约时报 (09/13/24) Teddy Rosenbluth 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/09/12/health/chatbot-debunk-conspiracy-theories.html</guid>
-      <pubDate>Fri, 20 Sep 2024 15:08:18 GMT</pubDate>
+      <title>用户探究 OpenAI 最新模型的“思想” 禁令警告四起</title>
+      <link>https://arstechnica.com/information-technology/2024/09/openai-threatens-bans-for-probing-new-ai-models-reasoning-process/</link>
+      <description><![CDATA[Ars Technica据报道，OpenAI 已发出警告电子邮件，威胁要禁止那些试图确定其最新“Strawberry”AI 模型如何工作的用户。使用 o1 模型，用户可以在 ChatGPT 界面中看到其思维链过程的过滤解释，但其原始思维链对用户是隐藏的。 Mozilla GenAI 漏洞赏金计划经理 Marco Figueroa 表示，此举阻止了对该模型进行积极的红队安全研究。摘自“用户探究 OpenAI 最新模型的‘思想’，禁令警告四起”
+Ars Technica (09/16/24) Benj Edwards 查看全文]]></description>
+      <guid>https://arstechnica.com/information-technology/2024/09/openai-threatens-bans-for-probing-new-ai-models-reasoning-process/</guid>
+      <pubDate>Mon, 23 Sep 2024 18:11:19 GMT</pubDate>
     </item>
     <item>
-      <title>Apple Vision Pro 的眼动追踪功能揭示了人们的打字方式</title>
-      <link>https://www.wired.com/story/apple-vision-pro-persona-eye-tracking-spy-typing/</link>
-      <description><![CDATA[Wired来自佛罗里达大学、德克萨斯理工大学和区块链安全公司 CertiK 的计算机科学家证明，黑客可以用眼睛破译 Apple Vision Pro 混合现实耳机用户输入的字母。GAZEploit 漏洞涉及一个循环神经网络，该网络会分析用户的 3D 头像以识别他们何时输入，并进行几何计算以确定用户的键盘位置和大小。Apple 已修复此漏洞。摘自“Apple Vision Pro 的眼动追踪揭示了人们输入的内容”
-Wired (09/12/24) Matt Burgess 查看全文]]></description>
-      <guid>https://www.wired.com/story/apple-vision-pro-persona-eye-tracking-spy-typing/</guid>
-      <pubDate>Fri, 20 Sep 2024 15:08:18 GMT</pubDate>
+      <title>大脑植入物让人们用意念控制 Alexa</title>
+      <link>https://www.wired.com/story/synchron-amazon-alexa-brain-computer-interface-bci/</link>
+      <description><![CDATA[WiredSynchron 表示，其脑机接口 (BCI) 可让用户用意念控制亚马逊的 Alexa。在 Synchron 植入 BCI 的 10 人中，有一人已通过蓝牙获得 Alexa 访问权限。亚马逊的集成非常重要，因为残障人士通常使用可以被听到的语音命令来操作虚拟助手。凯斯西储大学的 Emily Graczyk 表示：“恢复任何程度的独立性对人们来说都非常重要，但恢复独立的私人使用则更好。”摘自“脑植入物让人们用意念控制 Alexa”
+Wired (09/16/24) Emily Mullin 查看全文]]></description>
+      <guid>https://www.wired.com/story/synchron-amazon-alexa-brain-computer-interface-bci/</guid>
+      <pubDate>Mon, 23 Sep 2024 18:11:18 GMT</pubDate>
     </item>
     <item>
-      <title>夏威夷更多学校开设计算机科学课程，但并非所有学生都能从中受益</title>
-      <link>https://www.civilbeat.org/2024/09/more-hawaii-schools-are-offering-computer-science-but-are-all-students-benefitting/</link>
-      <description><![CDATA[檀香山民意调查到 2024-25 学年结束，所有夏威夷学校都必须开设至少一门计算机科学课程。去年，大约 75% 的夏威夷学校达到了这一标准。然而，小型学校很难聘请教职员工教授新课程，而对于一些农村地区的学生来说，使用电脑或互联网完成家庭作业仍然是一个问题。摘自“更多夏威夷学校提供计算机科学，但并非所有学生都能受益”
-檀香山民意调查 (09/16/24) Megan Tagami 查看全文]]></description>
-      <guid>https://www.civilbeat.org/2024/09/more-hawaii-schools-are-offering-computer-science-but-are-all-students-benefitting/</guid>
-      <pubDate>Fri, 20 Sep 2024 15:08:17 GMT</pubDate>
+      <title>研究人员发现 Google Cloud 中的 RCE 漏洞</title>
+      <link>https://www.techradar.com/pro/security/researchers-uncover-rce-exploit-in-google-cloud-millions-of-servers-at-risk</link>
+      <description><![CDATA[TechRadarTenable 研究人员在 Google Cloud Platform (GPC) 中发现了一个重大漏洞，该漏洞可能使威胁行为者能够远程在数百万台 GPC 服务器上运行恶意代码。研究人员表示，名为 CloudImposer 的“依赖混淆”漏洞位于 GCP 的 Composer 依赖项安装过程中，黑客可以利用该漏洞将恶意软件包上传到 PyPI，该软件包将以高权限预安装在所有 Composer 实例上。该漏洞已修复。摘自“研究人员发现 Google Cloud 中的 RCE 漏洞，数百万台服务器面临风险”
+TechRadar (09/17/24) Sead Fadilpasic 查看全文]]></description>
+      <guid>https://www.techradar.com/pro/security/researchers-uncover-rce-exploit-in-google-cloud-millions-of-servers-at-risk</guid>
+      <pubDate>Mon, 23 Sep 2024 18:11:18 GMT</pubDate>
     </item>
     <item>
-      <title>牛津离子学大幅减少量子误差</title>
-      <link>https://interestingengineering.com/science/oxford-ionics-sets-new-world-record</link>
-      <description><![CDATA[有趣的工程据报道，牛津离子学研究人员开发的一种识别和拒绝错误量子比特的协议创造了量子态制备和测量 (SPAM) 的新世界纪录。与目前最好的方法相比，新协议将 SPAM 错误减少了 13 倍。该协议融合了标准 SPAM 方法和中路非拆除测量。摘自“牛津离子学削减量子错误”
-有趣的工程 (09/15/24) Rupendra Brahambhatt 查看全文]]></description>
-      <guid>https://interestingengineering.com/science/oxford-ionics-sets-new-world-record</guid>
-      <pubDate>Fri, 20 Sep 2024 15:08:17 GMT</pubDate>
+      <title>机器人骨骼帮助瘫痪妇女“再次行走”</title>
+      <link>https://www.bbc.com/news/articles/cwy9gjl518po</link>
+      <description><![CDATA[BBCExomotus M4 外骨骼正在帮助英国威尔士纽波特莫雷洛诊所的患者重新行走。索菲·沙特尔沃思因感染病毒性脑膜炎而胸部以下瘫痪，借助外骨骼，她两年来第一次能够站立和行走，并希望它能帮助她恢复独立。摘自“机器人骨骼帮助瘫痪妇女‘重新行走’”
+BBC (09/18/24) Oliver Slow 查看全文]]></description>
+      <guid>https://www.bbc.com/news/articles/cwy9gjl518po</guid>
+      <pubDate>Mon, 23 Sep 2024 18:11:17 GMT</pubDate>
     </item>
     <item>
-      <title>Chipotle 机器人帮助制作鳄梨酱</title>
-      <link>https://www.reuters.com/business/retail-consumer/chipotle-adds-automation-autocado-robot-helps-make-guacamole-2024-09-16/</link>
-      <description><![CDATA[路透社Chipotle 在加州的两家门店部署了一台自动碗装沙拉机和一台鳄梨加工机器人。“增强型制作线”将把米饭、玉米、生菜和其他食材分装到柜台下面的碗中，同时员工继续制作墨西哥卷饼和玉米饼，添加配菜，并监控机器的性能。“自动鳄梨机”会切割、去核和剥皮鳄梨，员工将用它们制作鳄梨酱。摘自“Chipotle 机器人帮助制作鳄梨酱”
-路透社 (09/16/24) Waylon Cunningham 查看全文]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/chipotle-adds-automation-autocado-robot-helps-make-guacamole-2024-09-16/</guid>
-      <pubDate>Fri, 20 Sep 2024 15:08:16 GMT</pubDate>
+      <title>一位名不见经传的中国手机制造商如何占领非洲</title>
+      <link>https://www.bloomberg.com/news/articles/2024-09-16/africa-s-shift-to-smartphones-is-creating-a-new-chinese-phone-giant</link>
+      <description><![CDATA[彭博社中国制造商深圳传音控股有限公司占据非洲智能手机市场的一半左右。传音以关注非洲消费者习惯而闻名，推出了带有多个 SIM 卡插槽的手机，因为非洲消费者经常更换电信供应商以获得更好的服务。 Transsion 的 Itel、Tecno 和 Infinix 品牌仅在非洲销售，但该公司也在印度站稳脚跟，其廉价 5G 手机在印度很受欢迎。摘自“一家不知名的中国手机制造商如何占领非洲”
+彭博社 (09/16/24) Austin Carr 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-09-16/africa-s-shift-to-smartphones-is-creating-a-new-chinese-phone-giant</guid>
+      <pubDate>Mon, 23 Sep 2024 18:11:17 GMT</pubDate>
     </item>
     <item>
-      <title>研究人员在笔记本电脑上运行小型人工智能</title>
-      <link>https://www.nature.com/articles/d41586-024-02998-y</link>
-      <description><![CDATA[Nature研究人员越来越多地能够在笔记本电脑上运行本地 AI 系统。与此同时，包括 Google DeepMind、Meta、Microsoft 和 Allen 人工智能研究所在内的科技公司和研究机构都提供了可在本地下载和运行的大型语言模型的小型和开放版本，以及可在消费硬件上运行的缩小版。本地 AI 成本较低，允许对开放模型进行微调以针对重点应用进行微调，并保护数据隐私。摘自“研究人员在笔记本电脑上运行小型 AI”
-Nature (09/16/24) Matthew Hutson 查看全文]]></description>
-      <guid>https://www.nature.com/articles/d41586-024-02998-y</guid>
-      <pubDate>Fri, 20 Sep 2024 15:08:16 GMT</pubDate>
+      <title>“争夺 1% 顶尖人才的战争”：法国科技界对最佳 AI 人才的激烈争夺</title>
+      <link>https://sifted.eu/articles/ai-talent-wars-paris</link>
+      <description><![CDATA[Sifted巴黎的人工智能初创公司正在从大型科技公司招募顶尖工程师。科技招聘公司 The Product Crew 的 Mathias Frachon 表示：“争夺顶尖 1% 的人才只是一场战争，但他们是超级明星，每个人都在争夺他们。”巴黎是最新人工智能人才争夺战的焦点，因为法国拥有几所以培养顶尖人工智能人才而闻名的著名大学，促使 Facebook 和谷歌等大型科技公司在该市开设研究实验室。摘自“‘争夺顶尖 1% 的人才’：法国科技界争夺最佳人工智能人才的激烈战斗”
+Sifted (09/13/24) Daphné Leprince-Ringuet 查看全文]]></description>
+      <guid>https://sifted.eu/articles/ai-talent-wars-paris</guid>
+      <pubDate>Mon, 23 Sep 2024 18:11:17 GMT</pubDate>
     </item>
     <item>
-      <title>Wi-Fi 世界纪录比之前最佳纪录高出近 5 倍</title>
-      <link>https://www.tomshardware.com/networking/halow-wi-fi-has-now-been-tested-at-99-miles-new-wi-fi-world-record-is-a-near-5x-increase-over-previous-best</link>
-      <description><![CDATA[Tom&#39;s Hardware澳大利亚 Morse Micro 公司的研究人员利用 HaLow（802.11ah）标准打破了他们之前创造的 Wi-Fi 覆盖范围世界纪录，在加利福尼亚州约书亚树国家公园的一次视频通话中，在 9.9 英里的距离上实现了每秒 2 兆比特的连接速度。测试表明，HaLow 可能适合在城市地区以外进行户外工作的用户，因为这些地方的蜂窝覆盖范围较差，蜂窝数据费用较高。摘自“Wi-Fi 世界纪录接近之前最佳纪录的 5 倍”
-Tom&#39;s Hardware (09/15/24) Christopher Harper 查看全文]]></description>
-      <guid>https://www.tomshardware.com/networking/halow-wi-fi-has-now-been-tested-at-99-miles-new-wi-fi-world-record-is-a-near-5x-increase-over-previous-best</guid>
-      <pubDate>Fri, 20 Sep 2024 15:08:15 GMT</pubDate>
+      <title>Instagram 将青少年账户设为私密</title>
+      <link>https://apnews.com/article/instagram-meta-teen-accounts-kids-425a05cc37f81b6ff2b7439d3884c54a</link>
+      <description><![CDATA[美联社自 9 月 17 日起，美国、英国、加拿大和澳大利亚的 18 岁以下青少年在注册 Instagram 时将获得受限青少年账户。18 岁以下青少年的现有账户将在 60 天内迁移到受限账户。此外，“敏感内容”将受到限制，并且使用该应用超过一小时的青少年将收到通知。摘自“Instagram 将青少年账户设为私密”
+美联社 (09/18/24) Barbara Ortutay；Anthony Izaguirre 查看全文]]></description>
+      <guid>https://apnews.com/article/instagram-meta-teen-accounts-kids-425a05cc37f81b6ff2b7439d3884c54a</guid>
+      <pubDate>Mon, 23 Sep 2024 18:11:16 GMT</pubDate>
     </item>
     <item>
-      <title>互联网档案馆可以保存数字历史吗？</title>
-      <link>https://www.bbc.com/future/article/20240912-the-archivists-battling-to-save-the-internet</link>
-      <description><![CDATA[BBC互联网档案馆正在努力保存数字历史，迄今为止已收集了 8660 亿个网页、4400 万本书籍和 1060 万个电影和电视节目视频等。其努力受到财务问题、知识产权法律挑战、技术问题和网络攻击的阻碍。弗吉尼亚大学的马尔·希克斯 (Mar Hicks) 表示，分散的互联网保存工作的另一个问题是档案组织的“优先事项各异”，这些组织独立运营，主要由业余爱好者和志愿者运营。摘自“互联网档案馆能保存数字历史吗？”
+      <title>C++ 联盟瞄准 C++ 内存安全</title>
+      <link>https://www.infoworld.com/article/3526592/c-alliance-takes-aim-at-c-memory-safety.html</link>
+      <description><![CDATA[InfoWorldC++ 联盟表示，计划向 ISO 提交其“安全 C++ 扩展”提案，以纳入 C++ 标准，目标是推进 C++ 的超集和“严格安全的子集”，以确保 C++ 代码具有与用 Rust 编写的代码相同的安全保障。白宫在二月份曾呼吁开发人员停止使用 C++ 和 C 语言，原因是担心内存安全问题。摘自“C++ 联盟瞄准 C++ 内存安全”
+InfoWorld (09/17/24) Paul Krill 查看全文]]></description>
+      <guid>https://www.infoworld.com/article/3526592/c-alliance-takes-aim-at-c-memory-safety.html</guid>
+      <pubDate>Mon, 23 Sep 2024 18:11:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>科技工作岗位已经枯竭——并且不会很快回归</title>
+      <link>https://www.wsj.com/tech/tech-jobs-artificial-intelligence-cce22393</link>
+      <description><![CDATA[《华尔街日报》Indeed.com 报告称，自 2020 年 2 月以来，软件开发职位的招聘数量下降了 30% 以上，而 Layoffs.fyi 则追踪到自 2024 年初以来科技公司裁员约 137,000 人。随着科技公司削减招聘团队、减少入门级招聘并专注于创收项目和服务，科技工作者正在争夺更少的职位。康奈尔大学的 Jason Greenberg 表示，“这不再是 2012 年了。这不是大学毕业生的牛市。”摘自“科技工作已经枯竭——而且不会很快回来”
+《华尔街日报》（2024 年 9 月 19 日）凯瑟琳·宾德利； Joseph Pisani 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/tech/tech-jobs-artificial-intelligence-cce22393</guid>
+      <pubDate>Mon, 23 Sep 2024 18:11:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>猫眼相机可以看穿伪装</title>
+      <link>https://spectrum.ieee.org/night-vision-camera</link>
+      <description><![CDATA[IEEE Spectrum韩国光州科学技术研究院的研究人员开发了一种相机，它能够区分物体和背景，无论在一天中的什么时间，这都要归功于受到猫眼启发而做出的改进。该相机模仿猫的垂直瞳孔和视网膜后面的反射结构，其中 3D 打印的垂直狭缝用作光圈，而银色反射器则放置在相机的每个光电二极管下方。摘自“猫眼相机可以看穿伪装”
+IEEE Spectrum (09/19/24) Kohava Mendelsohn 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/night-vision-camera</guid>
+      <pubDate>Mon, 23 Sep 2024 18:11:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国将于 11 月召开全球人工智能安全峰会</title>
+      <link>https://www.reuters.com/technology/artificial-intelligence/us-convene-global-ai-safety-summit-november-2024-09-18/</link>
+      <description><![CDATA[路透社国际人工智能安全研究所网络将于 11 月 20 日至 21 日在旧金山举行首次会议，讨论优先工作领域并“推动全球合作，实现人工智能的安全、可靠和值得信赖的发展”。会议将邀请来自成员国人工智能安全研究所或同等政府支持的安全办公室的技术专家参加，这些成员国包括澳大利亚、加拿大、欧盟、法国、日本、肯尼亚、韩国、新加坡、英国和美国。摘自“美国将于 11 月召开全球人工智能安全峰会”
+路透社 (09/18/24) David Shepardson 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/artificial-intelligence/us-convene-global-ai-safety-summit-november-2024-09-18/</guid>
+      <pubDate>Mon, 23 Sep 2024 18:11:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>NSF 投资 4800 万美元扩大计算领域的参与度</title>
+      <link>https://new.nsf.gov/news/nsf-investing-48m-broaden-participation-computing</link>
+      <description><![CDATA[美国国家科学基金会美国国家科学基金会 (NSF) 向 NSF 扩大计算参与联盟拨款 4800 万美元，以促进代表性不足的群体参与计算机和信息科学与工程。受助者包括计算研究协会、莫尔豪斯学院、新泽西理工学院、纽约市计算机科学教育基金会、科罗拉多大学博尔德分校、华盛顿大学、芝加哥大学、德克萨斯大学奥斯汀分校和德克萨斯大学埃尔帕索分校。
 
-BBC (09/16/24) Chris Stokel-Walker 查看全文]]></description>
-      <guid>https://www.bbc.com/future/article/20240912-the-archivists-battling-to-save-the-internet</guid>
-      <pubDate>Fri, 20 Sep 2024 15:08:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>加州州长签署法律，严厉打击选举伪造行为</title>
-      <link>https://apnews.com/article/california-artificial-intelligence-deepfakes-election-0e70cb32b06d9187eaef5bdacaba6d77</link>
-      <description><![CDATA[美联社9 月 17 日，加州州长加文·纽瑟姆签署法律，禁止在选举日前 120 天和选举日后 60 天内制作和发布与选举相关的深度伪造视频，同时允许法院阻止其传播并施加民事处罚。纽森签署的其他法案将要求大型社交媒体平台删除深度伪造，并要求政治竞选活动公开披露是否投放了包含人工智能修改材料的广告。摘自“加州州长签署法律打击选举深度伪造”
-美联社 (09/17/24) Tran Nguyen 查看全文]]></description>
-      <guid>https://apnews.com/article/california-artificial-intelligence-deepfakes-election-0e70cb32b06d9187eaef5bdacaba6d77</guid>
-      <pubDate>Fri, 20 Sep 2024 15:08:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究人员超越数字计算</title>
-      <link>https://www.economist.com/technology-quarterly/2024/09/16/researchers-are-looking-beyond-digital-computing</link>
-      <description><![CDATA[《经济学人》加州大学伯克利分校的研究人员发现，在过去二十年中，处理器性能每两年就会提高三倍，同时内存访问速度也会提高 50%，这表明处理器完成计算的速度比从内存中获取数据的速度要快。为此，研究人员将注意力转向神经形态计算，这种计算通过仅在需要时激活处理单元来降低能耗，类似于人脑中的神经元。摘自“研究人员展望数字计算之外的世界”
-《经济学人》（2024 年 9 月 16 日） 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.economist.com/technology-quarterly/2024/09/16/researchers-are-looking-beyond-digital-computing</guid>
-      <pubDate>Fri, 20 Sep 2024 15:08:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>David A. Padua 将获得 ACM-IEEE CS Ken Kennedy 奖</title>
-      <link>https://www.acm.org/media-center/2024/september/kennedy-award-2024</link>
-      <description><![CDATA[ACM 媒体中心伊利诺伊大学厄巴纳-香槟分校的 David A. Padua 因其在并行和高性能计算领域的重大贡献而被提名为 2024 年 ACM-IEEE CS Ken Kennedy 奖的获得者。Padua 是 ACM 和 IEEE 的研究员，他因其在开发推测并行性和数组私有化方面所发挥的作用而获得认可，这些功能可以在并行计算期间正确同步多个线程；用于调试并行程序的竞争检测；数组平铺以提高并行性和缓存性能；并行 Matlab 编译和矢量化编译器评估技术。摘自“David A. Padua 将获得 ACM-IEEE CS Ken Kennedy 奖”
-ACM 媒体中心 (09/18/24) 查看全文]]></description>
-      <guid>https://www.acm.org/media-center/2024/september/kennedy-award-2024</guid>
-      <pubDate>Fri, 20 Sep 2024 15:08:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>FTC 报告批评社交网络的隐私和安全措施</title>
-      <link>https://www.washingtonpost.com/technology/2024/09/19/ftc-report-social-media-streaming-child-online-privacy-safety/</link>
-      <description><![CDATA[华盛顿邮报美国联邦贸易委员会 (FTC) 在周四发布的一份工作人员报告中总结了一项长达数年的行业实践研究，批评社交媒体和在线流媒体公司没有“始终优先考虑”用户隐私，广泛收集数据以支持新的 AI 工具，并拒绝正视对儿童的潜在风险。FTC 的 Lina Khan 表示，该报告显示了公司如何做法“会危及人们的隐私，威胁他们的自由，并使他们面临一系列危害。”摘自“FTC 报告抨击社交网络的隐私和安全做法”
-华盛顿邮报 (09/19/24) Cristiano Lima-Strong；Naomi Nix 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.washingtonpost.com/technology/2024/09/19/ftc-report-social-media-streaming-child-online-privacy-safety/</guid>
-      <pubDate>Fri, 20 Sep 2024 15:08:13 GMT</pubDate>
+摘自“NSF 投资 4800 万美元扩大计算参与度”
+美国国家科学基金会 (2024 年 9 月 18 日) 查看全文]]></description>
+      <guid>https://new.nsf.gov/news/nsf-investing-48m-broaden-participation-computing</guid>
+      <pubDate>Mon, 23 Sep 2024 18:11:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
