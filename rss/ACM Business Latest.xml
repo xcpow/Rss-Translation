@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Mon, 23 Sep 2024 12:16:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 15:09:09 GMT</lastBuildDate>
+    <item>
+      <title>Cloudflare 推出新工具，让网站可以免费检测和阻止 AI 机器人</title>
+      <link>https://www.wired.com/story/cloudflare-tools-detect-block-ai-bots/</link>
+      <description><![CDATA[Cloudflare 首席执行官马修·普林斯 (Matthew Prince) 在谈到猖獗的人工智能数据抓取时告诉《连线》杂志：“我们所走的道路是不可持续的。”以下是他纠正这一问题的计划。]]></description>
+      <guid>https://www.wired.com/story/cloudflare-tools-detect-block-ai-bots/</guid>
+      <pubDate>Mon, 23 Sep 2024 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>注意了，被宠坏的软件工程师们：向谷歌的编程语言学习吧</title>
       <link>https://www.wired.com/story/attention-spoiled-software-engineers-take-a-lesson-from-googles-programming-language/</link>
@@ -71,7 +78,7 @@
     <item>
       <title>联合国希望以与气候变化同等紧迫的态度对待人工智能</title>
       <link>https://www.wired.com/story/united-nations-artificial-intelligence-report/</link>
-      <description><![CDATA[联合国一份报告建议该组织在人工智能的监测和监督方面发挥更加积极的作用。]]></description>
+      <description><![CDATA[联合国的一份报告建议该组织在人工智能的监测和监督方面发挥更加积极的作用。]]></description>
       <guid>https://www.wired.com/story/united-nations-artificial-intelligence-report/</guid>
       <pubDate>Thu, 19 Sep 2024 05:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[一项新闻调查显示，近几个月来，高中生对人工智能的使用呈爆炸式增长，教育工作者和家长都难以跟上这一趋势。]]></description>
       <guid>https://www.wired.com/story/teens-generative-ai-use-schools-parents/</guid>
       <pubDate>Wed, 18 Sep 2024 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 威胁禁止调查其“草莓”人工智能模型的用户</title>
-      <link>https://www.wired.com/story/openai-threatens-bans-as-users-probe-o1-model/</link>
-      <description><![CDATA[如果您尝试弄清楚 OpenAI 的 o1 模型如何解决问题，您可能会收到一封令人讨厌的邮件。]]></description>
-      <guid>https://www.wired.com/story/openai-threatens-bans-as-users-probe-o1-model/</guid>
-      <pubDate>Tue, 17 Sep 2024 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
