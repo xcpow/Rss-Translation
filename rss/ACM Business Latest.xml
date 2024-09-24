@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Mon, 23 Sep 2024 21:07:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 00:41:04 GMT</lastBuildDate>
+    <item>
+      <title>拟议禁令或将对中国电动汽车在美国市场判“死刑”</title>
+      <link>https://www.wired.com/story/us-ban-china-russia-ev-cars-security/</link>
+      <description><![CDATA[美国希望禁止在汽车上安装任何中国或俄罗斯的软件，据称是出于安全考虑。如果拟议规则最终得以实施，那么短期内美国不会看到中国制造的电动汽车。]]></description>
+      <guid>https://www.wired.com/story/us-ban-china-russia-ev-cars-security/</guid>
+      <pubDate>Mon, 23 Sep 2024 22:18:11 GMT</pubDate>
+    </item>
     <item>
       <title>一所面向网络国家人群的神秘学校正在开学</title>
       <link>https://www.wired.com/story/network-school-balaji-srinivasan/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[SocialAI 是一个在线世界，在这个世界中，与你互动的每个人都是机器人——无论好坏。]]></description>
       <guid>https://www.wired.com/story/socialai-app-ai-chatbots-chatgpt/</guid>
       <pubDate>Wed, 18 Sep 2024 18:57:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>大量生成式 AI 视频即将登陆 YouTube Shorts</title>
-      <link>https://www.wired.com/story/generative-ai-tools-youtube-shorts-veo/</link>
-      <description><![CDATA[谷歌计划明年在 YouTube 应用程序中添加一项 AI 功能，供创作者使用该公司的 Veo 模型生成 6 秒的短片。]]></description>
-      <guid>https://www.wired.com/story/generative-ai-tools-youtube-shorts-veo/</guid>
-      <pubDate>Wed, 18 Sep 2024 14:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
