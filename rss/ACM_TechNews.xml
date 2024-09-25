@@ -4,103 +4,111 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Tue, 24 Sep 2024 18:11:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 18:11:30 GMT</lastBuildDate>
     <item>
-      <title>Apple Vision Pro 的眼动追踪功能揭示了人们的打字方式</title>
-      <link>https://www.wired.com/story/apple-vision-pro-persona-eye-tracking-spy-typing/</link>
-      <description><![CDATA[Wired来自佛罗里达大学、德克萨斯理工大学和区块链安全公司 CertiK 的计算机科学家证明，黑客可以用眼睛破译 Apple Vision Pro 混合现实耳机用户输入的字母。GAZEploit 漏洞涉及一个循环神经网络，该网络会分析用户的 3D 头像以识别他们何时打字，并进行几何计算以确定用户的键盘位置和大小。Apple 已修复此漏洞。摘自“Apple Vision Pro 的眼动追踪技术揭露了人们输入的内容”
-Wired (09/12/24) Matt Burgess 查看全文]]></description>
-      <guid>https://www.wired.com/story/apple-vision-pro-persona-eye-tracking-spy-typing/</guid>
-      <pubDate>Tue, 24 Sep 2024 18:11:39 GMT</pubDate>
+      <title>每封电子邮件赠送一瓶水：使用人工智能聊天机器人的隐性环境成本</title>
+      <link>https://www.washingtonpost.com/technology/2024/09/18/energy-ai-use-electricity-water-data-centers/</link>
+      <description><![CDATA[华盛顿邮报华盛顿邮报与加州大学河滨分校的研究人员合作，确定使用 ChatGPT 撰写一封平均 100 字的电子邮件需要多少水和电。他们确定，这样一封电子邮件只需要一瓶多一点的水，但一年内每周发送一次，所需的水量相当于罗德岛州每个家庭 1.5 天的用水量。摘自“每封电子邮件一瓶水：使用 AI 聊天机器人的隐性环境成本”
+华盛顿邮报 (09/18/24) Pranshu Verma；Shelly Tan 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.washingtonpost.com/technology/2024/09/18/energy-ai-use-electricity-water-data-centers/</guid>
+      <pubDate>Wed, 25 Sep 2024 18:11:29 GMT</pubDate>
     </item>
     <item>
-      <title>牛津离子学大幅减少量子误差</title>
-      <link>https://interestingengineering.com/science/oxford-ionics-sets-new-world-record</link>
-      <description><![CDATA[有趣的工程据报道，牛津离子学研究人员开发的一种识别和拒绝错误量子比特的协议创造了量子态制备和测量 (SPAM) 的新世界纪录。与目前最好的方法相比，新协议将 SPAM 错误减少了 13 倍。该协议融合了标准 SPAM 方法和中路非拆除测量。摘自“牛津离子学削减量子错误”
-有趣的工程 (09/15/24) Rupendra Brahambhatt 查看全文]]></description>
-      <guid>https://interestingengineering.com/science/oxford-ionics-sets-new-world-record</guid>
-      <pubDate>Tue, 24 Sep 2024 18:11:38 GMT</pubDate>
+      <title>Google Chrome 改用 ML-KEM 实现后量子密码防御</title>
+      <link>https://thehackernews.com/2024/09/google-chrome-switches-to-ml-kem-for.html</link>
+      <description><![CDATA[The Hacker News谷歌表示，将在 11 月初发布的 Chrome 浏览器 131 版中从 KYBER 转向 ML-KEM（基于模块格的密钥封装机制）以进行后量子密码防御。该公司将这一转变归因于 ML-KEM 最终版本的更改，这使其与 KYBER 不兼容。摘自“Google Chrome 转向 ML-KEM 进行后量子密码防御”
+The Hacker News (09/17/24) Ravie Lakshmanan 查看全文]]></description>
+      <guid>https://thehackernews.com/2024/09/google-chrome-switches-to-ml-kem-for.html</guid>
+      <pubDate>Wed, 25 Sep 2024 18:11:29 GMT</pubDate>
     </item>
     <item>
-      <title>聊天机器人让人们远离阴谋论</title>
-      <link>https://www.nytimes.com/2024/09/12/health/chatbot-debunk-conspiracy-theories.html</link>
-      <description><![CDATA[《纽约时报》康奈尔大学研究人员开发的 AI 聊天机器人旨在说服用户停止相信阴谋论。在他们的研究中，超过 2,000 名美国成年人被要求描述他们所相信的阴谋论；随后，其中一些人与 DebunkBot 进行了讨论，在讨论中，他们提供了支持其立场的证据，DebunkBot 提供了信息来反驳他们的错误信息。在与 DebunkBot 进行三次交流后，参与者的信念评级下降了约 20%，约 25% 的参与者不再相信阴谋论。摘自“聊天机器人让人们远离阴谋论”
-纽约时报 (09/13/24) Teddy Rosenbluth 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/09/12/health/chatbot-debunk-conspiracy-theories.html</guid>
-      <pubDate>Tue, 24 Sep 2024 18:11:38 GMT</pubDate>
+      <title>部分美国卡巴斯基客户发现其安全软件被替换</title>
+      <link>https://www.theregister.com/2024/09/24/ultraav_kaspersky_antivirus/</link>
+      <description><![CDATA[The Register由于担心俄罗斯可能利用卡巴斯基产品监视美国公民，美国政府禁止销售卡巴斯基产品。此后，Windows 系统上使用该公司防病毒产品的用户的软件被标记为 UltraAV 的软件自动替换。据报道，UltraAV 软件尚未经过反恶意软件测试标准组织的测试，大多数主要的防病毒测试实验室都没有看到 UltraAV 的代码。摘自“部分美国卡巴斯基客户发现他们的安全软件被替换”
+The Register (09/24/24) Iain Thomson 查看全文]]></description>
+      <guid>https://www.theregister.com/2024/09/24/ultraav_kaspersky_antivirus/</guid>
+      <pubDate>Wed, 25 Sep 2024 18:11:28 GMT</pubDate>
     </item>
     <item>
-      <title>夏威夷更多学校开设计算机科学课程，但并非所有学生都能从中受益</title>
-      <link>https://www.civilbeat.org/2024/09/more-hawaii-schools-are-offering-computer-science-but-are-all-students-benefitting/</link>
-      <description><![CDATA[檀香山民意调查到 2024-25 学年结束，所有夏威夷学校都必须开设至少一门计算机科学课程。去年，大约 75% 的夏威夷学校达到了这一标准。然而，小型学校很难聘请教职员工教授新课程，而对于一些农村地区的学生来说，使用电脑或互联网完成家庭作业仍然是一个问题。摘自“更多夏威夷学校提供计算机科学，但并非所有学生都能受益”
-檀香山民意调查 (09/16/24) Megan Tagami 查看全文]]></description>
-      <guid>https://www.civilbeat.org/2024/09/more-hawaii-schools-are-offering-computer-science-but-are-all-students-benefitting/</guid>
-      <pubDate>Tue, 24 Sep 2024 18:11:37 GMT</pubDate>
+      <title>Meta 致欧盟：你们的技术规则威胁到人工智能繁荣</title>
+      <link>https://www.wsj.com/tech/ai/meta-to-european-union-your-tech-rules-threaten-to-squelch-ai-boom-35297c03?page=1</link>
+      <description><![CDATA[《华尔街日报》在由 Facebook 母公司 Meta Platforms 协调的一封公开信中，高管们警告称，欧盟可能会因为其技术监管而错失人工智能的全部好处。超过二十家公司签署了这封信，信中称人工智能可以提高生产力并扩大经济。这封信呼吁欧盟协调其规则，并提供签署者所称的欧盟数据保护法的现代解释。摘自“Meta 到欧盟：您的技术规则威胁要扼杀人工智能热潮”
+华尔街日报 (09/19/24) Kim Mackrael 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/tech/ai/meta-to-european-union-your-tech-rules-threaten-to-squelch-ai-boom-35297c03?page=1</guid>
+      <pubDate>Wed, 25 Sep 2024 18:11:28 GMT</pubDate>
     </item>
     <item>
-      <title>Chipotle 机器人帮助制作鳄梨酱</title>
-      <link>https://www.reuters.com/business/retail-consumer/chipotle-adds-automation-autocado-robot-helps-make-guacamole-2024-09-16/</link>
-      <description><![CDATA[路透社Chipotle 在加州的两家门店部署了自动碗装沙拉机和鳄梨加工机器人。“增强型制作线”将把米饭、玉米、生菜和其他食材分装到柜台下面的碗中，同时员工继续制作墨西哥卷饼和玉米饼，添加配菜，并监控机器的性能。“自动鳄梨机”会切割、去核和剥皮鳄梨，员工将用它们制作鳄梨酱。摘自“Chipotle 机器人帮助制作鳄梨酱”
-路透社 (09/16/24) Waylon Cunningham 查看全文]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/chipotle-adds-automation-autocado-robot-helps-make-guacamole-2024-09-16/</guid>
-      <pubDate>Tue, 24 Sep 2024 18:11:36 GMT</pubDate>
+      <title>Telegram 将向当局提供部分用户数据</title>
+      <link>https://www.bbc.com/news/articles/cvglp0xny3eo</link>
+      <description><![CDATA[BBCTelegram 消息应用程序已更改其服务条款和隐私政策，声明它将根据搜查令或当局的其他有效法律要求提供用户的 IP 地址和电话号码。斯坦福大学的 Daphne Keller 表示，该政策可能无法满足法国和欧洲法律的要求，并指出一些国家要求在发布儿童性虐待材料和其他非法内容时通知当局。摘自“Telegram 现在将向当局提供一些用户数据”
+BBC (09/23/24) Lily Jamali 查看全文]]></description>
+      <guid>https://www.bbc.com/news/articles/cvglp0xny3eo</guid>
+      <pubDate>Wed, 25 Sep 2024 18:11:27 GMT</pubDate>
     </item>
     <item>
-      <title>研究人员在笔记本电脑上运行小型人工智能</title>
-      <link>https://www.nature.com/articles/d41586-024-02998-y</link>
-      <description><![CDATA[Nature研究人员越来越多地能够在笔记本电脑上运行本地 AI 系统。与此同时，包括 Google DeepMind、Meta、Microsoft 和 Allen 人工智能研究所在内的科技公司和研究机构都提供了可在本地下载和运行的大型语言模型的小型和开放版本，以及可在消费硬件上运行的缩小版。本地 AI 成本较低，允许对开放模型进行微调以针对重点应用进行微调，并保护数据隐私。摘自“研究人员在笔记本电脑上运行小型 AI”
-Nature (09/16/24) Matthew Hutson 查看全文]]></description>
-      <guid>https://www.nature.com/articles/d41586-024-02998-y</guid>
-      <pubDate>Tue, 24 Sep 2024 18:11:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wi-Fi 世界纪录比之前最佳纪录高出近 5 倍</title>
-      <link>https://www.tomshardware.com/networking/halow-wi-fi-has-now-been-tested-at-99-miles-new-wi-fi-world-record-is-a-near-5x-increase-over-previous-best</link>
-      <description><![CDATA[Tom&#39;s Hardware澳大利亚 Morse Micro 公司的研究人员利用 HaLow（802.11ah）标准打破了他们之前创造的 Wi-Fi 覆盖范围世界纪录，在加利福尼亚州约书亚树国家公园的一次视频通话中，在 9.9 英里的距离上实现了每秒 2 兆比特的连接速度。测试表明，HaLow 可能适合在城市地区以外进行户外工作的用户，因为这些地方的蜂窝覆盖范围较差，蜂窝数据费用较高。摘自“Wi-Fi 世界纪录接近之前最佳纪录的 5 倍”
-Tom&#39;s Hardware (09/15/24) Christopher Harper 查看全文]]></description>
-      <guid>https://www.tomshardware.com/networking/halow-wi-fi-has-now-been-tested-at-99-miles-new-wi-fi-world-record-is-a-near-5x-increase-over-previous-best</guid>
-      <pubDate>Tue, 24 Sep 2024 18:11:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>互联网档案馆可以保存数字历史吗？</title>
-      <link>https://www.bbc.com/future/article/20240912-the-archivists-battling-to-save-the-internet</link>
-      <description><![CDATA[BBC互联网档案馆正在努力保存数字历史，迄今为止已收集了 8660 亿个网页、4400 万本书籍和 1060 万个电影和电视节目视频等。其努力受到财务问题、知识产权法律挑战、技术问题和网络攻击的阻碍。弗吉尼亚大学的马尔·希克斯 (Mar Hicks) 表示，分散的互联网保存工作的另一个问题是档案组织的“优先事项各异”，这些组织独立运营，主要由业余爱好者和志愿者运营。摘自“互联网档案馆能保存数字历史吗？”
+      <title>数学是实现不编造内容的聊天机器人的途径吗？</title>
+      <link>https://www.nytimes.com/2024/09/23/technology/ai-chatbots-chatgpt-math.html</link>
+      <description><![CDATA[《纽约时报》硅谷初创公司 Harmonic 专注于数学，致力于开发一款永远不会产生幻觉的人工智能聊天机器人。Harmonic 的亚里士多德不仅能给出正确的答案，还能提供详细的计算机程序来证明其答案是正确的，然后可以用来改进其结果。一些研究人员认为，同样的技术也可以用来开发能够验证物理事实的人工智能系统。摘自“数学是通往不编造东西的聊天机器人的道路吗？”
 
-BBC (09/16/24) Chris Stokel-Walker 查看全文]]></description>
-      <guid>https://www.bbc.com/future/article/20240912-the-archivists-battling-to-save-the-internet</guid>
-      <pubDate>Tue, 24 Sep 2024 18:11:35 GMT</pubDate>
+《纽约时报》（2024 年 9 月 23 日）Cade Metz 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/09/23/technology/ai-chatbots-chatgpt-math.html</guid>
+      <pubDate>Wed, 25 Sep 2024 18:11:27 GMT</pubDate>
     </item>
     <item>
-      <title>研究人员超越数字计算</title>
-      <link>https://www.economist.com/technology-quarterly/2024/09/16/researchers-are-looking-beyond-digital-computing</link>
-      <description><![CDATA[《经济学人》加州大学伯克利分校的研究人员发现，在过去二十年中，处理器性能每两年就会提高三倍，同时内存访问速度也会提高 50%，这表明处理器完成计算的速度比从内存中获取数据的速度要快。为此，研究人员将注意力转向神经形态计算，这种计算通过仅在需要时激活处理单元来降低能耗，类似于人脑中的神经元。摘自“研究人员展望数字计算之外的世界”
-《经济学人》（2024 年 9 月 16 日） 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.economist.com/technology-quarterly/2024/09/16/researchers-are-looking-beyond-digital-computing</guid>
-      <pubDate>Tue, 24 Sep 2024 18:11:34 GMT</pubDate>
+      <title>研究发现数千个浏览器扩展程序泄露用户数据</title>
+      <link>https://news.gatech.edu/news/2024/09/17/study-finds-thousands-browser-extensions-compromise-user-data</link>
+      <description><![CDATA[佐治亚理工学院新闻中心佐治亚理工学院的研究人员开发了 Arcanum 网络框架，以研究 Google Chrome 网上应用店中提供的 100,000 多个功能性浏览器扩展程序，以确定它们是否从包含敏感数据的网站中提取用户数据。研究人员发现，3,000 多个浏览器扩展程序会自动收集用户特定数据，其中 200 多个将敏感用户数据从网页上传到服务器。摘自“研究发现数千个浏览器扩展程序泄露用户数据”
+佐治亚理工学院新闻中心 (09/17/24) 查看全文]]></description>
+      <guid>https://news.gatech.edu/news/2024/09/17/study-finds-thousands-browser-extensions-compromise-user-data</guid>
+      <pubDate>Wed, 25 Sep 2024 18:11:26 GMT</pubDate>
     </item>
     <item>
-      <title>FTC 报告批评社交网络的隐私和安全措施</title>
-      <link>https://www.washingtonpost.com/technology/2024/09/19/ftc-report-social-media-streaming-child-online-privacy-safety/</link>
-      <description><![CDATA[华盛顿邮报美国联邦贸易委员会 (FTC) 在周四发布的一份工作人员报告中总结了一项长达数年的行业实践研究，批评社交媒体和在线流媒体公司没有“始终优先考虑”用户隐私，广泛收集数据以支持新的 AI 工具，并拒绝正视对儿童的潜在风险。FTC 的 Lina Khan 表示，该报告显示了公司如何做法“会危及人们的隐私，威胁他们的自由，并使他们面临一系列危害。”摘自“FTC 报告抨击社交网络的隐私和安全做法”
-华盛顿邮报 (09/19/24) Cristiano Lima-Strong；Naomi Nix 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.washingtonpost.com/technology/2024/09/19/ftc-report-social-media-streaming-child-online-privacy-safety/</guid>
-      <pubDate>Tue, 24 Sep 2024 18:11:33 GMT</pubDate>
+      <title>人工智能“教父”称 OpenAI 的新模型可能具有欺骗性，需要“更严格的安全测试”</title>
+      <link>https://www.businessinsider.com/ai-godfather-yoshua-bengio-openai-safety-o1-model-deception-concerns-2024-9</link>
+      <description><![CDATA[商业内幕ACM A.M. 图灵奖获得者 Yoshua Bengio 担心 OpenAI 的新 o1 模型的欺骗能力，并指出其“推理能力远远优于其前辈”。 Bengio 表示，“一般来说，欺骗的能力非常危险，我们应该有更强大的安全测试来评估这种风险及其在 o1 案例中的后果。”摘自“AI‘教父’称 OpenAI 的新模型可能具有欺骗能力，需要‘更强大的安全测试’”
+Business Insider (09/21/24) Kenneth Niemeyer 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.businessinsider.com/ai-godfather-yoshua-bengio-openai-safety-o1-model-deception-concerns-2024-9</guid>
+      <pubDate>Wed, 25 Sep 2024 18:11:26 GMT</pubDate>
     </item>
     <item>
-      <title>加州州长签署法律，严厉打击选举伪造行为</title>
-      <link>https://apnews.com/article/california-artificial-intelligence-deepfakes-election-0e70cb32b06d9187eaef5bdacaba6d77</link>
-      <description><![CDATA[美联社9 月 17 日，加州州长加文·纽瑟姆签署法律，禁止在选举日前 120 天和选举日后 60 天内制作和发布与选举相关的深度伪造视频，同时允许法院阻止其传播并施加民事处罚。纽森签署的其他法案将要求大型社交媒体平台删除深度伪造，并要求政治竞选活动公开披露是否投放了包含人工智能修改材料的广告。摘自“加州州长签署法律打击选举深度伪造”
-美联社 (09/17/24) Tran Nguyen 查看全文]]></description>
-      <guid>https://apnews.com/article/california-artificial-intelligence-deepfakes-election-0e70cb32b06d9187eaef5bdacaba6d77</guid>
-      <pubDate>Tue, 24 Sep 2024 18:11:33 GMT</pubDate>
+      <title>人们担心麦当劳的触摸屏自助服务终端会扼杀就业。但令人惊讶的是，事情发生了</title>
+      <link>https://www.cnn.com/2024/09/20/business/self-service-kiosks-mcdonalds-shake-shack/index.html</link>
+      <description><![CDATA[CNN尽管有人预测麦当劳和其他快餐连锁店的自助服务亭将减少工作岗位，但 Placer.ai 分析师 RJ Hottovy 认为，劳动力已被重新分配以处理移动订购和配送问题。Hottovy 补充说：“如果自助服务亭真的能提高服务速度、订单准确性和追加销售，它们将比现在在整个行业更广泛地推广。”摘自“麦当劳触摸屏自助服务亭被认为是扼杀工作岗位的杀手。相反，令人惊讶的事情发生了”
+CNN (09/20/24) Nathaniel Meyersohn 查看全文]]></description>
+      <guid>https://www.cnn.com/2024/09/20/business/self-service-kiosks-mcdonalds-shake-shack/index.html</guid>
+      <pubDate>Wed, 25 Sep 2024 18:11:25 GMT</pubDate>
     </item>
     <item>
-      <title>David A. Padua 将获得 ACM-IEEE CS Ken Kennedy 奖</title>
-      <link>https://www.acm.org/media-center/2024/september/kennedy-award-2024</link>
-      <description><![CDATA[ACM 媒体中心伊利诺伊大学厄巴纳-香槟分校的 David A. Padua 因其在并行和高性能计算领域的重大贡献而被提名为 2024 年 ACM-IEEE CS Ken Kennedy 奖的获得者。Padua 是 ACM 和 IEEE 的院士，他因其在开发推测并行和数组私有化方面所发挥的作用而获得认可，这些功能可以在并行计算期间正确同步多个线程；用于调试并行程序的竞争检测；数组平铺以提高并行性和缓存性能；并行 Matlab 编译和矢量化编译器评估技术。摘自“David A. Padua 将获得 ACM-IEEE CS Ken Kennedy 奖”
-ACM 媒体中心 (09/18/24) 查看全文]]></description>
-      <guid>https://www.acm.org/media-center/2024/september/kennedy-award-2024</guid>
-      <pubDate>Tue, 24 Sep 2024 18:11:32 GMT</pubDate>
+      <title>微软 AI 需要大量电力，因此利用美国核泄漏地点</title>
+      <link>https://www.bloomberg.com/news/articles/2024-09-20/microsoft-s-ai-power-needs-prompt-revival-of-three-mile-island-nuclear-plant</link>
+      <description><![CDATA[彭博社Constellation Energy Corp. 将斥资 16 亿美元恢复宾夕法尼亚州的三哩岛核电站，微软同意购买 20 年内的所有输出能源，以期为其 AI 数据中心提供无碳电力。Constellation 表示，2019 年关闭的反应堆将于 2028 年重新投入使用。这笔交易是微软计划到 2025 年让其所有数据中心都使用清洁能源运行的一部分。摘自“微软 AI 需要如此多的电力，以至于它正在利用美国核熔毁地点”
+彭博社 (09/20/24) Will Wade； Dina Bass 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-09-20/microsoft-s-ai-power-needs-prompt-revival-of-three-mile-island-nuclear-plant</guid>
+      <pubDate>Wed, 25 Sep 2024 18:11:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>拜登提议禁止中国汽车和“联网汽车”技术在美国道路上行驶</title>
+      <link>https://www.reuters.com/business/autos-transportation/biden-proposes-banning-chinese-vehicles-us-roads-with-software-crackdown-2024-09-23/</link>
+      <description><![CDATA[路透社美国商务部周一宣布的一项拟议法规将禁止在美国道路上使用中国软件和硬件的联网汽车，以回应国家安全担忧。拟议法规将禁止中国汽车制造商在美国道路上测试自动驾驶汽车。禁令可能会扩展到俄罗斯和其他美国对手的汽车软件和硬件。摘自“拜登提议禁止中国汽车和‘联网汽车’技术进入美国道路”
+路透社 (09/23/24) David Shepardson 查看全文]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/biden-proposes-banning-chinese-vehicles-us-roads-with-software-crackdown-2024-09-23/</guid>
+      <pubDate>Wed, 25 Sep 2024 18:11:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>神经形态导线放大自身信号</title>
+      <link>https://spectrum.ieee.org/negative-resistance</link>
+      <description><![CDATA[IEEE Spectrum由德克萨斯农工大学的 R. Stanley Williams 领导的研究小组开发了自放大神经形态线，模仿携带人类神经细胞信号的轴突。为了在没有放大器或其他设备帮助的情况下放大沿线传输的信号，研究人员使用了一层镧钴氧化物，顶部有一条 1 毫米的金属线；他们用直流电偏置镧钴氧化物，并通过金属传递交流电信号。研究人员观察到通过电线传输的信号被放大了 70% 以上。摘自“神经形态线放大自己的信号”
+IEEE Spectrum (09/16/24) Katherine Bourzac 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/negative-resistance</guid>
+      <pubDate>Wed, 25 Sep 2024 18:11:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>联合国专家敦促联合国为人工智能全球治理奠定基础</title>
+      <link>https://apnews.com/article/un-artificial-intelligence-global-governance-risks-benefits-f755788da7d5905fcc2d44edf93c4bec</link>
+      <description><![CDATA[美联社由来自 33 个国家的 39 位人工智能领导人组成的联合国咨询机构呼吁联合国为人工智能的全球监管奠定基础，并制定包括国际法和人权法在内的原则，以指导建立新的人工智能治理机构。除其他事项外，该咨询小组建议成立一个国际人工智能科学小组，以确保全球了解该技术的能力和风险。摘自“联合国专家敦促联合国为人工智能的全球治理奠定基础”
+美联社 (09/19/24) Edith M. Lederer 查看全文]]></description>
+      <guid>https://apnews.com/article/un-artificial-intelligence-global-governance-risks-benefits-f755788da7d5905fcc2d44edf93c4bec</guid>
+      <pubDate>Wed, 25 Sep 2024 18:11:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
