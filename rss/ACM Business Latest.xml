@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 26 Sep 2024 12:16:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 15:08:37 GMT</lastBuildDate>
+    <item>
+      <title>空袭和火箭弹袭击中，敌人发来短信</title>
+      <link>https://www.wired.com/story/amid-air-strikes-and-rockets-an-sms-from-the-enemy/</link>
+      <description><![CDATA[随着以色列加大对黎巴嫩的攻击力度，边界两边的平民手机中不断收到令人毛骨悚然的信息，两国当局都指责对方发动心理战。]]></description>
+      <guid>https://www.wired.com/story/amid-air-strikes-and-rockets-an-sms-from-the-enemy/</guid>
+      <pubDate>Thu, 26 Sep 2024 12:24:17 GMT</pubDate>
+    </item>
     <item>
       <title>飞行员因疲劳而死亡。科技无法拯救他们</title>
       <link>https://www.wired.com/story/pilots-are-dying-of-tiredness-tech-cant-save-them/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[Go 语言诞生于程序员自我意识较弱、商业野心较小的时代。我们这一代奋斗者还有很多东西要学。]]></description>
       <guid>https://www.wired.com/story/attention-spoiled-software-engineers-take-a-lesson-from-googles-programming-language/</guid>
       <pubDate>Mon, 23 Sep 2024 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>TikTok 的防御策略包括将 Shein 和 Temu 置于危险境地</title>
-      <link>https://www.wired.com/story/tiktok-defense-china-ban/</link>
-      <description><![CDATA[为了捍卫自己免受美国禁令的影响，TikTok 指出其他中国公司也可能收集与它一样多的数据。]]></description>
-      <guid>https://www.wired.com/story/tiktok-defense-china-ban/</guid>
-      <pubDate>Mon, 23 Sep 2024 09:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
