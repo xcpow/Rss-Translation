@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 27 Sep 2024 06:13:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 09:09:33 GMT</lastBuildDate>
+    <item>
+      <title>中国计划实现人工智能水印</title>
+      <link>https://www.wired.com/story/china-wants-to-make-ai-watermarks-happen/</link>
+      <description><![CDATA[中国的新法规试图定义人工智能内容标签的运作方式并消除人工智能生成的虚假信息。]]></description>
+      <guid>https://www.wired.com/story/china-wants-to-make-ai-watermarks-happen/</guid>
+      <pubDate>Fri, 27 Sep 2024 07:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Shein 员工受够了——他们要上市</title>
       <link>https://www.wired.com/story/the-shein-gig-workers-packing-your-order/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[巴拉吉·斯里尼瓦桑一直宣称，以加密货币为驱动力的“网络国家”是社会的下一个发展方向。他为期三个月的网络学校将把这些理念直接带给 150 名热切的学生。]]></description>
       <guid>https://www.wired.com/story/network-school-balaji-srinivasan/</guid>
       <pubDate>Mon, 23 Sep 2024 17:20:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cloudflare 推出新工具，让网站可以免费检测和阻止 AI 机器人</title>
-      <link>https://www.wired.com/story/cloudflare-tools-detect-block-ai-bots/</link>
-      <description><![CDATA[Cloudflare 首席执行官马修·普林斯 (Matthew Prince) 在谈到猖獗的人工智能数据抓取时告诉《连线》杂志：“我们所走的道路是不可持续的。”以下是他纠正这一问题的计划。]]></description>
-      <guid>https://www.wired.com/story/cloudflare-tools-detect-block-ai-bots/</guid>
-      <pubDate>Mon, 23 Sep 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
