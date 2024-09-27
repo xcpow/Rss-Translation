@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 27 Sep 2024 09:09:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 12:15:39 GMT</lastBuildDate>
+    <item>
+      <title>互联网档案馆的自我拯救之战</title>
+      <link>https://www.wired.com/story/internet-archive-memory-wayback-machine-lawsuits/</link>
+      <description><![CDATA[网络的集体记忆存储在互联网档案馆的服务器中。法律纠纷有可能将其全部抹去。]]></description>
+      <guid>https://www.wired.com/story/internet-archive-memory-wayback-machine-lawsuits/</guid>
+      <pubDate>Fri, 27 Sep 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>中国计划实现人工智能水印</title>
       <link>https://www.wired.com/story/china-wants-to-make-ai-watermarks-happen/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[美国希望禁止在汽车上安装任何中国或俄罗斯的软件，据称是出于安全考虑。如果拟议规则最终得以实施，那么短期内美国不会看到中国制造的电动汽车。]]></description>
       <guid>https://www.wired.com/story/us-ban-china-russia-ev-cars-security/</guid>
       <pubDate>Mon, 23 Sep 2024 22:18:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>一所面向网络国家人群的神秘学校正在开学</title>
-      <link>https://www.wired.com/story/network-school-balaji-srinivasan/</link>
-      <description><![CDATA[巴拉吉·斯里尼瓦桑一直宣称，以加密货币为驱动力的“网络国家”是社会的下一个发展方向。他为期三个月的网络学校将把这些理念直接带给 150 名热切的学生。]]></description>
-      <guid>https://www.wired.com/story/network-school-balaji-srinivasan/</guid>
-      <pubDate>Mon, 23 Sep 2024 17:20:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
