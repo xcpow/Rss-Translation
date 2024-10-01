@@ -4,7 +4,21 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Tue, 01 Oct 2024 12:16:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 15:09:08 GMT</lastBuildDate>
+    <item>
+      <title>微软 AI 主管希望 Copilot 为 Windows 和 Office 带来“情感支持”</title>
+      <link>https://www.wired.com/story/mustafa-suleyman-interview-microsoft-ai-ceo-copilot/</link>
+      <description><![CDATA[微软人工智能首席执行官穆斯塔法·苏莱曼 (Mustafa Suleyman) 正在监督一项改革，旨在让 Copilot 拥有富有同情心的声音、视觉能力和更高级的推理能力。]]></description>
+      <guid>https://www.wired.com/story/mustafa-suleyman-interview-microsoft-ai-ceo-copilot/</guid>
+      <pubDate>Tue, 01 Oct 2024 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软的 Copilot AI 拥有声音、视觉和“炒作人”形象</title>
+      <link>https://www.wired.com/story/microsoft-copilot-vision-voice-emotional-support-windows-office/</link>
+      <description><![CDATA[在 OpenAI 最新模型的支持下，微软的 Copilot 助手变得更加便捷，并希望成为一名“令人鼓舞的”数字同事。]]></description>
+      <guid>https://www.wired.com/story/microsoft-copilot-vision-voice-emotional-support-windows-office/</guid>
+      <pubDate>Tue, 01 Oct 2024 14:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>飓风海伦将给半导体行业带来冲击</title>
       <link>https://www.wired.com/story/hurricane-helene-shockwaves-semiconductor-industry-microchips-spruce-pine-north-carolina-sand-high-quality-quartz/</link>
@@ -78,7 +92,7 @@
     <item>
       <title>飞行员因疲劳而死亡。科技无法拯救他们</title>
       <link>https://www.wired.com/story/pilots-are-dying-of-tiredness-tech-cant-save-them/</link>
-      <description><![CDATA[疫情过后，工作时间的延长给印度飞行员带来了压力，他们不得不长时间工作而无法休息，但有助于抑制过度劳累的监控技术却不太完善且难以找到。]]></description>
+      <description><![CDATA[疫情过后，工作时间的延长给印度飞行员带来了压力，他们不得不长时间工作而无法休息，但有助于抑制过度劳累的监测技术却不太完善且很难找到。]]></description>
       <guid>https://www.wired.com/story/pilots-are-dying-of-tiredness-tech-cant-save-them/</guid>
       <pubDate>Thu, 26 Sep 2024 08:00:00 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[在 X 上发布给 OpenAI 团队的一封信中，穆拉蒂​​写道“现在是辞职的正确时机”。]]></description>
       <guid>https://www.wired.com/story/openai-cto-mira-murati-is-leaving-the-company/</guid>
       <pubDate>Wed, 25 Sep 2024 19:58:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 发布 Llama 3.2 — 并为其 AI 提供语音功能</title>
-      <link>https://www.wired.com/story/meta-releases-new-llama-model-ai-voice/</link>
-      <description><![CDATA[Meta 的 AI 助手现在可以说话并观察世界。该公司还发布了多模式 Llama 3.2，这是一款具有视觉技能的免费模型。]]></description>
-      <guid>https://www.wired.com/story/meta-releases-new-llama-model-ai-voice/</guid>
-      <pubDate>Wed, 25 Sep 2024 17:28:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>迄今为止最强大的开源 AI 模型可以为 AI 代理提供强大动力</title>
-      <link>https://www.wired.com/story/molmo-open-source-multimodal-ai-model-allen-institute-agents/</link>
-      <description><![CDATA[紧凑且完全开源的视觉 AI 模型将使 AI 更容易控制您的计算机——希望是以好的方式。]]></description>
-      <guid>https://www.wired.com/story/molmo-open-source-multimodal-ai-model-allen-institute-agents/</guid>
-      <pubDate>Wed, 25 Sep 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
