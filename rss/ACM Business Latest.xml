@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Tue, 01 Oct 2024 18:11:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 21:09:11 GMT</lastBuildDate>
+    <item>
+      <title>23andMe 正在快速下沉。该公司还能生存下去吗？</title>
+      <link>https://www.wired.com/story/is-23andme-dead-at-home-genetic-testing-anne-wojcicki/</link>
+      <description><![CDATA[家庭 DNA 检测热潮已经结束，23andMe 的选择也越来越少。]]></description>
+      <guid>https://www.wired.com/story/is-23andme-dead-at-home-genetic-testing-anne-wojcicki/</guid>
+      <pubDate>Tue, 01 Oct 2024 20:41:25 GMT</pubDate>
+    </item>
     <item>
       <title>微软 AI 主管希望 Copilot 为 Windows 和 Office 带来“情感支持”</title>
       <link>https://www.wired.com/story/mustafa-suleyman-interview-microsoft-ai-ceo-copilot/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[在 Meta 的 Connect 开发者大会上，首席执行官马克·扎克伯格展示了 Orion，这是一款未来派的智能眼镜，公司希望它能引领个人计算领域的下一次基础性转变。]]></description>
       <guid>https://www.wired.com/story/meta-orion-glasses-augmented-reality-mark-zuckerberg/</guid>
       <pubDate>Wed, 25 Sep 2024 20:44:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 首席技术官 Mira Murati 将离职</title>
-      <link>https://www.wired.com/story/openai-cto-mira-murati-is-leaving-the-company/</link>
-      <description><![CDATA[在 X 上发布给 OpenAI 团队的一封信中，穆拉蒂​​写道“现在是辞职的正确时机”。]]></description>
-      <guid>https://www.wired.com/story/openai-cto-mira-murati-is-leaving-the-company/</guid>
-      <pubDate>Wed, 25 Sep 2024 19:58:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
