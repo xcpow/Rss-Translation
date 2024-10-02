@@ -4,7 +4,21 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Wed, 02 Oct 2024 15:08:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 18:12:14 GMT</lastBuildDate>
+    <item>
+      <title>破解生成式人工智能，乐趣与收益</title>
+      <link>https://www.wired.com/story/sundai-club-generative-ai-hackathon-group/</link>
+      <description><![CDATA[Sundai 俱乐部每月聚会一次，目标是突破生成式人工智能的极限。今年早些时候，俱乐部成员为我开发了一款方便记者使用的工具。]]></description>
+      <guid>https://www.wired.com/story/sundai-club-generative-ai-hackathon-group/</guid>
+      <pubDate>Wed, 02 Oct 2024 17:59:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pavel Durov 在用户不满中为 Telegram 隐私变更辩护</title>
+      <link>https://www.wired.com/story/pavel-durov-defends-telegram-privacy-changes/</link>
+      <description><![CDATA[在 Telegram 创始人帕维尔·杜罗夫 (Pavel Durov) 在法国被捕后，该平台做出了多项改变，似乎使其对当局更加友好。]]></description>
+      <guid>https://www.wired.com/story/pavel-durov-defends-telegram-privacy-changes/</guid>
+      <pubDate>Wed, 02 Oct 2024 17:32:19 GMT</pubDate>
+    </item>
     <item>
       <title>如何使用 Google 的 NotebookLM 生成 AI 播客</title>
       <link>https://www.wired.com/story/ai-podcast-google-notebooklm/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[工人们一直在分享视频，指责恶劣的工作条件让这家中国电子商务巨头得以实现不可阻挡的增长。]]></description>
       <guid>https://www.wired.com/story/the-shein-gig-workers-packing-your-order/</guid>
       <pubDate>Fri, 27 Sep 2024 06:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>空袭和火箭弹袭击中，敌人发来短信</title>
-      <link>https://www.wired.com/story/amid-air-strikes-and-rockets-an-sms-from-the-enemy/</link>
-      <description><![CDATA[随着以色列加大对黎巴嫩的攻击力度，边界两边的平民手机中不断收到令人毛骨悚然的信息，两国当局都指责对方发动心理战。]]></description>
-      <guid>https://www.wired.com/story/amid-air-strikes-and-rockets-an-sms-from-the-enemy/</guid>
-      <pubDate>Thu, 26 Sep 2024 12:24:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>飞行员因疲劳而死亡。科技无法拯救他们</title>
-      <link>https://www.wired.com/story/pilots-are-dying-of-tiredness-tech-cant-save-them/</link>
-      <description><![CDATA[疫情过后，工作时间的延长给印度飞行员带来了压力，他们不得不长时间工作而无法休息，但有助于抑制过度劳累的监测技术却不太完善且很难找到。]]></description>
-      <guid>https://www.wired.com/story/pilots-are-dying-of-tiredness-tech-cant-save-them/</guid>
-      <pubDate>Thu, 26 Sep 2024 08:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
