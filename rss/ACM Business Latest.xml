@@ -4,7 +4,21 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 03 Oct 2024 15:08:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 18:11:36 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 的 ChatGPT 打破常规，进入画布</title>
+      <link>https://www.wired.com/story/chatgpt-canvas-openai/</link>
+      <description><![CDATA[ChatGPT 的新画布界面可以对写作和代码提出改进建议以及进行在线更改。]]></description>
+      <guid>https://www.wired.com/story/chatgpt-canvas-openai/</guid>
+      <pubDate>Thu, 03 Oct 2024 17:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌的视觉搜索现在可以回答更复杂的问题</title>
+      <link>https://www.wired.com/story/google-lens-multimodal-search/</link>
+      <description><![CDATA[Google Lens 于 2017 年推出，每月处理 200 亿次视觉搜索。现在它还可以处理视频和语音。]]></description>
+      <guid>https://www.wired.com/story/google-lens-multimodal-search/</guid>
+      <pubDate>Thu, 03 Oct 2024 16:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>破解生成式人工智能，乐趣与收益</title>
       <link>https://www.wired.com/story/sundai-club-generative-ai-hackathon-group/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[网络的集体记忆存储在互联网档案馆的服务器中。法律纠纷有可能将其全部抹去。]]></description>
       <guid>https://www.wired.com/story/internet-archive-memory-wayback-machine-lawsuits/</guid>
       <pubDate>Fri, 27 Sep 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国计划实现人工智能水印</title>
-      <link>https://www.wired.com/story/china-wants-to-make-ai-watermarks-happen/</link>
-      <description><![CDATA[中国的新法规试图定义人工智能内容标签的运作方式并消除人工智能生成的虚假信息。]]></description>
-      <guid>https://www.wired.com/story/china-wants-to-make-ai-watermarks-happen/</guid>
-      <pubDate>Fri, 27 Sep 2024 07:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Shein 员工受够了——他们要上市</title>
-      <link>https://www.wired.com/story/the-shein-gig-workers-packing-your-order/</link>
-      <description><![CDATA[工人们一直在分享视频，指责恶劣的工作条件让这家中国电子商务巨头得以实现不可阻挡的增长。]]></description>
-      <guid>https://www.wired.com/story/the-shein-gig-workers-packing-your-order/</guid>
-      <pubDate>Fri, 27 Sep 2024 06:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
