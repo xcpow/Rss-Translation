@@ -4,111 +4,102 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Wed, 25 Sep 2024 18:11:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 15:09:14 GMT</lastBuildDate>
     <item>
-      <title>每封电子邮件赠送一瓶水：使用人工智能聊天机器人的隐性环境成本</title>
-      <link>https://www.washingtonpost.com/technology/2024/09/18/energy-ai-use-electricity-water-data-centers/</link>
-      <description><![CDATA[华盛顿邮报华盛顿邮报与加州大学河滨分校的研究人员合作，确定使用 ChatGPT 撰写一封平均 100 字的电子邮件需要多少水和电。他们确定，这样一封电子邮件只需要一瓶多一点的水，但一年内每周发送一次，所需的水量相当于罗德岛州每个家庭 1.5 天的用水量。摘自“每封电子邮件一瓶水：使用 AI 聊天机器人的隐性环境成本”
-华盛顿邮报 (09/18/24) Pranshu Verma；Shelly Tan 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.washingtonpost.com/technology/2024/09/18/energy-ai-use-electricity-water-data-centers/</guid>
-      <pubDate>Wed, 25 Sep 2024 18:11:29 GMT</pubDate>
+      <title>揭秘价值 6.21 亿美元的“互联网灵魂”诉讼案</title>
+      <link>https://www.rollingstone.com/music/music-features/internet-archive-major-label-music-lawsuit-1235105273/</link>
+      <description><![CDATA[《滚石》互联网档案馆 (IA) 面临由环球音乐集团和索尼音乐牵头的侵犯版权诉讼，诉讼内容涉及其 Great 78 项目，该项目将过时的 78 rpm 唱片数字化。唱片公司的目标是 IA 上传的 4,142 份唱片，潜在损失总额超过 6.21 亿美元。摘自“6.21 亿美元‘互联网灵魂’法律战内幕”
+《滚石》 (09/29/24) Jon Blistein 查看全文]]></description>
+      <guid>https://www.rollingstone.com/music/music-features/internet-archive-major-label-music-lawsuit-1235105273/</guid>
+      <pubDate>Fri, 04 Oct 2024 15:09:13 GMT</pubDate>
     </item>
     <item>
-      <title>Google Chrome 改用 ML-KEM 实现后量子密码防御</title>
-      <link>https://thehackernews.com/2024/09/google-chrome-switches-to-ml-kem-for.html</link>
-      <description><![CDATA[The Hacker News谷歌表示，将在 11 月初发布的 Chrome 浏览器 131 版中从 KYBER 转向 ML-KEM（基于模块格的密钥封装机制）以进行后量子密码防御。该公司将这一转变归因于 ML-KEM 最终版本的更改，这使其与 KYBER 不兼容。摘自“Google Chrome 转向 ML-KEM 进行后量子密码防御”
-The Hacker News (09/17/24) Ravie Lakshmanan 查看全文]]></description>
-      <guid>https://thehackernews.com/2024/09/google-chrome-switches-to-ml-kem-for.html</guid>
-      <pubDate>Wed, 25 Sep 2024 18:11:29 GMT</pubDate>
+      <title>法官阻止加州出台新法律打击选举伪造行为</title>
+      <link>https://apnews.com/article/california-deepfake-election-law-ee5a3d7cba3e9f5caddf91b127e4938a</link>
+      <description><![CDATA[美联社美国地区法官约翰·A·门德斯于 10 月 2 日发布了一项初步禁令，以阻止加州的一项新法律，该法律允许任何个人就与选举深度伪造相关的损害赔偿提起诉讼。门德斯表示，这项法律可能违反了《第一修正案》，但他承认人工智能和深度伪造带来的风险。州长加文·纽森当时还签署了另外两项法案，旨在打击使用人工智能在政治广告中制作虚假图像或视频的行为。摘自“法官阻止加州新法律打击选举深度伪造”
+美联社 (10/02/24) 查看全文]]></description>
+      <guid>https://apnews.com/article/california-deepfake-election-law-ee5a3d7cba3e9f5caddf91b127e4938a</guid>
+      <pubDate>Fri, 04 Oct 2024 15:09:13 GMT</pubDate>
     </item>
     <item>
-      <title>部分美国卡巴斯基客户发现其安全软件被替换</title>
-      <link>https://www.theregister.com/2024/09/24/ultraav_kaspersky_antivirus/</link>
-      <description><![CDATA[The Register由于担心俄罗斯可能利用卡巴斯基产品监视美国公民，美国政府禁止销售卡巴斯基产品。此后，Windows 系统上使用该公司防病毒产品的用户的软件被标记为 UltraAV 的软件自动替换。据报道，UltraAV 软件尚未经过反恶意软件测试标准组织的测试，大多数主要的防病毒测试实验室都没有看到 UltraAV 的代码。摘自“部分美国卡巴斯基客户发现他们的安全软件被替换”
-The Register (09/24/24) Iain Thomson 查看全文]]></description>
-      <guid>https://www.theregister.com/2024/09/24/ultraav_kaspersky_antivirus/</guid>
-      <pubDate>Wed, 25 Sep 2024 18:11:28 GMT</pubDate>
+      <title>路易斯安那州希望学生学习计算机科学基础知识</title>
+      <link>https://www.nola.com/news/education/louisiana-kids-will-be-required-to-take-computer-science/article_b15a4056-802d-11ef-92e0-3b9e5e65a058.html</link>
+      <description><![CDATA[NOLA.com作为 211 号法案实施的一部分，路易斯安那州中小学教育委员会正在审查 K-12 计算机科学 (CS) 学习标准。该法律要求公立学校在 2026-27 学年开始向 6-8 年级学生教授计算机科学基础知识，并在 2027-28 学年开始向小学学生教授计算机科学基础知识。摘自“路易斯安那州希望学生学习计算机科学基础知识”
+NOLA.com (10/02/24) Elyse Carmosino 查看全文]]></description>
+      <guid>https://www.nola.com/news/education/louisiana-kids-will-be-required-to-take-computer-science/article_b15a4056-802d-11ef-92e0-3b9e5e65a058.html</guid>
+      <pubDate>Fri, 04 Oct 2024 15:09:12 GMT</pubDate>
     </item>
     <item>
-      <title>Meta 致欧盟：你们的技术规则威胁到人工智能繁荣</title>
-      <link>https://www.wsj.com/tech/ai/meta-to-european-union-your-tech-rules-threaten-to-squelch-ai-boom-35297c03?page=1</link>
-      <description><![CDATA[《华尔街日报》在由 Facebook 母公司 Meta Platforms 协调的一封公开信中，高管们警告称，欧盟可能会因为其技术监管而错失人工智能的全部好处。超过二十家公司签署了这封信，信中称人工智能可以提高生产力并扩大经济。这封信呼吁欧盟协调其规则，并提供签署者所称的欧盟数据保护法的现代解释。摘自“Meta 到欧盟：您的技术规则威胁要扼杀人工智能热潮”
-华尔街日报 (09/19/24) Kim Mackrael 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/tech/ai/meta-to-european-union-your-tech-rules-threaten-to-squelch-ai-boom-35297c03?page=1</guid>
-      <pubDate>Wed, 25 Sep 2024 18:11:28 GMT</pubDate>
+      <title>劳动力短缺阻碍数据中心繁荣</title>
+      <link>https://www.bbc.com/news/articles/c24pvm8ly18o</link>
+      <description><![CDATA[BBC英国数据中心行业不仅面临着为新数据中心寻找足够土地和电力的挑战，而且还面临着寻找熟练建筑工人来建设数据中心的挑战。鉴于数据中心运营商的特殊需求，他们不能简单地从传统建筑行业招募更多工人。摘自“工人短缺阻碍数据中心繁荣”
+BBC (09/30/24) Joe Fay 查看全文]]></description>
+      <guid>https://www.bbc.com/news/articles/c24pvm8ly18o</guid>
+      <pubDate>Fri, 04 Oct 2024 15:09:12 GMT</pubDate>
     </item>
     <item>
-      <title>Telegram 将向当局提供部分用户数据</title>
-      <link>https://www.bbc.com/news/articles/cvglp0xny3eo</link>
-      <description><![CDATA[BBCTelegram 消息应用程序已更改其服务条款和隐私政策，声明它将根据搜查令或当局的其他有效法律要求提供用户的 IP 地址和电话号码。斯坦福大学的 Daphne Keller 表示，该政策可能无法满足法国和欧洲法律的要求，并指出一些国家要求在发布儿童性虐待材料和其他非法内容时通知当局。摘自“Telegram 现在将向当局提供一些用户数据”
-BBC (09/23/24) Lily Jamali 查看全文]]></description>
-      <guid>https://www.bbc.com/news/articles/cvglp0xny3eo</guid>
-      <pubDate>Wed, 25 Sep 2024 18:11:27 GMT</pubDate>
+      <title>Meta Glasses 实时提取个人信息</title>
+      <link>https://newatlas.com/technology/meta-rayban-facial-recognition-glasses/</link>
+      <description><![CDATA[New Atlas利用公开可用的人工智能面部识别技术和 Meta 的 Ray-Ban 2 智能太阳镜的直播功能，哈佛大学学生 AnhPhu Nguyen 开发的 I-Xray 软件可让用户实时为智能眼镜捕捉到的每个人生成个人数据。该软件使用大型语言模型从各种数据库中抓取数据，以查找个人的姓名、地址、电话号码、近亲和社会安全号码，并将数据汇总到用户手机上可搜索的个人资料中。摘自“Meta Glasses 实时提取个人信息”
+New Atlas (10/02/24) Joe Salas 查看全文]]></description>
+      <guid>https://newatlas.com/technology/meta-rayban-facial-recognition-glasses/</guid>
+      <pubDate>Fri, 04 Oct 2024 15:09:11 GMT</pubDate>
     </item>
     <item>
-      <title>数学是实现不编造内容的聊天机器人的途径吗？</title>
-      <link>https://www.nytimes.com/2024/09/23/technology/ai-chatbots-chatgpt-math.html</link>
-      <description><![CDATA[《纽约时报》硅谷初创公司 Harmonic 专注于数学，致力于开发一款永远不会产生幻觉的人工智能聊天机器人。Harmonic 的亚里士多德不仅能给出正确的答案，还能提供详细的计算机程序来证明其答案是正确的，然后可以用来改进其结果。一些研究人员认为，同样的技术也可以用来开发能够验证物理事实的人工智能系统。摘自“数学是通往不编造东西的聊天机器人的道路吗？”
-
-《纽约时报》（2024 年 9 月 23 日）Cade Metz 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/09/23/technology/ai-chatbots-chatgpt-math.html</guid>
-      <pubDate>Wed, 25 Sep 2024 18:11:27 GMT</pubDate>
+      <title>卡马拉·哈里斯竞选车队因困惑的机器人出租车而受阻</title>
+      <link>https://www.theregister.com/2024/09/30/kamala_harris_motorcade_waymo_delay/</link>
+      <description><![CDATA[The Register（英国）9 月 27 日，美国副总统兼民主党总统候选人卡马拉·哈里斯的车队在加利福尼亚州旧金山被两辆 Waymo 机器人出租车延误。第一辆机器人出租车在无法掉头后堵塞了交通，需要一名警察将其赶走。据报道，第二起事故涉及一辆困惑的自动驾驶出租车。目前尚不清楚故障原因。摘自“困惑的机器人出租车拦住了卡马拉·哈里斯的竞选车队”
+The Register（英国）（2024 年 9 月 30 日）Simon Sharwood]]></description>
+      <guid>https://www.theregister.com/2024/09/30/kamala_harris_motorcade_waymo_delay/</guid>
+      <pubDate>Fri, 04 Oct 2024 15:09:11 GMT</pubDate>
     </item>
     <item>
-      <title>研究发现数千个浏览器扩展程序泄露用户数据</title>
-      <link>https://news.gatech.edu/news/2024/09/17/study-finds-thousands-browser-extensions-compromise-user-data</link>
-      <description><![CDATA[佐治亚理工学院新闻中心佐治亚理工学院的研究人员开发了 Arcanum 网络框架，以研究 Google Chrome 网上应用店中提供的 100,000 多个功能性浏览器扩展程序，以确定它们是否从包含敏感数据的网站中提取用户数据。研究人员发现，3,000 多个浏览器扩展程序会自动收集用户特定数据，其中 200 多个将敏感用户数据从网页上传到服务器。摘自“研究发现数千个浏览器扩展程序泄露用户数据”
-佐治亚理工学院新闻中心 (09/17/24) 查看全文]]></description>
-      <guid>https://news.gatech.edu/news/2024/09/17/study-finds-thousands-browser-extensions-compromise-user-data</guid>
-      <pubDate>Wed, 25 Sep 2024 18:11:26 GMT</pubDate>
+      <title>欧盟要求 YouTube、Snapchat、TikTok 提供内容算法信息</title>
+      <link>https://www.reuters.com/technology/eu-requests-information-youtube-snapchat-tiktok-about-recommendations-2024-10-02/</link>
+      <description><![CDATA[路透社欧盟委员会 (EC) 要求 YouTube、Snapchat 和 TikTok 提供有关其算法向用户推荐内容所使用的参数以及它们在放大风险方面的作用的信息，包括与选举过程、心理健康和未成年人保护有关的风险。欧盟委员会表示，这些根据《数字服务法》(DSA) 提出的请求“还涉及平台为减轻其推荐系统对非法内容传播的潜在影响而采取的措施，例如宣传非法毒品和仇恨言论”。摘自“欧盟要求 YouTube、Snapchat、TikTok 提供有关内容算法的信息”
+路透社 (10/02/24) Makini Brice； Benoit Van Overstraeten 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/eu-requests-information-youtube-snapchat-tiktok-about-recommendations-2024-10-02/</guid>
+      <pubDate>Fri, 04 Oct 2024 15:09:11 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能“教父”称 OpenAI 的新模型可能具有欺骗性，需要“更严格的安全测试”</title>
-      <link>https://www.businessinsider.com/ai-godfather-yoshua-bengio-openai-safety-o1-model-deception-concerns-2024-9</link>
-      <description><![CDATA[商业内幕ACM A.M. 图灵奖获得者 Yoshua Bengio 担心 OpenAI 的新 o1 模型的欺骗能力，并指出其“推理能力远远优于其前辈”。 Bengio 表示，“一般来说，欺骗的能力非常危险，我们应该有更强大的安全测试来评估这种风险及其在 o1 案例中的后果。”摘自“AI‘教父’称 OpenAI 的新模型可能具有欺骗能力，需要‘更强大的安全测试’”
-Business Insider (09/21/24) Kenneth Niemeyer 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.businessinsider.com/ai-godfather-yoshua-bengio-openai-safety-o1-model-deception-concerns-2024-9</guid>
-      <pubDate>Wed, 25 Sep 2024 18:11:26 GMT</pubDate>
+      <title>机器人帮助患病儿童上学</title>
+      <link>https://www.cnn.com/business/tech/av1-robot-sick-children-school-spc/index.html</link>
+      <description><![CDATA[CNN挪威公司 No Isolation 开发的 AV1 机器人可以代替缺课儿童上课。该机器人形状像人类头部和躯干的缩小版，可以 360 度旋转，并配有摄像头、麦克风和扬声器。学生通过应用程序远程控制 AV1，可以在屏幕上滑动手指查看教室的不同角落，并通过扬声器与全班同学交流。摘自“机器人帮助生病儿童上学”
+CNN (10/03/24) Nadia Leigh-Hewitson 查看全文]]></description>
+      <guid>https://www.cnn.com/business/tech/av1-robot-sick-children-school-spc/index.html</guid>
+      <pubDate>Fri, 04 Oct 2024 15:09:10 GMT</pubDate>
     </item>
     <item>
-      <title>人们担心麦当劳的触摸屏自助服务终端会扼杀就业。但令人惊讶的是，事情发生了</title>
-      <link>https://www.cnn.com/2024/09/20/business/self-service-kiosks-mcdonalds-shake-shack/index.html</link>
-      <description><![CDATA[CNN尽管有人预测麦当劳和其他快餐连锁店的自助服务亭将减少工作岗位，但 Placer.ai 分析师 RJ Hottovy 认为，劳动力已被重新分配以处理移动订购和配送问题。Hottovy 补充说：“如果自助服务亭真的能提高服务速度、订单准确性和追加销售，它们将比现在在整个行业更广泛地推广。”摘自“麦当劳触摸屏自助服务亭被认为是扼杀工作岗位的杀手。相反，令人惊讶的事情发生了”
-CNN (09/20/24) Nathaniel Meyersohn 查看全文]]></description>
-      <guid>https://www.cnn.com/2024/09/20/business/self-service-kiosks-mcdonalds-shake-shack/index.html</guid>
-      <pubDate>Wed, 25 Sep 2024 18:11:25 GMT</pubDate>
+      <title>网络主管薪酬上涨</title>
+      <link>https://www.wsj.com/articles/pay-rises-for-cyber-chiefs-as-hacks-regulatory-pressure-increase-1bf737d9</link>
+      <description><![CDATA[WSJ Pro Cyber​​security网络安全公司 IANS 和招聘公司 Artico Search 对 755 名安全专家进行的一项调查发现，今年美国企业首席信息安全官 (CISO) 的平均薪酬为 565,000 美元，高于 2023 年的 550,000 美元和 2022 年的 495,000 美元。调查还显示，绩效加薪平均占 2024 年薪酬的 6.4%。 CISO 可以通过更换雇主或在竞争工作时提出反竞价来实现 31% 的薪酬增长。摘自“网络主管薪酬上涨”
+WSJ Pro Cyber​​security (10/02/24) Catherine Stupp 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/articles/pay-rises-for-cyber-chiefs-as-hacks-regulatory-pressure-increase-1bf737d9</guid>
+      <pubDate>Fri, 04 Oct 2024 15:09:10 GMT</pubDate>
     </item>
     <item>
-      <title>微软 AI 需要大量电力，因此利用美国核泄漏地点</title>
-      <link>https://www.bloomberg.com/news/articles/2024-09-20/microsoft-s-ai-power-needs-prompt-revival-of-three-mile-island-nuclear-plant</link>
-      <description><![CDATA[彭博社Constellation Energy Corp. 将斥资 16 亿美元恢复宾夕法尼亚州的三哩岛核电站，微软同意购买 20 年内的所有输出能源，以期为其 AI 数据中心提供无碳电力。Constellation 表示，2019 年关闭的反应堆将于 2028 年重新投入使用。这笔交易是微软计划到 2025 年让其所有数据中心都使用清洁能源运行的一部分。摘自“微软 AI 需要如此多的电力，以至于它正在利用美国核熔毁地点”
-彭博社 (09/20/24) Will Wade； Dina Bass 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-09-20/microsoft-s-ai-power-needs-prompt-revival-of-three-mile-island-nuclear-plant</guid>
-      <pubDate>Wed, 25 Sep 2024 18:11:25 GMT</pubDate>
+      <title>美国免除部分半导体工厂环境审查</title>
+      <link>https://www.reuters.com/sustainability/boards-policy-regulation/biden-signs-bill-exempting-some-semiconductor-factories-new-environmental-2024-10-02/</link>
+      <description><![CDATA[路透社美国总统乔·拜登于 10 月 2 日签署的一项立法将免除某些美国半导体制造工厂的联邦环境审查。该法律禁止获得 CHIPS 法案拨款的项目根据 1969 年的国家环境政策法案接受额外的环境审查以获得联邦许可。这项两党立法的支持者表示，额外的审查可能会导致项目被拖延数年。摘自“美国免除部分半导体工厂的环境审查”
+路透社 (10/02/24) David Shepardson 查看全文]]></description>
+      <guid>https://www.reuters.com/sustainability/boards-policy-regulation/biden-signs-bill-exempting-some-semiconductor-factories-new-environmental-2024-10-02/</guid>
+      <pubDate>Fri, 04 Oct 2024 15:09:09 GMT</pubDate>
     </item>
     <item>
-      <title>拜登提议禁止中国汽车和“联网汽车”技术在美国道路上行驶</title>
-      <link>https://www.reuters.com/business/autos-transportation/biden-proposes-banning-chinese-vehicles-us-roads-with-software-crackdown-2024-09-23/</link>
-      <description><![CDATA[路透社美国商务部周一宣布的一项拟议法规将禁止在美国道路上使用中国软件和硬件的联网汽车，以回应国家安全担忧。拟议法规将禁止中国汽车制造商在美国道路上测试自动驾驶汽车。禁令可能会扩展到俄罗斯和其他美国对手的汽车软件和硬件。摘自“拜登提议禁止中国汽车和‘联网汽车’技术进入美国道路”
-路透社 (09/23/24) David Shepardson 查看全文]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/biden-proposes-banning-chinese-vehicles-us-roads-with-software-crackdown-2024-09-23/</guid>
-      <pubDate>Wed, 25 Sep 2024 18:11:24 GMT</pubDate>
+      <title>科学家揭示苍蝇大脑的惊人细节</title>
+      <link>https://www.nytimes.com/2024/10/02/science/fruit-fly-brain-mapped.html</link>
+      <description><![CDATA[《纽约时报》普林斯顿大学研究人员领导的团队绘制了果蝇大脑中超过 140,000 个神经元的连接图，这是任何复杂大脑的第一张完整地图。该团队开发了软件来解释数百万张从苍蝇大脑拍摄的微观照片，并对计算机进行编程以识别每张图片中神经元的横截面并将它们堆叠成细胞的 3D 形状。摘自“科学家以惊人的细节揭示苍蝇大脑”
+《纽约时报》（10/02/24）Carl Zimmer 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/10/02/science/fruit-fly-brain-mapped.html</guid>
+      <pubDate>Fri, 04 Oct 2024 15:09:09 GMT</pubDate>
     </item>
     <item>
-      <title>神经形态导线放大自身信号</title>
-      <link>https://spectrum.ieee.org/negative-resistance</link>
-      <description><![CDATA[IEEE Spectrum由德克萨斯农工大学的 R. Stanley Williams 领导的研究小组开发了自放大神经形态线，模仿携带人类神经细胞信号的轴突。为了在没有放大器或其他设备帮助的情况下放大沿线传输的信号，研究人员使用了一层镧钴氧化物，顶部有一条 1 毫米的金属线；他们用直流电偏置镧钴氧化物，并通过金属传递交流电信号。研究人员观察到通过电线传输的信号被放大了 70% 以上。摘自“神经形态线放大自己的信号”
-IEEE Spectrum (09/16/24) Katherine Bourzac 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/negative-resistance</guid>
-      <pubDate>Wed, 25 Sep 2024 18:11:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>联合国专家敦促联合国为人工智能全球治理奠定基础</title>
-      <link>https://apnews.com/article/un-artificial-intelligence-global-governance-risks-benefits-f755788da7d5905fcc2d44edf93c4bec</link>
-      <description><![CDATA[美联社由来自 33 个国家的 39 位人工智能领导人组成的联合国咨询机构呼吁联合国为人工智能的全球监管奠定基础，并制定包括国际法和人权法在内的原则，以指导建立新的人工智能治理机构。除其他事项外，该咨询小组建议成立一个国际人工智能科学小组，以确保全球了解该技术的能力和风险。摘自“联合国专家敦促联合国为人工智能的全球治理奠定基础”
-美联社 (09/19/24) Edith M. Lederer 查看全文]]></description>
-      <guid>https://apnews.com/article/un-artificial-intelligence-global-governance-risks-benefits-f755788da7d5905fcc2d44edf93c4bec</guid>
-      <pubDate>Wed, 25 Sep 2024 18:11:23 GMT</pubDate>
+      <title>飓风袭击矿山后，芯片公司监控石英供应</title>
+      <link>https://www.bloomberg.com/news/articles/2024-10-02/chip-firms-monitoring-quartz-supplies-after-hurricane-hits-mines?sref=db2f3qgr</link>
+      <description><![CDATA[彭博社飓风海伦 (Hurricane Helene) 导致北卡罗来纳州两座矿山停产，全球半导体制造商正在监控高纯度石英的供应情况。这两座矿山生产的高纯度石英占全球供应量的 80% 以上，用于制造坩埚的内层，坩埚是一种用于熔化硅以制造半导体硅晶片的容器。摘自“飓风袭击矿山后芯片公司监控石英供应情况”
+彭博社 (10/02/24) Jane Lanhee Lee；Yoolim Lee；Christina Kyriasoglou；等人 查看全文]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-10-02/chip-firms-monitoring-quartz-supplies-after-hurricane-hits-mines?sref=db2f3qgr</guid>
+      <pubDate>Fri, 04 Oct 2024 15:09:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
