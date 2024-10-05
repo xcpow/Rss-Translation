@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Sat, 05 Oct 2024 09:10:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2024 12:14:32 GMT</lastBuildDate>
+    <item>
+      <title>飓风海伦摧毁了道路。以下是重建方法——并为下一次洪水做好准备</title>
+      <link>https://www.wired.com/story/hurricane-helene-roads-flood-proof-climate-change/</link>
+      <description><![CDATA[随着气候变化造成的破坏可以袭击任何地方，工程师们正在考虑如何最好地保护重要通道免受强烈风暴的侵袭。]]></description>
+      <guid>https://www.wired.com/story/hurricane-helene-roads-flood-proof-climate-change/</guid>
+      <pubDate>Sat, 05 Oct 2024 09:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Waymo 与现代的新协议引发对中国的质疑</title>
       <link>https://www.wired.com/story/waymo-new-agreement-hyundai-raises-questions-china/</link>
@@ -27,17 +34,17 @@
       <pubDate>Fri, 04 Oct 2024 14:58:29 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能对社会的最大贡献是......简洁的总结？</title>
-      <link>https://www.wired.com/story/plaintext-ai-summaries-make-us-dumber/</link>
-      <description><![CDATA[公司不断推出人工智能功能来精简各种文本。它们让我们变得更笨了。]]></description>
-      <guid>https://www.wired.com/story/plaintext-ai-summaries-make-us-dumber/</guid>
-      <pubDate>Fri, 04 Oct 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Meta 的 Movie Gen 制作令人信服的 AI 视频片段</title>
       <link>https://www.wired.com/story/meta-movie-gen-ai-model/</link>
       <description><![CDATA[生成式人工智能的下一个前沿是视频——而通过 Movie Gen，Meta 现已确立了自己的主张。]]></description>
       <guid>https://www.wired.com/story/meta-movie-gen-ai-model/</guid>
+      <pubDate>Fri, 04 Oct 2024 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能对社会的最大贡献是......简洁的总结？</title>
+      <link>https://www.wired.com/story/plaintext-ai-summaries-make-us-dumber/</link>
+      <description><![CDATA[公司不断推出人工智能功能来精简各种文本。它们让我们变得更笨了。]]></description>
+      <guid>https://www.wired.com/story/plaintext-ai-summaries-make-us-dumber/</guid>
       <pubDate>Fri, 04 Oct 2024 13:00:00 GMT</pubDate>
     </item>
     <item>
@@ -102,13 +109,6 @@
       <description><![CDATA[在 OpenAI 最新模型的支持下，微软的 Copilot 助手变得更加便捷，并希望成为一名“令人鼓舞的”数字同事。]]></description>
       <guid>https://www.wired.com/story/microsoft-copilot-vision-voice-emotional-support-windows-office/</guid>
       <pubDate>Tue, 01 Oct 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>飓风海伦将给半导体行业带来冲击</title>
-      <link>https://www.wired.com/story/hurricane-helene-shockwaves-semiconductor-industry-microchips-spruce-pine-north-carolina-sand-high-quality-quartz/</link>
-      <description><![CDATA[北卡罗来纳州斯普鲁斯派恩的倾盆大雨导致已知最大的高纯度石英矿床停产，导致全球科技供应链可能缺少制造微芯片的关键成分。]]></description>
-      <guid>https://www.wired.com/story/hurricane-helene-shockwaves-semiconductor-industry-microchips-spruce-pine-north-carolina-sand-high-quality-quartz/</guid>
-      <pubDate>Tue, 01 Oct 2024 11:48:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
