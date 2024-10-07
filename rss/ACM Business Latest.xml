@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Mon, 07 Oct 2024 03:17:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 09:10:30 GMT</lastBuildDate>
+    <item>
+      <title>当搜救队无法找到人员时，这款自制的人工智能无人机软件可以帮你找到他们</title>
+      <link>https://www.wired.com/story/this-homemade-ai-drone-software-finds-bodies-when-search-and-rescue-teams-cant/</link>
+      <description><![CDATA[英国山地救援人员开发了一种自动无人机系统，可以比人眼更快、更彻底地搜索地形。]]></description>
+      <guid>https://www.wired.com/story/this-homemade-ai-drone-software-finds-bodies-when-search-and-rescue-teams-cant/</guid>
+      <pubDate>Mon, 07 Oct 2024 09:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Bose 及时重塑自我。接下来是棘手的部分</title>
       <link>https://www.wired.com/story/bose-reinvented-itself-just-in-time-now-comes-the-tricky-part/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[家庭 DNA 检测热潮已经结束，23andMe 的选择也越来越少。]]></description>
       <guid>https://www.wired.com/story/is-23andme-dead-at-home-genetic-testing-anne-wojcicki/</guid>
       <pubDate>Tue, 01 Oct 2024 20:41:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软 AI 主管希望 Copilot 为 Windows 和 Office 带来“情感支持”</title>
-      <link>https://www.wired.com/story/mustafa-suleyman-interview-microsoft-ai-ceo-copilot/</link>
-      <description><![CDATA[微软人工智能首席执行官穆斯塔法·苏莱曼 (Mustafa Suleyman) 正在监督一项改革，旨在让 Copilot 拥有富有同情心的声音、视觉能力和更高级的推理能力。]]></description>
-      <guid>https://www.wired.com/story/mustafa-suleyman-interview-microsoft-ai-ceo-copilot/</guid>
-      <pubDate>Tue, 01 Oct 2024 14:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
