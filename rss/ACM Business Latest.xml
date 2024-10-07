@@ -4,7 +4,21 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Mon, 07 Oct 2024 09:10:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 12:16:29 GMT</lastBuildDate>
+    <item>
+      <title>所有首席元宇宙官都去哪儿了？</title>
+      <link>https://www.wired.com/story/where-have-all-the-chief-metaverse-officers-gone/</link>
+      <description><![CDATA[那些曾带领我们进入新虚拟世界的行业领袖们仍然存在，只是换了个名字而已。]]></description>
+      <guid>https://www.wired.com/story/where-have-all-the-chief-metaverse-officers-gone/</guid>
+      <pubDate>Mon, 07 Oct 2024 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>阻止 OpenAI 数据抓取机器人的竞赛正在放缓</title>
+      <link>https://www.wired.com/story/open-ai-publisher-deals-scraping-bots/</link>
+      <description><![CDATA[OpenAI 的一系列许可协议已经取得了成效——至少在让出版商放松警惕方面。]]></description>
+      <guid>https://www.wired.com/story/open-ai-publisher-deals-scraping-bots/</guid>
+      <pubDate>Mon, 07 Oct 2024 11:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>当搜救队无法找到人员时，这款自制的人工智能无人机软件可以帮你找到他们</title>
       <link>https://www.wired.com/story/this-homemade-ai-drone-software-finds-bodies-when-search-and-rescue-teams-cant/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[在 Telegram 创始人帕维尔·杜罗夫 (Pavel Durov) 在法国被捕后，该平台做出了多项改变，似乎使其对当局更加友好。]]></description>
       <guid>https://www.wired.com/story/pavel-durov-defends-telegram-privacy-changes/</guid>
       <pubDate>Wed, 02 Oct 2024 17:32:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Google 的 NotebookLM 生成 AI 播客</title>
-      <link>https://www.wired.com/story/ai-podcast-google-notebooklm/</link>
-      <description><![CDATA[谷歌的一款鲜为人知的 AI 笔记本工具因其音频概览而走红，该工具可以模仿播客的语音节奏。下面介绍如何试用它。]]></description>
-      <guid>https://www.wired.com/story/ai-podcast-google-notebooklm/</guid>
-      <pubDate>Wed, 02 Oct 2024 14:50:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>23andMe 正在快速下沉。该公司还能生存下去吗？</title>
-      <link>https://www.wired.com/story/is-23andme-dead-at-home-genetic-testing-anne-wojcicki/</link>
-      <description><![CDATA[家庭 DNA 检测热潮已经结束，23andMe 的选择也越来越少。]]></description>
-      <guid>https://www.wired.com/story/is-23andme-dead-at-home-genetic-testing-anne-wojcicki/</guid>
-      <pubDate>Tue, 01 Oct 2024 20:41:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
