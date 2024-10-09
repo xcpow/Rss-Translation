@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Wed, 09 Oct 2024 00:41:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 03:15:06 GMT</lastBuildDate>
+    <item>
+      <title>再次揭开比特币创造者中本聪的面纱</title>
+      <link>https://www.wired.com/story/unmasking-bitcoin-creator-satoshi-nakamoto-again/</link>
+      <description><![CDATA[HBO 的一部新纪录片试图揭露比特币发明者中本聪的真实身份。但由于缺乏确凿证据，这个传言仍旧存在。]]></description>
+      <guid>https://www.wired.com/story/unmasking-bitcoin-creator-satoshi-nakamoto-again/</guid>
+      <pubDate>Wed, 09 Oct 2024 01:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>法官批准破产计划后，FTX 客户将获得数十亿美元的退款</title>
       <link>https://www.wired.com/story/ftx-bankruptcy-us-judge-confirms/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[ChatGPT 的新画布界面可以对写作和代码提出改进建议以及进行在线更改。]]></description>
       <guid>https://www.wired.com/story/chatgpt-canvas-openai/</guid>
       <pubDate>Thu, 03 Oct 2024 17:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌的视觉搜索现在可以回答更复杂的问题</title>
-      <link>https://www.wired.com/story/google-lens-multimodal-search/</link>
-      <description><![CDATA[Google Lens 于 2017 年推出，每月处理 200 亿次视觉搜索。现在它还可以处理视频和语音。]]></description>
-      <guid>https://www.wired.com/story/google-lens-multimodal-search/</guid>
-      <pubDate>Thu, 03 Oct 2024 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
