@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Wed, 09 Oct 2024 09:10:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 12:15:59 GMT</lastBuildDate>
+    <item>
+      <title>X 重返巴西</title>
+      <link>https://www.wired.com/story/x-is-back-in-brazil/</link>
+      <description><![CDATA[在该公司支付了 510 万美元的罚款并封锁了被指控违法的账户后，巴西最高法院解除了对 X 的禁令。]]></description>
+      <guid>https://www.wired.com/story/x-is-back-in-brazil/</guid>
+      <pubDate>Wed, 09 Oct 2024 11:58:11 GMT</pubDate>
+    </item>
     <item>
       <title>再次揭开比特币创造者中本聪的面纱</title>
       <link>https://www.wired.com/story/unmasking-bitcoin-creator-satoshi-nakamoto-again/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[由于价格低廉，零售应用在中国和国际上都取得了爆发式增长。但美国和其他国家可能采取的进口管制措施可能会减缓这一势头。]]></description>
       <guid>https://www.wired.com/story/temu-pinduoduo-retail-us-china-imports-crackdown/</guid>
       <pubDate>Fri, 04 Oct 2024 06:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 的 ChatGPT 打破常规，进入画布</title>
-      <link>https://www.wired.com/story/chatgpt-canvas-openai/</link>
-      <description><![CDATA[ChatGPT 的新画布界面可以对写作和代码提出改进建议以及进行在线更改。]]></description>
-      <guid>https://www.wired.com/story/chatgpt-canvas-openai/</guid>
-      <pubDate>Thu, 03 Oct 2024 17:15:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
