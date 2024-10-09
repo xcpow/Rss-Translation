@@ -4,7 +4,21 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Wed, 09 Oct 2024 12:15:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 15:08:07 GMT</lastBuildDate>
+    <item>
+      <title>亚马逊梦想人工智能代理为你购物</title>
+      <link>https://www.wired.com/story/amazon-ai-agents-shopping-guides-rufus/</link>
+      <description><![CDATA[亚马逊向其大型语言模型输入了大量零售数据。该公司表示，其人工智能代理未来可能会变得足够聪明，甚至无需你开口询问就能帮你买东西。]]></description>
+      <guid>https://www.wired.com/story/amazon-ai-agents-shopping-guides-rufus/</guid>
+      <pubDate>Wed, 09 Oct 2024 14:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ring 的新 AI 搜索工具可让您轻松扫描视频——结果好坏参半</title>
+      <link>https://www.wired.com/story/amazon-ring-new-ai-video-search-tool-mixed-results/</link>
+      <description><![CDATA[亚马逊旗下的家庭监控业务将为用户提供搜索特定物体和动作录像的功能。WIRED 进行了尝试。]]></description>
+      <guid>https://www.wired.com/story/amazon-ring-new-ai-video-search-tool-mixed-results/</guid>
+      <pubDate>Wed, 09 Oct 2024 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>X 重返巴西</title>
       <link>https://www.wired.com/story/x-is-back-in-brazil/</link>
@@ -62,7 +76,7 @@
       <pubDate>Sun, 06 Oct 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>飓风海伦摧毁了道路。以下是重建方法——以及为下一次洪水做好准备</title>
+      <title>飓风海伦摧毁了道路。以下是重建方法——并为下一次洪水做好准备</title>
       <link>https://www.wired.com/story/hurricane-helene-roads-flood-proof-climate-change/</link>
       <description><![CDATA[随着气候变化造成的破坏可以袭击任何地方，工程师们正在考虑如何最好地保护重要通道免受强烈风暴的侵袭。]]></description>
       <guid>https://www.wired.com/story/hurricane-helene-roads-flood-proof-climate-change/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[生成式人工智能的下一个前沿是视频——而通过 Movie Gen，Meta 现已确立了自己的主张。]]></description>
       <guid>https://www.wired.com/story/meta-movie-gen-ai-model/</guid>
       <pubDate>Fri, 04 Oct 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能对社会的最大贡献是......简洁的总结？</title>
-      <link>https://www.wired.com/story/plaintext-ai-summaries-make-us-dumber/</link>
-      <description><![CDATA[公司不断推出人工智能功能来精简各种文本。它们让我们变得更笨了。]]></description>
-      <guid>https://www.wired.com/story/plaintext-ai-summaries-make-us-dumber/</guid>
-      <pubDate>Fri, 04 Oct 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Temu 和拼多多的迅猛崛起——以及最终可能拖累它们发展的因素</title>
-      <link>https://www.wired.com/story/temu-pinduoduo-retail-us-china-imports-crackdown/</link>
-      <description><![CDATA[由于价格低廉，零售应用在中国和国际上都取得了爆发式增长。但美国和其他国家可能采取的进口管制措施可能会减缓这一势头。]]></description>
-      <guid>https://www.wired.com/story/temu-pinduoduo-retail-us-china-imports-crackdown/</guid>
-      <pubDate>Fri, 04 Oct 2024 06:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

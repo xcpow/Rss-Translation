@@ -4,102 +4,112 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Mon, 07 Oct 2024 18:11:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 15:08:02 GMT</lastBuildDate>
     <item>
-      <title>纽约市学校撤销手机禁令</title>
-      <link>https://www.bloomberg.com/news/articles/2024-10-03/nyc-schools-reverse-course-on-cell-phone-ban-after-parents-balk</link>
-      <description><![CDATA[彭博社纽约市教育局长戴维·班克斯表示，“现在还不是禁止在学校使用手机的时候”，他承认手机在课堂上会分散注意力，而且家长在紧急情况下需要联系孩子。纽约州长凯西·霍楚尔计划在即将召开的立法会议上提议在全州范围内禁止在学校使用手机。摘自“纽约市学校逆转手机禁令”
-彭博社 (10/03/24) Magdalena Del Valle 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-10-03/nyc-schools-reverse-course-on-cell-phone-ban-after-parents-balk</guid>
-      <pubDate>Mon, 07 Oct 2024 18:11:52 GMT</pubDate>
+      <title>新 WiLo 标准助力 Wi-Fi 实现远距离传输</title>
+      <link>https://spectrum.ieee.org/wi-fi-lora-hybrid</link>
+      <description><![CDATA[IEEE Spectrum来自香港、中国、韩国、美国和英国的研究人员团队开发了 WiLo，这是一种将 Wi-Fi 与长距离 (LoRa) 网络协议相结合的长距离无线概念。WiLo 可在现有的 Wi-Fi 和 LoRa 硬件上使用，有助于改善长距离传感器网络。研究人员创建了一种算法，可将 Wi-Fi 数据传输信号频率与 LoRa 设备用于与其他设备通信的信号相匹配，从而无需额外的硬件。摘自“Wi-Fi 在新的 WiLo 标准上实现长距离”
+IEEE Spectrum (10/05/24) Michelle Hampson 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/wi-fi-lora-hybrid</guid>
+      <pubDate>Wed, 09 Oct 2024 15:08:01 GMT</pubDate>
     </item>
     <item>
-      <title>根据英国开发者的说法，最受欢迎的编码语言</title>
-      <link>https://www.techradar.com/pro/these-are-apparently-the-most-popular-coding-languages-around-with-an-old-favourite-taking-top-spot</link>
-      <description><![CDATA[TechRadarStack Overflow 对 3,000 多名英国开发人员进行的一项调查显示，目前最流行的编程语言是 JavaScript、HTML/CSS、SQL 和 Python。排名前十的还有 Bash/Shell、TypeScript、C#、Java、C++ 和 PowerShell。只有 40% 的受访开发人员表示他们将继续使用 JavaScript，而 43% 的开发人员表示他们明年的首选是 Python。摘自“英国开发人员眼中最受欢迎的编码语言”
-TechRadar (10/02/24) Craig Hale 查看全文]]></description>
-      <guid>https://www.techradar.com/pro/these-are-apparently-the-most-popular-coding-languages-around-with-an-old-favourite-taking-top-spot</guid>
-      <pubDate>Mon, 07 Oct 2024 18:11:51 GMT</pubDate>
+      <title>洛杉矶警察局新增打击犯罪的机器狗</title>
+      <link>https://thehill.com/homenews/state-watch/4913721-los-angeles-police-department-crimefighting-robot-dog/</link>
+      <description><![CDATA[国会山报洛杉矶警察局 (LAPD) 正在使用波士顿动力公司的机器狗来保护人们的生命。Spot 机器人最近被用于在路障情况下识别并取回嫌疑人旁边的武器，该嫌疑人随后被安全逮捕。洛杉矶警察局表示，它打算只在高风险情况下使用该机器人来保护警官和平民。摘自“洛杉矶警察局增加了一只打击犯罪的机器狗”
+国会山报 (10/04/24) Marc Sternfield；Jennifer McGraw 查看全文]]></description>
+      <guid>https://thehill.com/homenews/state-watch/4913721-los-angeles-police-department-crimefighting-robot-dog/</guid>
+      <pubDate>Wed, 09 Oct 2024 15:08:01 GMT</pubDate>
     </item>
     <item>
-      <title>欧洲网络团队无法应对攻击量</title>
-      <link>https://www.computerweekly.com/news/366612212/Cyber-teams-say-they-cant-keep-up-with-attack-volumes</link>
-      <description><![CDATA[《计算机周刊》IT 治理协会 ISACA 的数据显示，61% 的欧洲网络安全专业人士认为他们的团队人手不足，而约一半 (52%) 的人认为他们的团队资金不足，导致他们无法跟上威胁环境的步伐。约 68% 的受访者表示，他们觉得现在的工作比 2019 年更紧张，其中 79% 的受访者将压力的增加归因于日益复杂的威胁形势。摘自“欧洲网络团队无法跟上攻击量”
-《计算机周刊》（2024 年 10 月 1 日）Alex Scroxton 查看全文]]></description>
-      <guid>https://www.computerweekly.com/news/366612212/Cyber-teams-say-they-cant-keep-up-with-attack-volumes</guid>
-      <pubDate>Mon, 07 Oct 2024 18:11:51 GMT</pubDate>
+      <title>光存储或将迎来“超高密度”时代</title>
+      <link>https://www.tomshardware.com/pc-components/storage/optical-storage-could-get-ultra-high-density-reprieve-thanks-to-quantum-research</link>
+      <description><![CDATA[Tom&#39;s Hardware美国能源部阿贡国家实验室和芝加哥大学的研究人员利用古典物理学和量子建模创造了一种新型高效、超高密度光学存储器。新系统将固体材料中稀土元素（锰、铋和碲）的光学数据传输到近距离的量子缺陷，利用波长复用和量子自旋态跃迁来增加光学介质的位存储密度。摘自“光学存储有望获得‘超高密度’缓解”
+Tom&#39;s Hardware（10/03/24）Mark Tyson 查看全文]]></description>
+      <guid>https://www.tomshardware.com/pc-components/storage/optical-storage-could-get-ultra-high-density-reprieve-thanks-to-quantum-research</guid>
+      <pubDate>Wed, 09 Oct 2024 15:08:01 GMT</pubDate>
     </item>
     <item>
-      <title>美国引领植入式脑机接口技术发展</title>
-      <link>https://www.nature.com/articles/d41586-024-03046-5</link>
-      <description><![CDATA[Nature美国是接受植入式脑机接口 (BCI) 的大多数人的家乡，也是世界上最成熟的植入式 BCI 公司的所在地。尽管美国食品和药物管理局 (FDA) 的上市途径受到好评，但人们担心 BCI 开发缺乏全球代表性，阻碍了患者获得该技术。英国研究人员和公司希望通过最近成立的国家神经技术监管联盟来解决这些问题。摘自“美国为植入式脑机接口设定了步伐”
-Nature (10/02/24) Liam Drew 查看全文]]></description>
-      <guid>https://www.nature.com/articles/d41586-024-03046-5</guid>
-      <pubDate>Mon, 07 Oct 2024 18:11:51 GMT</pubDate>
+      <title>瑟夫称计算机专业人士需要有关科技影响的建议</title>
+      <link>https://www.bta.bg/en/news/world/755779-vinton-cerf-psychologists-should-advise-computer-professionals-on-technology-s-</link>
+      <description><![CDATA[保加利亚通讯社在最近于德国举行的第 11 届海德堡桂冠论坛上，ACM A.M. 图灵奖获得者 Vinton Cerf 表示，计算机科学家应该听取经济学家、心理学家、神经科学家和其他专家关于技术社会影响的建议。Cerf 指出，50 年前的计算机科学家并没有关注今天人工智能、社交网络和互联网引发的伦理和哲学问题。摘自“Cerf 称计算机专业人士需要有关技术影响的建议”
+保加利亚通讯社 (10/05/24) Dimitrina Solakova； Antoaneta Markova 查看全文]]></description>
+      <guid>https://www.bta.bg/en/news/world/755779-vinton-cerf-psychologists-should-advise-computer-professionals-on-technology-s-</guid>
+      <pubDate>Wed, 09 Oct 2024 15:08:00 GMT</pubDate>
     </item>
     <item>
-      <title>脑控仿生肢体离现实更近一步</title>
-      <link>https://www.sciencenews.org/article/brain-controlled-bionic-limbs-anatomics</link>
-      <description><![CDATA[ScienceNews“解剖学”方法让大脑控制的仿生假肢更接近现实。在解剖学中，骨骼用于为假肢提供稳定的锚点，神经被重新路由以创建机器人肢体的控制信号或传递感官反馈，肌肉则充当生物放大器或信号源。最近的一项试验使用重建的肌肉来控制机器人关节，让膝下截肢的用户能够更自然地行走。摘自“大脑控制的仿生肢体更接近现实”
-ScienceNews (10/03/24) Simon Makin 查看全文]]></description>
-      <guid>https://www.sciencenews.org/article/brain-controlled-bionic-limbs-anatomics</guid>
-      <pubDate>Mon, 07 Oct 2024 18:11:50 GMT</pubDate>
+      <title>劳动力短缺之际，人工智能填补日本客户服务岗位空缺</title>
+      <link>https://english.kyodonews.net/news/2024/10/b00cc3e27d01-ai-filling-customer-service-roles-in-japan-amid-labor-shortage.html</link>
+      <description><![CDATA[共同社（日本）日本的劳动力短缺促使各行各业的公司利用人工智能技术填补客户服务岗位。例如，在 Ridgelinez Ltd.，人工智能助理会根据客户的需求、车型和可用库存推荐汽车零部件。冲电气工业株式会社和九州铁路株式会社部署的人工智能助理可以帮助乘客以日语、英语和中文浏览车站地图和换乘信息。初创公司 Sapeet Co. 使用人工智能培训其客户服务人员。摘自“日本劳动力短缺，人工智能填补客户服务岗位”
+共同社 (日本) (2024 年 10 月 5 日) 查看全文]]></description>
+      <guid>https://english.kyodonews.net/news/2024/10/b00cc3e27d01-ai-filling-customer-service-roles-in-japan-amid-labor-shortage.html</guid>
+      <pubDate>Wed, 09 Oct 2024 15:08:00 GMT</pubDate>
     </item>
     <item>
-      <title>23andMe 濒临破产。其 DNA 数据将何去何从？</title>
-      <link>https://www.npr.org/2024/10/03/g-s1-25795/23andme-data-genetic-dna-privacy</link>
-      <description><![CDATA[NPR随着个人基因组学和生物技术公司 23andMe 挣扎求生，客户开始好奇该公司自 2006 年成立以来收集的 DNA 计划，这些 DNA 影响了约 1500 万客户。美国公民自由联盟的 Vera Eidelman 表示，管理 DNA 数据的州法律各有不同，数百万人的通用数据可能被执法部门出售或挖掘。摘自“23andMe 濒临破产。它的 DNA 数据会怎样？”
-NPR (10/03/24) Bobby Allyn 查看全文]]></description>
-      <guid>https://www.npr.org/2024/10/03/g-s1-25795/23andme-data-genetic-dna-privacy</guid>
-      <pubDate>Mon, 07 Oct 2024 18:11:50 GMT</pubDate>
+      <title>谷歌被勒令开放安卓应用商店</title>
+      <link>https://www.cnbc.com/2024/10/07/google-ordered-to-open-android-app-store-in-epic-games-case.html</link>
+      <description><![CDATA[CNBC周一，一名美国法官下令谷歌提供 Google Play 商店的替代方案，供 Android 手机下载应用。这家科技巨头还将被禁止向公司支付费用或分享收入，以换取他们选择不与谷歌的应用商店竞争。这项裁决是 Epic Games 针对谷歌的反垄断诉讼迄今为止最重要的结果。摘自“谷歌被勒令开放 Android 应用商店”
+CNBC (10/08/24) Kif Leswing 查看全文]]></description>
+      <guid>https://www.cnbc.com/2024/10/07/google-ordered-to-open-android-app-store-in-epic-games-case.html</guid>
+      <pubDate>Wed, 09 Oct 2024 15:07:59 GMT</pubDate>
     </item>
     <item>
-      <title>《文明 7》制作者与肖尼族合作，将部落形象引入游戏</title>
-      <link>https://apnews.com/article/civ7-shawnee-tecumseh-firaxis-civilization-32ca02931e9cdeb024a9a0abb7081d2a</link>
-      <description><![CDATA[美联社热门电脑游戏《文明》系列的制作公司 Firaxis 与肖尼族部落成员就即将推出的《文明 7》游戏展开合作。开发人员知道，要在其最新游戏中恰当地表现肖尼族领袖，他们需要肖尼族人的意见和支持，因此他们联系了肖尼族部落酋长 Ben Barnes（如图所示），他认为此次合作是一种以新方式宣传该部落语言和历史的方式。摘自“《文明 7》制作人与肖尼族合作，将部落形象带入游戏”
-美联社 (10/04/24) Graham Lee Brewer； Matt O&#39;Brien 查看全文]]></description>
-      <guid>https://apnews.com/article/civ7-shawnee-tecumseh-firaxis-civilization-32ca02931e9cdeb024a9a0abb7081d2a</guid>
-      <pubDate>Mon, 07 Oct 2024 18:11:49 GMT</pubDate>
+      <title>智能手机的运动传感器可能被黑客入侵并被窃听</title>
+      <link>https://www.newscientist.com/article/2449629-hackers-can-turn-your-smartphone-into-an-eavesdropping-device/</link>
+      <description><![CDATA[《新科学家》Android 智能手机可以通过偏移设备陀螺仪和运动传感器的测量时间来窃听对话。谷歌限制 Android 应用从手机惯性测量单元采样数据的频率不得超过每秒 200 次。巴基斯坦拉合尔管理科学大学的研究人员将采样率提高到每秒 400 次，这使得攻击者使用 AI 恢复的音频转录时的单词错误率降低了 83%。摘自“智能手机的运动传感器可能被黑客入侵进行窃听”
+《新科学家》（2024 年 10 月 7 日）Matthew Sparkes 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.newscientist.com/article/2449629-hackers-can-turn-your-smartphone-into-an-eavesdropping-device/</guid>
+      <pubDate>Wed, 09 Oct 2024 15:07:59 GMT</pubDate>
     </item>
     <item>
-      <title>随着人工智能应用的不断增加，软件工程师将面临艰难的处境</title>
-      <link>https://www.itpro.com/software/software-engineers-are-in-for-a-rough-ride-as-ai-adoption-ramps-up-80-percent-will-be-forced-to-upskill-by-2027-as-the-profession-is-transformed</link>
-      <description><![CDATA[ITProGartner 报告称，为了满足对生成式 AI 不断增长的需求，到 2027 年，80% 的软件工程人员将不得不提升技能。Gartner 发现，AI 工具将在短期内支持开发人员现有的工作并提供少量的生产力提升，但从中期来看，AI 原生软件工程将会出现，其中大多数代码都是由 AI 生成的。摘自“随着 AI 采用率的提高，软件工程师将面临艰难的旅程”
-ITPro (10/03/24) George Fitzmaurice 查看全文文章]]></description>
-      <guid>https://www.itpro.com/software/software-engineers-are-in-for-a-rough-ride-as-ai-adoption-ramps-up-80-percent-will-be-forced-to-upskill-by-2027-as-the-profession-is-transformed</guid>
-      <pubDate>Mon, 07 Oct 2024 18:11:49 GMT</pubDate>
+      <title>美国起诉 TikTok，指控其旨在让儿童上瘾</title>
+      <link>https://www.npr.org/2024/10/08/g-s1-26823/states-sue-tiktok-child-safety-mental-health</link>
+      <description><![CDATA[NPR十多个州正在起诉 TikTok，声称其故意设计为让年轻人沉迷于该平台。这些诉讼由 13 个州和哥伦比亚特区的两党总检察长于周二分别提起，他们称 TikTok 违反了消费者保护法，并导致了青少年心理健康危机。加州总检察长 Rob Bonta 表示，“TikTok 故意针对儿童，因为他们知道孩子们还没有防御能力或能力在令人上瘾的内容周围建立健康的界限。”摘自“各州起诉 TikTok，指控其旨在让儿童上瘾”
+NPR (10/08/24) Bobby Allyn 查看全文]]></description>
+      <guid>https://www.npr.org/2024/10/08/g-s1-26823/states-sue-tiktok-child-safety-mental-health</guid>
+      <pubDate>Wed, 09 Oct 2024 15:07:58 GMT</pubDate>
     </item>
     <item>
-      <title>美国窃听系统遭中国黑客攻击</title>
-      <link>https://www.wsj.com/tech/cybersecurity/u-s-wiretap-systems-targeted-in-china-linked-hack-327fc63b</link>
-      <description><![CDATA[《华尔街日报》与中国有关的黑客组织 Salt Typhoon 侵入了美国宽带提供商的网络，从联邦政府用于法院授权的网络窃听请求的系统中获取信息。消息人士称，黑客可能已经掌握了用于配合美国合法通信数据请求的网络基础设施的访问权限，时间长达数月甚至更久。此次入侵似乎是为了收集情报。摘自“与中国有关的黑客攻击瞄准美国窃听系统”
-《华尔街日报》（10/05/24）Sarah Krouse；Dustin Volz；Aruna Viswanatha；等人 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/tech/cybersecurity/u-s-wiretap-systems-targeted-in-china-linked-hack-327fc63b</guid>
-      <pubDate>Mon, 07 Oct 2024 18:11:48 GMT</pubDate>
+      <title>在美国工厂里，甚至机器人的工作量也在减少</title>
+      <link>https://www.wsj.com/business/manufacturers-automation-equipment-robot-slow-down-2b850741</link>
+      <description><![CDATA[《华尔街日报》美国自动化协会报告称，去年北美工厂机器人订单较 2022 年的创纪录水平下降了近三分之一。今年上半年订单也有所下降。Jergens 总裁 Jack Schron 表示，一些在疫情期间购买机器人的公司低估了部署机器人执行更复杂任务所需的维护和编程技能。摘自“在美国工厂，就连机器人的工作量也在减少”
+《华尔街日报》（2024 年 10 月 7 日）Bob Tita 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/business/manufacturers-automation-equipment-robot-slow-down-2b850741</guid>
+      <pubDate>Wed, 09 Oct 2024 15:07:58 GMT</pubDate>
     </item>
     <item>
-      <title>德克萨斯州监管机构希望数据中心建造发电厂</title>
-      <link>https://www.bloomberg.com/news/articles/2024-10-03/texas-regulator-wants-data-centers-to-build-power-plants</link>
-      <description><![CDATA[彭博社德克萨斯州公共事业委员会表示，希望与发电厂共建并在 12 至 15 个月内接入电网的 AI 数据中心开发商也必须建造发电厂。委员会主席 Thomas Gleeson 表示，欢迎数据中心建造发电厂，这些发电厂的发电量超过所需，并将多余的电力出售给电网。摘自“德克萨斯州监管机构希望数据中心建造发电厂”
-彭博社 (10/03/24) Naureen S. Malik 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-10-03/texas-regulator-wants-data-centers-to-build-power-plants</guid>
-      <pubDate>Mon, 07 Oct 2024 18:11:48 GMT</pubDate>
+      <title>Rust 再次受到欢迎</title>
+      <link>https://www.infoworld.com/article/3550526/rust-resumes-rise-in-popularity.html</link>
+      <description><![CDATA[InfoWorldRust 在 10 月份的 Tiobe 编程语言流行度指数中重回第 13 位，这是该语言达到的最高排名。Rust 在 7 月份排名第 13 位，然后在 8 月份跌至第 14 位。 Tiobe 的 Paul Jansen 表示，尽管 Rust 并不容易学习，但对安全性和速度的重视有助于该编程语言获得更广泛的使用。摘自“Rust 继续流行”
+InfoWorld (10/07/24) Paul Krill 查看全文]]></description>
+      <guid>https://www.infoworld.com/article/3550526/rust-resumes-rise-in-popularity.html</guid>
+      <pubDate>Wed, 09 Oct 2024 15:07:57 GMT</pubDate>
     </item>
     <item>
-      <title>利用雷达芯片和无人机追踪蜜蜂</title>
-      <link>https://www.bbc.com/news/articles/cj9jzv27lv2o</link>
-      <description><![CDATA[BBC 新闻谐波雷达芯片被安装在蜜蜂身上，以便在无人机的帮助下追踪它们的活动。据牛津大学的托尼亚·兰德 (Tonya Lander) 称，英国牛津大学的一支团队发明了“有史以来最小的谐波雷达标签”，这样昆虫就可以携带它而不会影响它们的行为。该标签使牛津大学的一个团队能够研究如何遏制昆虫和鸟类种群的下降。摘自“用雷达芯片和无人机追踪蜜蜂”
-BBC 新闻 (10/06/24) Galya Dimitrova 查看全文]]></description>
-      <guid>https://www.bbc.com/news/articles/cj9jzv27lv2o</guid>
-      <pubDate>Mon, 07 Oct 2024 18:11:48 GMT</pubDate>
+      <title>美国自来水系统遭黑客攻击</title>
+      <link>https://www.cbsnews.com/news/security-hack-breach-american-water-works/</link>
+      <description><![CDATA[CBS 新闻美国新泽西州的美国水务公司是美国最大的受监管水务和废水处理公用事业公司，该公司披露，一次网络攻击导致其停止向客户收费。该公用事业公司于上周四意识到了未经授权的活动，并在 10 月 3 日检测到未经授权的活动时关闭了某些系统并采取了其他预防措施。美国水务公司认为此次攻击未影响其任何设施或运营。
+
+摘自“美国水务系统遭黑客攻击”
+CBS 新闻 (10/08/24) Kate Gibson 查看全文]]></description>
+      <guid>https://www.cbsnews.com/news/security-hack-breach-american-water-works/</guid>
+      <pubDate>Wed, 09 Oct 2024 15:07:57 GMT</pubDate>
     </item>
     <item>
-      <title>台湾是全球大部分计算机芯片的制造地，但电力供应不足</title>
-      <link>https://www.wired.com/story/taiwan-makes-the-majority-of-the-worlds-computer-chips-now-its-running-out-of-electricity/</link>
-      <description><![CDATA[连线台湾是世界最大的先进计算机芯片生产国，依赖进口化石燃料，即将关闭最后一座核电站，而且可再生能源建设进展缓慢，因此面临着能源危机。台湾公司生产的计算机芯片占世界总产量的 68%。仅台湾半导体制造公司一家就生产了全球最先进计算机芯片的至少 90%。它还消耗了台湾约 9% 的电力。摘自“台湾，世界上大多数计算机芯片的制造商。正在耗尽电力”
-Wired (10/05/24) Isabel Hilton 查看全文]]></description>
-      <guid>https://www.wired.com/story/taiwan-makes-the-majority-of-the-worlds-computer-chips-now-its-running-out-of-electricity/</guid>
-      <pubDate>Mon, 07 Oct 2024 18:11:47 GMT</pubDate>
+      <title>人工智能先驱获得诺贝尔物理学奖</title>
+      <link>https://apnews.com/article/nobel-prize-physics-fc0567de3f2ca45f81a7359a017cd542</link>
+      <description><![CDATA[美联社ACM A.M. 图灵奖获得者、被称为“人工智能教父”的杰弗里·辛顿和普林斯顿大学的约翰·霍普菲尔德周二被提名获得诺贝尔物理学奖，以表彰他们帮助创建了机器学习的基础。霍普菲尔德创建了一种联想记忆，可以存储和重建数据中的图像和其他模式。辛顿以霍普菲尔德的工作为基础，创建了玻尔兹曼机，这是一种随机循环神经网络。摘自“人工智能先驱获得诺贝尔物理学奖”
+美联社 (10/08/24) 丹尼尔·尼曼；迈克·科德；塞思·博伦斯坦 查看全文]]></description>
+      <guid>https://apnews.com/article/nobel-prize-physics-fc0567de3f2ca45f81a7359a017cd542</guid>
+      <pubDate>Wed, 09 Oct 2024 15:07:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>IT 招聘经历数月低迷后强势回升</title>
+      <link>https://www.ciodive.com/news/tech-jobs-report-september/728998/</link>
+      <description><![CDATA[CIO Dive根据 IT 行业组织 CompTIA 对美国劳工统计局数据的审查，IT 就业在经历了数月的裁员后于 9 月出现反弹。上个月 IT 失业率降至 2.5%，而 8 月份为 3.4%，为四年来最大的单月降幅。在整个美国经济中，技术就业岗位增加了 118,000 个新职位，科技行业在 9 月份新增了 8,500 多个净新职位。摘自“IT 招聘在长达数月的低迷后强势反弹”
+CIO Dive (10/04/24) Roberto Torres 查看全文]]></description>
+      <guid>https://www.ciodive.com/news/tech-jobs-report-september/728998/</guid>
+      <pubDate>Wed, 09 Oct 2024 15:07:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
