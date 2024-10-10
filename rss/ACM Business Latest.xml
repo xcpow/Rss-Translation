@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 10 Oct 2024 15:08:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 18:11:32 GMT</lastBuildDate>
+    <item>
+      <title>亚马逊的 Rufus AI 购物助手现在可让部分购物者查看价格历史记录</title>
+      <link>https://www.wired.com/story/amazon-rufus-price-check/</link>
+      <description><![CDATA[交易真的是交易吗？亚马逊的 ChatGPT 竞争对手，一款名为 Rufus 的聊天机器人，现在将回答用户关于价格变化的一些问题。]]></description>
+      <guid>https://www.wired.com/story/amazon-rufus-price-check/</guid>
+      <pubDate>Thu, 10 Oct 2024 17:39:28 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能诺贝尔奖可能会改变研究重点</title>
       <link>https://www.wired.com/story/how-the-ai-nobel-prizes-could-change-the-focus-of-research/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>法官批准破产计划后，FTX 客户将获得数十亿美元的退款</title>
       <link>https://www.wired.com/story/ftx-bankruptcy-us-judge-confirms/</link>
-      <description><![CDATA[随着漫长的破产程序即将结束，一位美国法官批准了一项计划，让破产的加密货币交易所 FTX 向以前的客户返还资金。]]></description>
+      <description><![CDATA[随着漫长的破产程序即将结束，美国一名法官批准了一项计划，让破产的加密货币交易所 FTX 向以前的客户返还资金。]]></description>
       <guid>https://www.wired.com/story/ftx-bankruptcy-us-judge-confirms/</guid>
       <pubDate>Mon, 07 Oct 2024 20:34:23 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[自动驾驶出租车公司 Waymo 将把其自动驾驶技术融入 Ioniq 5。但它与中国汽车制造商 Zeekr 的关系如何？]]></description>
       <guid>https://www.wired.com/story/waymo-new-agreement-hyundai-raises-questions-china/</guid>
       <pubDate>Fri, 04 Oct 2024 20:55:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>法院裁定 Meta 不得在欧盟使用性取向来投放广告</title>
-      <link>https://www.wired.com/story/meta-cant-use-sexual-orientation-to-target-ads-in-the-eu-court-rules/</link>
-      <description><![CDATA[隐私活动家马克斯·施雷姆斯 (Max Schrems) 又一次赢得了针对 Meta 的法律斗争，这一次限制了该公司如何利用平台外活动和公开声明来投放广告。]]></description>
-      <guid>https://www.wired.com/story/meta-cant-use-sexual-orientation-to-target-ads-in-the-eu-court-rules/</guid>
-      <pubDate>Fri, 04 Oct 2024 16:27:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
