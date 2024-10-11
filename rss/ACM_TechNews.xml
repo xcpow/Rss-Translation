@@ -4,112 +4,112 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Wed, 09 Oct 2024 15:08:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 18:11:40 GMT</lastBuildDate>
     <item>
-      <title>新 WiLo 标准助力 Wi-Fi 实现远距离传输</title>
-      <link>https://spectrum.ieee.org/wi-fi-lora-hybrid</link>
-      <description><![CDATA[IEEE Spectrum来自香港、中国、韩国、美国和英国的研究人员团队开发了 WiLo，这是一种将 Wi-Fi 与长距离 (LoRa) 网络协议相结合的长距离无线概念。WiLo 可在现有的 Wi-Fi 和 LoRa 硬件上使用，有助于改善长距离传感器网络。研究人员创建了一种算法，可将 Wi-Fi 数据传输信号频率与 LoRa 设备用于与其他设备通信的信号相匹配，从而无需额外的硬件。摘自“Wi-Fi 在新的 WiLo 标准上实现长距离”
-IEEE Spectrum (10/05/24) Michelle Hampson 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/wi-fi-lora-hybrid</guid>
-      <pubDate>Wed, 09 Oct 2024 15:08:01 GMT</pubDate>
+      <title>80% 的美国互联网交换中心现已成为数据中心和运营商中立的</title>
+      <link>https://www.de-cix.net/en/about-de-cix/media/press-releases/80-of-us-internet-exchanges-are-now-data-center-and-carrier-neutral</link>
+      <description><![CDATA[DE-CIXDstream Group 为全球互联网交换中心 (IX) 运营商 DE-CIX 开展的一项研究发现，80% 的美国 IX 都是数据中心和运营商中立的，其中包括美国 50 家最大 IX 中的 35 家。这是因为过去 10 年里，美国各地的 IX 部署量猛增了 600%。研究表明，与其他 IX 模型相比，中立平台连接来自不同运营商的数据中心平均多四倍。摘自“80% 的美国互联网交换中心现在都是数据中心和运营商中立的”
+DE-CIX (10/08/24) 查看全文]]></description>
+      <guid>https://www.de-cix.net/en/about-de-cix/media/press-releases/80-of-us-internet-exchanges-are-now-data-center-and-carrier-neutral</guid>
+      <pubDate>Fri, 11 Oct 2024 18:11:40 GMT</pubDate>
     </item>
     <item>
-      <title>洛杉矶警察局新增打击犯罪的机器狗</title>
-      <link>https://thehill.com/homenews/state-watch/4913721-los-angeles-police-department-crimefighting-robot-dog/</link>
-      <description><![CDATA[国会山报洛杉矶警察局 (LAPD) 正在使用波士顿动力公司的机器狗来保护人们的生命。Spot 机器人最近被用于在路障情况下识别并取回嫌疑人旁边的武器，该嫌疑人随后被安全逮捕。洛杉矶警察局表示，它打算只在高风险情况下使用该机器人来保护警官和平民。摘自“洛杉矶警察局增加了一只打击犯罪的机器狗”
-国会山报 (10/04/24) Marc Sternfield；Jennifer McGraw 查看全文]]></description>
-      <guid>https://thehill.com/homenews/state-watch/4913721-los-angeles-police-department-crimefighting-robot-dog/</guid>
-      <pubDate>Wed, 09 Oct 2024 15:08:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>光存储或将迎来“超高密度”时代</title>
-      <link>https://www.tomshardware.com/pc-components/storage/optical-storage-could-get-ultra-high-density-reprieve-thanks-to-quantum-research</link>
-      <description><![CDATA[Tom&#39;s Hardware美国能源部阿贡国家实验室和芝加哥大学的研究人员利用古典物理学和量子建模创造了一种新型高效、超高密度光学存储器。新系统将固体材料中稀土元素（锰、铋和碲）的光学数据传输到近距离的量子缺陷，利用波长复用和量子自旋态跃迁来增加光学介质的位存储密度。摘自“光学存储有望获得‘超高密度’缓解”
-Tom&#39;s Hardware（10/03/24）Mark Tyson 查看全文]]></description>
-      <guid>https://www.tomshardware.com/pc-components/storage/optical-storage-could-get-ultra-high-density-reprieve-thanks-to-quantum-research</guid>
-      <pubDate>Wed, 09 Oct 2024 15:08:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>瑟夫称计算机专业人士需要有关科技影响的建议</title>
-      <link>https://www.bta.bg/en/news/world/755779-vinton-cerf-psychologists-should-advise-computer-professionals-on-technology-s-</link>
-      <description><![CDATA[保加利亚通讯社在最近于德国举行的第 11 届海德堡桂冠论坛上，ACM A.M. 图灵奖获得者 Vinton Cerf 表示，计算机科学家应该听取经济学家、心理学家、神经科学家和其他专家关于技术社会影响的建议。Cerf 指出，50 年前的计算机科学家并没有关注今天人工智能、社交网络和互联网引发的伦理和哲学问题。摘自“Cerf 称计算机专业人士需要有关技术影响的建议”
-保加利亚通讯社 (10/05/24) Dimitrina Solakova； Antoaneta Markova 查看全文]]></description>
-      <guid>https://www.bta.bg/en/news/world/755779-vinton-cerf-psychologists-should-advise-computer-professionals-on-technology-s-</guid>
-      <pubDate>Wed, 09 Oct 2024 15:08:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>劳动力短缺之际，人工智能填补日本客户服务岗位空缺</title>
-      <link>https://english.kyodonews.net/news/2024/10/b00cc3e27d01-ai-filling-customer-service-roles-in-japan-amid-labor-shortage.html</link>
-      <description><![CDATA[共同社（日本）日本的劳动力短缺促使各行各业的公司利用人工智能技术填补客户服务岗位。例如，在 Ridgelinez Ltd.，人工智能助理会根据客户的需求、车型和可用库存推荐汽车零部件。冲电气工业株式会社和九州铁路株式会社部署的人工智能助理可以帮助乘客以日语、英语和中文浏览车站地图和换乘信息。初创公司 Sapeet Co. 使用人工智能培训其客户服务人员。摘自“日本劳动力短缺，人工智能填补客户服务岗位”
-共同社 (日本) (2024 年 10 月 5 日) 查看全文]]></description>
-      <guid>https://english.kyodonews.net/news/2024/10/b00cc3e27d01-ai-filling-customer-service-roles-in-japan-amid-labor-shortage.html</guid>
-      <pubDate>Wed, 09 Oct 2024 15:08:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌被勒令开放安卓应用商店</title>
-      <link>https://www.cnbc.com/2024/10/07/google-ordered-to-open-android-app-store-in-epic-games-case.html</link>
-      <description><![CDATA[CNBC周一，一名美国法官下令谷歌提供 Google Play 商店的替代方案，供 Android 手机下载应用。这家科技巨头还将被禁止向公司支付费用或分享收入，以换取他们选择不与谷歌的应用商店竞争。这项裁决是 Epic Games 针对谷歌的反垄断诉讼迄今为止最重要的结果。摘自“谷歌被勒令开放 Android 应用商店”
-CNBC (10/08/24) Kif Leswing 查看全文]]></description>
-      <guid>https://www.cnbc.com/2024/10/07/google-ordered-to-open-android-app-store-in-epic-games-case.html</guid>
-      <pubDate>Wed, 09 Oct 2024 15:07:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>智能手机的运动传感器可能被黑客入侵并被窃听</title>
-      <link>https://www.newscientist.com/article/2449629-hackers-can-turn-your-smartphone-into-an-eavesdropping-device/</link>
-      <description><![CDATA[《新科学家》Android 智能手机可以通过偏移设备陀螺仪和运动传感器的测量时间来窃听对话。谷歌限制 Android 应用从手机惯性测量单元采样数据的频率不得超过每秒 200 次。巴基斯坦拉合尔管理科学大学的研究人员将采样率提高到每秒 400 次，这使得攻击者使用 AI 恢复的音频转录时的单词错误率降低了 83%。摘自“智能手机的运动传感器可能被黑客入侵进行窃听”
-《新科学家》（2024 年 10 月 7 日）Matthew Sparkes 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.newscientist.com/article/2449629-hackers-can-turn-your-smartphone-into-an-eavesdropping-device/</guid>
-      <pubDate>Wed, 09 Oct 2024 15:07:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国起诉 TikTok，指控其旨在让儿童上瘾</title>
-      <link>https://www.npr.org/2024/10/08/g-s1-26823/states-sue-tiktok-child-safety-mental-health</link>
-      <description><![CDATA[NPR十多个州正在起诉 TikTok，声称其故意设计为让年轻人沉迷于该平台。这些诉讼由 13 个州和哥伦比亚特区的两党总检察长于周二分别提起，他们称 TikTok 违反了消费者保护法，并导致了青少年心理健康危机。加州总检察长 Rob Bonta 表示，“TikTok 故意针对儿童，因为他们知道孩子们还没有防御能力或能力在令人上瘾的内容周围建立健康的界限。”摘自“各州起诉 TikTok，指控其旨在让儿童上瘾”
-NPR (10/08/24) Bobby Allyn 查看全文]]></description>
-      <guid>https://www.npr.org/2024/10/08/g-s1-26823/states-sue-tiktok-child-safety-mental-health</guid>
-      <pubDate>Wed, 09 Oct 2024 15:07:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>在美国工厂里，甚至机器人的工作量也在减少</title>
-      <link>https://www.wsj.com/business/manufacturers-automation-equipment-robot-slow-down-2b850741</link>
-      <description><![CDATA[《华尔街日报》美国自动化协会报告称，去年北美工厂机器人订单较 2022 年的创纪录水平下降了近三分之一。今年上半年订单也有所下降。Jergens 总裁 Jack Schron 表示，一些在疫情期间购买机器人的公司低估了部署机器人执行更复杂任务所需的维护和编程技能。摘自“在美国工厂，就连机器人的工作量也在减少”
-《华尔街日报》（2024 年 10 月 7 日）Bob Tita 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/business/manufacturers-automation-equipment-robot-slow-down-2b850741</guid>
-      <pubDate>Wed, 09 Oct 2024 15:07:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rust 再次受到欢迎</title>
-      <link>https://www.infoworld.com/article/3550526/rust-resumes-rise-in-popularity.html</link>
-      <description><![CDATA[InfoWorldRust 在 10 月份的 Tiobe 编程语言流行度指数中重回第 13 位，这是该语言达到的最高排名。Rust 在 7 月份排名第 13 位，然后在 8 月份跌至第 14 位。 Tiobe 的 Paul Jansen 表示，尽管 Rust 并不容易学习，但对安全性和速度的重视有助于该编程语言获得更广泛的使用。摘自“Rust 继续流行”
-InfoWorld (10/07/24) Paul Krill 查看全文]]></description>
-      <guid>https://www.infoworld.com/article/3550526/rust-resumes-rise-in-popularity.html</guid>
-      <pubDate>Wed, 09 Oct 2024 15:07:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国自来水系统遭黑客攻击</title>
-      <link>https://www.cbsnews.com/news/security-hack-breach-american-water-works/</link>
-      <description><![CDATA[CBS 新闻美国新泽西州的美国水务公司是美国最大的受监管水务和废水处理公用事业公司，该公司披露，一次网络攻击导致其停止向客户收费。该公用事业公司于上周四意识到了未经授权的活动，并在 10 月 3 日检测到未经授权的活动时关闭了某些系统并采取了其他预防措施。美国水务公司认为此次攻击未影响其任何设施或运营。
+      <title>尽管存在错误逮捕，警方很少披露使用面部识别技术的情况</title>
+      <link>https://www.washingtonpost.com/business/2024/10/06/police-facial-recognition-secret-false-arrest/</link>
+      <description><![CDATA[《华盛顿邮报》《华盛顿邮报》发现，数百名美国居民因面部识别软件将他们与犯罪联系起来而被捕，过去四年中，15 个州的警察部门在 1,000 多起刑事调查中使用了该技术。在许多情况下，被告从未被告知面部识别技术在他们被捕过程中发挥了作用。至少有七名美国人，其中六人是黑人，因被面部识别软件误认而被错误逮捕。
 
-摘自“美国水务系统遭黑客攻击”
-CBS 新闻 (10/08/24) Kate Gibson 查看全文]]></description>
-      <guid>https://www.cbsnews.com/news/security-hack-breach-american-water-works/</guid>
-      <pubDate>Wed, 09 Oct 2024 15:07:57 GMT</pubDate>
+摘自“尽管有错误逮捕，但警方很少披露使用面部识别”
+《华盛顿邮报》（10/06/24）道格拉斯·麦克米伦；大卫·奥瓦莱； Aaron Schaffer 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.washingtonpost.com/business/2024/10/06/police-facial-recognition-secret-false-arrest/</guid>
+      <pubDate>Fri, 11 Oct 2024 18:11:39 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能先驱获得诺贝尔物理学奖</title>
-      <link>https://apnews.com/article/nobel-prize-physics-fc0567de3f2ca45f81a7359a017cd542</link>
-      <description><![CDATA[美联社ACM A.M. 图灵奖获得者、被称为“人工智能教父”的杰弗里·辛顿和普林斯顿大学的约翰·霍普菲尔德周二被提名获得诺贝尔物理学奖，以表彰他们帮助创建了机器学习的基础。霍普菲尔德创建了一种联想记忆，可以存储和重建数据中的图像和其他模式。辛顿以霍普菲尔德的工作为基础，创建了玻尔兹曼机，这是一种随机循环神经网络。摘自“人工智能先驱获得诺贝尔物理学奖”
-美联社 (10/08/24) 丹尼尔·尼曼；迈克·科德；塞思·博伦斯坦 查看全文]]></description>
-      <guid>https://apnews.com/article/nobel-prize-physics-fc0567de3f2ca45f81a7359a017cd542</guid>
-      <pubDate>Wed, 09 Oct 2024 15:07:56 GMT</pubDate>
+      <title>联合国称 Telegram 应用程序为犯罪团伙提供“地下市场”</title>
+      <link>https://www.reuters.com/world/asia-pacific/criminal-networks-southeast-asia-flourish-telegrams-underground-markets-un-says-2024-10-07/</link>
+      <description><![CDATA[路透社联合国毒品和犯罪问题办公室（UNODC）的一份报告发现，东南亚犯罪网络正在使用 Telegram 消息应用程序大规模开展非法活动。这包括公开交易信用卡详细信息、密码、浏览器历史记录和其他被黑客入侵的数据，以及出售深度伪造软件和其他网络犯罪工具。UNODC 的报告还发现，未经许可的加密货币交易所使用 Telegram 提供洗钱服务。来自“联合国称 Telegram 应用程序为犯罪团伙提供‘地下市场’”
+路透社（10/07/24）Poppy Mcpherson；汤姆·威尔逊 查看全文]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/criminal-networks-southeast-asia-flourish-telegrams-underground-markets-un-says-2024-10-07/</guid>
+      <pubDate>Fri, 11 Oct 2024 18:11:39 GMT</pubDate>
     </item>
     <item>
-      <title>IT 招聘经历数月低迷后强势回升</title>
-      <link>https://www.ciodive.com/news/tech-jobs-report-september/728998/</link>
-      <description><![CDATA[CIO Dive根据 IT 行业组织 CompTIA 对美国劳工统计局数据的审查，IT 就业在经历了数月的裁员后于 9 月出现反弹。上个月 IT 失业率降至 2.5%，而 8 月份为 3.4%，为四年来最大的单月降幅。在整个美国经济中，技术就业岗位增加了 118,000 个新职位，科技行业在 9 月份新增了 8,500 多个净新职位。摘自“IT 招聘在长达数月的低迷后强势反弹”
-CIO Dive (10/04/24) Roberto Torres 查看全文]]></description>
-      <guid>https://www.ciodive.com/news/tech-jobs-report-september/728998/</guid>
-      <pubDate>Wed, 09 Oct 2024 15:07:56 GMT</pubDate>
+      <title>GoldenJackal 瞄准大使馆和隔离系统</title>
+      <link>https://thehackernews.com/2024/10/goldenjackal-target-embassies-and-air.html</link>
+      <description><![CDATA[The Hacker News网络安全公司 ESET 表示，威胁行为者 GoldenJackal 与针对白俄罗斯南亚大使馆和欧盟政府组织的网络攻击有关，他们使用两个不同的定制工具集渗透隔离系统以窃取机密数据。入侵涉及使用 JackalWorm，这是一种可以感染连接的 USB 驱动器并传播 JackalControl 木马的蠕虫。在对欧盟政府组织的攻击中部署了主要用 Go 编写的恶意软件工具。摘自“GoldenJackal 针对大使馆、隔离系统”
+The Hacker News (10/08/24) Ravie Lakshmanan 查看全文]]></description>
+      <guid>https://thehackernews.com/2024/10/goldenjackal-target-embassies-and-air.html</guid>
+      <pubDate>Fri, 11 Oct 2024 18:11:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>当搜救队无法找到人员时，自制无人机软件可以帮您找到</title>
+      <link>https://www.wired.com/story/this-homemade-ai-drone-software-finds-bodies-when-search-and-rescue-teams-cant/</link>
+      <description><![CDATA[Wired由英国山地救援队 (MR) 成员 Dan Roach 和 David Blinks 开发的导航和图像分析软件，在苏格兰高地失踪六周多后，于使用的第一个小时内就找到了一名徒步旅行者的尸体。这款无人机软件使用英国陆地测量局地图所依赖的激光雷达数据，自动绘制预编程的飞行路径。摘自“自制无人机软件在搜救队无法找到人员时找到人员”
+Wired (10/07/24) Tristan Kennedy 查看全文]]></description>
+      <guid>https://www.wired.com/story/this-homemade-ai-drone-software-finds-bodies-when-search-and-rescue-teams-cant/</guid>
+      <pubDate>Fri, 11 Oct 2024 18:11:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>全息3D打印</title>
+      <link>https://www.concordia.ca/news/stories/2024/10/08/holographic-3d-printing-has-the-potential-to-revolutionize-multiple-industries-say-concordia-researchers.html</link>
+      <description><![CDATA[康考迪亚大学（加拿大）加拿大康考迪亚大学的研究人员开发了一种 3D 打印方法，利用声全息图来提高打印速度、减少能耗，并能够生产更复杂的物体。全息直接声音打印过程基于一种技术，该技术利用微观空化区域中的声化学反应将树脂硬化成复杂的图案。研究人员通过将该技术嵌入包含所需设计的横截面图像的声全息图中，加快了聚合过程。摘自“全息 3D 打印”
+康考迪亚大学（加拿大）（2024 年 10 月 8 日）Patrick Lejtenyi 查看全文]]></description>
+      <guid>https://www.concordia.ca/news/stories/2024/10/08/holographic-3d-printing-has-the-potential-to-revolutionize-multiple-industries-say-concordia-researchers.html</guid>
+      <pubDate>Fri, 11 Oct 2024 18:11:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧洲最大的基于采样的光子量子计算机投入运行</title>
+      <link>https://interestingengineering.com/innovation/quantum-computer-photonic-germany</link>
+      <description><![CDATA[有趣的工程德国帕德博恩大学的研究人员完成了帕德博恩量子采样器 (PaQS)，这是欧洲最大的基于采样的光子计算机。为了避免通常困扰光子量子计算机的光损耗，研究人员使用 PaQS 构建了最大的高斯玻色子采样机，以确定光子从哪里逃离量子网络并找到解决问题的方法。他们的工作结合了可编程干涉仪的使用。摘自“欧洲最大的基于采样的光子量子计算机已投入运行”
+有趣的工程 (10/08/24) Ameya Paleja 查看全文]]></description>
+      <guid>https://interestingengineering.com/innovation/quantum-computer-photonic-germany</guid>
+      <pubDate>Fri, 11 Oct 2024 18:11:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>黑客破坏互联网档案，窃取 3100 万用户数据</title>
+      <link>https://www.pcmag.com/news/hacker-defaces-internet-archive-claims-it-suffered-a-breach</link>
+      <description><![CDATA[PC Magazine本周早些时候，互联网档案馆的主网站及其 Wayback Machine 因分布式拒绝服务 (DDoS) 攻击而下线。HIBP 的 Troy Hunt 证实了这一漏洞，黑客与他共享了一个 6.4GB 的数据库，其中包含 3100 万个互联网档案馆用户帐户的被盗信息，包括电子邮件地址、用户名和哈希密码。摘自“黑客破坏互联网档案馆，窃取 3100 万用户数据”
+PC Magazine (10/09/24) Michael Kan 查看全文]]></description>
+      <guid>https://www.pcmag.com/news/hacker-defaces-internet-archive-claims-it-suffered-a-breach</guid>
+      <pubDate>Fri, 11 Oct 2024 18:11:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>台湾的人工智能目标需要更多科技人才</title>
+      <link>https://spectrum.ieee.org/ai-in-taiwan</link>
+      <description><![CDATA[IEEE Spectrum台湾政府希望这个岛国能成为先进人工智能创新的中心。然而，鉴于台湾人口稀少、老龄化严重、出生率低，台湾急需更多技术工人。台湾国家发展委员会计划推出“全球精英”卡，以吸引顶级外国专业人士为当地公司工作，年薪超过 600 万新台币（约 188,000 美元）。摘自“台湾的人工智能目标将需要更多科技人才”
+IEEE Spectrum (10/09/24) Yu-Tzu Chiu 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/ai-in-taiwan</guid>
+      <pubDate>Fri, 11 Oct 2024 18:11:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>在布鲁克林，机器人重塑了杂货配送业务</title>
+      <link>https://www.wsj.com/real-estate/at-a-brooklyn-warehouse-robots-are-reshaping-the-grocery-delivery-business-f7b4551b</link>
+      <description><![CDATA[《华尔街日报》Save A Lot 位于纽约布鲁克林的 4,000 平方英尺自动化微型配送中心旨在降低食品杂货价格并缩短订单完成时间。它配备了机械臂，可以从货架上的塑料箱中抓取物品并将其转移到地面上的机器人，然后机器人将它们移交给工人进行打包，然后再交给 U​​ber 司机进行配送。该系统由以色列公司 Fabric 制造，需要六到八分钟才能打包 50 件物品的订单。 摘自“在布鲁克林，机器人重塑了杂货配送业务”
+华尔街日报 (10/08/24) Kate King 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/real-estate/at-a-brooklyn-warehouse-robots-are-reshaping-the-grocery-delivery-business-f7b4551b</guid>
+      <pubDate>Fri, 11 Oct 2024 18:11:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>马来西亚正在崛起最大的人工智能新兴城市之一</title>
+      <link>https://www.wsj.com/tech/ai/one-of-the-biggest-ai-boomtowns-is-rising-in-a-tech-industry-backwater-8dfcdfa1</link>
+      <description><![CDATA[《华尔街日报》马来西亚柔佛州以棕榈油种植园而闻名，是全球一些最大 AI 建设项目的所在地。地区银行马来亚银行报告称，柔佛州今年的数据中心总投资额将达到 38 亿美元。柔佛州拥有丰富的土地、水资源和电力，并且毗邻新加坡，是全球海底互联网电缆最密集的交汇地之一，因此对数据中心开发商来说极具吸引力。摘自“马来西亚崛起最大的人工智能新兴城市之一”
+华尔街日报 (10/07/24) Stu Woo 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/tech/ai/one-of-the-biggest-ai-boomtowns-is-rising-in-a-tech-industry-backwater-8dfcdfa1</guid>
+      <pubDate>Fri, 11 Oct 2024 18:11:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>一些网络上最粗略的网站共用冰岛的地址</title>
+      <link>https://www.nytimes.com/2024/10/09/business/iceland-online-disinformation-identity-theft.html</link>
+      <description><![CDATA[《纽约时报》代理服务 Withheld for Privacy 已将数以万计的可疑网站（包括美国白人至上主义团体使用的在线论坛、钓鱼网站以及与俄罗斯影响活动有关的网站）隐藏在其位于冰岛雷克雅未克的地址后面。代理服务在冰岛激增，以利用该国严格的隐私法，官员们表示这些法律旨在保护普通用户免受独裁政府的侵害。摘自“一些网络上最粗略的网站共用冰岛地址”
+《纽约时报》（2024 年 10 月 9 日）Steven Lee Myers；Tiffany Hsu 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/10/09/business/iceland-online-disinformation-identity-theft.html</guid>
+      <pubDate>Fri, 11 Oct 2024 18:11:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌 DeepMind 老板因蛋白质突破荣获诺贝尔奖</title>
+      <link>https://www.bbc.com/news/articles/czrm0p2mxvyo</link>
+      <description><![CDATA[BBC英国计算机科学教授 Demis Hassabis 是人工智能公司 Google DeepMind 的创始人，也是诺贝尔化学奖的获得者之一。Hassabis 和 DeepMind Technologies 的 John Jumper 因开发人工智能工具 AlphaFold2 而获得认可，该工具可以预测几乎所有已知蛋白质的结构。他们与华盛顿大学的 David Baker 共同获得诺贝尔奖，后者因使用氨基酸设计新蛋白质而获得认可。摘自“Google DeepMind 老板因蛋白质突破获得诺贝尔奖”
+BBC (10/09/24) Georgina Rannard 查看全文]]></description>
+      <guid>https://www.bbc.com/news/articles/czrm0p2mxvyo</guid>
+      <pubDate>Fri, 11 Oct 2024 18:11:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
