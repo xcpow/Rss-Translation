@@ -4,7 +4,28 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Tue, 15 Oct 2024 09:16:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 12:16:29 GMT</lastBuildDate>
+    <item>
+      <title>“自杀舱”背后的医生希望人工智能能够帮助临终者</title>
+      <link>https://www.wired.com/story/the-doctor-behind-the-suicide-pod-wants-ai-to-assist-at-the-end-of-life/</link>
+      <description><![CDATA[一名美国女性在菲利普·尼奇克最新发明的机器内死亡，揭示了安乐死争论的下一个前沿。]]></description>
+      <guid>https://www.wired.com/story/the-doctor-behind-the-suicide-pod-wants-ai-to-assist-at-the-end-of-life/</guid>
+      <pubDate>Tue, 15 Oct 2024 11:43:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>它看起来像是一个人工智能打击犯罪的超级工具。然后辩护律师开始提问</title>
+      <link>https://www.wired.com/story/cybercheck-crime-reports-prosecutions/</link>
+      <description><![CDATA[Global Intelligence 声称其 Cyber​​check 技术可以帮助警方找到关键证据来破案。但《连线》杂志的一项调查显示，确凿的证据往往不那么确凿。]]></description>
+      <guid>https://www.wired.com/story/cybercheck-crime-reports-prosecutions/</guid>
+      <pubDate>Tue, 15 Oct 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>数百万人在 Telegram 上使用滥用人工智能“Nudify”机器人</title>
+      <link>https://www.wired.com/story/ai-deepfake-nudify-bots-telegram/</link>
+      <description><![CDATA[从图像中“脱掉衣服”的机器人已经在消息应用程序上泛滥，尽管立法者和科技公司试图打击，但人们还是可以创建非自愿的深度伪造图像。]]></description>
+      <guid>https://www.wired.com/story/ai-deepfake-nudify-bots-telegram/</guid>
+      <pubDate>Tue, 15 Oct 2024 10:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年马德里最热门的初创公司</title>
       <link>https://www.wired.com/story/the-hottest-startups-in-madrid-in-2024/</link>
@@ -69,9 +90,9 @@
       <pubDate>Mon, 14 Oct 2024 07:00:00 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>欧洲的创新生态系统可以使其成为新的帕洛阿尔托</title>
       <link>https://www.wired.com/story/europe-is-the-new-palo-alto/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[科技投资者索尔·克莱恩认为，距离伦敦五小时火车车程内的一组欧洲城市可能成为与硅谷竞争的独角兽工厂。]]></description>
       <guid>https://www.wired.com/story/europe-is-the-new-palo-alto/</guid>
       <pubDate>Mon, 14 Oct 2024 07:00:00 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[有些公司会让您选择不允许自己的内容用于生成式 AI。以下是如何从 ChatGPT、Google 的 Gemini 等公司手中夺回（至少是部分）控制权。]]></description>
       <guid>https://www.wired.com/story/how-to-stop-your-data-from-being-used-to-train-ai/</guid>
       <pubDate>Sat, 12 Oct 2024 13:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>社交媒体告诉你你是谁。如果它完全错误怎么办？</title>
-      <link>https://www.wired.com/story/plaintext-social-media-tells-you-who-you-are-what-if-its-totally-wrong/</link>
-      <description><![CDATA[Pinterest 和 Threads 似乎确信我已经 60 多岁或正在经历更年期。花足够多的时间在这些 feed 的奇异世界中，你就会开始相信任何事情。]]></description>
-      <guid>https://www.wired.com/story/plaintext-social-media-tells-you-who-you-are-what-if-its-totally-wrong/</guid>
-      <pubDate>Fri, 11 Oct 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 的 GPT Store 让一些开发者陷入困境</title>
-      <link>https://www.wired.com/story/openai-gpt-store/</link>
-      <description><![CDATA[OpenAI 承诺向定制 GPT 创作者支付报酬。现在大多数人都转向外部来源获取收入。]]></description>
-      <guid>https://www.wired.com/story/openai-gpt-store/</guid>
-      <pubDate>Fri, 11 Oct 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚马逊的 Rufus AI 购物助手现在可让部分购物者查看价格历史记录</title>
-      <link>https://www.wired.com/story/amazon-rufus-price-check/</link>
-      <description><![CDATA[交易真的是交易吗？亚马逊的 ChatGPT 竞争对手，一款名为 Rufus 的聊天机器人，现在将回答用户关于价格变化的一些问题。]]></description>
-      <guid>https://www.wired.com/story/amazon-rufus-price-check/</guid>
-      <pubDate>Thu, 10 Oct 2024 17:39:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
