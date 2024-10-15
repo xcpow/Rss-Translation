@@ -4,19 +4,12 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Mon, 14 Oct 2024 21:07:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 00:41:37 GMT</lastBuildDate>
     <item>
-      <title>2024 年都柏林最热门的初创公司</title>
+      <title>2024 年都柏林最热门的初创企业</title>
       <link>https://www.wired.com/story/the-hottest-startups-in-dublin-in-2024/</link>
       <description><![CDATA[爱尔兰首都对大型科技公司的欢迎也渗透到了其初创企业中，这些初创企业正在为 IT 团队构建更好的工具、AI 内容审核工具和用于牛群的 RNA 筛选。]]></description>
       <guid>https://www.wired.com/story/the-hottest-startups-in-dublin-in-2024/</guid>
-      <pubDate>Mon, 14 Oct 2024 07:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年赫尔辛基最热门的初创企业</title>
-      <link>https://www.wired.com/story/the-hottest-startups-in-helsinki-in-2024/</link>
-      <description><![CDATA[芬兰首都最令人兴奋的初创企业正在建设核能供热网络、更好的天气预报工具以及让观众可以对比赛结果下注的电子竞技流媒体平台。]]></description>
-      <guid>https://www.wired.com/story/the-hottest-startups-in-helsinki-in-2024/</guid>
       <pubDate>Mon, 14 Oct 2024 07:00:00 GMT</pubDate>
     </item>
     <item>
@@ -24,6 +17,13 @@
       <link>https://www.wired.com/story/the-hottest-startups-in-madrid-in-2024/</link>
       <description><![CDATA[西班牙首都正在吸引来自拉丁美洲的人才，其引人注目的初创企业正在致力于更智能的支付、老年人护理和人工智能虚拟护士。]]></description>
       <guid>https://www.wired.com/story/the-hottest-startups-in-madrid-in-2024/</guid>
+      <pubDate>Mon, 14 Oct 2024 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年赫尔辛基最热门的初创企业</title>
+      <link>https://www.wired.com/story/the-hottest-startups-in-helsinki-in-2024/</link>
+      <description><![CDATA[芬兰首都最令人兴奋的初创企业正在建设核能供热网络、更好的天气预报工具以及让观众可以对比赛结果下注的电子竞技流媒体平台。]]></description>
+      <guid>https://www.wired.com/story/the-hottest-startups-in-helsinki-in-2024/</guid>
       <pubDate>Mon, 14 Oct 2024 07:00:00 GMT</pubDate>
     </item>
     <item>
@@ -48,7 +48,7 @@
       <pubDate>Mon, 14 Oct 2024 07:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年里斯本最热门的初创公司</title>
+      <title>2024 年里斯本最热门的初创企业</title>
       <link>https://www.wired.com/story/the-hottest-startups-in-lisbon-in-2024/</link>
       <description><![CDATA[葡萄牙首都最令人兴奋的初创企业包括一个帮助企业家起步的平台、一个智能沙袋和一个美发沙龙中的 Uber。]]></description>
       <guid>https://www.wired.com/story/the-hottest-startups-in-lisbon-in-2024/</guid>
@@ -85,7 +85,7 @@
     <item>
       <title>如何阻止你的数据被用于训练人工智能</title>
       <link>https://www.wired.com/story/how-to-stop-your-data-from-being-used-to-train-ai/</link>
-      <description><![CDATA[有些公司会让您选择不允许自己的内容用于生成式 AI。以下是如何从 ChatGPT、Google 的 Gemini 等公司手中夺回（至少是部分）控制权。]]></description>
+      <description><![CDATA[有些公司会让您选择不允许自己的内容用于生成式 AI。以下是如何从 ChatGPT、Google 的 Gemini 等公司手中夺回（至少是一点）控制权。]]></description>
       <guid>https://www.wired.com/story/how-to-stop-your-data-from-being-used-to-train-ai/</guid>
       <pubDate>Sat, 12 Oct 2024 13:30:00 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>亚马逊的 Rufus AI 购物助手现在可让部分购物者查看价格历史记录</title>
       <link>https://www.wired.com/story/amazon-rufus-price-check/</link>
-      <description><![CDATA[交易真的是交易吗？亚马逊的 ChatGPT 竞争对手，一款名为 Rufus 的聊天机器人，现在将回答一些用户关于价格变化的问题。]]></description>
+      <description><![CDATA[交易真的是交易吗？亚马逊的 ChatGPT 竞争对手，一款名为 Rufus 的聊天机器人，现在将回答用户关于价格变化的一些问题。]]></description>
       <guid>https://www.wired.com/story/amazon-rufus-price-check/</guid>
       <pubDate>Thu, 10 Oct 2024 17:39:28 GMT</pubDate>
     </item>
