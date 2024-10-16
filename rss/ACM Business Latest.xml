@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Tue, 15 Oct 2024 21:08:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 00:41:22 GMT</lastBuildDate>
+    <item>
+      <title>苹果工程师展示人工智能“推理”能力有多脆弱</title>
+      <link>https://www.wired.com/story/apple-ai-llm-reasoning-research/</link>
+      <description><![CDATA[大型语言模型的新前沿是能够“推理”解决问题。苹果公司的最新研究表明，它并不像人们所说的那么好。]]></description>
+      <guid>https://www.wired.com/story/apple-ai-llm-reasoning-research/</guid>
+      <pubDate>Tue, 15 Oct 2024 23:55:27 GMT</pubDate>
+    </item>
     <item>
       <title>一辆橡胶车身的 Cyber​​truck 正在突破欧洲行人安全规则</title>
       <link>https://www.wired.com/story/a-rubberized-cybertruck-is-ploughing-through-european-pedestrian-safety-rules/</link>
@@ -101,13 +108,6 @@
       <link>https://www.wired.com/story/the-hottest-startups-in-berlin-in-2024/</link>
       <description><![CDATA[德国首都吸引了来自世界各地的人才，其初创企业正在构建无数由人工智能生成的音频应用程序、虚拟宠物应用程序和用于早期野火检测的传感器。]]></description>
       <guid>https://www.wired.com/story/the-hottest-startups-in-berlin-in-2024/</guid>
-      <pubDate>Mon, 14 Oct 2024 07:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年斯德哥尔摩最热门的初创公司</title>
-      <link>https://www.wired.com/story/the-hottest-startups-in-stockholm-in-2024/</link>
-      <description><![CDATA[瑞典首都诞生了 Skype、Spotify、Klarna 和 Minecraft——它的未来之星正在为企业打造金融科技、为律师打造人工智能和全身健康扫描。]]></description>
-      <guid>https://www.wired.com/story/the-hottest-startups-in-stockholm-in-2024/</guid>
       <pubDate>Mon, 14 Oct 2024 07:00:00 GMT</pubDate>
     </item>
     </channel>
