@@ -4,112 +4,103 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Fri, 11 Oct 2024 18:11:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 15:09:13 GMT</lastBuildDate>
     <item>
-      <title>80% 的美国互联网交换中心现已成为数据中心和运营商中立的</title>
-      <link>https://www.de-cix.net/en/about-de-cix/media/press-releases/80-of-us-internet-exchanges-are-now-data-center-and-carrier-neutral</link>
-      <description><![CDATA[DE-CIXDstream Group 为全球互联网交换中心 (IX) 运营商 DE-CIX 开展的一项研究发现，80% 的美国 IX 都是数据中心和运营商中立的，其中包括美国 50 家最大 IX 中的 35 家。这是因为过去 10 年里，美国各地的 IX 部署量猛增了 600%。研究表明，与其他 IX 模型相比，中立平台连接来自不同运营商的数据中心平均多四倍。摘自“80% 的美国互联网交换中心现在都是数据中心和运营商中立的”
-DE-CIX (10/08/24) 查看全文]]></description>
-      <guid>https://www.de-cix.net/en/about-de-cix/media/press-releases/80-of-us-internet-exchanges-are-now-data-center-and-carrier-neutral</guid>
-      <pubDate>Fri, 11 Oct 2024 18:11:40 GMT</pubDate>
+      <title>无人机发现隐藏的夏威夷植物物种</title>
+      <link>https://www.popsci.com/technology/drone-discovers-plant/</link>
+      <description><![CDATA[大众科学研究人员使用带有爪状附件的消费级业余无人机，在夏威夷库奥伊岛的垂直悬崖上发现了一种以前未知的康乃馨物种 Schiedea waiahuluensis。研究人员使用了 DJI Phantom 4 pro 四轴飞行器无人机和“Mamba”，这是一种可以抓取、切割和收集样本的“远程植物收集设备”。研究人员表示，“这一发现很可能是第一次通过无人机定位和收集未描述的物种。”摘自“无人机发现隐藏的夏威夷植物物种”
+大众科学 (10/10/24) Mack Degeurin 查看全文]]></description>
+      <guid>https://www.popsci.com/technology/drone-discovers-plant/</guid>
+      <pubDate>Wed, 16 Oct 2024 15:09:12 GMT</pubDate>
     </item>
     <item>
-      <title>尽管存在错误逮捕，警方很少披露使用面部识别技术的情况</title>
-      <link>https://www.washingtonpost.com/business/2024/10/06/police-facial-recognition-secret-false-arrest/</link>
-      <description><![CDATA[《华盛顿邮报》《华盛顿邮报》发现，数百名美国居民因面部识别软件将他们与犯罪联系起来而被捕，过去四年中，15 个州的警察部门在 1,000 多起刑事调查中使用了该技术。在许多情况下，被告从未被告知面部识别技术在他们被捕过程中发挥了作用。至少有七名美国人，其中六人是黑人，因被面部识别软件误认而被错误逮捕。
-
-摘自“尽管有错误逮捕，但警方很少披露使用面部识别”
-《华盛顿邮报》（10/06/24）道格拉斯·麦克米伦；大卫·奥瓦莱； Aaron Schaffer 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.washingtonpost.com/business/2024/10/06/police-facial-recognition-secret-false-arrest/</guid>
-      <pubDate>Fri, 11 Oct 2024 18:11:39 GMT</pubDate>
+      <title>内华达州询问人工智能哪些学生需要帮助</title>
+      <link>https://www.nytimes.com/2024/10/11/us/nevada-ai-at-risk-students.html</link>
+      <description><![CDATA[《纽约时报》内华达州依赖人工智能来估计在学校学习困难的儿童数量，这引发了强烈抗议。此前，内华达州将所有低收入学生视为“有学业和社会问题风险”的学生。人工智能权衡了数十个其他因素，将归类为高风险的学生人数从 2022 年的 270,000 多人削减至去年的 65,000 多人。结果，许多学校发现他们所依赖的州政府资金消失了。摘自“内华达州询问人工智能哪些学生需要帮助”
+纽约时报 (10/12/24) Troy Closson 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/10/11/us/nevada-ai-at-risk-students.html</guid>
+      <pubDate>Wed, 16 Oct 2024 15:09:12 GMT</pubDate>
     </item>
     <item>
-      <title>联合国称 Telegram 应用程序为犯罪团伙提供“地下市场”</title>
-      <link>https://www.reuters.com/world/asia-pacific/criminal-networks-southeast-asia-flourish-telegrams-underground-markets-un-says-2024-10-07/</link>
-      <description><![CDATA[路透社联合国毒品和犯罪问题办公室（UNODC）的一份报告发现，东南亚犯罪网络正在使用 Telegram 消息应用程序大规模开展非法活动。这包括公开交易信用卡详细信息、密码、浏览器历史记录和其他被黑客入侵的数据，以及出售深度伪造软件和其他网络犯罪工具。UNODC 的报告还发现，未经许可的加密货币交易所使用 Telegram 提供洗钱服务。来自“联合国称 Telegram 应用程序为犯罪团伙提供‘地下市场’”
-路透社（10/07/24）Poppy Mcpherson；汤姆·威尔逊 查看全文]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/criminal-networks-southeast-asia-flourish-telegrams-underground-markets-un-says-2024-10-07/</guid>
-      <pubDate>Fri, 11 Oct 2024 18:11:39 GMT</pubDate>
+      <title>教计算机一种新的计数方法</title>
+      <link>https://www.newscientist.com/article/2451034-teaching-computers-a-new-way-to-count-could-make-numbers-more-accurate/</link>
+      <description><![CDATA[《新科学家》以色列阿里埃勒大学和本-古里安大学的研究人员设计了一种改进的浮点表示法，这是计算机中用来表示实数的一种方法，通过将数字存储为“尾数”（有效数字）和“指数”的组合来表示实数。为指数分配更多位可以增加可表示的数字范围；为尾数分配更多位可以提高数字的准确性。研究人员的浮点浮点技术允许软件动态地改变分配，在需要时提高准确度，或在必要时降低准确度以增加范围。摘自“教计算机一种新的计数方法”
+《新科学家》（2024 年 10 月 14 日）Matthew Sparkes 查看全文]]></description>
+      <guid>https://www.newscientist.com/article/2451034-teaching-computers-a-new-way-to-count-could-make-numbers-more-accurate/</guid>
+      <pubDate>Wed, 16 Oct 2024 15:09:11 GMT</pubDate>
     </item>
     <item>
-      <title>GoldenJackal 瞄准大使馆和隔离系统</title>
-      <link>https://thehackernews.com/2024/10/goldenjackal-target-embassies-and-air.html</link>
-      <description><![CDATA[The Hacker News网络安全公司 ESET 表示，威胁行为者 GoldenJackal 与针对白俄罗斯南亚大使馆和欧盟政府组织的网络攻击有关，他们使用两个不同的定制工具集渗透隔离系统以窃取机密数据。入侵涉及使用 JackalWorm，这是一种可以感染连接的 USB 驱动器并传播 JackalControl 木马的蠕虫。在对欧盟政府组织的攻击中部署了主要用 Go 编写的恶意软件工具。摘自“GoldenJackal 针对大使馆、隔离系统”
-The Hacker News (10/08/24) Ravie Lakshmanan 查看全文]]></description>
-      <guid>https://thehackernews.com/2024/10/goldenjackal-target-embassies-and-air.html</guid>
-      <pubDate>Fri, 11 Oct 2024 18:11:38 GMT</pubDate>
+      <title>量子缩放的秘诀</title>
+      <link>https://www.pnnl.gov/news-media/recipe-quantum-scaling</link>
+      <description><![CDATA[太平洋西北国家实验室由来自 14 家机构的研究人员创建的 ARQUIN 框架是一种将大规模分布式量子计算机模拟为不同层的管道。美国能源部太平洋西北国家实验室的 Samuel Stein 表示，“这几乎就像收集各种成分，却不知道它们在食谱中如何协同工作。”该框架专注于通过微波连接到光学链路的超导量子设备。摘自“量子缩放的秘诀”
+太平洋西北国家实验室 (10/14/24) Sarah Wong 查看全文]]></description>
+      <guid>https://www.pnnl.gov/news-media/recipe-quantum-scaling</guid>
+      <pubDate>Wed, 16 Oct 2024 15:09:11 GMT</pubDate>
     </item>
     <item>
-      <title>当搜救队无法找到人员时，自制无人机软件可以帮您找到</title>
-      <link>https://www.wired.com/story/this-homemade-ai-drone-software-finds-bodies-when-search-and-rescue-teams-cant/</link>
-      <description><![CDATA[Wired由英国山地救援队 (MR) 成员 Dan Roach 和 David Blinks 开发的导航和图像分析软件，在苏格兰高地失踪六周多后，于使用的第一个小时内就找到了一名徒步旅行者的尸体。这款无人机软件使用英国陆地测量局地图所依赖的激光雷达数据，自动绘制预编程的飞行路径。摘自“自制无人机软件在搜救队无法找到人员时找到人员”
-Wired (10/07/24) Tristan Kennedy 查看全文]]></description>
-      <guid>https://www.wired.com/story/this-homemade-ai-drone-software-finds-bodies-when-search-and-rescue-teams-cant/</guid>
-      <pubDate>Fri, 11 Oct 2024 18:11:38 GMT</pubDate>
+      <title>受狗鼻子启发的空气质量传感器</title>
+      <link>https://www.fastcompany.com/91206418/harvard-researchers-designed-an-air-quality-sensor-inspired-by-dogs-noses</link>
+      <description><![CDATA[《Fast Company》哈佛大学研究人员开发的传感器系统模仿哺乳动物的嗅觉过程来识别挥发性有机化合物，即从日常产品中蒸发到空气中的化学物质。如果 SNIFFIA（室内空气感官自然事实发现器）检测到空气中的有害化合物，它会反复“嗅探”以获取更多信息。在一项使用新方法和现有传感器硬件的研究中，结果的可靠性从 38% 提高到了 98%。摘自“受狗鼻子启发的空气质量传感器”
+Fast Company (10/11/24) Adele Peters 查看全文]]></description>
+      <guid>https://www.fastcompany.com/91206418/harvard-researchers-designed-an-air-quality-sensor-inspired-by-dogs-noses</guid>
+      <pubDate>Wed, 16 Oct 2024 15:09:10 GMT</pubDate>
     </item>
     <item>
-      <title>全息3D打印</title>
-      <link>https://www.concordia.ca/news/stories/2024/10/08/holographic-3d-printing-has-the-potential-to-revolutionize-multiple-industries-say-concordia-researchers.html</link>
-      <description><![CDATA[康考迪亚大学（加拿大）加拿大康考迪亚大学的研究人员开发了一种 3D 打印方法，利用声全息图来提高打印速度、减少能耗，并能够生产更复杂的物体。全息直接声音打印过程基于一种技术，该技术利用微观空化区域中的声化学反应将树脂硬化成复杂的图案。研究人员通过将该技术嵌入包含所需设计的横截面图像的声全息图中，加快了聚合过程。摘自“全息 3D 打印”
-康考迪亚大学（加拿大）（2024 年 10 月 8 日）Patrick Lejtenyi 查看全文]]></description>
-      <guid>https://www.concordia.ca/news/stories/2024/10/08/holographic-3d-printing-has-the-potential-to-revolutionize-multiple-industries-say-concordia-researchers.html</guid>
-      <pubDate>Fri, 11 Oct 2024 18:11:37 GMT</pubDate>
+      <title>蓝牙显微镜揭示小鼠的内部工作原理</title>
+      <link>https://spectrum.ieee.org/bluetooth-microscope</link>
+      <description><![CDATA[IEEE Spectrum约翰霍普金斯大学研究人员开发的显微镜可以通过蓝牙传输活体小鼠体内的实时图像。研究人员展示了 BLEscope 无线显微镜如何持续监测小鼠大脑中的血管和肿瘤。BLEscope 是使用现成的低功耗图像传感器和微控制器创建的，它们集成在印刷电路板上。它具有绿色和蓝色 LED 灯，有助于在成像过程中提供对比度。摘自“蓝牙显微镜揭示小鼠的内部工作原理”
+IEEE Spectrum (10/13/24) Michelle Hampson 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/bluetooth-microscope</guid>
+      <pubDate>Wed, 16 Oct 2024 15:09:10 GMT</pubDate>
     </item>
     <item>
-      <title>欧洲最大的基于采样的光子量子计算机投入运行</title>
-      <link>https://interestingengineering.com/innovation/quantum-computer-photonic-germany</link>
-      <description><![CDATA[有趣的工程德国帕德博恩大学的研究人员完成了帕德博恩量子采样器 (PaQS)，这是欧洲最大的基于采样的光子计算机。为了避免通常困扰光子量子计算机的光损耗，研究人员使用 PaQS 构建了最大的高斯玻色子采样机，以确定光子从哪里逃离量子网络并找到解决问题的方法。他们的工作结合了可编程干涉仪的使用。摘自“欧洲最大的基于采样的光子量子计算机已投入运行”
-有趣的工程 (10/08/24) Ameya Paleja 查看全文]]></description>
-      <guid>https://interestingengineering.com/innovation/quantum-computer-photonic-germany</guid>
-      <pubDate>Fri, 11 Oct 2024 18:11:37 GMT</pubDate>
+      <title>谷歌使用核武器</title>
+      <link>https://www.bbc.com/news/articles/c748gn94k95o</link>
+      <description><![CDATA[BBC 新闻谷歌与 Kairos Power 签署协议，使用小型核反应堆为其 AI 数据中心提供所需的能源。该公司表示，计划在本十年开始使用第一座反应堆，并在未来十年内让更多反应堆投入使用。谷歌的 Michael Terrell 表示：“这项协议有助于加速新技术的发展，以清洁、可靠地满足能源需求，并为每个人释放人工智能的全部潜力。”摘自“谷歌进军核能”
+BBC 新闻 (10/15/24) Joáo da Silva 查看全文]]></description>
+      <guid>https://www.bbc.com/news/articles/c748gn94k95o</guid>
+      <pubDate>Wed, 16 Oct 2024 15:09:09 GMT</pubDate>
     </item>
     <item>
-      <title>黑客破坏互联网档案，窃取 3100 万用户数据</title>
-      <link>https://www.pcmag.com/news/hacker-defaces-internet-archive-claims-it-suffered-a-breach</link>
-      <description><![CDATA[PC Magazine本周早些时候，互联网档案馆的主网站及其 Wayback Machine 因分布式拒绝服务 (DDoS) 攻击而下线。HIBP 的 Troy Hunt 证实了这一漏洞，黑客与他共享了一个 6.4GB 的数据库，其中包含 3100 万个互联网档案馆用户帐户的被盗信息，包括电子邮件地址、用户名和哈希密码。摘自“黑客破坏互联网档案馆，窃取 3100 万用户数据”
-PC Magazine (10/09/24) Michael Kan 查看全文]]></description>
-      <guid>https://www.pcmag.com/news/hacker-defaces-internet-archive-claims-it-suffered-a-breach</guid>
-      <pubDate>Fri, 11 Oct 2024 18:11:36 GMT</pubDate>
+      <title>机器人指挥家在德累斯顿接过指挥棒</title>
+      <link>https://www.dw.com/en/dresden-symphony-orchestra-puts-robotic-conductor-in-charge/a-70490890</link>
+      <description><![CDATA[德国之声 (德国)上周末，一个三臂机器人系统指挥德国德累斯顿交响乐团举行了一场音乐会。MAiRA Pro S 由德累斯顿工业大学人机交互触觉互联网中心机器人研究小组的 Frank Peters 设计，乐团艺术总监 Markus Rindt 也参与其中。“我们让机器人处于操作模式，这样它就能对最轻微的触摸做出反应，”Peters 解释道。 “然后，马库斯拿起机械臂，引导它，就像他引导人类学徒指挥家一样。”摘自“机器人指挥家在德累斯顿接过指挥棒”
+德国之声 (德国) (2024 年 10 月 14 日) Gaby Reucher 查看全文]]></description>
+      <guid>https://www.dw.com/en/dresden-symphony-orchestra-puts-robotic-conductor-in-charge/a-70490890</guid>
+      <pubDate>Wed, 16 Oct 2024 15:09:09 GMT</pubDate>
     </item>
     <item>
-      <title>台湾的人工智能目标需要更多科技人才</title>
-      <link>https://spectrum.ieee.org/ai-in-taiwan</link>
-      <description><![CDATA[IEEE Spectrum台湾政府希望这个岛国能成为先进人工智能创新的中心。然而，鉴于台湾人口稀少、老龄化严重、出生率低，台湾急需更多技术工人。台湾国家发展委员会计划推出“全球精英”卡，以吸引顶级外国专业人士为当地公司工作，年薪超过 600 万新台币（约 188,000 美元）。摘自“台湾的人工智能目标将需要更多科技人才”
-IEEE Spectrum (10/09/24) Yu-Tzu Chiu 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/ai-in-taiwan</guid>
-      <pubDate>Fri, 11 Oct 2024 18:11:36 GMT</pubDate>
+      <title>LeCun 认为人工智能比猫还笨</title>
+      <link>https://www.wsj.com/tech/ai/yann-lecun-ai-meta-aa59e2f5</link>
+      <description><![CDATA[《华尔街日报》人工智能先驱、ACM A.M. 图灵奖获得者 Yann LeCun 表示，一些专家夸大了人工智能的力量和风险。LeCun 认为，当今的人工智能模型缺乏宠物的智力。当一位 OpenAI 研究人员强调控制超智能人工智能的必要性时，LeCun 回应道：“在我看来，在‘紧急弄清楚如何控制比我们聪明得多的人工智能系统’之前，我们需要对设计一个比家猫更聪明的系统有所了解。”
+摘自“LeCun 认为人工智能比猫更笨”
+华尔街日报 (10/11/24) Christopher Mims 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/tech/ai/yann-lecun-ai-meta-aa59e2f5</guid>
+      <pubDate>Wed, 16 Oct 2024 15:09:08 GMT</pubDate>
     </item>
     <item>
-      <title>在布鲁克林，机器人重塑了杂货配送业务</title>
-      <link>https://www.wsj.com/real-estate/at-a-brooklyn-warehouse-robots-are-reshaping-the-grocery-delivery-business-f7b4551b</link>
-      <description><![CDATA[《华尔街日报》Save A Lot 位于纽约布鲁克林的 4,000 平方英尺自动化微型配送中心旨在降低食品杂货价格并缩短订单完成时间。它配备了机械臂，可以从货架上的塑料箱中抓取物品并将其转移到地面上的机器人，然后机器人将它们移交给工人进行打包，然后再交给 U​​ber 司机进行配送。该系统由以色列公司 Fabric 制造，需要六到八分钟才能打包 50 件物品的订单。 摘自“在布鲁克林，机器人重塑了杂货配送业务”
-华尔街日报 (10/08/24) Kate King 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/real-estate/at-a-brooklyn-warehouse-robots-are-reshaping-the-grocery-delivery-business-f7b4551b</guid>
-      <pubDate>Fri, 11 Oct 2024 18:11:36 GMT</pubDate>
+      <title>网络犯罪分子帮助俄罗斯、中国攻击美国及其盟友</title>
+      <link>https://apnews.com/article/microsoft-russia-china-iran-israel-cyberespionage-cyber-d3a22dd2dcea32615ac15ed4fb951541</link>
+      <description><![CDATA[美联社微软的一份报告称，俄罗斯、中国和伊朗依靠犯罪网络领导针对美国及其盟友的网络间谍和黑客行动。例如，调查人员发现一个俄罗斯犯罪网络在 6 月份侵入了乌克兰军方使用的 50 多台电子设备，显然是在寻求获取可能有助于俄罗斯入侵乌克兰的访问权限和信息。摘自“网络犯罪分子帮助俄罗斯、中国攻击美国及其盟友”
+美联社 (2024 年 10 月 15 日) David Klepper 查看全文]]></description>
+      <guid>https://apnews.com/article/microsoft-russia-china-iran-israel-cyberespionage-cyber-d3a22dd2dcea32615ac15ed4fb951541</guid>
+      <pubDate>Wed, 16 Oct 2024 15:09:08 GMT</pubDate>
     </item>
     <item>
-      <title>马来西亚正在崛起最大的人工智能新兴城市之一</title>
-      <link>https://www.wsj.com/tech/ai/one-of-the-biggest-ai-boomtowns-is-rising-in-a-tech-industry-backwater-8dfcdfa1</link>
-      <description><![CDATA[《华尔街日报》马来西亚柔佛州以棕榈油种植园而闻名，是全球一些最大 AI 建设项目的所在地。地区银行马来亚银行报告称，柔佛州今年的数据中心总投资额将达到 38 亿美元。柔佛州拥有丰富的土地、水资源和电力，并且毗邻新加坡，是全球海底互联网电缆最密集的交汇地之一，因此对数据中心开发商来说极具吸引力。摘自“马来西亚崛起最大的人工智能新兴城市之一”
-华尔街日报 (10/07/24) Stu Woo 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/tech/ai/one-of-the-biggest-ai-boomtowns-is-rising-in-a-tech-industry-backwater-8dfcdfa1</guid>
-      <pubDate>Fri, 11 Oct 2024 18:11:35 GMT</pubDate>
+      <title>计算机生成艺术先驱莉莲·施瓦茨去世，享年 97 岁</title>
+      <link>https://www.nytimes.com/2024/10/14/technology/lillian-schwartz-dead.html</link>
+      <description><![CDATA[《纽约时报》莉莲·施瓦茨是首批使用计算机制作电影的艺术家之一，于周六去世，享年 97 岁。施瓦茨曾荣获 ACM SIGGRAPH 2015 年度杰出艺术家数字艺术终身成就奖。她通过将穿孔卡送入 IBM 7094 大型计算机，在磁带上制作出 85 个黑白帧，制作出了她的第一部电影。后来，她凭借为 1984 年翻新后的现代艺术博物馆开幕而制作的计算机生成的公益广告获得了纽约艾美奖。摘自“计算机生成艺术先驱莉莲·施瓦茨去世，享年 97 岁”
+纽约时报 (10/14/24) Chris Kornelis 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/10/14/technology/lillian-schwartz-dead.html</guid>
+      <pubDate>Wed, 16 Oct 2024 15:09:08 GMT</pubDate>
     </item>
     <item>
-      <title>一些网络上最粗略的网站共用冰岛的地址</title>
-      <link>https://www.nytimes.com/2024/10/09/business/iceland-online-disinformation-identity-theft.html</link>
-      <description><![CDATA[《纽约时报》代理服务 Withheld for Privacy 已将数以万计的可疑网站（包括美国白人至上主义团体使用的在线论坛、钓鱼网站以及与俄罗斯影响活动有关的网站）隐藏在其位于冰岛雷克雅未克的地址后面。代理服务在冰岛激增，以利用该国严格的隐私法，官员们表示这些法律旨在保护普通用户免受独裁政府的侵害。摘自“一些网络上最粗略的网站共用冰岛地址”
-《纽约时报》（2024 年 10 月 9 日）Steven Lee Myers；Tiffany Hsu 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/10/09/business/iceland-online-disinformation-identity-theft.html</guid>
-      <pubDate>Fri, 11 Oct 2024 18:11:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌 DeepMind 老板因蛋白质突破荣获诺贝尔奖</title>
-      <link>https://www.bbc.com/news/articles/czrm0p2mxvyo</link>
-      <description><![CDATA[BBC英国计算机科学教授 Demis Hassabis 是人工智能公司 Google DeepMind 的创始人，也是诺贝尔化学奖的获得者之一。Hassabis 和 DeepMind Technologies 的 John Jumper 因开发人工智能工具 AlphaFold2 而获得认可，该工具可以预测几乎所有已知蛋白质的结构。他们与华盛顿大学的 David Baker 共同获得诺贝尔奖，后者因使用氨基酸设计新蛋白质而获得认可。摘自“Google DeepMind 老板因蛋白质突破获得诺贝尔奖”
-BBC (10/09/24) Georgina Rannard 查看全文]]></description>
-      <guid>https://www.bbc.com/news/articles/czrm0p2mxvyo</guid>
-      <pubDate>Fri, 11 Oct 2024 18:11:34 GMT</pubDate>
+      <title>中国正在制定世界科技规则</title>
+      <link>https://www.economist.com/business/2024/10/10/china-is-writing-the-worlds-technology-rules</link>
+      <description><![CDATA[《经济学人》中国在技术标准制定过程中越来越自信。例如，上个月，国际电信联盟批准了三项新技术标准，这些标准将嵌入第六代 (6G) 移动技术，均由中国科学院和中国电信开发。与西方在标准制定过程中倾向于听从私营公司和行业协会的意见不同，中国的做法是由政府主导的。摘自“中国正在书写世界技术规则”
+《经济学人》（10/10/24） 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.economist.com/business/2024/10/10/china-is-writing-the-worlds-technology-rules</guid>
+      <pubDate>Wed, 16 Oct 2024 15:09:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
