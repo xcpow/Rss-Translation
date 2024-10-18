@@ -4,103 +4,110 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Wed, 16 Oct 2024 15:09:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 18:11:40 GMT</lastBuildDate>
     <item>
-      <title>无人机发现隐藏的夏威夷植物物种</title>
-      <link>https://www.popsci.com/technology/drone-discovers-plant/</link>
-      <description><![CDATA[大众科学研究人员使用带有爪状附件的消费级业余无人机，在夏威夷库奥伊岛的垂直悬崖上发现了一种以前未知的康乃馨物种 Schiedea waiahuluensis。研究人员使用了 DJI Phantom 4 pro 四轴飞行器无人机和“Mamba”，这是一种可以抓取、切割和收集样本的“远程植物收集设备”。研究人员表示，“这一发现很可能是第一次通过无人机定位和收集未描述的物种。”摘自“无人机发现隐藏的夏威夷植物物种”
-大众科学 (10/10/24) Mack Degeurin 查看全文]]></description>
-      <guid>https://www.popsci.com/technology/drone-discovers-plant/</guid>
-      <pubDate>Wed, 16 Oct 2024 15:09:12 GMT</pubDate>
+      <title>超级计算机实现创纪录的飞机湍流模拟</title>
+      <link>https://interestingengineering.com/innovation/world-record-aircraft-turbulence-simulations</link>
+      <description><![CDATA[有趣的工程佐治亚理工学院的研究人员利用橡树岭国家实验室的 Frontier（世界上速度最快的超级计算机），以创纪录的 35 万亿网格点分辨率模拟了湍流。专为 Frontier 创建的 GESTS 代码套件可以模拟极端规模的湍流。研究人员表示，他们的工作还展示了高级 GPU 编程的关键原理，这可能对其他领域很有价值，特别是那些依赖伪谱方法的领域。摘自“超级计算机实现创纪录的飞机湍流模拟”
+有趣的工程 (10/11/24) Jijo Malayil 查看全文]]></description>
+      <guid>https://interestingengineering.com/innovation/world-record-aircraft-turbulence-simulations</guid>
+      <pubDate>Fri, 18 Oct 2024 18:11:40 GMT</pubDate>
     </item>
     <item>
-      <title>内华达州询问人工智能哪些学生需要帮助</title>
-      <link>https://www.nytimes.com/2024/10/11/us/nevada-ai-at-risk-students.html</link>
-      <description><![CDATA[《纽约时报》内华达州依赖人工智能来估计在学校学习困难的儿童数量，这引发了强烈抗议。此前，内华达州将所有低收入学生视为“有学业和社会问题风险”的学生。人工智能权衡了数十个其他因素，将归类为高风险的学生人数从 2022 年的 270,000 多人削减至去年的 65,000 多人。结果，许多学校发现他们所依赖的州政府资金消失了。摘自“内华达州询问人工智能哪些学生需要帮助”
-纽约时报 (10/12/24) Troy Closson 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/10/11/us/nevada-ai-at-risk-students.html</guid>
-      <pubDate>Wed, 16 Oct 2024 15:09:12 GMT</pubDate>
+      <title>如何为 SailGP 做准备？研究数据</title>
+      <link>https://www.nytimes.com/2024/10/11/sports/sailing/sailgp-training-data.html</link>
+      <description><![CDATA[纽约时报为国际帆船比赛 SailGP 新赛季做准备的参赛者依靠数据推动他们率先冲过终点线。在 SailGP 中，船只都是相同的。这项比赛的独特之处在于收集大量数据流并在参赛队伍之间平等分享所有数据，参赛队伍必须将从模拟器训练、数据分析和可视化中收集到的见解付诸实践。摘自“如何为 SailGP 做准备？研究数据”
+纽约时报 (10/12/24) Kimball Livingston 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/10/11/sports/sailing/sailgp-training-data.html</guid>
+      <pubDate>Fri, 18 Oct 2024 18:11:39 GMT</pubDate>
     </item>
     <item>
-      <title>教计算机一种新的计数方法</title>
-      <link>https://www.newscientist.com/article/2451034-teaching-computers-a-new-way-to-count-could-make-numbers-more-accurate/</link>
-      <description><![CDATA[《新科学家》以色列阿里埃勒大学和本-古里安大学的研究人员设计了一种改进的浮点表示法，这是计算机中用来表示实数的一种方法，通过将数字存储为“尾数”（有效数字）和“指数”的组合来表示实数。为指数分配更多位可以增加可表示的数字范围；为尾数分配更多位可以提高数字的准确性。研究人员的浮点浮点技术允许软件动态地改变分配，在需要时提高准确度，或在必要时降低准确度以增加范围。摘自“教计算机一种新的计数方法”
-《新科学家》（2024 年 10 月 14 日）Matthew Sparkes 查看全文]]></description>
-      <guid>https://www.newscientist.com/article/2451034-teaching-computers-a-new-way-to-count-could-make-numbers-more-accurate/</guid>
-      <pubDate>Wed, 16 Oct 2024 15:09:11 GMT</pubDate>
+      <title>黑客利用 Linux 恶意软件攻击 ATM</title>
+      <link>https://arstechnica.com/security/2024/10/north-korean-hackers-use-newly-discovered-linux-malware-to-raid-atms/</link>
+      <description><![CDATA[Ars Technica一名研究人员报告称，发现了两个针对 Linux 交换机的 FASTCash 恶意软件样本。FASTCash 是一种远程访问工具，安装在受感染网络内处理支付卡交易的支付交换机上。美国网络安全和基础设施安全局在 2018 年的一份咨询报告中警告称，该恶意软件正被用于感染由 AIX（IBM 专有的 Unix 版本）驱动的零售支付网络内的交换机。 2020 年，该机构报告称 FASTCash 现已感染运行 Windows 的交换机。摘自“黑客使用 Linux 恶意软件袭击 ATM”
+Ars Technica (10/15/24) Dan Goodin 查看全文]]></description>
+      <guid>https://arstechnica.com/security/2024/10/north-korean-hackers-use-newly-discovered-linux-malware-to-raid-atms/</guid>
+      <pubDate>Fri, 18 Oct 2024 18:11:39 GMT</pubDate>
     </item>
     <item>
-      <title>量子缩放的秘诀</title>
-      <link>https://www.pnnl.gov/news-media/recipe-quantum-scaling</link>
-      <description><![CDATA[太平洋西北国家实验室由来自 14 家机构的研究人员创建的 ARQUIN 框架是一种将大规模分布式量子计算机模拟为不同层的管道。美国能源部太平洋西北国家实验室的 Samuel Stein 表示，“这几乎就像收集各种成分，却不知道它们在食谱中如何协同工作。”该框架专注于通过微波连接到光学链路的超导量子设备。摘自“量子缩放的秘诀”
-太平洋西北国家实验室 (10/14/24) Sarah Wong 查看全文]]></description>
-      <guid>https://www.pnnl.gov/news-media/recipe-quantum-scaling</guid>
-      <pubDate>Wed, 16 Oct 2024 15:09:11 GMT</pubDate>
+      <title>可穿戴传感器监测工厂工人的疲劳程度</title>
+      <link>https://www.popsci.com/technology/worker-fatigue-sensors/</link>
+      <description><![CDATA[大众科学西北大学的一个团队设计了一个可穿戴传感器系统，利用机器学习来监测工人的身体紧张和疲劳迹象。该系统由一个相互连接的六个可穿戴传感器阵列组成，这些传感器放置在佩戴者的躯干和手臂上，并配有两个深度摄像头来测量关节运动，以及一个高清网络摄像头来分析运动强度、重复性和随时间推移的强度减弱。摘自“可穿戴传感器监测工厂工人疲劳”
+大众科学 (10/15/24) Andrew Paul 查看全文]]></description>
+      <guid>https://www.popsci.com/technology/worker-fatigue-sensors/</guid>
+      <pubDate>Fri, 18 Oct 2024 18:11:38 GMT</pubDate>
     </item>
     <item>
-      <title>受狗鼻子启发的空气质量传感器</title>
-      <link>https://www.fastcompany.com/91206418/harvard-researchers-designed-an-air-quality-sensor-inspired-by-dogs-noses</link>
-      <description><![CDATA[《Fast Company》哈佛大学研究人员开发的传感器系统模仿哺乳动物的嗅觉过程来识别挥发性有机化合物，即从日常产品中蒸发到空气中的化学物质。如果 SNIFFIA（室内空气感官自然事实发现器）检测到空气中的有害化合物，它会反复“嗅探”以获取更多信息。在一项使用新方法和现有传感器硬件的研究中，结果的可靠性从 38% 提高到了 98%。摘自“受狗鼻子启发的空气质量传感器”
-Fast Company (10/11/24) Adele Peters 查看全文]]></description>
-      <guid>https://www.fastcompany.com/91206418/harvard-researchers-designed-an-air-quality-sensor-inspired-by-dogs-noses</guid>
-      <pubDate>Wed, 16 Oct 2024 15:09:10 GMT</pubDate>
+      <title>剑桥展览中人工智能为死去的动物发声</title>
+      <link>https://www.theguardian.com/science/2024/oct/14/ai-gives-voice-to-dead-animals-in-cambridge-exhibition</link>
+      <description><![CDATA[英国卫报得益于人工智能 (AI)，剑桥大学动物博物馆的十多件死亡动物展品获得了“对话”的天赋。这些死亡动物和模型拥有个性和口音，可以通过游客的手机以语音或文字进行交流。这项技术让动物们能够描述它们在地球上的时光以及它们所面临的挑战，希望能够扭转人们对生物多样性危机的冷漠态度。摘自“剑桥展览中的人工智能为死亡动物发声”
+英国卫报 (2024 年 10 月 15 日) Ian Sample 查看全文]]></description>
+      <guid>https://www.theguardian.com/science/2024/oct/14/ai-gives-voice-to-dead-animals-in-cambridge-exhibition</guid>
+      <pubDate>Fri, 18 Oct 2024 18:11:38 GMT</pubDate>
     </item>
     <item>
-      <title>蓝牙显微镜揭示小鼠的内部工作原理</title>
-      <link>https://spectrum.ieee.org/bluetooth-microscope</link>
-      <description><![CDATA[IEEE Spectrum约翰霍普金斯大学研究人员开发的显微镜可以通过蓝牙传输活体小鼠体内的实时图像。研究人员展示了 BLEscope 无线显微镜如何持续监测小鼠大脑中的血管和肿瘤。BLEscope 是使用现成的低功耗图像传感器和微控制器创建的，它们集成在印刷电路板上。它具有绿色和蓝色 LED 灯，有助于在成像过程中提供对比度。摘自“蓝牙显微镜揭示小鼠的内部工作原理”
-IEEE Spectrum (10/13/24) Michelle Hampson 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/bluetooth-microscope</guid>
-      <pubDate>Wed, 16 Oct 2024 15:09:10 GMT</pubDate>
+      <title>丰田与现代波士顿动力公司合作开发人工智能机器人</title>
+      <link>https://www.bloomberg.com/news/articles/2024-10-16/toyota-hyundai-s-boston-dynamics-join-forces-for-ai-powered-robots?sref=db2f3qgr</link>
+      <description><![CDATA[彭博社丰田汽车研究部门和现代汽车波士顿动力公司正在合作加速开发人工智能人形机器人。此次合作将丰田研究院在机器大型行为模型学习方面的专业知识与波士顿动力公司的人形机器人 Atlas 结合起来。丰田的吉尔·普拉特 (Gill Pratt) 表示，此次合作的长期目标是将机器人引入工厂装配线和家庭，用于老年人护理。摘自“丰田与现代旗下的波士顿动力公司联手开发人工智能机器人”
+彭博社 (10/16/24) 切斯特·道森 查看全文]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-10-16/toyota-hyundai-s-boston-dynamics-join-forces-for-ai-powered-robots?sref=db2f3qgr</guid>
+      <pubDate>Fri, 18 Oct 2024 18:11:37 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌使用核武器</title>
-      <link>https://www.bbc.com/news/articles/c748gn94k95o</link>
-      <description><![CDATA[BBC 新闻谷歌与 Kairos Power 签署协议，使用小型核反应堆为其 AI 数据中心提供所需的能源。该公司表示，计划在本十年开始使用第一座反应堆，并在未来十年内让更多反应堆投入使用。谷歌的 Michael Terrell 表示：“这项协议有助于加速新技术的发展，以清洁、可靠地满足能源需求，并为每个人释放人工智能的全部潜力。”摘自“谷歌进军核能”
-BBC 新闻 (10/15/24) Joáo da Silva 查看全文]]></description>
-      <guid>https://www.bbc.com/news/articles/c748gn94k95o</guid>
-      <pubDate>Wed, 16 Oct 2024 15:09:09 GMT</pubDate>
+      <title>PLCHound 算法旨在提高关键基础设施的安全性</title>
+      <link>https://industrialcyber.co/control-device-security/georgia-techs-cyber-physical-security-lab-develops-plchound-algorithm-to-boost-critical-infrastructure-security/</link>
+      <description><![CDATA[工业网络佐治亚理工学院网络物理安全实验室的研究人员表示，他们开发的一种算法通过更准确地识别易受远程网络攻击的设备来增强关键基础设施的安全性。PLCHound 算法使用先进的自然语言处理和机器学习技术来筛选互联网记录数据库并记录连接设备的 IP 地址和安全性。摘自“PLCHound 算法旨在增强关键基础设施安全性”
+工业网络 (10/16/24) Anna Ribeiro 查看全文]]></description>
+      <guid>https://industrialcyber.co/control-device-security/georgia-techs-cyber-physical-security-lab-develops-plchound-algorithm-to-boost-critical-infrastructure-security/</guid>
+      <pubDate>Fri, 18 Oct 2024 18:11:37 GMT</pubDate>
     </item>
     <item>
-      <title>机器人指挥家在德累斯顿接过指挥棒</title>
-      <link>https://www.dw.com/en/dresden-symphony-orchestra-puts-robotic-conductor-in-charge/a-70490890</link>
-      <description><![CDATA[德国之声 (德国)上周末，一个三臂机器人系统指挥德国德累斯顿交响乐团举行了一场音乐会。MAiRA Pro S 由德累斯顿工业大学人机交互触觉互联网中心机器人研究小组的 Frank Peters 设计，乐团艺术总监 Markus Rindt 也参与其中。“我们让机器人处于操作模式，这样它就能对最轻微的触摸做出反应，”Peters 解释道。 “然后，马库斯拿起机械臂，引导它，就像他引导人类学徒指挥家一样。”摘自“机器人指挥家在德累斯顿接过指挥棒”
-德国之声 (德国) (2024 年 10 月 14 日) Gaby Reucher 查看全文]]></description>
-      <guid>https://www.dw.com/en/dresden-symphony-orchestra-puts-robotic-conductor-in-charge/a-70490890</guid>
-      <pubDate>Wed, 16 Oct 2024 15:09:09 GMT</pubDate>
+      <title>中国网络安全办公室要求对英特尔产品进行审查</title>
+      <link>https://www.scmp.com/tech/big-tech/article/3282641/china-cybersecurity-group-seeks-review-intel-products-possible-breaches</link>
+      <description><![CDATA[南华早报中国网络安全组织呼吁对在大陆销售的英特尔产品进行审查，称该公司的芯片存在“漏洞频发、故障率高”的威胁。中国网络安全协会表示，英特尔的中央处理器过去曾出现多个漏洞，该公司的某些芯片系列导致视频游戏崩溃。摘自“中国网络安全组织要求对英特尔产品进行审查”
+南华早报 (10/16/24) 冯可可；潘喆 查看全文]]></description>
+      <guid>https://www.scmp.com/tech/big-tech/article/3282641/china-cybersecurity-group-seeks-review-intel-products-possible-breaches</guid>
+      <pubDate>Fri, 18 Oct 2024 18:11:36 GMT</pubDate>
     </item>
     <item>
-      <title>LeCun 认为人工智能比猫还笨</title>
-      <link>https://www.wsj.com/tech/ai/yann-lecun-ai-meta-aa59e2f5</link>
-      <description><![CDATA[《华尔街日报》人工智能先驱、ACM A.M. 图灵奖获得者 Yann LeCun 表示，一些专家夸大了人工智能的力量和风险。LeCun 认为，当今的人工智能模型缺乏宠物的智力。当一位 OpenAI 研究人员强调控制超智能人工智能的必要性时，LeCun 回应道：“在我看来，在‘紧急弄清楚如何控制比我们聪明得多的人工智能系统’之前，我们需要对设计一个比家猫更聪明的系统有所了解。”
-摘自“LeCun 认为人工智能比猫更笨”
-华尔街日报 (10/11/24) Christopher Mims 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/tech/ai/yann-lecun-ai-meta-aa59e2f5</guid>
-      <pubDate>Wed, 16 Oct 2024 15:09:08 GMT</pubDate>
+      <title>无线数据传输速度纪录被打破</title>
+      <link>https://www.theengineer.co.uk/content/news/ucl-smashes-speed-record-for-wireless-data-transfer</link>
+      <description><![CDATA[工程师英国伦敦大学学院的一个团队使用 5-150GHz 的频率范围，演示了速度为每秒 938 千兆位的无线数据传输。使用的总带宽为 145GHz，是之前无线传输世界纪录的五倍多。研究人员表示，宽带宽范围是允许通过无线电和光学技术传输数据的关键。摘自“打破无线数据传输速度记录”
+工程师 (10/16/24) 查看全文]]></description>
+      <guid>https://www.theengineer.co.uk/content/news/ucl-smashes-speed-record-for-wireless-data-transfer</guid>
+      <pubDate>Fri, 18 Oct 2024 18:11:36 GMT</pubDate>
     </item>
     <item>
-      <title>网络犯罪分子帮助俄罗斯、中国攻击美国及其盟友</title>
-      <link>https://apnews.com/article/microsoft-russia-china-iran-israel-cyberespionage-cyber-d3a22dd2dcea32615ac15ed4fb951541</link>
-      <description><![CDATA[美联社微软的一份报告称，俄罗斯、中国和伊朗依靠犯罪网络领导针对美国及其盟友的网络间谍和黑客行动。例如，调查人员发现一个俄罗斯犯罪网络在 6 月份侵入了乌克兰军方使用的 50 多台电子设备，显然是在寻求获取可能有助于俄罗斯入侵乌克兰的访问权限和信息。摘自“网络犯罪分子帮助俄罗斯、中国攻击美国及其盟友”
-美联社 (2024 年 10 月 15 日) David Klepper 查看全文]]></description>
-      <guid>https://apnews.com/article/microsoft-russia-china-iran-israel-cyberespionage-cyber-d3a22dd2dcea32615ac15ed4fb951541</guid>
-      <pubDate>Wed, 16 Oct 2024 15:09:08 GMT</pubDate>
+      <title>韩国誓言防止技术泄露</title>
+      <link>https://www.reuters.com/markets/asia/south-korea-vows-prevent-technology-leaks-with-heavier-penalties-2024-10-17/</link>
+      <description><![CDATA[路透社韩国财政部长崔相默表示，韩国将制定更强有力的措施，防止先进技术机密外泄。崔相默表示，政府将建立一个旨在防止专利机构技术泄露的“大数据”系统，并出台新法规，确保对肇事者进行更严厉的惩罚。摘自“韩国誓言防止技术泄露”
+路透社 (10/17/24) Jihoon Lee 查看全文]]></description>
+      <guid>https://www.reuters.com/markets/asia/south-korea-vows-prevent-technology-leaks-with-heavier-penalties-2024-10-17/</guid>
+      <pubDate>Fri, 18 Oct 2024 18:11:35 GMT</pubDate>
     </item>
     <item>
-      <title>计算机生成艺术先驱莉莲·施瓦茨去世，享年 97 岁</title>
-      <link>https://www.nytimes.com/2024/10/14/technology/lillian-schwartz-dead.html</link>
-      <description><![CDATA[《纽约时报》莉莲·施瓦茨是首批使用计算机制作电影的艺术家之一，于周六去世，享年 97 岁。施瓦茨曾荣获 ACM SIGGRAPH 2015 年度杰出艺术家数字艺术终身成就奖。她通过将穿孔卡送入 IBM 7094 大型计算机，在磁带上制作出 85 个黑白帧，制作出了她的第一部电影。后来，她凭借为 1984 年翻新后的现代艺术博物馆开幕而制作的计算机生成的公益广告获得了纽约艾美奖。摘自“计算机生成艺术先驱莉莲·施瓦茨去世，享年 97 岁”
-纽约时报 (10/14/24) Chris Kornelis 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/10/14/technology/lillian-schwartz-dead.html</guid>
-      <pubDate>Wed, 16 Oct 2024 15:09:08 GMT</pubDate>
+      <title>世界上最小的量子计算机用一个光子解决问题</title>
+      <link>https://interestingengineering.com/innovation/worlds-smallest-quantum-computer-unveiled-solves-problems-with-just-1-photon</link>
+      <description><![CDATA[有趣的工程台湾国立清华大学的研究人员创造了他们所谓的世界上最小的单光子量子计算机，它不需要低温条件，也不需要大量能量。单个高维光子有一个波包，其中包含“32 个时间箱或维度”的信息，可以由研究人员的计算机进行编码。该团队演示了如何使用 Shor 算法在他们的设备上解决质因数分解问题。摘自“世界上最小的量子计算机用一个光子解决问题”
+有趣的工程 (10/17/24) Jijo Malayil 查看全文]]></description>
+      <guid>https://interestingengineering.com/innovation/worlds-smallest-quantum-computer-unveiled-solves-problems-with-just-1-photon</guid>
+      <pubDate>Fri, 18 Oct 2024 18:11:35 GMT</pubDate>
     </item>
     <item>
-      <title>中国正在制定世界科技规则</title>
-      <link>https://www.economist.com/business/2024/10/10/china-is-writing-the-worlds-technology-rules</link>
-      <description><![CDATA[《经济学人》中国在技术标准制定过程中越来越自信。例如，上个月，国际电信联盟批准了三项新技术标准，这些标准将嵌入第六代 (6G) 移动技术，均由中国科学院和中国电信开发。与西方在标准制定过程中倾向于听从私营公司和行业协会的意见不同，中国的做法是由政府主导的。摘自“中国正在书写世界技术规则”
-《经济学人》（10/10/24） 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.economist.com/business/2024/10/10/china-is-writing-the-worlds-technology-rules</guid>
-      <pubDate>Wed, 16 Oct 2024 15:09:07 GMT</pubDate>
+      <title>ACM 研究员入选国家科学委员会</title>
+      <link>https://fedscoop.com/alondra-nelson-among-biden-national-science-board-selections/</link>
+      <description><![CDATA[FedScoop乔·拜登总统计划任命 8 人进入国家科学委员会，其中包括 ACM 研究员 Yolanda Gil 和 Juan Gilbert。Gil 是南加州大学信息科学研究所的研究员兼 AI 和数据科学战略高级主管，也是该大学维特比工程学院 AI 和数据科学计划的主任。Gilbert 是佛罗里达大学的教授，也是该大学计算机与信息科学与工程系的系主任，也是社会公益计算实验室的负责人。摘自“ACM 研究员入选国家科学委员会”
+FedScoop (10/15/24) Madison Alder 查看全文]]></description>
+      <guid>https://fedscoop.com/alondra-nelson-among-biden-national-science-board-selections/</guid>
+      <pubDate>Fri, 18 Oct 2024 18:11:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>机器人的阿兰图灵肖像将被苏富比拍卖</title>
+      <link>https://www.dw.com/en/portrait-by-robot-to-be-sold-at-sothebys-in-world-first/a-70508473</link>
+      <description><![CDATA[德国之声（德国）苏富比拍卖行下个月将拍卖一幅由机器人绘制的阿兰·图灵肖像，预计其售价将高达 150,000 英镑（196,000 美元）。这件由人形机器人 Ai-Da 创作的作品名为“AI God”，于 2024 年 5 月在联合国展出。画廊老板兼 Ai-Da 机器人工作室创始人 Aidan Meller 与英国牛津大学和伯明翰大学的专家一起领导了创造该机器人的团队。摘自“机器人的艾伦图灵肖像将被苏富比拍卖”
+Deutsche Welle（德国）（2024 年 10 月 16 日） 查看全文]]></description>
+      <guid>https://www.dw.com/en/portrait-by-robot-to-be-sold-at-sothebys-in-world-first/a-70508473</guid>
+      <pubDate>Fri, 18 Oct 2024 18:11:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
