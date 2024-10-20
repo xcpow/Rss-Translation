@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Sun, 20 Oct 2024 09:08:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 12:15:40 GMT</lastBuildDate>
+    <item>
+      <title>抗议者称 Uber 和 Lyft 仍未满足盲人乘客的需求</title>
+      <link>https://www.wired.com/story/protestors-say-uber-and-lyft-are-still-failing-their-blind-passengers/</link>
+      <description><![CDATA[在旧金山举行的一场抗议活动中，盲人 Uber 和 Lyft 用户声称网约车公司没有采取足够措施阻止司机拒绝他们搭乘。]]></description>
+      <guid>https://www.wired.com/story/protestors-say-uber-and-lyft-are-still-failing-their-blind-passengers/</guid>
+      <pubDate>Sun, 20 Oct 2024 10:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>我创建了一个健康的 OnlyFans 来维持生计</title>
       <link>https://www.wired.com/story/i-made-a-wholesome-onlyfans-to-try-to-make-ends-meet/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[Global Intelligence 声称其 Cyber​​check 技术可以帮助警方找到关键证据来破案。但《连线》杂志的一项调查显示，确凿的证据往往不那么确凿。]]></description>
       <guid>https://www.wired.com/story/cybercheck-crime-reports-prosecutions/</guid>
       <pubDate>Tue, 15 Oct 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>数百万人在 Telegram 上使用滥用人工智能“Nudify”机器人</title>
-      <link>https://www.wired.com/story/ai-deepfake-nudify-bots-telegram/</link>
-      <description><![CDATA[从图像中“脱掉衣服”的机器人已经在消息应用程序上泛滥，尽管立法者和科技公司试图打击，但人们还是可以创建非自愿的深度伪造图像。]]></description>
-      <guid>https://www.wired.com/story/ai-deepfake-nudify-bots-telegram/</guid>
-      <pubDate>Tue, 15 Oct 2024 10:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
