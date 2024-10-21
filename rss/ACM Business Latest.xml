@@ -4,7 +4,21 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Mon, 21 Oct 2024 09:10:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 12:16:45 GMT</lastBuildDate>
+    <item>
+      <title>在肯塔基山区，比特币挖矿之梦变成了一场噩梦</title>
+      <link>https://www.wired.com/story/in-the-kentucky-mountains-a-bitcoin-mining-dream-becomes-the-stuff-of-nightmares/</link>
+      <description><![CDATA[当比特币热度飙升时，肯塔基州的小型工业设施所有者与中国公司建立了加密货币挖矿合作伙伴关系。但后来一切都失败了。]]></description>
+      <guid>https://www.wired.com/story/in-the-kentucky-mountains-a-bitcoin-mining-dream-becomes-the-stuff-of-nightmares/</guid>
+      <pubDate>Mon, 21 Oct 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国政府称依赖中国锂电池风险太大</title>
+      <link>https://www.wired.com/story/us-government-says-relying-on-chinese-lithium-batteries-is-too-risky/</link>
+      <description><![CDATA[一份新文件显示，美国国土安全部担心中国对电网供电锂电池的投资将对美国供应链安全构成威胁。]]></description>
+      <guid>https://www.wired.com/story/us-government-says-relying-on-chinese-lithium-batteries-is-too-risky/</guid>
+      <pubDate>Mon, 21 Oct 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>抗议者称 Uber 和 Lyft 仍未满足盲人乘客的需求</title>
       <link>https://www.wired.com/story/protestors-say-uber-and-lyft-are-still-failing-their-blind-passengers/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[特斯拉问题重重的电动皮卡在欧洲是非法的，但不知何故，一款几乎未经过改装的车型却获得了许可。一群欧洲运输组织声称，这种做法可能带来灾难。]]></description>
       <guid>https://www.wired.com/story/a-rubberized-cybertruck-is-ploughing-through-european-pedestrian-safety-rules/</guid>
       <pubDate>Tue, 15 Oct 2024 13:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>“自杀舱”背后的医生希望人工智能能够帮助临终者</title>
-      <link>https://www.wired.com/story/the-doctor-behind-the-suicide-pod-wants-ai-to-assist-at-the-end-of-life/</link>
-      <description><![CDATA[一名美国女性在菲利普·尼奇克最新发明的机器内死亡，揭示了安乐死争论的下一个前沿。]]></description>
-      <guid>https://www.wired.com/story/the-doctor-behind-the-suicide-pod-wants-ai-to-assist-at-the-end-of-life/</guid>
-      <pubDate>Tue, 15 Oct 2024 11:43:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>这款 AI 工具曾帮助定罪谋杀者。后来有人仔细研究了它</title>
-      <link>https://www.wired.com/story/cybercheck-crime-reports-prosecutions/</link>
-      <description><![CDATA[Global Intelligence 声称其 Cyber​​check 技术可以帮助警方找到关键证据来破案。但《连线》杂志的一项调查显示，确凿的证据往往不那么确凿。]]></description>
-      <guid>https://www.wired.com/story/cybercheck-crime-reports-prosecutions/</guid>
-      <pubDate>Tue, 15 Oct 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
