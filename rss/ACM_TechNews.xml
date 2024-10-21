@@ -4,110 +4,94 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Fri, 18 Oct 2024 18:11:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 18:12:32 GMT</lastBuildDate>
     <item>
-      <title>超级计算机实现创纪录的飞机湍流模拟</title>
-      <link>https://interestingengineering.com/innovation/world-record-aircraft-turbulence-simulations</link>
-      <description><![CDATA[有趣的工程佐治亚理工学院的研究人员利用橡树岭国家实验室的 Frontier（世界上速度最快的超级计算机），以创纪录的 35 万亿网格点分辨率模拟了湍流。专为 Frontier 创建的 GESTS 代码套件可以模拟极端规模的湍流。研究人员表示，他们的工作还展示了高级 GPU 编程的关键原理，这可能对其他领域很有价值，特别是那些依赖伪谱方法的领域。摘自“超级计算机实现创纪录的飞机湍流模拟”
-有趣的工程 (10/11/24) Jijo Malayil 查看全文]]></description>
-      <guid>https://interestingengineering.com/innovation/world-record-aircraft-turbulence-simulations</guid>
-      <pubDate>Fri, 18 Oct 2024 18:11:40 GMT</pubDate>
+      <title>安圭拉将人工智能热潮转化为数字金矿</title>
+      <link>https://apnews.com/article/anguilla-artificial-intelligence-ai-internet-29d4ca2bb740d0425ffb8355811a6976</link>
+      <description><![CDATA[美联社英国领土安圭拉在 20 世纪 90 年代获得了 .ai 互联网地址的控制权，现在正从人工智能热潮中获利。例如，谷歌使用 google.ai 展示其人工智能服务，而埃隆·马斯克则使用 x.ai 作为其 Grok 人工智能聊天机器人的主页。受人工智能热潮的推动，安圭拉去年从网络域名注册费中获得的收入翻了两番，达到 3200 万美元。摘自“安圭拉将人工智能热潮变成数字金矿”
+美联社 (10/15/24) Kelvin Chan 查看全文]]></description>
+      <guid>https://apnews.com/article/anguilla-artificial-intelligence-ai-internet-29d4ca2bb740d0425ffb8355811a6976</guid>
+      <pubDate>Mon, 21 Oct 2024 18:12:32 GMT</pubDate>
     </item>
     <item>
-      <title>如何为 SailGP 做准备？研究数据</title>
-      <link>https://www.nytimes.com/2024/10/11/sports/sailing/sailgp-training-data.html</link>
-      <description><![CDATA[纽约时报为国际帆船比赛 SailGP 新赛季做准备的参赛者依靠数据推动他们率先冲过终点线。在 SailGP 中，船只都是相同的。这项比赛的独特之处在于收集大量数据流并在参赛队伍之间平等分享所有数据，参赛队伍必须将从模拟器训练、数据分析和可视化中收集到的见解付诸实践。摘自“如何为 SailGP 做准备？研究数据”
-纽约时报 (10/12/24) Kimball Livingston 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/10/11/sports/sailing/sailgp-training-data.html</guid>
-      <pubDate>Fri, 18 Oct 2024 18:11:39 GMT</pubDate>
+      <title>法国福利制度监管算法因存在偏见而受到批评</title>
+      <link>https://www.wired.com/story/algorithms-policed-welfare-systems-for-years-now-theyre-under-fire-for-bias/</link>
+      <description><![CDATA[Wired人权组织联盟对法国政府使用算法检测误算的福利支付行为提起了法律诉讼，指控该算法歧视残疾人和单身母亲。该组织表示，自 2010 年代以来使用的算法违反了欧盟隐私规则和法国反歧视法。摘自“法国福利制度监管算法因存在偏见而受到抨击”
+Wired (10/16/24) Morgan Meaker 查看全文]]></description>
+      <guid>https://www.wired.com/story/algorithms-policed-welfare-systems-for-years-now-theyre-under-fire-for-bias/</guid>
+      <pubDate>Mon, 21 Oct 2024 18:12:31 GMT</pubDate>
     </item>
     <item>
-      <title>黑客利用 Linux 恶意软件攻击 ATM</title>
-      <link>https://arstechnica.com/security/2024/10/north-korean-hackers-use-newly-discovered-linux-malware-to-raid-atms/</link>
-      <description><![CDATA[Ars Technica一名研究人员报告称，发现了两个针对 Linux 交换机的 FASTCash 恶意软件样本。FASTCash 是一种远程访问工具，安装在受感染网络内处理支付卡交易的支付交换机上。美国网络安全和基础设施安全局在 2018 年的一份咨询报告中警告称，该恶意软件正被用于感染由 AIX（IBM 专有的 Unix 版本）驱动的零售支付网络内的交换机。 2020 年，该机构报告称 FASTCash 现已感染运行 Windows 的交换机。摘自“黑客使用 Linux 恶意软件袭击 ATM”
-Ars Technica (10/15/24) Dan Goodin 查看全文]]></description>
-      <guid>https://arstechnica.com/security/2024/10/north-korean-hackers-use-newly-discovered-linux-malware-to-raid-atms/</guid>
-      <pubDate>Fri, 18 Oct 2024 18:11:39 GMT</pubDate>
+      <title>FCC 开始调查互联网数据使用上限</title>
+      <link>https://www.reuters.com/business/media-telecom/us-fcc-opens-formal-inquiry-into-use-data-caps-by-telecom-firms-2024-10-15/</link>
+      <description><![CDATA[路透社美国联邦通信委员会 (FCC) 正在正式调查宽带提供商为何限制某些客户的数据使用量，以及这对消费者和竞争有何影响。FCC 主席 Jessica Rosenworcel 指出，在 COVID-19 期间，许多固定和移动互联网服务提供商都没有执行或施加数据上限，“这表明我们的网络有能力在没有这些限制的情况下满足消费者的需求。”摘自“FCC 开始调查互联网数据使用上限”
+路透社 (2024 年 10 月 15 日) David Shepardson 查看全文]]></description>
+      <guid>https://www.reuters.com/business/media-telecom/us-fcc-opens-formal-inquiry-into-use-data-caps-by-telecom-firms-2024-10-15/</guid>
+      <pubDate>Mon, 21 Oct 2024 18:12:31 GMT</pubDate>
     </item>
     <item>
-      <title>可穿戴传感器监测工厂工人的疲劳程度</title>
-      <link>https://www.popsci.com/technology/worker-fatigue-sensors/</link>
-      <description><![CDATA[大众科学西北大学的一个团队设计了一个可穿戴传感器系统，利用机器学习来监测工人的身体紧张和疲劳迹象。该系统由一个相互连接的六个可穿戴传感器阵列组成，这些传感器放置在佩戴者的躯干和手臂上，并配有两个深度摄像头来测量关节运动，以及一个高清网络摄像头来分析运动强度、重复性和随时间推移的强度减弱。摘自“可穿戴传感器监测工厂工人疲劳”
-大众科学 (10/15/24) Andrew Paul 查看全文]]></description>
-      <guid>https://www.popsci.com/technology/worker-fatigue-sensors/</guid>
-      <pubDate>Fri, 18 Oct 2024 18:11:38 GMT</pubDate>
+      <title>美国指控苏丹男子经营雇佣网络攻击团伙</title>
+      <link>https://www.washingtonpost.com/technology/2024/10/16/sudanese-charged-cyberattack-gang/</link>
+      <description><![CDATA[《华盛顿邮报》美国检察官指控两名苏丹兄弟经营雇佣网络攻击团伙，指控他们在一年内策划了 35,000 次拒绝服务攻击。据称，这两人运营了 Anonymous Sudan，自 2023 年 1 月以来，该组织成功使微软、OpenAI 和 PayPal 网站上的关键页面下线，并破坏了至少一家美国医院的计算机。该组织还关闭了美国、迪拜、乍得、巴林和其他国家的政府网站。摘自“美国指控苏丹男子经营网络攻击雇佣团伙”
+华盛顿邮报 (10/16/24) Joseph Menn 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.washingtonpost.com/technology/2024/10/16/sudanese-charged-cyberattack-gang/</guid>
+      <pubDate>Mon, 21 Oct 2024 18:12:30 GMT</pubDate>
     </item>
     <item>
-      <title>剑桥展览中人工智能为死去的动物发声</title>
-      <link>https://www.theguardian.com/science/2024/oct/14/ai-gives-voice-to-dead-animals-in-cambridge-exhibition</link>
-      <description><![CDATA[英国卫报得益于人工智能 (AI)，剑桥大学动物博物馆的十多件死亡动物展品获得了“对话”的天赋。这些死亡动物和模型拥有个性和口音，可以通过游客的手机以语音或文字进行交流。这项技术让动物们能够描述它们在地球上的时光以及它们所面临的挑战，希望能够扭转人们对生物多样性危机的冷漠态度。摘自“剑桥展览中的人工智能为死亡动物发声”
-英国卫报 (2024 年 10 月 15 日) Ian Sample 查看全文]]></description>
-      <guid>https://www.theguardian.com/science/2024/oct/14/ai-gives-voice-to-dead-animals-in-cambridge-exhibition</guid>
-      <pubDate>Fri, 18 Oct 2024 18:11:38 GMT</pubDate>
+      <title>人工智能扫描 RNA“暗物质”，发现 70,000 种新病毒</title>
+      <link>https://www.nature.com/articles/d41586-024-03320-6</link>
+      <description><![CDATA[NatureAI 被用于发现 70,500 种以前未知的 RNA 病毒。利用 Meta 研究人员开发的蛋白质预测工具 ESMFold，中国中山大学的石芒和同事创建了一个名为 LucaProt 的模型，并为其输入了测序和 ESMFold 蛋白质预测数据。他们训练模型识别病毒 RNA 依赖性 RNA 聚合酶（RNA 复制中使用的关键蛋白质），并利用它在大量基因组数据中查找编码这些酶的序列。摘自“AI 扫描 RNA‘暗物质’，发现 70,000 种新病毒”
+Nature (10/14/24) Smriti Mallapaty 查看全文]]></description>
+      <guid>https://www.nature.com/articles/d41586-024-03320-6</guid>
+      <pubDate>Mon, 21 Oct 2024 18:12:30 GMT</pubDate>
     </item>
     <item>
-      <title>丰田与现代波士顿动力公司合作开发人工智能机器人</title>
-      <link>https://www.bloomberg.com/news/articles/2024-10-16/toyota-hyundai-s-boston-dynamics-join-forces-for-ai-powered-robots?sref=db2f3qgr</link>
-      <description><![CDATA[彭博社丰田汽车研究部门和现代汽车波士顿动力公司正在合作加速开发人工智能人形机器人。此次合作将丰田研究院在机器大型行为模型学习方面的专业知识与波士顿动力公司的人形机器人 Atlas 结合起来。丰田的吉尔·普拉特 (Gill Pratt) 表示，此次合作的长期目标是将机器人引入工厂装配线和家庭，用于老年人护理。摘自“丰田与现代旗下的波士顿动力公司联手开发人工智能机器人”
-彭博社 (10/16/24) 切斯特·道森 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-10-16/toyota-hyundai-s-boston-dynamics-join-forces-for-ai-powered-robots?sref=db2f3qgr</guid>
-      <pubDate>Fri, 18 Oct 2024 18:11:37 GMT</pubDate>
+      <title>美国科技公司将向英国数据中心投资超过 80 亿美元</title>
+      <link>https://www.wsj.com/tech/ai/u-s-tech-firms-to-invest-more-than-8-billion-in-u-k-data-centers-amid-ai-frenzy-9ecb93ee</link>
+      <description><![CDATA[《华尔街日报》英国科学、创新和技术部表示，已从四家美国科技公司获得了总计 82.3 亿美元的数据中心投资。这些承诺凸显了美国企业对扩大海外业务的兴趣日益浓厚，以期在人工智能竞赛中领先于竞争对手。英国科技大臣彼得·凯尔表示，政府将数据中心指定为经济的关键基础设施，随后做出了投资承诺。摘自“美国科技公司将向英国数据中心投资超过 80 亿美元”
+华尔街日报 (10/15/24) Mauro Orru 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/tech/ai/u-s-tech-firms-to-invest-more-than-8-billion-in-u-k-data-centers-amid-ai-frenzy-9ecb93ee</guid>
+      <pubDate>Mon, 21 Oct 2024 18:12:30 GMT</pubDate>
     </item>
     <item>
-      <title>PLCHound 算法旨在提高关键基础设施的安全性</title>
-      <link>https://industrialcyber.co/control-device-security/georgia-techs-cyber-physical-security-lab-develops-plchound-algorithm-to-boost-critical-infrastructure-security/</link>
-      <description><![CDATA[工业网络佐治亚理工学院网络物理安全实验室的研究人员表示，他们开发的一种算法通过更准确地识别易受远程网络攻击的设备来增强关键基础设施的安全性。PLCHound 算法使用先进的自然语言处理和机器学习技术来筛选互联网记录数据库并记录连接设备的 IP 地址和安全性。摘自“PLCHound 算法旨在增强关键基础设施安全性”
-工业网络 (10/16/24) Anna Ribeiro 查看全文]]></description>
-      <guid>https://industrialcyber.co/control-device-security/georgia-techs-cyber-physical-security-lab-develops-plchound-algorithm-to-boost-critical-infrastructure-security/</guid>
-      <pubDate>Fri, 18 Oct 2024 18:11:37 GMT</pubDate>
+      <title>美国启动竞争以加速半导体先进封装技术</title>
+      <link>https://www.nist.gov/news-events/news/2024/10/biden-harris-administration-opens-funding-competition-16-billion-accelerate</link>
+      <description><![CDATA[NIST 新闻美国发布了由《芯片与科学法案》资助的资助机会通知，旨在使国内半导体行业能够采用创新的新型先进半导体技术封装流程。将通过五个研发领域的多个奖项提供高达 16 亿美元的总资金：设备、工具、工艺和工艺集成；电力输送和热管理；连接器技术；小芯片生态系统；以及协同设计/电子设计自动化。摘自“美国开放竞争以加速半导体先进封装技术”
+NIST 新闻 (10/18/24) 查看全文]]></description>
+      <guid>https://www.nist.gov/news-events/news/2024/10/biden-harris-administration-opens-funding-competition-16-billion-accelerate</guid>
+      <pubDate>Mon, 21 Oct 2024 18:12:29 GMT</pubDate>
     </item>
     <item>
-      <title>中国网络安全办公室要求对英特尔产品进行审查</title>
-      <link>https://www.scmp.com/tech/big-tech/article/3282641/china-cybersecurity-group-seeks-review-intel-products-possible-breaches</link>
-      <description><![CDATA[南华早报中国网络安全组织呼吁对在大陆销售的英特尔产品进行审查，称该公司的芯片存在“漏洞频发、故障率高”的威胁。中国网络安全协会表示，英特尔的中央处理器过去曾出现多个漏洞，该公司的某些芯片系列导致视频游戏崩溃。摘自“中国网络安全组织要求对英特尔产品进行审查”
-南华早报 (10/16/24) 冯可可；潘喆 查看全文]]></description>
-      <guid>https://www.scmp.com/tech/big-tech/article/3282641/china-cybersecurity-group-seeks-review-intel-products-possible-breaches</guid>
-      <pubDate>Fri, 18 Oct 2024 18:11:36 GMT</pubDate>
+      <title>印度计划限制笔记本电脑进口以促进本地制造业</title>
+      <link>https://www.reuters.com/technology/india-plans-laptop-import-curbs-boost-local-manufacturing-sources-say-2024-10-18/</link>
+      <description><![CDATA[路透社印度预计将在明年 1 月之后限制笔记本电脑、平板电脑和个人电脑的进口，以促进国内制造业的发展。去年，在企业强烈反对和美国游说下，类似的进口限制计划被撤回。此后，印度一直按照今年即将到期的制度监控进口，并要求企业明年寻求新的进口批准。摘自“印度计划限制笔记本电脑进口以促进本地制造业”
+路透社 (10/18/24) Shivangi Acharya 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/india-plans-laptop-import-curbs-boost-local-manufacturing-sources-say-2024-10-18/</guid>
+      <pubDate>Mon, 21 Oct 2024 18:12:29 GMT</pubDate>
     </item>
     <item>
-      <title>无线数据传输速度纪录被打破</title>
-      <link>https://www.theengineer.co.uk/content/news/ucl-smashes-speed-record-for-wireless-data-transfer</link>
-      <description><![CDATA[工程师英国伦敦大学学院的一个团队使用 5-150GHz 的频率范围，演示了速度为每秒 938 千兆位的无线数据传输。使用的总带宽为 145GHz，是之前无线传输世界纪录的五倍多。研究人员表示，宽带宽范围是允许通过无线电和光学技术传输数据的关键。摘自“打破无线数据传输速度记录”
-工程师 (10/16/24) 查看全文]]></description>
-      <guid>https://www.theengineer.co.uk/content/news/ucl-smashes-speed-record-for-wireless-data-transfer</guid>
-      <pubDate>Fri, 18 Oct 2024 18:11:36 GMT</pubDate>
+      <title>GPS 干扰正在影响挪威飞机</title>
+      <link>https://www.wired.com/story/gps-jamming-is-screwing-with-norwegian-planes/</link>
+      <description><![CDATA[有线挪威北部芬马克郡的 GPS 干扰如此频繁，以至于挪威当局上个月决定不再记录干扰发生的时间和地点——接受这些干扰信号作为新常态。自 2022 年俄罗斯全面入侵乌克兰以来，欧洲东部边缘的干扰急剧增加，当局指责俄罗斯用良性信号使 GPS 接收器超载。摘自“GPS 干扰正在破坏挪威飞机”
+Wired (10/17/24) Morgan Meaker 查看全文]]></description>
+      <guid>https://www.wired.com/story/gps-jamming-is-screwing-with-norwegian-planes/</guid>
+      <pubDate>Mon, 21 Oct 2024 18:12:28 GMT</pubDate>
     </item>
     <item>
-      <title>韩国誓言防止技术泄露</title>
-      <link>https://www.reuters.com/markets/asia/south-korea-vows-prevent-technology-leaks-with-heavier-penalties-2024-10-17/</link>
-      <description><![CDATA[路透社韩国财政部长崔相默表示，韩国将制定更强有力的措施，防止先进技术机密外泄。崔相默表示，政府将建立一个旨在防止专利机构技术泄露的“大数据”系统，并出台新法规，确保对肇事者进行更严厉的惩罚。摘自“韩国誓言防止技术泄露”
-路透社 (10/17/24) Jihoon Lee 查看全文]]></description>
-      <guid>https://www.reuters.com/markets/asia/south-korea-vows-prevent-technology-leaks-with-heavier-penalties-2024-10-17/</guid>
-      <pubDate>Fri, 18 Oct 2024 18:11:35 GMT</pubDate>
+      <title>美国陆军要求微软护目镜成本从每副 8 万美元降至最低</title>
+      <link>https://www.bloomberg.com/news/articles/2024-10-19/microsoft-goggles-cost-must-drop-from-80-000-each-army-says?sref=db2f3qgr</link>
+      <description><![CDATA[彭博社美国陆军表示，如果微软的集成视觉增强系统 (IVAS) 护目镜未来能获得大笔订单，其成本应“大幅低于”预计的每副 80,000 美元。IVAS 护目镜基于微软的 HoloLens“混合现实”护目镜，旨在为士兵提供夜视和空中威胁预警等功能。陆军计划根据战斗测试的结果订购多达 121,000 台该设备。摘自“陆军称微软护目镜的成本必须从每台 80,000 美元降至最低”
+彭博社 (10/19/24) Anthony Capaccio 查看全文]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-10-19/microsoft-goggles-cost-must-drop-from-80-000-each-army-says?sref=db2f3qgr</guid>
+      <pubDate>Mon, 21 Oct 2024 18:12:28 GMT</pubDate>
     </item>
     <item>
-      <title>世界上最小的量子计算机用一个光子解决问题</title>
-      <link>https://interestingengineering.com/innovation/worlds-smallest-quantum-computer-unveiled-solves-problems-with-just-1-photon</link>
-      <description><![CDATA[有趣的工程台湾国立清华大学的研究人员创造了他们所谓的世界上最小的单光子量子计算机，它不需要低温条件，也不需要大量能量。单个高维光子有一个波包，其中包含“32 个时间箱或维度”的信息，可以由研究人员的计算机进行编码。该团队演示了如何使用 Shor 算法在他们的设备上解决质因数分解问题。摘自“世界上最小的量子计算机用一个光子解决问题”
-有趣的工程 (10/17/24) Jijo Malayil 查看全文]]></description>
-      <guid>https://interestingengineering.com/innovation/worlds-smallest-quantum-computer-unveiled-solves-problems-with-just-1-photon</guid>
-      <pubDate>Fri, 18 Oct 2024 18:11:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>ACM 研究员入选国家科学委员会</title>
-      <link>https://fedscoop.com/alondra-nelson-among-biden-national-science-board-selections/</link>
-      <description><![CDATA[FedScoop乔·拜登总统计划任命 8 人进入国家科学委员会，其中包括 ACM 研究员 Yolanda Gil 和 Juan Gilbert。Gil 是南加州大学信息科学研究所的研究员兼 AI 和数据科学战略高级主管，也是该大学维特比工程学院 AI 和数据科学计划的主任。Gilbert 是佛罗里达大学的教授，也是该大学计算机与信息科学与工程系的系主任，也是社会公益计算实验室的负责人。摘自“ACM 研究员入选国家科学委员会”
-FedScoop (10/15/24) Madison Alder 查看全文]]></description>
-      <guid>https://fedscoop.com/alondra-nelson-among-biden-national-science-board-selections/</guid>
-      <pubDate>Fri, 18 Oct 2024 18:11:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>机器人的阿兰图灵肖像将被苏富比拍卖</title>
-      <link>https://www.dw.com/en/portrait-by-robot-to-be-sold-at-sothebys-in-world-first/a-70508473</link>
-      <description><![CDATA[德国之声（德国）苏富比拍卖行下个月将拍卖一幅由机器人绘制的阿兰·图灵肖像，预计其售价将高达 150,000 英镑（196,000 美元）。这件由人形机器人 Ai-Da 创作的作品名为“AI God”，于 2024 年 5 月在联合国展出。画廊老板兼 Ai-Da 机器人工作室创始人 Aidan Meller 与英国牛津大学和伯明翰大学的专家一起领导了创造该机器人的团队。摘自“机器人的艾伦图灵肖像将被苏富比拍卖”
-Deutsche Welle（德国）（2024 年 10 月 16 日） 查看全文]]></description>
-      <guid>https://www.dw.com/en/portrait-by-robot-to-be-sold-at-sothebys-in-world-first/a-70508473</guid>
-      <pubDate>Fri, 18 Oct 2024 18:11:34 GMT</pubDate>
+      <title>2023 年美国工程师薪资上涨</title>
+      <link>https://spectrum.ieee.org/salary</link>
+      <description><![CDATA[IEEE SpectrumIEEE-USA 2024 年薪酬和福利调查报告发现，去年美国工程师和其他 IEEE 会员技术专业人员的平均收入为 174,161 美元，不包括补充收入，比 2022 年的 169,000 美元增长约 5%。报告还发现，失业率从 2022 年的 1.4% 下降到去年的 1.2%。专门从事电路和设备的人收入中位数最高，为 196,614 美元，其次是从事通信工作的人（190,000 美元）和计算机/软件技术工作的人（181,000 美元）。摘自“2023 年美国工程师薪资上涨”
+IEEE Spectrum (10/18/24) Kathy Pretz 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/salary</guid>
+      <pubDate>Mon, 21 Oct 2024 18:12:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
