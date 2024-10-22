@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Mon, 21 Oct 2024 21:08:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 00:41:52 GMT</lastBuildDate>
+    <item>
+      <title>针对困惑的诉讼揭露了虚假新闻幻觉</title>
+      <link>https://www.wired.com/story/dow-jones-new-york-post-sue-perplexity/</link>
+      <description><![CDATA[在针对人工智能初创公司 Perplexity 提起的一项新的版权诉讼中，道琼斯和纽约邮报辩称，制造假新闻并将其归为真实报纸是违法的。]]></description>
+      <guid>https://www.wired.com/story/dow-jones-new-york-post-sue-perplexity/</guid>
+      <pubDate>Mon, 21 Oct 2024 22:13:54 GMT</pubDate>
+    </item>
     <item>
       <title>在肯塔基山区，比特币挖矿之梦变成了一场噩梦</title>
       <link>https://www.wired.com/story/in-the-kentucky-mountains-a-bitcoin-mining-dream-becomes-the-stuff-of-nightmares/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>GPS 干扰正在影响挪威飞机</title>
       <link>https://www.wired.com/story/gps-jamming-is-screwing-with-norwegian-planes/</link>
-      <description><![CDATA[挪威东北部发生了如此多的干扰，监管机构不再想知道。]]></description>
+      <description><![CDATA[挪威东北部发生了如此严重的干扰，监管机构不再想知道。]]></description>
       <guid>https://www.wired.com/story/gps-jamming-is-screwing-with-norwegian-planes/</guid>
       <pubDate>Thu, 17 Oct 2024 10:32:52 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[大型语言模型的新前沿是能够“推理”解决问题。苹果公司的最新研究表明，它并不像人们所说的那么好。]]></description>
       <guid>https://www.wired.com/story/apple-ai-llm-reasoning-research/</guid>
       <pubDate>Tue, 15 Oct 2024 23:55:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>一辆橡胶车身的 Cyber​​truck 正在突破欧洲行人安全规则</title>
-      <link>https://www.wired.com/story/a-rubberized-cybertruck-is-ploughing-through-european-pedestrian-safety-rules/</link>
-      <description><![CDATA[特斯拉问题重重的电动皮卡在欧洲是非法的，但不知何故，一款几乎未经过改装的车型却获得了许可。一群欧洲运输组织声称，这种做法可能带来灾难。]]></description>
-      <guid>https://www.wired.com/story/a-rubberized-cybertruck-is-ploughing-through-european-pedestrian-safety-rules/</guid>
-      <pubDate>Tue, 15 Oct 2024 13:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
