@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Tue, 22 Oct 2024 12:16:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 15:09:22 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic 希望其 AI 代理能够控制你的计算机</title>
+      <link>https://www.wired.com/story/anthropic-ai-agent/</link>
+      <description><![CDATA[克劳德是第一个能够控制计算机做有用工作的主流人工智能模型。]]></description>
+      <guid>https://www.wired.com/story/anthropic-ai-agent/</guid>
+      <pubDate>Tue, 22 Oct 2024 15:00:35 GMT</pubDate>
+    </item>
     <item>
       <title>彼得·托德 (Peter Todd) 被“揭露”为比特币创造者中本聪。现在他躲起来了</title>
       <link>https://www.wired.com/story/peter-todd-was-unmasked-as-bitcoin-creator-satoshi-nakamoto-now-hes-in-hiding/</link>
@@ -13,7 +20,7 @@
       <pubDate>Tue, 22 Oct 2024 11:33:59 GMT</pubDate>
     </item>
     <item>
-      <title>针对困惑的诉讼揭露了虚假新闻幻觉</title>
+      <title>针对 Perplexity 的诉讼揭露了虚假新闻 AI 幻觉</title>
       <link>https://www.wired.com/story/dow-jones-new-york-post-sue-perplexity/</link>
       <description><![CDATA[在针对人工智能初创公司 Perplexity 提起的一项新的版权诉讼中，道琼斯和纽约邮报辩称，制造假新闻并将其归为真实报纸是违法的。]]></description>
       <guid>https://www.wired.com/story/dow-jones-new-york-post-sue-perplexity/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[由于网站可靠性问题影响了发布活动，投资者仅购买了少量特朗普家族新的世界自由金融加密代币。]]></description>
       <guid>https://www.wired.com/story/trumpcoin-launches-with-a-whimper-not-a-bang/</guid>
       <pubDate>Wed, 16 Oct 2024 13:53:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>算法多年来监管着福利体系。如今它们因偏见而受到抨击</title>
-      <link>https://www.wired.com/story/algorithms-policed-welfare-systems-for-years-now-theyre-under-fire-for-bias/</link>
-      <description><![CDATA[人权组织对法国福利制度中使用算法检测错误和欺诈行为发起了新的法律挑战，声称单身母亲受到的影响尤为严重。]]></description>
-      <guid>https://www.wired.com/story/algorithms-policed-welfare-systems-for-years-now-theyre-under-fire-for-bias/</guid>
-      <pubDate>Wed, 16 Oct 2024 13:37:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
