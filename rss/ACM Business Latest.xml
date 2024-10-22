@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Tue, 22 Oct 2024 09:09:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 12:16:34 GMT</lastBuildDate>
+    <item>
+      <title>彼得·托德 (Peter Todd) 被“揭露”为比特币创造者中本聪。现在他躲起来了</title>
+      <link>https://www.wired.com/story/peter-todd-was-unmasked-as-bitcoin-creator-satoshi-nakamoto-now-hes-in-hiding/</link>
+      <description><![CDATA[在一部 HBO 纪录片将彼得·托德 (Peter Todd) 称为比特币的创造者中本聪 (Satoshi Nakamoto) 之后，他便转入地下，而中本聪的真实身份长期以来一直是个谜。]]></description>
+      <guid>https://www.wired.com/story/peter-todd-was-unmasked-as-bitcoin-creator-satoshi-nakamoto-now-hes-in-hiding/</guid>
+      <pubDate>Tue, 22 Oct 2024 11:33:59 GMT</pubDate>
+    </item>
     <item>
       <title>针对困惑的诉讼揭露了虚假新闻幻觉</title>
       <link>https://www.wired.com/story/dow-jones-new-york-post-sue-perplexity/</link>
@@ -71,7 +78,7 @@
     <item>
       <title>GPS 干扰正在影响挪威飞机</title>
       <link>https://www.wired.com/story/gps-jamming-is-screwing-with-norwegian-planes/</link>
-      <description><![CDATA[挪威东北部发生了如此严重的干扰，监管机构不再想知道。]]></description>
+      <description><![CDATA[挪威东北部发生了如此多的干扰，监管机构不再想知道。]]></description>
       <guid>https://www.wired.com/story/gps-jamming-is-screwing-with-norwegian-planes/</guid>
       <pubDate>Thu, 17 Oct 2024 10:32:52 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[人权组织对法国福利制度中使用算法检测错误和欺诈行为发起了新的法律挑战，声称单身母亲受到的影响尤为严重。]]></description>
       <guid>https://www.wired.com/story/algorithms-policed-welfare-systems-for-years-now-theyre-under-fire-for-bias/</guid>
       <pubDate>Wed, 16 Oct 2024 13:37:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果工程师展示人工智能“推理”能力有多脆弱</title>
-      <link>https://www.wired.com/story/apple-ai-llm-reasoning-research/</link>
-      <description><![CDATA[大型语言模型的新前沿是能够“推理”解决问题。苹果公司的最新研究表明，它并不像人们所说的那么好。]]></description>
-      <guid>https://www.wired.com/story/apple-ai-llm-reasoning-research/</guid>
-      <pubDate>Tue, 15 Oct 2024 23:55:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
