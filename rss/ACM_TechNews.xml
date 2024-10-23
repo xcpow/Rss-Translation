@@ -4,94 +4,102 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Mon, 21 Oct 2024 18:12:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 18:11:52 GMT</lastBuildDate>
     <item>
-      <title>安圭拉将人工智能热潮转化为数字金矿</title>
-      <link>https://apnews.com/article/anguilla-artificial-intelligence-ai-internet-29d4ca2bb740d0425ffb8355811a6976</link>
-      <description><![CDATA[美联社英国领土安圭拉在 20 世纪 90 年代获得了 .ai 互联网地址的控制权，现在正从人工智能热潮中获利。例如，谷歌使用 google.ai 展示其人工智能服务，而埃隆·马斯克则使用 x.ai 作为其 Grok 人工智能聊天机器人的主页。受人工智能热潮的推动，安圭拉去年从网络域名注册费中获得的收入翻了两番，达到 3200 万美元。摘自“安圭拉将人工智能热潮变成数字金矿”
-美联社 (10/15/24) Kelvin Chan 查看全文]]></description>
-      <guid>https://apnews.com/article/anguilla-artificial-intelligence-ai-internet-29d4ca2bb740d0425ffb8355811a6976</guid>
-      <pubDate>Mon, 21 Oct 2024 18:12:32 GMT</pubDate>
+      <title>互联网档案馆遭围攻，正在反击</title>
+      <link>https://www.washingtonpost.com/nation/2024/10/18/internet-archive-hack-wayback/</link>
+      <description><![CDATA[《华盛顿邮报》最近，互联网档案馆遭到黑客攻击，被迫关闭，这是该馆近 30 年历史上首次遭遇超过几个小时的宕机。DDoS 攻击让创始人 Brewster Kahle（如图）大吃一惊，自事件发生以来，他一直与团队合作，找出并修复导致数字档案馆易受攻击的漏洞。摘自《互联网档案馆遭围攻，正在反击》
+《华盛顿邮报》（2024 年 10 月 18 日） 查看全文]]></description>
+      <guid>https://www.washingtonpost.com/nation/2024/10/18/internet-archive-hack-wayback/</guid>
+      <pubDate>Wed, 23 Oct 2024 18:11:51 GMT</pubDate>
     </item>
     <item>
-      <title>法国福利制度监管算法因存在偏见而受到批评</title>
-      <link>https://www.wired.com/story/algorithms-policed-welfare-systems-for-years-now-theyre-under-fire-for-bias/</link>
-      <description><![CDATA[Wired人权组织联盟对法国政府使用算法检测误算的福利支付行为提起了法律诉讼，指控该算法歧视残疾人和单身母亲。该组织表示，自 2010 年代以来使用的算法违反了欧盟隐私规则和法国反歧视法。摘自“法国福利制度监管算法因存在偏见而受到抨击”
-Wired (10/16/24) Morgan Meaker 查看全文]]></description>
-      <guid>https://www.wired.com/story/algorithms-policed-welfare-systems-for-years-now-theyre-under-fire-for-bias/</guid>
-      <pubDate>Mon, 21 Oct 2024 18:12:31 GMT</pubDate>
+      <title>无人机充当“飞行购物车”</title>
+      <link>https://www.reuters.com/technology/south-korea-team-showcases-drone-that-serves-flying-shopping-cart-2024-10-22/</link>
+      <description><![CDATA[路透社韩国首尔国立科技大学的研究人员开发了一种运输无人机，可用于上下楼梯运送货物。“飞行购物车”由固定在多旋翼无人机顶部的货物平台组成，可承载高达 6.6 磅的重量。Palletrone 还具有灵活的自校正转子，可实现可靠的水平稳定性，在半空中悬停时由人类引导。摘自“无人机充当‘飞行购物车’”
+路透社 (10/21/24) Minwoo Park 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/south-korea-team-showcases-drone-that-serves-flying-shopping-cart-2024-10-22/</guid>
+      <pubDate>Wed, 23 Oct 2024 18:11:51 GMT</pubDate>
     </item>
     <item>
-      <title>FCC 开始调查互联网数据使用上限</title>
-      <link>https://www.reuters.com/business/media-telecom/us-fcc-opens-formal-inquiry-into-use-data-caps-by-telecom-firms-2024-10-15/</link>
-      <description><![CDATA[路透社美国联邦通信委员会 (FCC) 正在正式调查宽带提供商为何限制某些客户的数据使用量，以及这对消费者和竞争有何影响。FCC 主席 Jessica Rosenworcel 指出，在 COVID-19 期间，许多固定和移动互联网服务提供商都没有执行或施加数据上限，“这表明我们的网络有能力在没有这些限制的情况下满足消费者的需求。”摘自“FCC 开始调查互联网数据使用上限”
-路透社 (2024 年 10 月 15 日) David Shepardson 查看全文]]></description>
-      <guid>https://www.reuters.com/business/media-telecom/us-fcc-opens-formal-inquiry-into-use-data-caps-by-telecom-firms-2024-10-15/</guid>
-      <pubDate>Mon, 21 Oct 2024 18:12:31 GMT</pubDate>
+      <title>葡萄牙学校创下最大规模编程课程世界纪录</title>
+      <link>https://www.reuters.com/world/europe/portuguese-school-sets-world-record-largest-programming-lesson-2024-10-12/</link>
+      <description><![CDATA[路透社本月初，约 1,700 人齐聚葡萄牙里斯本大学 IST 技术学院，创下单一场地规模最大的计算机编程课程的吉尼斯世界纪录。之前的纪录由 2016 年 10 月 31 日达拉斯编程课上的 724 名参与者保持。IST 负责人 Rogerio Colaco 表示：“每个人都必须了解一点计算机科学和编程知识，才能在当今世界生存。”摘自“葡萄牙学校创下规模最大的编程课程世界纪录”
+路透社 (10/12/24) Miguel Pereira 查看全文]]></description>
+      <guid>https://www.reuters.com/world/europe/portuguese-school-sets-world-record-largest-programming-lesson-2024-10-12/</guid>
+      <pubDate>Wed, 23 Oct 2024 18:11:50 GMT</pubDate>
     </item>
     <item>
-      <title>美国指控苏丹男子经营雇佣网络攻击团伙</title>
-      <link>https://www.washingtonpost.com/technology/2024/10/16/sudanese-charged-cyberattack-gang/</link>
-      <description><![CDATA[《华盛顿邮报》美国检察官指控两名苏丹兄弟经营雇佣网络攻击团伙，指控他们在一年内策划了 35,000 次拒绝服务攻击。据称，这两人运营了 Anonymous Sudan，自 2023 年 1 月以来，该组织成功使微软、OpenAI 和 PayPal 网站上的关键页面下线，并破坏了至少一家美国医院的计算机。该组织还关闭了美国、迪拜、乍得、巴林和其他国家的政府网站。摘自“美国指控苏丹男子经营网络攻击雇佣团伙”
-华盛顿邮报 (10/16/24) Joseph Menn 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.washingtonpost.com/technology/2024/10/16/sudanese-charged-cyberattack-gang/</guid>
-      <pubDate>Mon, 21 Oct 2024 18:12:30 GMT</pubDate>
+      <title>云计算简化超级计算机的化学计算</title>
+      <link>https://www.geekwire.com/2024/cloud-supercomputer-chemistry-pnnl/</link>
+      <description><![CDATA[GeekWire太平洋西北国家实验室 (PNNL) 的研究人员带领团队展示了基于云的量子计算和人工智能辅助数据分析工具在计算化学中的应用。研究人员利用劳伦斯伯克利国家实验室的 Perlmutter 超级计算机、微软基于云的 Azure Quantum Elements 平台以及 PNNL 开发的计算化学软件包 NWChem 来模拟涉及“永久化学物质”全氟辛酸 (PFOA) 的化学相互作用。模拟概述了打破 PFOA 部分分子键的过程，确定了分解持久性环境污染物的可能途径。摘自“云简化超级计算机化学计算”
+GeekWire (10/21/24) Alan Boyle 查看全文]]></description>
+      <guid>https://www.geekwire.com/2024/cloud-supercomputer-chemistry-pnnl/</guid>
+      <pubDate>Wed, 23 Oct 2024 18:11:50 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能扫描 RNA“暗物质”，发现 70,000 种新病毒</title>
-      <link>https://www.nature.com/articles/d41586-024-03320-6</link>
-      <description><![CDATA[NatureAI 被用于发现 70,500 种以前未知的 RNA 病毒。利用 Meta 研究人员开发的蛋白质预测工具 ESMFold，中国中山大学的石芒和同事创建了一个名为 LucaProt 的模型，并为其输入了测序和 ESMFold 蛋白质预测数据。他们训练模型识别病毒 RNA 依赖性 RNA 聚合酶（RNA 复制中使用的关键蛋白质），并利用它在大量基因组数据中查找编码这些酶的序列。摘自“AI 扫描 RNA‘暗物质’，发现 70,000 种新病毒”
-Nature (10/14/24) Smriti Mallapaty 查看全文]]></description>
-      <guid>https://www.nature.com/articles/d41586-024-03320-6</guid>
-      <pubDate>Mon, 21 Oct 2024 18:12:30 GMT</pubDate>
+      <title>数据中心可用作剩余电力发电机</title>
+      <link>https://www.techradar.com/pro/data-centers-could-be-used-as-residual-power-generators-as-researchers-generate-500mwh-in-a-year-from-a-single-dc-by-recycling-wasted-wind</link>
+      <description><![CDATA[TechRadar西班牙马德里远程大学和哥伦比亚 Mision Critica 数据中心的研究人员发现，数据中心可以利用冷却风扇产生的气流来发电。垂直轴 Tesup V7 风力涡轮机安装在冷却器顶部，用于捕获废风。六台风力涡轮机每年利用人工气流产生 513.82 兆瓦时的总电力，剩余电力为 131.2 兆瓦时。 摘自“数据中心可用作剩余电力发电机”
+TechRadar (10/19/24) Wayne Williams 查看全文]]></description>
+      <guid>https://www.techradar.com/pro/data-centers-could-be-used-as-residual-power-generators-as-researchers-generate-500mwh-in-a-year-from-a-single-dc-by-recycling-wasted-wind</guid>
+      <pubDate>Wed, 23 Oct 2024 18:11:50 GMT</pubDate>
     </item>
     <item>
-      <title>美国科技公司将向英国数据中心投资超过 80 亿美元</title>
-      <link>https://www.wsj.com/tech/ai/u-s-tech-firms-to-invest-more-than-8-billion-in-u-k-data-centers-amid-ai-frenzy-9ecb93ee</link>
-      <description><![CDATA[《华尔街日报》英国科学、创新和技术部表示，已从四家美国科技公司获得了总计 82.3 亿美元的数据中心投资。这些承诺凸显了美国企业对扩大海外业务的兴趣日益浓厚，以期在人工智能竞赛中领先于竞争对手。英国科技大臣彼得·凯尔表示，政府将数据中心指定为经济的关键基础设施，随后做出了投资承诺。摘自“美国科技公司将向英国数据中心投资超过 80 亿美元”
-华尔街日报 (10/15/24) Mauro Orru 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/tech/ai/u-s-tech-firms-to-invest-more-than-8-billion-in-u-k-data-centers-amid-ai-frenzy-9ecb93ee</guid>
-      <pubDate>Mon, 21 Oct 2024 18:12:30 GMT</pubDate>
+      <title>利用人工智能和雷达解决 500 年之久的交通堵塞问题</title>
+      <link>https://spectrum.ieee.org/ai-intelligent-transportation</link>
+      <description><![CDATA[IEEE Spectrum韩国公司 Bitsensing 正与意大利城市维罗纳和意大利的 Famas Systems 合作，管理 Porta Nuova 的交通，Porta Nuova 是通往该市近 500 年历史的门户。Bitsensing 安装了 10 个交通洞察监控传感器 (TIMOS)，俯瞰 Porto Nuevo 的五条入口车道和六条出口车道。传感器的设备上 AI 收集实时数据并将其传输到由本地服务器支持的运营中心。摘自“使用 AI、雷达解决 500 年的交通堵塞”
+IEEE Spectrum (10/21/24) Lawrence Ulrich 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/ai-intelligent-transportation</guid>
+      <pubDate>Wed, 23 Oct 2024 18:11:49 GMT</pubDate>
     </item>
     <item>
-      <title>美国启动竞争以加速半导体先进封装技术</title>
-      <link>https://www.nist.gov/news-events/news/2024/10/biden-harris-administration-opens-funding-competition-16-billion-accelerate</link>
-      <description><![CDATA[NIST 新闻美国发布了由《芯片与科学法案》资助的资助机会通知，旨在使国内半导体行业能够采用创新的新型先进半导体技术封装流程。将通过五个研发领域的多个奖项提供高达 16 亿美元的总资金：设备、工具、工艺和工艺集成；电力输送和热管理；连接器技术；小芯片生态系统；以及协同设计/电子设计自动化。摘自“美国开放竞争以加速半导体先进封装技术”
-NIST 新闻 (10/18/24) 查看全文]]></description>
-      <guid>https://www.nist.gov/news-events/news/2024/10/biden-harris-administration-opens-funding-competition-16-billion-accelerate</guid>
-      <pubDate>Mon, 21 Oct 2024 18:12:29 GMT</pubDate>
+      <title>随身电子设备监测健康，支持创意表达</title>
+      <link>https://news.cornell.edu/stories/2024/10/body-electronics-can-monitor-health-support-creative-expression</link>
+      <description><![CDATA[康奈尔纪事报康奈尔大学的研究人员开发了两种皮肤上电子设备，用户可以直接在身体上对其进行定制，以监测生命体征和姿势，或进行近距离感应和交互式假肢化妆等。 SkinLink 皮肤上电子界面可以直接在人身上制造，而 ECSkin 电致变色显示界面可以根据需要在身体上布置。摘自“身体上电子设备监测健康，支持创意表达”
+康奈尔纪事报 (10/21/24) Tom Fleischman 查看全文]]></description>
+      <guid>https://news.cornell.edu/stories/2024/10/body-electronics-can-monitor-health-support-creative-expression</guid>
+      <pubDate>Wed, 23 Oct 2024 18:11:49 GMT</pubDate>
     </item>
     <item>
-      <title>印度计划限制笔记本电脑进口以促进本地制造业</title>
-      <link>https://www.reuters.com/technology/india-plans-laptop-import-curbs-boost-local-manufacturing-sources-say-2024-10-18/</link>
-      <description><![CDATA[路透社印度预计将在明年 1 月之后限制笔记本电脑、平板电脑和个人电脑的进口，以促进国内制造业的发展。去年，在企业强烈反对和美国游说下，类似的进口限制计划被撤回。此后，印度一直按照今年即将到期的制度监控进口，并要求企业明年寻求新的进口批准。摘自“印度计划限制笔记本电脑进口以促进本地制造业”
-路透社 (10/18/24) Shivangi Acharya 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/india-plans-laptop-import-curbs-boost-local-manufacturing-sources-say-2024-10-18/</guid>
-      <pubDate>Mon, 21 Oct 2024 18:12:29 GMT</pubDate>
+      <title>Meta 将利用面部识别技术打击假冒名人诈骗</title>
+      <link>https://www.bloomberg.com/news/articles/2024-10-21/meta-to-use-facial-recognition-to-fight-fake-celebrity-scams</link>
+      <description><![CDATA[彭博社Meta 表示，将利用面部识别技术将帖子中的图片与名人 Facebook 或 Instagram 帐户上的图片进行比较，以打击“名人诱饵广告”。这家科技巨头表示，一旦确认图片匹配，它将屏蔽此类广告。 Meta 还在测试对被锁定账户的用户使用面部识别技术，允许他们提交视频自拍，当新视频与账户上的照片匹配时，账户就会解锁。摘自“Meta 将使用面部识别打击假冒名人诈骗”
+彭博社 (2024 年 10 月 21 日) Kurt Wagner 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-10-21/meta-to-use-facial-recognition-to-fight-fake-celebrity-scams</guid>
+      <pubDate>Wed, 23 Oct 2024 18:11:48 GMT</pubDate>
     </item>
     <item>
-      <title>GPS 干扰正在影响挪威飞机</title>
-      <link>https://www.wired.com/story/gps-jamming-is-screwing-with-norwegian-planes/</link>
-      <description><![CDATA[有线挪威北部芬马克郡的 GPS 干扰如此频繁，以至于挪威当局上个月决定不再记录干扰发生的时间和地点——接受这些干扰信号作为新常态。自 2022 年俄罗斯全面入侵乌克兰以来，欧洲东部边缘的干扰急剧增加，当局指责俄罗斯用良性信号使 GPS 接收器超载。摘自“GPS 干扰正在破坏挪威飞机”
-Wired (10/17/24) Morgan Meaker 查看全文]]></description>
-      <guid>https://www.wired.com/story/gps-jamming-is-screwing-with-norwegian-planes/</guid>
-      <pubDate>Mon, 21 Oct 2024 18:12:28 GMT</pubDate>
+      <title>研究人员发现端到端加密云服务存在缺陷</title>
+      <link>https://www.scworld.com/news/researchers-discover-flaws-in-5-end-to-end-encrypted-cloud-services</link>
+      <description><![CDATA[SC Media瑞士苏黎世联邦理工学院的研究人员发现，五种提供端到端加密 (E2EE) 的云服务存在加密漏洞。研究人员对 Sync、pCloud、Seafile、Icedrive 和 Tresorit 进行了 10 种潜在漏洞测试，发现其中四种 E2EE 服务存在严重漏洞，攻击者在攻陷云服务器后，可利用这些漏洞访问、篡改或注入文件。虽然 Tresorit 的漏洞最少，但它可能导致某些元数据被篡改，并在共享文件时使用非真实密钥。摘自“研究人员发现端到端加密云服务存在漏洞”
+SC Media (10/21/24) Laura French]]></description>
+      <guid>https://www.scworld.com/news/researchers-discover-flaws-in-5-end-to-end-encrypted-cloud-services</guid>
+      <pubDate>Wed, 23 Oct 2024 18:11:48 GMT</pubDate>
     </item>
     <item>
-      <title>美国陆军要求微软护目镜成本从每副 8 万美元降至最低</title>
-      <link>https://www.bloomberg.com/news/articles/2024-10-19/microsoft-goggles-cost-must-drop-from-80-000-each-army-says?sref=db2f3qgr</link>
-      <description><![CDATA[彭博社美国陆军表示，如果微软的集成视觉增强系统 (IVAS) 护目镜未来能获得大笔订单，其成本应“大幅低于”预计的每副 80,000 美元。IVAS 护目镜基于微软的 HoloLens“混合现实”护目镜，旨在为士兵提供夜视和空中威胁预警等功能。陆军计划根据战斗测试的结果订购多达 121,000 台该设备。摘自“陆军称微软护目镜的成本必须从每台 80,000 美元降至最低”
-彭博社 (10/19/24) Anthony Capaccio 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-10-19/microsoft-goggles-cost-must-drop-from-80-000-each-army-says?sref=db2f3qgr</guid>
-      <pubDate>Mon, 21 Oct 2024 18:12:28 GMT</pubDate>
+      <title>缅怀图灵奖得主 E. Allen Emerson</title>
+      <link>https://cns.utexas.edu/news/announcements/remembering-turing-award-winner-e-allen-emerson</link>
+      <description><![CDATA[德克萨斯大学奥斯汀分校 德克萨斯大学奥斯汀分校 (UT Austin) 的计算机科学家 E. Allen Emerson 于 10 月 16 日去世。Emerson 因其在模型检查自动验证技术方面的工作而获得了 ACM 的 A.M. 图灵奖。他还获得了 ACM 的 Paris Kanellakis 理论与实践奖。UT Austin 的 Don Fussell 表示：“Allen 的工作是开发工具的一大进步，这些工具可帮助设计师创建具有已知、可验证属性的系统。”摘自“纪念图灵奖获得者 E. Allen Emerson”
+德克萨斯大学奥斯汀分校 (10/21/24) Marc Airhart 查看全文]]></description>
+      <guid>https://cns.utexas.edu/news/announcements/remembering-turing-award-winner-e-allen-emerson</guid>
+      <pubDate>Wed, 23 Oct 2024 18:11:47 GMT</pubDate>
     </item>
     <item>
-      <title>2023 年美国工程师薪资上涨</title>
-      <link>https://spectrum.ieee.org/salary</link>
-      <description><![CDATA[IEEE SpectrumIEEE-USA 2024 年薪酬和福利调查报告发现，去年美国工程师和其他 IEEE 会员技术专业人员的平均收入为 174,161 美元，不包括补充收入，比 2022 年的 169,000 美元增长约 5%。报告还发现，失业率从 2022 年的 1.4% 下降到去年的 1.2%。专门从事电路和设备的人收入中位数最高，为 196,614 美元，其次是从事通信工作的人（190,000 美元）和计算机/软件技术工作的人（181,000 美元）。摘自“2023 年美国工程师薪资上涨”
-IEEE Spectrum (10/18/24) Kathy Pretz 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/salary</guid>
-      <pubDate>Mon, 21 Oct 2024 18:12:27 GMT</pubDate>
+      <title>漏洞和人工智能争夺软件开发人员的注意力</title>
+      <link>https://www.darkreading.com/application-security/vulnerabilities-ai-compete-software-developers-attention</link>
+      <description><![CDATA[Dark Reading软件公司 Sonatype 的年度“软件供应链状况”报告发现，开发人员有望在 2024 年下载超过 6.6 万亿个软件组件，其中 JavaScript 组件下载量增长 70%，Python 组件下载量增长 87%。Sonatype 的 Brian Fox 表示，虽然人工智能的出现正在推动更快的开发周期，但也使安全性变得更加困难。摘自“漏洞、人工智能争夺软件开发人员的注意力”
+Dark Reading (10/22/24) Robert Lemos 查看全文]]></description>
+      <guid>https://www.darkreading.com/application-security/vulnerabilities-ai-compete-software-developers-attention</guid>
+      <pubDate>Wed, 23 Oct 2024 18:11:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国法规旨在遏制个人数据海外销售</title>
+      <link>https://cyberscoop.com/justice-department-data-broker-regulation-china-russia-iran/</link>
+      <description><![CDATA[Cyber​​Scoop美国司法部正式提出法规，以防止或限制向敌对国家出售和转移美国人的敏感个人数据。该拟议规则源于拜登政府 2 月份发布的一项行政命令，对美国实体如何出售六类“大量”敏感数据施加限制：驾照和社会安全号码等个人数据、精确地理位置数据、生物识别标识符、人类基因组数据、健康信息和财务信息。摘自“美国规则旨在遏制海外个人数据销售”
+Cyber​​Scoop (10/21/24) Derek B. Johnson 查看全文]]></description>
+      <guid>https://cyberscoop.com/justice-department-data-broker-regulation-china-russia-iran/</guid>
+      <pubDate>Wed, 23 Oct 2024 18:11:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
