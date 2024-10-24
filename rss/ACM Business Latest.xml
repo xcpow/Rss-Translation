@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 24 Oct 2024 09:09:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 12:16:04 GMT</lastBuildDate>
+    <item>
+      <title>谷歌、微软和 Perplexity 正在搜索结果中宣传科学种族主义</title>
+      <link>https://www.wired.com/story/google-microsoft-perplexity-scientific-racism-search-results-ai/</link>
+      <description><![CDATA[网络上最大的人工智能搜索引擎正在推荐一个被广泛揭穿的观点：白人在基因上优于其他种族。]]></description>
+      <guid>https://www.wired.com/story/google-microsoft-perplexity-scientific-racism-search-results-ai/</guid>
+      <pubDate>Thu, 24 Oct 2024 09:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>认识一下 ZachXBT，这位蒙面义警正在追查数十亿美元的加密货币诈骗和盗窃案</title>
       <link>https://www.wired.com/story/meet-zachxbt-243-million-crypto-theft/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>Liquid AI 正在重新设计神经网络</title>
       <link>https://www.wired.com/story/liquid-ai-redesigning-neural-network/</link>
-      <description><![CDATA[受到微型蠕虫的启发，Liquid AI 的创始人开发出了一种适应性更强、能耗更低的神经网络。现在，这家麻省理工学院的衍生公司正在展示几种新的超高效模型。]]></description>
+      <description><![CDATA[受到微型蠕虫的启发，Liquid AI 的创始人开发了一种更具适应性、能耗更低的神经网络。现在，这家麻省理工学院的衍生公司正在展示几种新的超高效模型。]]></description>
       <guid>https://www.wired.com/story/liquid-ai-redesigning-neural-network/</guid>
       <pubDate>Wed, 23 Oct 2024 17:26:24 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[雄心勃勃的身份验证项目 Worldcoin（现称为 World），希望未来人类能够进行“球体验证”。]]></description>
       <guid>https://www.wired.com/story/worldcoin-sam-altman-orb/</guid>
       <pubDate>Thu, 17 Oct 2024 21:30:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>SpaceX 计划让 Starlink 达到千兆速度</title>
-      <link>https://www.wired.com/story/spacex-starlink-internet-gigabit-speeds-fcc/</link>
-      <description><![CDATA[埃隆马斯克的卫星互联网公司告诉美国联邦通信委员会，对其“轨道配置和运行参数”进行一些调整可以使下载速度提高近 10 倍。]]></description>
-      <guid>https://www.wired.com/story/spacex-starlink-internet-gigabit-speeds-fcc/</guid>
-      <pubDate>Thu, 17 Oct 2024 17:29:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
