@@ -4,11 +4,18 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 24 Oct 2024 06:13:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 09:09:57 GMT</lastBuildDate>
+    <item>
+      <title>认识一下 ZachXBT，这位蒙面义警正在追查数十亿美元的加密货币诈骗和盗窃案</title>
+      <link>https://www.wired.com/story/meet-zachxbt-243-million-crypto-theft/</link>
+      <description><![CDATA[他刚刚破获了一起价值 2.43 亿美元的比特币盗窃案，这可能是有史以来针对单个受害者的最大加密货币盗窃案。而且他从未露面。]]></description>
+      <guid>https://www.wired.com/story/meet-zachxbt-243-million-crypto-theft/</guid>
+      <pubDate>Thu, 24 Oct 2024 09:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Liquid AI 正在重新设计神经网络</title>
       <link>https://www.wired.com/story/liquid-ai-redesigning-neural-network/</link>
-      <description><![CDATA[受到微型蠕虫的启发，Liquid AI 的创始人开发了一种更具适应性、能耗更低的神经网络。现在，这家麻省理工学院的衍生公司正在展示几种新的超高效模型。]]></description>
+      <description><![CDATA[受到微型蠕虫的启发，Liquid AI 的创始人开发出了一种适应性更强、能耗更低的神经网络。现在，这家麻省理工学院的衍生公司正在展示几种新的超高效模型。]]></description>
       <guid>https://www.wired.com/story/liquid-ai-redesigning-neural-network/</guid>
       <pubDate>Wed, 23 Oct 2024 17:26:24 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[埃隆马斯克的卫星互联网公司告诉美国联邦通信委员会，对其“轨道配置和运行参数”进行一些调整可以使下载速度提高近 10 倍。]]></description>
       <guid>https://www.wired.com/story/spacex-starlink-internet-gigabit-speeds-fcc/</guid>
       <pubDate>Thu, 17 Oct 2024 17:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPS 干扰正在影响挪威飞机</title>
-      <link>https://www.wired.com/story/gps-jamming-is-screwing-with-norwegian-planes/</link>
-      <description><![CDATA[挪威东北部发生了如此严重的干扰，监管机构不再想知道。]]></description>
-      <guid>https://www.wired.com/story/gps-jamming-is-screwing-with-norwegian-planes/</guid>
-      <pubDate>Thu, 17 Oct 2024 10:32:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
