@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 25 Oct 2024 09:09:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 12:15:54 GMT</lastBuildDate>
+    <item>
+      <title>一位知名遗传学家正在发起一项核聚变动力登月计划</title>
+      <link>https://www.wired.com/story/plaintext-pacific-fusion-eric-lander/</link>
+      <description><![CDATA[硅谷一线明星正在资助这家初创公司 Pacific Fusion，该公司创始首席执行官埃里克·兰德 (Eric Lander) 表示，该公司将在十年内推出全面的演示系统。]]></description>
+      <guid>https://www.wired.com/story/plaintext-pacific-fusion-eric-lander/</guid>
+      <pubDate>Fri, 25 Oct 2024 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌、微软和 Perplexity 正在搜索结果中宣传科学种族主义</title>
       <link>https://www.wired.com/story/google-microsoft-perplexity-scientific-racism-search-results-ai/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[约翰·格雷厄姆·卡明 (John Graham-Cumming) 恰好是 Cloudflare 的首席技术官，他破解了一份有 30 年历史的加密文件，该文件在改写南非历史方面发挥了重要作用。]]></description>
       <guid>https://www.wired.com/story/plaintext-you-can-now-see-the-code-that-ended-apartheid/</guid>
       <pubDate>Fri, 18 Oct 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>萨姆·奥特曼的眼部扫描球有了新面貌——而且会直接送到你家门口</title>
-      <link>https://www.wired.com/story/worldcoin-sam-altman-orb/</link>
-      <description><![CDATA[雄心勃勃的身份验证项目 Worldcoin（现称为 World），希望未来人类能够进行“球体验证”。]]></description>
-      <guid>https://www.wired.com/story/worldcoin-sam-altman-orb/</guid>
-      <pubDate>Thu, 17 Oct 2024 21:30:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
