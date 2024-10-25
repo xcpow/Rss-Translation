@@ -4,102 +4,113 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Wed, 23 Oct 2024 18:11:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 15:08:57 GMT</lastBuildDate>
     <item>
-      <title>互联网档案馆遭围攻，正在反击</title>
-      <link>https://www.washingtonpost.com/nation/2024/10/18/internet-archive-hack-wayback/</link>
-      <description><![CDATA[《华盛顿邮报》最近，互联网档案馆遭到黑客攻击，被迫关闭，这是该馆近 30 年历史上首次遭遇超过几个小时的宕机。DDoS 攻击让创始人 Brewster Kahle（如图）大吃一惊，自事件发生以来，他一直与团队合作，找出并修复导致数字档案馆易受攻击的漏洞。摘自《互联网档案馆遭围攻，正在反击》
-《华盛顿邮报》（2024 年 10 月 18 日） 查看全文]]></description>
-      <guid>https://www.washingtonpost.com/nation/2024/10/18/internet-archive-hack-wayback/</guid>
-      <pubDate>Wed, 23 Oct 2024 18:11:51 GMT</pubDate>
+      <title>计算机找到已知最大的素数</title>
+      <link>https://gizmodo.com/nvidia-computer-finds-largest-known-prime-blows-past-record-by-16-million-digits-2000514948</link>
+      <description><![CDATA[Gizmodo前 Nvidia 员工 Luke Durant 发现了已知最大的素数 2136,279,841-1，比之前的记录保持者多出 1600 多万位。这一发现得益于一台由来自 17 个国家的数千台 GPU 组成的超级计算机。摘自“计算机发现已知最大的素数”
+Gizmodo (2024 年 10 月 22 日) Isaac Schultz 查看全文]]></description>
+      <guid>https://gizmodo.com/nvidia-computer-finds-largest-known-prime-blows-past-record-by-16-million-digits-2000514948</guid>
+      <pubDate>Fri, 25 Oct 2024 15:08:57 GMT</pubDate>
     </item>
     <item>
-      <title>无人机充当“飞行购物车”</title>
-      <link>https://www.reuters.com/technology/south-korea-team-showcases-drone-that-serves-flying-shopping-cart-2024-10-22/</link>
-      <description><![CDATA[路透社韩国首尔国立科技大学的研究人员开发了一种运输无人机，可用于上下楼梯运送货物。“飞行购物车”由固定在多旋翼无人机顶部的货物平台组成，可承载高达 6.6 磅的重量。Palletrone 还具有灵活的自校正转子，可实现可靠的水平稳定性，在半空中悬停时由人类引导。摘自“无人机充当‘飞行购物车’”
-路透社 (10/21/24) Minwoo Park 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/south-korea-team-showcases-drone-that-serves-flying-shopping-cart-2024-10-22/</guid>
-      <pubDate>Wed, 23 Oct 2024 18:11:51 GMT</pubDate>
+      <title>可穿戴摄像机可检测并预防手术室用药错误</title>
+      <link>https://www.geekwire.com/2024/wearable-cameras-detect-medication/</link>
+      <description><![CDATA[GeekWire华盛顿大学、卡内基梅隆大学和乌干达马凯雷雷大学的研究人员开发了一种可穿戴相机系统，该系统使用人工智能来防止注射器和药瓶混淆，从而避免给患者用药时出错。该模型使用 GoPro 相机拍摄的麻醉师在手术室进行 418 次药物抽取的视频进行训练。该系统可以根据大小和形状、瓶盖颜色和标签打印大小来识别药瓶和注射器。摘自“可穿戴相机检测和预防手术室用药错误”
+GeekWire (10/22/24) Lisa Stiffler 查看全文]]></description>
+      <guid>https://www.geekwire.com/2024/wearable-cameras-detect-medication/</guid>
+      <pubDate>Fri, 25 Oct 2024 15:08:57 GMT</pubDate>
     </item>
     <item>
-      <title>葡萄牙学校创下最大规模编程课程世界纪录</title>
-      <link>https://www.reuters.com/world/europe/portuguese-school-sets-world-record-largest-programming-lesson-2024-10-12/</link>
-      <description><![CDATA[路透社本月初，约 1,700 人齐聚葡萄牙里斯本大学 IST 技术学院，创下单一场地规模最大的计算机编程课程的吉尼斯世界纪录。之前的纪录由 2016 年 10 月 31 日达拉斯编程课上的 724 名参与者保持。IST 负责人 Rogerio Colaco 表示：“每个人都必须了解一点计算机科学和编程知识，才能在当今世界生存。”摘自“葡萄牙学校创下规模最大的编程课程世界纪录”
-路透社 (10/12/24) Miguel Pereira 查看全文]]></description>
-      <guid>https://www.reuters.com/world/europe/portuguese-school-sets-world-record-largest-programming-lesson-2024-10-12/</guid>
-      <pubDate>Wed, 23 Oct 2024 18:11:50 GMT</pubDate>
+      <title>机器人在新实验领域测试进化</title>
+      <link>https://cosmosmagazine.com/history/palaeontology/robots-test-evolution/</link>
+      <description><![CDATA[COSMOS英国剑桥大学研究人员开发的“古生物机器人”可以帮助重建古代水生动物如何进化到陆地上行走。这些机器人用机械关节模仿古代鱼类骨骼，研究人员在化石记录不完整时填补空白。剑桥大学的 Michael Ishida 表示：“这些数据可以帮助证实或挑战有关这些早期动物如何进化的现有理论。”摘自“机器人在新的实验领域测试进化”
+COSMOS (10/24/24) Ariel Marcy 查看全文]]></description>
+      <guid>https://cosmosmagazine.com/history/palaeontology/robots-test-evolution/</guid>
+      <pubDate>Fri, 25 Oct 2024 15:08:56 GMT</pubDate>
     </item>
     <item>
-      <title>云计算简化超级计算机的化学计算</title>
-      <link>https://www.geekwire.com/2024/cloud-supercomputer-chemistry-pnnl/</link>
-      <description><![CDATA[GeekWire太平洋西北国家实验室 (PNNL) 的研究人员带领团队展示了基于云的量子计算和人工智能辅助数据分析工具在计算化学中的应用。研究人员利用劳伦斯伯克利国家实验室的 Perlmutter 超级计算机、微软基于云的 Azure Quantum Elements 平台以及 PNNL 开发的计算化学软件包 NWChem 来模拟涉及“永久化学物质”全氟辛酸 (PFOA) 的化学相互作用。模拟概述了打破 PFOA 部分分子键的过程，确定了分解持久性环境污染物的可能途径。摘自“云简化超级计算机化学计算”
-GeekWire (10/21/24) Alan Boyle 查看全文]]></description>
-      <guid>https://www.geekwire.com/2024/cloud-supercomputer-chemistry-pnnl/</guid>
-      <pubDate>Wed, 23 Oct 2024 18:11:50 GMT</pubDate>
+      <title>青少年自杀应归咎于人工智能吗？</title>
+      <link>https://www.nytimes.com/2024/10/23/technology/characterai-lawsuit-teen-suicide.html</link>
+      <description><![CDATA[《纽约时报》佛罗里达州奥兰多市 14 岁少年 Sewell Setzer III 于 2 月自杀，其母亲正在起诉 Character.AI，这是一款角色扮演应用，允许用户创建 AI 角色并与之聊天。据报道，Setzer 每天花几个小时与聊天机器人交谈，甚至吐露自杀的想法。诉讼称该技术“危险且未经测试”。摘自“青少年自杀应归咎于 AI 吗？”
+《纽约时报》（2024 年 10 月 23 日）Kevin Roose 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/10/23/technology/characterai-lawsuit-teen-suicide.html</guid>
+      <pubDate>Fri, 25 Oct 2024 15:08:56 GMT</pubDate>
     </item>
     <item>
-      <title>数据中心可用作剩余电力发电机</title>
-      <link>https://www.techradar.com/pro/data-centers-could-be-used-as-residual-power-generators-as-researchers-generate-500mwh-in-a-year-from-a-single-dc-by-recycling-wasted-wind</link>
-      <description><![CDATA[TechRadar西班牙马德里远程大学和哥伦比亚 Mision Critica 数据中心的研究人员发现，数据中心可以利用冷却风扇产生的气流来发电。垂直轴 Tesup V7 风力涡轮机安装在冷却器顶部，用于捕获废风。六台风力涡轮机每年利用人工气流产生 513.82 兆瓦时的总电力，剩余电力为 131.2 兆瓦时。 摘自“数据中心可用作剩余电力发电机”
-TechRadar (10/19/24) Wayne Williams 查看全文]]></description>
-      <guid>https://www.techradar.com/pro/data-centers-could-be-used-as-residual-power-generators-as-researchers-generate-500mwh-in-a-year-from-a-single-dc-by-recycling-wasted-wind</guid>
-      <pubDate>Wed, 23 Oct 2024 18:11:50 GMT</pubDate>
+      <title>利用突破性技术发现失落的丝绸之路城市</title>
+      <link>https://www.nationalgeographic.com/history/article/medieval-cities-silk-road-lidar</link>
+      <description><![CDATA[国家地理无人机激光雷达让华盛顿大学圣路易斯分校的 Michael Franchetti 和乌兹别克斯坦国家考古中心的 Farhod Maksudov 领导的研究人员能够识别乌兹别克斯坦东南部山区古丝绸之路沿线两座中世纪城市的遗迹。高分辨率激光雷达图像详细显示了住宅、广场、防御工事和道路，为了解公元 6 世纪至 11 世纪中亚偏远山区的城市生活提供了新的视角。摘自“利用突破性技术发现失落的丝绸之路城市”
+国家地理 (10/23/24) Tom Clynes 查看全文]]></description>
+      <guid>https://www.nationalgeographic.com/history/article/medieval-cities-silk-road-lidar</guid>
+      <pubDate>Fri, 25 Oct 2024 15:08:55 GMT</pubDate>
     </item>
     <item>
-      <title>利用人工智能和雷达解决 500 年之久的交通堵塞问题</title>
-      <link>https://spectrum.ieee.org/ai-intelligent-transportation</link>
-      <description><![CDATA[IEEE Spectrum韩国公司 Bitsensing 正与意大利城市维罗纳和意大利的 Famas Systems 合作，管理 Porta Nuova 的交通，Porta Nuova 是通往该市近 500 年历史的门户。Bitsensing 安装了 10 个交通洞察监控传感器 (TIMOS)，俯瞰 Porto Nuevo 的五条入口车道和六条出口车道。传感器的设备上 AI 收集实时数据并将其传输到由本地服务器支持的运营中心。摘自“使用 AI、雷达解决 500 年的交通堵塞”
-IEEE Spectrum (10/21/24) Lawrence Ulrich 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/ai-intelligent-transportation</guid>
-      <pubDate>Wed, 23 Oct 2024 18:11:49 GMT</pubDate>
+      <title>人工智能解读猪的哼哼声和咕噜声，让猪开心</title>
+      <link>https://www.reuters.com/technology/artificial-intelligence/ai-decodes-oinks-grunts-keep-pigs-happy-2024-10-24/</link>
+      <description><![CDATA[路透社丹麦、德国、瑞士、法国、挪威和捷克共和国的大学研究人员开发了一种人工智能算法，可以解读猪发出的声音。丹麦哥本哈根大学的 Elodie Mandel-Briefer 表示，使用该算法可能会提醒农民注意猪的负面情绪，从而改善猪的健康状况。摘自“人工智能解码猪叫声和咕噜声，让猪开心”
+路透社 (2024 年 10 月 24 日) Jacob Gronholt-Pedersen 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/artificial-intelligence/ai-decodes-oinks-grunts-keep-pigs-happy-2024-10-24/</guid>
+      <pubDate>Fri, 25 Oct 2024 15:08:55 GMT</pubDate>
     </item>
     <item>
-      <title>随身电子设备监测健康，支持创意表达</title>
-      <link>https://news.cornell.edu/stories/2024/10/body-electronics-can-monitor-health-support-creative-expression</link>
-      <description><![CDATA[康奈尔纪事报康奈尔大学的研究人员开发了两种皮肤上电子设备，用户可以直接在身体上对其进行定制，以监测生命体征和姿势，或进行近距离感应和交互式假肢化妆等。 SkinLink 皮肤上电子界面可以直接在人身上制造，而 ECSkin 电致变色显示界面可以根据需要在身体上布置。摘自“身体上电子设备监测健康，支持创意表达”
-康奈尔纪事报 (10/21/24) Tom Fleischman 查看全文]]></description>
-      <guid>https://news.cornell.edu/stories/2024/10/body-electronics-can-monitor-health-support-creative-expression</guid>
-      <pubDate>Wed, 23 Oct 2024 18:11:49 GMT</pubDate>
+      <title>智利团队建造该地区首个 3D 打印“种子屋”</title>
+      <link>https://www.reuters.com/technology/chile-team-builds-regions-first-3d-printed-seed-home-2024-10-22/</link>
+      <description><![CDATA[路透社智利比奥比奥大学的研究人员建造了拉丁美洲第一座 3D 打印原型房屋，这是一座 30 平方米的混凝土建筑，位于康塞普西翁的 Torreones 社区。这座“种子屋”的混凝土层在大学实验室中用 29 小时浇筑完成，七面墙的结构在两天内现场组装完成。
+摘自“智利团队建造该地区首个 3D 打印‘种子之家’”
+路透社 (10/22/24) Nicolas Cortes 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/chile-team-builds-regions-first-3d-printed-seed-home-2024-10-22/</guid>
+      <pubDate>Fri, 25 Oct 2024 15:08:54 GMT</pubDate>
     </item>
     <item>
-      <title>Meta 将利用面部识别技术打击假冒名人诈骗</title>
-      <link>https://www.bloomberg.com/news/articles/2024-10-21/meta-to-use-facial-recognition-to-fight-fake-celebrity-scams</link>
-      <description><![CDATA[彭博社Meta 表示，将利用面部识别技术将帖子中的图片与名人 Facebook 或 Instagram 帐户上的图片进行比较，以打击“名人诱饵广告”。这家科技巨头表示，一旦确认图片匹配，它将屏蔽此类广告。 Meta 还在测试对被锁定账户的用户使用面部识别技术，允许他们提交视频自拍，当新视频与账户上的照片匹配时，账户就会解锁。摘自“Meta 将使用面部识别打击假冒名人诈骗”
-彭博社 (2024 年 10 月 21 日) Kurt Wagner 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-10-21/meta-to-use-facial-recognition-to-fight-fake-celebrity-scams</guid>
-      <pubDate>Wed, 23 Oct 2024 18:11:48 GMT</pubDate>
+      <title>三星 Galaxy S24 智能手机在价值 100 万美元的零日攻击狂欢中遭黑客入侵</title>
+      <link>https://www.forbes.com/sites/daveywinder/2024/10/24/samsung-galaxy-s24-smartphone-hacked-during-1-million-zero-day-spree/</link>
+      <description><![CDATA[《福布斯》
+在本周于爱尔兰举行的 Pwn2Own 黑客大赛上，NCC 集团的 Ken Gannon 利用五个安全漏洞，通过获取 shell 访问权限并安装任意应用程序，成功入侵了三星 Galaxy 24 智能手机。这一壮举让 Gannon 赢得了 5 万美元，而本次大赛的奖金总额超过 100 万美元。三星有 90 天的时间来修补这些漏洞，之后漏洞概念验证和详细信息才会公开披露。
+摘自“三星 Galaxy S24 智能手机在价值 100 万美元的零日攻击狂欢期间遭黑客入侵”
+福布斯 (2024 年 10 月 24 日) Davey Winder 查看全文]]></description>
+      <guid>https://www.forbes.com/sites/daveywinder/2024/10/24/samsung-galaxy-s24-smartphone-hacked-during-1-million-zero-day-spree/</guid>
+      <pubDate>Fri, 25 Oct 2024 15:08:54 GMT</pubDate>
     </item>
     <item>
-      <title>研究人员发现端到端加密云服务存在缺陷</title>
-      <link>https://www.scworld.com/news/researchers-discover-flaws-in-5-end-to-end-encrypted-cloud-services</link>
-      <description><![CDATA[SC Media瑞士苏黎世联邦理工学院的研究人员发现，五种提供端到端加密 (E2EE) 的云服务存在加密漏洞。研究人员对 Sync、pCloud、Seafile、Icedrive 和 Tresorit 进行了 10 种潜在漏洞测试，发现其中四种 E2EE 服务存在严重漏洞，攻击者在攻陷云服务器后，可利用这些漏洞访问、篡改或注入文件。虽然 Tresorit 的漏洞最少，但它可能导致某些元数据被篡改，并在共享文件时使用非真实密钥。摘自“研究人员发现端到端加密云服务存在漏洞”
-SC Media (10/21/24) Laura French]]></description>
-      <guid>https://www.scworld.com/news/researchers-discover-flaws-in-5-end-to-end-encrypted-cloud-services</guid>
-      <pubDate>Wed, 23 Oct 2024 18:11:48 GMT</pubDate>
+      <title>中国将“防火墙”延伸至太空</title>
+      <link>https://spectrum.ieee.org/satellite-internet-china-great-firewall</link>
+      <description><![CDATA[IEEE Spectrum中国国家互联网信息办公室发布了草案，要求其卫星互联网设备和服务提供商确保所有数据都通过中国地面设施传输，以便用户的请求能够通过“防火墙”。这些规则旨在防止卫星互联网服务允许用户通过卫星连接到中国政府控制范围之外的地面站。摘自“中国将‘防火墙’延伸到太空”
+IEEE Spectrum (10/23/24) Edd Gent 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/satellite-internet-china-great-firewall</guid>
+      <pubDate>Fri, 25 Oct 2024 15:08:53 GMT</pubDate>
     </item>
     <item>
-      <title>缅怀图灵奖得主 E. Allen Emerson</title>
-      <link>https://cns.utexas.edu/news/announcements/remembering-turing-award-winner-e-allen-emerson</link>
-      <description><![CDATA[德克萨斯大学奥斯汀分校 德克萨斯大学奥斯汀分校 (UT Austin) 的计算机科学家 E. Allen Emerson 于 10 月 16 日去世。Emerson 因其在模型检查自动验证技术方面的工作而获得了 ACM 的 A.M. 图灵奖。他还获得了 ACM 的 Paris Kanellakis 理论与实践奖。UT Austin 的 Don Fussell 表示：“Allen 的工作是开发工具的一大进步，这些工具可帮助设计师创建具有已知、可验证属性的系统。”摘自“纪念图灵奖获得者 E. Allen Emerson”
-德克萨斯大学奥斯汀分校 (10/21/24) Marc Airhart 查看全文]]></description>
-      <guid>https://cns.utexas.edu/news/announcements/remembering-turing-award-winner-e-allen-emerson</guid>
-      <pubDate>Wed, 23 Oct 2024 18:11:47 GMT</pubDate>
+      <title>俄罗斯扩大飓风虚假信息</title>
+      <link>https://apnews.com/article/russia-hurricane-disinformation-fema-9e37c73ab8ffa2a2d338797a1a827e57</link>
+      <description><![CDATA[美联社据英国战略对话研究所 (Institute for Strategic Dialogue) 的研究，俄罗斯帮助放大和传播有关美国最近飓风和联邦政府应对措施的虚假和误导性网络说法。战略对话研究所是一家追踪虚假信息和网络极端主义的组织。俄罗斯国家媒体和社交媒体账户及网站网络传播的内容试图通过将政治领导人描绘成无能和腐败来利用人们对恢复工作的担忧。摘自“俄罗斯放大飓风虚假信息”
+美联社 (10/24/24) David Klepper 查看全文]]></description>
+      <guid>https://apnews.com/article/russia-hurricane-disinformation-fema-9e37c73ab8ffa2a2d338797a1a827e57</guid>
+      <pubDate>Fri, 25 Oct 2024 15:08:53 GMT</pubDate>
     </item>
     <item>
-      <title>漏洞和人工智能争夺软件开发人员的注意力</title>
-      <link>https://www.darkreading.com/application-security/vulnerabilities-ai-compete-software-developers-attention</link>
-      <description><![CDATA[Dark Reading软件公司 Sonatype 的年度“软件供应链状况”报告发现，开发人员有望在 2024 年下载超过 6.6 万亿个软件组件，其中 JavaScript 组件下载量增长 70%，Python 组件下载量增长 87%。Sonatype 的 Brian Fox 表示，虽然人工智能的出现正在推动更快的开发周期，但也使安全性变得更加困难。摘自“漏洞、人工智能争夺软件开发人员的注意力”
-Dark Reading (10/22/24) Robert Lemos 查看全文]]></description>
-      <guid>https://www.darkreading.com/application-security/vulnerabilities-ai-compete-software-developers-attention</guid>
-      <pubDate>Wed, 23 Oct 2024 18:11:47 GMT</pubDate>
+      <title>佐治亚州选举官员称该州成功抵御网络攻击</title>
+      <link>https://www.cnn.com/2024/10/23/politics/georgia-election-official-cyber-attack/index.html</link>
+      <description><![CDATA[CNN佐治亚州州务卿办公室表示，已成功抵御一次试图使其缺席选票网站下线的网络攻击。该办公室的 Gabe Sterling 表示，该网站“具有外国势力或受外国势力指使的外国实体的特征”。Sterling 解释说，该网站受到来自多个国家数十万个 IP 地址的虚假流量攻击。摘自“佐治亚州选举官员称该州抵御了网络攻击”
+CNN (10/23/24) Gabe Cohen；Sean Lyngaas；Zachary Cohen 查看全文]]></description>
+      <guid>https://www.cnn.com/2024/10/23/politics/georgia-election-official-cyber-attack/index.html</guid>
+      <pubDate>Fri, 25 Oct 2024 15:08:52 GMT</pubDate>
     </item>
     <item>
-      <title>美国法规旨在遏制个人数据海外销售</title>
-      <link>https://cyberscoop.com/justice-department-data-broker-regulation-china-russia-iran/</link>
-      <description><![CDATA[Cyber​​Scoop美国司法部正式提出法规，以防止或限制向敌对国家出售和转移美国人的敏感个人数据。该拟议规则源于拜登政府 2 月份发布的一项行政命令，对美国实体如何出售六类“大量”敏感数据施加限制：驾照和社会安全号码等个人数据、精确地理位置数据、生物识别标识符、人类基因组数据、健康信息和财务信息。摘自“美国规则旨在遏制海外个人数据销售”
-Cyber​​Scoop (10/21/24) Derek B. Johnson 查看全文]]></description>
-      <guid>https://cyberscoop.com/justice-department-data-broker-regulation-china-russia-iran/</guid>
-      <pubDate>Wed, 23 Oct 2024 18:11:46 GMT</pubDate>
+      <title>美国敦促各机构利用人工智能保障国家安全</title>
+      <link>https://thehill.com/homenews/administration/4950452-biden-administration-urges-us-agencies-to-harness-ai-systems-for-national-security/</link>
+      <description><![CDATA[国会山拜登总统于周四发布了首份关于人工智能的国家安全备忘录，指示联邦政府采取行动，提高芯片供应链的安全性和多样性，并为人工智能开发商提供网络安全和反情报，以确保他们的发明安全。一位政府官员补充说：“美国应该利用最先进的人工智能系统和适当的保障措施来实现国家安全目标。”摘自“美国敦促各机构‘利用’人工智能保障国家安全”
+国会山 (10/24/24) 米兰达·纳扎罗 查看全文]]></description>
+      <guid>https://thehill.com/homenews/administration/4950452-biden-administration-urges-us-agencies-to-harness-ai-systems-for-national-security/</guid>
+      <pubDate>Fri, 25 Oct 2024 15:08:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>修改DNA以更快地存储数据</title>
+      <link>https://www.newscientist.com/article/2452876-dna-has-been-modified-to-make-it-store-data-350-times-faster/</link>
+      <description><![CDATA[新科学家中国北京大学的研究人员开发出一种同时将 350 位写入 DNA 样本的方法。研究人员使用预制的 DNA 模板作为基础，并添加较短的 DNA 链，将长 DNA 链转化为二进制代码。通过化学反应添加甲基后，甲基化的珠子作为二进制代码的 1，未甲基化的珠子作为 0。摘自“DNA 修饰以更快地存储数据”
+新科学家 (2024 年 10 月 23 日) Karmela Padavic-Callaghan 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.newscientist.com/article/2452876-dna-has-been-modified-to-make-it-store-data-350-times-faster/</guid>
+      <pubDate>Fri, 25 Oct 2024 15:08:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
