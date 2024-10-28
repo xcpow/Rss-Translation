@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Mon, 28 Oct 2024 15:09:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 18:12:26 GMT</lastBuildDate>
+    <item>
+      <title>人工智能泛滥</title>
+      <link>https://www.wired.com/story/ai-generated-medium-posts-content-moderation/</link>
+      <description><![CDATA[博客平台 Medium 正面临大量 AI 生成内容的涌入。首席执行官 Tony Stubblebine 表示，只要没人读，这“就无所谓”。]]></description>
+      <guid>https://www.wired.com/story/ai-generated-medium-posts-content-moderation/</guid>
+      <pubDate>Mon, 28 Oct 2024 16:40:08 GMT</pubDate>
+    </item>
     <item>
       <title>一位知名遗传学家正在发起一项核聚变动力登月计划</title>
       <link>https://www.wired.com/story/plaintext-pacific-fusion-eric-lander/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>针对 Perplexity 的诉讼揭露了虚假新闻 AI 幻觉</title>
       <link>https://www.wired.com/story/dow-jones-new-york-post-sue-perplexity/</link>
-      <description><![CDATA[在针对人工智能初创公司 Perplexity 提起的一项新的版权诉讼中，道琼斯和纽约邮报辩称，制造假新闻并将其归为真实报纸是违法的。]]></description>
+      <description><![CDATA[在针对人工智能初创公司 Perplexity 提起的新的版权诉讼中，道琼斯和纽约邮报辩称，制造假新闻并将其归于真实报纸是违法的。]]></description>
       <guid>https://www.wired.com/story/dow-jones-new-york-post-sue-perplexity/</guid>
       <pubDate>Mon, 21 Oct 2024 22:13:54 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[一家旨在打击虚假信息的新中心的负责人告诉《连线》杂志，摩尔多瓦正面临前所未有的复杂和侵略性的虚假信息浪潮。Facebook、TikTok、Telegram 和 YouTube 等平台可以做得更多。]]></description>
       <guid>https://www.wired.com/story/the-disinformation-warning-coming-from-the-edge-of-europe/</guid>
       <pubDate>Sat, 19 Oct 2024 06:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>现在您可以看到帮助结束种族隔离的法律</title>
-      <link>https://www.wired.com/story/plaintext-you-can-now-see-the-code-that-ended-apartheid/</link>
-      <description><![CDATA[约翰·格雷厄姆·卡明 (John Graham-Cumming) 恰好是 Cloudflare 的首席技术官，他破解了一份有 30 年历史的加密文件，该文件在改写南非历史方面发挥了重要作用。]]></description>
-      <guid>https://www.wired.com/story/plaintext-you-can-now-see-the-code-that-ended-apartheid/</guid>
-      <pubDate>Fri, 18 Oct 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
