@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Wed, 30 Oct 2024 21:08:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 00:42:18 GMT</lastBuildDate>
+    <item>
+      <title>Meta 的下一代 Llama AI 模型正在“比任何东西都大”的 GPU 集群上进行训练</title>
+      <link>https://www.wired.com/story/meta-llama-ai-gpu-training/</link>
+      <description><![CDATA[生成式人工智能的竞争也是计算能力的竞争。根据 CEO 马克·扎克伯格的说法，从这一点来看，Meta 似乎胜券在握。]]></description>
+      <guid>https://www.wired.com/story/meta-llama-ai-gpu-training/</guid>
+      <pubDate>Thu, 31 Oct 2024 00:00:22 GMT</pubDate>
+    </item>
     <item>
       <title>伊隆·马斯克对“觉醒人工智能”的批评表明 ChatGPT 可能是特朗普政府的目标</title>
       <link>https://www.wired.com/llm-political-bias/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>一位知名遗传学家正在发起一项核聚变动力登月计划</title>
       <link>https://www.wired.com/story/plaintext-pacific-fusion-eric-lander/</link>
-      <description><![CDATA[硅谷一线明星正在资助这家初创公司 Pacific Fusion，该公司创始 CEO 埃里克·兰德 (Eric Lander) 表示，该公司将在十年内推出全面的演示系统。]]></description>
+      <description><![CDATA[硅谷一线明星正在资助这家初创公司 Pacific Fusion，该公司创始首席执行官埃里克·兰德 (Eric Lander) 表示，该公司将在十年内推出全面的演示系统。]]></description>
       <guid>https://www.wired.com/story/plaintext-pacific-fusion-eric-lander/</guid>
       <pubDate>Fri, 25 Oct 2024 12:00:00 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>Liquid AI 正在重新设计神经网络</title>
       <link>https://www.wired.com/story/liquid-ai-redesigning-neural-network/</link>
-      <description><![CDATA[受到微型蠕虫的启发，Liquid AI 的创始人开发了一种更具适应性、能耗更低的神经网络。现在，这家麻省理工学院的衍生公司正在展示几种新的超高效模型。]]></description>
+      <description><![CDATA[受到微型蠕虫的启发，Liquid AI 的创始人开发出了一种适应性更强、能耗更低的神经网络。现在，这家麻省理工学院的衍生公司正在展示几种新的超高效模型。]]></description>
       <guid>https://www.wired.com/story/liquid-ai-redesigning-neural-network/</guid>
       <pubDate>Wed, 23 Oct 2024 17:26:24 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[在针对人工智能初创公司 Perplexity 提起的一项新的版权诉讼中，道琼斯和纽约邮报辩称，制造假新闻并将其归为真实报纸是违法的。]]></description>
       <guid>https://www.wired.com/story/dow-jones-new-york-post-sue-perplexity/</guid>
       <pubDate>Mon, 21 Oct 2024 22:13:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>在肯塔基山区，比特币挖矿之梦变成了一场噩梦</title>
-      <link>https://www.wired.com/story/in-the-kentucky-mountains-a-bitcoin-mining-dream-becomes-the-stuff-of-nightmares/</link>
-      <description><![CDATA[当比特币热度飙升时，肯塔基州的小型工业设施所有者与中国公司建立了加密货币挖矿合作伙伴关系。但后来一切都失败了。]]></description>
-      <guid>https://www.wired.com/story/in-the-kentucky-mountains-a-bitcoin-mining-dream-becomes-the-stuff-of-nightmares/</guid>
-      <pubDate>Mon, 21 Oct 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
