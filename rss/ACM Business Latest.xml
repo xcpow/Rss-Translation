@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 31 Oct 2024 12:16:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 15:09:30 GMT</lastBuildDate>
+    <item>
+      <title>欧盟正在调查 Temu 的非法产品和令人上瘾的设计</title>
+      <link>https://www.wired.com/story/eu-temu-investigation-illegal-products-addictive-design/</link>
+      <description><![CDATA[玩具、药品和化妆品被怀疑是该中国购物平台 9000 万欧洲用户购买的不合规产品之一。]]></description>
+      <guid>https://www.wired.com/story/eu-temu-investigation-illegal-products-addictive-design/</guid>
+      <pubDate>Thu, 31 Oct 2024 12:35:20 GMT</pubDate>
+    </item>
     <item>
       <title>马克·扎克伯格的中年危机</title>
       <link>https://www.wired.com/story/uncanny-valley-mark-zuckerberg-midlife-crisis/</link>
@@ -55,7 +62,7 @@
       <pubDate>Wed, 30 Oct 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能泛滥</title>
+      <title>人工智能的废料正在淹没媒介</title>
       <link>https://www.wired.com/story/ai-generated-medium-posts-content-moderation/</link>
       <description><![CDATA[博客平台 Medium 正面临大量 AI 生成内容的涌入。首席执行官 Tony Stubblebine 表示，只要没人读，这“就无所谓”。]]></description>
       <guid>https://www.wired.com/story/ai-generated-medium-posts-content-moderation/</guid>
@@ -64,7 +71,7 @@
     <item>
       <title>一位知名遗传学家正在发起一项核聚变动力登月计划</title>
       <link>https://www.wired.com/story/plaintext-pacific-fusion-eric-lander/</link>
-      <description><![CDATA[硅谷一线明星正在资助这家初创公司 Pacific Fusion，该公司创始 CEO 埃里克·兰德 (Eric Lander) 表示，该公司将在十年内推出全面的演示系统。]]></description>
+      <description><![CDATA[硅谷一线明星正在资助这家初创公司 Pacific Fusion，该公司创始首席执行官埃里克·兰德 (Eric Lander) 表示，该公司将在十年内推出全面的演示系统。]]></description>
       <guid>https://www.wired.com/story/plaintext-pacific-fusion-eric-lander/</guid>
       <pubDate>Fri, 25 Oct 2024 12:00:00 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>Liquid AI 正在重新设计神经网络</title>
       <link>https://www.wired.com/story/liquid-ai-redesigning-neural-network/</link>
-      <description><![CDATA[受到微型蠕虫的启发，Liquid AI 的创始人开发了一种更具适应性、能耗更低的神经网络。现在，这家麻省理工学院的衍生公司正在展示几种新的超高效模型。]]></description>
+      <description><![CDATA[受到微型蠕虫的启发，Liquid AI 的创始人开发出了一种适应性更强、能耗更低的神经网络。现在，这家麻省理工学院的衍生公司正在展示几种新的超高效模型。]]></description>
       <guid>https://www.wired.com/story/liquid-ai-redesigning-neural-network/</guid>
       <pubDate>Wed, 23 Oct 2024 17:26:24 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[移动运营商认为锁定设备有助于他们降低成本。消费者保护组织对此有不同的看法。]]></description>
       <guid>https://www.wired.com/story/att-tmobile-claim-locked-phones-are-good-actually/</guid>
       <pubDate>Wed, 23 Oct 2024 09:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anthropic 希望其 AI 代理能够控制你的计算机</title>
-      <link>https://www.wired.com/story/anthropic-ai-agent/</link>
-      <description><![CDATA[克劳德是第一个能够控制计算机做有用工作的主流人工智能模型。]]></description>
-      <guid>https://www.wired.com/story/anthropic-ai-agent/</guid>
-      <pubDate>Tue, 22 Oct 2024 15:00:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
