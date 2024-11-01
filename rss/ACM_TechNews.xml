@@ -4,110 +4,111 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Wed, 30 Oct 2024 18:12:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 18:12:12 GMT</lastBuildDate>
     <item>
-      <title>移动中的 3D 打印</title>
-      <link>https://www.geekwire.com/2024/3d-printing-on-the-move-uw-device-can-map-a-room-and-print-custom-items-in-desired-space/</link>
-      <description><![CDATA[GeekWire华盛顿大学研究人员开发的移动 3D 打印设备可以在所需空间内 3D 打印物体。MobiPrint 连接到经过改装的机器人吸尘器上，可以自动导航房间并使用 LiDAR 绘制地图。地图会变成一个交互式画布，用户可以从对象库中进行选择，也可以上传自己的设计并确定要在地图上打印的所需位置。然后，MobiPrint 前往该位置，利用普通的 3D 打印生物塑料直接在地板上打印物体。摘自“3D 打印在路上”
-GeekWire (10/21/24) Kurt Schlosser 查看全文]]></description>
-      <guid>https://www.geekwire.com/2024/3d-printing-on-the-move-uw-device-can-map-a-room-and-print-custom-items-in-desired-space/</guid>
-      <pubDate>Wed, 30 Oct 2024 18:12:13 GMT</pubDate>
+      <title>互动式喉舌开启新机遇</title>
+      <link>https://news.mit.edu/2024/interactive-mouthpiece-mouthio-1028</link>
+      <description><![CDATA[MIT 新闻麻省理工学院和丹麦奥胡斯大学的研究人员开发了一种牙齿矫正器，可以配备传感器、执行器和其他反馈组件，以收集健康数据并实现与各种设备的交互。MouthIO 可用于跟踪磨牙或唾液中的细菌等，或允许运动障碍者使用舌头控制设备。摘自“交互式口器开启新机遇”
+MIT 新闻 (10/28/24) Alex Shipps 查看全文]]></description>
+      <guid>https://news.mit.edu/2024/interactive-mouthpiece-mouthio-1028</guid>
+      <pubDate>Fri, 01 Nov 2024 18:12:11 GMT</pubDate>
     </item>
     <item>
-      <title>酿酒师测试葡萄采摘机器人</title>
-      <link>https://www.economist.com/science-and-technology/2024/10/23/winemakers-are-building-grape-picking-robots</link>
-      <description><![CDATA[《经济学人》英国伦敦玛丽女王大学和 Extend Robotics 的研究人员正在开发一种人工智能机器人，该机器人能够确定葡萄是否成熟并从葡萄藤上摘下葡萄串。该机器人具有视觉传感器，可以测量穿过葡萄的光波长以评估其糖分水平，并具有压力敏感手指以避免损坏果实。摘自“酿酒师测试葡萄采摘机器人”
-《经济学人》（2024 年 10 月 23 日） 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.economist.com/science-and-technology/2024/10/23/winemakers-are-building-grape-picking-robots</guid>
-      <pubDate>Wed, 30 Oct 2024 18:12:12 GMT</pubDate>
+      <title>智能充电器为更多电动汽车铺平道路</title>
+      <link>https://www.eenewseurope.com/en/new-smart-charger-may-pave-the-way-for-more-evs/</link>
+      <description><![CDATA[eeNews Europe佐治亚理工学院的研究人员开发了一种电动汽车智能充电系统，旨在分散充电时间，避免电网过载。研究人员创建了算法，可以实现逐步充电，并减少充电过程中家庭的最大耗电量。在确定何时充电时，算法会考虑消费者的偏好和电网的状态。摘自“智能充电器为更多电动汽车铺平道路”
+eeNews Europe (10/28/24) Wisse Hettinga 查看全文]]></description>
+      <guid>https://www.eenewseurope.com/en/new-smart-charger-may-pave-the-way-for-more-evs/</guid>
+      <pubDate>Fri, 01 Nov 2024 18:12:11 GMT</pubDate>
     </item>
     <item>
-      <title>零浪费设计工具，实现更可持续的时尚</title>
-      <link>https://www.csail.mit.edu/news/zero-waste-design-tool-more-sustainable-fashion</link>
-      <description><![CDATA[麻省理工学院计算机科学与人工智能实验室麻省理工学院、华盛顿大学和 Adob​​e Research 的研究人员开发的软件旨在帮助时装设计师减少材料浪费。WasteBanned 软件允许用户输入布料尺寸，并以数字方式裁剪、缝制、移动、测量和标记面板。它还将二维设计转换为由数字人体模型建模的 3D 服装。然后可以打印设计以匹配服装的精确尺寸，以协助裁剪材料。摘自“零浪费设计工具，实现更可持续的时尚”
-麻省理工学院计算机科学与人工智能实验室 (10/23/24) Alex Shipps 查看全文]]></description>
-      <guid>https://www.csail.mit.edu/news/zero-waste-design-tool-more-sustainable-fashion</guid>
-      <pubDate>Wed, 30 Oct 2024 18:12:12 GMT</pubDate>
+      <title>密苏里州乡村小镇与科技巨头展开斗争</title>
+      <link>https://www.nytimes.com/2024/10/29/technology/data-center-peculiar-missouri.html</link>
+      <description><![CDATA[《纽约时报》密苏里州佩库利亚尔的居民反对建设数据中心的提议并取得了胜利。Diode Ventures 的高管试图将 500 英亩土地重新规划为工业用地，并计划为一家不知名的科技客户建设一个数据中心园区，承诺创造新的就业机会和超过 10 亿美元的税收收入。居民们越来越担心 Diode 不愿透露客户姓名、要求签署保密协议，以及内部文件显示数据中心只会创造 100 个主要为高级技术人员的职位。摘自“密苏里州乡村小镇与大型科技公司抗争”
+纽约时报 (10/29/24) Eli Tan 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/10/29/technology/data-center-peculiar-missouri.html</guid>
+      <pubDate>Fri, 01 Nov 2024 18:12:10 GMT</pubDate>
     </item>
     <item>
-      <title>科技让旅客 10 秒内完成新加坡机场入境检查</title>
-      <link>https://www.bloomberg.com/news/articles/2024-10-25/travelers-clear-singapore-airport-immigration-in-just-10-seconds-using-new-tech</link>
-      <description><![CDATA[彭博社在新加坡樟宜机场，乘客只需 10 秒便可完成入境手续，这得益于面部识别和虹膜生物识别扫描。新加坡移民与关卡局表示，自 9 月底全面实施该技术以来，乘客办理入境手续的平均时间已从 25 秒缩短至 25 秒。这项技术允许永久居民和长期通行证持有者在出入境时无需出示护照。摘自“科技让旅客在 10 秒内完成新加坡机场入境检查”
-彭博社 (10/24/24) Danny Lee 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-10-25/travelers-clear-singapore-airport-immigration-in-just-10-seconds-using-new-tech</guid>
-      <pubDate>Wed, 30 Oct 2024 18:12:11 GMT</pubDate>
+      <title>警方行动声称抓获了多起密码窃取案件</title>
+      <link>https://techcrunch.com/2024/10/28/police-operation-claims-takedown-of-prolific-redline-and-meta-password-stealers/</link>
+      <description><![CDATA[TechCrunch由荷兰国家警察领导的国际执法机构联盟在 Magnus 行动中获得了 Redline 和 Meta 信息窃取恶意软件所使用的服务器的完全访问权限。此类恶意软件已被用来窃取数百万个人的密码、信用卡数据、搜索历史记录、加密货币钱包和其他敏感数据。该联盟表示，信息窃取者的用户名、密码、IP 地址、时间戳、注册日期、源代码和 Telegram 机器人已被当局访问，并且“正在进行法律行动”。摘自“警方行动声称击落多产密码窃取者”
+TechCrunch (10/28/24) Carly Page 查看全文]]></description>
+      <guid>https://techcrunch.com/2024/10/28/police-operation-claims-takedown-of-prolific-redline-and-meta-password-stealers/</guid>
+      <pubDate>Fri, 01 Nov 2024 18:12:10 GMT</pubDate>
     </item>
     <item>
-      <title>利用 3D 集成光子学解决计算难题</title>
-      <link>https://spie.org/news/solving-computationally-hard-problems-with-3d-integrated-photonics#_=_</link>
-      <description><![CDATA[SPIE中国上海交通大学研究人员开发的可重构 3D 集成光子处理器旨在解决子集求和问题，该问题需要计算某个数字子集是否可以求和为给定目标。研究人员使用飞秒激光直写技术构建了一个具有 1,440 个标准化光学元件的光子芯片。光的行为可以编码到处理器上，处理器使用光子同时考虑所有可能的路径，加快计算速度并保持准确性。摘自“使用 3D 集成光子学解决计算难题”
-SPIE (10/23/24) 查看全文]]></description>
-      <guid>https://spie.org/news/solving-computationally-hard-problems-with-3d-integrated-photonics#_=_</guid>
-      <pubDate>Wed, 30 Oct 2024 18:12:11 GMT</pubDate>
+      <title>激光考古学发现森林下失落的玛雅城市</title>
+      <link>https://thehill.com/policy/energy-environment/4958042-maya-city-revealed-laser-imaging-archaeology/</link>
+      <description><![CDATA[The Hill研究人员利用激光雷达对墨西哥尤卡坦半岛的雨林进行成像，发现了古老的玛雅建筑和一座以前不为人知的城市。新发现的遗址揭示了农村、地区集镇和一座拥有金字塔的大城市的结合。研究员 Luke Auld-Thomas 表示，使用激光雷达“使我们能够非常快速地绘制大面积地图，并且精度和细节水平都非常高。”摘自“激光考古学在森林下发现失落的玛雅城市”
+The Hill (10/29/24) Saul Elbein 查看全文]]></description>
+      <guid>https://thehill.com/policy/energy-environment/4958042-maya-city-revealed-laser-imaging-archaeology/</guid>
+      <pubDate>Fri, 01 Nov 2024 18:12:09 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年 Cybathlon：机器导盲犬、导盲手杖成为焦点</title>
-      <link>https://businessnewsthisweek.com/news/cybathlon-2024-highlights-robotic-guide-dogs-and-innovative-seeing-eye-canes-steal-the-show/</link>
-      <description><![CDATA[本周商业新闻瑞士苏黎世联邦理工学院上周末举办了 2024 年 Cybathlon 比赛，来自 24 个国家的 67 支队伍参加了一场涉及残疾人和实验性辅助技术的比赛。比赛的目标是优化辅助技术以供日常使用。参赛选手展示的技术包括机器人导盲犬、智能盲人手杖和利用运动反馈引导佩戴者的胸背带。摘自“Cybathlon 2024：机器人导盲犬、导盲手杖抢尽风头”
-本周商业新闻 (2024 年 10 月 27 日) Neel Achary 查看全文]]></description>
-      <guid>https://businessnewsthisweek.com/news/cybathlon-2024-highlights-robotic-guide-dogs-and-innovative-seeing-eye-canes-steal-the-show/</guid>
-      <pubDate>Wed, 30 Oct 2024 18:12:10 GMT</pubDate>
+      <title>人工智能帮助无人驾驶汽车预测看不见的物体的运动</title>
+      <link>https://www.newscientist.com/article/2453516-ai-helps-driverless-cars-predict-how-unseen-pedestrians-may-move/</link>
+      <description><![CDATA[《新科学家》加州认知计算公司 VERSES AI 和沃尔沃汽车的研究人员开发了一种算法，可帮助自动驾驶汽车系统预测隐藏在视线之外的其他车辆、行人和骑车人的轨迹。该算法使用遮挡推理将复杂、快速变化的场景简化为一组可能由潜在隐藏物体做出的更简单的动作。当接近可能存在隐藏物体的位置时，算法可以改变自动驾驶汽车的速度或方向，如果传感器确认存在隐藏物体，其驾驶行为也可以更新。摘自“人工智能帮助无人驾驶汽车预测看不见物体的运动”
+
+《新科学家》（2024 年 10 月 29 日）Jeremy Hsu 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.newscientist.com/article/2453516-ai-helps-driverless-cars-predict-how-unseen-pedestrians-may-move/</guid>
+      <pubDate>Fri, 01 Nov 2024 18:12:09 GMT</pubDate>
     </item>
     <item>
-      <title>旧金山广告牌呼吁科技公司不要为开源付费</title>
-      <link>https://www.theregister.com/2024/10/25/open_source_funding_ads/</link>
-      <description><![CDATA[The Register（英国）开源承诺组织正在旧金山的广告牌上呼吁那些没有为所使用的开源代码付费的公司。该组织希望使用开源代码的公司承诺为每位开发人员提供 2,000 美元来支持开源项目。到目前为止，已有 25 家公司这样做，其中大多数是 B 轮和 C 轮融资中的小型初创公司。开源承诺组织联合创始人 Chad Whitacre 希望大型公司最终能加入这一努力。摘自“旧金山广告牌呼吁科技公司不为开源付费”
-The Register（英国）（2024 年 10 月 25 日）Iain Thomson]]></description>
-      <guid>https://www.theregister.com/2024/10/25/open_source_funding_ads/</guid>
-      <pubDate>Wed, 30 Oct 2024 18:12:10 GMT</pubDate>
+      <title>使用自主机器人追踪鲸鱼</title>
+      <link>https://seas.harvard.edu/news/2024/10/new-methods-whale-tracking-and-rendezvous-using-autonomous-robots</link>
+      <description><![CDATA[哈佛大学约翰·A·保尔森工程与应用科学学院CETI（鲸类翻译计划）项目和哈佛大学的研究人员开发了一种强化学习框架，该框架使用具有极高频信号感应能力的自主空中无人机来预测抹香鲸将在何处浮出水面。 AVATARS（用于鲸鱼跟踪和遥感会合的自动驾驶车辆）框架使用信号相位和无人机的运动来创建“空中天线阵列”，能够估计 CETI 鲸鱼标签发出的 ping 的方向性。摘自“使用自主机器人跟踪鲸鱼”
+哈佛大学 John A. Paulson 工程与应用科学学院（2024 年 10 月 30 日） 查看全文]]></description>
+      <guid>https://seas.harvard.edu/news/2024/10/new-methods-whale-tracking-and-rendezvous-using-autonomous-robots</guid>
+      <pubDate>Fri, 01 Nov 2024 18:12:08 GMT</pubDate>
     </item>
     <item>
-      <title>俄罗斯程序员被除名引发 Linux 内核政治争论</title>
-      <link>https://arstechnica.com/information-technology/2024/10/russian-coders-removed-from-linux-maintainers-list-due-to-sanction-concerns/</link>
-      <description><![CDATA[Ars Technica最近的一个补丁从 Linux 内核的 MAINTAINERS 文件中删除了大约十几个名称，Linux 内核维护者 Greg Kroah-Harrison 对此发表评论称，这些条目被删除“是由于各种合规要求”。被删除的条目有俄罗斯人的名字或 .ru 电子邮件地址，而对俄罗斯和俄罗斯公司的制裁就是合规问题。这一事件引发了关于国际政治在开源代码领域地位的争论。摘自“删除俄罗斯程序员引发关于 Linux 内核政治的争论”
-Ars Technica (10/24/24) Kevin Purdy 查看全文]]></description>
-      <guid>https://arstechnica.com/information-technology/2024/10/russian-coders-removed-from-linux-maintainers-list-due-to-sanction-concerns/</guid>
-      <pubDate>Wed, 30 Oct 2024 18:12:10 GMT</pubDate>
+      <title>澳大利亚希望利用采矿废料作为芯片材料</title>
+      <link>https://asia.nikkei.com/Business/Technology/Australia-looks-to-mining-waste-for-cutting-edge-chip-materials</link>
+      <description><![CDATA[日经亚洲澳大利亚的研究人员正在研究从现有采矿作业产生的废料中提取半导体制造所必需的镓和锗的方法。例如，澳大利亚氧化铝精炼商力拓正在与密苏里科技大学的研究人员合作，从铜精炼废料中提取镓和锗。摘自“澳大利亚希望将采矿废料用作芯片材料”
+日经亚洲 (2024 年 10 月 29 日) Shaun Turton 查看全文]]></description>
+      <guid>https://asia.nikkei.com/Business/Technology/Australia-looks-to-mining-waste-for-cutting-edge-chip-materials</guid>
+      <pubDate>Fri, 01 Nov 2024 18:12:08 GMT</pubDate>
     </item>
     <item>
-      <title>假冒 IT 工作者骗局已扩展到朝鲜以外</title>
-      <link>https://www.axios.com/2024/10/25/fake-it-worker-scams-north-korea-global</link>
-      <description><![CDATA[AxiosHYPR 是一家总部位于纽约的网络安全公司，提供身份保护和无密码技术，该公司表示，它雇佣了一名假冒的远程 IT 工作者，冒充东欧软件工程师。HYPR 报告了入职过程中的几个危险信号，例如拒绝出现在视频中以及未通过面部识别测试，但表示该员工在完成入职流程和收到登录凭据之前就离开了。此前，网络安全培训平台 KnowBe4 在今年早些时候报告了一起朝鲜 IT 工作者骗局。摘自“假冒 IT 工作者骗局扩展到朝鲜以外”
-Axios (10/25/24) Sam Sabin 查看全文]]></description>
-      <guid>https://www.axios.com/2024/10/25/fake-it-worker-scams-north-korea-global</guid>
-      <pubDate>Wed, 30 Oct 2024 18:12:09 GMT</pubDate>
+      <title>欧盟将向该地区深度科技领域投资 15 亿美元</title>
+      <link>https://www.reuters.com/technology/eu-invest-15-billion-regions-deep-tech-sector-2024-10-29/</link>
+      <description><![CDATA[路透社欧盟官员宣布，欧洲创新委员会明年将向该地区的深度科技研究领域投资 14 亿欧元（15 亿美元），比今年增加近 2 亿欧元。此举正值欧洲努力在科技领域跟上美国和中国的步伐，官员们也专注于科技和人工智能以提振该地区的经济之际。摘自“欧盟将向该地区的深度科技领域投资 15 亿美元”
+路透社 (10/29/24) Sudip Kar-Gupta 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/eu-invest-15-billion-regions-deep-tech-sector-2024-10-29/</guid>
+      <pubDate>Fri, 01 Nov 2024 18:12:07 GMT</pubDate>
     </item>
     <item>
-      <title>预计到 2030 年欧洲数据中心电力需求将增长三倍</title>
-      <link>https://www.reuters.com/technology/europes-data-centre-power-demand-expected-triple-by-2030-mckinsey-report-says-2024-10-23/</link>
-      <description><![CDATA[路透社管理咨询公司麦肯锡预测，到 2030 年，欧洲数据中心的总 IT 负载需求将从目前的 10 千兆瓦 (GW) 跃升至 35 GW。麦肯锡报告还预计，到 2030 年，欧洲数据中心的电力消耗将从目前的约 63 太瓦时 (TWh) 增加近三倍，达到 150 TWh。麦肯锡表示，要满足需求增长，数据中心基础设施投资至少需要 2500 亿至 3000 亿美元。摘自“预计到 2030 年欧洲数据中心的电力需求将增加三倍”
-路透社 (10/24/24) Nina Chestney 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/europes-data-centre-power-demand-expected-triple-by-2030-mckinsey-report-says-2024-10-23/</guid>
-      <pubDate>Wed, 30 Oct 2024 18:12:09 GMT</pubDate>
+      <title>Python 超越 JavaScript</title>
+      <link>https://www.infoworld.com/article/3594587/python-has-overtaken-javascript-on-github.html</link>
+      <description><![CDATA[InfoWorldGitHub 的 Octoverse 2024 报告显示，Python 是代码共享平台上最受欢迎的编程语言，超过了 JavaScript。GitHub 还报告了人们对使用较少计算能力的 AI 代理和较小模型的兴趣增加。报告显示，今年全球开发者为整个平台的开源和公共存储库贡献了近 10 亿个代码。摘自“Python 超越 JavaScript”
+InfoWorld (10/30/24) Paul Krill 查看全文]]></description>
+      <guid>https://www.infoworld.com/article/3594587/python-has-overtaken-javascript-on-github.html</guid>
+      <pubDate>Fri, 01 Nov 2024 18:12:07 GMT</pubDate>
     </item>
     <item>
-      <title>印度正在建设开源云计算项目</title>
-      <link>https://spectrum.ieee.org/cloud-computing-in-india</link>
-      <description><![CDATA[IEEE Spectrum印度非营利组织 People+ai 启动了开放云计算 (OCC) 项目，以开发一个开源市场，各种规模的云提供商都可以在其中提供服务，客户可以根据自己的需求在产品之间切换。People+ai 的 Tanvi Lall 表示，OCC 面向无法负担大型科技公司产品的个人和企业，以及出于安全原因必须将数据保存在本地的医疗保健或金融行业公司。摘自“印度正在建立开源云计算工作”
-IEEE Spectrum (10/28/24) Edd Gent 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/cloud-computing-in-india</guid>
-      <pubDate>Wed, 30 Oct 2024 18:12:08 GMT</pubDate>
+      <title>美国人口普查数据可以通过更好的噪声来提高准确性</title>
+      <link>https://www.newscientist.com/article/2454095-simple-fix-could-make-us-census-more-accurate-but-just-as-private/</link>
+      <description><![CDATA[新科学家宾夕法尼亚大学研究人员领导的团队开发了一种方法，美国人口普查局可以使用该方法在不损害公民隐私的情况下提高美国人口普查数据的准确性。美国人口普查局为 2020 年人口普查实施了一种“避免披露”算法，该算法在每个已发布的统计数据中添加了统计噪声，以维护公民的隐私。为了消除由此造成的数据扭曲，研究人员找到了一种无需重新设计算法即可改善噪声的方法。人口普查局发言人表示，该机构将把这项研究作为其“正在进行的避免披露研究”的一部分进行审查。摘自“美国人口普查数据如果噪音更小可能会更准确”
+《新科学家》（2024 年 10 月 30 日）Jeremy Hsu 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.newscientist.com/article/2454095-simple-fix-could-make-us-census-more-accurate-but-just-as-private/</guid>
+      <pubDate>Fri, 01 Nov 2024 18:12:07 GMT</pubDate>
     </item>
     <item>
-      <title>美国财政部最终决定禁止美国投资中国科技企业</title>
-      <link>https://www.washingtonpost.com/business/2024/10/28/china-investment-treasury/</link>
-      <description><![CDATA[华盛顿邮报美国财政部发布最终规则，限制美国对中国军事应用技术开发的投资和技术援助。该规则自 1 月 2 日起生效，限制美国对一些涉及半导体和微电子、量子计算和人工智能开发的中国企业的融资，并要求美国投资者报告其在其他领域的参与情况。摘自“财政部最终确定禁止美国投资中国科技”
-华盛顿邮报 (2024 年 10 月 28 日) David J. Lynch 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.washingtonpost.com/business/2024/10/28/china-investment-treasury/</guid>
-      <pubDate>Wed, 30 Oct 2024 18:12:08 GMT</pubDate>
+      <title>科罗拉多州意外将投票系统密码泄露到网上</title>
+      <link>https://apnews.com/article/colorado-election-voting-system-passwords-0a71d0c1fe85fc9712d895280fd519a2</link>
+      <description><![CDATA[美联社科罗拉多州选举官员于 10 月 29 日披露，一份带有隐藏标签的电子表格被错误地发布在科罗拉多州州务卿网站上，其中包含投票系统密码，但几个月后才被发现并删除。科罗拉多州州务卿 Jena Griswold 表示，此事并不构成安全威胁，也没有证据表明存在安全漏洞。摘自“科罗拉多州意外将投票系统密码放到网上”
+美联社 (10/29/24) Jesse Bedayn 查看全文]]></description>
+      <guid>https://apnews.com/article/colorado-election-voting-system-passwords-0a71d0c1fe85fc9712d895280fd519a2</guid>
+      <pubDate>Fri, 01 Nov 2024 18:12:06 GMT</pubDate>
     </item>
     <item>
-      <title>中国加强对制造电脑芯片所需矿物的控制</title>
-      <link>https://www.nytimes.com/2024/10/26/business/china-critical-minerals-semiconductors.html</link>
-      <description><![CDATA[《纽约时报》根据新规定，外国半导体制造商将更难获得在中国开采和提炼的稀土金属和其他矿物。自 10 月 1 日起，出口商必须向中国当局提供有关西方供应链中使用稀土金属的分步详细信息。上个月，中国商务部采取行动限制锑出口；去年对芯片制造元素镓和锗实施了出口管制。摘自“中国加强对制造计算机芯片所需矿物的控制”
-《纽约时报》（2024 年 10 月 28 日）Keith Bradsher 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/10/26/business/china-critical-minerals-semiconductors.html</guid>
-      <pubDate>Wed, 30 Oct 2024 18:12:07 GMT</pubDate>
+      <title>美国宣布向奥尔巴尼半导体中心投资 8.25 亿美元</title>
+      <link>https://www.upi.com/Top_News/US/2024/10/31/Commerce-semiconductor-facility-New-your-825-million/4531730377524/</link>
+      <description><![CDATA[UPI美国商务部周四宣布，将投资 8.25 亿美元在纽约州奥尔巴尼建立一个半导体中心。该设施将容纳极紫外加速器技术以及支持该技术的研发。商务部长吉娜·雷蒙多 (Gina Raimondo) (如图) 表示：“我们正在构建一个有弹性的生态系统，它将为从智能手机到先进人工智能的一切提供动力，保障美国国家安全，并在未来几十年保持美国的竞争力。”摘自“美国宣布向奥尔巴尼半导体中心投资 8.25 亿美元”
+UPI (2024 年 10 月 31 日) 克莱德·休斯 查看全文]]></description>
+      <guid>https://www.upi.com/Top_News/US/2024/10/31/Commerce-semiconductor-facility-New-your-825-million/4531730377524/</guid>
+      <pubDate>Fri, 01 Nov 2024 18:12:02 GMT</pubDate>
     </item>
     </channel>
 </rss>

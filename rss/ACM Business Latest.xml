@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 01 Nov 2024 15:09:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 18:12:16 GMT</lastBuildDate>
+    <item>
+      <title>“Airbnb 大富翁”游戏如何解读硅谷与 Lina Khan 的对峙</title>
+      <link>https://www.wired.com/story/airbnbopoly-reid-hoffman-lina-khan-ftc-antitrust/</link>
+      <description><![CDATA[2020 年，LinkedIn 创始人、科技投资者兼 Harris 巨额捐赠者 Reid Hoffman 定制了一块大富翁棋盘，以庆祝 Airbnb 的 IPO。它没有让玩家坐牢，而是让他们接受“政府监管”。]]></description>
+      <guid>https://www.wired.com/story/airbnbopoly-reid-hoffman-lina-khan-ftc-antitrust/</guid>
+      <pubDate>Fri, 01 Nov 2024 18:07:50 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能将比人类更了解人类</title>
       <link>https://www.wired.com/story/plaintext-ai-will-understand-humans-better-than-humans-do/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>人工智能机器人的未来</title>
       <link>https://www.wired.com/story/physical-intelligence-home-robot/</link>
-      <description><![CDATA[Physical Intelligence 是一家资金雄厚的初创公司，致力于在机器人智能方面取得突破，开发出了一种能够出色地完成各种家务的机器人。]]></description>
+      <description><![CDATA[Physical Intelligence 是一家资金雄厚的初创公司，致力于在机器人智能方面取得突破，它开发出了一款能够出色地完成各种家务的机器人。]]></description>
       <guid>https://www.wired.com/story/physical-intelligence-home-robot/</guid>
       <pubDate>Thu, 31 Oct 2024 17:05:59 GMT</pubDate>
     </item>
@@ -83,7 +90,7 @@
       <pubDate>Wed, 30 Oct 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能泛滥</title>
+      <title>人工智能的废料正在淹没媒介</title>
       <link>https://www.wired.com/story/ai-generated-medium-posts-content-moderation/</link>
       <description><![CDATA[博客平台 Medium 正面临大量 AI 生成内容的涌入。首席执行官 Tony Stubblebine 表示，只要没人读，这“就无所谓”。]]></description>
       <guid>https://www.wired.com/story/ai-generated-medium-posts-content-moderation/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[网络上最大的人工智能搜索引擎正在推荐一个被广泛揭穿的观点：白人在基因上优于其他种族。]]></description>
       <guid>https://www.wired.com/story/google-microsoft-perplexity-scientific-racism-search-results-ai/</guid>
       <pubDate>Thu, 24 Oct 2024 09:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>认识一下 ZachXBT，这位蒙面义警正在追查数十亿美元的加密货币诈骗和盗窃案</title>
-      <link>https://www.wired.com/story/meet-zachxbt-243-million-crypto-theft/</link>
-      <description><![CDATA[他刚刚破获了一起价值 2.43 亿美元的比特币盗窃案，这可能是有史以来针对单个受害者的最大加密货币盗窃案。而且他从未露面。]]></description>
-      <guid>https://www.wired.com/story/meet-zachxbt-243-million-crypto-theft/</guid>
-      <pubDate>Thu, 24 Oct 2024 09:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
