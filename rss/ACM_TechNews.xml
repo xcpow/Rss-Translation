@@ -4,102 +4,102 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Mon, 04 Nov 2024 18:11:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 18:11:31 GMT</lastBuildDate>
     <item>
-      <title>边缘神经网络</title>
-      <link>https://www.computerweekly.com/news/366614778/Tokyo-University-of-Science-sets-pace-in-neural-networks-on-edge-IoT</link>
-      <description><![CDATA[《计算机周刊》日本东京理科大学的研究人员开发了一种二值化神经网络 (BNN)，以便在物联网边缘设备和其他资源有限的设备中更有效地实现人工智能。研究人员通过使用基于磁性随机存取存储器 (MRAM) 的内存计算架构，减少了电路尺寸和功耗。这需要创建一个新的 XNOR 逻辑门作为 MRAM 阵列的基础，该阵列使用磁隧道结将信息存储在其磁化状态中。摘自《边缘神经网络》
-《计算机周刊》（2024 年 10 月 28 日）Joe O&#39;Halloran 查看全文]]></description>
-      <guid>https://www.computerweekly.com/news/366614778/Tokyo-University-of-Science-sets-pace-in-neural-networks-on-edge-IoT</guid>
-      <pubDate>Mon, 04 Nov 2024 18:11:59 GMT</pubDate>
+      <title>游戏玩家成为乌克兰最致命的无人机飞行员</title>
+      <link>https://www.wsj.com/world/europe/ukraine-gamers-drone-pilots-russia-85a1af3b</link>
+      <description><![CDATA[《华尔街日报》乌克兰最致命的士兵是无人机飞行员，由于缺少炮弹，乌克兰军队越来越依赖他们。这些无人机飞行员通常是 20 多岁的男性游戏玩家，他们能够灵活地操作配备炸药的第一人称视角无人机 (FPV)，并将其飞向俄罗斯目标。无人机团队的运作方式类似于科技初创公司，指挥中心监控侦察无人机的反馈，协调打击无人机和团队成员创新和维修设备的车间。摘自“游戏玩家成为乌克兰最致命的无人机飞行员”
+《华尔街日报》（11/03/24）詹姆斯·马森； Ievgeniia Sivorka 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/world/europe/ukraine-gamers-drone-pilots-russia-85a1af3b</guid>
+      <pubDate>Wed, 06 Nov 2024 18:11:31 GMT</pubDate>
     </item>
     <item>
-      <title>14 岁少年被评为美国顶尖青年科学家</title>
-      <link>https://interestingengineering.com/culture/america-top-young-scientist-sirish-subash</link>
-      <description><![CDATA[有趣的工程来自佐治亚州斯内尔维尔的九年级学生 Sirish Subash 今年 14 岁，他凭借一款检测农产品农药残留的设备赢得了 3M 青年科学家挑战赛。PestiSCAND 设备在 12,000 多个农产品样本上进行了测试，测量了照射到水果和蔬菜表面时反射回来的光的波长，并识别了由农药残留产生的反射光中的特定图案。摘自“14 岁少年被评为美国顶尖青年科学家”
-有趣的工程 (10/30/24) Sujita Sinha 查看全文]]></description>
-      <guid>https://interestingengineering.com/culture/america-top-young-scientist-sirish-subash</guid>
-      <pubDate>Mon, 04 Nov 2024 18:11:58 GMT</pubDate>
+      <title>地理空间技术揭开墨西哥的秘密坟墓</title>
+      <link>https://www.wired.com/story/how-researchers-are-using-geospatial-technology-to-uncover-mexicos-clandestine-graves/</link>
+      <description><![CDATA[Wired在墨西哥地理空间信息科学研究中心，研究人员使用无人机、高光谱图像、光谱辐射计和其他技术方法来定位失踪人员的秘密坟墓。研究人员还利用先前确定的坟墓坐标和犯罪分子喜欢的地点特征来训练数学模型，并开发出可以在卫星图像中检测氮浓度高（尸体腐烂的指标）地点的工具。摘自“地理空间技术揭开墨西哥的秘密坟墓”
+Wired (11/01/24) Geraldine Castro 查看全文]]></description>
+      <guid>https://www.wired.com/story/how-researchers-are-using-geospatial-technology-to-uncover-mexicos-clandestine-graves/</guid>
+      <pubDate>Wed, 06 Nov 2024 18:11:31 GMT</pubDate>
     </item>
     <item>
-      <title>通过感应振动来窃听电话</title>
-      <link>https://www.newscientist.com/article/2453191-spies-can-eavesdrop-on-phone-calls-by-sensing-vibrations-with-radar/</link>
-      <description><![CDATA[新科学家宾夕法尼亚州立大学的 Suryoday Basak 及其同事使用市售的毫米波传感器拾取三星 Galaxy S20 耳机扬声器播放音频片段时的微小振动。该团队将信号转换为音频，并通过 AI 语音识别模型转录语音。该系统的单词准确率为 50%，字符准确率为 67%。摘自“通过感应振动窃听电话”
-新科学家 (10/31/24) Matthew Sparkes 查看全文]]></description>
-      <guid>https://www.newscientist.com/article/2453191-spies-can-eavesdrop-on-phone-calls-by-sensing-vibrations-with-radar/</guid>
-      <pubDate>Mon, 04 Nov 2024 18:11:58 GMT</pubDate>
+      <title>Meta 允许其 AI 模型用于美国军事目的</title>
+      <link>https://www.nytimes.com/2024/11/04/technology/meta-ai-military.html</link>
+      <description><![CDATA[《纽约时报》Meta 于 11 月 4 日宣布，将允许美国政府机构和从事国家安全工作的承包商将其 AI 模型用于军事目的。此前，Meta 的“可接受使用政策”禁止将其 AI 软件用于军事、战争或核应用。Meta 表示，它将与五眼情报联盟（美国、英国、加拿大、澳大利亚和新西兰）分享其 Llama 开源 AI 模型。摘自“Meta 允许将其 AI 模型用于美国军事目的”
+《纽约时报》（2024 年 11 月 4 日）Mike Isaac 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/11/04/technology/meta-ai-military.html</guid>
+      <pubDate>Wed, 06 Nov 2024 18:11:30 GMT</pubDate>
     </item>
     <item>
-      <title>3D图像重建保护文化遗产</title>
-      <link>https://en.ritsumei.ac.jp/news/detail/?id=996</link>
-      <description><![CDATA[立命馆大学（日本）由日本立命馆大学的田中聪领导的跨国研究团队开发的神经网络可以使用旧照片对雕刻浮雕进行 3D 重建和数字保存。神经网络执行语义分割、深度估计和软边缘检测，这些功能共同提高了 3D 重建的准确性。该网络的核心优势在于深度估计，通过新颖的软边缘检测器和边缘匹配模块实现。摘自“3D 图像重建以保护文化遗产”
-立命馆大学（日本）（2024 年 10 月 31 日） 查看全文]]></description>
-      <guid>https://en.ritsumei.ac.jp/news/detail/?id=996</guid>
-      <pubDate>Mon, 04 Nov 2024 18:11:57 GMT</pubDate>
+      <title>监管机构拒绝电力交易，亚马逊核数据中心梦想受阻</title>
+      <link>https://www.theregister.com/2024/11/04/aws_nuclear_datacenter_ferc/</link>
+      <description><![CDATA[The Register美国联邦能源管理委员会 (FERC) 拒绝了一项交易，该交易允许亚马逊从宾夕法尼亚州的 Susquehanna 核电站获取额外电力，用于位于核电站旁边的 Cumulus 数据中心综合体的新数据中心。FERC 官员表示担心，批准将开创先例，可能会推高能源成本并影响电网可靠性。摘自“亚马逊的核数据中心梦想因监管机构拒绝电力交易而停滞”
+The Register (11/04/24) Dan Robinson 查看全文]]></description>
+      <guid>https://www.theregister.com/2024/11/04/aws_nuclear_datacenter_ferc/</guid>
+      <pubDate>Wed, 06 Nov 2024 18:11:30 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能依赖数十亿吨混凝土</title>
-      <link>https://spectrum.ieee.org/green-concrete</link>
-      <description><![CDATA[IEEE Spectrum数据中心建设中使用的混凝土数量对科技公司消除碳排放和增加对绿色混凝土的需求的承诺构成挑战。作为回应，开放计算项目基金会牵头的一项旨在加快数据中心低碳混凝土测试和部署的计划获得了亚马逊、谷歌、Meta 和微软的支持。摘自“AI 依赖数十亿吨混凝土”
-IEEE Spectrum (10/30/24) Ted C. Fishman 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/green-concrete</guid>
-      <pubDate>Mon, 04 Nov 2024 18:11:57 GMT</pubDate>
+      <title>具有神经系统的无人机通过光传输实时数据</title>
+      <link>https://interestingengineering.com/innovation/drone-with-nervous-system-tested</link>
+      <description><![CDATA[有趣的工程英国南安普顿大学研究人员开发的无人机不需要频繁的维护检查，通过使用先进的光纤，无人机变得更加安全、高效。光纤系统就像人类的神经系统一样，不断检查无人机的结构。南安普顿大学的 Chris Holmes 表示，无人机使用光传递实时信息，“这避免了电子系统受到无线电频率干扰的问题。”摘自“带有神经系统的无人机通过光传输实时数据”
+有趣的工程 (11/01/24) Kapil Kajal 查看全文]]></description>
+      <guid>https://interestingengineering.com/innovation/drone-with-nervous-system-tested</guid>
+      <pubDate>Wed, 06 Nov 2024 18:11:29 GMT</pubDate>
     </item>
     <item>
-      <title>马斯克称 X 用户反对虚假信息。虚假信息正在获胜</title>
-      <link>https://www.washingtonpost.com/technology/2024/10/30/elon-musk-x-fact-check-community-notes-misinformation/</link>
-      <description><![CDATA[《华盛顿邮报》非营利性反数字仇恨中心发现，X 的社区笔记未能打击虚假信息。众包计划允许贡献者提出揭穿真相或为帖子提供额外背景的笔记；只有获得参与者共识的笔记才会公开显示。对 283 条包含虚假或误导性选举声明的帖子的分析发现，229 条帖子中提出的社区笔记提供了准确的背景，但达成共识后，只有 20 条帖子公开附上了笔记。摘自“马斯克称 X 用户打击虚假信息。虚假信息正在获胜”
-《华盛顿邮报》（2024 年 10 月 30 日）威尔·奥雷穆斯；特丽莎·塔达尼； Jeremy B. Merrill 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.washingtonpost.com/technology/2024/10/30/elon-musk-x-fact-check-community-notes-misinformation/</guid>
-      <pubDate>Mon, 04 Nov 2024 18:11:57 GMT</pubDate>
+      <title>太空传感器捕捉闪电数据</title>
+      <link>https://spectrum.ieee.org/lightning-map</link>
+      <description><![CDATA[IEEE Spectrum澳大利亚西悉尼大学和爱荷华大学的研究人员开发了一种工具，利用一对神经形态视觉传感器从太空捕捉雷击图像。Falcon Neuro 工具记录可见光和近红外光，并记录场景内光照水平的变化。国际空间站的测试表明，该设备可以以每秒 3 到 4 兆比特的数据速率收集雷击细节。摘自“太空传感器捕获雷电数据”
+IEEE Spectrum (11/05/24) Rachel Berkowitz 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/lightning-map</guid>
+      <pubDate>Wed, 06 Nov 2024 18:11:29 GMT</pubDate>
     </item>
     <item>
-      <title>零点击漏洞使流行存储设备遭受攻击</title>
-      <link>https://www.wired.com/story/synology-zero-click-vulnerability/</link>
-      <description><![CDATA[Wired荷兰安全咨询公司 Midnight Blue 的研究人员发现了一个零点击漏洞，该漏洞会影响台湾 Synology 生产的流行网络连接存储设备上默认安装的照片应用程序。该漏洞是在爱尔兰最近举行的 Pwn2Own 黑客大赛中发现的，攻击者可以利用该漏洞访问设备，窃取个人和公司文件、植入后门或使用勒索软件感染系统。摘自“零点击漏洞使流行存储设备面临攻击”
-Wired (11/01/24) Kim Zetter 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wired.com/story/synology-zero-click-vulnerability/</guid>
-      <pubDate>Mon, 04 Nov 2024 18:11:56 GMT</pubDate>
+      <title>卫星工具扫描海滩上的塑料污染</title>
+      <link>https://www.abc.net.au/news/2024-11-01/algorithm-to-help-clean-up-plastic-waste-from-space/104551662</link>
+      <description><![CDATA[澳大利亚广播公司澳大利亚皇家墨尔本理工大学 (RMIT) 的研究人员开发了一种算法，利用 617 公里（383 英里）上空的卫星图像识别海滩上的塑料垃圾。海滩塑料碎片指数算法可以区分沙子、塑料和水对光的反射方式的差异。 RMIT 的 Jenna Guffogg 表示：“从北极到南极，从山顶到海底，我们到处都能发现塑料。”摘自“卫星工具扫描海滩上的塑料污染”
+澳大利亚广播公司 (11/01/24) Angus Mackintosh 查看全文]]></description>
+      <guid>https://www.abc.net.au/news/2024-11-01/algorithm-to-help-clean-up-plastic-waste-from-space/104551662</guid>
+      <pubDate>Wed, 06 Nov 2024 18:11:28 GMT</pubDate>
     </item>
     <item>
-      <title>投票权利组织担心聊天机器人会用西班牙语发表选举谎言</title>
-      <link>https://apnews.com/article/ai-chatbots-chatgpt-falsehoods-spanish-latino-voters-d4ffabdc006a7c70eece3e28efa3de90</link>
-      <description><![CDATA[美联社两家非营利新闻机构与新泽西州高等研究院科学、技术和社会价值实验室合作进行的一项分析发现，在美国总统大选前夕，人工智能聊天机器人用西班牙语发表的关于投票权的虚假言论比用英语发表的要多。研究人员评估了 Meta 的 Llama 3、Anthropic 的 Claude 和谷歌的 Gemini 对特定选举提示的回答，发现它们在用西班牙语发表的回答中有一半以上都是不正确的信息。摘自“投票权组织担心聊天机器人用西班牙语发表选举谎言”
-美联社 (10/31/24) Gisela Salomon；Garance Burke；乔纳森·J·库珀 查看全文]]></description>
-      <guid>https://apnews.com/article/ai-chatbots-chatgpt-falsehoods-spanish-latino-voters-d4ffabdc006a7c70eece3e28efa3de90</guid>
-      <pubDate>Mon, 04 Nov 2024 18:11:56 GMT</pubDate>
+      <title>漏洞使智能工厂设备面临网络攻击</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/critical-auth-bugs-smart-factory-cyberattack</link>
+      <description><![CDATA[Dark Reading美国网络安全和基础设施安全局 (CISA) 表示，三菱电机和罗克韦尔自动化的工厂自动化软件存在严重的安全漏洞，可能导致远程代码执行、身份验证绕过、产品篡改或拒绝服务。三菱电机漏洞可能让攻击者在连接到设备时调用带有恶意库路径的函数，而罗克韦尔自动化漏洞可能让具有网络访问权限的攻击者利用缺少的身份验证检查向设备发送精心设计的消息。摘自“漏洞使智能工厂设备面临网络攻击”
+Dark Reading (11/01/24) Tara Seals 查看全文]]></description>
+      <guid>https://www.darkreading.com/vulnerabilities-threats/critical-auth-bugs-smart-factory-cyberattack</guid>
+      <pubDate>Wed, 06 Nov 2024 18:11:28 GMT</pubDate>
     </item>
     <item>
-      <title>中国研究人员利用 Meta 的法学硕士学位建立军事用途模型</title>
-      <link>https://www.reuters.com/technology/artificial-intelligence/chinese-researchers-develop-ai-model-military-use-back-metas-llama-2024-11-01/</link>
-      <description><![CDATA[路透社与中国人民解放军有关的中国研究机构使用 Meta 的 Llama 大型语言模型 (LLM) 开发了一种可用于潜在军事应用的 AI 工具。研究人员将自己的参数添加到 Meta 的 Llama 13B（LLM 的早期版本）中，以构建 ChatBIT，这是一种可以收集和处理情报并为作战决策提供可靠信息的 AI 工具。摘自“中国研究人员利用 Meta 的 LLM 为中国军事用途构建模型”
-路透社 (11/01/24) James Pomfret；Jessie Pang；Katie Paul；等人 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/artificial-intelligence/chinese-researchers-develop-ai-model-military-use-back-metas-llama-2024-11-01/</guid>
-      <pubDate>Mon, 04 Nov 2024 18:11:55 GMT</pubDate>
+      <title>微软试图减少其碳足迹</title>
+      <link>https://www.geekwire.com/2024/microsoft-tries-to-whittle-down-its-carbon-footprint-by-building-data-centers-with-engineered-timber/</link>
+      <description><![CDATA[GeekWire微软在弗吉尼亚州北部建造两个数据中心时使用了工程木材产品。该材料由粘合在一起的木板组成，每层交替使用纹理方向。这家软件巨头表示，这些设施还将采用钢铁和混凝土，其碳足迹将比类似的主要由钢铁组成的设施低 35%，比主要由预制混凝土组成的类似设施低 65%。摘自“微软试图减少碳足迹”
+GeekWire (10/31/24) Lisa Stiffler 查看全文]]></description>
+      <guid>https://www.geekwire.com/2024/microsoft-tries-to-whittle-down-its-carbon-footprint-by-building-data-centers-with-engineered-timber/</guid>
+      <pubDate>Wed, 06 Nov 2024 18:11:28 GMT</pubDate>
     </item>
     <item>
-      <title>湾区被选为美国半导体技术中心所在地</title>
-      <link>https://www.sfchronicle.com/bayarea/article/bay-area-chosen-national-semiconductor-center-19880011.php</link>
-      <description><![CDATA[旧金山纪事报旧金山湾区将设立国家半导体技术中心，该中心将由《芯片和科学法案》资助建设。据加州州长加文·纽森办公室称，该中心是美国三个芯片研究和设计设施之一，预计将产生超过 10 亿美元的研究资金。摘自“湾区被选为美国半导体技术中心所在地”
-旧金山纪事报 (11/01/24) Aidin Vaziri 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.sfchronicle.com/bayarea/article/bay-area-chosen-national-semiconductor-center-19880011.php</guid>
-      <pubDate>Mon, 04 Nov 2024 18:11:55 GMT</pubDate>
+      <title>日本与美国芯片初创公司合作培训工程师</title>
+      <link>https://www.reuters.com/technology/japan-taps-us-chip-startup-tenstorrent-help-train-new-wave-engineers-2024-11-05/</link>
+      <description><![CDATA[路透社硅谷 AI 芯片初创公司 Tenstorrent 将在五年内在其美国办事处培训多达 200 名日本芯片设计师，这是与日本政府达成的一项协议的一部分，旨在支持其落后的半导体行业。此举旨在推动日本 Rapidus 芯片工厂的业务发展，该工厂计划于 2027 年开始量产。根据协议条款，日本工程师将学习使用免费和开放的芯片设计技术 RISC-V 创建芯片蓝图。摘自“日本利用美国芯片初创公司培训工程师”
+路透社 (11/05/24) Stephen Nellis 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/japan-taps-us-chip-startup-tenstorrent-help-train-new-wave-engineers-2024-11-05/</guid>
+      <pubDate>Wed, 06 Nov 2024 18:11:27 GMT</pubDate>
     </item>
     <item>
-      <title>由 Ozempic 出资建造的超级计算机将改变一个国家</title>
-      <link>https://www.wsj.com/tech/ai/nvidia-ozempic-novo-nordisk-gefion-ai-supercomputer-bed48309</link>
-      <description><![CDATA[华尔街日报丹麦的国家人工智能超级计算机近日揭幕，它采用了英伟达的技术，并得到了诺和诺德基金会的资助，该基金会是诺和诺德的最大股东，而诺和诺德是减肥重磅药物Ozempic和Wegovy的生产商。一旦全面投入使用，企业家、学者和 Novo Nordisk 等公司内部的科学家都可以使用它，这些公司将从其在药物发现、蛋白质设计和数字生物学方面的帮助中受益。摘自“由 Ozempic 出资建造的超级计算机将改变一个国家”
-华尔街日报 (11/02/24) Ben Cohen 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/tech/ai/nvidia-ozempic-novo-nordisk-gefion-ai-supercomputer-bed48309</guid>
-      <pubDate>Mon, 04 Nov 2024 18:11:54 GMT</pubDate>
+      <title>虚假信息监督机构面临压力，拒绝停止</title>
+      <link>https://www.nytimes.com/2024/11/01/technology/election-disinformation.html</link>
+      <description><![CDATA[《纽约时报》面对政治和法律压力，华盛顿大学知情公众中心继续努力打击网络虚假信息，一支本科生团队使用市面上可用的工具在互联网上搜寻与选举有关的谣言。该中心创始人之一凯特·斯塔伯德 (Kate Starbird) 表示：“我们必须进行分类，决定我们想要报道哪些谣言，我们认为哪些谣言最有影响力，哪些谣言将有影响力，哪些谣言可能成为下一次‘阻止窃取’行动的典范。”摘自《虚假信息监督机构面临压力，拒绝停止》
+《纽约时报》 (11/01/24) 史蒂文·李·迈尔斯 (Steven Lee Myers)； Stuart A. Thompson 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/11/01/technology/election-disinformation.html</guid>
+      <pubDate>Wed, 06 Nov 2024 18:11:27 GMT</pubDate>
     </item>
     <item>
-      <title>教科书活起来</title>
-      <link>https://www.colorado.edu/today/2024/11/01/textbooks-come-alive-new-interactive-ai-tool</link>
-      <description><![CDATA[科罗拉多大学博尔德分校今日科罗拉多大学博尔德分校的 Ryo Suzuki 领导的计算机科学家重新构想了物理教科书，以便学生可以在 iPad 上记录图表以调整设置并亲眼看到更改的影响。增强物理工具依赖于名为 Segment Anything 的元模型，这是一种计算机可视化工具，允许用户隔离照片中的特定对象。学生可以选择图表内的各种对象并分配这些对象的角色；然后，AI 应用一些基本物理原理来使这些对象移动。摘自“教科书活起来”
-科罗拉多大学博尔德分校今日 (11/01/24) Daniel Strain 查看全文]]></description>
-      <guid>https://www.colorado.edu/today/2024/11/01/textbooks-come-alive-new-interactive-ai-tool</guid>
-      <pubDate>Mon, 04 Nov 2024 18:11:54 GMT</pubDate>
+      <title>美国有多少科技领域的工作机会？</title>
+      <link>https://www.computerworld.com/article/1618780/how-many-jobs-are-available-in-technology.html</link>
+      <description><![CDATA[Computerworld美国劳工统计局报告称，10 月份科技行业失业率从 9 月份的 2.5% 略微上升至 2.6%，而整体失业率达到 4.1%。根据非营利组织 CompTIA 的数据，10 月份雇主发布的科技职位招聘信息总计 528,402 个，其中包括近 223,000 个新职位。环比增长最大的是数据库架构师和网络及计算机系统管理员职位，分别增长了 10% 和 6%。摘自“美国有多少科技工作机会？”
+Computerworld (11/01/24) Lucas Mearian 查看全文]]></description>
+      <guid>https://www.computerworld.com/article/1618780/how-many-jobs-are-available-in-technology.html</guid>
+      <pubDate>Wed, 06 Nov 2024 18:11:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
