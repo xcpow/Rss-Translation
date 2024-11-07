@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 07 Nov 2024 15:08:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 18:11:55 GMT</lastBuildDate>
+    <item>
+      <title>科技巨头希望你重返办公室</title>
+      <link>https://www.wired.com/story/uncanny-valley-podcast-2-big-tech-return-to-office/</link>
+      <description><![CDATA[这些重返办公室的要求背后到底有什么意义呢？]]></description>
+      <guid>https://www.wired.com/story/uncanny-valley-podcast-2-big-tech-return-to-office/</guid>
+      <pubDate>Thu, 07 Nov 2024 17:20:52 GMT</pubDate>
+    </item>
     <item>
       <title>Houseparty 的创造者回来了。这次他要挑战 Slack 和 Discord</title>
       <link>https://www.wired.com/story/the-creator-of-houseparty-is-back-this-time-hes-taking-on-slack-and-discord/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[如果你认为美国现在政治上存在分歧，那就等着看人工智能文化战争吧。]]></description>
       <guid>https://www.wired.com/llm-political-bias/</guid>
       <pubDate>Wed, 30 Oct 2024 17:59:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧洲科技巨头为后拜登时代做好准备</title>
-      <link>https://www.wired.com/story/europe-big-tech-hawks-biden-trump-harris-us-electio/</link>
-      <description><![CDATA[欧洲遏制美国科技巨头的雄心取决于选举结果，以及反垄断激进分子莉娜·汗 (Lina Khan) 的命运。]]></description>
-      <guid>https://www.wired.com/story/europe-big-tech-hawks-biden-trump-harris-us-electio/</guid>
-      <pubDate>Wed, 30 Oct 2024 15:05:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
