@@ -4,11 +4,18 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 07 Nov 2024 18:11:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 21:07:51 GMT</lastBuildDate>
+    <item>
+      <title>唐纳德·特朗普的胜利对大型科技公司意味着什么</title>
+      <link>https://www.wired.com/story/trump-tech-policy/</link>
+      <description><![CDATA[唐纳德·特朗普对待大型科技公司的态度摇摆不定，一方面要求对某些参与者实施更严格的监管，另一方面又对其他参与者采取放任不管的态度。以下是他在第二任期内可能采取的科技政策。]]></description>
+      <guid>https://www.wired.com/story/trump-tech-policy/</guid>
+      <pubDate>Thu, 07 Nov 2024 20:00:17 GMT</pubDate>
+    </item>
     <item>
       <title>科技巨头希望你重返办公室</title>
       <link>https://www.wired.com/story/uncanny-valley-podcast-2-big-tech-return-to-office/</link>
-      <description><![CDATA[这些重返办公室的要求背后到底有什么意义呢？]]></description>
+      <description><![CDATA[这些重返办公室要求的背后究竟有什么意义呢？]]></description>
       <guid>https://www.wired.com/story/uncanny-valley-podcast-2-big-tech-return-to-office/</guid>
       <pubDate>Thu, 07 Nov 2024 17:20:52 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[生成式人工智能的竞争也是计算能力的竞争。根据 CEO 马克·扎克伯格的说法，从这一点来看，Meta 似乎胜券在握。]]></description>
       <guid>https://www.wired.com/story/meta-llama-ai-gpu-training/</guid>
       <pubDate>Thu, 31 Oct 2024 00:00:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>伊隆·马斯克对“觉醒人工智能”的批评表明 ChatGPT 可能是特朗普政府的目标</title>
-      <link>https://www.wired.com/llm-political-bias/</link>
-      <description><![CDATA[如果你认为美国现在政治上存在分歧，那就等着看人工智能文化战争吧。]]></description>
-      <guid>https://www.wired.com/llm-political-bias/</guid>
-      <pubDate>Wed, 30 Oct 2024 17:59:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
