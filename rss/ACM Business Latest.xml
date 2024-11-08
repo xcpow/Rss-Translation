@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 08 Nov 2024 12:15:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 15:08:44 GMT</lastBuildDate>
+    <item>
+      <title>唐纳德·特朗普并不是唯一的混乱制造者</title>
+      <link>https://www.wired.com/story/plaintext-donald-trump-isnt-the-only-chaos-agent/</link>
+      <description><![CDATA[他甚至不是最大的一个。巨大的变化将来自科技——来自人工智能。]]></description>
+      <guid>https://www.wired.com/story/plaintext-donald-trump-isnt-the-only-chaos-agent/</guid>
+      <pubDate>Fri, 08 Nov 2024 15:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>唐纳德·特朗普的胜利对大型科技公司意味着什么</title>
       <link>https://www.wired.com/story/trump-tech-policy/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[人工智能真的会改变世界吗？工作和社交会被限制在虚拟世界中吗？《恐怖谷》带你深入了解硅谷的人物、权力和影响力。]]></description>
       <guid>https://www.wired.com/story/introducing-new-podcast-uncanny-valley/</guid>
       <pubDate>Thu, 31 Oct 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 的下一代 Llama AI 模型正在“比任何东西都大”的 GPU 集群上进行训练</title>
-      <link>https://www.wired.com/story/meta-llama-ai-gpu-training/</link>
-      <description><![CDATA[生成式人工智能的竞争也是计算能力的竞争。根据 CEO 马克·扎克伯格的说法，从这一点来看，Meta 似乎胜券在握。]]></description>
-      <guid>https://www.wired.com/story/meta-llama-ai-gpu-training/</guid>
-      <pubDate>Thu, 31 Oct 2024 00:00:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
