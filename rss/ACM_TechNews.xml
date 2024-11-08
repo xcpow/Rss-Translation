@@ -4,102 +4,110 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Wed, 06 Nov 2024 18:11:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 18:11:18 GMT</lastBuildDate>
     <item>
-      <title>游戏玩家成为乌克兰最致命的无人机飞行员</title>
-      <link>https://www.wsj.com/world/europe/ukraine-gamers-drone-pilots-russia-85a1af3b</link>
-      <description><![CDATA[《华尔街日报》乌克兰最致命的士兵是无人机飞行员，由于缺少炮弹，乌克兰军队越来越依赖他们。这些无人机飞行员通常是 20 多岁的男性游戏玩家，他们能够灵活地操作配备炸药的第一人称视角无人机 (FPV)，并将其飞向俄罗斯目标。无人机团队的运作方式类似于科技初创公司，指挥中心监控侦察无人机的反馈，协调打击无人机和团队成员创新和维修设备的车间。摘自“游戏玩家成为乌克兰最致命的无人机飞行员”
-《华尔街日报》（11/03/24）詹姆斯·马森； Ievgeniia Sivorka 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/world/europe/ukraine-gamers-drone-pilots-russia-85a1af3b</guid>
-      <pubDate>Wed, 06 Nov 2024 18:11:31 GMT</pubDate>
+      <title>延世大学启动韩国首个量子计算中心</title>
+      <link>https://www.chosun.com/english/industry-en/2024/11/05/MQJYBCRFNNELZB5DYAT64BCWBU/</link>
+      <description><![CDATA[朝鲜日报 (韩国)延世大学建立了韩国首个量子计算中心，拥有 127 量子比特 IBM 量子计算机。延世大学位于松岛的量子计算中心将于 11 月 20 日全面投入运营，重点关注生物技术应用。量子计算中心附近正在建设一个量子研究综合体，它将为企业提供工作空间，以使用量子计算资源并与学术研究人员一起开展项目。摘自“延世大学启动韩国首个量子计算机中心”
+朝鲜日报 (韩国) (11/05/24) 朴智敏；刘智涵；金瑞英]]></description>
+      <guid>https://www.chosun.com/english/industry-en/2024/11/05/MQJYBCRFNNELZB5DYAT64BCWBU/</guid>
+      <pubDate>Fri, 08 Nov 2024 18:11:18 GMT</pubDate>
     </item>
     <item>
-      <title>地理空间技术揭开墨西哥的秘密坟墓</title>
-      <link>https://www.wired.com/story/how-researchers-are-using-geospatial-technology-to-uncover-mexicos-clandestine-graves/</link>
-      <description><![CDATA[Wired在墨西哥地理空间信息科学研究中心，研究人员使用无人机、高光谱图像、光谱辐射计和其他技术方法来定位失踪人员的秘密坟墓。研究人员还利用先前确定的坟墓坐标和犯罪分子喜欢的地点特征来训练数学模型，并开发出可以在卫星图像中检测氮浓度高（尸体腐烂的指标）地点的工具。摘自“地理空间技术揭开墨西哥的秘密坟墓”
-Wired (11/01/24) Geraldine Castro 查看全文]]></description>
-      <guid>https://www.wired.com/story/how-researchers-are-using-geospatial-technology-to-uncover-mexicos-clandestine-graves/</guid>
-      <pubDate>Wed, 06 Nov 2024 18:11:31 GMT</pubDate>
+      <title>亚马逊获得美国联邦航空管理局批准使用新型送货无人机</title>
+      <link>https://www.cnbc.com/2024/11/05/amazon-gets-faa-approval-for-new-drone-as-it-starts-tests-in-arizona.html</link>
+      <description><![CDATA[CNBC亚马逊获得美国联邦航空管理局 (FAA) 的监管批准，开始试飞一款更小、更安静的送货无人机，包括允许其飞行距离更长、飞行范围超出飞行员的视线范围。FAA 于 5 月为亚马逊的 Prime Air 计划提供了类似的豁免，但仅限于德克萨斯州大学城的航班。然而，当地居民抱怨噪音水平过高，促使市长在致 FAA 的一封信中提到了这些担忧。摘自“亚马逊获得 FAA 批准生产新型送货无人机”
+CNBC（2024 年 11 月 5 日）Annie Palmer 查看全文]]></description>
+      <guid>https://www.cnbc.com/2024/11/05/amazon-gets-faa-approval-for-new-drone-as-it-starts-tests-in-arizona.html</guid>
+      <pubDate>Fri, 08 Nov 2024 18:11:17 GMT</pubDate>
     </item>
     <item>
-      <title>Meta 允许其 AI 模型用于美国军事目的</title>
-      <link>https://www.nytimes.com/2024/11/04/technology/meta-ai-military.html</link>
-      <description><![CDATA[《纽约时报》Meta 于 11 月 4 日宣布，将允许美国政府机构和从事国家安全工作的承包商将其 AI 模型用于军事目的。此前，Meta 的“可接受使用政策”禁止将其 AI 软件用于军事、战争或核应用。Meta 表示，它将与五眼情报联盟（美国、英国、加拿大、澳大利亚和新西兰）分享其 Llama 开源 AI 模型。摘自“Meta 允许将其 AI 模型用于美国军事目的”
-《纽约时报》（2024 年 11 月 4 日）Mike Isaac 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/11/04/technology/meta-ai-military.html</guid>
-      <pubDate>Wed, 06 Nov 2024 18:11:30 GMT</pubDate>
+      <title>低成本、可扩展的无源传感器</title>
+      <link>https://today.ucsd.edu/story/uc-san-diego-researchers-develop-low-cost-scalable-passive-sensors</link>
+      <description><![CDATA[加州大学圣地亚哥分校今日加州大学圣地亚哥分校的研究人员重新利用射频识别 (RFID) 标签进行无电池被动感应和跟踪。加州大学圣地亚哥分校的 Nagarjun Bhat（如图）解释说：“您不需要任何花哨的接口、专用读取器或电池来访问数据 - 您所需要的只是一些市售的 RFID 标签、天线和读取器。”摘自“低成本、可扩展的无源传感器”
+加州大学圣地亚哥分校今日 (11/05/24) Phoebe Skok 查看全文]]></description>
+      <guid>https://today.ucsd.edu/story/uc-san-diego-researchers-develop-low-cost-scalable-passive-sensors</guid>
+      <pubDate>Fri, 08 Nov 2024 18:11:17 GMT</pubDate>
     </item>
     <item>
-      <title>监管机构拒绝电力交易，亚马逊核数据中心梦想受阻</title>
-      <link>https://www.theregister.com/2024/11/04/aws_nuclear_datacenter_ferc/</link>
-      <description><![CDATA[The Register美国联邦能源管理委员会 (FERC) 拒绝了一项交易，该交易允许亚马逊从宾夕法尼亚州的 Susquehanna 核电站获取额外电力，用于位于核电站旁边的 Cumulus 数据中心综合体的新数据中心。FERC 官员表示担心，批准将开创先例，可能会推高能源成本并影响电网可靠性。摘自“亚马逊的核数据中心梦想因监管机构拒绝电力交易而停滞”
-The Register (11/04/24) Dan Robinson 查看全文]]></description>
-      <guid>https://www.theregister.com/2024/11/04/aws_nuclear_datacenter_ferc/</guid>
-      <pubDate>Wed, 06 Nov 2024 18:11:30 GMT</pubDate>
+      <title>德国法律可以保护网络安全研究人员</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/germany-law-protect-researchers-reporting-vulns</link>
+      <description><![CDATA[Dark Reading德国联邦司法部起草了一项立法，旨在保护发现并向供应商报告安全漏洞的安全研究人员。研究人员要想获得保护，他们的行动必须旨在识别 IT 系统中的漏洞或安全风险，并且必须有向负责解决该问题的人员报告漏洞的意图。摘自“德国法律可以保护网络安全研究人员”
+Dark Reading (11/06/24) 查看全文]]></description>
+      <guid>https://www.darkreading.com/cybersecurity-operations/germany-law-protect-researchers-reporting-vulns</guid>
+      <pubDate>Fri, 08 Nov 2024 18:11:16 GMT</pubDate>
     </item>
     <item>
-      <title>具有神经系统的无人机通过光传输实时数据</title>
-      <link>https://interestingengineering.com/innovation/drone-with-nervous-system-tested</link>
-      <description><![CDATA[有趣的工程英国南安普顿大学研究人员开发的无人机不需要频繁的维护检查，通过使用先进的光纤，无人机变得更加安全、高效。光纤系统就像人类的神经系统一样，不断检查无人机的结构。南安普顿大学的 Chris Holmes 表示，无人机使用光传递实时信息，“这避免了电子系统受到无线电频率干扰的问题。”摘自“带有神经系统的无人机通过光传输实时数据”
-有趣的工程 (11/01/24) Kapil Kajal 查看全文]]></description>
-      <guid>https://interestingengineering.com/innovation/drone-with-nervous-system-tested</guid>
-      <pubDate>Wed, 06 Nov 2024 18:11:29 GMT</pubDate>
+      <title>韩国打击 Deepfake 色情内容泛滥</title>
+      <link>https://www.abc.net.au/news/2024-11-07/south-korea-fights-deepfake-porn-tougher-punishment-regulation/104570172</link>
+      <description><![CDATA[澳大利亚广播公司官员们宣布了遏制韩国深度伪造色情激增的若干措施，包括对违法者进行更严厉的惩罚、扩大卧底警察的使用范围以及对社交媒体平台进行更严格的监管。8 月份，未经证实的受害者学校名单在网上传播后，人们对深度伪造的担忧加剧。作为回应，许多女孩和妇女从她们的社交媒体账户中删除了照片和视频。摘自“韩国打击深度伪造色情激增”
+澳大利亚广播公司 (11/06/24) 查看全文]]></description>
+      <guid>https://www.abc.net.au/news/2024-11-07/south-korea-fights-deepfake-porn-tougher-punishment-regulation/104570172</guid>
+      <pubDate>Fri, 08 Nov 2024 18:11:16 GMT</pubDate>
     </item>
     <item>
-      <title>太空传感器捕捉闪电数据</title>
-      <link>https://spectrum.ieee.org/lightning-map</link>
-      <description><![CDATA[IEEE Spectrum澳大利亚西悉尼大学和爱荷华大学的研究人员开发了一种工具，利用一对神经形态视觉传感器从太空捕捉雷击图像。Falcon Neuro 工具记录可见光和近红外光，并记录场景内光照水平的变化。国际空间站的测试表明，该设备可以以每秒 3 到 4 兆比特的数据速率收集雷击细节。摘自“太空传感器捕获雷电数据”
-IEEE Spectrum (11/05/24) Rachel Berkowitz 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/lightning-map</guid>
-      <pubDate>Wed, 06 Nov 2024 18:11:29 GMT</pubDate>
+      <title>空气炸锅可能正在监视消费者</title>
+      <link>https://www.infosecurity-magazine.com/news/chinese-air-fryers-spying/</link>
+      <description><![CDATA[Infosecurity Magazine英国消费者权益组织 Which? 发现中国空气炸锅和其他产品存在“过度智能设备监控”的证据。Which? 报道称，小米、Cosori 和 Aigostar 的智能空气炸锅都想知道客户的精确位置，并寻求在用户手机上录音的许可。它还发现 Aigostar 和小米的产品将个人用户数据发送到中国的服务器。摘自“空气炸锅可能在监视消费者”
+Infosecurity Magazine (11/05/24) Phil Muncaster 查看全文]]></description>
+      <guid>https://www.infosecurity-magazine.com/news/chinese-air-fryers-spying/</guid>
+      <pubDate>Fri, 08 Nov 2024 18:11:16 GMT</pubDate>
     </item>
     <item>
-      <title>卫星工具扫描海滩上的塑料污染</title>
-      <link>https://www.abc.net.au/news/2024-11-01/algorithm-to-help-clean-up-plastic-waste-from-space/104551662</link>
-      <description><![CDATA[澳大利亚广播公司澳大利亚皇家墨尔本理工大学 (RMIT) 的研究人员开发了一种算法，利用 617 公里（383 英里）上空的卫星图像识别海滩上的塑料垃圾。海滩塑料碎片指数算法可以区分沙子、塑料和水对光的反射方式的差异。 RMIT 的 Jenna Guffogg 表示：“从北极到南极，从山顶到海底，我们到处都能发现塑料。”摘自“卫星工具扫描海滩上的塑料污染”
-澳大利亚广播公司 (11/01/24) Angus Mackintosh 查看全文]]></description>
-      <guid>https://www.abc.net.au/news/2024-11-01/algorithm-to-help-clean-up-plastic-waste-from-space/104551662</guid>
-      <pubDate>Wed, 06 Nov 2024 18:11:28 GMT</pubDate>
+      <title>Roblox 宣布针对 13 岁以下儿童的安全功能</title>
+      <link>https://www.bbc.com/news/articles/cwy9kry4lvko</link>
+      <description><![CDATA[BBC 新闻在线游戏平台 Roblox 为 13 岁以下儿童引入了额外的安全功能。从 11 月 18 日开始，青少年将被禁止访问玩家可以通过文字和语音互相交谈的在线空间。从同一天开始，13 岁以下的儿童也将无法使用“自由形式的 2D 用户创作”，该创作允许用户以 2D 形式绘画或书写，并将这些创作复制给其他用户，而无需经过 Roblox 审核。摘自“Roblox 宣布为 13 岁以下儿童提供安全功能”
+BBC 新闻 (11/07/24) Tom Gerken 查看全文]]></description>
+      <guid>https://www.bbc.com/news/articles/cwy9kry4lvko</guid>
+      <pubDate>Fri, 08 Nov 2024 18:11:15 GMT</pubDate>
     </item>
     <item>
-      <title>漏洞使智能工厂设备面临网络攻击</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/critical-auth-bugs-smart-factory-cyberattack</link>
-      <description><![CDATA[Dark Reading美国网络安全和基础设施安全局 (CISA) 表示，三菱电机和罗克韦尔自动化的工厂自动化软件存在严重的安全漏洞，可能导致远程代码执行、身份验证绕过、产品篡改或拒绝服务。三菱电机漏洞可能让攻击者在连接到设备时调用带有恶意库路径的函数，而罗克韦尔自动化漏洞可能让具有网络访问权限的攻击者利用缺少的身份验证检查向设备发送精心设计的消息。摘自“漏洞使智能工厂设备面临网络攻击”
-Dark Reading (11/01/24) Tara Seals 查看全文]]></description>
-      <guid>https://www.darkreading.com/vulnerabilities-threats/critical-auth-bugs-smart-factory-cyberattack</guid>
-      <pubDate>Wed, 06 Nov 2024 18:11:28 GMT</pubDate>
+      <title>便携式照明系统将日常物品数字化</title>
+      <link>https://news.mit.edu/2024/portable-light-system-can-digitize-everyday-objects-1106</link>
+      <description><![CDATA[MIT 新闻麻省理工学院、加州大学伯克利分校和丹麦奥胡斯大学的研究人员开发了一种便携式照明系统和设计工具，可以数字化改变不同物体的颜色和纹理。PortaChrome 具有紫外线和红色、绿色和蓝色 LED，可以环绕各种物体，这些物体可以通过光致变色染料重新编程（其外观可以通过数字方式改变）。摘自“便携式照明系统将日常物品数字化”
+MIT 新闻 (11/06/24) Alex Shipps 查看全文]]></description>
+      <guid>https://news.mit.edu/2024/portable-light-system-can-digitize-everyday-objects-1106</guid>
+      <pubDate>Fri, 08 Nov 2024 18:11:15 GMT</pubDate>
     </item>
     <item>
-      <title>微软试图减少其碳足迹</title>
-      <link>https://www.geekwire.com/2024/microsoft-tries-to-whittle-down-its-carbon-footprint-by-building-data-centers-with-engineered-timber/</link>
-      <description><![CDATA[GeekWire微软在弗吉尼亚州北部建造两个数据中心时使用了工程木材产品。该材料由粘合在一起的木板组成，每层交替使用纹理方向。这家软件巨头表示，这些设施还将采用钢铁和混凝土，其碳足迹将比类似的主要由钢铁组成的设施低 35%，比主要由预制混凝土组成的类似设施低 65%。摘自“微软试图减少碳足迹”
-GeekWire (10/31/24) Lisa Stiffler 查看全文]]></description>
-      <guid>https://www.geekwire.com/2024/microsoft-tries-to-whittle-down-its-carbon-footprint-by-building-data-centers-with-engineered-timber/</guid>
-      <pubDate>Wed, 06 Nov 2024 18:11:28 GMT</pubDate>
+      <title>生物打印机快速模拟从大脑到骨骼的组织</title>
+      <link>https://www.theengineer.co.uk/content/news/bioprinter-rapidly-mimics-tissues-from-brain-to-bone</link>
+      <description><![CDATA[工程师澳大利亚墨尔本大学的研究人员开发了一种 3D 生物打印技术，可以快速创建几乎任何人体组织的精确类似物。该平台使用基于光学的系统，其中振动气泡可在几秒钟内 3D 打印细胞结构。研究人员表示，该技术可以更准确地定位细胞，从而更好地复制人体组织。摘自“生物打印机快速模拟从大脑到骨骼的组织”
+工程师 (11/04/24) 查看全文]]></description>
+      <guid>https://www.theengineer.co.uk/content/news/bioprinter-rapidly-mimics-tissues-from-brain-to-bone</guid>
+      <pubDate>Fri, 08 Nov 2024 18:11:14 GMT</pubDate>
     </item>
     <item>
-      <title>日本与美国芯片初创公司合作培训工程师</title>
-      <link>https://www.reuters.com/technology/japan-taps-us-chip-startup-tenstorrent-help-train-new-wave-engineers-2024-11-05/</link>
-      <description><![CDATA[路透社硅谷 AI 芯片初创公司 Tenstorrent 将在五年内在其美国办事处培训多达 200 名日本芯片设计师，这是与日本政府达成的一项协议的一部分，旨在支持其落后的半导体行业。此举旨在推动日本 Rapidus 芯片工厂的业务发展，该工厂计划于 2027 年开始量产。根据协议条款，日本工程师将学习使用免费和开放的芯片设计技术 RISC-V 创建芯片蓝图。摘自“日本利用美国芯片初创公司培训工程师”
-路透社 (11/05/24) Stephen Nellis 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/japan-taps-us-chip-startup-tenstorrent-help-train-new-wave-engineers-2024-11-05/</guid>
-      <pubDate>Wed, 06 Nov 2024 18:11:27 GMT</pubDate>
+      <title>低成本系统可在火灾发生后数秒内检测到野火</title>
+      <link>https://interestingengineering.com/innovation/detect-wildfires-within-seconds-ignition</link>
+      <description><![CDATA[有趣的工程南加州大学研究人员开发的众包系统利用安装在火灾高风险场所的低成本手机网络，将火灾测绘时间从数小时缩短至数秒。先进的计算机视觉模型分析来自手机摄像头和传感器的数据。在计算机模拟中，FireLoc 系统可以探测到 3,000 英尺外的火灾，并准确绘制距离起火点 180 英尺内的火灾地图。摘自“低成本系统在火灾发生后数秒内探测到火灾”
+有趣的工程 (11/07/24) Kapil Kajal 查看全文]]></description>
+      <guid>https://interestingengineering.com/innovation/detect-wildfires-within-seconds-ignition</guid>
+      <pubDate>Fri, 08 Nov 2024 18:11:14 GMT</pubDate>
     </item>
     <item>
-      <title>虚假信息监督机构面临压力，拒绝停止</title>
-      <link>https://www.nytimes.com/2024/11/01/technology/election-disinformation.html</link>
-      <description><![CDATA[《纽约时报》面对政治和法律压力，华盛顿大学知情公众中心继续努力打击网络虚假信息，一支本科生团队使用市面上可用的工具在互联网上搜寻与选举有关的谣言。该中心创始人之一凯特·斯塔伯德 (Kate Starbird) 表示：“我们必须进行分类，决定我们想要报道哪些谣言，我们认为哪些谣言最有影响力，哪些谣言将有影响力，哪些谣言可能成为下一次‘阻止窃取’行动的典范。”摘自《虚假信息监督机构面临压力，拒绝停止》
-《纽约时报》 (11/01/24) 史蒂文·李·迈尔斯 (Steven Lee Myers)； Stuart A. Thompson 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/11/01/technology/election-disinformation.html</guid>
-      <pubDate>Wed, 06 Nov 2024 18:11:27 GMT</pubDate>
+      <title>软件允许在内存中处理，绕过 CPU</title>
+      <link>https://english.news.cn/20241107/810420424df04f1bb0f52813c7c0d158/c.html</link>
+      <description><![CDATA[新华社以色列理工学院研究人员开发的软件可使计算机绕过中央处理器（CPU），直接在内存中进行处理。研究人员开发了一个名为PyPIM的平台，该平台将Python编程语言与数字内存处理（PIM）技术相结合。研究人员证明，使用PyPIM执行各种数学和算法任务，只需进行很少的代码更改，就可以显著提高处理速度。摘自《软件允许绕过CPU在内存中进行处理》
+新华社（11/07/24） 查看全文]]></description>
+      <guid>https://english.news.cn/20241107/810420424df04f1bb0f52813c7c0d158/c.html</guid>
+      <pubDate>Fri, 08 Nov 2024 18:11:14 GMT</pubDate>
     </item>
     <item>
-      <title>美国有多少科技领域的工作机会？</title>
-      <link>https://www.computerworld.com/article/1618780/how-many-jobs-are-available-in-technology.html</link>
-      <description><![CDATA[Computerworld美国劳工统计局报告称，10 月份科技行业失业率从 9 月份的 2.5% 略微上升至 2.6%，而整体失业率达到 4.1%。根据非营利组织 CompTIA 的数据，10 月份雇主发布的科技职位招聘信息总计 528,402 个，其中包括近 223,000 个新职位。环比增长最大的是数据库架构师和网络及计算机系统管理员职位，分别增长了 10% 和 6%。摘自“美国有多少科技工作机会？”
-Computerworld (11/01/24) Lucas Mearian 查看全文]]></description>
-      <guid>https://www.computerworld.com/article/1618780/how-many-jobs-are-available-in-technology.html</guid>
-      <pubDate>Wed, 06 Nov 2024 18:11:26 GMT</pubDate>
+      <title>TikTok 因国家安全风险被勒令关闭加拿大部门</title>
+      <link>https://www.bloomberg.com/news/articles/2024-11-06/tiktok-ordered-to-close-canada-unit-on-national-security-risk</link>
+      <description><![CDATA[彭博社在加拿大安全情报机构进行国家安全审查并提出建议后，加拿大已下令字节跳动有限公司关闭其加拿大 TikTok 子公司。此前，美国于 4 月通过了一项两党法案，迫使字节跳动剥离其 TikTok 所有权股份，否则将面临美国禁令。加拿大的命令不会阻止加拿大人使用这款社交视频应用。摘自“TikTok 因国家安全风险被勒令关闭加拿大部门”
+彭博社 (11/06/24) Thomas Seal 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-11-06/tiktok-ordered-to-close-canada-unit-on-national-security-risk</guid>
+      <pubDate>Fri, 08 Nov 2024 18:11:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>火星车助力寻找古火星海岸线的证据</title>
+      <link>https://www.reuters.com/technology/space/chinese-rover-helps-find-evidence-ancient-martian-shoreline-2024-11-07/</link>
+      <description><![CDATA[路透社科学家周四表示，中国“祝融”号火星车和轨道航天器获得的数据表明，火星上存在表明古老海岸线的地质特征。研究人员表示，来自中国天问一号轨道器、美国宇航局火星勘测轨道器和六轮机器人火星车的数据表明，在火星可能已经变得寒冷干燥并失去大部分大气层的时期，存在水海洋。摘自“火星车帮助寻找古老火星海岸线的证据”
+路透社 (11/07/24) Will Dunham 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/space/chinese-rover-helps-find-evidence-ancient-martian-shoreline-2024-11-07/</guid>
+      <pubDate>Fri, 08 Nov 2024 18:11:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
