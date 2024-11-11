@@ -4,110 +4,102 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Fri, 08 Nov 2024 18:11:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 18:11:32 GMT</lastBuildDate>
     <item>
-      <title>延世大学启动韩国首个量子计算中心</title>
-      <link>https://www.chosun.com/english/industry-en/2024/11/05/MQJYBCRFNNELZB5DYAT64BCWBU/</link>
-      <description><![CDATA[朝鲜日报 (韩国)延世大学建立了韩国首个量子计算中心，拥有 127 量子比特 IBM 量子计算机。延世大学位于松岛的量子计算中心将于 11 月 20 日全面投入运营，重点关注生物技术应用。量子计算中心附近正在建设一个量子研究综合体，它将为企业提供工作空间，以使用量子计算资源并与学术研究人员一起开展项目。摘自“延世大学启动韩国首个量子计算机中心”
-朝鲜日报 (韩国) (11/05/24) 朴智敏；刘智涵；金瑞英]]></description>
-      <guid>https://www.chosun.com/english/industry-en/2024/11/05/MQJYBCRFNNELZB5DYAT64BCWBU/</guid>
-      <pubDate>Fri, 08 Nov 2024 18:11:18 GMT</pubDate>
+      <title>人工智能恒温器将为德克萨斯州家庭缓解电网压力</title>
+      <link>https://www.bloomberg.com/news/articles/2024-11-07/ai-thermostats-pitched-for-texas-homes-to-relieve-stressed-grid?sref=db2f3qgr</link>
+      <description><![CDATA[彭博社电力供应商 NRG Energy Inc. 正与 Renew Home LLC 合作，在未来十年内向德克萨斯州家庭分发约 65 万台使用 Google Cloud 技术的人工智能恒温器。该计划旨在减少近 1 千兆瓦的电力需求，足以为 20 万德克萨斯州家庭供电。 Google Cloud 将利用其 AI 根据家庭的能源使用模式和环境温度来确定最佳的制冷或供暖时间。摘自“AI 恒温器为德克萨斯州家庭提供缓解电网压力”
+彭博社 (11/07/24) Naureen S. Malik 查看全文]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-11-07/ai-thermostats-pitched-for-texas-homes-to-relieve-stressed-grid?sref=db2f3qgr</guid>
+      <pubDate>Mon, 11 Nov 2024 18:11:31 GMT</pubDate>
     </item>
     <item>
-      <title>亚马逊获得美国联邦航空管理局批准使用新型送货无人机</title>
-      <link>https://www.cnbc.com/2024/11/05/amazon-gets-faa-approval-for-new-drone-as-it-starts-tests-in-arizona.html</link>
-      <description><![CDATA[CNBC亚马逊获得美国联邦航空管理局 (FAA) 的监管批准，开始试飞一款更小、更安静的送货无人机，包括允许其飞行距离更长、飞行范围超出飞行员的视线范围。FAA 于 5 月为亚马逊的 Prime Air 计划提供了类似的豁免，但仅限于德克萨斯州大学城的航班。然而，当地居民抱怨噪音水平过高，促使市长在致 FAA 的一封信中提到了这些担忧。摘自“亚马逊获得 FAA 批准生产新型送货无人机”
-CNBC（2024 年 11 月 5 日）Annie Palmer 查看全文]]></description>
-      <guid>https://www.cnbc.com/2024/11/05/amazon-gets-faa-approval-for-new-drone-as-it-starts-tests-in-arizona.html</guid>
-      <pubDate>Fri, 08 Nov 2024 18:11:17 GMT</pubDate>
+      <title>触觉贴片将复杂的触觉传递到皮肤</title>
+      <link>https://news.northwestern.edu/stories/2024/11/new-haptic-patch-transmits-complexity-of-touch-to-the-skin/</link>
+      <description><![CDATA[西北大学现在西北大学研究人员开发的可穿戴触觉设备使用 19 个磁致动器的六边形阵列来传递压力、振动、扭曲和其他感觉。这款灵活的设备将通过蓝牙接收到的有关用户周围环境的数据转换为触觉反馈。摘自“触觉贴片将触摸的复杂性传输到皮肤”
+Northwestern Now (11/06/24) Amanda Morris 查看全文]]></description>
+      <guid>https://news.northwestern.edu/stories/2024/11/new-haptic-patch-transmits-complexity-of-touch-to-the-skin/</guid>
+      <pubDate>Mon, 11 Nov 2024 18:11:31 GMT</pubDate>
     </item>
     <item>
-      <title>低成本、可扩展的无源传感器</title>
-      <link>https://today.ucsd.edu/story/uc-san-diego-researchers-develop-low-cost-scalable-passive-sensors</link>
-      <description><![CDATA[加州大学圣地亚哥分校今日加州大学圣地亚哥分校的研究人员重新利用射频识别 (RFID) 标签进行无电池被动感应和跟踪。加州大学圣地亚哥分校的 Nagarjun Bhat（如图）解释说：“您不需要任何花哨的接口、专用读取器或电池来访问数据 - 您所需要的只是一些市售的 RFID 标签、天线和读取器。”摘自“低成本、可扩展的无源传感器”
-加州大学圣地亚哥分校今日 (11/05/24) Phoebe Skok 查看全文]]></description>
-      <guid>https://today.ucsd.edu/story/uc-san-diego-researchers-develop-low-cost-scalable-passive-sensors</guid>
-      <pubDate>Fri, 08 Nov 2024 18:11:17 GMT</pubDate>
+      <title>艾伦·图灵的 AI-Da 作品以 100 万美元的价格售出</title>
+      <link>https://www.bbc.com/news/articles/cpqdvz4w45wo</link>
+      <description><![CDATA[BBC苏富比表示，Ai-Da Robot 创作的计算机科学先驱艾伦·图灵的画作“AI God”以 1,084,800 美元的价格卖给了一位未透露姓名的买家，成为拍卖会上出售的第一件人形机器人艺术家作品。Ai-Da Robot Studios 的 Aidan Meller 表示：“这次拍卖是视觉艺术的重要时刻，Ai-Da 的作品将焦点放在艺术界和社会变化上，因为我们正在努力应对人工智能时代的到来。”摘自“AI-Da 的艾伦·图灵作品以 100 万美元售出”
+BBC (11/07/24) Alex Pope 查看全文]]></description>
+      <guid>https://www.bbc.com/news/articles/cpqdvz4w45wo</guid>
+      <pubDate>Mon, 11 Nov 2024 18:11:30 GMT</pubDate>
     </item>
     <item>
-      <title>德国法律可以保护网络安全研究人员</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/germany-law-protect-researchers-reporting-vulns</link>
-      <description><![CDATA[Dark Reading德国联邦司法部起草了一项立法，旨在保护发现并向供应商报告安全漏洞的安全研究人员。研究人员要想获得保护，他们的行动必须旨在识别 IT 系统中的漏洞或安全风险，并且必须有向负责解决该问题的人员报告漏洞的意图。摘自“德国法律可以保护网络安全研究人员”
-Dark Reading (11/06/24) 查看全文]]></description>
-      <guid>https://www.darkreading.com/cybersecurity-operations/germany-law-protect-researchers-reporting-vulns</guid>
-      <pubDate>Fri, 08 Nov 2024 18:11:16 GMT</pubDate>
+      <title>针对 Meta 的诉讼（使用技术保护法）被驳回</title>
+      <link>https://www.nytimes.com/2024/11/07/technology/meta-section-230-lawsuit.html</link>
+      <description><![CDATA[《纽约时报》美国加利福尼亚州北区地方法院法官批准 Meta 的请求，驳回了马萨诸塞大学阿默斯特分校的 Ethan Zuckerman（见图）提起的诉讼。Zuckerman 请求法院裁定，如果他继续开发一种允许 Facebook 用户取消关注其动态消息中所有人的工具，Meta 就不能起诉他。Zuckerman 的案件取决于《通信规范法》第 230 条，该条保护限制淫秽或麻烦内容的能力；他说第 230 条应该适用于任何用户不想看到的内容。摘自“使用技术保护法对 Meta 提起的诉讼被驳回”
+纽约时报 (11/07/24) David McCabe 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/11/07/technology/meta-section-230-lawsuit.html</guid>
+      <pubDate>Mon, 11 Nov 2024 18:11:30 GMT</pubDate>
     </item>
     <item>
-      <title>韩国打击 Deepfake 色情内容泛滥</title>
-      <link>https://www.abc.net.au/news/2024-11-07/south-korea-fights-deepfake-porn-tougher-punishment-regulation/104570172</link>
-      <description><![CDATA[澳大利亚广播公司官员们宣布了遏制韩国深度伪造色情激增的若干措施，包括对违法者进行更严厉的惩罚、扩大卧底警察的使用范围以及对社交媒体平台进行更严格的监管。8 月份，未经证实的受害者学校名单在网上传播后，人们对深度伪造的担忧加剧。作为回应，许多女孩和妇女从她们的社交媒体账户中删除了照片和视频。摘自“韩国打击深度伪造色情激增”
-澳大利亚广播公司 (11/06/24) 查看全文]]></description>
-      <guid>https://www.abc.net.au/news/2024-11-07/south-korea-fights-deepfake-porn-tougher-punishment-regulation/104570172</guid>
-      <pubDate>Fri, 08 Nov 2024 18:11:16 GMT</pubDate>
+      <title>以太坊 Crypto Rollups 中的漏洞导致掠夺性交易</title>
+      <link>https://news.northeastern.edu/2024/11/08/ethereum-rollups-research/</link>
+      <description><![CDATA[东北全球新闻东北大学计算机科学家和瑞士苏黎世联邦理工学院的同事发现了以太坊汇总中的漏洞，这是一种平台外服务，可以更快地处理大量交易。研究人员介绍了三种新型攻击，其中掠夺性交易者可以通过操纵交易在过去三年中赚取约 200 万美元的利润。摘自“漏洞导致以太坊加密货币汇总中的掠夺性交易”
+东北全球新闻 (11/08/24) Alena Kuzub 查看全文]]></description>
+      <guid>https://news.northeastern.edu/2024/11/08/ethereum-rollups-research/</guid>
+      <pubDate>Mon, 11 Nov 2024 18:11:29 GMT</pubDate>
     </item>
     <item>
-      <title>空气炸锅可能正在监视消费者</title>
-      <link>https://www.infosecurity-magazine.com/news/chinese-air-fryers-spying/</link>
-      <description><![CDATA[Infosecurity Magazine英国消费者权益组织 Which? 发现中国空气炸锅和其他产品存在“过度智能设备监控”的证据。Which? 报道称，小米、Cosori 和 Aigostar 的智能空气炸锅都想知道客户的精确位置，并寻求在用户手机上录音的许可。它还发现 Aigostar 和小米的产品将个人用户数据发送到中国的服务器。摘自“空气炸锅可能在监视消费者”
-Infosecurity Magazine (11/05/24) Phil Muncaster 查看全文]]></description>
-      <guid>https://www.infosecurity-magazine.com/news/chinese-air-fryers-spying/</guid>
-      <pubDate>Fri, 08 Nov 2024 18:11:16 GMT</pubDate>
+      <title>移动机器人协作进行化学合成</title>
+      <link>https://www.theengineer.co.uk/content/news/ai-driven-mobile-robots-cooperate-to-conduct-chemical-synthesis</link>
+      <description><![CDATA[工程师英国利物浦大学研究人员发明的人工智能机器人可以比人类科学家更快地进行化学合成研究。机器人专注于结构多样化化学、超分子主客体化学和光化学合成，可以进行反应、分析产物并使用数据确定下一步。摘自“移动机器人合作进行化学合成”
+工程师 (11/07/24) 查看全文]]></description>
+      <guid>https://www.theengineer.co.uk/content/news/ai-driven-mobile-robots-cooperate-to-conduct-chemical-synthesis</guid>
+      <pubDate>Mon, 11 Nov 2024 18:11:29 GMT</pubDate>
     </item>
     <item>
-      <title>Roblox 宣布针对 13 岁以下儿童的安全功能</title>
-      <link>https://www.bbc.com/news/articles/cwy9kry4lvko</link>
-      <description><![CDATA[BBC 新闻在线游戏平台 Roblox 为 13 岁以下儿童引入了额外的安全功能。从 11 月 18 日开始，青少年将被禁止访问玩家可以通过文字和语音互相交谈的在线空间。从同一天开始，13 岁以下的儿童也将无法使用“自由形式的 2D 用户创作”，该创作允许用户以 2D 形式绘画或书写，并将这些创作复制给其他用户，而无需经过 Roblox 审核。摘自“Roblox 宣布为 13 岁以下儿童提供安全功能”
-BBC 新闻 (11/07/24) Tom Gerken 查看全文]]></description>
-      <guid>https://www.bbc.com/news/articles/cwy9kry4lvko</guid>
-      <pubDate>Fri, 08 Nov 2024 18:11:15 GMT</pubDate>
+      <title>朝鲜干扰 GPS 信号</title>
+      <link>https://www.koreatimes.co.kr/www/nation/2024/11/103_385974.html</link>
+      <description><![CDATA[韩国时报据韩国联合参谋本部 (JCS) 称，朝鲜周六连续第二天发动 GPS 干扰攻击，影响了黄海的数艘船只和数十架民航客机。国际民航组织在收到警报后通过一项决定，对 GPS 干扰表示严重关切，并首次明确点名朝鲜。摘自“朝鲜干扰 GPS 信号”
+韩国时报 (11/09/24) 查看全文]]></description>
+      <guid>https://www.koreatimes.co.kr/www/nation/2024/11/103_385974.html</guid>
+      <pubDate>Mon, 11 Nov 2024 18:11:28 GMT</pubDate>
     </item>
     <item>
-      <title>便携式照明系统将日常物品数字化</title>
-      <link>https://news.mit.edu/2024/portable-light-system-can-digitize-everyday-objects-1106</link>
-      <description><![CDATA[MIT 新闻麻省理工学院、加州大学伯克利分校和丹麦奥胡斯大学的研究人员开发了一种便携式照明系统和设计工具，可以数字化改变不同物体的颜色和纹理。PortaChrome 具有紫外线和红色、绿色和蓝色 LED，可以环绕各种物体，这些物体可以通过光致变色染料重新编程（其外观可以通过数字方式改变）。摘自“便携式照明系统将日常物品数字化”
-MIT 新闻 (11/06/24) Alex Shipps 查看全文]]></description>
-      <guid>https://news.mit.edu/2024/portable-light-system-can-digitize-everyday-objects-1106</guid>
-      <pubDate>Fri, 08 Nov 2024 18:11:15 GMT</pubDate>
+      <title>机器人通过观察学习清洁浴室水槽</title>
+      <link>https://newatlas.com/robotics/robot-cleans-sink/</link>
+      <description><![CDATA[New Atlas机械臂通过观察别人清洗浴室水槽，学会了清洗。奥地利维也纳技术大学的研究人员开发了一种配备力和位置传感器的清洁海绵，并让人用它反复清洗水槽前缘，水槽前缘喷洒了一种模仿污垢的染色凝胶。收集的数据用于训练神经网络，该网络可以将输入转化为预定的运动模式。摘自“机器人通过观察学会清洗浴室水槽”
+New Atlas (11/08/24) Michael Franco 查看全文]]></description>
+      <guid>https://newatlas.com/robotics/robot-cleans-sink/</guid>
+      <pubDate>Mon, 11 Nov 2024 18:11:28 GMT</pubDate>
     </item>
     <item>
-      <title>生物打印机快速模拟从大脑到骨骼的组织</title>
-      <link>https://www.theengineer.co.uk/content/news/bioprinter-rapidly-mimics-tissues-from-brain-to-bone</link>
-      <description><![CDATA[工程师澳大利亚墨尔本大学的研究人员开发了一种 3D 生物打印技术，可以快速创建几乎任何人体组织的精确类似物。该平台使用基于光学的系统，其中振动气泡可在几秒钟内 3D 打印细胞结构。研究人员表示，该技术可以更准确地定位细胞，从而更好地复制人体组织。摘自“生物打印机快速模拟从大脑到骨骼的组织”
-工程师 (11/04/24) 查看全文]]></description>
-      <guid>https://www.theengineer.co.uk/content/news/bioprinter-rapidly-mimics-tissues-from-brain-to-bone</guid>
-      <pubDate>Fri, 08 Nov 2024 18:11:14 GMT</pubDate>
+      <title>澳大利亚推动禁止 16 岁以下用户使用社交媒体，家庭与科技巨头展开斗争</title>
+      <link>https://www.wsj.com/world/oceania/families-battle-tech-giants-as-australia-pushes-for-an-under-16s-social-media-ban-7045f224</link>
+      <description><![CDATA[华尔街日报澳大利亚将很快出台立法，禁止 16 岁以下人士使用社交媒体。官员表示，该立法将明确规定，社交媒体公司有责任阻止未成年人使用其平台，如果公司未能做到这一点，可能面临处罚。澳大利亚总理安东尼·阿尔巴尼斯表示，“社交媒体正在伤害我们的孩子，我呼吁停止这种行为。”摘自“澳大利亚推动禁止 16 岁以下儿童使用社交媒体，家庭与科技巨头展开斗争”
+华尔街日报 (11/09/24) Mike Cherney 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/world/oceania/families-battle-tech-giants-as-australia-pushes-for-an-under-16s-social-media-ban-7045f224</guid>
+      <pubDate>Mon, 11 Nov 2024 18:11:27 GMT</pubDate>
     </item>
     <item>
-      <title>低成本系统可在火灾发生后数秒内检测到野火</title>
-      <link>https://interestingengineering.com/innovation/detect-wildfires-within-seconds-ignition</link>
-      <description><![CDATA[有趣的工程南加州大学研究人员开发的众包系统利用安装在火灾高风险场所的低成本手机网络，将火灾测绘时间从数小时缩短至数秒。先进的计算机视觉模型分析来自手机摄像头和传感器的数据。在计算机模拟中，FireLoc 系统可以探测到 3,000 英尺外的火灾，并准确绘制距离起火点 180 英尺内的火灾地图。摘自“低成本系统在火灾发生后数秒内探测到火灾”
-有趣的工程 (11/07/24) Kapil Kajal 查看全文]]></description>
-      <guid>https://interestingengineering.com/innovation/detect-wildfires-within-seconds-ignition</guid>
-      <pubDate>Fri, 08 Nov 2024 18:11:14 GMT</pubDate>
+      <title>台积电暂停部分中国 AI 芯片客户的生产</title>
+      <link>https://asia.nikkei.com/Business/Technology/TSMC-to-suspend-production-for-some-Chinese-AI-chip-customers</link>
+      <description><![CDATA[日经亚洲台湾半导体制造股份有限公司 (TSMC) 已告知多家中国客户，将暂停生产其人工智能和高性能计算芯片，因为该芯片制造商正在加大力度确保遵守美国出口管制。受影响的中国芯片设计客户正在使用 7 纳米或更先进的芯片生产技术开发高性能计算、图形处理单元和与 AI 计算相关的应用。摘自“台积电暂停部分中国 AI 芯片客户生产”
+日经亚洲 (11/08/24) 郑廷芳；Lauly Li 查看全文]]></description>
+      <guid>https://asia.nikkei.com/Business/Technology/TSMC-to-suspend-production-for-some-Chinese-AI-chip-customers</guid>
+      <pubDate>Mon, 11 Nov 2024 18:11:27 GMT</pubDate>
     </item>
     <item>
-      <title>软件允许在内存中处理，绕过 CPU</title>
-      <link>https://english.news.cn/20241107/810420424df04f1bb0f52813c7c0d158/c.html</link>
-      <description><![CDATA[新华社以色列理工学院研究人员开发的软件可使计算机绕过中央处理器（CPU），直接在内存中进行处理。研究人员开发了一个名为PyPIM的平台，该平台将Python编程语言与数字内存处理（PIM）技术相结合。研究人员证明，使用PyPIM执行各种数学和算法任务，只需进行很少的代码更改，就可以显著提高处理速度。摘自《软件允许绕过CPU在内存中进行处理》
-新华社（11/07/24） 查看全文]]></description>
-      <guid>https://english.news.cn/20241107/810420424df04f1bb0f52813c7c0d158/c.html</guid>
-      <pubDate>Fri, 08 Nov 2024 18:11:14 GMT</pubDate>
+      <title>船只扫描海床搜寻西班牙洪水失踪人员</title>
+      <link>https://apnews.com/article/spain-floods-climate-search-sea-science-84b94b4855a864bba5cb88f56171ee5c</link>
+      <description><![CDATA[美联社一艘调查海洋生态系统的西班牙研究船被调往帮助搜寻西班牙洪水中失踪的人员。该船的传感器和潜水机器人将绘制 36 平方公里（约 14 平方英里）的近海区域，试图找到被洪水冲入地中海的车辆，这可能导致找到大约 100 名正式宣布失踪人员中的部分尸体。摘自“船只扫描海床搜寻西班牙洪水中失踪人员”
+美联社 (11/08/24) Joseph Wilson 查看全文]]></description>
+      <guid>https://apnews.com/article/spain-floods-climate-search-sea-science-84b94b4855a864bba5cb88f56171ee5c</guid>
+      <pubDate>Mon, 11 Nov 2024 18:11:26 GMT</pubDate>
     </item>
     <item>
-      <title>TikTok 因国家安全风险被勒令关闭加拿大部门</title>
-      <link>https://www.bloomberg.com/news/articles/2024-11-06/tiktok-ordered-to-close-canada-unit-on-national-security-risk</link>
-      <description><![CDATA[彭博社在加拿大安全情报机构进行国家安全审查并提出建议后，加拿大已下令字节跳动有限公司关闭其加拿大 TikTok 子公司。此前，美国于 4 月通过了一项两党法案，迫使字节跳动剥离其 TikTok 所有权股份，否则将面临美国禁令。加拿大的命令不会阻止加拿大人使用这款社交视频应用。摘自“TikTok 因国家安全风险被勒令关闭加拿大部门”
-彭博社 (11/06/24) Thomas Seal 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-11-06/tiktok-ordered-to-close-canada-unit-on-national-security-risk</guid>
-      <pubDate>Fri, 08 Nov 2024 18:11:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>火星车助力寻找古火星海岸线的证据</title>
-      <link>https://www.reuters.com/technology/space/chinese-rover-helps-find-evidence-ancient-martian-shoreline-2024-11-07/</link>
-      <description><![CDATA[路透社科学家周四表示，中国“祝融”号火星车和轨道航天器获得的数据表明，火星上存在表明古老海岸线的地质特征。研究人员表示，来自中国天问一号轨道器、美国宇航局火星勘测轨道器和六轮机器人火星车的数据表明，在火星可能已经变得寒冷干燥并失去大部分大气层的时期，存在水海洋。摘自“火星车帮助寻找古老火星海岸线的证据”
-路透社 (11/07/24) Will Dunham 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/space/chinese-rover-helps-find-evidence-ancient-martian-shoreline-2024-11-07/</guid>
-      <pubDate>Fri, 08 Nov 2024 18:11:13 GMT</pubDate>
+      <title>机器狗在海湖庄园巡逻以保护特朗普</title>
+      <link>https://thehill.com/blogs/blog-briefing-room/4981397-robotic-dogs-secret-service-mar-a-lago-trump-florida/</link>
+      <description><![CDATA[《国会山报》美国特勤局证实，机器狗正被用于保护当选总统唐纳德·特朗普在海湖庄园的住所。此前，一只被特勤局称为“高科技猎犬”的机器狗被拍到与一名特工一起在棕榈滩房产周围巡逻。特勤局一名官员解释道，这些单位是其 ASTRO（自主系统和技术机器人操作）计划的一部分，可以配备检测炸弹和化学威胁的技术。摘自“机器狗巡逻海湖庄园保护特朗普”
+The Hill（2024 年 11 月 8 日）Michael Bartiromo 查看全文]]></description>
+      <guid>https://thehill.com/blogs/blog-briefing-room/4981397-robotic-dogs-secret-service-mar-a-lago-trump-florida/</guid>
+      <pubDate>Mon, 11 Nov 2024 18:11:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
