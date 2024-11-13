@@ -4,102 +4,110 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Mon, 11 Nov 2024 18:11:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 18:11:30 GMT</lastBuildDate>
     <item>
-      <title>人工智能恒温器将为德克萨斯州家庭缓解电网压力</title>
-      <link>https://www.bloomberg.com/news/articles/2024-11-07/ai-thermostats-pitched-for-texas-homes-to-relieve-stressed-grid?sref=db2f3qgr</link>
-      <description><![CDATA[彭博社电力供应商 NRG Energy Inc. 正与 Renew Home LLC 合作，在未来十年内向德克萨斯州家庭分发约 65 万台使用 Google Cloud 技术的人工智能恒温器。该计划旨在减少近 1 千兆瓦的电力需求，足以为 20 万德克萨斯州家庭供电。 Google Cloud 将利用其 AI 根据家庭的能源使用模式和环境温度来确定最佳的制冷或供暖时间。摘自“AI 恒温器为德克萨斯州家庭提供缓解电网压力”
-彭博社 (11/07/24) Naureen S. Malik 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-11-07/ai-thermostats-pitched-for-texas-homes-to-relieve-stressed-grid?sref=db2f3qgr</guid>
-      <pubDate>Mon, 11 Nov 2024 18:11:31 GMT</pubDate>
+      <title>亚马逊向人工智能研究人员提供计算能力</title>
+      <link>https://www.reuters.com/technology/artificial-intelligence/amazon-offers-free-computing-power-ai-researchers-aiming-challenge-nvidia-2024-11-12/</link>
+      <description><![CDATA[路透社亚马逊网络服务 (AWS) 将向想要使用其定制 AI 芯片的研究人员提供计算能力。AWS 周二表示，它将为想要利用其用于开发 AI 模型的芯片 Trainium 的研究人员提供使用其云数据中心的积分。 AWS 表示，卡内基梅隆大学和加州大学伯克利分校的研究人员正在参与该计划。摘自“亚马逊向人工智能研究人员提供计算能力”
+路透社 (11/12/24) Stephen Nellis 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/artificial-intelligence/amazon-offers-free-computing-power-ai-researchers-aiming-challenge-nvidia-2024-11-12/</guid>
+      <pubDate>Wed, 13 Nov 2024 18:11:30 GMT</pubDate>
     </item>
     <item>
-      <title>触觉贴片将复杂的触觉传递到皮肤</title>
-      <link>https://news.northwestern.edu/stories/2024/11/new-haptic-patch-transmits-complexity-of-touch-to-the-skin/</link>
-      <description><![CDATA[西北大学现在西北大学研究人员开发的可穿戴触觉设备使用 19 个磁致动器的六边形阵列来传递压力、振动、扭曲和其他感觉。这款灵活的设备将通过蓝牙接收到的有关用户周围环境的数据转换为触觉反馈。摘自“触觉贴片将触摸的复杂性传输到皮肤”
-Northwestern Now (11/06/24) Amanda Morris 查看全文]]></description>
-      <guid>https://news.northwestern.edu/stories/2024/11/new-haptic-patch-transmits-complexity-of-touch-to-the-skin/</guid>
-      <pubDate>Mon, 11 Nov 2024 18:11:31 GMT</pubDate>
+      <title>iPhone 自动重启，警方无法进入</title>
+      <link>https://www.pcmag.com/news/iphones-kept-by-law-enforcement-allegedly-reboot-themselves-locking-them</link>
+      <description><![CDATA[PC Magazine底特律执法官员表示，存放以进行法医检查的 Apple iPhone 正在自行重启并进入首次解锁前状态，这使得从设备中获取数据变得困难。虽然重启的原因尚不清楚，但网络安全研究员 Jiska Naehrdine 在 GitHub 上发现的代码表明 Apple 的 iOS 18.1 包含“不活动重启”。摘自“iPhone 自行重启，将警察拒之门外”
+PC Magazine (11/09/24) Will McCurdy 查看全文]]></description>
+      <guid>https://www.pcmag.com/news/iphones-kept-by-law-enforcement-allegedly-reboot-themselves-locking-them</guid>
+      <pubDate>Wed, 13 Nov 2024 18:11:29 GMT</pubDate>
     </item>
     <item>
-      <title>艾伦·图灵的 AI-Da 作品以 100 万美元的价格售出</title>
-      <link>https://www.bbc.com/news/articles/cpqdvz4w45wo</link>
-      <description><![CDATA[BBC苏富比表示，Ai-Da Robot 创作的计算机科学先驱艾伦·图灵的画作“AI God”以 1,084,800 美元的价格卖给了一位未透露姓名的买家，成为拍卖会上出售的第一件人形机器人艺术家作品。Ai-Da Robot Studios 的 Aidan Meller 表示：“这次拍卖是视觉艺术的重要时刻，Ai-Da 的作品将焦点放在艺术界和社会变化上，因为我们正在努力应对人工智能时代的到来。”摘自“AI-Da 的艾伦·图灵作品以 100 万美元售出”
-BBC (11/07/24) Alex Pope 查看全文]]></description>
-      <guid>https://www.bbc.com/news/articles/cpqdvz4w45wo</guid>
-      <pubDate>Mon, 11 Nov 2024 18:11:30 GMT</pubDate>
+      <title>Java 提案将增强对量子计算攻击的抵抗力</title>
+      <link>https://www.infoworld.com/article/3601103/java-proposals-would-boost-resistance-to-quantum-computing-attacks.html</link>
+      <description><![CDATA[InfoWorld两项 Java 提案旨在增强对量子计算攻击的抵抗力。基于模块格的抗量子数字签名算法 (ML-DSA) 提案要求使用数字签名来检测对数据的未经授权的修改并验证签名者的身份。基于模块格的抗量子密钥封装机制 (ML-KEM) 提案要求使用 KEM 来保护使用公钥加密的不安全通信通道上的对称密钥。摘自“Java 提案将增强对量子计算攻击的抵抗力”
+InfoWorld (11/08/24) Paul Krill 查看全文]]></description>
+      <guid>https://www.infoworld.com/article/3601103/java-proposals-would-boost-resistance-to-quantum-computing-attacks.html</guid>
+      <pubDate>Wed, 13 Nov 2024 18:11:29 GMT</pubDate>
     </item>
     <item>
-      <title>针对 Meta 的诉讼（使用技术保护法）被驳回</title>
-      <link>https://www.nytimes.com/2024/11/07/technology/meta-section-230-lawsuit.html</link>
-      <description><![CDATA[《纽约时报》美国加利福尼亚州北区地方法院法官批准 Meta 的请求，驳回了马萨诸塞大学阿默斯特分校的 Ethan Zuckerman（见图）提起的诉讼。Zuckerman 请求法院裁定，如果他继续开发一种允许 Facebook 用户取消关注其动态消息中所有人的工具，Meta 就不能起诉他。Zuckerman 的案件取决于《通信规范法》第 230 条，该条保护限制淫秽或麻烦内容的能力；他说第 230 条应该适用于任何用户不想看到的内容。摘自“使用技术保护法对 Meta 提起的诉讼被驳回”
-纽约时报 (11/07/24) David McCabe 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/11/07/technology/meta-section-230-lawsuit.html</guid>
-      <pubDate>Mon, 11 Nov 2024 18:11:30 GMT</pubDate>
+      <title>机器学习可能会节省芯片测试的时间</title>
+      <link>https://spectrum.ieee.org/semiconductor-testing</link>
+      <description><![CDATA[IEEE Spectrum荷兰恩智浦工程师开发了一种机器学习算法，旨在为公司节省芯片测试的时间和金钱。该算法分析测试结果的模式，以确定哪些测试一起失败，然后确定哪些测试实际上是必要的。在对使用先进芯片制造工艺制造的七种微控制器和应用处理器的测试中，每个微控制器和应用处理器根据所涉及的芯片进行 41 到 164 次测试，该算法建议最多取消 74% 的测试。摘自“机器学习可能节省芯片测试时间”
+IEEE Spectrum (11/10/24) Samuel K. Moore 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/semiconductor-testing</guid>
+      <pubDate>Wed, 13 Nov 2024 18:11:28 GMT</pubDate>
     </item>
     <item>
-      <title>以太坊 Crypto Rollups 中的漏洞导致掠夺性交易</title>
-      <link>https://news.northeastern.edu/2024/11/08/ethereum-rollups-research/</link>
-      <description><![CDATA[东北全球新闻东北大学计算机科学家和瑞士苏黎世联邦理工学院的同事发现了以太坊汇总中的漏洞，这是一种平台外服务，可以更快地处理大量交易。研究人员介绍了三种新型攻击，其中掠夺性交易者可以通过操纵交易在过去三年中赚取约 200 万美元的利润。摘自“漏洞导致以太坊加密货币汇总中的掠夺性交易”
-东北全球新闻 (11/08/24) Alena Kuzub 查看全文]]></description>
-      <guid>https://news.northeastern.edu/2024/11/08/ethereum-rollups-research/</guid>
-      <pubDate>Mon, 11 Nov 2024 18:11:29 GMT</pubDate>
+      <title>梵蒂冈与微软打造人工智能圣彼得大教堂</title>
+      <link>https://apnews.com/article/vatican-microsoft-basilica-artificial-intelligence-c37d066dc7455ffacece2457c4f8e1a1</link>
+      <description><![CDATA[美联社梵蒂冈和微软推出了圣彼得大教堂的数字孪生，为在线访客提供互动体验。3D 复制品利用人工智能和先进的摄影测量技术，让虚拟访客参观教堂并了解其历史。数字孪生是使用无人机、摄像机和激光拍摄的 400,000 张高分辨率数码照片创建的。摘自“梵蒂冈、微软创建人工智能生成的圣彼得大教堂”
+美联社 (11/11/24) Nicole Winfield 查看全文]]></description>
+      <guid>https://apnews.com/article/vatican-microsoft-basilica-artificial-intelligence-c37d066dc7455ffacece2457c4f8e1a1</guid>
+      <pubDate>Wed, 13 Nov 2024 18:11:28 GMT</pubDate>
     </item>
     <item>
-      <title>移动机器人协作进行化学合成</title>
-      <link>https://www.theengineer.co.uk/content/news/ai-driven-mobile-robots-cooperate-to-conduct-chemical-synthesis</link>
-      <description><![CDATA[工程师英国利物浦大学研究人员发明的人工智能机器人可以比人类科学家更快地进行化学合成研究。机器人专注于结构多样化化学、超分子主客体化学和光化学合成，可以进行反应、分析产物并使用数据确定下一步。摘自“移动机器人合作进行化学合成”
-工程师 (11/07/24) 查看全文]]></description>
-      <guid>https://www.theengineer.co.uk/content/news/ai-driven-mobile-robots-cooperate-to-conduct-chemical-synthesis</guid>
-      <pubDate>Mon, 11 Nov 2024 18:11:29 GMT</pubDate>
+      <title>黑客瞄准在 Google 搜索中输入这六个词的人</title>
+      <link>https://nypost.com/2024/11/09/tech/hackers-are-targeting-people-who-type-these-six-words-into-their-computer/</link>
+      <description><![CDATA[纽约邮报网络安全公司 Sophos 的研究人员发现，用户在谷歌搜索引擎中输入“孟加拉猫在澳大利亚合法吗？”可能会成为网络攻击的受害者。据报道，该短语会在搜索结果列表顶部附近生成欺诈链接，点击看似合法的链接可能会导致用户的个人信息被盗或通过 Gootloader 恶意软件被锁定在计算机之外。摘自“黑客瞄准在 Google 搜索中输入这六个词的人”
+纽约邮报 (11/09/24) Andrew Court 查看全文]]></description>
+      <guid>https://nypost.com/2024/11/09/tech/hackers-are-targeting-people-who-type-these-six-words-into-their-computer/</guid>
+      <pubDate>Wed, 13 Nov 2024 18:11:28 GMT</pubDate>
     </item>
     <item>
-      <title>朝鲜干扰 GPS 信号</title>
-      <link>https://www.koreatimes.co.kr/www/nation/2024/11/103_385974.html</link>
-      <description><![CDATA[韩国时报据韩国联合参谋本部 (JCS) 称，朝鲜周六连续第二天发动 GPS 干扰攻击，影响了黄海的数艘船只和数十架民航客机。国际民航组织在收到警报后通过一项决定，对 GPS 干扰表示严重关切，并首次明确点名朝鲜。摘自“朝鲜干扰 GPS 信号”
-韩国时报 (11/09/24) 查看全文]]></description>
-      <guid>https://www.koreatimes.co.kr/www/nation/2024/11/103_385974.html</guid>
-      <pubDate>Mon, 11 Nov 2024 18:11:28 GMT</pubDate>
+      <title>机器人观看操作视频，成为外科医生</title>
+      <link>https://studyfinds.org/robot-how-to-videos-surgeon/</link>
+      <description><![CDATA[StudyFinds.org约翰霍普金斯大学研究人员开发的 AI 模型使机器人在观看操作视频后能够成功执行复杂的手术。模仿学习模型是在达芬奇手术系统机器人腕戴式摄像机拍摄的大量镜头上进行训练的。AI 模型帮助机器人在针头操作、组织提升和缝合方面表现得与人类外科医生不相上下。摘自“机器人观看操作视频，成为外科医生”
+StudyFinds.org (11/11/24) 查看全文]]></description>
+      <guid>https://studyfinds.org/robot-how-to-videos-surgeon/</guid>
+      <pubDate>Wed, 13 Nov 2024 18:11:27 GMT</pubDate>
     </item>
     <item>
-      <title>机器人通过观察学习清洁浴室水槽</title>
-      <link>https://newatlas.com/robotics/robot-cleans-sink/</link>
-      <description><![CDATA[New Atlas机械臂通过观察别人清洗浴室水槽，学会了清洗。奥地利维也纳技术大学的研究人员开发了一种配备力和位置传感器的清洁海绵，并让人用它反复清洗水槽前缘，水槽前缘喷洒了一种模仿污垢的染色凝胶。收集的数据用于训练神经网络，该网络可以将输入转化为预定的运动模式。摘自“机器人通过观察学会清洗浴室水槽”
-New Atlas (11/08/24) Michael Franco 查看全文]]></description>
-      <guid>https://newatlas.com/robotics/robot-cleans-sink/</guid>
-      <pubDate>Mon, 11 Nov 2024 18:11:28 GMT</pubDate>
+      <title>Facebook 的算法选择小规模英语社区</title>
+      <link>https://gizmodo.com/facebooks-algorithms-think-a-small-english-community-is-up-to-no-good-2000522238</link>
+      <description><![CDATA[Gizmodo英国库尔斯顿镇因该镇名称中的“LSD”一词而遭到 Facebook 内容审核算法的审查。据当地新闻博客报道，由于算法审查，该镇的企业主和社区协会的 Facebook 页面内容已被删除。Facebook 母公司 Meta 的一位发言人表示：“这是一个错误，现已修复。”摘自“Facebook 的算法选择小型英语社区”
+Gizmodo (11/10/24) Todd Feathers 查看全文]]></description>
+      <guid>https://gizmodo.com/facebooks-algorithms-think-a-small-english-community-is-up-to-no-good-2000522238</guid>
+      <pubDate>Wed, 13 Nov 2024 18:11:27 GMT</pubDate>
     </item>
     <item>
-      <title>澳大利亚推动禁止 16 岁以下用户使用社交媒体，家庭与科技巨头展开斗争</title>
-      <link>https://www.wsj.com/world/oceania/families-battle-tech-giants-as-australia-pushes-for-an-under-16s-social-media-ban-7045f224</link>
-      <description><![CDATA[华尔街日报澳大利亚将很快出台立法，禁止 16 岁以下人士使用社交媒体。官员表示，该立法将明确规定，社交媒体公司有责任阻止未成年人使用其平台，如果公司未能做到这一点，可能面临处罚。澳大利亚总理安东尼·阿尔巴尼斯表示，“社交媒体正在伤害我们的孩子，我呼吁停止这种行为。”摘自“澳大利亚推动禁止 16 岁以下儿童使用社交媒体，家庭与科技巨头展开斗争”
-华尔街日报 (11/09/24) Mike Cherney 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/world/oceania/families-battle-tech-giants-as-australia-pushes-for-an-under-16s-social-media-ban-7045f224</guid>
-      <pubDate>Mon, 11 Nov 2024 18:11:27 GMT</pubDate>
+      <title>Google DeepMind 发布蛋白质预测模型背后的代码</title>
+      <link>https://www.science.org/content/article/google-deepmind-releases-code-behind-its-most-advanced-protein-prediction-program</link>
+      <description><![CDATA[科学Google DeepMind 发布了 AlphaFold3 的底层代码，AlphaFold3 是一种预测蛋白质结构及其与 DNA、RNA 和其他蛋白质相互作用的 AI 模型。AlphaFold3 于 5 月发布时，研究人员仅提供了伪代码和一个在线门户链接，允许每天使用其进行有限数量的预测。该计算模型现已在 GitHub 上公开发布，并附带非商业许可。摘自“Google DeepMind 发布蛋白质预测模型背后的代码”
+科学 (11/11/24) Catherine Offord 查看全文]]></description>
+      <guid>https://www.science.org/content/article/google-deepmind-releases-code-behind-its-most-advanced-protein-prediction-program</guid>
+      <pubDate>Wed, 13 Nov 2024 18:11:26 GMT</pubDate>
     </item>
     <item>
-      <title>台积电暂停部分中国 AI 芯片客户的生产</title>
-      <link>https://asia.nikkei.com/Business/Technology/TSMC-to-suspend-production-for-some-Chinese-AI-chip-customers</link>
-      <description><![CDATA[日经亚洲台湾半导体制造股份有限公司 (TSMC) 已告知多家中国客户，将暂停生产其人工智能和高性能计算芯片，因为该芯片制造商正在加大力度确保遵守美国出口管制。受影响的中国芯片设计客户正在使用 7 纳米或更先进的芯片生产技术开发高性能计算、图形处理单元和与 AI 计算相关的应用。摘自“台积电暂停部分中国 AI 芯片客户生产”
-日经亚洲 (11/08/24) 郑廷芳；Lauly Li 查看全文]]></description>
-      <guid>https://asia.nikkei.com/Business/Technology/TSMC-to-suspend-production-for-some-Chinese-AI-chip-customers</guid>
-      <pubDate>Mon, 11 Nov 2024 18:11:27 GMT</pubDate>
+      <title>披头士乐队最后一首歌由人工智能完成，获得格莱美奖提名</title>
+      <link>https://www.cnet.com/tech/services-and-software/the-beatles-final-song-completed-with-ai-earns-grammy-nomination/</link>
+      <description><![CDATA[CNet披头士乐队的《Now and Then》是第一首获得格莱美奖提名的人工智能歌曲。先进的机器学习软件从已故约翰·列侬的未发行的歌唱和弹钢琴录音中分离出了他的声音。列侬的声音被纳入歌曲的最终版本，并非由人工智能生成，因此符合格莱美规则，即“只有人类创作者才有资格”并且某些类别允许使用“人工智能材料元素”的作品。摘自“披头士乐队的最后一首歌，由人工智能完成，获得格莱美奖提名”
+CNet (11/11/24) Samantha Kelly 查看全文]]></description>
+      <guid>https://www.cnet.com/tech/services-and-software/the-beatles-final-song-completed-with-ai-earns-grammy-nomination/</guid>
+      <pubDate>Wed, 13 Nov 2024 18:11:26 GMT</pubDate>
     </item>
     <item>
-      <title>船只扫描海床搜寻西班牙洪水失踪人员</title>
-      <link>https://apnews.com/article/spain-floods-climate-search-sea-science-84b94b4855a864bba5cb88f56171ee5c</link>
-      <description><![CDATA[美联社一艘调查海洋生态系统的西班牙研究船被调往帮助搜寻西班牙洪水中失踪的人员。该船的传感器和潜水机器人将绘制 36 平方公里（约 14 平方英里）的近海区域，试图找到被洪水冲入地中海的车辆，这可能导致找到大约 100 名正式宣布失踪人员中的部分尸体。摘自“船只扫描海床搜寻西班牙洪水中失踪人员”
-美联社 (11/08/24) Joseph Wilson 查看全文]]></description>
-      <guid>https://apnews.com/article/spain-floods-climate-search-sea-science-84b94b4855a864bba5cb88f56171ee5c</guid>
-      <pubDate>Mon, 11 Nov 2024 18:11:26 GMT</pubDate>
+      <title>美国支持联合国网络条约</title>
+      <link>https://www.bloomberg.com/news/articles/2024-11-11/biden-administration-to-support-controversial-un-cyber-treaty</link>
+      <description><![CDATA[彭博社拜登政府预计将支持联合国首个具有法律约束力的网络安全协议，尽管有人担心该协议可能被专制国家用来获取政治对手的数据或追踪海外异见人士。该协议可能成为预防和调查网络犯罪的全球合作法律框架。摘自“美国支持联合国网络条约”
+彭博社 (11/11/24) Jamie Tarabay 查看全文]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-11-11/biden-administration-to-support-controversial-un-cyber-treaty</guid>
+      <pubDate>Wed, 13 Nov 2024 18:11:25 GMT</pubDate>
     </item>
     <item>
-      <title>机器狗在海湖庄园巡逻以保护特朗普</title>
-      <link>https://thehill.com/blogs/blog-briefing-room/4981397-robotic-dogs-secret-service-mar-a-lago-trump-florida/</link>
-      <description><![CDATA[《国会山报》美国特勤局证实，机器狗正被用于保护当选总统唐纳德·特朗普在海湖庄园的住所。此前，一只被特勤局称为“高科技猎犬”的机器狗被拍到与一名特工一起在棕榈滩房产周围巡逻。特勤局一名官员解释道，这些单位是其 ASTRO（自主系统和技术机器人操作）计划的一部分，可以配备检测炸弹和化学威胁的技术。摘自“机器狗巡逻海湖庄园保护特朗普”
-The Hill（2024 年 11 月 8 日）Michael Bartiromo 查看全文]]></description>
-      <guid>https://thehill.com/blogs/blog-briefing-room/4981397-robotic-dogs-secret-service-mar-a-lago-trump-florida/</guid>
-      <pubDate>Mon, 11 Nov 2024 18:11:25 GMT</pubDate>
+      <title>日本计划斥资 650 亿美元援助国内芯片产业</title>
+      <link>https://www.reuters.com/world/japan/japan-propose-65-bln-plan-aid-domestic-chip-industry-draft-shows-2024-11-11/</link>
+      <description><![CDATA[路透社根据首相石破茂宣布的一项计划，日本政府将在 2030 财年之前提供至少 10 万亿日元（650 亿美元）的补贴和财政激励措施，以支持该国的人工智能和芯片产业。该计划将提交给下一届议会，目标是芯片代工企业 Rapidus 和其他人工智能芯片供应商，并呼吁公共和私营部门在未来十年内投资总额达到 50 万亿日元。摘自“日本 650 亿美元计划援助国内芯片产业”
+路透社 (11/11/24) Takaya Yamaguchi；Leika Kihara；山崎真纪子 查看全文]]></description>
+      <guid>https://www.reuters.com/world/japan/japan-propose-65-bln-plan-aid-domestic-chip-industry-draft-shows-2024-11-11/</guid>
+      <pubDate>Wed, 13 Nov 2024 18:11:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>机器人出租车在洛杉矶投入运营</title>
+      <link>https://www.latimes.com/california/story/2024-11-12/robotaxis-open-for-business-in-los-angeles</link>
+      <description><![CDATA[洛杉矶时报洛杉矶人现在可以叫到 Waymo 机器人出租车了。Waymo 表示，它昨天在洛杉矶县启动了 Waymo One 服务，将其车辆限制在地面街道上。这家 Alphabet 旗下的初创公司几个月来一直在对搭载传感器的汽车进行有限的乘客测试。摘自“洛杉矶机器人出租车开业”
+洛杉矶时报 (2024 年 11 月 12 日) Rachel Uranga 查看全文]]></description>
+      <guid>https://www.latimes.com/california/story/2024-11-12/robotaxis-open-for-business-in-los-angeles</guid>
+      <pubDate>Wed, 13 Nov 2024 18:11:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
