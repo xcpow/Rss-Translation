@@ -4,7 +4,21 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 14 Nov 2024 09:09:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 12:16:29 GMT</lastBuildDate>
+    <item>
+      <title>美国大微芯片动员</title>
+      <link>https://www.wired.com/story/intel-great-american-microchip-mobilization/</link>
+      <description><![CDATA[在唐纳德·特朗普和乔·拜登的领导下，美国决心“让芯片制造业回归本土”。现在，资金和庞大的基础设施正涌向英特尔位于俄亥俄州的大型工厂——就在这家公司可能即将崩溃的时候。]]></description>
+      <guid>https://www.wired.com/story/intel-great-american-microchip-mobilization/</guid>
+      <pubDate>Thu, 14 Nov 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>走进这家将人工智能带入物理世界的十亿美元初创公司</title>
+      <link>https://www.wired.com/story/physical-intelligence-ai-robotics-startup/</link>
+      <description><![CDATA[Physical Intelligence 组建了一支全明星团队，并筹集了 4 亿美元，承诺在机器人学习方面取得惊人突破。]]></description>
+      <guid>https://www.wired.com/story/physical-intelligence-ai-robotics-startup/</guid>
+      <pubDate>Thu, 14 Nov 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>中国田园风女王时隔三年再度现身</title>
       <link>https://www.wired.com/story/li-ziqi-china-youtube-reappeared/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>OpenAI 在与 Progressive Publishers 的诉讼中胜诉——但斗争尚未结束</title>
       <link>https://www.wired.com/story/opena-alternet-raw-story-copyright-lawsuit-dmca-standing/</link>
-      <description><![CDATA[一名法官驳回了 Alternet 和 Raw Story 起诉 OpenAI 的案件，这可能成为人工智能公司和出版商之间更大斗争中的一个重要裁决。]]></description>
+      <description><![CDATA[一名法官驳回了 Alternet 和 Raw Story 起诉 OpenAI 的案件，这可能成为人工智能公司和出版商之间更大范围的争斗中一项重大裁决。]]></description>
       <guid>https://www.wired.com/story/opena-alternet-raw-story-copyright-lawsuit-dmca-standing/</guid>
       <pubDate>Fri, 08 Nov 2024 21:33:49 GMT</pubDate>
     </item>
@@ -83,7 +97,7 @@
       <pubDate>Tue, 05 Nov 2024 11:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>伪造人工智能万圣节游行清单的家伙说你全都搞错了</title>
+      <title>伪造人工智能万圣节游行清单的家伙说你完全搞错了</title>
       <link>https://www.wired.com/story/ai-halloween-parade-listing-dublin-interview/</link>
       <description><![CDATA[一家 SEO 代理公司的老板表示，他的一份人工智能万圣节游行列表误导了爱尔兰都柏林的狂欢者，这让他“非常沮丧”。]]></description>
       <guid>https://www.wired.com/story/ai-halloween-parade-listing-dublin-interview/</guid>
@@ -92,23 +106,9 @@
     <item>
       <title>“Airbnb 大富翁”游戏如何解读硅谷与 Lina Khan 的对峙</title>
       <link>https://www.wired.com/story/airbnbopoly-reid-hoffman-lina-khan-ftc-antitrust/</link>
-      <description><![CDATA[2020 年，LinkedIn 创始人、科技投资者、哈里斯巨额捐赠者 Reid Hoffman 定制了一块大富翁棋盘，以庆祝 Airbnb 的 IPO。它没有让玩家坐牢，而是让他们接受“政府监管”。]]></description>
+      <description><![CDATA[2020 年，LinkedIn 创始人、科技投资者、哈里斯巨额捐赠者 Reid Hoffman 定制了一块大富翁棋盘，以庆祝 Airbnb 首次公开募股。它没有让玩家坐牢，而是让他们接受“政府监管”。]]></description>
       <guid>https://www.wired.com/story/airbnbopoly-reid-hoffman-lina-khan-ftc-antitrust/</guid>
       <pubDate>Fri, 01 Nov 2024 18:07:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能将比人类更了解人类</title>
-      <link>https://www.wired.com/story/plaintext-ai-will-understand-humans-better-than-humans-do/</link>
-      <description><![CDATA[一位颇具争议的斯坦福研究人员如此说道，他发现最新的系统克服了重重困难，掌握了一项高级认知技能。]]></description>
-      <guid>https://www.wired.com/story/plaintext-ai-will-understand-humans-better-than-humans-do/</guid>
-      <pubDate>Fri, 01 Nov 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>奸商利用美国大选阴谋赚取数百万美元</title>
-      <link>https://www.wired.com/story/2024-election-profiteers/</link>
-      <description><![CDATA[在美国总统大选前夕，不道德的网络运营商正在散布恶意谎言，以推动比特币骗局，并向 Facebook 用户出售 MAGA 衬衫。]]></description>
-      <guid>https://www.wired.com/story/2024-election-profiteers/</guid>
-      <pubDate>Fri, 01 Nov 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
