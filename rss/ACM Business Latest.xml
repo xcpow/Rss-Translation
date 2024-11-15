@@ -4,7 +4,21 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 15 Nov 2024 09:09:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 12:17:16 GMT</lastBuildDate>
+    <item>
+      <title>Substack 的一些最知名的作家依赖人工智能写作工具</title>
+      <link>https://www.wired.com/story/substacks-writers-use-ai-chatgpt/</link>
+      <description><![CDATA[对 Substack 顶级新闻通讯的分析估计，约有 10% 发布由 AI 生成或 AI 辅助的内容。]]></description>
+      <guid>https://www.wired.com/story/substacks-writers-use-ai-chatgpt/</guid>
+      <pubDate>Fri, 15 Nov 2024 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>元游说者转行监管者称欧洲大型科技公司规则过分</title>
+      <link>https://www.wired.com/story/meta-lobbyist-eu-regulator-big-tech-rules-too-far/</link>
+      <description><![CDATA[奥拉·萨拉曾是这家科技巨头在布鲁塞尔的首席说客。现在，她作为欧洲议会监管者的存在引起了争议。]]></description>
+      <guid>https://www.wired.com/story/meta-lobbyist-eu-regulator-big-tech-rules-too-far/</guid>
+      <pubDate>Fri, 15 Nov 2024 10:33:41 GMT</pubDate>
+    </item>
     <item>
       <title>丝绸之路创始人 Ross Ulbricht 正在等待特朗普兑现承诺并释放他</title>
       <link>https://www.wired.com/story/silk-road-creator-ross-ulbricht-is-waiting-for-trump-to-keep-his-word-and-set-him-free/</link>
@@ -22,7 +36,7 @@
     <item>
       <title>北约科技侦察兵正在加强欧洲，以应对唐纳德·特朗普的世界</title>
       <link>https://www.wired.com/story/natos-tech-scouts-are-fortifying-europe-for-a-world-after-donald-trump/</link>
-      <description><![CDATA[北约新成立的创新基金最初是为了应对美国利益的下降。现在，该基金的工作人员正在欧洲各地寻找可以让北约在战争中占据优势的公司。]]></description>
+      <description><![CDATA[北约新成立的创新基金旨在对抗美国日益减弱的利益。目前，该基金的工作人员正在欧洲各地寻找可以让北约在战争中占据优势的公司。]]></description>
       <guid>https://www.wired.com/story/natos-tech-scouts-are-fortifying-europe-for-a-world-after-donald-trump/</guid>
       <pubDate>Thu, 14 Nov 2024 12:38:49 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[热门疫情聊天应用 Houseparty 的联合创始人 Ben Rubin 推出了一个新的群组消息平台，旨在利用区块链解决破坏公众对话信任的问题。如果失败了，他也没意见。]]></description>
       <guid>https://www.wired.com/story/the-creator-of-houseparty-is-back-this-time-hes-taking-on-slack-and-discord/</guid>
       <pubDate>Thu, 07 Nov 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普庆祝胜利，加密货币忠实拥护者亲吻戒指</title>
-      <link>https://www.wired.com/story/trump-crypto-support/</link>
-      <description><![CDATA[加密货币行业正在庆祝唐纳德·特朗普重返白宫，期待在他的领导下行业能更加轻松地发展。]]></description>
-      <guid>https://www.wired.com/story/trump-crypto-support/</guid>
-      <pubDate>Wed, 06 Nov 2024 21:11:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Perplexity 进军实时选举追踪，其他 AI 公司却有所保留</title>
-      <link>https://www.wired.com/story/perplexity-election-tracking/</link>
-      <description><![CDATA[这个备受争议的人工智能搜索引擎，被指控积极抓取内容，全力提供人工智能生成的选举信息。]]></description>
-      <guid>https://www.wired.com/story/perplexity-election-tracking/</guid>
-      <pubDate>Wed, 06 Nov 2024 17:37:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
