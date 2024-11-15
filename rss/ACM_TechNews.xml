@@ -4,110 +4,110 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Wed, 13 Nov 2024 18:11:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 18:11:57 GMT</lastBuildDate>
     <item>
-      <title>亚马逊向人工智能研究人员提供计算能力</title>
-      <link>https://www.reuters.com/technology/artificial-intelligence/amazon-offers-free-computing-power-ai-researchers-aiming-challenge-nvidia-2024-11-12/</link>
-      <description><![CDATA[路透社亚马逊网络服务 (AWS) 将向想要使用其定制 AI 芯片的研究人员提供计算能力。AWS 周二表示，它将为想要利用其用于开发 AI 模型的芯片 Trainium 的研究人员提供使用其云数据中心的积分。 AWS 表示，卡内基梅隆大学和加州大学伯克利分校的研究人员正在参与该计划。摘自“亚马逊向人工智能研究人员提供计算能力”
-路透社 (11/12/24) Stephen Nellis 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/artificial-intelligence/amazon-offers-free-computing-power-ai-researchers-aiming-challenge-nvidia-2024-11-12/</guid>
-      <pubDate>Wed, 13 Nov 2024 18:11:30 GMT</pubDate>
+      <title>网络钓鱼攻击激增</title>
+      <link>https://www.techradar.com/pro/phishing-attacks-surge-in-2024-as-cybercriminals-adopt-ai-tools-and-multi-channel-tactics</link>
+      <description><![CDATA[TechRadar英国软件公司 Egress 的一份报告显示，2024 年第二季度的网络钓鱼电子邮件数量与第一季度相比增加了 28%。这些电子邮件的复杂程度也有所提高，成功绕过安全电子邮件网关检测的网络钓鱼攻击数量增加了 52.2%。人工智能工具正被用来扩大攻击规模。摘自“网络钓鱼攻击激增”
+TechRadar (11/10/24) Efosa Udinmwen 查看全文]]></description>
+      <guid>https://www.techradar.com/pro/phishing-attacks-surge-in-2024-as-cybercriminals-adopt-ai-tools-and-multi-channel-tactics</guid>
+      <pubDate>Fri, 15 Nov 2024 18:11:57 GMT</pubDate>
     </item>
     <item>
-      <title>iPhone 自动重启，警方无法进入</title>
-      <link>https://www.pcmag.com/news/iphones-kept-by-law-enforcement-allegedly-reboot-themselves-locking-them</link>
-      <description><![CDATA[PC Magazine底特律执法官员表示，存放以进行法医检查的 Apple iPhone 正在自行重启并进入首次解锁前状态，这使得从设备中获取数据变得困难。虽然重启的原因尚不清楚，但网络安全研究员 Jiska Naehrdine 在 GitHub 上发现的代码表明 Apple 的 iOS 18.1 包含“不活动重启”。摘自“iPhone 自行重启，将警察拒之门外”
-PC Magazine (11/09/24) Will McCurdy 查看全文]]></description>
-      <guid>https://www.pcmag.com/news/iphones-kept-by-law-enforcement-allegedly-reboot-themselves-locking-them</guid>
-      <pubDate>Wed, 13 Nov 2024 18:11:29 GMT</pubDate>
+      <title>这些密码不能使用</title>
+      <link>https://www.theverge.com/2024/11/13/24295543/most-common-passwords-list-2024</link>
+      <description><![CDATA[The Verge密码管理器 NordPass 公布“123456”连续第二年成为最流行的密码。其每年一度的全球最常用密码榜单基于 2.5TB 的公开数据库，其中一些来自暗网，许多密码可在几毫秒内被破解。排名前十的密码依次为 123456789、12345678、password、qwerty123、qwerty1、111111、12345、secret 和 123123。摘自“这些是不能使用的密码”
+The Verge (11/13/24) Emma Roth 查看全文]]></description>
+      <guid>https://www.theverge.com/2024/11/13/24295543/most-common-passwords-list-2024</guid>
+      <pubDate>Fri, 15 Nov 2024 18:11:57 GMT</pubDate>
     </item>
     <item>
-      <title>Java 提案将增强对量子计算攻击的抵抗力</title>
-      <link>https://www.infoworld.com/article/3601103/java-proposals-would-boost-resistance-to-quantum-computing-attacks.html</link>
-      <description><![CDATA[InfoWorld两项 Java 提案旨在增强对量子计算攻击的抵抗力。基于模块格的抗量子数字签名算法 (ML-DSA) 提案要求使用数字签名来检测对数据的未经授权的修改并验证签名者的身份。基于模块格的抗量子密钥封装机制 (ML-KEM) 提案要求使用 KEM 来保护使用公钥加密的不安全通信通道上的对称密钥。摘自“Java 提案将增强对量子计算攻击的抵抗力”
-InfoWorld (11/08/24) Paul Krill 查看全文]]></description>
-      <guid>https://www.infoworld.com/article/3601103/java-proposals-would-boost-resistance-to-quantum-computing-attacks.html</guid>
-      <pubDate>Wed, 13 Nov 2024 18:11:29 GMT</pubDate>
+      <title>核电站将使用人工智能来应对许可挑战</title>
+      <link>https://www.reuters.com/technology/artificial-intelligence/californias-only-nuclear-plant-use-ai-help-comply-with-new-licensing-challenges-2024-11-13/</link>
+      <description><![CDATA[路透社加州初创公司 Atomic Canyon 与公用事业公司太平洋煤气电力公司 (PG&amp;E) 达成协议，将在加州仅存的核电站 Diablo Canyon 安装其 Neutron Enterprise 软件。该设施已实施约 9,000 项程序，系统中存储了 900 万份文件。该 AI 软件旨在帮助 PG&amp;E 遵守要求，以维持其联邦许可证长达 20 年。摘自“核电站使用 AI 应对许可挑战”
+路透社 (11/13/24) Stephen Nellis 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/artificial-intelligence/californias-only-nuclear-plant-use-ai-help-comply-with-new-licensing-challenges-2024-11-13/</guid>
+      <pubDate>Fri, 15 Nov 2024 18:11:56 GMT</pubDate>
     </item>
     <item>
-      <title>机器学习可能会节省芯片测试的时间</title>
-      <link>https://spectrum.ieee.org/semiconductor-testing</link>
-      <description><![CDATA[IEEE Spectrum荷兰恩智浦工程师开发了一种机器学习算法，旨在为公司节省芯片测试的时间和金钱。该算法分析测试结果的模式，以确定哪些测试一起失败，然后确定哪些测试实际上是必要的。在对使用先进芯片制造工艺制造的七种微控制器和应用处理器的测试中，每个微控制器和应用处理器根据所涉及的芯片进行 41 到 164 次测试，该算法建议最多取消 74% 的测试。摘自“机器学习可能节省芯片测试时间”
-IEEE Spectrum (11/10/24) Samuel K. Moore 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/semiconductor-testing</guid>
-      <pubDate>Wed, 13 Nov 2024 18:11:28 GMT</pubDate>
+      <title>机器人用积木搭建任何东西</title>
+      <link>https://www.newscientist.com/article/2455713-this-robot-can-build-anything-you-ask-for-out-of-blocks/</link>
+      <description><![CDATA[新科学家麻省理工学院的研究人员开发了一种机器人系统，可以使用可重复使用的积木（体素）构建几乎任何形状的物体。该系统将用户的口头请求转录为文本，并使用人工智能将文本转换为 3D 模型。然后，计算机辅助设计程序将该模型转换为体素坐标系统，机械臂可以将其组装成家具大小的物体。摘自“机器人用积木构建任何东西”
+新科学家 (11/12/24) Alex Wilkins 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.newscientist.com/article/2455713-this-robot-can-build-anything-you-ask-for-out-of-blocks/</guid>
+      <pubDate>Fri, 15 Nov 2024 18:11:56 GMT</pubDate>
     </item>
     <item>
-      <title>梵蒂冈与微软打造人工智能圣彼得大教堂</title>
-      <link>https://apnews.com/article/vatican-microsoft-basilica-artificial-intelligence-c37d066dc7455ffacece2457c4f8e1a1</link>
-      <description><![CDATA[美联社梵蒂冈和微软推出了圣彼得大教堂的数字孪生，为在线访客提供互动体验。3D 复制品利用人工智能和先进的摄影测量技术，让虚拟访客参观教堂并了解其历史。数字孪生是使用无人机、摄像机和激光拍摄的 400,000 张高分辨率数码照片创建的。摘自“梵蒂冈、微软创建人工智能生成的圣彼得大教堂”
-美联社 (11/11/24) Nicole Winfield 查看全文]]></description>
-      <guid>https://apnews.com/article/vatican-microsoft-basilica-artificial-intelligence-c37d066dc7455ffacece2457c4f8e1a1</guid>
-      <pubDate>Wed, 13 Nov 2024 18:11:28 GMT</pubDate>
+      <title>越狱法学硕士驱动的机器人出奇地容易</title>
+      <link>https://spectrum.ieee.org/jailbreak-llm</link>
+      <description><![CDATA[IEEE Spectrum宾夕法尼亚大学的研究人员开发了一种算法，可以越狱由大型语言模型 (LLM) 控制的机器人。RoboPAIR 算法使用攻击者 LLM 向目标 LLM 提供提示，调整命令直到它们绕过安全过滤器。它还使用“判断”LLM 来确保攻击者 LLM 生成的提示考虑到目标 LLM 的物理限制，例如环境中的某些障碍物。摘自“越狱 LLM 驱动的机器人出奇地容易”
+IEEE Spectrum (11/11/24) Charles Q. Choi 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/jailbreak-llm</guid>
+      <pubDate>Fri, 15 Nov 2024 18:11:55 GMT</pubDate>
     </item>
     <item>
-      <title>黑客瞄准在 Google 搜索中输入这六个词的人</title>
-      <link>https://nypost.com/2024/11/09/tech/hackers-are-targeting-people-who-type-these-six-words-into-their-computer/</link>
-      <description><![CDATA[纽约邮报网络安全公司 Sophos 的研究人员发现，用户在谷歌搜索引擎中输入“孟加拉猫在澳大利亚合法吗？”可能会成为网络攻击的受害者。据报道，该短语会在搜索结果列表顶部附近生成欺诈链接，点击看似合法的链接可能会导致用户的个人信息被盗或通过 Gootloader 恶意软件被锁定在计算机之外。摘自“黑客瞄准在 Google 搜索中输入这六个词的人”
-纽约邮报 (11/09/24) Andrew Court 查看全文]]></description>
-      <guid>https://nypost.com/2024/11/09/tech/hackers-are-targeting-people-who-type-these-six-words-into-their-computer/</guid>
-      <pubDate>Wed, 13 Nov 2024 18:11:28 GMT</pubDate>
+      <title>八年级学生计算机、信息素养考试平均成绩下降</title>
+      <link>https://www.k12dive.com/news/computer-literacy-us-scores-icils-nces/732613/</link>
+      <description><![CDATA[K-12 Dive美国教育部国家教育统计中心 (NCES) 报告称，在 2018 年至 2023 年的国际计算机和信息素养研究中，美国八年级学生在计算机和信息素养以及计算思维方面的平均分数下降了 37 分。2023 年，美国计算机和信息素养的平均分数为 482，与国际平均分数 476 持平，而美国计算思维的平均分数为 461，落后于国际平均分数 483。摘自“八年级学生在计算机、信息素养考试中的平均分数下降”
+K-12 Dive (11/24) Anna Merod 查看全文]]></description>
+      <guid>https://www.k12dive.com/news/computer-literacy-us-scores-icils-nces/732613/</guid>
+      <pubDate>Fri, 15 Nov 2024 18:11:55 GMT</pubDate>
     </item>
     <item>
-      <title>机器人观看操作视频，成为外科医生</title>
-      <link>https://studyfinds.org/robot-how-to-videos-surgeon/</link>
-      <description><![CDATA[StudyFinds.org约翰霍普金斯大学研究人员开发的 AI 模型使机器人在观看操作视频后能够成功执行复杂的手术。模仿学习模型是在达芬奇手术系统机器人腕戴式摄像机拍摄的大量镜头上进行训练的。AI 模型帮助机器人在针头操作、组织提升和缝合方面表现得与人类外科医生不相上下。摘自“机器人观看操作视频，成为外科医生”
-StudyFinds.org (11/11/24) 查看全文]]></description>
-      <guid>https://studyfinds.org/robot-how-to-videos-surgeon/</guid>
-      <pubDate>Wed, 13 Nov 2024 18:11:27 GMT</pubDate>
+      <title>第一个机械量子比特</title>
+      <link>https://www.science.org/content/article/first-mechanical-qubit-quantum-computing-goes-steampunk</link>
+      <description><![CDATA[科学瑞士苏黎世联邦理工学院的物理学家设计了一个机械量子比特，将基于蓝宝石晶体的机械谐振器与配备微型天线的超导量子比特结合在一起，后者沉积在类似的蓝宝石晶体上。研究人员能够将两者融合成一个系统，在这个系统中，混合态的能量不再均匀分布，从而可以将融合系统的两个最低能量态隔离为量子比特的 0 和 1 状态。摘自“第一个机械量子比特”
+科学 (11/14/24) Adrian Cho 查看全文]]></description>
+      <guid>https://www.science.org/content/article/first-mechanical-qubit-quantum-computing-goes-steampunk</guid>
+      <pubDate>Fri, 15 Nov 2024 18:11:54 GMT</pubDate>
     </item>
     <item>
-      <title>Facebook 的算法选择小规模英语社区</title>
-      <link>https://gizmodo.com/facebooks-algorithms-think-a-small-english-community-is-up-to-no-good-2000522238</link>
-      <description><![CDATA[Gizmodo英国库尔斯顿镇因该镇名称中的“LSD”一词而遭到 Facebook 内容审核算法的审查。据当地新闻博客报道，由于算法审查，该镇的企业主和社区协会的 Facebook 页面内容已被删除。Facebook 母公司 Meta 的一位发言人表示：“这是一个错误，现已修复。”摘自“Facebook 的算法选择小型英语社区”
-Gizmodo (11/10/24) Todd Feathers 查看全文]]></description>
-      <guid>https://gizmodo.com/facebooks-algorithms-think-a-small-english-community-is-up-to-no-good-2000522238</guid>
-      <pubDate>Wed, 13 Nov 2024 18:11:27 GMT</pubDate>
+      <title>越南要求社交媒体公司提供用户身份信息</title>
+      <link>https://www.bloomberg.com/news/articles/2024-11-12/vietnam-orders-social-media-companies-to-provide-user-identities</link>
+      <description><![CDATA[彭博社越南要求外国社交媒体平台核实用户账户，并按要求向当局提供其身份信息。根据一项新法令，平均每月访问量达 100,000 次或以上的外国社交媒体平台必须遵守新规定。只有经过验证的用户才被允许在社交媒体上分享内容、评论和直播。摘自“越南要求社交媒体公司提供用户身份信息”
+彭博社 (11/12/24) Nguyen Xuan Quynh 查看全文]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-11-12/vietnam-orders-social-media-companies-to-provide-user-identities</guid>
+      <pubDate>Fri, 15 Nov 2024 18:11:54 GMT</pubDate>
     </item>
     <item>
-      <title>Google DeepMind 发布蛋白质预测模型背后的代码</title>
-      <link>https://www.science.org/content/article/google-deepmind-releases-code-behind-its-most-advanced-protein-prediction-program</link>
-      <description><![CDATA[科学Google DeepMind 发布了 AlphaFold3 的底层代码，AlphaFold3 是一种预测蛋白质结构及其与 DNA、RNA 和其他蛋白质相互作用的 AI 模型。AlphaFold3 于 5 月发布时，研究人员仅提供了伪代码和一个在线门户链接，允许每天使用其进行有限数量的预测。该计算模型现已在 GitHub 上公开发布，并附带非商业许可。摘自“Google DeepMind 发布蛋白质预测模型背后的代码”
-科学 (11/11/24) Catherine Offord 查看全文]]></description>
-      <guid>https://www.science.org/content/article/google-deepmind-releases-code-behind-its-most-advanced-protein-prediction-program</guid>
-      <pubDate>Wed, 13 Nov 2024 18:11:26 GMT</pubDate>
+      <title>数百万部手机绘制出最完整的电离层地图</title>
+      <link>https://www.newscientist.com/article/2455986-millions-of-phones-create-most-complete-map-ever-of-the-ionosphere/</link>
+      <description><![CDATA[《新科学家》谷歌研究院的研究人员利用 4000 万部 Android 手机的数据绘制了迄今为止最完整的电离层（地球上层大气的一部分）地图。手机数据用于计算电离层中的带电粒子如何影响无线电信号在手机和轨道上的 GPS 卫星之间传输所需的时间。这种持续的电离层监测可以提高 GPS 位置服务以及太阳风暴和其他空间天气事件短期预报的准确性。摘自“数百万部手机绘制出最完整的电离层地图”
+《新科学家》（2024 年 11 月 13 日）Jeremy Hsu 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.newscientist.com/article/2455986-millions-of-phones-create-most-complete-map-ever-of-the-ionosphere/</guid>
+      <pubDate>Fri, 15 Nov 2024 18:11:53 GMT</pubDate>
     </item>
     <item>
-      <title>披头士乐队最后一首歌由人工智能完成，获得格莱美奖提名</title>
-      <link>https://www.cnet.com/tech/services-and-software/the-beatles-final-song-completed-with-ai-earns-grammy-nomination/</link>
-      <description><![CDATA[CNet披头士乐队的《Now and Then》是第一首获得格莱美奖提名的人工智能歌曲。先进的机器学习软件从已故约翰·列侬的未发行的歌唱和弹钢琴录音中分离出了他的声音。列侬的声音被纳入歌曲的最终版本，并非由人工智能生成，因此符合格莱美规则，即“只有人类创作者才有资格”并且某些类别允许使用“人工智能材料元素”的作品。摘自“披头士乐队的最后一首歌，由人工智能完成，获得格莱美奖提名”
-CNet (11/11/24) Samantha Kelly 查看全文]]></description>
-      <guid>https://www.cnet.com/tech/services-and-software/the-beatles-final-song-completed-with-ai-earns-grammy-nomination/</guid>
-      <pubDate>Wed, 13 Nov 2024 18:11:26 GMT</pubDate>
+      <title>服务器获得可持续发展的第二次生命</title>
+      <link>https://spectrum.ieee.org/server-reuse</link>
+      <description><![CDATA[IEEE Spectrum卡内基梅隆大学、微软和华盛顿大学的研究人员开发了一种技术，用于确定哪些旧服务器组件可以在不影响运营的情况下重复使用。他们的 GreenSKU 服务器中重复使用的组件包括第 4 代和第 5 代 RAM 模块和固态硬盘，这些组件来自以前不再使用的服务器。研究人员表示，该技术实现了总碳排放和运营碳排放净减少 8%。摘自“服务器获得可持续发展的第二次生命”
+IEEE Spectrum (11/14/24) Laura Hautala 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/server-reuse</guid>
+      <pubDate>Fri, 15 Nov 2024 18:11:53 GMT</pubDate>
     </item>
     <item>
-      <title>美国支持联合国网络条约</title>
-      <link>https://www.bloomberg.com/news/articles/2024-11-11/biden-administration-to-support-controversial-un-cyber-treaty</link>
-      <description><![CDATA[彭博社拜登政府预计将支持联合国首个具有法律约束力的网络安全协议，尽管有人担心该协议可能被专制国家用来获取政治对手的数据或追踪海外异见人士。该协议可能成为预防和调查网络犯罪的全球合作法律框架。摘自“美国支持联合国网络条约”
-彭博社 (11/11/24) Jamie Tarabay 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-11-11/biden-administration-to-support-controversial-un-cyber-treaty</guid>
-      <pubDate>Wed, 13 Nov 2024 18:11:25 GMT</pubDate>
+      <title>人工智能助力人道主义响应</title>
+      <link>https://apnews.com/article/international-rescue-committee-ai-refugees-chatbots-9c5fae949c429c38019feabaeec5fafa</link>
+      <description><![CDATA[美联社随着全球流离失所者人数不断增加，国际救援委员会 (IRC) 正在利用人工智能工具扩大其影响力。IRC 正在努力扩大其通过 Signpost 提供的人工智能聊天机器人网络，Signpost 是一套移动应用程序和社交媒体渠道，可以为处于危险境地的人以不同的语言回答问题。这些聊天机器人目前在萨尔瓦多、肯尼亚、希腊和意大利运营，并以 11 种语言进行回答。摘自“人工智能帮助人道主义响应”
+美联社 (11/14/24) Thalia Beaty 查看全文]]></description>
+      <guid>https://apnews.com/article/international-rescue-committee-ai-refugees-chatbots-9c5fae949c429c38019feabaeec5fafa</guid>
+      <pubDate>Fri, 15 Nov 2024 18:11:53 GMT</pubDate>
     </item>
     <item>
-      <title>日本计划斥资 650 亿美元援助国内芯片产业</title>
-      <link>https://www.reuters.com/world/japan/japan-propose-65-bln-plan-aid-domestic-chip-industry-draft-shows-2024-11-11/</link>
-      <description><![CDATA[路透社根据首相石破茂宣布的一项计划，日本政府将在 2030 财年之前提供至少 10 万亿日元（650 亿美元）的补贴和财政激励措施，以支持该国的人工智能和芯片产业。该计划将提交给下一届议会，目标是芯片代工企业 Rapidus 和其他人工智能芯片供应商，并呼吁公共和私营部门在未来十年内投资总额达到 50 万亿日元。摘自“日本 650 亿美元计划援助国内芯片产业”
-路透社 (11/11/24) Takaya Yamaguchi；Leika Kihara；山崎真纪子 查看全文]]></description>
-      <guid>https://www.reuters.com/world/japan/japan-propose-65-bln-plan-aid-domestic-chip-industry-draft-shows-2024-11-11/</guid>
-      <pubDate>Wed, 13 Nov 2024 18:11:25 GMT</pubDate>
+      <title>韩国执政党寻求援助芯片制造商</title>
+      <link>https://www.reuters.com/world/asia-pacific/rpt-south-koreas-ruling-party-plans-chips-law-avert-trump-threat-2024-11-11/</link>
+      <description><![CDATA[路透社韩国执政党提出的立法旨在应对美国当选总统唐纳德·特朗普威胁对中国进口产品征收高额关税带来的风险，这可能会迫使中国芯片公司大幅降低出口价格，削弱韩国芯片公司在海外的竞争力。该立法要求为芯片制造商提供补贴，并免除部分研发员工每周 52 小时的国家工作时间上限。摘自“韩国执政党寻求援助芯片制造商”
+路透社 (11/11/24) Hyunjoo Jin 查看全文]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/rpt-south-koreas-ruling-party-plans-chips-law-avert-trump-threat-2024-11-11/</guid>
+      <pubDate>Fri, 15 Nov 2024 18:11:52 GMT</pubDate>
     </item>
     <item>
-      <title>机器人出租车在洛杉矶投入运营</title>
-      <link>https://www.latimes.com/california/story/2024-11-12/robotaxis-open-for-business-in-los-angeles</link>
-      <description><![CDATA[洛杉矶时报洛杉矶人现在可以叫到 Waymo 机器人出租车了。Waymo 表示，它昨天在洛杉矶县启动了 Waymo One 服务，将其车辆限制在地面街道上。这家 Alphabet 旗下的初创公司几个月来一直在对搭载传感器的汽车进行有限的乘客测试。摘自“洛杉矶机器人出租车开业”
-洛杉矶时报 (2024 年 11 月 12 日) Rachel Uranga 查看全文]]></description>
-      <guid>https://www.latimes.com/california/story/2024-11-12/robotaxis-open-for-business-in-los-angeles</guid>
-      <pubDate>Wed, 13 Nov 2024 18:11:25 GMT</pubDate>
+      <title>“机器人革命”迫使中国劳动力适应</title>
+      <link>https://www.ft.com/content/dc7e1117-11d1-4da4-8af0-931fe967f548</link>
+      <description><![CDATA[《金融时报》据国际机器人联合会称，中国是全球最大的工业机器人市场，去年安装了超过 276,000 台机器人，占全球总数的一半以上。对机器人的依赖性不断增加，需要拥有工程技能的劳动力来修复损坏的部件，并了解管理机器的软件。然而，去年中国制造业依赖的农民工中，只有 52% 受过中学教育，14% 仅受过小学教育。摘自《“机器人革命”迫使中国劳动力适应》
+《金融时报》（2024 年 11 月 13 日）Eleanor Olcott 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.ft.com/content/dc7e1117-11d1-4da4-8af0-931fe967f548</guid>
+      <pubDate>Fri, 15 Nov 2024 18:11:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
