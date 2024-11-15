@@ -4,11 +4,25 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 15 Nov 2024 12:17:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 15:09:13 GMT</lastBuildDate>
     <item>
-      <title>Substack 的一些最知名的作家依赖人工智能写作工具</title>
+      <title>对科技的新仇恨</title>
+      <link>https://www.wired.com/story/plaintext-the-new-hatred-of-technology/</link>
+      <description><![CDATA[科技评论家比以往更加老练。但他们仍然会犯错。]]></description>
+      <guid>https://www.wired.com/story/plaintext-the-new-hatred-of-technology/</guid>
+      <pubDate>Fri, 15 Nov 2024 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>打造完美电动汽车轮胎的竞赛</title>
+      <link>https://www.wired.com/story/the-race-to-create-the-perfect-ev-tire/</link>
+      <description><![CDATA[每年销售的电动汽车轮胎达数十亿条，而制造理想的电动汽车轮胎的战斗正在进行中——这种轮胎应兼具​​续航里程长、环保和噪音低的三大特点。其结果可能使地球上的每一辆汽车受益。]]></description>
+      <guid>https://www.wired.com/story/the-race-to-create-the-perfect-ev-tire/</guid>
+      <pubDate>Fri, 15 Nov 2024 12:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Substack 的一些最大新闻通讯依赖人工智能写作工具</title>
       <link>https://www.wired.com/story/substacks-writers-use-ai-chatgpt/</link>
-      <description><![CDATA[对 Substack 顶级新闻通讯的分析估计，约有 10% 发布由 AI 生成或 AI 辅助的内容。]]></description>
+      <description><![CDATA[对 Substack 顶级新闻通讯的新分析估计，约有 10％ 发布由 AI 生成或 AI 辅助的内容。]]></description>
       <guid>https://www.wired.com/story/substacks-writers-use-ai-chatgpt/</guid>
       <pubDate>Fri, 15 Nov 2024 11:30:00 GMT</pubDate>
     </item>
@@ -36,7 +50,7 @@
     <item>
       <title>北约科技侦察兵正在加强欧洲，以应对唐纳德·特朗普的世界</title>
       <link>https://www.wired.com/story/natos-tech-scouts-are-fortifying-europe-for-a-world-after-donald-trump/</link>
-      <description><![CDATA[北约新成立的创新基金旨在对抗美国日益减弱的利益。目前，该基金的工作人员正在欧洲各地寻找可以让北约在战争中占据优势的公司。]]></description>
+      <description><![CDATA[北约新成立的创新基金最初是为了应对美国利益的下降。现在，该基金的工作人员正在欧洲各地寻找可以让北约在战争中占据优势的公司。]]></description>
       <guid>https://www.wired.com/story/natos-tech-scouts-are-fortifying-europe-for-a-world-after-donald-trump/</guid>
       <pubDate>Thu, 14 Nov 2024 12:38:49 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[唐纳德·特朗普对待大型科技公司的态度摇摆不定，一方面要求对某些参与者实施更严格的监管，另一方面又对其他参与者采取放任不管的态度。以下是他在第二任期内可能采取的科技政策。]]></description>
       <guid>https://www.wired.com/story/trump-tech-policy/</guid>
       <pubDate>Thu, 07 Nov 2024 20:00:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>科技巨头希望你重返办公室</title>
-      <link>https://www.wired.com/story/uncanny-valley-podcast-2-big-tech-return-to-office/</link>
-      <description><![CDATA[这些重返办公室要求的背后究竟有什么意义呢？]]></description>
-      <guid>https://www.wired.com/story/uncanny-valley-podcast-2-big-tech-return-to-office/</guid>
-      <pubDate>Thu, 07 Nov 2024 17:20:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Houseparty 的创造者回来了。这次他要挑战 Slack 和 Discord</title>
-      <link>https://www.wired.com/story/the-creator-of-houseparty-is-back-this-time-hes-taking-on-slack-and-discord/</link>
-      <description><![CDATA[热门疫情聊天应用 Houseparty 的联合创始人 Ben Rubin 推出了一个新的群组消息平台，旨在利用区块链解决破坏公众对话信任的问题。如果失败了，他也没意见。]]></description>
-      <guid>https://www.wired.com/story/the-creator-of-houseparty-is-back-this-time-hes-taking-on-slack-and-discord/</guid>
-      <pubDate>Thu, 07 Nov 2024 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
