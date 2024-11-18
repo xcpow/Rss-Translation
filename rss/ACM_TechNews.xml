@@ -4,110 +4,102 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Fri, 15 Nov 2024 18:11:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 18:12:46 GMT</lastBuildDate>
     <item>
-      <title>网络钓鱼攻击激增</title>
-      <link>https://www.techradar.com/pro/phishing-attacks-surge-in-2024-as-cybercriminals-adopt-ai-tools-and-multi-channel-tactics</link>
-      <description><![CDATA[TechRadar英国软件公司 Egress 的一份报告显示，2024 年第二季度的网络钓鱼电子邮件数量与第一季度相比增加了 28%。这些电子邮件的复杂程度也有所提高，成功绕过安全电子邮件网关检测的网络钓鱼攻击数量增加了 52.2%。人工智能工具正被用来扩大攻击规模。摘自“网络钓鱼攻击激增”
-TechRadar (11/10/24) Efosa Udinmwen 查看全文]]></description>
-      <guid>https://www.techradar.com/pro/phishing-attacks-surge-in-2024-as-cybercriminals-adopt-ai-tools-and-multi-channel-tactics</guid>
-      <pubDate>Fri, 15 Nov 2024 18:11:57 GMT</pubDate>
+      <title>T-Mobile 遭中国电信网络攻击</title>
+      <link>https://www.wsj.com/politics/national-security/t-mobile-hacked-in-massive-chinese-breach-of-telecom-networks-4b2d7f92</link>
+      <description><![CDATA[《华尔街日报》据内部人士称，T-Mobile 的网络是被中国网络间谍活动入侵的系统之一，该活动侵入了多家美国和国际电信公司。与中国情报机构有关联的黑客成功入侵 T-Mobile，这是他们长达数月的活动的一部分，目的是监视高价值情报目标的手机通讯。摘自“T-Mobile 遭中国电信网络入侵”
+《华尔街日报》（2024 年 11 月 16 日）Sarah Krouse；Dustin Volz 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/politics/national-security/t-mobile-hacked-in-massive-chinese-breach-of-telecom-networks-4b2d7f92</guid>
+      <pubDate>Mon, 18 Nov 2024 18:12:46 GMT</pubDate>
     </item>
     <item>
-      <title>这些密码不能使用</title>
-      <link>https://www.theverge.com/2024/11/13/24295543/most-common-passwords-list-2024</link>
-      <description><![CDATA[The Verge密码管理器 NordPass 公布“123456”连续第二年成为最流行的密码。其每年一度的全球最常用密码榜单基于 2.5TB 的公开数据库，其中一些来自暗网，许多密码可在几毫秒内被破解。排名前十的密码依次为 123456789、12345678、password、qwerty123、qwerty1、111111、12345、secret 和 123123。摘自“这些是不能使用的密码”
-The Verge (11/13/24) Emma Roth 查看全文]]></description>
-      <guid>https://www.theverge.com/2024/11/13/24295543/most-common-passwords-list-2024</guid>
-      <pubDate>Fri, 15 Nov 2024 18:11:57 GMT</pubDate>
+      <title>赋予机器人超人的视觉</title>
+      <link>https://ai.seas.upenn.edu/news/giving-robots-superhuman-vision-using-radio-signals/</link>
+      <description><![CDATA[宾夕法尼亚大学工程学院宾夕法尼亚大学研究人员开发的传感器利用人工智能将无线电波（可以穿透烟雾和雾气并透过某些材料）转换为详细的 3D 视图，以帮助机器人在具有挑战性的环境中导航。 PanoRadar 以圆圈旋转以扫描地平线，垂直天线阵列发射无线电波并监听其反射。 它结合各个角度的测量结果，并使用信号处理和机器学习算法从其环境中提取 3D 信息。摘自“赋予机器人超人视觉”
+宾夕法尼亚大学工程学院 (11/12/24) Ian Scheffler 查看全文]]></description>
+      <guid>https://ai.seas.upenn.edu/news/giving-robots-superhuman-vision-using-radio-signals/</guid>
+      <pubDate>Mon, 18 Nov 2024 18:12:45 GMT</pubDate>
     </item>
     <item>
-      <title>核电站将使用人工智能来应对许可挑战</title>
-      <link>https://www.reuters.com/technology/artificial-intelligence/californias-only-nuclear-plant-use-ai-help-comply-with-new-licensing-challenges-2024-11-13/</link>
-      <description><![CDATA[路透社加州初创公司 Atomic Canyon 与公用事业公司太平洋煤气电力公司 (PG&amp;E) 达成协议，将在加州仅存的核电站 Diablo Canyon 安装其 Neutron Enterprise 软件。该设施已实施约 9,000 项程序，系统中存储了 900 万份文件。该 AI 软件旨在帮助 PG&amp;E 遵守要求，以维持其联邦许可证长达 20 年。摘自“核电站使用 AI 应对许可挑战”
-路透社 (11/13/24) Stephen Nellis 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/artificial-intelligence/californias-only-nuclear-plant-use-ai-help-comply-with-new-licensing-challenges-2024-11-13/</guid>
-      <pubDate>Fri, 15 Nov 2024 18:11:56 GMT</pubDate>
+      <title>零日漏洞越来越受攻击者青睐</title>
+      <link>https://www.computerweekly.com/news/366615480/Zero-day-exploits-increasingly-sought-out-by-attackers</link>
+      <description><![CDATA[《计算机周刊》五眼联盟政府的网络机构公布了去年最常被利用的 15 个漏洞列表，其中大部分是零日漏洞，这一趋势今年仍在继续。英国国家网络安全中心的 Ollie Whitehouse 表示：“零日漏洞的初始利用越来越频繁，这代表着一种新常态，随着恶意行为者试图渗透网络，最终用户组织和供应商都应该对此感到担忧。”摘自“零日漏洞越来越受攻击者青睐”
+《计算机周刊》（2024 年 11 月 12 日）Alex Scroxton 查看全文]]></description>
+      <guid>https://www.computerweekly.com/news/366615480/Zero-day-exploits-increasingly-sought-out-by-attackers</guid>
+      <pubDate>Mon, 18 Nov 2024 18:12:45 GMT</pubDate>
     </item>
     <item>
-      <title>机器人用积木搭建任何东西</title>
-      <link>https://www.newscientist.com/article/2455713-this-robot-can-build-anything-you-ask-for-out-of-blocks/</link>
-      <description><![CDATA[新科学家麻省理工学院的研究人员开发了一种机器人系统，可以使用可重复使用的积木（体素）构建几乎任何形状的物体。该系统将用户的口头请求转录为文本，并使用人工智能将文本转换为 3D 模型。然后，计算机辅助设计程序将该模型转换为体素坐标系统，机械臂可以将其组装成家具大小的物体。摘自“机器人用积木构建任何东西”
-新科学家 (11/12/24) Alex Wilkins 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.newscientist.com/article/2455713-this-robot-can-build-anything-you-ask-for-out-of-blocks/</guid>
-      <pubDate>Fri, 15 Nov 2024 18:11:56 GMT</pubDate>
+      <title>美国宇航局和微软推出“地球副驾驶”</title>
+      <link>https://www.techtimes.com/articles/308304/20241115/nasa-microsoft-launch-earth-copilot-ai-chatbot-answer-everything-about-planet.htm</link>
+      <description><![CDATA[Tech TimesNASA 与微软合作开发了一款 AI 聊天机器人，负责回答有关地球的问题。这款“地球副驾驶”聊天机器人将 NASA 的监测技术（包括轨道卫星）收集的大量数据与 Azure OpenAI 服务整合在一起。NASA 表示，它正在寻求通过一种更易于理解的格式“民主化”其数据访问。摘自“NASA、微软推出‘地球副驾驶’”
+Tech Times (11/15/24) Isaiah Richard 查看全文]]></description>
+      <guid>https://www.techtimes.com/articles/308304/20241115/nasa-microsoft-launch-earth-copilot-ai-chatbot-answer-everything-about-planet.htm</guid>
+      <pubDate>Mon, 18 Nov 2024 18:12:45 GMT</pubDate>
     </item>
     <item>
-      <title>越狱法学硕士驱动的机器人出奇地容易</title>
-      <link>https://spectrum.ieee.org/jailbreak-llm</link>
-      <description><![CDATA[IEEE Spectrum宾夕法尼亚大学的研究人员开发了一种算法，可以越狱由大型语言模型 (LLM) 控制的机器人。RoboPAIR 算法使用攻击者 LLM 向目标 LLM 提供提示，调整命令直到它们绕过安全过滤器。它还使用“判断”LLM 来确保攻击者 LLM 生成的提示考虑到目标 LLM 的物理限制，例如环境中的某些障碍物。摘自“越狱 LLM 驱动的机器人出奇地容易”
-IEEE Spectrum (11/11/24) Charles Q. Choi 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/jailbreak-llm</guid>
-      <pubDate>Fri, 15 Nov 2024 18:11:55 GMT</pubDate>
+      <title>“声音泡泡”耳机可以隔绝噪音</title>
+      <link>https://newatlas.com/technology/sound-bubble-headphones-tune-out-background-noise/</link>
+      <description><![CDATA[New Atlas华盛顿大学的工程师们开发出一种耳机，利用人工智能创造一个“声音泡泡”来过滤噪音。一台小型计算机连接到配备麦克风的降噪耳机上，运行一个经过训练的神经网络，可以分析不同声源的距离，过滤掉来自较远距离的噪音，并放大靠近用户的声音。摘自“‘声音泡泡’耳机消除噪音”
+New Atlas (11/14/24) Michael Irving 查看全文]]></description>
+      <guid>https://newatlas.com/technology/sound-bubble-headphones-tune-out-background-noise/</guid>
+      <pubDate>Mon, 18 Nov 2024 18:12:44 GMT</pubDate>
     </item>
     <item>
-      <title>八年级学生计算机、信息素养考试平均成绩下降</title>
-      <link>https://www.k12dive.com/news/computer-literacy-us-scores-icils-nces/732613/</link>
-      <description><![CDATA[K-12 Dive美国教育部国家教育统计中心 (NCES) 报告称，在 2018 年至 2023 年的国际计算机和信息素养研究中，美国八年级学生在计算机和信息素养以及计算思维方面的平均分数下降了 37 分。2023 年，美国计算机和信息素养的平均分数为 482，与国际平均分数 476 持平，而美国计算思维的平均分数为 461，落后于国际平均分数 483。摘自“八年级学生在计算机、信息素养考试中的平均分数下降”
-K-12 Dive (11/24) Anna Merod 查看全文]]></description>
-      <guid>https://www.k12dive.com/news/computer-literacy-us-scores-icils-nces/732613/</guid>
-      <pubDate>Fri, 15 Nov 2024 18:11:55 GMT</pubDate>
+      <title>自动驾驶汽车能做甜甜圈、侧向漂移</title>
+      <link>https://www.newscientist.com/article/2454054-watch-autonomous-cars-do-doughnuts-and-drift-sideways-round-corners/</link>
+      <description><![CDATA[《新科学家》丰田研究院的一个团队正在使用人工智能模型训练无人驾驶汽车在高速转弯时侧向漂移，以帮助它们在紧急情况下从打滑中恢复。研究人员利用该模型使丰田 GR Supra 和雷克萨斯 LC 500 在有多个弯道的赛道上漂移。自动驾驶汽车能够进入滑行状态、侧向漂移，并在距离目标 10 厘米的范围内滑行。摘自“自动驾驶汽车做甜甜圈、侧向漂移”
+《新科学家》（2024 年 11 月 14 日）Matthew Sparkes 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.newscientist.com/article/2454054-watch-autonomous-cars-do-doughnuts-and-drift-sideways-round-corners/</guid>
+      <pubDate>Mon, 18 Nov 2024 18:12:44 GMT</pubDate>
     </item>
     <item>
-      <title>第一个机械量子比特</title>
-      <link>https://www.science.org/content/article/first-mechanical-qubit-quantum-computing-goes-steampunk</link>
-      <description><![CDATA[科学瑞士苏黎世联邦理工学院的物理学家设计了一个机械量子比特，将基于蓝宝石晶体的机械谐振器与配备微型天线的超导量子比特结合在一起，后者沉积在类似的蓝宝石晶体上。研究人员能够将两者融合成一个系统，在这个系统中，混合态的能量不再均匀分布，从而可以将融合系统的两个最低能量态隔离为量子比特的 0 和 1 状态。摘自“第一个机械量子比特”
-科学 (11/14/24) Adrian Cho 查看全文]]></description>
-      <guid>https://www.science.org/content/article/first-mechanical-qubit-quantum-computing-goes-steampunk</guid>
-      <pubDate>Fri, 15 Nov 2024 18:11:54 GMT</pubDate>
+      <title>硬件黑客？研究警告 98 种风险</title>
+      <link>https://www.forbes.com/sites/larsdaniel/2024/11/15/silicons-hidden-threats-agency-reveals-98-ways-your-hardware-can-be-hacked/</link>
+      <description><![CDATA[福布斯美国国家标准与技术研究所的研究人员发现了 98 个漏洞，这些漏洞可导致芯片被黑客入侵。大多数漏洞涉及访问控制，其中发现了 43 种不同的情况，这些情况允许未经授权的用户访问敏感数据或控制系统。研究人员指出，现代计算机芯片包含数百万个组件和软件，这些组件和软件物理嵌入在硅片中，因此很难修补，而且成本高昂。摘自“硬件黑客？研究对 98 种风险发出警报”
+福布斯 (11/15/24) Lars Daniel 查看全文]]></description>
+      <guid>https://www.forbes.com/sites/larsdaniel/2024/11/15/silicons-hidden-threats-agency-reveals-98-ways-your-hardware-can-be-hacked/</guid>
+      <pubDate>Mon, 18 Nov 2024 18:12:43 GMT</pubDate>
     </item>
     <item>
-      <title>越南要求社交媒体公司提供用户身份信息</title>
-      <link>https://www.bloomberg.com/news/articles/2024-11-12/vietnam-orders-social-media-companies-to-provide-user-identities</link>
-      <description><![CDATA[彭博社越南要求外国社交媒体平台核实用户账户，并按要求向当局提供其身份信息。根据一项新法令，平均每月访问量达 100,000 次或以上的外国社交媒体平台必须遵守新规定。只有经过验证的用户才被允许在社交媒体上分享内容、评论和直播。摘自“越南要求社交媒体公司提供用户身份信息”
-彭博社 (11/12/24) Nguyen Xuan Quynh 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-11-12/vietnam-orders-social-media-companies-to-provide-user-identities</guid>
-      <pubDate>Fri, 15 Nov 2024 18:11:54 GMT</pubDate>
+      <title>非侵入式脑机接口的新途径</title>
+      <link>https://www.jhuapl.edu/news/news-releases/241114-noninvasive-brain-computer-interface</link>
+      <description><![CDATA[约翰霍普金斯应用物理实验室约翰霍普金斯应用物理实验室的研究人员开发的数字全息成像系统可识别和验证脑信号，即神经活动期间发生的组织变形。该系统用激光照射组织，并在特殊相机上记录神经组织散射的光。数据经过处理形成组织的复杂图像，从中可以精确记录幅度和相位信息。摘自“非侵入性脑机接口的新途径”
+约翰霍普金斯应用物理实验室 (11/14/24) 查看全文]]></description>
+      <guid>https://www.jhuapl.edu/news/news-releases/241114-noninvasive-brain-computer-interface</guid>
+      <pubDate>Mon, 18 Nov 2024 18:12:43 GMT</pubDate>
     </item>
     <item>
-      <title>数百万部手机绘制出最完整的电离层地图</title>
-      <link>https://www.newscientist.com/article/2455986-millions-of-phones-create-most-complete-map-ever-of-the-ionosphere/</link>
-      <description><![CDATA[《新科学家》谷歌研究院的研究人员利用 4000 万部 Android 手机的数据绘制了迄今为止最完整的电离层（地球上层大气的一部分）地图。手机数据用于计算电离层中的带电粒子如何影响无线电信号在手机和轨道上的 GPS 卫星之间传输所需的时间。这种持续的电离层监测可以提高 GPS 位置服务以及太阳风暴和其他空间天气事件短期预报的准确性。摘自“数百万部手机绘制出最完整的电离层地图”
-《新科学家》（2024 年 11 月 13 日）Jeremy Hsu 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.newscientist.com/article/2455986-millions-of-phones-create-most-complete-map-ever-of-the-ionosphere/</guid>
-      <pubDate>Fri, 15 Nov 2024 18:11:53 GMT</pubDate>
+      <title>人工智能已经取代人类就业</title>
+      <link>https://www.fastcompany.com/91229781/ai-is-already-taking-jobs-research-shows-routine-tasks-are-the-first-to-go</link>
+      <description><![CDATA[《Fast Company》哈佛商学院、德国经济研究所和英国伦敦帝国理工学院商学院的研究人员表示，生成式人工智能正在影响就业市场。研究人员研究了 2021 年 7 月至 2023 年 7 月期间全球主要自由职业市场上的 100 多万个职位，发现在 2022 年底 ChatGPT 发布 8 个月后，对自动化倾向的工作的需求下降了 21%。摘自《人工智能已经接管工作》
+《Fast Company》 (2024 年 11 月 15 日) Mark Sullivan 查看全文]]></description>
+      <guid>https://www.fastcompany.com/91229781/ai-is-already-taking-jobs-research-shows-routine-tasks-are-the-first-to-go</guid>
+      <pubDate>Mon, 18 Nov 2024 18:12:42 GMT</pubDate>
     </item>
     <item>
-      <title>服务器获得可持续发展的第二次生命</title>
-      <link>https://spectrum.ieee.org/server-reuse</link>
-      <description><![CDATA[IEEE Spectrum卡内基梅隆大学、微软和华盛顿大学的研究人员开发了一种技术，用于确定哪些旧服务器组件可以在不影响运营的情况下重复使用。他们的 GreenSKU 服务器中重复使用的组件包括第 4 代和第 5 代 RAM 模块和固态硬盘，这些组件来自以前不再使用的服务器。研究人员表示，该技术实现了总碳排放和运营碳排放净减少 8%。摘自“服务器获得可持续发展的第二次生命”
-IEEE Spectrum (11/14/24) Laura Hautala 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/server-reuse</guid>
-      <pubDate>Fri, 15 Nov 2024 18:11:53 GMT</pubDate>
+      <title>Go 语言在 Tiobe 流行度指数中上升</title>
+      <link>https://www.infoworld.com/article/3603508/go-language-rises-in-tiobe-popularity-index.html</link>
+      <description><![CDATA[InfoWorldGoogle 的 Go 编程语言在 11 月份的 Tiobe 编程语言流行度指数中取得了迄今为止的最高排名，达到第 7 位。Tiobe 的 Paul Jansen 表示：“Go 在前 10 名中的独特之处在于，Go 程序速度快且易于部署，而且语言易于学习。” Tiobe 11 月热门语言排行榜显示，Python 位居第一，其次是 C++、Java、C、C#、JavaScript、Go、Fortran、Visual Basic 和 SQL。摘自“Go 语言在 Tiobe 流行度指数中上升”
+InfoWorld (11/12/24) Paul Krill 查看全文]]></description>
+      <guid>https://www.infoworld.com/article/3603508/go-language-rises-in-tiobe-popularity-index.html</guid>
+      <pubDate>Mon, 18 Nov 2024 18:12:42 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能助力人道主义响应</title>
-      <link>https://apnews.com/article/international-rescue-committee-ai-refugees-chatbots-9c5fae949c429c38019feabaeec5fafa</link>
-      <description><![CDATA[美联社随着全球流离失所者人数不断增加，国际救援委员会 (IRC) 正在利用人工智能工具扩大其影响力。IRC 正在努力扩大其通过 Signpost 提供的人工智能聊天机器人网络，Signpost 是一套移动应用程序和社交媒体渠道，可以为处于危险境地的人以不同的语言回答问题。这些聊天机器人目前在萨尔瓦多、肯尼亚、希腊和意大利运营，并以 11 种语言进行回答。摘自“人工智能帮助人道主义响应”
-美联社 (11/14/24) Thalia Beaty 查看全文]]></description>
-      <guid>https://apnews.com/article/international-rescue-committee-ai-refugees-chatbots-9c5fae949c429c38019feabaeec5fafa</guid>
-      <pubDate>Fri, 15 Nov 2024 18:11:53 GMT</pubDate>
+      <title>BASIC 联合创始人 Thomas Kurtz 去世，享年 96 岁</title>
+      <link>https://www.bloomberg.com/news/articles/2024-11-14/thomas-kurtz-co-creator-of-computer-language-basic-dies-at-96?sref=db2f3qgr</link>
+      <description><![CDATA[彭博社ACM 院士、达特茅斯学院教授、BASIC 编程代码发明者之一 Thomas E. Kurtz 逝世，享年 96 岁。BASIC（初学者通用符号指令代码）是由达特茅斯学院数学系主任 John Kemeny 和他的教员 Kurtz 发明的，旨在推动计算世界向广大社区开放。“我们研究过各种语言，我们都认为 Fortran、Algol 这类语言太复杂了” Kurtz 在接受达特茅斯学院口述历史采访时说道。摘自“BASIC 联合创始人 Thomas Kurtz 去世，享年 96 岁”
+彭博社 (2024 年 11 月 14 日) Laurence Arnold 查看全文]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-11-14/thomas-kurtz-co-creator-of-computer-language-basic-dies-at-96?sref=db2f3qgr</guid>
+      <pubDate>Mon, 18 Nov 2024 18:12:41 GMT</pubDate>
     </item>
     <item>
-      <title>韩国执政党寻求援助芯片制造商</title>
-      <link>https://www.reuters.com/world/asia-pacific/rpt-south-koreas-ruling-party-plans-chips-law-avert-trump-threat-2024-11-11/</link>
-      <description><![CDATA[路透社韩国执政党提出的立法旨在应对美国当选总统唐纳德·特朗普威胁对中国进口产品征收高额关税带来的风险，这可能会迫使中国芯片公司大幅降低出口价格，削弱韩国芯片公司在海外的竞争力。该立法要求为芯片制造商提供补贴，并免除部分研发员工每周 52 小时的国家工作时间上限。摘自“韩国执政党寻求援助芯片制造商”
-路透社 (11/11/24) Hyunjoo Jin 查看全文]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/rpt-south-koreas-ruling-party-plans-chips-law-avert-trump-threat-2024-11-11/</guid>
-      <pubDate>Fri, 15 Nov 2024 18:11:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>“机器人革命”迫使中国劳动力适应</title>
-      <link>https://www.ft.com/content/dc7e1117-11d1-4da4-8af0-931fe967f548</link>
-      <description><![CDATA[《金融时报》据国际机器人联合会称，中国是全球最大的工业机器人市场，去年安装了超过 276,000 台机器人，占全球总数的一半以上。对机器人的依赖性不断增加，需要拥有工程技能的劳动力来修复损坏的部件，并了解管理机器的软件。然而，去年中国制造业依赖的农民工中，只有 52% 受过中学教育，14% 仅受过小学教育。摘自《“机器人革命”迫使中国劳动力适应》
-《金融时报》（2024 年 11 月 13 日）Eleanor Olcott 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.ft.com/content/dc7e1117-11d1-4da4-8af0-931fe967f548</guid>
-      <pubDate>Fri, 15 Nov 2024 18:11:52 GMT</pubDate>
+      <title>美国最终批准向台积电提供 66 亿美元 CHIPS 法案拨款</title>
+      <link>https://asia.nikkei.com/Business/Tech/Semiconductors/Biden-finalizes-6.6bn-CHIPS-Act-grant-to-TSMC-before-Trump-returns</link>
+      <description><![CDATA[日经亚洲美国最终批准向台湾半导体制造公司 (TSMC) 提供 66 亿美元的 CHIPS 法案拨款，其中至少 10 亿美元将于年底前发放。随着该公司达到某些项目里程碑，这些资金将分阶段发放。 TSCMC 将在亚利桑那州的三家工厂生产 3 纳米 (nm)、2 纳米和 A16 芯片。摘自“美国最终批准向台积电提供 66 亿美元 CHIPS 法案补助金”
+日经亚洲 (2024 年 11 月 15 日) 余一帆 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://asia.nikkei.com/Business/Tech/Semiconductors/Biden-finalizes-6.6bn-CHIPS-Act-grant-to-TSMC-before-Trump-returns</guid>
+      <pubDate>Mon, 18 Nov 2024 18:12:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
