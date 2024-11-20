@@ -4,9 +4,23 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Wed, 20 Nov 2024 15:09:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 18:12:53 GMT</lastBuildDate>
     <item>
-      <title>失败者，加入吧——我们正在追逐 Waymo 走向未来</title>
+      <title>欢迎参加《连线》大型访谈活动</title>
+      <link>https://www.wired.com/story/thebiginterview-2024-conference/</link>
+      <description><![CDATA[12 月 3 日，《连线》杂志将与技术、商业、科学等领域的一些知名人士进行一整天的深入交谈。]]></description>
+      <guid>https://www.wired.com/story/thebiginterview-2024-conference/</guid>
+      <pubDate>Wed, 20 Nov 2024 17:28:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>亚马逊机器人大军背后的人希望每个人都拥有一个人工智能助手</title>
+      <link>https://www.wired.com/story/robot-army-proxie-humanoid/</link>
+      <description><![CDATA[布拉德·波特帮助亚马逊部署了一支仓库机器人大军。他的新发明 Proxie 可以帮助其他公司实现更多自动化。]]></description>
+      <guid>https://www.wired.com/story/robot-army-proxie-humanoid/</guid>
+      <pubDate>Wed, 20 Nov 2024 17:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>加入我们——我们正在追逐 Waymo 的未来</title>
       <link>https://www.wired.com/story/waymo-robotaxi-driverless-future/</link>
       <description><![CDATA[连续几个小时尾随一辆自动驾驶出租车是一件很奇怪的事情。而且令人大开眼界。而且令人嫉妒。但无人驾驶的世界即将降临到我们所有人的头上。所以关上车门，系好安全带吧。]]></description>
       <guid>https://www.wired.com/story/waymo-robotaxi-driverless-future/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[北约新成立的创新基金旨在对抗美国日益减弱的利益。目前，该基金的工作人员正在欧洲各地寻找可以让北约在战争中占据优势的公司。]]></description>
       <guid>https://www.wired.com/story/natos-tech-scouts-are-fortifying-europe-for-a-world-after-donald-trump/</guid>
       <pubDate>Thu, 14 Nov 2024 12:38:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国大微芯片动员</title>
-      <link>https://www.wired.com/story/intel-great-american-microchip-mobilization/</link>
-      <description><![CDATA[在唐纳德·特朗普和乔·拜登的领导下，美国决心“让芯片制造业回归本土”。现在，资金和庞大的基础设施正涌向英特尔位于俄亥俄州的大型工厂——就在这家公司可能即将崩溃的时候。]]></description>
-      <guid>https://www.wired.com/story/intel-great-american-microchip-mobilization/</guid>
-      <pubDate>Thu, 14 Nov 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>走进这家将人工智能带入物理世界的十亿美元初创公司</title>
-      <link>https://www.wired.com/story/physical-intelligence-ai-robotics-startup/</link>
-      <description><![CDATA[Physical Intelligence 组建了一支全明星团队，并筹集了 4 亿美元，承诺在机器人学习方面取得惊人突破。]]></description>
-      <guid>https://www.wired.com/story/physical-intelligence-ai-robotics-startup/</guid>
-      <pubDate>Thu, 14 Nov 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
