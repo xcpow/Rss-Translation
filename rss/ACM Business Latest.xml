@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 21 Nov 2024 12:17:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 15:09:27 GMT</lastBuildDate>
+    <item>
+      <title>硅谷真的是自由主义的吗？</title>
+      <link>https://www.wired.com/story/uncanny-valley-podcast-4-is-silicon-valley-libertarian/</link>
+      <description><![CDATA[《连线》杂志 (WIRED) 探讨了硅谷最具影响力的意识形态之一。]]></description>
+      <guid>https://www.wired.com/story/uncanny-valley-podcast-4-is-silicon-valley-libertarian/</guid>
+      <pubDate>Thu, 21 Nov 2024 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>相关！相关！相关！50 岁的微软是人工智能巨头、开源爱好者，而且一如既往地糟糕</title>
       <link>https://www.wired.com/story/at-age-50-microsoft-is-an-ai-giant-an-open-source-lover-and-bad-as-it-ever-was/</link>
@@ -34,7 +41,7 @@
       <pubDate>Thu, 21 Nov 2024 00:15:14 GMT</pubDate>
     </item>
     <item>
-      <title>参加《连线》大型访谈活动</title>
+      <title>欢迎参加《连线》大型访谈活动</title>
       <link>https://www.wired.com/story/thebiginterview-2024-conference/</link>
       <description><![CDATA[12 月 3 日，《连线》杂志将与技术、商业、科学等领域的一些知名人士进行一整天的深入交谈。]]></description>
       <guid>https://www.wired.com/story/thebiginterview-2024-conference/</guid>
@@ -48,7 +55,7 @@
       <pubDate>Wed, 20 Nov 2024 17:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>失败者，加入吧——我们正在追逐 Waymo 的未来</title>
+      <title>失败者，加入吧——我们正在追逐 Waymo 走向未来</title>
       <link>https://www.wired.com/story/waymo-robotaxi-driverless-future/</link>
       <description><![CDATA[连续几个小时尾随自动驾驶出租车是一件很奇怪的事情。而且令人大开眼界。而且令人嫉妒。但无人驾驶的世界即将降临到我们所有人的头上。所以关上车门，系好安全带吧。]]></description>
       <guid>https://www.wired.com/story/waymo-robotaxi-driverless-future/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[每年销售的电动汽车轮胎达数十亿美元，而制造理想的电动汽车轮胎的战斗正在进行中——这种轮胎应具有增加行驶里程、环保性能和降低噪音的三位一体。其结果可能使地球上的每一辆汽车受益。]]></description>
       <guid>https://www.wired.com/story/the-race-to-create-the-perfect-ev-tire/</guid>
       <pubDate>Fri, 15 Nov 2024 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Substack 的一些最大新闻通讯依赖人工智能写作工具</title>
-      <link>https://www.wired.com/story/substacks-writers-use-ai-chatgpt/</link>
-      <description><![CDATA[对 Substack 顶级新闻通讯的新分析估计，约有 10％ 发布由 AI 生成或 AI 辅助的内容。]]></description>
-      <guid>https://www.wired.com/story/substacks-writers-use-ai-chatgpt/</guid>
-      <pubDate>Fri, 15 Nov 2024 11:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
