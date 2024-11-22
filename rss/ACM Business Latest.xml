@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 22 Nov 2024 15:09:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 18:12:29 GMT</lastBuildDate>
+    <item>
+      <title>伊丽莎白·沃伦呼吁打击你从未听说过的互联网“垄断”</title>
+      <link>https://www.wired.com/story/elizabeth-warren-calls-for-crackdown-verisign/</link>
+      <description><![CDATA[美国参议员伊丽莎白·沃伦 (Elizabeth Warren) 和众议员杰里·纳德勒 (Jerry Nadler) 要求政府调查 .com 域名管理公司 VeriSign 是否欺骗客户并违反反垄断法。]]></description>
+      <guid>https://www.wired.com/story/elizabeth-warren-calls-for-crackdown-verisign/</guid>
+      <pubDate>Fri, 22 Nov 2024 18:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Bluesky 表示不会把事情搞砸</title>
       <link>https://www.wired.com/story/plaintext-bluesky-says-it-wont-screw-things-up/</link>
@@ -78,7 +85,7 @@
     <item>
       <title>失败者，加入吧——我们正在追逐 Waymo 走向未来</title>
       <link>https://www.wired.com/story/waymo-robotaxi-driverless-future/</link>
-      <description><![CDATA[连续几个小时尾随自动驾驶出租车是一件很奇怪的事情。而且令人大开眼界。而且令人嫉妒。但无人驾驶的世界即将降临到我们所有人的头上。所以关上车门，系好安全带吧。]]></description>
+      <description><![CDATA[连续几个小时尾随一辆自动驾驶出租车是一件很奇怪的事情。而且令人大开眼界。而且令人嫉妒。但无人驾驶的世界即将来临。所以关上车门，系好安全带。]]></description>
       <guid>https://www.wired.com/story/waymo-robotaxi-driverless-future/</guid>
       <pubDate>Wed, 20 Nov 2024 11:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[该机构致力于保护新创新，禁止几乎所有内部​​使用 GenAI 工具，但员工仍可以参与受控实验。]]></description>
       <guid>https://www.wired.com/story/us-patent-trademark-office-internally-banned-generative-ai/</guid>
       <pubDate>Tue, 19 Nov 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普上台后，美国对中国人工智能初创企业的投资禁令或将升级</title>
-      <link>https://www.wired.com/story/treasury-outbound-investment-china-artificial-intelligence/</link>
-      <description><![CDATA[拜登政府将范围缩小到了开发前沿人工智能模型的中国公司，但唐纳德·特朗普可能会采取更广泛的方式。]]></description>
-      <guid>https://www.wired.com/story/treasury-outbound-investment-china-artificial-intelligence/</guid>
-      <pubDate>Mon, 18 Nov 2024 11:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
