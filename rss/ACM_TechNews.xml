@@ -4,106 +4,102 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Fri, 22 Nov 2024 18:12:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 18:12:27 GMT</lastBuildDate>
     <item>
-      <title>量子计算机实现无错误计算的里程碑</title>
-      <link>https://www.newscientist.com/article/2456985-quantum-computers-hit-a-crucial-milestone-for-error-free-calculation/</link>
-      <description><![CDATA[《新科学家》微软和 Atom Computing 表示，他们创造了最多纠缠逻辑量子比特的新纪录，朝着创建能够检测和纠正错误的量子计算机迈出了一步。这些公司使用由超冷镱原子构成的量子计算机创建 24 个逻辑量子比特并通过量子纠缠将它们连接起来，优化了激光和电磁场控制原子的方式，并将信息编码到它们的量子态中，从而将它们转化为量子比特。摘自“量子计算机在无错误计算方面取得里程碑式进展”
-《新科学家》（2024 年 11 月 19 日）Karmela Padavic-Callaghan 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.newscientist.com/article/2456985-quantum-computers-hit-a-crucial-milestone-for-error-free-calculation/</guid>
-      <pubDate>Fri, 22 Nov 2024 18:12:23 GMT</pubDate>
+      <title>量子芯片相互纠缠，协同工作</title>
+      <link>https://www.newscientist.com/article/2456542-ibm-entangled-two-quantum-chips-to-work-together-for-the-first-time/</link>
+      <description><![CDATA[新科学家IBM 的研究人员演示了一对量子比特的纠缠以及其中一个量子比特到第二个芯片的隐形传态。研究人员连接了两个 Eagle 量子处理单元，每个单元有 127 个量子比特，以执行总共需要 142 个量子比特的计算，这超过了单片芯片一次可以容纳的量子比特数。摘自“纠缠在一起协同工作的量子芯片”
+新科学家 (11/20/24) Matthew Sparkes 查看全文]]></description>
+      <guid>https://www.newscientist.com/article/2456542-ibm-entangled-two-quantum-chips-to-work-together-for-the-first-time/</guid>
+      <pubDate>Mon, 25 Nov 2024 18:12:27 GMT</pubDate>
     </item>
     <item>
-      <title>美国将资助芯片数字孪生中心</title>
-      <link>https://www.bloomberg.com/news/articles/2024-11-19/us-to-fund-chip-digital-twins-center-to-cut-r-d-costs</link>
-      <description><![CDATA[彭博社美国计划向北卡罗来纳州一家专注于数字孪生技术的新半导体研究中心提供 2.85 亿美元资金，该中心将由行业研究联盟半导体研究公司运营。美国商务部声明称，目标是在五年内，新研究所将有助于加速技术开发，减少与芯片制造相关的温室气体，并为超过 100,000 名学生和工人提供数字孪生技术培训。摘自“美国资助芯片数字孪生中心”
-彭博社 (11/19/24) Mackenzie Hawkins 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-11-19/us-to-fund-chip-digital-twins-center-to-cut-r-d-costs</guid>
-      <pubDate>Fri, 22 Nov 2024 18:12:22 GMT</pubDate>
+      <title>消失的岛国在虚拟世界中重现</title>
+      <link>https://www.bbc.com/future/article/20241121-tuvalu-the-pacific-islands-creating-a-digital-nation-in-the-metaverse-due-to-climate-change</link>
+      <description><![CDATA[BBC 新闻受海平面上升威胁，太平洋岛国图瓦卢正在对从房屋到树木的一切进行数字化备份。它希望这个虚拟复制品能为子孙后代保留该国的美丽和文化，以及 11,000 名公民的合法权利。图瓦卢外交部长西蒙·科菲 (Simon Kofe) 在 2022 年 COP27 会议上通过视频演讲介绍该计划时表示：“我们的土地、海洋和文化是我们人民最宝贵的资产，为了保护它们免受伤害，无论现实世界发生什么，我们都会将它们转移到云端。”摘自“消失的岛国在元宇宙中重现自我”
+BBC 新闻 (2024 年 11 月 21 日) Sophie Yeo 查看全文]]></description>
+      <guid>https://www.bbc.com/future/article/20241121-tuvalu-the-pacific-islands-creating-a-digital-nation-in-the-metaverse-due-to-climate-change</guid>
+      <pubDate>Mon, 25 Nov 2024 18:12:26 GMT</pubDate>
     </item>
     <item>
-      <title>司法部要求谷歌出售 Chrome</title>
-      <link>https://www.npr.org/2024/11/20/g-s1-35111/after-a-court-win-the-justice-department-is-trying-to-make-google-sell-its-chrome-browser</link>
-      <description><![CDATA[NPR美国司法部律师周三要求负责监督针对谷歌的反垄断案的联邦法官下令这家科技巨头出售其 Chrome 浏览器。美国表示，此举将使谷歌的浏览器与其搜索引擎分离，并在在线搜索市场创造更多竞争。周三提交的法庭文件是在 8 月份的一项裁决之后提出的，该裁决认为谷歌通过非法垄断保留了其搜索引擎的主导地位。摘自“司法部希望谷歌出售 Chrome”
-NPR (11/20/24) Bobby Allyn 查看全文]]></description>
-      <guid>https://www.npr.org/2024/11/20/g-s1-35111/after-a-court-win-the-justice-department-is-trying-to-make-google-sell-its-chrome-browser</guid>
-      <pubDate>Fri, 22 Nov 2024 18:12:21 GMT</pubDate>
+      <title>澳大利亚关键基础设施面临网络威胁</title>
+      <link>https://www.reuters.com/technology/cybersecurity/australia-critical-infrastructure-faces-cyber-threats-report-says-2024-11-20/</link>
+      <description><![CDATA[路透社澳大利亚信号局的一份报告显示，去年澳大利亚超过 11% 的网络安全事件与关键基础设施有关。其中，四分之一是网络钓鱼事件，21% 是利用面向公众的界面，15% 是暴力破解活动。国防部长理查德·马尔斯 (Richard Marles) 表示：“我们担心，网络犯罪分子和国家行为者越来越关注我们的关键基础设施。”摘自“澳大利亚关键基础设施面临网络威胁”
+路透社 (11/20/24) Kirsty Needham 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/cybersecurity/australia-critical-infrastructure-faces-cyber-threats-report-says-2024-11-20/</guid>
+      <pubDate>Mon, 25 Nov 2024 18:12:26 GMT</pubDate>
     </item>
     <item>
-      <title>中国工业机器人使用量超越德国</title>
-      <link>https://www.reuters.com/technology/china-overtakes-germany-industrial-use-robots-says-report-2024-11-20/</link>
-      <description><![CDATA[路透社国际机器人联合会（IFR）的一份报告显示，中国在工业机器人使用方面已超过德国。IFR 报告称，韩国是全球工业机器人密度最高的国家，每 10,000 名员工拥有 1,012 台机器人，自 2018 年以来增长了 5%。紧随其后的是新加坡，其次是中国，每 10,000 名工人拥有 470 台机器人，是 2019 年密度的两倍多。相比之下，德国每 10,000 名员工拥有 429 台机器人，自 2018 年以来年增长率为 5%。
-摘自“中国在工业机器人使用方面超越德国”
-路透社 (11/20/24) Madeline Chambers 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/china-overtakes-germany-industrial-use-robots-says-report-2024-11-20/</guid>
-      <pubDate>Fri, 22 Nov 2024 18:12:21 GMT</pubDate>
+      <title>大学招生不考虑种族因素，损害多样性且无法提高质量</title>
+      <link>https://news.cornell.edu/stories/2024/11/race-blind-college-admissions-harm-diversity-without-improving-quality</link>
+      <description><![CDATA[康奈尔纪事报康奈尔大学研究人员的一项研究表明，在考虑大学录取时忽视种族因素会导致多样性减少，学术资质也不会提高。研究人员使用一所未具名大学的数据来模拟最高法院 2023 年“公平录取学生诉哈佛”案裁决的影响，该裁决禁止大学在录取时考虑种族因素。摘自“不考虑种族因素的大学录取损害多样性，而不会提高质量”
+康奈尔纪事报 (2024 年 11 月 21 日) Patricia Waldron 查看全文]]></description>
+      <guid>https://news.cornell.edu/stories/2024/11/race-blind-college-admissions-harm-diversity-without-improving-quality</guid>
+      <pubDate>Mon, 25 Nov 2024 18:12:25 GMT</pubDate>
     </item>
     <item>
-      <title>电子鼻每秒采样 60 次气味</title>
-      <link>https://spectrum.ieee.org/electronic-nose</link>
-      <description><![CDATA[IEEE Spectrum英国赫特福德大学的研究人员及其同事开发了一种电子鼻，每秒可解析和解码多达 60 次的气味波动。它还可以根据气味与电子鼻传感器交互时产生的特定模式来区分气味。电子鼻比信用卡还小，采用现成的组件和定制的数字接口构建而成。摘自“电子鼻每秒采样 60 次气味”
-IEEE Spectrum (11/20/24) Liam Critchley 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/electronic-nose</guid>
-      <pubDate>Fri, 22 Nov 2024 18:12:20 GMT</pubDate>
+      <title>大学棒球技术实验规则获批准</title>
+      <link>https://www.ncaa.org/news/2024/11/20/media-center-technology-experimental-rules-approved-for-baseball.aspx</link>
+      <description><![CDATA[NCAA.orgNCAA 比赛规则监督小组批准了大学棒球实验规则，允许在 2025 赛季的联赛比赛中扩大技术使用范围。比赛期间，球队将被允许使用电子设备在球员休息区获取分析和侦察信息。球队还可以使用球棒传感器技术收集比赛中的挥棒数据，但投球位置和挥棒数据将无法获取。摘自“大学棒球技术实验规则获批”
+NCAA.org (11/21/24) 查看全文]]></description>
+      <guid>https://www.ncaa.org/news/2024/11/20/media-center-technology-experimental-rules-approved-for-baseball.aspx</guid>
+      <pubDate>Mon, 25 Nov 2024 18:12:25 GMT</pubDate>
     </item>
     <item>
-      <title>教皇将封已故意大利少年为第一位数字时代圣人</title>
-      <link>https://apnews.com/article/vatican-pope-acutis-saint-mass-50ae3d104388cb9e801e01a4d0014bbd</link>
-      <description><![CDATA[美联社教皇方济各表示，他将于明年 4 月将卡洛·阿库蒂斯封为圣人，让这位已故少年成为天主教会第一位千禧一代数字时代的圣人。阿库蒂斯是一名网页设计师，2006 年在意大利因白血病去世，年仅 15 岁。教皇方济各将于 2020 年将他封为圣人。他被誉为“互联网的守护神”， Acutis 利用他的技术天赋创建了一个网站来记录奇迹，并负责一些当地天主教组织的网站。摘自“教皇将已故意大利青少年封为第一位数字时代圣人”
-美联社 (11/20/24) 查看全文]]></description>
-      <guid>https://apnews.com/article/vatican-pope-acutis-saint-mass-50ae3d104388cb9e801e01a4d0014bbd</guid>
-      <pubDate>Fri, 22 Nov 2024 18:12:20 GMT</pubDate>
+      <title>在人工智能世界中学习编码</title>
+      <link>https://www.nytimes.com/2024/11/24/business/computer-coding-boot-camps.html</link>
+      <description><![CDATA[《纽约时报》CourseReport 在 2020 年对 3,000 名编程训练营毕业生进行的一项调查中，79% 的受访者表示，这些课程帮助他们找到了工作，平均薪资增长了 56%。然而，随着人工智能编程工具开始成为主流，该行业开始减少招聘。根据 CompTIA 汇编的数据，软件开发人员的活跃职位发布数量比五年前下降了 56%，而缺乏经验的开发人员的职位发布数量下降了 67%。摘自“在人工智能世界中学习编程”
+《纽约时报》（2024 年 11 月 24 日）Sarah Kessler 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/11/24/business/computer-coding-boot-camps.html</guid>
+      <pubDate>Mon, 25 Nov 2024 18:12:24 GMT</pubDate>
     </item>
     <item>
-      <title>大学理事会试点项目促进职业教育</title>
-      <link>https://www.k12dive.com/news/college-board-career-education-pilot/733484/</link>
-      <description><![CDATA[K-12 Dive非营利性大学理事会正在向职业和技术教育领域扩展，开设的课程允许全国各地的高中生参加以职业为导向的 AP 同等课程。在 2024-25 学年，该委员会启动了职业启动计划，在德克萨斯州圣安东尼奥的两所高中开设了两门网络安全途径试点课程。学生可以在 AP 计算机科学 A 或 AP 计算机科学原理之前、之后或同时学习这些课程。摘自“大学理事会试点计划促进职业教育”
-K-12 Dive (11/24) Briana Mendez-Padilla 查看全文]]></description>
-      <guid>https://www.k12dive.com/news/college-board-career-education-pilot/733484/</guid>
-      <pubDate>Fri, 22 Nov 2024 18:12:19 GMT</pubDate>
+      <title>科学界在 Bluesky 上找到新家园</title>
+      <link>https://www.science.org/content/article/old-twitter-scientific-community-finds-new-home-bluesky</link>
+      <description><![CDATA[科学Bluesky 正逐渐成为 X 的替代品，成为研究人员新的在线聚会场所，其类似 Twitter 的感觉吸引了众多研究人员。亚利桑那州立大学 (ASU) 的研究人员发现，原因之一是许多在 X 上拥有大量粉丝的研究人员已经在 Bluesky 上建立了类似的存在，但并没有太多使用它。ASU 计算机科学家 Ujun Jeong 将此归因于这两个平台的相似性。“有趣的是，影响力更大的人实际上更想迁移，”他指出。摘自“科学界在蓝天上找到新家”
+科学 (11/21/24) Kai Kupferschmidt 查看全文]]></description>
+      <guid>https://www.science.org/content/article/old-twitter-scientific-community-finds-new-home-bluesky</guid>
+      <pubDate>Mon, 25 Nov 2024 18:12:24 GMT</pubDate>
     </item>
     <item>
-      <title>微软在“零日探索”活动中向黑客提供数百万美元奖励</title>
-      <link>https://www.techtarget.com/searchsecurity/news/366616078/Microsoft-to-offer-hackers-millions-in-Zero-Day-Quest-event</link>
-      <description><![CDATA[TechTarget微软在本周的 Microsoft Ignite 大会上公布了 Zero Day Quest 漏洞赏金活动，为安全研究人员提供高达 400 万美元的奖励。Zero Day Quest 将于明年举行，作为微软安全未来计划下漏洞赏金和透明度计划的扩展。“归根结底，我们认识到，在安全方面，它从根本上来说是一项团队运动，”微软首席执行官萨蒂亚·纳德拉 (Satya Nadella) 表示。
-
-摘自“微软在 Zero Day Quest 活动中向黑客提供数百万美元”
-TechTarget (11/19/24) Alexander Culafi 查看全文]]></description>
-      <guid>https://www.techtarget.com/searchsecurity/news/366616078/Microsoft-to-offer-hackers-millions-in-Zero-Day-Quest-event</guid>
-      <pubDate>Fri, 22 Nov 2024 18:12:19 GMT</pubDate>
+      <title>FCC 通过汽车安全频谱规则</title>
+      <link>https://www.theverge.com/2024/11/21/24302733/fcc-cv2x-cellular-vehicle-everything-spectrum-rules-final</link>
+      <description><![CDATA[The Verge美国联邦通信委员会 (FCC) 已确定新的频谱规则，以推动蜂窝车对万物 (C-V2X) 通信技术的发展。C-V2X 将使用现有的蜂窝网络在车辆之间、车辆与基础设施之间、车辆与骑行者之间以及车辆与行人之间发送消息，以警告彼此的存在，从而确保安全。FCC 主席 Jessica Rosenworcel 表示，这些规则促进了“30 兆赫频谱的有效利用”专用于 5.9GHz 频段的智能交通系统。摘自“FCC 通过汽车安全频谱规则”
+The Verge (11/21/24) Umar Shakir 查看全文]]></description>
+      <guid>https://www.theverge.com/2024/11/21/24302733/fcc-cv2x-cellular-vehicle-everything-spectrum-rules-final</guid>
+      <pubDate>Mon, 25 Nov 2024 18:12:24 GMT</pubDate>
     </item>
     <item>
-      <title>以色列牵头的联盟发布人体细胞图谱</title>
-      <link>https://www.jpost.com/science/science-around-the-world/article-830096</link>
-      <description><![CDATA[耶路撒冷邮报（以色列）科学家公布了人类细胞图谱的初稿，这是一个全面的人类细胞数据库，发表了来自《自然》和其他期刊的 40 多篇同行评审论文。该项目于 2016 年启动，旨在创建所有人类细胞的综合参考图，作为了解人类健康和诊断、监测和治疗疾病的基础。
-摘自“以色列牵头的财团发布人体细胞图谱”
-耶路撒冷邮报（以色列）（2024 年 11 月 21 日） 查看全文]]></description>
-      <guid>https://www.jpost.com/science/science-around-the-world/article-830096</guid>
-      <pubDate>Fri, 22 Nov 2024 18:12:18 GMT</pubDate>
+      <title>最高法院介入互联网补贴之争</title>
+      <link>https://apnews.com/article/supreme-court-fcc-subsidies-telecommunications-01fe0754c2bf71d17d34bde21a3825de</link>
+      <description><![CDATA[美联社美国最高法院周五介入了一场法律纠纷，该纠纷涉及联邦政府每年花费 80 亿美元补贴学校、图书馆和农村地区的电话和互联网服务。法官将审查一项上诉裁决，该裁决推翻了普遍服务基金违宪，美国联邦通信委员会通过该基金从电信提供商那里收取资金，然后将这些成本转嫁给客户。倡导组织消费者研究对这一做法提出了质疑。摘自“最高法院介入互联网补贴之争”
+美联社 (11/22/24) 查看全文]]></description>
+      <guid>https://apnews.com/article/supreme-court-fcc-subsidies-telecommunications-01fe0754c2bf71d17d34bde21a3825de</guid>
+      <pubDate>Mon, 25 Nov 2024 18:12:23 GMT</pubDate>
     </item>
     <item>
-      <title>美国在人工智能创新方面领先，轻松超越中国</title>
-      <link>https://apnews.com/article/ai-us-china-competition-stanford-index-uk-india-c8eb9be0253eb39776c3e38d05f1a329</link>
-      <description><![CDATA[美联社根据斯坦福大学以人为本人工智能研究所最新发布的人工智能指数，美国在人工智能技术开发方面处于世界领先地位，在研究和其他重要的人工智能创新指标方面均超过中国。该指数委员会主任 Ray Perrault 表示：“差距实际上正在扩大。美国的投资要多得多，至少在公司创建和公司融资方面是如此。”摘自“美国在人工智能创新方面领先，轻松超越中国”
-美联社 (2024 年 11 月 21 日) Matt O&#39;Brien 查看全文]]></description>
-      <guid>https://apnews.com/article/ai-us-china-competition-stanford-index-uk-india-c8eb9be0253eb39776c3e38d05f1a329</guid>
-      <pubDate>Fri, 22 Nov 2024 18:12:17 GMT</pubDate>
+      <title>俄罗斯黑客利用邻居的 Wi-Fi 入侵美国目标</title>
+      <link>https://www.wired.com/story/russia-gru-apt28-wifi-daisy-chain-breach/</link>
+      <description><![CDATA[有线俄罗斯军方黑客首先入侵街对面建筑物中的另一个易受攻击的网络，然后远程入侵该建筑物中的一台笔记本电脑，最后使用该计算机的天线侵入目标受害者的网络，从而闯入目标 Wi-Fi 网络。在上周的 Cyber​​warcon 安全会议上，网络安全研究员 Steven Adair 透露了他的公司 Volexity 如何在 2022 年调查针对华盛顿特区客户的网络入侵时发现了前所未有的黑客技术。摘自“俄罗斯黑客通过邻居的 Wi-Fi 入侵美国目标”
+Wired (2024 年 11 月 22 日) Andy Greenberg 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wired.com/story/russia-gru-apt28-wifi-daisy-chain-breach/</guid>
+      <pubDate>Mon, 25 Nov 2024 18:12:23 GMT</pubDate>
     </item>
     <item>
-      <title>澳大利亚提出法案限制 16 岁以下儿童使用社交媒体</title>
-      <link>https://www.cnn.com/2024/11/20/australia/australia-social-media-ban-tabled-intl-hnk/index.html</link>
-      <description><![CDATA[美国有线电视新闻网澳大利亚周四在议会提出了《网络安全法》的修正案，将 16 岁定为访问社交媒体的最低年龄。预计该限制将适用于包括 TikTok、X、Instagram 和 Snapchat 在内的社交媒体服务，但尚未公布被禁服务名单。该立法包括对未采取“合理措施阻止年龄限制用户拥有账户”的公司处以最高 5000 万澳元的罚款。摘自“澳大利亚推出法案限制 16 岁以下儿童使用社交媒体”
-CNN（2024 年 11 月 21 日）希拉里·怀特曼 查看全文]]></description>
-      <guid>https://www.cnn.com/2024/11/20/australia/australia-social-media-ban-tabled-intl-hnk/index.html</guid>
-      <pubDate>Fri, 22 Nov 2024 18:12:17 GMT</pubDate>
+      <title>ACM 授予 Gordon Bell 气候建模奖</title>
+      <link>https://www.acm.org/media-center/2024/november/gordon-bell-climate-2024</link>
+      <description><![CDATA[ACM 媒体中心ACM 向一支由 12 名成员组成的团队颁发了 ACM 戈登贝尔气候建模奖，获奖项目为“使用百亿亿次气候模拟器提升地球系统模型输出并节省 PB 级存储空间”。该团队开发了百亿亿次气候模拟器，以满足高分辨率地球系统模型模拟不断增加的计算和存储需求。摘自“ACM 颁发戈登贝尔气候建模奖”
+ACM 媒体中心 (2024 年 11 月 21 日) 查看全文]]></description>
+      <guid>https://www.acm.org/media-center/2024/november/gordon-bell-climate-2024</guid>
+      <pubDate>Mon, 25 Nov 2024 18:12:22 GMT</pubDate>
     </item>
     <item>
-      <title>戈登贝尔奖团队提出破纪录的化学和生物学算法</title>
-      <link>https://www.acm.org/media-center/2024/november/gordon-bell-prize-2024</link>
-      <description><![CDATA[ACM 媒体中心ACM 提名一支由来自澳大利亚和美国机构的八人团队获得 2024 年 ACM 戈登贝尔奖，获奖项目为“突破百万电子和 1 EFLOP/s 障碍：使用 MP2 势的生物分子级从头算分子动力学”。该团队使用一种新技术，在模拟超过一百万个电子的计算化学应用中取得了破纪录的性能，并将其算法扩展到 EFlop/s。摘自“戈登贝尔奖团队提出破纪录的化学和生物学算法”
-ACM 媒体中心 (11/21/24) 查看全文]]></description>
-      <guid>https://www.acm.org/media-center/2024/november/gordon-bell-prize-2024</guid>
-      <pubDate>Fri, 22 Nov 2024 18:12:16 GMT</pubDate>
+      <title>瑞士大学对中国学生采取更严格措施</title>
+      <link>https://www.bloomberg.com/news/articles/2024-11-23/swiss-university-applies-stricter-measures-to-chinese-students?sref=db2f3qgr</link>
+      <description><![CDATA[彭博社瑞士苏黎世联邦理工学院收紧了某些科学技术领域硕士和博士课程的录取标准，以遵守瑞士打击国际间谍活动的法律。虽然针对的是受国际制裁的国家，但受影响最大的将是中国公民。新政策针对的是申请可以用于军事领域的学生，包括信息技术、工程和人工智能。摘自“瑞士大学对中国学生采取更严格的措施”
+彭博社 (11/23/24) Paula Doenecke； Laura Alviz 查看全文]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-11-23/swiss-university-applies-stricter-measures-to-chinese-students?sref=db2f3qgr</guid>
+      <pubDate>Mon, 25 Nov 2024 18:12:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
