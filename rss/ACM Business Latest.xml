@@ -4,7 +4,21 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Tue, 26 Nov 2024 09:10:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 12:18:01 GMT</lastBuildDate>
+    <item>
+      <title>科技巨头走向终结</title>
+      <link>https://www.wired.com/story/the-beginning-of-the-end-of-big-tech/</link>
+      <description><![CDATA[从政客到风险投资公司，每个人都不再喜欢庞大、以金钱为导向的全球科技巨头。取而代之的是，我们有机会建立一些开放且值得信赖的东西。]]></description>
+      <guid>https://www.wired.com/story/the-beginning-of-the-end-of-big-tech/</guid>
+      <pubDate>Tue, 26 Nov 2024 12:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何实现通用人工智能？思考更轻松</title>
+      <link>https://www.wired.com/story/how-do-you-get-to-artificial-general-intelligence-think-lighter/</link>
+      <description><![CDATA[数十亿美元的硬件和高昂的使用成本正在扼杀人工智能创新。如果要取得进展，法学硕士课程需要变得更精简、更便宜。]]></description>
+      <guid>https://www.wired.com/story/how-do-you-get-to-artificial-general-intelligence-think-lighter/</guid>
+      <pubDate>Tue, 26 Nov 2024 11:35:00 GMT</pubDate>
+    </item>
     <item>
       <title>我们需要为人工智能赋予新的修复权</title>
       <link>https://www.wired.com/story/we-need-new-right-to-repair-for-artificial-intelligence/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[芯片生产延迟和传闻的过热问题并没有减缓 Nvidia 的步伐，该公司报告称又一个季度的收益惊人，并表示 Blackwells 现在已由微软和 OpenAI 收购。]]></description>
       <guid>https://www.wired.com/story/nvidia-earnings-blackwell-chips-overheating/</guid>
       <pubDate>Thu, 21 Nov 2024 00:15:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>参加《连线》大型访谈活动</title>
-      <link>https://www.wired.com/story/thebiginterview-2024-conference/</link>
-      <description><![CDATA[12 月 3 日，《连线》杂志将与技术、商业、科学等领域的一些知名人士进行一整天的深入交谈。]]></description>
-      <guid>https://www.wired.com/story/thebiginterview-2024-conference/</guid>
-      <pubDate>Wed, 20 Nov 2024 17:28:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚马逊机器人大军背后的人希望每个人都拥有一个人工智能助手</title>
-      <link>https://www.wired.com/story/robot-army-proxie-humanoid/</link>
-      <description><![CDATA[布拉德·波特帮助亚马逊部署了一支仓库机器人大军。他的新发明 Proxie 可以帮助其他公司实现更多自动化。]]></description>
-      <guid>https://www.wired.com/story/robot-army-proxie-humanoid/</guid>
-      <pubDate>Wed, 20 Nov 2024 17:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
