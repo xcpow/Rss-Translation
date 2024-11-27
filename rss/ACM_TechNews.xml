@@ -4,102 +4,111 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Mon, 25 Nov 2024 18:12:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 18:12:45 GMT</lastBuildDate>
     <item>
-      <title>量子芯片相互纠缠，协同工作</title>
-      <link>https://www.newscientist.com/article/2456542-ibm-entangled-two-quantum-chips-to-work-together-for-the-first-time/</link>
-      <description><![CDATA[新科学家IBM 的研究人员演示了一对量子比特的纠缠以及其中一个量子比特到第二个芯片的隐形传态。研究人员连接了两个 Eagle 量子处理单元，每个单元有 127 个量子比特，以执行总共需要 142 个量子比特的计算，这超过了单片芯片一次可以容纳的量子比特数。摘自“纠缠在一起协同工作的量子芯片”
-新科学家 (11/20/24) Matthew Sparkes 查看全文]]></description>
-      <guid>https://www.newscientist.com/article/2456542-ibm-entangled-two-quantum-chips-to-work-together-for-the-first-time/</guid>
-      <pubDate>Mon, 25 Nov 2024 18:12:27 GMT</pubDate>
+      <title>秘鲁沙漠出现更多纳斯卡线条</title>
+      <link>https://www.nytimes.com/2024/11/23/science/nazca-lines-peru-ai.html</link>
+      <description><![CDATA[《纽约时报》无人机和人工智能帮助研究人员发现了 303 个之前未被发现的地面雕刻，它们是由纳斯卡（位于现今秘鲁的前印加文明）制作的。为了识别这些比之前的地面雕刻更小的新地面雕刻，研究人员使用了一种应用程序，该应用程序能够从航拍照片中辨别出轮廓，无论轮廓多么模糊。IBM 的 Marcus Freitag 表示：“人工智能能够排除 98% 的图像。现在，人类专家只需确认或拒绝可信的候选者。”
+摘自“秘鲁沙漠中出现更多纳斯卡线条”
+纽约时报 (11/26/24) Franz Lidz 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/11/23/science/nazca-lines-peru-ai.html</guid>
+      <pubDate>Wed, 27 Nov 2024 18:12:45 GMT</pubDate>
     </item>
     <item>
-      <title>消失的岛国在虚拟世界中重现</title>
-      <link>https://www.bbc.com/future/article/20241121-tuvalu-the-pacific-islands-creating-a-digital-nation-in-the-metaverse-due-to-climate-change</link>
-      <description><![CDATA[BBC 新闻受海平面上升威胁，太平洋岛国图瓦卢正在对从房屋到树木的一切进行数字化备份。它希望这个虚拟复制品能为子孙后代保留该国的美丽和文化，以及 11,000 名公民的合法权利。图瓦卢外交部长西蒙·科菲 (Simon Kofe) 在 2022 年 COP27 会议上通过视频演讲介绍该计划时表示：“我们的土地、海洋和文化是我们人民最宝贵的资产，为了保护它们免受伤害，无论现实世界发生什么，我们都会将它们转移到云端。”摘自“消失的岛国在元宇宙中重现自我”
-BBC 新闻 (2024 年 11 月 21 日) Sophie Yeo 查看全文]]></description>
-      <guid>https://www.bbc.com/future/article/20241121-tuvalu-the-pacific-islands-creating-a-digital-nation-in-the-metaverse-due-to-climate-change</guid>
-      <pubDate>Mon, 25 Nov 2024 18:12:26 GMT</pubDate>
+      <title>中国严厉打击基于算法的互联网行为</title>
+      <link>https://www.bloomberg.com/news/articles/2024-11-24/china-to-crack-down-on-unfair-algorithm-based-internet-practices</link>
+      <description><![CDATA[彭博社中国国家互联网信息办公室表示，将通过一项针对“信息茧房”的特别计划，打击不公平和不合规的互联网行为。通过“信息茧房”，平台根据用户表达的兴趣、品味和偏好向用户显示结果。该计划将持续到 2025 年 2 月 24 日，针对同质推送通知、操纵和干扰主题排名以及侵犯个人通过互联网开展业务的权利。摘自“中国打击基于算法的互联网行为”
+彭博社 (11/24/24) 查看全文]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-11-24/china-to-crack-down-on-unfair-algorithm-based-internet-practices</guid>
+      <pubDate>Wed, 27 Nov 2024 18:12:44 GMT</pubDate>
     </item>
     <item>
-      <title>澳大利亚关键基础设施面临网络威胁</title>
-      <link>https://www.reuters.com/technology/cybersecurity/australia-critical-infrastructure-faces-cyber-threats-report-says-2024-11-20/</link>
-      <description><![CDATA[路透社澳大利亚信号局的一份报告显示，去年澳大利亚超过 11% 的网络安全事件与关键基础设施有关。其中，四分之一是网络钓鱼事件，21% 是利用面向公众的界面，15% 是暴力破解活动。国防部长理查德·马尔斯 (Richard Marles) 表示：“我们担心，网络犯罪分子和国家行为者越来越关注我们的关键基础设施。”摘自“澳大利亚关键基础设施面临网络威胁”
-路透社 (11/20/24) Kirsty Needham 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/cybersecurity/australia-critical-infrastructure-faces-cyber-threats-report-says-2024-11-20/</guid>
-      <pubDate>Mon, 25 Nov 2024 18:12:26 GMT</pubDate>
+      <title>谷歌将建造连接澳大利亚达尔文和圣诞岛的海底电缆</title>
+      <link>https://www.reuters.com/technology/google-build-subsea-cable-linking-australias-darwin-christmas-island-2024-11-25/</link>
+      <description><![CDATA[路透社谷歌正在支持一项铺设海底电缆的项目，该电缆将连接澳大利亚达尔文和印度洋上的澳大利亚领土圣诞岛。另一条海底电缆计划将墨尔本与珀斯连接起来，然后连接到圣诞岛和新加坡。澳大利亚正寻求通过建设更多通往西部亚洲、穿过南太平洋通往美国的海底电缆通道，减少其受到数字干扰的风险。摘自“谷歌将建设连接澳大利亚达尔文和圣诞岛的海底电缆”
+路透社 (2024 年 11 月 25 日) Kirsty Needham 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/google-build-subsea-cable-linking-australias-darwin-christmas-island-2024-11-25/</guid>
+      <pubDate>Wed, 27 Nov 2024 18:12:44 GMT</pubDate>
     </item>
     <item>
-      <title>大学招生不考虑种族因素，损害多样性且无法提高质量</title>
-      <link>https://news.cornell.edu/stories/2024/11/race-blind-college-admissions-harm-diversity-without-improving-quality</link>
-      <description><![CDATA[康奈尔纪事报康奈尔大学研究人员的一项研究表明，在考虑大学录取时忽视种族因素会导致多样性减少，学术资质也不会提高。研究人员使用一所未具名大学的数据来模拟最高法院 2023 年“公平录取学生诉哈佛”案裁决的影响，该裁决禁止大学在录取时考虑种族因素。摘自“不考虑种族因素的大学录取损害多样性，而不会提高质量”
-康奈尔纪事报 (2024 年 11 月 21 日) Patricia Waldron 查看全文]]></description>
-      <guid>https://news.cornell.edu/stories/2024/11/race-blind-college-admissions-harm-diversity-without-improving-quality</guid>
-      <pubDate>Mon, 25 Nov 2024 18:12:25 GMT</pubDate>
+      <title>美国宇航局测试手机大小的水下机器人</title>
+      <link>https://www.space.com/space-exploration/missions/nasa-tests-cellphone-sized-underwater-robots-for-future-ocean-world-missions-video</link>
+      <description><![CDATA[Space.com美国宇航局喷气推进实验室 (JPL) 的研究人员开发的 SWIM（独立微型游泳感应器）机器人在加州理工学院的游泳池中进行了测试，展示了它们的机动性。这些微型机器人由 3D 打印塑料和低成本商用电机和电子设备组成，能够以“割草机”模式移动并拼出“JPL”。摘自“NASA 测试手机大小的水下机器人”
+Space.com (11/25/24) Sharmila Kuthunur 查看全文]]></description>
+      <guid>https://www.space.com/space-exploration/missions/nasa-tests-cellphone-sized-underwater-robots-for-future-ocean-world-missions-video</guid>
+      <pubDate>Wed, 27 Nov 2024 18:12:44 GMT</pubDate>
     </item>
     <item>
-      <title>大学棒球技术实验规则获批准</title>
-      <link>https://www.ncaa.org/news/2024/11/20/media-center-technology-experimental-rules-approved-for-baseball.aspx</link>
-      <description><![CDATA[NCAA.orgNCAA 比赛规则监督小组批准了大学棒球实验规则，允许在 2025 赛季的联赛比赛中扩大技术使用范围。比赛期间，球队将被允许使用电子设备在球员休息区获取分析和侦察信息。球队还可以使用球棒传感器技术收集比赛中的挥棒数据，但投球位置和挥棒数据将无法获取。摘自“大学棒球技术实验规则获批”
-NCAA.org (11/21/24) 查看全文]]></description>
-      <guid>https://www.ncaa.org/news/2024/11/20/media-center-technology-experimental-rules-approved-for-baseball.aspx</guid>
-      <pubDate>Mon, 25 Nov 2024 18:12:25 GMT</pubDate>
+      <title>从空中窃听水下信号</title>
+      <link>https://engineering.princeton.edu/news/2024/11/21/eavesdropping-underwater-signals-air</link>
+      <description><![CDATA[普林斯顿工程新闻普林斯顿大学和麻省理工学院的研究人员开发了一种设备，利用雷达解码水下声学信号在水面上产生的振动。研究人员开发了利用雷达和声纳之间的差异来解码消息的算法，而无需与水下发射器通信。在新泽西州卡内基湖进行的测试中，该设备尽管受到波浪和风的干扰，但仍能解码消息，并以 97.58% 的准确率识别调制类型。摘自“从空中窃听水下信号”
+普林斯顿工程新闻 (11/21/24) Alaina O&#39;Regan 查看全文]]></description>
+      <guid>https://engineering.princeton.edu/news/2024/11/21/eavesdropping-underwater-signals-air</guid>
+      <pubDate>Wed, 27 Nov 2024 18:12:43 GMT</pubDate>
     </item>
     <item>
-      <title>在人工智能世界中学习编码</title>
-      <link>https://www.nytimes.com/2024/11/24/business/computer-coding-boot-camps.html</link>
-      <description><![CDATA[《纽约时报》CourseReport 在 2020 年对 3,000 名编程训练营毕业生进行的一项调查中，79% 的受访者表示，这些课程帮助他们找到了工作，平均薪资增长了 56%。然而，随着人工智能编程工具开始成为主流，该行业开始减少招聘。根据 CompTIA 汇编的数据，软件开发人员的活跃职位发布数量比五年前下降了 56%，而缺乏经验的开发人员的职位发布数量下降了 67%。摘自“在人工智能世界中学习编程”
-《纽约时报》（2024 年 11 月 24 日）Sarah Kessler 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/11/24/business/computer-coding-boot-camps.html</guid>
-      <pubDate>Mon, 25 Nov 2024 18:12:24 GMT</pubDate>
+      <title>国际刑警组织严厉打击网络犯罪，在非洲逮捕 1000 多名犯罪嫌疑人</title>
+      <link>https://apnews.com/article/interpol-cybercrime-africa-afripol-fraud-serengeti-trafficking-208111329edd3a1a64faf85cc7c0d2c0</link>
+      <description><![CDATA[美联社国际刑警组织周二表示，在为期两个月的打击网络犯罪行动中，国际刑警组织在非洲逮捕了 1,006 名嫌疑人，该行动造成数万名受害者。该机构表示，塞伦盖蒂行动是与非洲联盟警察机构 Afripol 联合开展的一项行动，在 19 个非洲国家开展，目标是勒索软件、商业电子邮件入侵、数字勒索和在线诈骗背后的犯罪分子。 Afripol 的 Jalel Chelba 表示，该组织的重点包括新兴威胁，如人工智能驱动的恶意软件和先进的网络攻击技术。摘自“国际刑警组织严厉打击网络犯罪，在非洲逮捕 1,000 多名嫌疑人”
+美联社 (11/26/24) Mark Ba​​nchereau 查看全文]]></description>
+      <guid>https://apnews.com/article/interpol-cybercrime-africa-afripol-fraud-serengeti-trafficking-208111329edd3a1a64faf85cc7c0d2c0</guid>
+      <pubDate>Wed, 27 Nov 2024 18:12:43 GMT</pubDate>
     </item>
     <item>
-      <title>科学界在 Bluesky 上找到新家园</title>
-      <link>https://www.science.org/content/article/old-twitter-scientific-community-finds-new-home-bluesky</link>
-      <description><![CDATA[科学Bluesky 正逐渐成为 X 的替代品，成为研究人员新的在线聚会场所，其类似 Twitter 的感觉吸引了众多研究人员。亚利桑那州立大学 (ASU) 的研究人员发现，原因之一是许多在 X 上拥有大量粉丝的研究人员已经在 Bluesky 上建立了类似的存在，但并没有太多使用它。ASU 计算机科学家 Ujun Jeong 将此归因于这两个平台的相似性。“有趣的是，影响力更大的人实际上更想迁移，”他指出。摘自“科学界在蓝天上找到新家”
-科学 (11/21/24) Kai Kupferschmidt 查看全文]]></description>
-      <guid>https://www.science.org/content/article/old-twitter-scientific-community-finds-new-home-bluesky</guid>
-      <pubDate>Mon, 25 Nov 2024 18:12:24 GMT</pubDate>
+      <title>零重力技术可让宇航员利用新型纳米墨水修复太空电路</title>
+      <link>https://interestingengineering.com/space/astronauts-to-3dprint-circuits-in-space</link>
+      <description><![CDATA[有趣的工程爱荷华州立大学研究人员开发的 3D 打印机和纳米墨水可用于在零重力条件下生产电子元件。纳米墨水由与生物基聚合物合成的银纳米颗粒组成，加热后可激活其电性能，用于打印复杂的电子电路。3D 打印机使用电流体动力打印技术，以百万分之一米的分辨率进行打印。摘自“零重力技术可让宇航员使用新型纳米墨水在太空中修复电路”
+有趣的工程 (11/22/24) Mrigakshi Dixit 查看全文]]></description>
+      <guid>https://interestingengineering.com/space/astronauts-to-3dprint-circuits-in-space</guid>
+      <pubDate>Wed, 27 Nov 2024 18:12:42 GMT</pubDate>
     </item>
     <item>
-      <title>FCC 通过汽车安全频谱规则</title>
-      <link>https://www.theverge.com/2024/11/21/24302733/fcc-cv2x-cellular-vehicle-everything-spectrum-rules-final</link>
-      <description><![CDATA[The Verge美国联邦通信委员会 (FCC) 已确定新的频谱规则，以推动蜂窝车对万物 (C-V2X) 通信技术的发展。C-V2X 将使用现有的蜂窝网络在车辆之间、车辆与基础设施之间、车辆与骑行者之间以及车辆与行人之间发送消息，以警告彼此的存在，从而确保安全。FCC 主席 Jessica Rosenworcel 表示，这些规则促进了“30 兆赫频谱的有效利用”专用于 5.9GHz 频段的智能交通系统。摘自“FCC 通过汽车安全频谱规则”
-The Verge (11/21/24) Umar Shakir 查看全文]]></description>
-      <guid>https://www.theverge.com/2024/11/21/24302733/fcc-cv2x-cellular-vehicle-everything-spectrum-rules-final</guid>
-      <pubDate>Mon, 25 Nov 2024 18:12:24 GMT</pubDate>
+      <title>机器鸽揭示鸟类如何飞行</title>
+      <link>https://www.newscientist.com/article/2456661-robotic-pigeon-reveals-how-birds-fly-without-a-vertical-tail-fin/</link>
+      <description><![CDATA[新科学家荷兰格罗宁根大学的戴维·伦廷克及其同事设计了一种受鸽子启发的机器人，解决了鸟类如何在没有人类设计的飞机所依赖的垂直尾翼的情况下飞行的谜团。研究人员编写了计算机程序来控制 Pigeonbot II 中的九个伺服电机，使用每个机翼上的螺旋桨操纵它，同时还自动扭转和扇动尾部以产生通常由垂直尾翼产生的稳定性。摘自“机器鸽揭示鸟类如何飞行”
+《新科学家》（2024 年 11 月 20 日）Matthew Sparkes 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.newscientist.com/article/2456661-robotic-pigeon-reveals-how-birds-fly-without-a-vertical-tail-fin/</guid>
+      <pubDate>Wed, 27 Nov 2024 18:12:42 GMT</pubDate>
     </item>
     <item>
-      <title>最高法院介入互联网补贴之争</title>
-      <link>https://apnews.com/article/supreme-court-fcc-subsidies-telecommunications-01fe0754c2bf71d17d34bde21a3825de</link>
-      <description><![CDATA[美联社美国最高法院周五介入了一场法律纠纷，该纠纷涉及联邦政府每年花费 80 亿美元补贴学校、图书馆和农村地区的电话和互联网服务。法官将审查一项上诉裁决，该裁决推翻了普遍服务基金违宪，美国联邦通信委员会通过该基金从电信提供商那里收取资金，然后将这些成本转嫁给客户。倡导组织消费者研究对这一做法提出了质疑。摘自“最高法院介入互联网补贴之争”
-美联社 (11/22/24) 查看全文]]></description>
-      <guid>https://apnews.com/article/supreme-court-fcc-subsidies-telecommunications-01fe0754c2bf71d17d34bde21a3825de</guid>
-      <pubDate>Mon, 25 Nov 2024 18:12:23 GMT</pubDate>
+      <title>Uber 的零工工作者现在包括为 AI 项目雇佣程序员</title>
+      <link>https://www.bloomberg.com/news/articles/2024-11-26/uber-expands-into-ai-data-labeling-using-gig-coders-for-hire?sref=db2f3qgr</link>
+      <description><![CDATA[彭博社拼车巨头 Uber Technologies 的零工经济劳动力现在包括程序员，允许企业将 AI 开发外包给其独立承包商。新的 AI 培训和数据标记规模化解决方案部门以内部团队为基础，负责处理 Uber 拼车、食品配送和货运部门的大规模注释任务。根据其网站，Scaled Solutions 已经为其他同样需要高质量数据集的公司提供服务。摘自“Uber 的零工工作者现在在 AI 项目中雇佣程序员”
+彭博社 (2024 年 11 月 26 日) Natalie Lung 查看全文]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-11-26/uber-expands-into-ai-data-labeling-using-gig-coders-for-hire?sref=db2f3qgr</guid>
+      <pubDate>Wed, 27 Nov 2024 18:12:41 GMT</pubDate>
     </item>
     <item>
-      <title>俄罗斯黑客利用邻居的 Wi-Fi 入侵美国目标</title>
-      <link>https://www.wired.com/story/russia-gru-apt28-wifi-daisy-chain-breach/</link>
-      <description><![CDATA[有线俄罗斯军方黑客首先入侵街对面建筑物中的另一个易受攻击的网络，然后远程入侵该建筑物中的一台笔记本电脑，最后使用该计算机的天线侵入目标受害者的网络，从而闯入目标 Wi-Fi 网络。在上周的 Cyber​​warcon 安全会议上，网络安全研究员 Steven Adair 透露了他的公司 Volexity 如何在 2022 年调查针对华盛顿特区客户的网络入侵时发现了前所未有的黑客技术。摘自“俄罗斯黑客通过邻居的 Wi-Fi 入侵美国目标”
-Wired (2024 年 11 月 22 日) Andy Greenberg 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wired.com/story/russia-gru-apt28-wifi-daisy-chain-breach/</guid>
-      <pubDate>Mon, 25 Nov 2024 18:12:23 GMT</pubDate>
+      <title>《棒棒糖》为虚拟现实带来趣味</title>
+      <link>https://spectrum.ieee.org/virtual-reality-taste</link>
+      <description><![CDATA[IEEE Spectrum香港城市大学的研究人员开发了一种可舔的棒棒糖形设备，可以在虚拟现实中模拟味觉。该设备含有嵌入琼脂糖凝胶中的食品级化学物质，当对凝胶施加电压时，这些化学物质会以液体形式输送到设备表面。液体与用户的唾液混合，产生九种口味：糖、盐、柠檬酸、樱桃、百香果、绿茶、牛奶、榴莲和葡萄柚。摘自“‘棒棒糖’为 VR 带来味觉”
+IEEE Spectrum (11/25/24) Gwendolyn Rak 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/virtual-reality-taste</guid>
+      <pubDate>Wed, 27 Nov 2024 18:12:41 GMT</pubDate>
     </item>
     <item>
-      <title>ACM 授予 Gordon Bell 气候建模奖</title>
-      <link>https://www.acm.org/media-center/2024/november/gordon-bell-climate-2024</link>
-      <description><![CDATA[ACM 媒体中心ACM 向一支由 12 名成员组成的团队颁发了 ACM 戈登贝尔气候建模奖，获奖项目为“使用百亿亿次气候模拟器提升地球系统模型输出并节省 PB 级存储空间”。该团队开发了百亿亿次气候模拟器，以满足高分辨率地球系统模型模拟不断增加的计算和存储需求。摘自“ACM 颁发戈登贝尔气候建模奖”
-ACM 媒体中心 (2024 年 11 月 21 日) 查看全文]]></description>
-      <guid>https://www.acm.org/media-center/2024/november/gordon-bell-climate-2024</guid>
-      <pubDate>Mon, 25 Nov 2024 18:12:22 GMT</pubDate>
+      <title>TikTok 首席执行官因在罗马尼亚大选中扮演的角色被欧洲议会传唤</title>
+      <link>https://www.politico.eu/article/elections-tiktok-ceo-eu-parliament-romania-election-fake-accounts-pro-russia-calin-georgescu-nato-shock-victory/</link>
+      <description><![CDATA[Politico EU Influence欧盟议员 Valérie Hayer 希望 TikTok 首席执行官出席欧洲议会，回答有关该平台在周日罗马尼亚总统选举中的作用的问题。极端民族主义者和亲俄人士 Calin Georgescu 在第一轮选举中获胜，引发了人们对 TikTok 竞选活动如何利用数千个虚假账户成功推动这位相对不知名的候选人获胜的担忧。摘自“TikTok 首席执行官因在罗马尼亚选举中的作用被传唤到欧洲议会”
+Politico EU Influence (11/26/24) Nicholas Vinocur； Pieter Haeck 查看全文]]></description>
+      <guid>https://www.politico.eu/article/elections-tiktok-ceo-eu-parliament-romania-election-fake-accounts-pro-russia-calin-georgescu-nato-shock-victory/</guid>
+      <pubDate>Wed, 27 Nov 2024 18:12:40 GMT</pubDate>
     </item>
     <item>
-      <title>瑞士大学对中国学生采取更严格措施</title>
-      <link>https://www.bloomberg.com/news/articles/2024-11-23/swiss-university-applies-stricter-measures-to-chinese-students?sref=db2f3qgr</link>
-      <description><![CDATA[彭博社瑞士苏黎世联邦理工学院收紧了某些科学技术领域硕士和博士课程的录取标准，以遵守瑞士打击国际间谍活动的法律。虽然针对的是受国际制裁的国家，但受影响最大的将是中国公民。新政策针对的是申请可以用于军事领域的学生，包括信息技术、工程和人工智能。摘自“瑞士大学对中国学生采取更严格的措施”
-彭博社 (11/23/24) Paula Doenecke； Laura Alviz 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-11-23/swiss-university-applies-stricter-measures-to-chinese-students?sref=db2f3qgr</guid>
-      <pubDate>Mon, 25 Nov 2024 18:12:22 GMT</pubDate>
+      <title>美国敲定拜登芯片计划 110 亿美元投资英特尔</title>
+      <link>https://www.washingtonpost.com/technology/2024/11/26/intel-11-billion-grant-chips-biden/</link>
+      <description><![CDATA[《华盛顿邮报》美国将向芯片制造商英特尔公司提供近 110 亿美元的联邦拨款，以增加国内工厂的高端半导体产量，因为拜登政府急于在唐纳德·特朗普上任前拨出《芯片与科学法案》规定的资金。英特尔将获得 78.6 亿美元用于建设其核心制造设施，外加 9 月份宣布的用于与国防部合作项目的额外 30 亿美元。摘自“美国根据拜登的芯片计划最终为英特尔提供 110 亿美元”
+《华盛顿邮报》（2024 年 11 月 26 日）Gerrit De Vynck 查看全文]]></description>
+      <guid>https://www.washingtonpost.com/technology/2024/11/26/intel-11-billion-grant-chips-biden/</guid>
+      <pubDate>Wed, 27 Nov 2024 18:12:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>星巴克在遭受勒索软件攻击后手动计算咖啡师工资</title>
+      <link>https://edition.cnn.com/2024/11/25/tech/starbucks-ransomware-attack/index.html</link>
+      <description><![CDATA[CNN星巴克表示，最近亚利桑那州云服务提供商 Blue Yonder 遭受勒索软件攻击，迫使其手动跟踪和管理咖啡师的日程安排，以确保他们得到适当的报酬。许多跨国公司都使用 Blue Yonder 的云服务来管理其供应链。汽车制造商福特和英国顶级杂货连锁店是其他可能受到此次攻击影响的公司之一。摘自“星巴克在勒索软件攻击后手动计算咖啡师的工资”
+CNN (11/25/24) Sean Lyngaas 查看全文]]></description>
+      <guid>https://edition.cnn.com/2024/11/25/tech/starbucks-ransomware-attack/index.html</guid>
+      <pubDate>Wed, 27 Nov 2024 18:12:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
