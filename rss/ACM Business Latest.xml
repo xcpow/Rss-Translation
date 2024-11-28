@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Wed, 27 Nov 2024 21:08:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 00:44:36 GMT</lastBuildDate>
+    <item>
+      <title>美国将对中国获取尖端芯片实施新限制</title>
+      <link>https://www.wired.com/story/memory-restrictions-china-advanced-chips/</link>
+      <description><![CDATA[预计新的限制将于周一公布，旨在减缓中国构建大型强大人工智能模型的能力。]]></description>
+      <guid>https://www.wired.com/story/memory-restrictions-china-advanced-chips/</guid>
+      <pubDate>Wed, 27 Nov 2024 22:50:09 GMT</pubDate>
+    </item>
     <item>
       <title>是的，你读到的那篇热门 LinkedIn 帖子很可能是人工智能生成的</title>
       <link>https://www.wired.com/story/linkedin-ai-generated-influencers/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[《连线》杂志 (WIRED) 探讨了硅谷最具影响力的意识形态之一。]]></description>
       <guid>https://www.wired.com/story/uncanny-valley-podcast-4-is-silicon-valley-libertarian/</guid>
       <pubDate>Thu, 21 Nov 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软 50 岁：人工智能巨头。更友善的文化。仍然执意称霸</title>
-      <link>https://www.wired.com/story/at-age-50-microsoft-is-an-ai-giant-an-open-source-lover-and-bad-as-it-ever-was/</link>
-      <description><![CDATA[萨蒂亚·纳德拉接任首席执行官时，微软举步维艰，缺乏冷静。他清理了不良的企业文化，制定了十年来最伟大的交易，让微软重回巅峰。]]></description>
-      <guid>https://www.wired.com/story/at-age-50-microsoft-is-an-ai-giant-an-open-source-lover-and-bad-as-it-ever-was/</guid>
-      <pubDate>Thu, 21 Nov 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
