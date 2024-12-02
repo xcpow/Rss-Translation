@@ -4,7 +4,21 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Mon, 02 Dec 2024 09:11:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 12:18:27 GMT</lastBuildDate>
+    <item>
+      <title>这个网站展示了谷歌的人工智能能从你的照片中获取多少信息</title>
+      <link>https://www.wired.com/story/website-google-ai-photos-ente/</link>
+      <description><![CDATA[一家由前谷歌工程师创建的照片共享初创公司找到了一种巧妙的方法，让谷歌的技术自食其果。]]></description>
+      <guid>https://www.wired.com/story/website-google-ai-photos-ente/</guid>
+      <pubDate>Mon, 02 Dec 2024 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国让中国制造自己的人工智能芯片变得更加困难</title>
+      <link>https://www.wired.com/story/2024-chips-export-controls-china/</link>
+      <description><![CDATA[拜登政府宣布了一系列全面的新出口管制措施，这将使华为和字节跳动等中国公司更难开发尖端人工智能。]]></description>
+      <guid>https://www.wired.com/story/2024-chips-export-controls-china/</guid>
+      <pubDate>Mon, 02 Dec 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>美国将对中国获取尖端芯片实施新限制</title>
       <link>https://www.wired.com/story/memory-restrictions-china-advanced-chips/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[国际特赦组织发布了一份报告，列出了 13 家主要电动汽车制造商的供应链和人权尽职调查政策。结果与电动汽车承诺的清洁、安全的未来相去甚远。]]></description>
       <guid>https://www.wired.com/story/the-worlds-biggest-maker-of-evs-has-the-worst-appraisal-of-human-rights/</guid>
       <pubDate>Fri, 22 Nov 2024 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>《纽约时报》称 OpenAI 删除了潜在的诉讼证据</title>
-      <link>https://www.wired.com/story/new-york-times-openai-erased-potential-lawsuit-evidence/</link>
-      <description><![CDATA[作为正在进行的版权诉讼的一部分，《纽约时报》表示，它花了 150 个小时筛选 OpenAI 的训练数据以寻找潜在证据——但 OpenAI 却删除了其所有工作。]]></description>
-      <guid>https://www.wired.com/story/new-york-times-openai-erased-potential-lawsuit-evidence/</guid>
-      <pubDate>Thu, 21 Nov 2024 19:55:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>硅谷真的是自由主义的吗？</title>
-      <link>https://www.wired.com/story/uncanny-valley-podcast-4-is-silicon-valley-libertarian/</link>
-      <description><![CDATA[《连线》杂志 (WIRED) 探讨了硅谷最具影响力的意识形态之一。]]></description>
-      <guid>https://www.wired.com/story/uncanny-valley-podcast-4-is-silicon-valley-libertarian/</guid>
-      <pubDate>Thu, 21 Nov 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
