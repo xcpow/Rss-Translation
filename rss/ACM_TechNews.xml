@@ -4,111 +4,103 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Wed, 27 Nov 2024 18:12:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 18:13:03 GMT</lastBuildDate>
     <item>
-      <title>秘鲁沙漠出现更多纳斯卡线条</title>
-      <link>https://www.nytimes.com/2024/11/23/science/nazca-lines-peru-ai.html</link>
-      <description><![CDATA[《纽约时报》无人机和人工智能帮助研究人员发现了 303 个之前未被发现的地面雕刻，它们是由纳斯卡（位于现今秘鲁的前印加文明）制作的。为了识别这些比之前的地面雕刻更小的新地面雕刻，研究人员使用了一种应用程序，该应用程序能够从航拍照片中辨别出轮廓，无论轮廓多么模糊。IBM 的 Marcus Freitag 表示：“人工智能能够排除 98% 的图像。现在，人类专家只需确认或拒绝可信的候选者。”
-摘自“秘鲁沙漠中出现更多纳斯卡线条”
-纽约时报 (11/26/24) Franz Lidz 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/11/23/science/nazca-lines-peru-ai.html</guid>
-      <pubDate>Wed, 27 Nov 2024 18:12:45 GMT</pubDate>
+      <title>量化奥运会旨在寻找下一代金融明星</title>
+      <link>https://www.bloomberg.com/news/features/2024-11-25/at-singapore-hosted-quant-olympics-competitors-pitch-new-investing-strategies</link>
+      <description><![CDATA[彭博社“Ruff Boys”是三名台湾大学生，他们在最近于新加坡举行的国际量化锦标赛上获得了 20,000 美元的最高奖金。该锦标赛由对冲基金 WorldQuant 主办，目标是确定 alpha（可以预测资产表现的数学模型），并根据其假设回报进行排名。WorldQuant 的 Nitish Maini 表示：“为了帮助我们吸收大量数据，我们需要一个庞大的人才库。”摘自“量化奥运会寻求寻找下一代金融明星”
+彭博社 (11/25/24) Justina Lee； David Ramli 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.bloomberg.com/news/features/2024-11-25/at-singapore-hosted-quant-olympics-competitors-pitch-new-investing-strategies</guid>
+      <pubDate>Mon, 02 Dec 2024 18:13:03 GMT</pubDate>
     </item>
     <item>
-      <title>中国严厉打击基于算法的互联网行为</title>
-      <link>https://www.bloomberg.com/news/articles/2024-11-24/china-to-crack-down-on-unfair-algorithm-based-internet-practices</link>
-      <description><![CDATA[彭博社中国国家互联网信息办公室表示，将通过一项针对“信息茧房”的特别计划，打击不公平和不合规的互联网行为。通过“信息茧房”，平台根据用户表达的兴趣、品味和偏好向用户显示结果。该计划将持续到 2025 年 2 月 24 日，针对同质推送通知、操纵和干扰主题排名以及侵犯个人通过互联网开展业务的权利。摘自“中国打击基于算法的互联网行为”
-彭博社 (11/24/24) 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-11-24/china-to-crack-down-on-unfair-algorithm-based-internet-practices</guid>
-      <pubDate>Wed, 27 Nov 2024 18:12:44 GMT</pubDate>
+      <title>OpenAI 的 Sora 遭艺术家泄露抗议</title>
+      <link>https://www.ft.com/content/5281eff4-711b-49ac-8227-634dbeed757b</link>
+      <description><![CDATA[《金融时报》在艺术家测试 OpenAI 的 Sora（一种可以将文本转换为视频的 AI 工具）后，该模型被短暂泄露，随后 OpenAI 终止了艺术家的早期访问权。几名测试人员上传到开发者平台 Hugging Face 的一封信称，OpenAI 利用了数百名艺术家，他们通过错误测试、反馈和实验工作提供无偿劳动。”摘自“艺术家抗议 OpenAI 的 Sora 泄露”
+金融时报 (2024 年 11 月 26 日) Cristina Criddle；Madhumita Murgia 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.ft.com/content/5281eff4-711b-49ac-8227-634dbeed757b</guid>
+      <pubDate>Mon, 02 Dec 2024 18:13:02 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌将建造连接澳大利亚达尔文和圣诞岛的海底电缆</title>
-      <link>https://www.reuters.com/technology/google-build-subsea-cable-linking-australias-darwin-christmas-island-2024-11-25/</link>
-      <description><![CDATA[路透社谷歌正在支持一项铺设海底电缆的项目，该电缆将连接澳大利亚达尔文和印度洋上的澳大利亚领土圣诞岛。另一条海底电缆计划将墨尔本与珀斯连接起来，然后连接到圣诞岛和新加坡。澳大利亚正寻求通过建设更多通往西部亚洲、穿过南太平洋通往美国的海底电缆通道，减少其受到数字干扰的风险。摘自“谷歌将建设连接澳大利亚达尔文和圣诞岛的海底电缆”
-路透社 (2024 年 11 月 25 日) Kirsty Needham 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/google-build-subsea-cable-linking-australias-darwin-christmas-island-2024-11-25/</guid>
-      <pubDate>Wed, 27 Nov 2024 18:12:44 GMT</pubDate>
+      <title>大多数社交媒体影响者在分享信息之前不会核实信息</title>
+      <link>https://edition.cnn.com/2024/11/26/media/social-media-influencers-verify-information-study/index.html</link>
+      <description><![CDATA[CNN联合国教科文组织发现，在其调查的来自 45 个国家和地区的 500 名数字内容创作者中，62% 在分享内容之前没有核实其内容的准确性。约三分之一的创作者表示，如果信息来自可信来源，他们在分享之前没有检查信息的有效性。超过 40% 的网红根据点赞和浏览量来判断在线来源的可信度，20% 的人依赖可信赖的朋友和专家，只有 17% 的人表示他们依赖文件和证据。摘自“大多数社交媒体网红在分享之前不会核实信息”
+CNN (11/26/24) Liam Reilly 查看全文]]></description>
+      <guid>https://edition.cnn.com/2024/11/26/media/social-media-influencers-verify-information-study/index.html</guid>
+      <pubDate>Mon, 02 Dec 2024 18:13:02 GMT</pubDate>
     </item>
     <item>
-      <title>美国宇航局测试手机大小的水下机器人</title>
-      <link>https://www.space.com/space-exploration/missions/nasa-tests-cellphone-sized-underwater-robots-for-future-ocean-world-missions-video</link>
-      <description><![CDATA[Space.com美国宇航局喷气推进实验室 (JPL) 的研究人员开发的 SWIM（独立微型游泳感应器）机器人在加州理工学院的游泳池中进行了测试，展示了它们的机动性。这些微型机器人由 3D 打印塑料和低成本商用电机和电子设备组成，能够以“割草机”模式移动并拼出“JPL”。摘自“NASA 测试手机大小的水下机器人”
-Space.com (11/25/24) Sharmila Kuthunur 查看全文]]></description>
-      <guid>https://www.space.com/space-exploration/missions/nasa-tests-cellphone-sized-underwater-robots-for-future-ocean-world-missions-video</guid>
-      <pubDate>Wed, 27 Nov 2024 18:12:44 GMT</pubDate>
+      <title>玻璃碎片带来更清洁未来的希望</title>
+      <link>https://www.wsj.com/articles/glass-chips-offer-hope-of-cleaner-future-for-quantum-computing-9c72a806</link>
+      <description><![CDATA[WSJ Pro Sustainable Business意大利初创公司 Ephos 正在使用玻璃代替硅来制造光子量子芯片，以减少该行业的碳足迹。光子芯片可以在室温下运行，因此具有节能效果。Ephos 的 Andrea Rocchetto 表示，使用玻璃可以使芯片“像玻璃瓶一样可回收”。玻璃芯片还可以减少运行量子计算机所需的能量，并提高光子传输效率。摘自“玻璃芯片为更清洁的未来带来希望”
+WSJ Pro Sustainable Business (11/26/24) Don Nico Forbes 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/articles/glass-chips-offer-hope-of-cleaner-future-for-quantum-computing-9c72a806</guid>
+      <pubDate>Mon, 02 Dec 2024 18:13:01 GMT</pubDate>
     </item>
     <item>
-      <title>从空中窃听水下信号</title>
-      <link>https://engineering.princeton.edu/news/2024/11/21/eavesdropping-underwater-signals-air</link>
-      <description><![CDATA[普林斯顿工程新闻普林斯顿大学和麻省理工学院的研究人员开发了一种设备，利用雷达解码水下声学信号在水面上产生的振动。研究人员开发了利用雷达和声纳之间的差异来解码消息的算法，而无需与水下发射器通信。在新泽西州卡内基湖进行的测试中，该设备尽管受到波浪和风的干扰，但仍能解码消息，并以 97.58% 的准确率识别调制类型。摘自“从空中窃听水下信号”
-普林斯顿工程新闻 (11/21/24) Alaina O&#39;Regan 查看全文]]></description>
-      <guid>https://engineering.princeton.edu/news/2024/11/21/eavesdropping-underwater-signals-air</guid>
-      <pubDate>Wed, 27 Nov 2024 18:12:43 GMT</pubDate>
+      <title>你的身体可以为可穿戴设备充电</title>
+      <link>https://www.fastcompany.com/91233975/carnegie-mellon-wearable-charging-using-body</link>
+      <description><![CDATA[Fast Company卡内基梅隆大学的研究人员开发了一种设备，该设备使用射频 (RF) 信号通过皮肤无线传输电流，使用户能够为小型电子设备供电。Power-over-Skin 技术使用电池供电的发射器，可以集成到智能手机、智能手表和其他设备中，将 RF 能量耦合到用户的皮肤上。摘自“你的身体可以为可穿戴设备充电”
+Fast Company (11/26/24) Jesus Diaz 查看全文]]></description>
+      <guid>https://www.fastcompany.com/91233975/carnegie-mellon-wearable-charging-using-body</guid>
+      <pubDate>Mon, 02 Dec 2024 18:13:01 GMT</pubDate>
     </item>
     <item>
-      <title>国际刑警组织严厉打击网络犯罪，在非洲逮捕 1000 多名犯罪嫌疑人</title>
-      <link>https://apnews.com/article/interpol-cybercrime-africa-afripol-fraud-serengeti-trafficking-208111329edd3a1a64faf85cc7c0d2c0</link>
-      <description><![CDATA[美联社国际刑警组织周二表示，在为期两个月的打击网络犯罪行动中，国际刑警组织在非洲逮捕了 1,006 名嫌疑人，该行动造成数万名受害者。该机构表示，塞伦盖蒂行动是与非洲联盟警察机构 Afripol 联合开展的一项行动，在 19 个非洲国家开展，目标是勒索软件、商业电子邮件入侵、数字勒索和在线诈骗背后的犯罪分子。 Afripol 的 Jalel Chelba 表示，该组织的重点包括新兴威胁，如人工智能驱动的恶意软件和先进的网络攻击技术。摘自“国际刑警组织严厉打击网络犯罪，在非洲逮捕 1,000 多名嫌疑人”
-美联社 (11/26/24) Mark Ba​​nchereau 查看全文]]></description>
-      <guid>https://apnews.com/article/interpol-cybercrime-africa-afripol-fraud-serengeti-trafficking-208111329edd3a1a64faf85cc7c0d2c0</guid>
-      <pubDate>Wed, 27 Nov 2024 18:12:43 GMT</pubDate>
+      <title>“幽灵工程师”无所事事却能赚六位数薪水吗？</title>
+      <link>https://www.404media.co/are-overemployed-ghost-engineers-making-six-figures-to-do-nothing/</link>
+      <description><![CDATA[404 Media斯坦福大学研究员 Yegor Denisov-Blanch 最近在 X 上发表的一篇文章强调了科技公司对“过度就业”这一问题的关注程度。Denisov-Blanch 写道：“我们拥有来自数百家公司的 5 万多名工程师的绩效数据。约 9.5% 的软件工程师几乎什么都不做：幽灵工程师。”Denisov-Blanch 表示，过去两年对科技公司内部代码库的算法代码审查发现，近 10% 的员工绩效不及软件工程师平均水平的 10%。
+摘自“‘幽灵工程师’无所事事却能赚六位数薪水吗？”
+404 Media (11/27/24) Jason Koebler 查看全文]]></description>
+      <guid>https://www.404media.co/are-overemployed-ghost-engineers-making-six-figures-to-do-nothing/</guid>
+      <pubDate>Mon, 02 Dec 2024 18:13:00 GMT</pubDate>
     </item>
     <item>
-      <title>零重力技术可让宇航员利用新型纳米墨水修复太空电路</title>
-      <link>https://interestingengineering.com/space/astronauts-to-3dprint-circuits-in-space</link>
-      <description><![CDATA[有趣的工程爱荷华州立大学研究人员开发的 3D 打印机和纳米墨水可用于在零重力条件下生产电子元件。纳米墨水由与生物基聚合物合成的银纳米颗粒组成，加热后可激活其电性能，用于打印复杂的电子电路。3D 打印机使用电流体动力打印技术，以百万分之一米的分辨率进行打印。摘自“零重力技术可让宇航员使用新型纳米墨水在太空中修复电路”
-有趣的工程 (11/22/24) Mrigakshi Dixit 查看全文]]></description>
-      <guid>https://interestingengineering.com/space/astronauts-to-3dprint-circuits-in-space</guid>
-      <pubDate>Wed, 27 Nov 2024 18:12:42 GMT</pubDate>
+      <title>战争之翼</title>
+      <link>https://www.nytimes.com/2024/11/26/science/hummingbirds-robots-drone-warfare.html</link>
+      <description><![CDATA[《纽约时报》作为美国国防部资助的一项计划的一部分，研究人员正在研究蜂鸟的生理和飞行性能，以开发用于无人机战争的更先进的机器人。蜂鸟之所以受到关注，是因为它们非常灵活，可以无限期地悬停。然而，研究人员面临的挑战是，较小的机器人尚无法高速向前飞行，而且蜂鸟的翅膀和尾巴在飞行过程中反复变化的方式很难复制。摘自《战争之翼》
+纽约时报 (11/26/24) Jim Robbins 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/11/26/science/hummingbirds-robots-drone-warfare.html</guid>
+      <pubDate>Mon, 02 Dec 2024 18:13:00 GMT</pubDate>
     </item>
     <item>
-      <title>机器鸽揭示鸟类如何飞行</title>
-      <link>https://www.newscientist.com/article/2456661-robotic-pigeon-reveals-how-birds-fly-without-a-vertical-tail-fin/</link>
-      <description><![CDATA[新科学家荷兰格罗宁根大学的戴维·伦廷克及其同事设计了一种受鸽子启发的机器人，解决了鸟类如何在没有人类设计的飞机所依赖的垂直尾翼的情况下飞行的谜团。研究人员编写了计算机程序来控制 Pigeonbot II 中的九个伺服电机，使用每个机翼上的螺旋桨操纵它，同时还自动扭转和扇动尾部以产生通常由垂直尾翼产生的稳定性。摘自“机器鸽揭示鸟类如何飞行”
-《新科学家》（2024 年 11 月 20 日）Matthew Sparkes 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.newscientist.com/article/2456661-robotic-pigeon-reveals-how-birds-fly-without-a-vertical-tail-fin/</guid>
-      <pubDate>Wed, 27 Nov 2024 18:12:42 GMT</pubDate>
+      <title>Matrix 瞄准 3500 万台设备</title>
+      <link>https://www.forbes.com/sites/daveywinder/2024/11/27/is-your-router-in-the-matrix-35-million-devices-under-blue-pill-attack/</link>
+      <description><![CDATA[福布斯Aqua Security 的 Assaf Morag 警告称，3500 万台联网设备已经成为名为“Matrix”的网络威胁分子的攻击目标。 Matrix 策划的分布式拒绝服务攻击活动“表明威胁行为者越来越倾向于针对互联网连接设备（尤其是物联网和企业系统）的漏洞和错误配置，”Morag 写道。据信此次攻击是由俄罗斯人实施的，其动机是经济利益，而不是政治。摘自“Matrix 瞄准 3500 万台设备”
+福布斯（2024 年 11 月 27 日）Davey Winder 查看全文]]></description>
+      <guid>https://www.forbes.com/sites/daveywinder/2024/11/27/is-your-router-in-the-matrix-35-million-devices-under-blue-pill-attack/</guid>
+      <pubDate>Mon, 02 Dec 2024 18:12:59 GMT</pubDate>
     </item>
     <item>
-      <title>Uber 的零工工作者现在包括为 AI 项目雇佣程序员</title>
-      <link>https://www.bloomberg.com/news/articles/2024-11-26/uber-expands-into-ai-data-labeling-using-gig-coders-for-hire?sref=db2f3qgr</link>
-      <description><![CDATA[彭博社拼车巨头 Uber Technologies 的零工经济劳动力现在包括程序员，允许企业将 AI 开发外包给其独立承包商。新的 AI 培训和数据标记规模化解决方案部门以内部团队为基础，负责处理 Uber 拼车、食品配送和货运部门的大规模注释任务。根据其网站，Scaled Solutions 已经为其他同样需要高质量数据集的公司提供服务。摘自“Uber 的零工工作者现在在 AI 项目中雇佣程序员”
-彭博社 (2024 年 11 月 26 日) Natalie Lung 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-11-26/uber-expands-into-ai-data-labeling-using-gig-coders-for-hire?sref=db2f3qgr</guid>
-      <pubDate>Wed, 27 Nov 2024 18:12:41 GMT</pubDate>
+      <title>特斯拉招聘员工远程控制自动驾驶出租车</title>
+      <link>https://gizmodo.com/tesla-is-looking-to-hire-a-team-to-remotely-control-its-self-driving-robotaxis-2000530600</link>
+      <description><![CDATA[Gizmodo特斯拉的招聘信息中，招聘人员需要为公司即将推出的自动驾驶出租车车队组建远程遥控团队。招聘信息中指出，“我们的汽车和机器人在充满挑战的环境中自主运行。随着我们不断迭代为它们提供动力的人工智能，我们需要能够远程访问和控制它们。”摘自“特斯拉招聘员工远程控制自动驾驶出租车”
+Gizmodo (2024 年 11 月 27 日) Lucas Ropek 查看全文]]></description>
+      <guid>https://gizmodo.com/tesla-is-looking-to-hire-a-team-to-remotely-control-its-self-driving-robotaxis-2000530600</guid>
+      <pubDate>Mon, 02 Dec 2024 18:12:59 GMT</pubDate>
     </item>
     <item>
-      <title>《棒棒糖》为虚拟现实带来趣味</title>
-      <link>https://spectrum.ieee.org/virtual-reality-taste</link>
-      <description><![CDATA[IEEE Spectrum香港城市大学的研究人员开发了一种可舔的棒棒糖形设备，可以在虚拟现实中模拟味觉。该设备含有嵌入琼脂糖凝胶中的食品级化学物质，当对凝胶施加电压时，这些化学物质会以液体形式输送到设备表面。液体与用户的唾液混合，产生九种口味：糖、盐、柠檬酸、樱桃、百香果、绿茶、牛奶、榴莲和葡萄柚。摘自“‘棒棒糖’为 VR 带来味觉”
-IEEE Spectrum (11/25/24) Gwendolyn Rak 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/virtual-reality-taste</guid>
-      <pubDate>Wed, 27 Nov 2024 18:12:41 GMT</pubDate>
+      <title>中国向科技人才提供大量工作机会</title>
+      <link>https://www.wsj.com/world/china-tech-poaching-job-offer-pay-raise-f8ceac5b</link>
+      <description><![CDATA[《华尔街日报》为了在先进半导体和人工智能领域获得竞争优势，中国公司正努力从硅谷、台湾和欧洲部分地区等领先的科技中心挖走顶尖工程师。这些公司经常在当地建立合资企业，以掩盖其中国血统。台湾正在打击中国科技招聘，韩国正在加大对非法向中国和其他外国转移敏感技术的个人的处罚力度。摘自“中国向科技人才提供工作机会”
+《华尔街日报》（2024 年 11 月 27 日）Bertrand Benoit；Liza Lin；Heather Somerville；等人 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/world/china-tech-poaching-job-offer-pay-raise-f8ceac5b</guid>
+      <pubDate>Mon, 02 Dec 2024 18:12:58 GMT</pubDate>
     </item>
     <item>
-      <title>TikTok 首席执行官因在罗马尼亚大选中扮演的角色被欧洲议会传唤</title>
-      <link>https://www.politico.eu/article/elections-tiktok-ceo-eu-parliament-romania-election-fake-accounts-pro-russia-calin-georgescu-nato-shock-victory/</link>
-      <description><![CDATA[Politico EU Influence欧盟议员 Valérie Hayer 希望 TikTok 首席执行官出席欧洲议会，回答有关该平台在周日罗马尼亚总统选举中的作用的问题。极端民族主义者和亲俄人士 Calin Georgescu 在第一轮选举中获胜，引发了人们对 TikTok 竞选活动如何利用数千个虚假账户成功推动这位相对不知名的候选人获胜的担忧。摘自“TikTok 首席执行官因在罗马尼亚选举中的作用被传唤到欧洲议会”
-Politico EU Influence (11/26/24) Nicholas Vinocur； Pieter Haeck 查看全文]]></description>
-      <guid>https://www.politico.eu/article/elections-tiktok-ceo-eu-parliament-romania-election-fake-accounts-pro-russia-calin-georgescu-nato-shock-victory/</guid>
-      <pubDate>Wed, 27 Nov 2024 18:12:40 GMT</pubDate>
+      <title>钻石存储可以保存数据数百万年</title>
+      <link>https://www.newscientist.com/article/2457948-record-breaking-diamond-storage-can-save-data-for-millions-of-years/</link>
+      <description><![CDATA[新科学家中国科学技术大学研究人员开发的基于钻石的系统理论上可以在室温下每立方厘米存储 1.85 TB 的数据，保存时间长达数百万年。该团队通过将每个像素的亮度映射到钻石内部特定位置的亮度级别来存储图像，准确度和完整性达到 99%。摘自“钻石存储可以保存数据数百万年”
+新科学家 (2024 年 11 月 27 日) Jeremy Hsu 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.newscientist.com/article/2457948-record-breaking-diamond-storage-can-save-data-for-millions-of-years/</guid>
+      <pubDate>Mon, 02 Dec 2024 18:12:58 GMT</pubDate>
     </item>
     <item>
-      <title>美国敲定拜登芯片计划 110 亿美元投资英特尔</title>
-      <link>https://www.washingtonpost.com/technology/2024/11/26/intel-11-billion-grant-chips-biden/</link>
-      <description><![CDATA[《华盛顿邮报》美国将向芯片制造商英特尔公司提供近 110 亿美元的联邦拨款，以增加国内工厂的高端半导体产量，因为拜登政府急于在唐纳德·特朗普上任前拨出《芯片与科学法案》规定的资金。英特尔将获得 78.6 亿美元用于建设其核心制造设施，外加 9 月份宣布的用于与国防部合作项目的额外 30 亿美元。摘自“美国根据拜登的芯片计划最终为英特尔提供 110 亿美元”
-《华盛顿邮报》（2024 年 11 月 26 日）Gerrit De Vynck 查看全文]]></description>
-      <guid>https://www.washingtonpost.com/technology/2024/11/26/intel-11-billion-grant-chips-biden/</guid>
-      <pubDate>Wed, 27 Nov 2024 18:12:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>星巴克在遭受勒索软件攻击后手动计算咖啡师工资</title>
-      <link>https://edition.cnn.com/2024/11/25/tech/starbucks-ransomware-attack/index.html</link>
-      <description><![CDATA[CNN星巴克表示，最近亚利桑那州云服务提供商 Blue Yonder 遭受勒索软件攻击，迫使其手动跟踪和管理咖啡师的日程安排，以确保他们得到适当的报酬。许多跨国公司都使用 Blue Yonder 的云服务来管理其供应链。汽车制造商福特和英国顶级杂货连锁店是其他可能受到此次攻击影响的公司之一。摘自“星巴克在勒索软件攻击后手动计算咖啡师的工资”
-CNN (11/25/24) Sean Lyngaas 查看全文]]></description>
-      <guid>https://edition.cnn.com/2024/11/25/tech/starbucks-ransomware-attack/index.html</guid>
-      <pubDate>Wed, 27 Nov 2024 18:12:40 GMT</pubDate>
+      <title>韩国将为芯片行业提供 100 亿美元贷款</title>
+      <link>https://www.reuters.com/technology/south-korea-roll-out-10-bln-loans-next-year-support-chip-industry-2024-11-26/</link>
+      <description><![CDATA[路透社韩国计划明年加大对芯片行业的支持力度，提供 14 万亿韩元（100 亿美元）的低息贷款。这笔资金将包括 1.8 万亿韩元（约 13 亿美元）用于资助龙仁和平泽正在建设的芯片园区的电力线安装，该园区被誉为世界上最大的高科技芯片制造集群，旨在吸引芯片设备制造商和无晶圆厂半导体公司。 摘自“韩国将为芯片行业提供 100 亿美元贷款”
+路透社 (2024 年 11 月 26 日) Heekyong Yang；Jihoon Lee 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/south-korea-roll-out-10-bln-loans-next-year-support-chip-industry-2024-11-26/</guid>
+      <pubDate>Mon, 02 Dec 2024 18:12:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
