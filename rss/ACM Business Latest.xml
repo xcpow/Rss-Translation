@@ -4,7 +4,21 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Wed, 04 Dec 2024 12:17:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 15:09:58 GMT</lastBuildDate>
+    <item>
+      <title>Celsius 创始人 Alex Mashinsky 承认欺诈罪</title>
+      <link>https://www.wired.com/story/celsius-founder-alex-mashinsky-pleads-guilty-to-fraud-crypto-celsius/</link>
+      <description><![CDATA[加密货币借贷机构 Celsius 的创始人承认向客户撒谎，隐瞒他们的资金使用方式，并操纵市场以谋取私利。]]></description>
+      <guid>https://www.wired.com/story/celsius-founder-alex-mashinsky-pleads-guilty-to-fraud-crypto-celsius/</guid>
+      <pubDate>Wed, 04 Dec 2024 14:17:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能风险的新基准</title>
+      <link>https://www.wired.com/story/benchmark-for-ai-risks/</link>
+      <description><![CDATA[MLCommons 提供了测试 AI 系统能力的基准。它接下来想衡量 AI 的坏处。]]></description>
+      <guid>https://www.wired.com/story/benchmark-for-ai-risks/</guid>
+      <pubDate>Wed, 04 Dec 2024 14:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>蒂姆·库克希望苹果能真正拯救你的生命</title>
       <link>https://www.wired.com/story/big-interview-tim-cook-wants-apple-to-literally-save-your-life/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[在迈阿密艺术周正式亮相之前，该品牌的设计愿景概念快照以其极富争议的粉红色力​​量浮出水面。]]></description>
       <guid>https://www.wired.com/story/jaguars-controversial-ev-relaunch-has-leaked-online/</guid>
       <pubDate>Mon, 02 Dec 2024 12:50:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>这个网站展示了谷歌的人工智能能从你的照片中获取多少信息</title>
-      <link>https://www.wired.com/story/website-google-ai-photos-ente/</link>
-      <description><![CDATA[一家由前谷歌工程师创建的照片共享初创公司找到了一种巧妙的方法，让谷歌的技术自食其果。]]></description>
-      <guid>https://www.wired.com/story/website-google-ai-photos-ente/</guid>
-      <pubDate>Mon, 02 Dec 2024 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国让中国制造自己的人工智能芯片变得更加困难</title>
-      <link>https://www.wired.com/story/2024-chips-export-controls-china/</link>
-      <description><![CDATA[拜登政府宣布对芯片制造设备、内存和软件实施全面出口管制，这将使华为和字节跳动等公司更难以开发尖端人工智能。]]></description>
-      <guid>https://www.wired.com/story/2024-chips-export-controls-china/</guid>
-      <pubDate>Mon, 02 Dec 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
