@@ -4,11 +4,39 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Wed, 04 Dec 2024 00:45:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 03:28:10 GMT</lastBuildDate>
+    <item>
+      <title>Brian Chesky 表示 Airbnb 将在 2025 年迎来重大变革</title>
+      <link>https://www.wired.com/story/big-interview-airbnb-brian-chesky-2024/</link>
+      <description><![CDATA[在旧金山举行的《连线》杂志的“大型访谈”活动上，Airbnb 首席执行官布莱恩·切斯基表示，Airbnb 明年可能会实现近年来“最大的重塑之一”。]]></description>
+      <guid>https://www.wired.com/story/big-interview-airbnb-brian-chesky-2024/</guid>
+      <pubDate>Wed, 04 Dec 2024 02:17:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>黄仁勋想让人工智能成为新世界的基础设施</title>
+      <link>https://www.wired.com/story/big-interview-nvidia-jensen-huang-2024/</link>
+      <description><![CDATA[Nvidia 首席执行官黄仁勋计划将 AI 基础设施推广到世界各国，而且他正在亲自推介这一计划。]]></description>
+      <guid>https://www.wired.com/story/big-interview-nvidia-jensen-huang-2024/</guid>
+      <pubDate>Wed, 04 Dec 2024 01:51:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 从 DeepMind 挖走 3 名顶级工程师</title>
+      <link>https://www.wired.com/story/openai-hires-deepmind-zurich/</link>
+      <description><![CDATA[新聘用的员工均为计算机视觉专家，他们是竞争激烈的人才市场中最新一批直接投向竞争对手的人工智能研究人员。]]></description>
+      <guid>https://www.wired.com/story/openai-hires-deepmind-zurich/</guid>
+      <pubDate>Wed, 04 Dec 2024 01:33:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mira Murati 退出 OpenAI。她对 AGI 一如既往地乐观</title>
+      <link>https://www.wired.com/story/big-interview-mira-murati-2024/</link>
+      <description><![CDATA[在《连线》杂志的 The Big Interview 活动上，这位前 OpenAI 首席技术官表示，她仍在创办自己的初创公司，但 AGI 是她最关心的问题。]]></description>
+      <guid>https://www.wired.com/story/big-interview-mira-murati-2024/</guid>
+      <pubDate>Wed, 04 Dec 2024 00:46:31 GMT</pubDate>
+    </item>
     <item>
       <title>Bluesky 现已拥有 2400 万用户。Jay Graber 仍誓言要阻止其被“改造”</title>
       <link>https://www.wired.com/story/big-interview-jay-graber-bluesky-2024/</link>
-      <description><![CDATA[在《连线》杂志的 The Big Interview 活动上，Bluesky 首席执行官杰伊·格雷伯 (Jay Graber) 讨论了 Twitter 竞争对手用户数量的激增，以及为什么赋予社交媒体用户更多控制权是成功的秘诀。]]></description>
+      <description><![CDATA[在《连线》杂志的 The Big Interview 活动上，Bluesky 首席执行官杰伊·格雷伯 (Jay Graber) 讨论了竞争对手 Twitter 的用户数量激增的情况，以及为什么赋予社交媒体用户更多控制权是成功的秘诀。]]></description>
       <guid>https://www.wired.com/story/big-interview-jay-graber-bluesky-2024/</guid>
       <pubDate>Wed, 04 Dec 2024 00:13:50 GMT</pubDate>
     </item>
@@ -43,7 +71,7 @@
     <item>
       <title>点击这里观看《连线》大型访谈活动</title>
       <link>https://www.wired.com/story/thebiginterview-2024-conference/</link>
-      <description><![CDATA[12 月 3 日，《连线》杂志将与技术、商业、科学等领域的一些知名人士进行一整天的深入交谈。]]></description>
+      <description><![CDATA[12 月 3 日，《连线》杂志与技术、商业、科学等领域的一些知名人士进行了一整天的深入交谈。]]></description>
       <guid>https://www.wired.com/story/thebiginterview-2024-conference/</guid>
       <pubDate>Tue, 03 Dec 2024 12:00:00 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[预计新的限制将于周一公布，旨在减缓中国构建大型强大人工智能模型的能力。]]></description>
       <guid>https://www.wired.com/story/memory-restrictions-china-advanced-chips/</guid>
       <pubDate>Wed, 27 Nov 2024 22:50:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>是的，你读到的那篇热门 LinkedIn 帖子很可能是人工智能生成的</title>
-      <link>https://www.wired.com/story/linkedin-ai-generated-influencers/</link>
-      <description><![CDATA[一项新分析估计，领英上超过一半的较长的英文帖子都是由人工智能生成的，这表明该平台对人工智能工具的拥抱取得了成功。]]></description>
-      <guid>https://www.wired.com/story/linkedin-ai-generated-influencers/</guid>
-      <pubDate>Tue, 26 Nov 2024 19:00:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>加密货币行业正在帮助唐纳德·特朗普挑选美国证券交易委员会主席</title>
-      <link>https://www.wired.com/story/crypto-candidates-front-runners-sec-race/</link>
-      <description><![CDATA[消息人士向《连线》杂志透露，候任总统的过渡团队正在与行业领袖磋商，寻找即将离任的主席加里·根斯勒 (Gary Gensler) 的潜在继任者。]]></description>
-      <guid>https://www.wired.com/story/crypto-candidates-front-runners-sec-race/</guid>
-      <pubDate>Tue, 26 Nov 2024 16:23:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>手机制造商小米制造了苹果无法制造的汽车</title>
-      <link>https://www.wired.com/story/phone-maker-xiaomi-made-the-car-that-apple-couldnt/</link>
-      <description><![CDATA[出色的构造、深度集成的技术以及无与伦比的连接性——凭借其首款电动汽车，小米已经向福特和沃尔沃等公司展示了它们错在哪里，以及苹果可以做些什么。]]></description>
-      <guid>https://www.wired.com/story/phone-maker-xiaomi-made-the-car-that-apple-couldnt/</guid>
-      <pubDate>Tue, 26 Nov 2024 13:43:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>科技巨头走向终结</title>
-      <link>https://www.wired.com/story/the-beginning-of-the-end-of-big-tech/</link>
-      <description><![CDATA[从政客到风险投资公司，每个人都不再喜欢庞大、以金钱为导向的全球科技巨头。取而代之的是，我们有机会建立一些开放且值得信赖的东西。]]></description>
-      <guid>https://www.wired.com/story/the-beginning-of-the-end-of-big-tech/</guid>
-      <pubDate>Tue, 26 Nov 2024 12:05:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
