@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 05 Dec 2024 12:17:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 15:09:52 GMT</lastBuildDate>
+    <item>
+      <title>我们信任萨姆·奥特曼吗？</title>
+      <link>https://www.wired.com/story/uncanny-valley-podcast-5-in-sam-altman-we-trust/</link>
+      <description><![CDATA[本周在“恐怖谷”节目中，我们深入探讨了 Open AI 的 Sam Altman。]]></description>
+      <guid>https://www.wired.com/story/uncanny-valley-podcast-5-in-sam-altman-we-trust/</guid>
+      <pubDate>Thu, 05 Dec 2024 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI 正与 Anduril 合作为美国军方提供人工智能</title>
       <link>https://www.wired.com/story/openai-anduril-defense/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[在 Re:Invent 大会上，亚马逊还宣布了帮助客户构建生成式 AI 程序的新工具，其中包括一个可以检查聊天机器人的输出是否准确的工具。]]></description>
       <guid>https://www.wired.com/story/amazon-reinvent-anthropic-supercomputer/</guid>
       <pubDate>Tue, 03 Dec 2024 18:13:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>点击这里观看《连线》大型访谈活动</title>
-      <link>https://www.wired.com/story/thebiginterview-2024-conference/</link>
-      <description><![CDATA[12 月 3 日，《连线》杂志与技术、商业、科学等领域的一些知名人士进行了一整天的深入交谈。]]></description>
-      <guid>https://www.wired.com/story/thebiginterview-2024-conference/</guid>
-      <pubDate>Tue, 03 Dec 2024 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
