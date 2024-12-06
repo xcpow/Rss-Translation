@@ -4,7 +4,21 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 06 Dec 2024 15:09:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 18:12:57 GMT</lastBuildDate>
+    <item>
+      <title>苹果情报的内幕</title>
+      <link>https://www.wired.com/story/plaintext-the-inside-story-of-apple-intelligence/</link>
+      <description><![CDATA[苹果的领导层声称，公司在生成式人工智能方面的发展并不晚，而是遵循了其熟悉的策略：努力成为最好，而不是第一个。]]></description>
+      <guid>https://www.wired.com/story/plaintext-the-inside-story-of-apple-intelligence/</guid>
+      <pubDate>Fri, 06 Dec 2024 18:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>联邦上诉法院刚刚维持 TikTok 禁令。接下来可能会发生什么</title>
+      <link>https://www.wired.com/story/doj-tiktok-constitutional-lawsuit/</link>
+      <description><![CDATA[最高法院、当选总统唐纳德·特朗普或美国买家仍可能介入，以拯救这个拥有约 1.7 亿美国人使用的视频平台。]]></description>
+      <guid>https://www.wired.com/story/doj-tiktok-constitutional-lawsuit/</guid>
+      <pubDate>Fri, 06 Dec 2024 16:15:53 GMT</pubDate>
+    </item>
     <item>
       <title>一个孩子通过抛售自己创建的加密货币赚了 5 万美元。随后出现了强烈反应</title>
       <link>https://www.wired.com/story/memecoin-kid-backlash/</link>
@@ -50,7 +64,7 @@
     <item>
       <title>人工智能风险的新基准</title>
       <link>https://www.wired.com/story/benchmark-for-ai-risks/</link>
-      <description><![CDATA[MLCommons 提供测试 AI 系统能力的基准。它接下来想衡量 AI 的坏处。]]></description>
+      <description><![CDATA[MLCommons 提供了测试 AI 系统能力的基准。它接下来想衡量 AI 的坏处。]]></description>
       <guid>https://www.wired.com/story/benchmark-for-ai-risks/</guid>
       <pubDate>Wed, 04 Dec 2024 14:00:00 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[在《连线》杂志的 The Big Interview 活动上，Bluesky 首席执行官杰伊·格雷伯 (Jay Graber) 讨论了竞争对手 Twitter 的用户数量激增的情况，以及为什么赋予社交媒体用户更多控制权是成功的秘诀。]]></description>
       <guid>https://www.wired.com/story/big-interview-jay-graber-bluesky-2024/</guid>
       <pubDate>Wed, 04 Dec 2024 00:13:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>马克·库班的药品价格战争：“我到底需要多少钱？”</title>
-      <link>https://www.wired.com/story/big-interview-mark-cuban-2024/</link>
-      <description><![CDATA[Cost Plus Drugs 创始人马克·库班在《连线》杂志的“The Big Interview”活动上开玩笑说：“我并不是想登陆火星。”]]></description>
-      <guid>https://www.wired.com/story/big-interview-mark-cuban-2024/</guid>
-      <pubDate>Tue, 03 Dec 2024 23:38:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周安然公司重新上线，迪伦·菲尔德“兴奋极了”</title>
-      <link>https://www.wired.com/story/big-interview-dylan-field-2024/</link>
-      <description><![CDATA[在《连线》杂志的 The Big Interview 活动上，Figma 联合创始人表示，他对是否有可能借助这个受损品牌建立一家新公司感到“着迷”。]]></description>
-      <guid>https://www.wired.com/story/big-interview-dylan-field-2024/</guid>
-      <pubDate>Tue, 03 Dec 2024 20:53:15 GMT</pubDate>
     </item>
     </channel>
 </rss>

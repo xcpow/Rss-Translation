@@ -4,110 +4,94 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Wed, 04 Dec 2024 18:13:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 18:12:53 GMT</lastBuildDate>
     <item>
-      <title>各州薪酬最高的科技职位</title>
-      <link>https://www.entrepreneur.com/business-news/the-highest-paying-6-figure-technology-jobs-in-each-state/483587</link>
-      <description><![CDATA[企业家人工智能教育平台 DataCamp 的一份报告指出，数据库架构师是 19 个州收入最高的技术工作，而计算机网络架构师是 15 个州收入最高的职位。该报告基于美国劳工统计局 2023 年的薪资数据。DataCamp 联合创始人 Martijn Theuwissen 表示：“科技行业每天都在迅速变化，各州收入最高的职位的多样性反映了不同地区企业的不同需求和优先事项。”摘自“每个州收入最高的技术工作”
-企业家 (11/27/24) Sherin Shibu 查看全文]]></description>
-      <guid>https://www.entrepreneur.com/business-news/the-highest-paying-6-figure-technology-jobs-in-each-state/483587</guid>
-      <pubDate>Wed, 04 Dec 2024 18:13:49 GMT</pubDate>
+      <title>Giga 旨在寻找并连接世界各地的学校</title>
+      <link>https://spectrum.ieee.org/school-internet-connectivity-globally-giga</link>
+      <description><![CDATA[IEEE SpectrumGiga 是国际电信联盟和联合国儿童基金会的一项联合倡议，致力于到 2030 年将全球多达 600 万所线下学校接入互联网。Giga 的计算机科学家开发了一种基础设施映射和建模工具，迄今已绘制了全球三分之一的学校地图；在确定候选学校的地理位置后，Giga 致力于将它们连接到网络。摘自“Giga 旨在寻找和连接全球学校”
+IEEE Spectrum (12/02/24) Maurizio Arseni 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/school-internet-connectivity-globally-giga</guid>
+      <pubDate>Fri, 06 Dec 2024 18:12:53 GMT</pubDate>
     </item>
     <item>
-      <title>Tor 需要 200 个新的 WebTunnel 桥来对抗审查制度</title>
-      <link>https://www.bleepingcomputer.com/news/security/tor-needs-200-new-webtunnel-bridges-to-fight-censorship/</link>
-      <description><![CDATA[BleepingComputerTor 项目正在寻求志愿者在年底前部署 200 个新的 WebTunnel 桥，以加强其对抗政府审查的努力。这些 WebTunnel 桥运行在具有有效 SSL/TLS 证书的 Web 服务器之上，这使得 Tor 流量看起来像常规 HTTPS 流量。 Tor 项目目前在审查严格的地区运营着 143 个 WebTunnel 桥，以帮助用户绕过互联网访问限制和网站屏蔽。摘自“Tor 需要 200 个新的 WebTunnel 桥来对抗审查”
-BleepingComputer (11/28/24) Bill Toulas 查看全文]]></description>
-      <guid>https://www.bleepingcomputer.com/news/security/tor-needs-200-new-webtunnel-bridges-to-fight-censorship/</guid>
-      <pubDate>Wed, 04 Dec 2024 18:13:48 GMT</pubDate>
+      <title>Citi Bikes 的“数字排气”可帮助追踪凶手</title>
+      <link>https://www.nytimes.com/2024/12/04/nyregion/citi-bike-records-uhc-shooting.html</link>
+      <description><![CDATA[《纽约时报》据报道，周三，一名涉嫌谋杀联合健康保险首席执行官布莱恩·汤普森的嫌疑人使用了一辆电动城市自行车，该自行车产生了“数字废气”，即可用于追踪骑行者的数据流。参与设计该系统的康奈尔大学计算机科学家戴维·施莫伊斯表示，每个用户都会产生许多“数字面包屑流”可以帮助运营 Citi Bike 的公司 Lyft 追踪用户的位置，甚至可能是他们的身份。摘自“Citi Bikes 的‘数字排气’可以帮助追踪杀手”
+纽约时报 (12/04/24) Christopher Maag 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/12/04/nyregion/citi-bike-records-uhc-shooting.html</guid>
+      <pubDate>Fri, 06 Dec 2024 18:12:52 GMT</pubDate>
     </item>
     <item>
-      <title>揭秘中国与西方之间的人工智能秘密渠道</title>
-      <link>https://www.economist.com/1843/2024/11/29/inside-the-ai-back-channel-between-china-and-the-west</link>
-      <description><![CDATA[《经济学人》加州大学伯克利分校计算机科学家 Stuart Russell 在 ACM A.M. 图灵奖获得者 Yoshua Bengio 和 Andrew Yao 的帮助下组建了一支人工智能专家团队，致力于为尖端人工智能模型寻找护栏。鉴于中美两国都专注于实现技术优势，因此两国不太可能就实施人工智能保障措施达成协议。摘自“中国与西方之间的人工智能秘密通道”
-《经济学人》（2024 年 11 月 29 日）Peter Guest 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.economist.com/1843/2024/11/29/inside-the-ai-back-channel-between-china-and-the-west</guid>
-      <pubDate>Wed, 04 Dec 2024 18:13:47 GMT</pubDate>
+      <title>无人机导航的 GPS 替代方案利用来自恒星的视觉数据</title>
+      <link>https://www.unisa.edu.au/media-centre/Releases/2024/gps-alternative-for-drone-navigation-using-visual-data-from-stars/</link>
+      <description><![CDATA[南澳大利亚大学南澳大利亚大学的研究人员开发了一种结合天文导航和视觉技术的系统，作为 GPS 的替代品。星基导航系统可以集成到标准无人机中。它使用一种算法通过标准自动驾驶系统处理来自恒星的数据。该系统很难被发现，因为它不发射信号，并且在 GPS 干扰存在风险的地区很有用。摘自“无人机导航的 GPS 替代方案使用来自恒星的视觉数据”
+南澳大利亚大学 (12/03/24) 查看全文]]></description>
+      <guid>https://www.unisa.edu.au/media-centre/Releases/2024/gps-alternative-for-drone-navigation-using-visual-data-from-stars/</guid>
+      <pubDate>Fri, 06 Dec 2024 18:12:52 GMT</pubDate>
     </item>
     <item>
-      <title>土著工程师利用人工智能保护其文化</title>
-      <link>https://www.nbcnews.com/tech/innovation/indigenous-engineers-are-using-ai-preserve-culture-rcna176012</link>
-      <description><![CDATA[NBC 新闻土著研究人员正致力于利用人工智能保护濒临灭绝的土著语言。Indigenous in AI 创始人 Michael Running Wolf 是 Mila-Quebec 人工智能研究所 First Languages AI Reality 计划的负责人，该计划致力于为 200 多种濒临灭绝的北美土著语言开发语音识别模型。Running Wolf 表示，一个主要挑战是缺乏了解语言和文化的土著计算机科学家毕业生。摘自“土著工程师使用人工智能保护他们的文化”
-NBC 新闻 (11/29/24) Iris Kim 查看全文]]></description>
-      <guid>https://www.nbcnews.com/tech/innovation/indigenous-engineers-are-using-ai-preserve-culture-rcna176012</guid>
-      <pubDate>Wed, 04 Dec 2024 18:13:47 GMT</pubDate>
+      <title>黑色星期五 Zipcar 服务中断，客户受困</title>
+      <link>https://www.404media.co/a-total-meltdown-black-friday-zipcar-outage-strands-customers-in-random-places/</link>
+      <description><![CDATA[404 Media黑色星期五，汽车共享服务 Zipcar 的应用程序和网站发生中断，导致许多客户无法访问他们预订的车辆、归还或锁定租用的车辆、解锁锁定的车辆或在应用程序中正式结束行程。客户也无法通过 Zipcar 技术支持获得帮助。Zipcar 将中断归因于黑色星期五促销活动导致的网站流量增加以及其短信服务出现问题。摘自“黑色星期五 Zipcar 中断导致客户受阻”
+404 Media (12/03/24) Jason Koebler 查看全文]]></description>
+      <guid>https://www.404media.co/a-total-meltdown-black-friday-zipcar-outage-strands-customers-in-random-places/</guid>
+      <pubDate>Fri, 06 Dec 2024 18:12:52 GMT</pubDate>
     </item>
     <item>
-      <title>德国计划提供 20 亿欧元新芯片补贴</title>
-      <link>https://www.bloomberg.com/news/articles/2024-11-28/german-government-plans-about-2-billion-in-new-chip-subsidies</link>
-      <description><![CDATA[彭博社德国经济部呼吁芯片公司通过《欧洲芯片法案》申请新的补贴，消息人士估计总投资约为 20 亿欧元。新一轮补贴是在德国芯片行业近期遭遇挫折之后推出的，包括英特尔撤回了在马格德堡建立芯片工厂的计划，Wolfspeed Inc. 和 ZF Friedrichshafen 撤回了在德国西部的芯片合资计划。摘自“德国计划 20 亿欧元新芯片补贴”
-彭博社 (2024 年 11 月 28 日) Christina Kyriasoglou 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-11-28/german-government-plans-about-2-billion-in-new-chip-subsidies</guid>
-      <pubDate>Wed, 04 Dec 2024 18:13:46 GMT</pubDate>
+      <title>Meta 将投资 100 亿美元建设路易斯安那州数据中心</title>
+      <link>https://www.reuters.com/technology/meta-invest-10-billion-louisiana-data-center-2024-12-04/</link>
+      <description><![CDATA[路透社Meta 宣布计划投资 100 亿美元在路易斯安那州建立一个 AI 数据中心，这将是该科技公司在全球最大的数据中心。此前一天，Meta 表示正在寻求核电开发商的提案，以帮助实现其 AI 和环境目标，并补充说，它希望从 2030 年代初开始增加 1 至 4 千兆瓦的新美国核发电能力。摘自“Meta 将为路易斯安那州数据中心投资 100 亿美元”
+路透社 (12/04/24) Seher Dareen 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/meta-invest-10-billion-louisiana-data-center-2024-12-04/</guid>
+      <pubDate>Fri, 06 Dec 2024 18:12:51 GMT</pubDate>
     </item>
     <item>
-      <title>摘要：理论计算资格让英国青少年望而却步</title>
-      <link>https://www.theregister.com/2024/11/28/bcs_computer_science_gcse/</link>
-      <description><![CDATA[英国注册报 (The Register)英国计算机学会 (BCS) 呼吁提供更具包容性的数字素养资格证书，同时提供改进的计算机科学普通中等教育证书 (GCSE) 资格证书。BCS 发现，英国 94% 的女孩和 79% 的男孩在 14 岁时放弃计算机课程，然后在 16 岁时参加计算机科学 GCSE 考试。BCS 表示，“目前的计算机科学 GCSE 是理论性的，要求很高，强调知识的回忆而不是应用，对这门学科没有很好的帮助。”摘自“摘要、理论计算资格证书让英国青少年望而却步”
-英国注册报 (The Register) (2024 年 11 月 28 日) Lindsay Clark]]></description>
-      <guid>https://www.theregister.com/2024/11/28/bcs_computer_science_gcse/</guid>
-      <pubDate>Wed, 04 Dec 2024 18:13:46 GMT</pubDate>
+      <title>3D 生物打印技术使功能组织更快生成</title>
+      <link>https://interestingengineering.com/science/3d-bioprinting-tech-makes-functional-tissues-faster</link>
+      <description><![CDATA[有趣的工程宾夕法尼亚州立大学的研究人员开发了一种 3D 生物打印技术，利用细胞簇（球体）创建复杂组织，速度比以前的方法快 10 倍左右。生物打印高通量集成组织制造系统 (HITS-Bio) 技术使用数字控制喷嘴阵列同时操纵多个球体。在测试中，HITS-Bio 使用 600 个球体在 40 分钟内生产出一立方厘米的软骨组织。摘自“3D 生物打印技术使功能性组织更快”
+有趣的工程 (12/04/24) Mrigakshi Dixit 查看全文]]></description>
+      <guid>https://interestingengineering.com/science/3d-bioprinting-tech-makes-functional-tissues-faster</guid>
+      <pubDate>Fri, 06 Dec 2024 18:12:51 GMT</pubDate>
     </item>
     <item>
-      <title>亚马逊将试行人工智能设计的材料用于碳去除</title>
-      <link>https://www.reuters.com/technology/artificial-intelligence/amazon-pilot-ai-designed-material-carbon-removal-2024-12-02/</link>
-      <description><![CDATA[路透社亚马逊打算在其数据中心试用一种借助人工智能开发的新型碳去除材料。作为与初创公司 Orbital Materials 为期三年的合作的一部分，亚马逊网络服务将于明年开始使用这种碳过滤物质。Orbital Materials 首席执行官乔纳森·戈德温 (Jonathan Godwin) 表示，这种新材料“就像原子级的海绵”。 “海绵中的每个空腔都有一个特定大小的开口，可以与二氧化碳很好地相互作用，而不会与其他物质相互作用。”摘自“亚马逊试行人工智能设计的碳去除材料”
-路透社 (12/02/24) Jeffrey Dastin 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/artificial-intelligence/amazon-pilot-ai-designed-material-carbon-removal-2024-12-02/</guid>
-      <pubDate>Wed, 04 Dec 2024 18:13:45 GMT</pubDate>
+      <title>加拿大承诺投资 14 亿美元建设主权计算基础设施</title>
+      <link>https://www.theregister.com/2024/12/05/canada_ai_funding/</link>
+      <description><![CDATA[The Register（英国）加拿大计划投资 20 亿加元（14.2 亿美元）用于资助新数据中心和计算基础设施的开发，以增强其国内人工智能计算能力。凭借加拿大主权 AI 计算战略，加拿大成为最新一个推动主权 AI 投资的国家，这些投资强调在国内数据中心训练的本土模型。摘自“加拿大承诺向主权计算基础设施投资 14 亿美元”
+The Register（英国）（2024 年 12 月 5 日）Tobias Mann 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.theregister.com/2024/12/05/canada_ai_funding/</guid>
+      <pubDate>Fri, 06 Dec 2024 18:12:50 GMT</pubDate>
     </item>
     <item>
-      <title>机器人可以制造机器人蟑螂</title>
-      <link>https://www.newscientist.com/article/2458397-swarms-of-cyborg-cockroaches-could-be-manufactured-by-robots/</link>
-      <description><![CDATA[新科学家新加坡南洋理工大学的研究人员利用计算机视觉系统和机械臂，自动创建机器人蟑螂群，用于搜救任务。该系统将电极植入蟑螂坚硬外骨骼下方的软膜中，并将每只蟑螂连接到电子背包，该背包通过微芯片与外部计算机通信。摘自“机器人可以制造机器人蟑螂”
-新科学家 (2024 年 11 月 29 日) Alex Wilkins 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.newscientist.com/article/2458397-swarms-of-cyborg-cockroaches-could-be-manufactured-by-robots/</guid>
-      <pubDate>Wed, 04 Dec 2024 18:13:45 GMT</pubDate>
+      <title>谷歌 DeepMind 预测天气比领先系统更准确</title>
+      <link>https://www.theguardian.com/science/2024/dec/04/google-deepmind-predicts-weather-more-accurately-than-leading-system</link>
+      <description><![CDATA[英国卫报Google DeepMind 的 AI 程序 GenCast 的表现比被广泛认为是世界领先的欧洲中期天气预报中心 (ECMWF) 的 ENS 预测高出 20%。在模型间比较中，该 AI 程序比 ENS 提前 15 天对日常天气和极端事件做出更准确的预测，并且更善于预测破坏性飓风和其他热带气旋的路径，包括它们登陆的位置。摘自“Google DeepMind 预测天气比领先系统更准确”
+卫报 (英国) (2024 年 12 月 4 日) Ian Sample 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.theguardian.com/science/2024/dec/04/google-deepmind-predicts-weather-more-accurately-than-leading-system</guid>
+      <pubDate>Fri, 06 Dec 2024 18:12:50 GMT</pubDate>
     </item>
     <item>
-      <title>瘫痪患者大脑植入电极后重新行走</title>
-      <link>https://news.sky.com/story/paralysed-patients-able-to-walk-after-having-electrodes-implanted-in-their-brains-13265412</link>
-      <description><![CDATA[天空新闻（英国）外科医生首次使用深部脑刺激“重新唤醒”脊髓中休眠的神经纤维并重新建立对腿部肌肉的控制，使两名瘫痪患者在脑部植入电极后能够短距离行走。这一突破是在瑞士洛桑联邦技术研究所的神经科学家使用人工智能绘制大鼠和小鼠大脑中帮助它们行走的神经元之后取得的，令人惊讶的是，他们发现一个叫做侧下丘脑的区域发挥了作用。 摘自“瘫痪患者在脑部植入电极后重新行走”
-天空新闻（英国）（2024 年 12 月 3 日）Thomas Moore 查看全文]]></description>
-      <guid>https://news.sky.com/story/paralysed-patients-able-to-walk-after-having-electrodes-implanted-in-their-brains-13265412</guid>
-      <pubDate>Wed, 04 Dec 2024 18:13:44 GMT</pubDate>
+      <title>让 micro:bit 编程变得便携</title>
+      <link>https://www.lancaster.ac.uk/news/making-microbit-programming-portable-4</link>
+      <description><![CDATA[兰卡斯特大学（英国）英国兰卡斯特大学计算机与通信学院和微软的研究人员开发了一种新的编码工具，让孩子们可以更轻松地对流行的教育微型计算机 BBC micro:bit 进行编程。MicroCode 工具是一种屏幕上的可视化编程语言，使用户能够创建在 micro:bit V2 上运行的简单程序，利用该设备的基本功能和传感器。摘自“让 micro:bit 编程变得便携”
+兰卡斯特大学（英国）（12/04/24） 查看全文]]></description>
+      <guid>https://www.lancaster.ac.uk/news/making-microbit-programming-portable-4</guid>
+      <pubDate>Fri, 06 Dec 2024 18:12:50 GMT</pubDate>
     </item>
     <item>
-      <title>英特尔首席执行官离职 芯片制造商陷入困境</title>
-      <link>https://www.nytimes.com/2024/12/02/technology/intel-ceo-pat-gelsinger.html</link>
-      <description><![CDATA[《纽约时报》英特尔首席执行官帕特·基辛格在领导这家半导体公司近四年后辞职。在公司寻找永久替代者期间，他的职位将由两名英特尔高管接替。在过去十年末，英特尔在开发制造技术方面失去了领先地位，落后于台湾半导体制造公司。它还错过了为手机供应处理器的机会，以及最近蓬勃发展的人工智能应用市场。摘自“英特尔首席执行官在芯片制造商的困境中离职”
-《纽约时报》（2024 年 12 月 2 日）丹妮尔·凯耶；史蒂夫·洛尔 查看全文 - 可能需要免费注册]]></description>
-      <guid>https://www.nytimes.com/2024/12/02/technology/intel-ceo-pat-gelsinger.html</guid>
-      <pubDate>Wed, 04 Dec 2024 18:13:44 GMT</pubDate>
+      <title>特朗普任命大卫·萨克斯为白宫人工智能和加密货币沙皇</title>
+      <link>https://www.bloomberg.com/news/articles/2024-12-06/trump-names-david-sacks-as-white-house-ai-and-crypto-czar</link>
+      <description><![CDATA[彭博社美国当选总统唐纳德·特朗普已选择 Craft Ventures LLC 的风险投资家戴维·萨克斯担任他的人工智能和加密货币沙皇，这是一个新设立的职位。特朗普周四在其“真相社交网络”上发帖称：“大卫将指导政府在人工智能和加密货币方面的政策，这两个领域对美国未来的竞争力至关重要。”特朗普表示，萨克斯还将领导总统科学技术顾问委员会。摘自“特朗普任命大卫·萨克斯为白宫人工智能和加密货币沙皇”
+彭博社 (12/05/24) Stephanie Lai；Hadriana Lowenkron；Sarah McBride 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-12-06/trump-names-david-sacks-as-white-house-ai-and-crypto-czar</guid>
+      <pubDate>Fri, 06 Dec 2024 18:12:49 GMT</pubDate>
     </item>
     <item>
-      <title>美国官员敦促美国人在网络攻击中使用加密技术</title>
-      <link>https://www.nbcnews.com/tech/security/us-officials-urge-americans-use-encrypted-apps-cyberattack-rcna182694</link>
-      <description><![CDATA[NBC 新闻美国官员建议美国人使用加密信息，以确保他们的通信不被外国黑客窃取，因为中国支持的黑客正在对电信公司进行网络攻击。官员们在周二的新闻电话会议上拒绝设定宣布该国电信系统没有入侵者的时间表，并建议使用加密消息应用程序以最大限度地降低拦截风险。摘自“美国官员敦促美国人在网络攻击中使用加密技术”
-NBC 新闻 (12/03/24) Kevin Collier 查看全文]]></description>
-      <guid>https://www.nbcnews.com/tech/security/us-officials-urge-americans-use-encrypted-apps-cyberattack-rcna182694</guid>
-      <pubDate>Wed, 04 Dec 2024 18:13:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国对美国实施科技制造业关键矿物禁令</title>
-      <link>https://arstechnica.com/tech-policy/2024/12/china-retaliates-bans-exports-of-rare-metals-after-us-chip-ban/</link>
-      <description><![CDATA[Ars Technica在美国扩大禁止中国企业获取包含哪怕一块美国制造的芯片的外国产品范围后，中国商务部作出回应，禁止向美国出口涉及镓、锗、锑和超硬材料的“两用物项”，该禁令立即生效。这些稀土金属对科技制造至关重要。摘自“中国对美国禁止科技制造中使用的关键矿物”
-Ars Technica (12/03/24) Ashley Belanger 查看全文]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/12/china-retaliates-bans-exports-of-rare-metals-after-us-chip-ban/</guid>
-      <pubDate>Wed, 04 Dec 2024 18:13:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>TikTok 和 Meta 做好应对澳大利亚社交媒体禁令后果的准备</title>
-      <link>https://www.bloomberg.com/news/articles/2024-11-28/tiktok-meta-brace-for-fallout-from-australia-s-social-media-ban</link>
-      <description><![CDATA[彭博社澳大利亚将于明年生效的针对 16 岁以下青少年的社交媒体禁令，正受到大型科技公司和学者的批评。该法律将对未能执行年龄限制的数字平台处以罚款。然而，鉴于政府出于隐私考虑已排除使用官方文件，科技公司不确定年龄验证将如何运作。摘自“TikTok、Meta 为澳大利亚社交媒体禁令后果做好准备”
-彭博社 (2024 年 11 月 28 日) 安格斯·惠特利 (Angus Whitley)；纽利·普内尔 (Newley Purnell)； Ben Westcott 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-11-28/tiktok-meta-brace-for-fallout-from-australia-s-social-media-ban</guid>
-      <pubDate>Wed, 04 Dec 2024 18:13:42 GMT</pubDate>
+      <title>欧盟要求 TikTok 保留罗马尼亚选举数据</title>
+      <link>https://www.upi.com/Top_News/World-News/2024/12/05/EU-TikTok-ROmanian-election-data-European-Commission/6811733406468/</link>
+      <description><![CDATA[UPI欧盟委员会周三下令 TikTok 保存罗马尼亚选举和即将举行的欧盟选举的数据，因为人们怀疑俄罗斯干预选举。该命令要求 TikTok“保存有关该应用推荐系统设计和运行的内部文件和信息，以及它如何通过协调不真实使用该服务来应对故意操纵的风险。”摘自“欧盟命令 TikTok 保存罗马尼亚选举数据”
+UPI (12/05/24) Doug Cunningham 查看全文]]></description>
+      <guid>https://www.upi.com/Top_News/World-News/2024/12/05/EU-TikTok-ROmanian-election-data-European-Commission/6811733406468/</guid>
+      <pubDate>Fri, 06 Dec 2024 18:12:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
