@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 06 Dec 2024 00:45:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 03:27:33 GMT</lastBuildDate>
+    <item>
+      <title>Canva 彻底改变了平面设计。它能在人工智能时代生存下来吗？</title>
+      <link>https://www.wired.com/story/canva-ceo-melanie-perkins-interview/</link>
+      <description><![CDATA[生成式人工智能可能会对 Canva 构成威胁，该公司通过让平面设计变得快速而简单而赚取了数十亿美元。但对于首席执行官梅兰妮·珀金斯 (Melanie Perkins) 来说，它只是让世界变得更加直观。]]></description>
+      <guid>https://www.wired.com/story/canva-ceo-melanie-perkins-interview/</guid>
+      <pubDate>Fri, 06 Dec 2024 02:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>我们信任萨姆·奥特曼吗？</title>
       <link>https://www.wired.com/story/uncanny-valley-podcast-5-in-sam-altman-we-trust/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[当程序员 Micah Lee 因一篇冒犯 Elon Musk 的帖子而被踢出 X 时，他没有回头。他用于保存和删除 X 帖子的新工具可以给你带来同样的甜蜜释放。]]></description>
       <guid>https://www.wired.com/story/x-delete-posts-cyd-micah-lee/</guid>
       <pubDate>Tue, 03 Dec 2024 19:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚马逊正在与 Anthropic 合作开发一台超级人工智能计算机</title>
-      <link>https://www.wired.com/story/amazon-reinvent-anthropic-supercomputer/</link>
-      <description><![CDATA[在 Re:Invent 大会上，亚马逊还宣布了帮助客户构建生成式 AI 程序的新工具，其中包括一个可以检查聊天机器人的输出是否准确的工具。]]></description>
-      <guid>https://www.wired.com/story/amazon-reinvent-anthropic-supercomputer/</guid>
-      <pubDate>Tue, 03 Dec 2024 18:13:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
