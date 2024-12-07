@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Sat, 07 Dec 2024 06:12:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Dec 2024 09:09:00 GMT</lastBuildDate>
+    <item>
+      <title>富人可以负担得起个人护理。其余人将不得不借助人工智能</title>
+      <link>https://www.wired.com/story/wealth-inequality-personal-service-access-artificial-intelligence/</link>
+      <description><![CDATA[从私人教练到面对面治疗，只有富人才能获得人际交往。弱势群体有哪些选择？]]></description>
+      <guid>https://www.wired.com/story/wealth-inequality-personal-service-access-artificial-intelligence/</guid>
+      <pubDate>Sat, 07 Dec 2024 09:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>苹果情报的内幕</title>
       <link>https://www.wired.com/story/plaintext-the-inside-story-of-apple-intelligence/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[在《连线》杂志的 The Big Interview 活动上，这位前 OpenAI 首席技术官表示，她仍在创办自己的初创公司，但 AGI 是她最关心的问题。]]></description>
       <guid>https://www.wired.com/story/big-interview-mira-murati-2024/</guid>
       <pubDate>Wed, 04 Dec 2024 00:46:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bluesky 现已拥有 2400 万用户。Jay Graber 仍誓言要阻止其被“改造”</title>
-      <link>https://www.wired.com/story/big-interview-jay-graber-bluesky-2024/</link>
-      <description><![CDATA[在《连线》杂志的 The Big Interview 活动上，Bluesky 首席执行官杰伊·格雷伯 (Jay Graber) 讨论了竞争对手 Twitter 的用户数量激增的情况，以及为什么赋予社交媒体用户更多控制权是成功的秘诀。]]></description>
-      <guid>https://www.wired.com/story/big-interview-jay-graber-bluesky-2024/</guid>
-      <pubDate>Wed, 04 Dec 2024 00:13:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
