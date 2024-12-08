@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Sun, 08 Dec 2024 09:09:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2024 12:15:49 GMT</lastBuildDate>
+    <item>
+      <title>电动汽车的使用寿命可能比你想象的要长得多</title>
+      <link>https://www.wired.com/story/electric-cars-could-last-much-longer-than-most-think/</link>
+      <description><![CDATA[电动汽车电池的使用寿命不比内燃机短，而是比预期的要长得多，甚至连汽车制造商自己都感到惊讶。]]></description>
+      <guid>https://www.wired.com/story/electric-cars-could-last-much-longer-than-most-think/</guid>
+      <pubDate>Sun, 08 Dec 2024 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>富人可以负担得起个人护理。其余人将不得不借助人工智能</title>
       <link>https://www.wired.com/story/wealth-inequality-personal-service-access-artificial-intelligence/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[新聘用的员工均为计算机视觉专家，他们是竞争激烈的人才市场中最新一批直接投向竞争对手的人工智能研究人员。]]></description>
       <guid>https://www.wired.com/story/openai-hires-deepmind-zurich/</guid>
       <pubDate>Wed, 04 Dec 2024 01:33:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mira Murati 退出 OpenAI。她对 AGI 一如既往地乐观</title>
-      <link>https://www.wired.com/story/big-interview-mira-murati-2024/</link>
-      <description><![CDATA[在《连线》杂志的 The Big Interview 活动上，这位前 OpenAI 首席技术官表示，她仍在创办自己的初创公司，但 AGI 是她最关心的问题。]]></description>
-      <guid>https://www.wired.com/story/big-interview-mira-murati-2024/</guid>
-      <pubDate>Wed, 04 Dec 2024 00:46:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
