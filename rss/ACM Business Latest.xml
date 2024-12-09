@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Mon, 09 Dec 2024 00:47:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 03:31:40 GMT</lastBuildDate>
+    <item>
+      <title>为了生产电动汽车，捷豹路虎必须重新设计工厂</title>
+      <link>https://www.wired.com/story/jlr-jaguar-land-rover-electric-vehicle-factory-halewood/</link>
+      <description><![CDATA[在位于英国默西塞德郡捷豹路虎历史悠久的哈利伍德工厂，最先进的装配机器人正在制造未来的汽车。]]></description>
+      <guid>https://www.wired.com/story/jlr-jaguar-land-rover-electric-vehicle-factory-halewood/</guid>
+      <pubDate>Mon, 09 Dec 2024 02:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>电动汽车的使用寿命可能比你想象的要长得多</title>
       <link>https://www.wired.com/story/electric-cars-could-last-much-longer-than-most-think/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[Nvidia 首席执行官黄仁勋计划将 AI 基础设施推广到世界各国，而且他正在亲自推介这一计划。]]></description>
       <guid>https://www.wired.com/story/big-interview-nvidia-jensen-huang-2024/</guid>
       <pubDate>Wed, 04 Dec 2024 01:51:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 从 DeepMind 挖走 3 名顶级工程师</title>
-      <link>https://www.wired.com/story/openai-hires-deepmind-zurich/</link>
-      <description><![CDATA[新聘用的员工均为计算机视觉专家，他们是竞争激烈的人才市场中最新一批直接投向竞争对手的人工智能研究人员。]]></description>
-      <guid>https://www.wired.com/story/openai-hires-deepmind-zurich/</guid>
-      <pubDate>Wed, 04 Dec 2024 01:33:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
