@@ -4,104 +4,94 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Mon, 09 Dec 2024 18:13:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 18:13:37 GMT</lastBuildDate>
     <item>
-      <title>美国试图限制通过信用数据进行网络欺诈</title>
-      <link>https://www.404media.co/u-s-government-tries-to-stop-data-brokers-that-help-dox-people-through-credit-data/</link>
-      <description><![CDATA[404 Media美国消费者金融保护局提议的规则变更将对数据经纪人分发敏感信息（包括个人姓名和地址）的时间进行限制。该规则侧重于信用头数据的分发，即个人信用报告顶部的个人信息，其中不包括个人实际信用额度的信息，但分发范围很广，这使得外国对手更容易购买和使用这些数据进行恶意目的。摘自“美国试图限制通过信用数据进行网络攻击”
-404 Media (12/03/24) Joseph Cox 查看全文]]></description>
-      <guid>https://www.404media.co/u-s-government-tries-to-stop-data-brokers-that-help-dox-people-through-credit-data/</guid>
-      <pubDate>Mon, 09 Dec 2024 18:13:19 GMT</pubDate>
+      <title>加州大学洛杉矶分校推出由人工智能开发的综合文学课程</title>
+      <link>https://techcrunch.com/2024/12/08/ucla-offers-comp-lit-course-developed-by-ai/</link>
+      <description><![CDATA[Tech Crunch加州大学洛杉矶分校 (UCLA) 将于 2025 年冬季开设一门比较文学课程，该课程将使用人工智能生成的教科书、家庭作业和助教资源。这些材料由教科书平台 Kudu 生成，基于 Zrinka Stahuljak 教授提供的笔记、PowerPoint 演示文稿和 YouTube 视频，这些视频来自该课程的先前版本，涵盖了从中世纪到 17 世纪的文学。摘自“UCLA 提供由人工智能开发的比较文学课程”
+Tech Crunch (12/08/24) Anthony Ha 查看全文]]></description>
+      <guid>https://techcrunch.com/2024/12/08/ucla-offers-comp-lit-course-developed-by-ai/</guid>
+      <pubDate>Wed, 11 Dec 2024 18:13:37 GMT</pubDate>
     </item>
     <item>
-      <title>Meta 称人工智能对全球选举影响不大</title>
-      <link>https://www.reuters.com/technology/artificial-intelligence/meta-says-gen-ai-had-muted-impact-global-elections-this-year-2024-12-03/</link>
-      <description><![CDATA[路透社Meta 的尼克·克莱格 (Nick Clegg) 表示，今年，他公司的应用程序发现与全球选举有关的人工智能生成的错误信息数量很少，而且此类内容很快就被删除或贴上标签。克莱格表示，2024 年，大约有 20 项秘密影响行动从 Meta 的平台上被删除，并补充说，Meta 在描述 COVID-19 大流行期间的内容审核时“可能做得有点过头了”。摘自“Meta 称 Gen AI 对全球选举影响不大”
-路透社 (12/03/24) Sheila Dang 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/artificial-intelligence/meta-says-gen-ai-had-muted-impact-global-elections-this-year-2024-12-03/</guid>
-      <pubDate>Mon, 09 Dec 2024 18:13:18 GMT</pubDate>
+      <title>乌克兰询问 Telegram 是否是潜伏特工</title>
+      <link>https://www.nytimes.com/2024/12/09/technology/ukraine-russia-telegram-security.html</link>
+      <description><![CDATA[《纽约时报》数百万乌克兰人依靠消息应用程序 Telegram 来组织食物、医疗援助和其他支持，以及获取有关即将发生的俄罗斯袭击的信息。然而，乌克兰官员越来越担心，由俄罗斯出生的 Pavel Durov 创立和拥有的 Telegram 被用作俄罗斯的间谍工具并传播虚假信息。作为回应，他们已下令军方和政府官员以及关键基础设施工作人员限制在工作手机上使用该应用程序，并将敏感通信转移到加密应用程序。摘自“乌克兰询问 Telegram 是否是潜伏特工”
+《纽约时报》（12/09/24）Paul Mozur；Adam Satariano； Sasha Maslov 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/12/09/technology/ukraine-russia-telegram-security.html</guid>
+      <pubDate>Wed, 11 Dec 2024 18:13:36 GMT</pubDate>
     </item>
     <item>
-      <title>Excel 世界冠军破解“魔兽”电子表格夺冠</title>
-      <link>https://www.pcworld.com/article/2548148/excel-world-champion-solves-warcraft-spreadsheet-to-win-crown.html</link>
-      <description><![CDATA[PCWorld加拿大人 Michael Jarman 赢得了 2024 年 Microsoft Excel 世界锦标赛。参加此次比赛的 12 名决赛选手被要求管理一支由玩家组成的团队，以完成一场模拟游戏。对于每个级别，玩家都需要跟踪各种统计数据。在管理一支由 12 名模拟部落玩家组成的团队完成《魔兽世界》模拟游戏后，Jarman 收到了一张 5,000 美元的支票。摘自“Excel 世界冠军解决《魔兽世界》电子表格赢得桂冠”
-PCWorld (12/06/24) Mark Hachman 查看全文]]></description>
-      <guid>https://www.pcworld.com/article/2548148/excel-world-champion-solves-warcraft-spreadsheet-to-win-crown.html</guid>
-      <pubDate>Mon, 09 Dec 2024 18:13:17 GMT</pubDate>
+      <title>人工智能盈利的秘诀是聘用更多博士</title>
+      <link>https://www.bloomberg.com/news/articles/2024-12-10/secret-to-ai-profitability-is-hiring-a-lot-more-doctorates</link>
+      <description><![CDATA[彭博社为了确保人工智能模型达到高级水平并实现盈利，各大公司都在以更高的薪水和费率招募数据标注员。数据标注公司 Datasaur Inc. 的创始人兼首席执行官 Ivan Lee 表示：“我们看到各大公司正在解决更高级但也越来越小众的问题。”训练数据公司 Sama 的首席执行官 Wendy Gonzalez 表示：“不够准确的人工智能可能会出轨。企业承受不起这种后果。”摘自“人工智能盈利的秘诀是聘用更多博士”
+彭博社 (12/09/24) Saritha Rai 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-12-10/secret-to-ai-profitability-is-hiring-a-lot-more-doctorates</guid>
+      <pubDate>Wed, 11 Dec 2024 18:13:35 GMT</pubDate>
     </item>
     <item>
-      <title>激烈竞争，争夺英伟达 AI 芯片之王</title>
-      <link>https://www.nytimes.com/2024/12/03/technology/nvidia-ai-chips.html</link>
-      <description><![CDATA[《纽约时报》竞争对手正在努力取代 Nvidia 成为 AI 芯片开发的领导者。竞争是由科技公司推动的，这些公司已经开始为 AI 开发的特定阶段量身定制芯片，这一过程称为“推理”，发生在公司使用芯片训练 AI 模型之后。竞争对手还开始模仿 Nvidia 的策略，即构建完整的计算机，以便客户可以从芯片中获得用于 AI 应用的最大功率和性能。摘自“激烈的竞争，以取代 Nvidia 作为 AI 芯片之王”
-《纽约时报》（12/04/24）Don Clark 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/12/03/technology/nvidia-ai-chips.html</guid>
-      <pubDate>Mon, 09 Dec 2024 18:13:17 GMT</pubDate>
+      <title>QR 码可绕过浏览器隔离，实现恶意 C2 通信</title>
+      <link>https://www.bleepingcomputer.com/news/security/qr-codes-bypass-browser-isolation-for-malicious-c2-communication/</link>
+      <description><![CDATA[BleepingComputer谷歌网络安全子公司 Mandiant 的研究人员开发了一种使用二维码绕过浏览器隔离技术并实现命令和控制操作的技术。该方法涉及将命令编码在网页上直观显示的二维码中。在涉及最新谷歌 Chrome 浏览器并通过 Cobalt Strike 的外部 C2 功能集成植入物的测试中，研究人员证明，先前感染设备的恶意软件捕获并解码了二维码以获取指令。摘自“二维码绕过浏览器隔离进行恶意 C2 通信”
+BleepingComputer (12/08/24) Bill Toulas 查看全文]]></description>
+      <guid>https://www.bleepingcomputer.com/news/security/qr-codes-bypass-browser-isolation-for-malicious-c2-communication/</guid>
+      <pubDate>Wed, 11 Dec 2024 18:13:35 GMT</pubDate>
     </item>
     <item>
-      <title>马来西亚扩大互联网管控计划遭反对</title>
-      <link>https://www.bloomberg.com/news/articles/2024-12-04/malaysia-faces-backlash-over-plan-to-broaden-internet-controls</link>
-      <description><![CDATA[彭博社马来西亚政府于 12 月 2 日提出的一项法案将加强对互联网内容违规行为的处罚，并赋予执法部门更大的权力，包括允许任何“授权官员”无需搜查令即可进行搜查和扣押。该法律还将追究服务提供商的责任，其代表可能因违规而被捕，并要求他们在调查期间向当局披露用户数据。摘自“马来西亚因扩大互联网控制计划而面临强烈反对”
-彭博社 (12/04/24) Anisah Shukry；Norman Harsono；Francesca Stevens 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-12-04/malaysia-faces-backlash-over-plan-to-broaden-internet-controls</guid>
-      <pubDate>Mon, 09 Dec 2024 18:13:16 GMT</pubDate>
+      <title>TikTok 及其母公司请求法院阻止美国禁令</title>
+      <link>https://www.cnn.com/2024/12/09/tech/bytedance-tiktok-halt-us-ban-intl/index.html</link>
+      <description><![CDATA[CNNTikTok 及其中国母公司字节跳动于 12 月 9 日向美国哥伦比亚特区上诉法院提交了一项紧急动议，要求暂时阻止一项要求该平台在 1 月 19 日之前剥离或在美国被禁止的法律。在请求禁令时，这些公司指出，美国最高法院审理此案的可能性很高，需要给即将上任的特朗普政府一个确定立场的机会，并且可能会中断对美国境外数千万用户的服务。摘自“TikTok 及其母公司要求法院阻止美国禁令”
+CNN (12/09/24) 查看全文]]></description>
+      <guid>https://www.cnn.com/2024/12/09/tech/bytedance-tiktok-halt-us-ban-intl/index.html</guid>
+      <pubDate>Wed, 11 Dec 2024 18:13:34 GMT</pubDate>
     </item>
     <item>
-      <title>加州大学伯克利分校的项目是人工智能行业的痴迷</title>
-      <link>https://www.wsj.com/tech/ai/the-uc-berkeley-project-that-is-the-ai-industrys-obsession-bc68b3e3</link>
-      <description><![CDATA[《华尔街日报》Chatbot Arena 允许用户从两个匿名 AI 模型中获得查询答案，并评定哪个更好，然后将评分汇总到排行榜上。Chatbot Arena 由加州大学伯克利分校的研究生 Anastasios Angelopoulos 和 Wei-Lin Chiang 开发，吸引了业内最大玩家的关注，他们正在争夺排行榜的头把交椅。 Chatbot Arena 目前对 170 多个模型进行了排名，这些模型共获得了 200 万张选票。摘自“加州大学伯克利分校项目是人工智能行业的痴迷”
-华尔街日报 (12/05/24) Miles Kruppa 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/tech/ai/the-uc-berkeley-project-that-is-the-ai-industrys-obsession-bc68b3e3</guid>
-      <pubDate>Mon, 09 Dec 2024 18:13:15 GMT</pubDate>
+      <title>类似电池的计算机内存可在 1000°F 以上工作</title>
+      <link>https://news.umich.edu/battery-like-computer-memory-keeps-working-above-1000f/</link>
+      <description><![CDATA[密歇根大学新闻密歇根大学和桑迪亚国家实验室的研究人员开发了一种固态存储设备，可以在高于 1100°F (600°C) 的温度下存储和重写信息。该设备移动的是带负电的氧原子，而不是电子。三个铂电极决定耐热氧离子是进入还是离开氧化钽层，氧化钽层充当绝缘体或导体，并允许材料在代表数字 0 和 1 的两个电压状态之间移动。摘自“类似电池的计算机内存可在 1000°F 以上工作”
+密歇根大学新闻 (12/09/24) Derek Smith 查看全文]]></description>
+      <guid>https://news.umich.edu/battery-like-computer-memory-keeps-working-above-1000f/</guid>
+      <pubDate>Wed, 11 Dec 2024 18:13:34 GMT</pubDate>
     </item>
     <item>
-      <title>有腿的无人机可以行走、跳跃、起飞</title>
-      <link>https://spectrum.ieee.org/bird-drone</link>
-      <description><![CDATA[IEEE Spectrum瑞士洛桑联邦理工学院的研究人员开发了一种无人机，它能用腿跳跃起飞，也能行走和跳跃。RAVEN（适用于多种环境的机器人鸟类飞行器）无人机大小与乌鸦差不多，翼展 100 厘米，体长 50 厘米。它能在不到四秒的时间内行走一米，跳过 12 厘米的间隙，跳到 26 厘米的障碍物顶部。摘自“有腿的无人机能行走、跳跃、跳跃起飞”
-IEEE Spectrum (12/04/24) Evan Ackerman 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/bird-drone</guid>
-      <pubDate>Mon, 09 Dec 2024 18:13:15 GMT</pubDate>
+      <title>计算机科学领域的性别刻板印象很早就开始了</title>
+      <link>https://www.forbes.com/sites/josiecox/2024/12/09/kids-as-young-as-six-think-girls-are-worse-than-boys-at-computer-science/</link>
+      <description><![CDATA[福布斯美国研究机构 (AIR) 对来自 33 个国家的 145,000 名儿童进行了一项研究，发现接受调查的六岁儿童中 35% 认为男孩在计算机科学方面比女孩更优秀，而 22% 的人持相反意见，43% 的人认为没有区别。 AIR 的 David Miller 表示，这些举措“需要特别关注计算机和工程领域的女孩。特别是在幼儿时期，在这些刻板印象形成之前。”摘自“计算机科学性别刻板印象从小就开始了”
+福布斯 (12/09/24) Josie Cox 查看全文]]></description>
+      <guid>https://www.forbes.com/sites/josiecox/2024/12/09/kids-as-young-as-six-think-girls-are-worse-than-boys-at-computer-science/</guid>
+      <pubDate>Wed, 11 Dec 2024 18:13:33 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 的代码检查很差劲</title>
-      <link>https://spectrum.ieee.org/chatgpt-checking-sucks</link>
-      <description><![CDATA[IEEE Spectrum中国浙江大学的研究人员表示，ChatGPT 在评估其所创建代码的正确性、漏洞和成功修复方面通常过于自信。他们的研究发现，ChatGPT-3.5 在生成正确代码方面的平均成功率为 57%，在生成没有安全漏洞的代码方面的平均成功率为 73%，在修复错误代码方面的平均成功率为 70%。研究人员发现，使用引导性问题使 ChatGPT 能够识别更多自己的错误，而要求它生成测试报告则增加了标记漏洞的数量。
-
-摘自“ChatGPT 在检查代码方面很糟糕”
-IEEE Spectrum (12/05/24) Michelle Hampson 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/chatgpt-checking-sucks</guid>
-      <pubDate>Mon, 09 Dec 2024 18:13:14 GMT</pubDate>
+      <title>音乐家要求唱片公司撤销对互联网档案馆的诉讼</title>
+      <link>https://www.engadget.com/entertainment/music/musicians-demand-music-labels-drop-their-internet-archive-lawsuit-214139644.html</link>
+      <description><![CDATA[Engadget一群音乐家签署了《音乐家公平与保护公开信》，呼吁索尼音乐娱乐、环球音乐集团和其他唱片公司撤回对互联网档案馆的诉讼，该档案馆涉及其致力于保存 78 RPM 唱片上录制的音乐的 Great 78 项目。这封信反而呼吁唱片公司与互联网档案馆和类似组织合作，以保护原创唱片和音乐文化。摘自“音乐家要求唱片公司撤销互联网档案馆诉讼”
+Engadget (12/09/24) Ian Carlos Campbell 查看全文]]></description>
+      <guid>https://www.engadget.com/entertainment/music/musicians-demand-music-labels-drop-their-internet-archive-lawsuit-214139644.html</guid>
+      <pubDate>Wed, 11 Dec 2024 18:13:33 GMT</pubDate>
     </item>
     <item>
-      <title>新方法将 TB 级基因组数据压缩为 GB 级</title>
-      <link>https://news.cornell.edu/stories/2024/12/new-method-compresses-terabytes-genomic-data-gigabytes</link>
-      <description><![CDATA[康奈尔纪事报康奈尔大学研究人员创建的基因型表示图 (GRG) 将数百 TB 的基因组数据压缩为 GB，因此数据集可以存储在本地而不是云中。康奈尔大学的潘子清说，主要的好处是能够使用图表进行计算，而无需解压缩数据。摘自“新方法将 TB 级基因组数据压缩为 GB 级”
-康奈尔纪事报 (12/05/24) Linda B. Glaser 查看全文]]></description>
-      <guid>https://news.cornell.edu/stories/2024/12/new-method-compresses-terabytes-genomic-data-gigabytes</guid>
-      <pubDate>Mon, 09 Dec 2024 18:13:14 GMT</pubDate>
+      <title>中国对英伟达展开反垄断调查</title>
+      <link>https://www.cnn.com/2024/12/09/tech/nvidia-china-investigation/index.html</link>
+      <description><![CDATA[CNN中国已对美国芯片制造商 Nvidia 展开反垄断调查。据当地报道，中国政府认为 Nvidia 收购以色列网络公司 Mellanox 的交易可能违反该国的反垄断法，该交易于 2020 年获得中国批准。上周，美国对向中国销售高科技内存芯片实施了另一轮限制，随后中国禁止向美国销售制造芯片所必需的材料。摘自“中国对 Nvidia 展开反垄断调查”
+CNN (12/09/24) David Goldman 查看全文]]></description>
+      <guid>https://www.cnn.com/2024/12/09/tech/nvidia-china-investigation/index.html</guid>
+      <pubDate>Wed, 11 Dec 2024 18:13:32 GMT</pubDate>
     </item>
     <item>
-      <title>苹果因未能控制 iCloud 上的儿童性虐待内容而被起诉</title>
-      <link>https://www.nytimes.com/2024/12/08/technology/apple-child-sexual-abuse-material-lawsuit.html</link>
-      <description><![CDATA[《纽约时报》儿童性虐待受害者于周六起诉苹果公司，指控其未能按照计划扫描 iCloud 中是否存在儿童性虐待材料。苹果公司于 2021 年推出了一款系统，用于扫描疑似儿童性虐待图像并将其转发给相关部门；后来，苹果公司在收到警告后放弃了该系统，称该系统可能让政府获得 iPhone 的后门访问权限。摘自“苹果因未能遏制 iCloud 上的儿童性虐待材料而被起诉”
-《纽约时报》（2024 年 12 月 9 日）Tripp Mickle 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/12/08/technology/apple-child-sexual-abuse-material-lawsuit.html</guid>
-      <pubDate>Mon, 09 Dec 2024 18:13:13 GMT</pubDate>
+      <title>美国最终批准向美光提供 61 亿美元芯片制造补贴</title>
+      <link>https://www.reuters.com/technology/us-finalizes-more-than-61-bln-chips-subsidy-micron-technology-2024-12-10/</link>
+      <description><![CDATA[路透社美国商务部最终确定向美光科技提供 61.65 亿美元的政府补贴，以支持美光科技的长期计划，该计划将在纽约投资约 1000 亿美元用于制造业，在爱达荷州投资 250 亿美元。据该部门称，这笔资金属于 527 亿美元的 2022 年芯片和科学法案，将帮助美国在先进内存芯片制造业中的份额从不到 2% 增加到 2035 年的约 10%。 摘自“美国敲定 61 亿美元美光芯片制造补贴”
+路透社 (12/10/24) David Shepardson 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/us-finalizes-more-than-61-bln-chips-subsidy-micron-technology-2024-12-10/</guid>
+      <pubDate>Wed, 11 Dec 2024 18:13:32 GMT</pubDate>
     </item>
     <item>
-      <title>Hinton 等图灵奖获得者均荣获 VinFuture 大奖</title>
-      <link>https://www.utoronto.ca/news/geoffrey-hinton-shares-2024-vinfuture-grand-prize-work-deep-learning</link>
-      <description><![CDATA[多伦多大学新闻（加拿大）ACM A. M. 图灵奖获得者 Geoffrey Hinton、Yoshua Bengio 和 Yann LeCun 与 Nvidia 首席执行官 Jensen Huang 和 ACM 院士 Fei-Fei Li 一起，被越南 VinFuture 基金会授予 300 万美元的 2024 年 VinFuture 大奖，以表彰他们对深度学习的发展和应用所做的贡献。该基金会指出，Hinton 和 Bengio 因其在神经网络和深度学习算法方面的研究而获奖，而 LeCun 则因帮助开发用于计算机视觉的卷积神经网络而获得认可。摘自“Hinton 等图灵奖获得者跻身 VinFuture 大奖得主之列”
-多伦多大学新闻（加拿大）（2024 年 6 月 12 日）Rahul Kalvapalle 查看全文]]></description>
-      <guid>https://www.utoronto.ca/news/geoffrey-hinton-shares-2024-vinfuture-grand-prize-work-deep-learning</guid>
-      <pubDate>Mon, 09 Dec 2024 18:13:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国联邦通信委员会主席提议制定网络安全规则以应对中国电信黑客攻击</title>
-      <link>https://www.reuters.com/technology/cybersecurity/fcc-chair-proposes-cybersecurity-rules-response-chinas-salt-typhoon-telecom-hack-2024-12-05/</link>
-      <description><![CDATA[路透社美国联邦通信委员会（FCC）主席杰西卡·罗森沃塞尔（Jessica Rosenworcel）提议，要求通信服务提供商提交年度证明，证明他们已制定计划防范网络攻击。 Rosenworcel 表示：“我们需要建立一个现代化的框架，帮助企业保护其网络，更好地预防和应对未来的网络攻击。”摘自“FCC 主席提议制定网络安全规则以应对中国电信黑客攻击”
-路透社 (12/05/24) 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/cybersecurity/fcc-chair-proposes-cybersecurity-rules-response-chinas-salt-typhoon-telecom-hack-2024-12-05/</guid>
-      <pubDate>Mon, 09 Dec 2024 18:13:12 GMT</pubDate>
+      <title>谷歌突破让量子计算更接近现实</title>
+      <link>https://www.nytimes.com/2024/12/09/technology/google-quantum-computing.html</link>
+      <description><![CDATA[《纽约时报》谷歌周一发布了一款新型量子计算机，称该计算机只需不到五分钟就能完成一项数学计算，而世界上最强大的超级计算机之一需要 10 的 10 次方（1 后面跟着 24 个零）年才能完成这项计算。谷歌表示，其使用名为 Willow 的新芯片的计算机超越了“纠错阈值”。摘自“谷歌突破让量子计算更接近现实”
+《纽约时报》（2024 年 12 月 10 日）Cade Metz 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/12/09/technology/google-quantum-computing.html</guid>
+      <pubDate>Wed, 11 Dec 2024 18:13:31 GMT</pubDate>
     </item>
     </channel>
 </rss>

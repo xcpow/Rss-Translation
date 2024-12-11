@@ -4,7 +4,28 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Wed, 11 Dec 2024 15:10:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 18:13:43 GMT</lastBuildDate>
+    <item>
+      <title>价值数十亿美元的成人流媒体产业受到可怕的劳工虐待</title>
+      <link>https://www.wired.com/story/hrw-report-adult-streaming-labor-abuses/</link>
+      <description><![CDATA[臭虫和蟑螂。肮脏的共用设备。持续不断的监视，以及对他们账户的零控制。这些只是成年主播在工作中面临的恶劣条件的一部分。]]></description>
+      <guid>https://www.wired.com/story/hrw-report-adult-streaming-labor-abuses/</guid>
+      <pubDate>Wed, 11 Dec 2024 18:10:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>OnlyFans 模特正在使用人工智能模仿者来跟上他们的 DM</title>
+      <link>https://www.wired.com/story/onlyfans-models-are-using-ai-impersonators-to-keep-up-with-their-dms/</link>
+      <description><![CDATA[人工智能正在取代那些在网上发送情书时冒充 OnlyFans 明星的人类。]]></description>
+      <guid>https://www.wired.com/story/onlyfans-models-are-using-ai-impersonators-to-keep-up-with-their-dms/</guid>
+      <pubDate>Wed, 11 Dec 2024 17:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌发布 Gemini 2、AI 代理和个人助理原型</title>
+      <link>https://www.wired.com/story/google-gemini-2-ai-assistant-release/</link>
+      <description><![CDATA[谷歌旗舰人工智能模型的新版本展示了该公司如何看待人工智能改变个人计算、网络搜索以及人们与物理世界互动的方式。]]></description>
+      <guid>https://www.wired.com/story/google-gemini-2-ai-assistant-release/</guid>
+      <pubDate>Wed, 11 Dec 2024 15:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>如果唐纳德·特朗普实施大规模驱逐计划，美国肉类、牛奶价格将飙升</title>
       <link>https://www.wired.com/story/us-meat-milk-prices-should-spike-if-donald-trump-carries-out-mass-deportation-schemes/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[本周在“恐怖谷”节目中，我们深入探讨了 Open AI 的 Sam Altman。]]></description>
       <guid>https://www.wired.com/story/uncanny-valley-podcast-5-in-sam-altman-we-trust/</guid>
       <pubDate>Thu, 05 Dec 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 正与 Anduril 合作为美国军方提供人工智能</title>
-      <link>https://www.wired.com/story/openai-anduril-defense/</link>
-      <description><![CDATA[继 Meta 和 Anthropic 宣布类似合作之后，ChatGPT 制造商成为最新一家透露正在与国防工业合作的人工智能巨头。]]></description>
-      <guid>https://www.wired.com/story/openai-anduril-defense/</guid>
-      <pubDate>Wed, 04 Dec 2024 21:01:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能机器人可能被诱骗实施暴力行为</title>
-      <link>https://www.wired.com/story/researchers-llm-ai-robot-violence/</link>
-      <description><![CDATA[研究人员入侵了几个注入了大型语言模型的机器人，使它们表现出危险的行为——并指出未来会出现更大的问题。]]></description>
-      <guid>https://www.wired.com/story/researchers-llm-ai-robot-violence/</guid>
-      <pubDate>Wed, 04 Dec 2024 17:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Celsius 创始人 Alex Mashinsky 承认欺诈罪</title>
-      <link>https://www.wired.com/story/celsius-founder-alex-mashinsky-pleads-guilty-to-fraud-crypto-celsius/</link>
-      <description><![CDATA[加密货币借贷机构 Celsius 的创始人承认向客户撒谎，隐瞒他们的资金使用方式，并操纵市场以谋取私利。]]></description>
-      <guid>https://www.wired.com/story/celsius-founder-alex-mashinsky-pleads-guilty-to-fraud-crypto-celsius/</guid>
-      <pubDate>Wed, 04 Dec 2024 14:17:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
