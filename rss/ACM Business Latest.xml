@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Wed, 11 Dec 2024 09:10:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 12:18:01 GMT</lastBuildDate>
+    <item>
+      <title>如果唐纳德·特朗普实施大规模驱逐计划，美国肉类、牛奶价格将飙升</title>
+      <link>https://www.wired.com/story/us-meat-milk-prices-should-spike-if-donald-trump-carries-out-mass-deportation-schemes/</link>
+      <description><![CDATA[美国肉类和奶制品行业严重依赖非法工人，这意味着，如果特朗普政府真的实施其计划，价格可能会大幅上涨。]]></description>
+      <guid>https://www.wired.com/story/us-meat-milk-prices-should-spike-if-donald-trump-carries-out-mass-deportation-schemes/</guid>
+      <pubDate>Wed, 11 Dec 2024 11:02:41 GMT</pubDate>
+    </item>
     <item>
       <title>区块链创新将把人工智能互联网重新交到用户手中</title>
       <link>https://www.wired.com/story/blockchain-open-web-user-data/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[加密货币借贷机构 Celsius 的创始人承认向客户撒谎，隐瞒他们的资金使用方式，并操纵市场以谋取私利。]]></description>
       <guid>https://www.wired.com/story/celsius-founder-alex-mashinsky-pleads-guilty-to-fraud-crypto-celsius/</guid>
       <pubDate>Wed, 04 Dec 2024 14:17:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能风险的新基准</title>
-      <link>https://www.wired.com/story/benchmark-for-ai-risks/</link>
-      <description><![CDATA[MLCommons 提供了测试 AI 系统能力的基准。它接下来想衡量 AI 的坏处。]]></description>
-      <guid>https://www.wired.com/story/benchmark-for-ai-risks/</guid>
-      <pubDate>Wed, 04 Dec 2024 14:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
