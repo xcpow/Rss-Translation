@@ -4,7 +4,7 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 12 Dec 2024 00:45:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 03:28:21 GMT</lastBuildDate>
     <item>
       <title>价值数十亿美元的成人流媒体产业受到可怕的劳工虐待</title>
       <link>https://www.wired.com/story/hrw-report-adult-streaming-labor-abuses/</link>
@@ -25,6 +25,13 @@
       <description><![CDATA[谷歌旗舰人工智能模型的新版本展示了该公司如何看待人工智能改变个人计算、网络搜索以及人们与物理世界互动的方式。]]></description>
       <guid>https://www.wired.com/story/google-gemini-2-ai-assistant-release/</guid>
       <pubDate>Wed, 11 Dec 2024 15:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>哈佛大学将发布由 OpenAI 和微软资助的海量免费 AI 训练数据集</title>
+      <link>https://www.wired.com/story/harvard-ai-training-dataset-openai-microsoft/</link>
+      <description><![CDATA[该项目负责人表示，允许每个人访问公共领域书籍集合将有助于人工智能行业“公平竞争”。]]></description>
+      <guid>https://www.wired.com/story/harvard-ai-training-dataset-openai-microsoft/</guid>
+      <pubDate>Wed, 11 Dec 2024 15:00:00 GMT</pubDate>
     </item>
     <item>
       <title>如果唐纳德·特朗普实施大规模驱逐计划，美国肉类、牛奶价格将飙升</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[生成式人工智能可能会对 Canva 构成威胁，该公司通过让平面设计变得快速而简单而赚取了数十亿美元。但对于首席执行官梅兰妮·珀金斯 (Melanie Perkins) 来说，它只是让世界变得更加直观。]]></description>
       <guid>https://www.wired.com/story/canva-ceo-melanie-perkins-interview/</guid>
       <pubDate>Fri, 06 Dec 2024 02:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们信任萨姆·奥特曼吗？</title>
-      <link>https://www.wired.com/story/uncanny-valley-podcast-5-in-sam-altman-we-trust/</link>
-      <description><![CDATA[本周在“恐怖谷”节目中，我们深入探讨了 Open AI 的 Sam Altman。]]></description>
-      <guid>https://www.wired.com/story/uncanny-valley-podcast-5-in-sam-altman-we-trust/</guid>
-      <pubDate>Thu, 05 Dec 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
