@@ -4,7 +4,21 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 13 Dec 2024 12:17:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 15:09:38 GMT</lastBuildDate>
+    <item>
+      <title>Wayve 的 AI 自动驾驶系统将像人类一样驾驶，与 Waymo 和特斯拉一较高下</title>
+      <link>https://www.wired.com/story/wayves-ai-self-driving-system-is-here-to-drive-like-a-human-and-take-on-waymo-and-tesla/</link>
+      <description><![CDATA[与 Waymo 的人工智能训练与手工编码指令的混合系统不同，Wayve 的人工智能可以处理整个自动驾驶过程，在无人监督的情况下学习应对不可预测的情况，并像我们一样驾驶。]]></description>
+      <guid>https://www.wired.com/story/wayves-ai-self-driving-system-is-here-to-drive-like-a-human-and-take-on-waymo-and-tesla/</guid>
+      <pubDate>Fri, 13 Dec 2024 14:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>人类的滥用将使人工智能更加危险</title>
+      <link>https://www.wired.com/story/human-misuse-will-make-artificial-intelligence-more-dangerous/</link>
+      <description><![CDATA[人工智能按照指令创造一切，从凭空捏造证据，到任意剥夺人们的权利，再到对公共不当行为散播怀疑。]]></description>
+      <guid>https://www.wired.com/story/human-misuse-will-make-artificial-intelligence-more-dangerous/</guid>
+      <pubDate>Fri, 13 Dec 2024 14:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>亿万富翁弗兰克·麦考特实际上会用 TikTok 做什么</title>
       <link>https://www.wired.com/story/frank-mccourt-tiktok-bid/</link>
@@ -22,7 +36,7 @@
     <item>
       <title>今年是所有人都退出社交媒体的一年吗？</title>
       <link>https://www.wired.com/story/uncanny-valley-podcast-6-quitting-social-media/</link>
-      <description><![CDATA[本周在“恐怖谷”节目中，我们讨论哪些社交媒体应用仍然值得使用。]]></description>
+      <description><![CDATA[本周在《恐怖谷》节目中，我们讨论哪些社交媒体应用仍然值得一看。]]></description>
       <guid>https://www.wired.com/story/uncanny-valley-podcast-6-quitting-social-media/</guid>
       <pubDate>Thu, 12 Dec 2024 13:00:00 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[从私人教练到面对面治疗，只有富人才能获得人际交往。弱势群体有哪些选择？]]></description>
       <guid>https://www.wired.com/story/wealth-inequality-personal-service-access-artificial-intelligence/</guid>
       <pubDate>Sat, 07 Dec 2024 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果情报的内幕</title>
-      <link>https://www.wired.com/story/plaintext-the-inside-story-of-apple-intelligence/</link>
-      <description><![CDATA[苹果的领导层声称，公司在生成式人工智能方面的发展并不晚，而是遵循了其熟悉的策略：努力成为最好，而不是第一个。]]></description>
-      <guid>https://www.wired.com/story/plaintext-the-inside-story-of-apple-intelligence/</guid>
-      <pubDate>Fri, 06 Dec 2024 18:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>联邦上诉法院刚刚维持 TikTok 禁令。接下来可能会发生什么</title>
-      <link>https://www.wired.com/story/doj-tiktok-constitutional-lawsuit/</link>
-      <description><![CDATA[最高法院、当选总统唐纳德·特朗普或美国买家仍可能介入，以拯救这个拥有约 1.7 亿美国人使用的视频平台。]]></description>
-      <guid>https://www.wired.com/story/doj-tiktok-constitutional-lawsuit/</guid>
-      <pubDate>Fri, 06 Dec 2024 16:15:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
