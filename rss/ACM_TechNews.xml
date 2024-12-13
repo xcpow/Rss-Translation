@@ -4,94 +4,110 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Wed, 11 Dec 2024 18:13:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 18:12:49 GMT</lastBuildDate>
     <item>
-      <title>加州大学洛杉矶分校推出由人工智能开发的综合文学课程</title>
-      <link>https://techcrunch.com/2024/12/08/ucla-offers-comp-lit-course-developed-by-ai/</link>
-      <description><![CDATA[Tech Crunch加州大学洛杉矶分校 (UCLA) 将于 2025 年冬季开设一门比较文学课程，该课程将使用人工智能生成的教科书、家庭作业和助教资源。这些材料由教科书平台 Kudu 生成，基于 Zrinka Stahuljak 教授提供的笔记、PowerPoint 演示文稿和 YouTube 视频，这些视频来自该课程的先前版本，涵盖了从中世纪到 17 世纪的文学。摘自“UCLA 提供由人工智能开发的比较文学课程”
-Tech Crunch (12/08/24) Anthony Ha 查看全文]]></description>
-      <guid>https://techcrunch.com/2024/12/08/ucla-offers-comp-lit-course-developed-by-ai/</guid>
-      <pubDate>Wed, 11 Dec 2024 18:13:37 GMT</pubDate>
+      <title>计算机内存缺陷导致全球安全修复</title>
+      <link>https://www.birmingham.ac.uk/news/2024/flaw-in-computer-memory-leads-to-global-security-fixes</link>
+      <description><![CDATA[伯明翰大学（英国）英国伯明翰大学、比利时鲁汶大学和德国吕贝克大学的研究人员发现，AMD 计算机处理器存在一个安全漏洞，可绕过 AMD 的安全加密虚拟化技术，该技术可保护存储在共享云环境中的数据。研究人员使用名为 BadRAM 的恶意内存模块诱使 CPU 寻址不存在的内存区域，从而绕过 CPU 内存保护。摘自“计算机内存缺陷导致全球安全修复”
+伯明翰大学 (英国) (2024 年 12 月 10 日) 查看全文]]></description>
+      <guid>https://www.birmingham.ac.uk/news/2024/flaw-in-computer-memory-leads-to-global-security-fixes</guid>
+      <pubDate>Fri, 13 Dec 2024 18:12:49 GMT</pubDate>
     </item>
     <item>
-      <title>乌克兰询问 Telegram 是否是潜伏特工</title>
-      <link>https://www.nytimes.com/2024/12/09/technology/ukraine-russia-telegram-security.html</link>
-      <description><![CDATA[《纽约时报》数百万乌克兰人依靠消息应用程序 Telegram 来组织食物、医疗援助和其他支持，以及获取有关即将发生的俄罗斯袭击的信息。然而，乌克兰官员越来越担心，由俄罗斯出生的 Pavel Durov 创立和拥有的 Telegram 被用作俄罗斯的间谍工具并传播虚假信息。作为回应，他们已下令军方和政府官员以及关键基础设施工作人员限制在工作手机上使用该应用程序，并将敏感通信转移到加密应用程序。摘自“乌克兰询问 Telegram 是否是潜伏特工”
-《纽约时报》（12/09/24）Paul Mozur；Adam Satariano； Sasha Maslov 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/12/09/technology/ukraine-russia-telegram-security.html</guid>
-      <pubDate>Wed, 11 Dec 2024 18:13:36 GMT</pubDate>
+      <title>铁电器件可使数据无法被破解</title>
+      <link>https://spectrum.ieee.org/unhackable-phone</link>
+      <description><![CDATA[IEEE Spectrum中国北京大学的研究人员发明的一种设备利用铁电场效应晶体管 (FeFET) 阵列实现同态加密。通过 FeFET 的电流波动使晶体管阵列能够创建加密密钥，其波动程度比传统 MOSFET 晶体管更高，从而能够生成更不可预测的随机数。摘自“铁电设备可使数据无法破解”
+IEEE Spectrum (12/10/24) Kohava Mendelsohn 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/unhackable-phone</guid>
+      <pubDate>Fri, 13 Dec 2024 18:12:48 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能盈利的秘诀是聘用更多博士</title>
-      <link>https://www.bloomberg.com/news/articles/2024-12-10/secret-to-ai-profitability-is-hiring-a-lot-more-doctorates</link>
-      <description><![CDATA[彭博社为了确保人工智能模型达到高级水平并实现盈利，各大公司都在以更高的薪水和费率招募数据标注员。数据标注公司 Datasaur Inc. 的创始人兼首席执行官 Ivan Lee 表示：“我们看到各大公司正在解决更高级但也越来越小众的问题。”训练数据公司 Sama 的首席执行官 Wendy Gonzalez 表示：“不够准确的人工智能可能会出轨。企业承受不起这种后果。”摘自“人工智能盈利的秘诀是聘用更多博士”
-彭博社 (12/09/24) Saritha Rai 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-12-10/secret-to-ai-profitability-is-hiring-a-lot-more-doctorates</guid>
-      <pubDate>Wed, 11 Dec 2024 18:13:35 GMT</pubDate>
+      <title>多年来 Reddit 帖子如何让该公司成为 AI 宠儿</title>
+      <link>https://www.wsj.com/tech/ai/reddit-ai-partnerships-investors-59eef0fe</link>
+      <description><![CDATA[《华尔街日报》人工智能公司是 Reddit 增长战略的重要组成部分，与 OpenAI 和谷歌达成的数据许可协议为该社交媒体平台作为上市公司首次实现季度盈利做出了贡献。Reddit 去年开始向公司收取访问其数据以训练人工智能模型的费用。Reddit 的数据需求量很大，因为其内容按主题组织，通过投票系统按质量排序，而且由于该平台的大多数用户都使用假名写作，因此更加坦诚。摘自“多年的 Reddit 帖子如何让该公司成为人工智能宠儿”
+《华尔街日报》（12/10/24）Sarah E. Needleman 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/tech/ai/reddit-ai-partnerships-investors-59eef0fe</guid>
+      <pubDate>Fri, 13 Dec 2024 18:12:48 GMT</pubDate>
     </item>
     <item>
-      <title>QR 码可绕过浏览器隔离，实现恶意 C2 通信</title>
-      <link>https://www.bleepingcomputer.com/news/security/qr-codes-bypass-browser-isolation-for-malicious-c2-communication/</link>
-      <description><![CDATA[BleepingComputer谷歌网络安全子公司 Mandiant 的研究人员开发了一种使用二维码绕过浏览器隔离技术并实现命令和控制操作的技术。该方法涉及将命令编码在网页上直观显示的二维码中。在涉及最新谷歌 Chrome 浏览器并通过 Cobalt Strike 的外部 C2 功能集成植入物的测试中，研究人员证明，先前感染设备的恶意软件捕获并解码了二维码以获取指令。摘自“二维码绕过浏览器隔离进行恶意 C2 通信”
-BleepingComputer (12/08/24) Bill Toulas 查看全文]]></description>
-      <guid>https://www.bleepingcomputer.com/news/security/qr-codes-bypass-browser-isolation-for-malicious-c2-communication/</guid>
-      <pubDate>Wed, 11 Dec 2024 18:13:35 GMT</pubDate>
+      <title>窃取人工智能模型的新技术</title>
+      <link>https://news.ncsu.edu/2024/12/new-way-to-steal-ai-models/</link>
+      <description><![CDATA[北卡罗来纳州立大学新闻北卡罗来纳州立大学的研究人员展示了一种无需入侵运行模型的设备即可窃取 AI 模型的方法。研究人员使用电磁 (EM) 探测器确定了在 Google Edge 张量处理单元 (TPU) 上运行的 AI 模型的超参数，该探测器提供了 AI 处理过程中 EM 场变化的实时数据。通过将该 EM 签名与在另一个 Google Edge TPU 上制作的其他 AI 模型签名的数据库进行比较，该团队确定了目标模型的架构和层细节。摘自“窃取 AI 模型的新技术”
+北卡罗来纳州立大学新闻 (12/12/24) Matt Shipman 查看全文]]></description>
+      <guid>https://news.ncsu.edu/2024/12/new-way-to-steal-ai-models/</guid>
+      <pubDate>Fri, 13 Dec 2024 18:12:48 GMT</pubDate>
     </item>
     <item>
-      <title>TikTok 及其母公司请求法院阻止美国禁令</title>
-      <link>https://www.cnn.com/2024/12/09/tech/bytedance-tiktok-halt-us-ban-intl/index.html</link>
-      <description><![CDATA[CNNTikTok 及其中国母公司字节跳动于 12 月 9 日向美国哥伦比亚特区上诉法院提交了一项紧急动议，要求暂时阻止一项要求该平台在 1 月 19 日之前剥离或在美国被禁止的法律。在请求禁令时，这些公司指出，美国最高法院审理此案的可能性很高，需要给即将上任的特朗普政府一个确定立场的机会，并且可能会中断对美国境外数千万用户的服务。摘自“TikTok 及其母公司要求法院阻止美国禁令”
-CNN (12/09/24) 查看全文]]></description>
-      <guid>https://www.cnn.com/2024/12/09/tech/bytedance-tiktok-halt-us-ban-intl/index.html</guid>
-      <pubDate>Wed, 11 Dec 2024 18:13:34 GMT</pubDate>
+      <title>智能电视即使用作外接屏幕也能收集观看数据</title>
+      <link>https://www.uc3m.es/ss/Satellite/UC3MInstitucional/en/Detalle/Comunicacion_C/1371418000293/1371215537949/</link>
+      <description><![CDATA[马德里卡洛斯三世大学（西班牙）据西班牙马德里卡洛斯三世大学、英国伦敦大学学院和加州大学戴维斯分校的研究人员称，三星和 LG 的智能电视即使连接到笔记本电脑或用作外接屏幕，也会收集观看数据。这些电视使用自动内容识别技术，可以截取屏幕截图或音频，用于建立观看者档案。用户可以通过更改设备的默认设置来阻止共享这些数据。摘自“智能电视收集观看数据，即使用作外部屏幕也是如此”
+马德里卡洛斯三世大学（西班牙）（12/10/24） 查看全文]]></description>
+      <guid>https://www.uc3m.es/ss/Satellite/UC3MInstitucional/en/Detalle/Comunicacion_C/1371418000293/1371215537949/</guid>
+      <pubDate>Fri, 13 Dec 2024 18:12:47 GMT</pubDate>
     </item>
     <item>
-      <title>类似电池的计算机内存可在 1000°F 以上工作</title>
-      <link>https://news.umich.edu/battery-like-computer-memory-keeps-working-above-1000f/</link>
-      <description><![CDATA[密歇根大学新闻密歇根大学和桑迪亚国家实验室的研究人员开发了一种固态存储设备，可以在高于 1100°F (600°C) 的温度下存储和重写信息。该设备移动的是带负电的氧原子，而不是电子。三个铂电极决定耐热氧离子是进入还是离开氧化钽层，氧化钽层充当绝缘体或导体，并允许材料在代表数字 0 和 1 的两个电压状态之间移动。摘自“类似电池的计算机内存可在 1000°F 以上工作”
-密歇根大学新闻 (12/09/24) Derek Smith 查看全文]]></description>
-      <guid>https://news.umich.edu/battery-like-computer-memory-keeps-working-above-1000f/</guid>
-      <pubDate>Wed, 11 Dec 2024 18:13:34 GMT</pubDate>
+      <title>盲人、视力不佳的读者阅读学术 PDF 时，可访问性变差</title>
+      <link>https://www.nature.com/articles/d41586-024-03953-7</link>
+      <description><![CDATA[《自然》华盛顿大学的研究人员发现，视力低下和盲人读者无法访问大多数学术论文的 PDF 版本。他们的研究评估了 2014 年至 2023 年发表的约 20,000 项研究是否符合六项可访问性标准，例如使用替代文本作为图表和表格标题，以及添加标签以使 PDF 可供辅助阅读设备用户访问。研究人员发现，近 75% 的研究不符合任何一项标准，而只有 3% 的研究符合所有六项标准。摘自“盲人、视力低下者阅读学术 PDF 的可访问性恶化”
+Nature (12/11/24) Dalmeet Singh Chawla 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nature.com/articles/d41586-024-03953-7</guid>
+      <pubDate>Fri, 13 Dec 2024 18:12:46 GMT</pubDate>
     </item>
     <item>
-      <title>计算机科学领域的性别刻板印象很早就开始了</title>
-      <link>https://www.forbes.com/sites/josiecox/2024/12/09/kids-as-young-as-six-think-girls-are-worse-than-boys-at-computer-science/</link>
-      <description><![CDATA[福布斯美国研究机构 (AIR) 对来自 33 个国家的 145,000 名儿童进行了一项研究，发现接受调查的六岁儿童中 35% 认为男孩在计算机科学方面比女孩更优秀，而 22% 的人持相反意见，43% 的人认为没有区别。 AIR 的 David Miller 表示，这些举措“需要特别关注计算机和工程领域的女孩。特别是在幼儿时期，在这些刻板印象形成之前。”摘自“计算机科学性别刻板印象从小就开始了”
-福布斯 (12/09/24) Josie Cox 查看全文]]></description>
-      <guid>https://www.forbes.com/sites/josiecox/2024/12/09/kids-as-young-as-six-think-girls-are-worse-than-boys-at-computer-science/</guid>
-      <pubDate>Wed, 11 Dec 2024 18:13:33 GMT</pubDate>
+      <title>俄罗斯采取非常规手段入侵乌克兰设备</title>
+      <link>https://arstechnica.com/security/2024/12/russia-takes-unusual-route-to-hack-starlink-connected-devices-in-ukraine/</link>
+      <description><![CDATA[Ars Technica微软周三表示，一个俄罗斯黑客组织利用来自不同威胁团体的服务器和恶意软件对乌克兰前线军队发动攻击。在一个案例中，该组织被微软称为 Secret Blizzard，利用了一个名为 Storm-1919 的网络犯罪组织的基础设施。在另一个案例中，Secret Blizzard 占用了 Storm-1837 的资源，Storm-1837 是一个俄罗斯威胁行为者，曾针对乌克兰无人机操作员发动攻击。摘自“俄罗斯采取不寻常的方式入侵乌克兰设备”
+Ars Technica (12/11/24) Dan Goodin 查看全文]]></description>
+      <guid>https://arstechnica.com/security/2024/12/russia-takes-unusual-route-to-hack-starlink-connected-devices-in-ukraine/</guid>
+      <pubDate>Fri, 13 Dec 2024 18:12:46 GMT</pubDate>
     </item>
     <item>
-      <title>音乐家要求唱片公司撤销对互联网档案馆的诉讼</title>
-      <link>https://www.engadget.com/entertainment/music/musicians-demand-music-labels-drop-their-internet-archive-lawsuit-214139644.html</link>
-      <description><![CDATA[Engadget一群音乐家签署了《音乐家公平与保护公开信》，呼吁索尼音乐娱乐、环球音乐集团和其他唱片公司撤回对互联网档案馆的诉讼，该档案馆涉及其致力于保存 78 RPM 唱片上录制的音乐的 Great 78 项目。这封信反而呼吁唱片公司与互联网档案馆和类似组织合作，以保护原创唱片和音乐文化。摘自“音乐家要求唱片公司撤销互联网档案馆诉讼”
-Engadget (12/09/24) Ian Carlos Campbell 查看全文]]></description>
-      <guid>https://www.engadget.com/entertainment/music/musicians-demand-music-labels-drop-their-internet-archive-lawsuit-214139644.html</guid>
-      <pubDate>Wed, 11 Dec 2024 18:13:33 GMT</pubDate>
+      <title>联合健康高管枪击案加剧幽灵枪争论</title>
+      <link>https://www.wsj.com/us-news/ghost-gun-uhc-ceo-shooting-efb9819c</link>
+      <description><![CDATA[《华尔街日报》在联合健康保险首席执行官 Brian Thompson 遇害后，有关幽灵枪的争论愈演愈烈。嫌疑人身上发现的 9 毫米手枪似乎有一个 3D 打印的枪架、枪管和滑动机构，这些都来自一个套件。十多个州已经通过法律，限制自制枪支和无法追踪的枪支部件，有些州甚至完全禁止 3D 打印此类武器。摘自“联合健康保险高管枪击案加剧幽灵枪争论”
+《华尔街日报》（12/10/24）Cameron McWhirter；Jacob Gershman；约翰·韦斯特 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/us-news/ghost-gun-uhc-ceo-shooting-efb9819c</guid>
+      <pubDate>Fri, 13 Dec 2024 18:12:45 GMT</pubDate>
     </item>
     <item>
-      <title>中国对英伟达展开反垄断调查</title>
-      <link>https://www.cnn.com/2024/12/09/tech/nvidia-china-investigation/index.html</link>
-      <description><![CDATA[CNN中国已对美国芯片制造商 Nvidia 展开反垄断调查。据当地报道，中国政府认为 Nvidia 收购以色列网络公司 Mellanox 的交易可能违反该国的反垄断法，该交易于 2020 年获得中国批准。上周，美国对向中国销售高科技内存芯片实施了另一轮限制，随后中国禁止向美国销售制造芯片所必需的材料。摘自“中国对 Nvidia 展开反垄断调查”
-CNN (12/09/24) David Goldman 查看全文]]></description>
-      <guid>https://www.cnn.com/2024/12/09/tech/nvidia-china-investigation/index.html</guid>
-      <pubDate>Wed, 11 Dec 2024 18:13:32 GMT</pubDate>
+      <title>HiPEAC 宣布 2024 年技术转让奖获奖者</title>
+      <link>https://www.hipeac.net/news/7081/hipeac-announces-2024-technology-transfer-award-winners/</link>
+      <description><![CDATA[HiPEAC 新闻HiPEAC 公布了 2024 年技术转让奖的获奖者。这个由欧盟委员会资助的计算系统研究人员、行业和政策中心于 2012 年推出了该奖项，旨在表彰和鼓励尖端技术从学术界向工业界的转移。今年选出了八名候选人，获奖者将于 1 月在 HiPEAC 会议上的颁奖典礼上获得表彰。 HiPEAC 的 Koen De Bosschere 表示：“在这些获奖项目中，人工智能和机器学习的影响是显而易见的。”摘自“HiPEAC 宣布 2024 年技术转让奖获奖者”
+HiPEAC 新闻 (12/12/24) 查看全文]]></description>
+      <guid>https://www.hipeac.net/news/7081/hipeac-announces-2024-technology-transfer-award-winners/</guid>
+      <pubDate>Fri, 13 Dec 2024 18:12:45 GMT</pubDate>
     </item>
     <item>
-      <title>美国最终批准向美光提供 61 亿美元芯片制造补贴</title>
-      <link>https://www.reuters.com/technology/us-finalizes-more-than-61-bln-chips-subsidy-micron-technology-2024-12-10/</link>
-      <description><![CDATA[路透社美国商务部最终确定向美光科技提供 61.65 亿美元的政府补贴，以支持美光科技的长期计划，该计划将在纽约投资约 1000 亿美元用于制造业，在爱达荷州投资 250 亿美元。据该部门称，这笔资金属于 527 亿美元的 2022 年芯片和科学法案，将帮助美国在先进内存芯片制造业中的份额从不到 2% 增加到 2035 年的约 10%。 摘自“美国敲定 61 亿美元美光芯片制造补贴”
-路透社 (12/10/24) David Shepardson 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/us-finalizes-more-than-61-bln-chips-subsidy-micron-technology-2024-12-10/</guid>
-      <pubDate>Wed, 11 Dec 2024 18:13:32 GMT</pubDate>
+      <title>石油巨头瞄准科技巨头的数据中心需求</title>
+      <link>https://www.reuters.com/business/energy/chevron-working-supply-power-data-centers-executive-says-2024-12-11/</link>
+      <description><![CDATA[路透社美国各大石油公司正在商讨利用天然气和碳捕获技术为科技行业的人工智能数据中心提供电力。埃克森美孚周三表示，该公司正努力在 2020 年前通过天然气发电厂为数据中心提供低碳电力。雪佛龙新能源总裁 Jeff Gustavson 表示，他的公司已经就向数据中心供应天然气发电和碳捕获技术进行了一年多的谈判。摘自“石油巨头着眼于为科技巨头的数据中心需求提供动力”
+路透社 (12/12/24) Shariq Khan； Shashwat Awasthi 查看全文]]></description>
+      <guid>https://www.reuters.com/business/energy/chevron-working-supply-power-data-centers-executive-says-2024-12-11/</guid>
+      <pubDate>Fri, 13 Dec 2024 18:12:44 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌突破让量子计算更接近现实</title>
-      <link>https://www.nytimes.com/2024/12/09/technology/google-quantum-computing.html</link>
-      <description><![CDATA[《纽约时报》谷歌周一发布了一款新型量子计算机，称该计算机只需不到五分钟就能完成一项数学计算，而世界上最强大的超级计算机之一需要 10 的 10 次方（1 后面跟着 24 个零）年才能完成这项计算。谷歌表示，其使用名为 Willow 的新芯片的计算机超越了“纠错阈值”。摘自“谷歌突破让量子计算更接近现实”
-《纽约时报》（2024 年 12 月 10 日）Cade Metz 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/12/09/technology/google-quantum-computing.html</guid>
-      <pubDate>Wed, 11 Dec 2024 18:13:31 GMT</pubDate>
+      <title>IBM 助力芝加哥量子园区</title>
+      <link>https://www.bloomberg.com/news/articles/2024-12-12/ibm-gives-pritzker-s-quantum-campus-a-boost-with-new-investment</link>
+      <description><![CDATA[彭博社IBM 表示，将与芝加哥大学和伊利诺伊大学香槟分校合作，在芝加哥建立一个国家量子计算算法中心。伊利诺伊州将提供 2500 万美元的拨款，帮助为该项目购买设备。五个月前，PsiQuantum Corp. 宣布将投资超过 10 亿美元，成为该州量子园区的主要租户。摘自“IBM 助力芝加哥量子园区”
+彭博社 (12/12/24) 米兰达·戴维斯 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-12-12/ibm-gives-pritzker-s-quantum-campus-a-boost-with-new-investment</guid>
+      <pubDate>Fri, 13 Dec 2024 18:12:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>马来西亚成立国家人工智能办公室</title>
+      <link>https://asia.nikkei.com/Business/Technology/Artificial-intelligence/Malaysia-launches-national-AI-office-for-policy-regulation</link>
+      <description><![CDATA[日经亚洲马来西亚开设了一个国家人工智能办公室，负责战略规划、研发和监管监督。作为将马来西亚打造为人工智能发展区域中心的计划的一部分，该办公室将在第一年专注于制定道德规范、人工智能监管框架和五年人工智能技术计划。马来西亚政府已宣布与亚马逊、谷歌、微软和其他科技公司建立战略合作伙伴关系，这些公司计划在马来西亚开展数据中心、云和人工智能项目。摘自“马来西亚成立国家人工智能办公室”
+日经亚洲 (12/12/24) Ashley Tang 查看全文]]></description>
+      <guid>https://asia.nikkei.com/Business/Technology/Artificial-intelligence/Malaysia-launches-national-AI-office-for-policy-regulation</guid>
+      <pubDate>Fri, 13 Dec 2024 18:12:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧洲加入人工智能超级计算竞赛</title>
+      <link>https://www.politico.eu/article/europe-costly-artificial-intelligence-race-supercomputer-startups/</link>
+      <description><![CDATA[Politico Europe欧盟将在欧盟境内的七个站点投资 15 亿欧元，用于建造和维护超级计算机，欧洲初创公司可以使用这些超级计算机来训练他们的 AI 模型。欧盟委员会将出资 7.5 亿欧元，其余部分由欧盟成员国公司提供。该计划的目标是消除对美国大型科技公司的依赖。摘自“欧洲加入 AI 超级计算竞赛”
+Politico Europe (12/11/24) Pieter Haeck 查看全文]]></description>
+      <guid>https://www.politico.eu/article/europe-costly-artificial-intelligence-race-supercomputer-startups/</guid>
+      <pubDate>Fri, 13 Dec 2024 18:12:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
