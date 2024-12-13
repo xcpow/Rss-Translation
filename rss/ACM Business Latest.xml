@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 13 Dec 2024 18:12:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 21:08:15 GMT</lastBuildDate>
+    <item>
+      <title>前字节跳动实习生被指控破坏著名 AI 奖项获奖者</title>
+      <link>https://www.wired.com/story/bytedance-intern-best-paper-neurips/</link>
+      <description><![CDATA[Keyu Tian 和他的合著者凭借一项关于生成图像的新技术的研究，获得了年度 NeurIPS 机器学习大会的最佳论文奖。一些人对这一决定表示反对。]]></description>
+      <guid>https://www.wired.com/story/bytedance-intern-best-paper-neurips/</guid>
+      <pubDate>Fri, 13 Dec 2024 18:34:23 GMT</pubDate>
+    </item>
     <item>
       <title>Wayve 的 AI 自动驾驶系统将像人类一样驾驶，与 Waymo 和特斯拉一较高下</title>
       <link>https://www.wired.com/story/wayves-ai-self-driving-system-is-here-to-drive-like-a-human-and-take-on-waymo-and-tesla/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[电动汽车电池的使用寿命不比内燃机短，而是比预期的要长得多，甚至连汽车制造商自己都感到惊讶。]]></description>
       <guid>https://www.wired.com/story/electric-cars-could-last-much-longer-than-most-think/</guid>
       <pubDate>Sun, 08 Dec 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>富人可以负担得起个人护理。其余人将不得不借助人工智能</title>
-      <link>https://www.wired.com/story/wealth-inequality-personal-service-access-artificial-intelligence/</link>
-      <description><![CDATA[从私人教练到面对面治疗，只有富人才能获得人际交往。弱势群体有哪些选择？]]></description>
-      <guid>https://www.wired.com/story/wealth-inequality-personal-service-access-artificial-intelligence/</guid>
-      <pubDate>Sat, 07 Dec 2024 09:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
