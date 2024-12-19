@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 19 Dec 2024 12:16:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 15:09:41 GMT</lastBuildDate>
+    <item>
+      <title>我们对 2025 年科技的所有希望和担忧</title>
+      <link>https://www.wired.com/story/uncanny-valley-podcast-7-tech-hopes-fears/</link>
+      <description><![CDATA[为了总结 2024 年，本周我们在“恐怖谷”节目中讨论了我们最害怕和最喜爱的科技产品。]]></description>
+      <guid>https://www.wired.com/story/uncanny-valley-podcast-7-tech-hopes-fears/</guid>
+      <pubDate>Thu, 19 Dec 2024 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>百万富翁人工智能艺术家 Botto 正在获得个性</title>
       <link>https://www.wired.com/story/botto-the-millionaire-ai-artist-is-getting-a-personality/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>黑客可以越狱数字车牌，让其他人支付通行费和罚单</title>
       <link>https://www.wired.com/story/digital-license-plate-jailbreak-hack/</link>
-      <description><![CDATA[Reviver 出售的数字车牌在某些州已经合法购买，并在全国范围内合法驾驶，但车主可以入侵该车牌，以逃避交通法规甚至执法监视。]]></description>
+      <description><![CDATA[Reviver 出售的数字车牌在某些州已经合法购买，并在全国范围内合法行驶，但车主可以入侵该车牌，以逃避交通法规甚至执法监视。]]></description>
       <guid>https://www.wired.com/story/digital-license-plate-jailbreak-hack/</guid>
       <pubDate>Mon, 16 Dec 2024 11:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[谷歌旗舰人工智能模型的新版本展示了该公司如何看待人工智能改变个人计算、网络搜索以及人们与物理世界互动的方式。]]></description>
       <guid>https://www.wired.com/story/google-gemini-2-ai-assistant-release/</guid>
       <pubDate>Wed, 11 Dec 2024 15:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果唐纳德·特朗普实施大规模驱逐计划，美国肉类、牛奶价格将飙升</title>
-      <link>https://www.wired.com/story/us-meat-milk-prices-should-spike-if-donald-trump-carries-out-mass-deportation-schemes/</link>
-      <description><![CDATA[美国肉类和奶制品行业严重依赖非法工人，这意味着，如果特朗普政府真的实施其计划，价格可能会大幅上涨。]]></description>
-      <guid>https://www.wired.com/story/us-meat-milk-prices-should-spike-if-donald-trump-carries-out-mass-deportation-schemes/</guid>
-      <pubDate>Wed, 11 Dec 2024 11:02:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
