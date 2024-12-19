@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 19 Dec 2024 18:12:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 21:08:24 GMT</lastBuildDate>
+    <item>
+      <title>美国每起 AI 版权诉讼案的可视化</title>
+      <link>https://www.wired.com/story/ai-copyright-case-tracker/</link>
+      <description><![CDATA[《连线》杂志一直在关注人工智能行业的每一场版权之争，我们制作了一些方便的可视化图表，并将随着案件的进展进行更新。]]></description>
+      <guid>https://www.wired.com/story/ai-copyright-case-tracker/</guid>
+      <pubDate>Thu, 19 Dec 2024 18:41:44 GMT</pubDate>
+    </item>
     <item>
       <title>克雷格·赖特因比特币创造主张被判藐视法庭</title>
       <link>https://www.wired.com/story/craig-wright-the-self-styled-creator-of-bitcoin-handed-suspended-prison-sentence/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[本周在“恐怖谷”节目中，我们讨论哪些社交媒体应用仍然值得使用。]]></description>
       <guid>https://www.wired.com/story/uncanny-valley-podcast-6-quitting-social-media/</guid>
       <pubDate>Thu, 12 Dec 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>价值数十亿美元的成人流媒体产业受到可怕的劳工虐待</title>
-      <link>https://www.wired.com/story/hrw-report-adult-streaming-labor-abuses/</link>
-      <description><![CDATA[臭虫和蟑螂。肮脏的共用设备。持续不断的监视，以及对他们账户的零控制。这些只是成年主播在工作中面临的恶劣条件的一部分。]]></description>
-      <guid>https://www.wired.com/story/hrw-report-adult-streaming-labor-abuses/</guid>
-      <pubDate>Wed, 11 Dec 2024 18:10:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
