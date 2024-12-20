@@ -4,7 +4,21 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 20 Dec 2024 15:08:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 18:11:53 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 升级其最智能的 AI 模型，提升推理能力</title>
+      <link>https://www.wired.com/story/openai-o3-reasoning-model-google-gemini/</link>
+      <description><![CDATA[在谷歌宣布其首个能够推理问题的模型的第二天，OpenAI 又推出了自己的改进版本。]]></description>
+      <guid>https://www.wired.com/story/openai-o3-reasoning-model-google-gemini/</guid>
+      <pubDate>Fri, 20 Dec 2024 18:00:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>我使用人工智能完成所有节日购物</title>
+      <link>https://www.wired.com/story/chatbots-holiday-shopping-gifts/</link>
+      <description><![CDATA[聊天机器人不太擅长挑选礼物，但这并没有阻止我为了寻找完美的烘焙设备而毁掉整个地球。]]></description>
+      <guid>https://www.wired.com/story/chatbots-holiday-shopping-gifts/</guid>
+      <pubDate>Fri, 20 Dec 2024 17:24:50 GMT</pubDate>
+    </item>
     <item>
       <title>生成式人工智能仍需证明其实用性</title>
       <link>https://www.wired.com/story/generative-ai-will-need-to-prove-its-usefulness/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[人工智能的风险并非源自人工智能的自身行为，而是源自人类对其采取的行动。]]></description>
       <guid>https://www.wired.com/story/human-misuse-will-make-artificial-intelligence-more-dangerous/</guid>
       <pubDate>Fri, 13 Dec 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>亿万富翁弗兰克·麦考特实际上会用 TikTok 做什么</title>
-      <link>https://www.wired.com/story/frank-mccourt-tiktok-bid/</link>
-      <description><![CDATA[弗兰克·麦考特表示，他竞购 TikTok 是让数百万人转向更健康的网络平台的更广泛使命的一部分。“我把这比作大规模的人类物理迁移。”]]></description>
-      <guid>https://www.wired.com/story/frank-mccourt-tiktok-bid/</guid>
-      <pubDate>Fri, 13 Dec 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>哈佛大学将发布由 OpenAI 和微软资助的海量免费 AI 训练数据集</title>
-      <link>https://www.wired.com/story/harvard-ai-training-dataset-openai-microsoft/</link>
-      <description><![CDATA[该项目负责人表示，允许每个人访问公共领域书籍集合将有助于人工智能行业“公平竞争”。]]></description>
-      <guid>https://www.wired.com/story/harvard-ai-training-dataset-openai-microsoft/</guid>
-      <pubDate>Thu, 12 Dec 2024 14:06:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
