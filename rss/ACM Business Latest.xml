@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 20 Dec 2024 06:12:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 09:09:17 GMT</lastBuildDate>
+    <item>
+      <title>生成式人工智能仍需证明其实用性</title>
+      <link>https://www.wired.com/story/generative-ai-will-need-to-prove-its-usefulness/</link>
+      <description><![CDATA[炒作正在消退，人们开始问生成式人工智能到底有什么用。到目前为止，还没有人能给出一个像样的答案。]]></description>
+      <guid>https://www.wired.com/story/generative-ai-will-need-to-prove-its-usefulness/</guid>
+      <pubDate>Fri, 20 Dec 2024 09:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>美国每起 AI 版权诉讼案的可视化</title>
       <link>https://www.wired.com/story/ai-copyright-case-tracker/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[该项目负责人表示，允许每个人访问公共领域书籍集合将有助于人工智能行业“公平竞争”。]]></description>
       <guid>https://www.wired.com/story/harvard-ai-training-dataset-openai-microsoft/</guid>
       <pubDate>Thu, 12 Dec 2024 14:06:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>今年是所有人都退出社交媒体的一年吗？</title>
-      <link>https://www.wired.com/story/uncanny-valley-podcast-6-quitting-social-media/</link>
-      <description><![CDATA[本周在“恐怖谷”节目中，我们讨论哪些社交媒体应用仍然值得使用。]]></description>
-      <guid>https://www.wired.com/story/uncanny-valley-podcast-6-quitting-social-media/</guid>
-      <pubDate>Thu, 12 Dec 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
