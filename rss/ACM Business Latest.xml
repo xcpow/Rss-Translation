@@ -4,7 +4,21 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Sat, 21 Dec 2024 12:14:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Dec 2024 15:07:21 GMT</lastBuildDate>
+    <item>
+      <title>电动探险者的噩梦发布会表明福特在电动汽车方面做对了什么，做错了什么</title>
+      <link>https://www.wired.com/story/ford-electric-explorer-ev-test-drive/</link>
+      <description><![CDATA[尽管受到延迟、受制于竞争对手的电动平台，但福特在欧洲的电动汽车实验仍然聪明且具有创新精神，体现了该汽车制造商在电动汽车领域未能取得突破。]]></description>
+      <guid>https://www.wired.com/story/ford-electric-explorer-ev-test-drive/</guid>
+      <pubDate>Sat, 21 Dec 2024 14:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌表示不会强迫合作伙伴在反垄断救济方案中使用 Gemini</title>
+      <link>https://www.wired.com/story/google-gemini-antitrust-remedy-search/</link>
+      <description><![CDATA[谷歌在上一个搜索时代占据主导地位。现在，该公司和美国司法部正在就如何为生成式人工智能创造公平的竞争环境展开斗争。]]></description>
+      <guid>https://www.wired.com/story/google-gemini-antitrust-remedy-search/</guid>
+      <pubDate>Sat, 21 Dec 2024 14:15:17 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI 升级其最智能的 AI 模型，提升推理能力</title>
       <link>https://www.wired.com/story/openai-o3-reasoning-model-google-gemini/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[Keyu Tian 和他的合著者凭借一项关于生成图像的新技术的研究，获得了年度 NeurIPS 机器学习大会的最佳论文奖。一些人对这一决定表示反对。]]></description>
       <guid>https://www.wired.com/story/bytedance-intern-best-paper-neurips/</guid>
       <pubDate>Fri, 13 Dec 2024 18:34:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wayve 的 AI 自动驾驶系统将像人类一样驾驶，与 Waymo 和特斯拉一较高下</title>
-      <link>https://www.wired.com/story/wayves-ai-self-driving-system-is-here-to-drive-like-a-human-and-take-on-waymo-and-tesla/</link>
-      <description><![CDATA[与 Waymo 的人工智能训练与手工编码指令的混合系统不同，Wayve 的人工智能可以处理整个自动驾驶过程，在无人监督的情况下学习应对不可预测的情况，并像我们一样驾驶。]]></description>
-      <guid>https://www.wired.com/story/wayves-ai-self-driving-system-is-here-to-drive-like-a-human-and-take-on-waymo-and-tesla/</guid>
-      <pubDate>Fri, 13 Dec 2024 14:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>担心人工智能的滥用，而不是超级智能</title>
-      <link>https://www.wired.com/story/human-misuse-will-make-artificial-intelligence-more-dangerous/</link>
-      <description><![CDATA[人工智能的风险并非源自人工智能的自身行为，而是源自人类对其采取的行动。]]></description>
-      <guid>https://www.wired.com/story/human-misuse-will-make-artificial-intelligence-more-dangerous/</guid>
-      <pubDate>Fri, 13 Dec 2024 14:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
