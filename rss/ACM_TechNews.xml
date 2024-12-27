@@ -4,102 +4,111 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Mon, 23 Dec 2024 21:08:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Dec 2024 18:12:21 GMT</lastBuildDate>
     <item>
-      <title>OpenAI 使 ChatGPT 可用于电话和短信</title>
-      <link>https://www.cnbc.com/2024/12/18/openai-makes-chatgpt-available-for-phone-chats.html</link>
-      <description><![CDATA[CNBCOpenAI 允许用户通过拨打美国号码 (1-800-242-8478) 或通过 WhatsApp 发送消息来访问其 ChatGPT 机器人。该公司表示，起初，呼叫者每月将获得 15 分钟的免费通话时间。对于该电话号码，用户无需账户即可拨打，但该公司表示，它正在“研究方法”将 WhatsApp 消息与用户的 ChatGPT 凭据集成在一起。摘自“OpenAI 使 ChatGPT 可用于电话和短信”
-CNBC (12/18/24) Hayden Field 查看全文]]></description>
-      <guid>https://www.cnbc.com/2024/12/18/openai-makes-chatgpt-available-for-phone-chats.html</guid>
-      <pubDate>Mon, 23 Dec 2024 21:08:03 GMT</pubDate>
+      <title>孩子们只需点击一下即可使用 Apple 上不适当的应用程序</title>
+      <link>https://www.wsj.com/tech/apples-app-store-puts-kids-a-click-away-from-a-slew-of-inappropriate-apps-dfde01d5?mod=itp_wsj</link>
+      <description><![CDATA[华尔街日报儿童安全倡导非营利组织 Heat Initiative 和 ParentsTogether Action 的一份报告描述了研究人员在 24 小时内发现苹果应用商店中约 200 个被评为儿童的应用程序包含“不适当”内容，约占所有被评应用程序的四分之一。报告提出的一项建议是，苹果应该对 App Store 应用的年龄分级采用独立专家审查和验证流程，类似于根据年龄适宜性对电影和视频游戏进行分级的方式。摘自“儿童只需点击一下即可远离苹果不适当应用”
+华尔街日报 (12/22/24) Aaron Tilley 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/tech/apples-app-store-puts-kids-a-click-away-from-a-slew-of-inappropriate-apps-dfde01d5?mod=itp_wsj</guid>
+      <pubDate>Fri, 27 Dec 2024 18:12:21 GMT</pubDate>
     </item>
     <item>
-      <title>阿尔巴尼亚因致命刺伤事件禁止使用 TikTok 一年</title>
-      <link>https://www.theguardian.com/world/2024/dec/21/albania-bans-tiktok-for-a-year-after-fatal-stabbing-of-teenager-last-month</link>
-      <description><![CDATA[卫报 (英国)在最近一名青少年被杀后，阿尔巴尼亚宣布对 TikTok 实施为期一年的禁令。总理埃迪·拉马指责社交媒体，尤其是 TikTok，助长了学校内外青少年的暴力行为。他的政府的决定是在一名 14 岁男生于 11 月被一名同学刺死后做出的。摘自“阿尔巴尼亚在发生致命刺伤事件后禁止使用 TikTok 一年”
-卫报 (英国) (2024 年 12 月 21 日) 查看全文]]></description>
-      <guid>https://www.theguardian.com/world/2024/dec/21/albania-bans-tiktok-for-a-year-after-fatal-stabbing-of-teenager-last-month</guid>
-      <pubDate>Mon, 23 Dec 2024 21:08:02 GMT</pubDate>
+      <title>台湾希望打造西方的无人机军队</title>
+      <link>https://www.politico.eu/article/taiwan-eyes-war-drones-to-counter-china/</link>
+      <description><![CDATA[Politico随着明年中国无人机零部件新出口管制生效，台湾正加倍努力成为全球主要供应商。台湾于 2022 年成立了无人机国家队，将本地制造商聚集在一起，加快商用和军用无人机的开发和部署。它设定了到 2028 年国内制造商每月生产 15,000 架无人机的目标。今年 9 月，美国组织了一个由 26 家无人驾驶和反无人机系统制造商组成的代表团访问台湾，以促进两国之间的合作。摘自“台湾希望建立西方的无人机军队”
+Politico (12/20/24) Antoaneta Roussi 查看全文]]></description>
+      <guid>https://www.politico.eu/article/taiwan-eyes-war-drones-to-counter-china/</guid>
+      <pubDate>Fri, 27 Dec 2024 18:12:20 GMT</pubDate>
     </item>
     <item>
-      <title>监管机构要求 Worldcoin 删除所有虹膜扫描数据</title>
-      <link>https://www.reuters.com/markets/currencies/spanish-watchdog-tells-worldcoin-delete-all-iris-scan-data-2024-12-19/</link>
-      <description><![CDATA[路透社西班牙数据保护监管机构 AEPD 已要求 Sam Altman 的公司 Worldcoin 删除自一个项目启动以来收集的所有虹膜扫描数据，该项目已在多个国家引发隐私担忧。AEPD 援引了巴伐利亚州监管机构 BayLDA 周四早些时候做出的一项决定，该机构在此案中与 BayLDA 进行了合作，该决定认定该项目违反了欧盟的《通用数据保护条例》。 Worldcoin 表示，其目标是通过让人们扫描虹膜来创建一个全球身份系统，以换取免费的加密货币和数字身份证。摘自“Worldcoin 必须删除所有虹膜扫描数据，监管机构称”
-路透社 (12/19/24) Emma Pinedo 查看全文]]></description>
-      <guid>https://www.reuters.com/markets/currencies/spanish-watchdog-tells-worldcoin-delete-all-iris-scan-data-2024-12-19/</guid>
-      <pubDate>Mon, 23 Dec 2024 21:08:02 GMT</pubDate>
+      <title>幻觉人工智能如何帮助科学实现突破</title>
+      <link>https://www.nytimes.com/2024/12/23/science/ai-hallucinations-science.html</link>
+      <description><![CDATA[《纽约时报》人工智能幻觉正在帮助科学家追踪癌症、设计药物、发明医疗设备和发现天气现象。美国国家科学基金会人工智能研究所所长、计算机科学家艾米·麦戈文 (Amy McGovern) 解释说：“这让他们有机会探索他们可能从未想过的想法。”今年因蛋白质研究而获得诺贝尔化学奖的大卫·贝克 (David Baker) 认为人工智能幻觉是“从头开始制造蛋白质”的核心。摘自“幻觉人工智能如何帮助科学梦想突破”
+《纽约时报》（2024 年 12 月 23 日）威廉·J·布罗德 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/12/23/science/ai-hallucinations-science.html</guid>
+      <pubDate>Fri, 27 Dec 2024 18:12:20 GMT</pubDate>
     </item>
     <item>
-      <title>爱尔兰的数据中心消耗过多能源</title>
-      <link>https://apnews.com/article/ai-data-centers-ireland-6c0d63cbda3df740cd9bf2829ad62058</link>
-      <description><![CDATA[美联社税收优惠、高技能的英语劳动力以及欧盟成员国身份都使科技行业成为爱尔兰经济的核心部分。现在，随着科技巨头们在全球范围内建立更多数据中心以推动下一波人工智能浪潮，爱尔兰开始怀疑这一切是否值得。由于担心轮流停电，爱尔兰电网运营商暂停在都柏林附近建设新数据中心，直至 2028 年。据官方记录显示，去年这些数据中心消耗了全国五分之一以上的电力。摘自“爱尔兰数据中心耗能过多”
-美联社 (12/19/24) Matt O&#39;Brien 查看全文]]></description>
-      <guid>https://apnews.com/article/ai-data-centers-ireland-6c0d63cbda3df740cd9bf2829ad62058</guid>
-      <pubDate>Mon, 23 Dec 2024 21:08:01 GMT</pubDate>
+      <title>人工智能的下一次大飞跃已经落后于计划，而且成本高昂</title>
+      <link>https://www.wsj.com/tech/ai/openai-gpt5-orion-delays-639e7693</link>
+      <description><![CDATA[《华尔街日报》OpenAI 的新 GPT-5 AI 项目代号为 Orion，旨在解锁新的科学发现以及完成日常的人类任务。据内部人士称，该项目已经筹备了 18 个多月，尽管 OpenAI 最大的投资者微软曾预计 Orion 将在 2024 年中期问世。在数月的训练运行中，为了使 Orion 变得更智能，处理大量数据，出现了新的问题，软件未能达到预期效果。延迟给公司带来了损失，因为为期六个月的训练运行仅计算成本就可能高达约 5 亿美元。摘自“人工智能的下一次大飞跃落后于计划且成本高昂”
+华尔街日报 (12/20/24) Deepa Seetharaman 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/tech/ai/openai-gpt5-orion-delays-639e7693</guid>
+      <pubDate>Fri, 27 Dec 2024 18:12:19 GMT</pubDate>
     </item>
     <item>
-      <title>亚利桑那州学校的课程将由人工智能教授</title>
-      <link>https://gizmodo.com/arizona-schools-curriculum-will-be-taught-by-ai-no-teachers-2000540905</link>
-      <description><![CDATA[Gizmodo亚利桑那州特许学校委员会批准了 Unbound Academy 的申请，开办一所完全在线的学校，为四至八年级的学生提供服务。Unbound 已经在德克萨斯州运营了一所采用其依赖人工智能的“2 小时学习”模式的私立学校，目前正在申请在阿肯色州和犹他州开设类似的学校。在该模式下，学生每天花两个小时使用 IXL 和 Khan Academy 等公司的个性化学习课程。摘自“亚利桑那州学校的课程将由人工智能教授”
-Gizmodo (12/19/24) Todd Feathers 查看全文]]></description>
-      <guid>https://gizmodo.com/arizona-schools-curriculum-will-be-taught-by-ai-no-teachers-2000540905</guid>
-      <pubDate>Mon, 23 Dec 2024 21:08:01 GMT</pubDate>
+      <title>美国国务院虚假信息办公室将关闭</title>
+      <link>https://cyberscoop.com/state-departments-disinformation-office-to-close-after-funding-nixed-in-ndaa/</link>
+      <description><![CDATA[Cyber​​Scoop美国国务院全球参与中心负责追踪外国虚假信息，但该中心的资金被排除在政府资助措施之外，这意味着该中心将于 12 月 24 日失去权力。参议院通过的国防授权法案最终版本中删除了将该中心权力延长至 2031 年的措施。此次关闭将使国务院自 2016 年以来首次没有专门的办公室来打击海外虚假信息。摘自“国务院虚假信息办公室将关闭”
+Cyber​​Scoop (12/23/24) Derek B. Johnson 查看全文]]></description>
+      <guid>https://cyberscoop.com/state-departments-disinformation-office-to-close-after-funding-nixed-in-ndaa/</guid>
+      <pubDate>Fri, 27 Dec 2024 18:12:19 GMT</pubDate>
     </item>
     <item>
-      <title>乌克兰收集战争数据以训练人工智能</title>
-      <link>https://www.reuters.com/technology/ukraine-collects-vast-war-data-trove-train-ai-models-2024-12-20/</link>
-      <description><![CDATA[路透社OCHI 创始人 Oleksandr Dmitriev 表示，他的系统自 2022 年以来已收集了 200 万小时的无人机战场视频。OCHI 是一个数字系统，用于集中和分析来自前线工作的乌克兰无人机机组人员的视频。这些视频可用于训练 AI 模型的作战战术、发现目标和评估武器系统的有效性。摘自“乌克兰收集战争数据库以训练 AI”
-路透社 (12/20/24) Max Hunder 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/ukraine-collects-vast-war-data-trove-train-ai-models-2024-12-20/</guid>
-      <pubDate>Mon, 23 Dec 2024 21:08:00 GMT</pubDate>
+      <title>意大利能源巨头埃尼推出全球第五强大的超级计算机</title>
+      <link>https://siliconangle.com/2024/12/26/italian-energy-giant-eni-cranks-worlds-5th-powerful-supercomputer/</link>
+      <description><![CDATA[SiliconANGLE意大利能源巨头埃尼公司推出了一台超级计算机，该公司表示，这台超级计算机将用于扩大石油和天然气勘探工作，并推进其清洁能源和脱碳研究。根据年度 TOP500 排名，HPC6 超级计算机的规格表明它是全球第五强大的超级计算机。摘自“意大利能源巨头埃尼公司推出全球第五强大的超级计算机”
+SiliconANGLE (2024 年 12 月 26 日) Mike Wheatley 查看全文]]></description>
+      <guid>https://siliconangle.com/2024/12/26/italian-energy-giant-eni-cranks-worlds-5th-powerful-supercomputer/</guid>
+      <pubDate>Fri, 27 Dec 2024 18:12:18 GMT</pubDate>
     </item>
     <item>
-      <title>量子隐形传态在繁忙的互联网电缆中得以生存</title>
-      <link>https://www.newscientist.com/article/2461649-quantum-teleportation-can-survive-through-busy-internet-cables/</link>
-      <description><![CDATA[新科学家通过找到光子受到所有其他信号干扰最小的光波长，西北大学的 Prem Kumar 及其同事证明，量子和经典通信可以同时通过同一条光纤电缆进行。该团队的设置允许在不中断量子隐形传态的情况下发送高达 400Gbits/s 的经典信息。摘自“量子隐形传态在繁忙的互联网电缆中生存”
-新科学家 (12/20/24) Karmela Padavic-Callaghan 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.newscientist.com/article/2461649-quantum-teleportation-can-survive-through-busy-internet-cables/</guid>
-      <pubDate>Mon, 23 Dec 2024 21:08:00 GMT</pubDate>
+      <title>伊朗恢复对 WhatsApp 和 Google Play 的访问权限</title>
+      <link>https://apnews.com/article/iran-social-media-whatsapp-google-d886b47c427f33f96fb85e7c78d0b831</link>
+      <description><![CDATA[美联社伊朗表示，在两年多前解除了对 WhatsApp 和 Google Play 的访问禁令。当地报道称，该国最高网络空间委员会在改革派总统马苏德·佩泽什基安主持的会议上做出了这一决定，佩泽什基安誓言要取消对社交媒体的限制。伊朗电信部长萨塔尔·赫什米在 X 上的一篇帖子中称，这一决定是取消限制的“第一步”，并表示“这条道路将继续下去”。 2022 年，在大规模反政府抗议活动期间，对 WhatsApp 和 Google Play 的禁令得以实施。摘自“伊朗恢复对 WhatsApp 和 Google Play 的访问权限”
+美联社 (12/24/24) 查看全文]]></description>
+      <guid>https://apnews.com/article/iran-social-media-whatsapp-google-d886b47c427f33f96fb85e7c78d0b831</guid>
+      <pubDate>Fri, 27 Dec 2024 18:12:18 GMT</pubDate>
     </item>
     <item>
-      <title>英伟达的人工智能业务与中美紧张局势发生冲突</title>
-      <link>https://www.nytimes.com/2024/12/19/technology/nvidia-chip-sales-us-china.html</link>
-      <description><![CDATA[《纽约时报》Nvidia 及其对其技术感兴趣的国家正陷入美国加强对 AI 芯片销售控制的努力中。拟议的框架将允许美国盟友进行无限制购买，而对手将被完全阻止，其他国家将根据其与美国战略目标的一致性获得配额。在这种模式下，Nvidia 芯片采购可能需要与经批准的美国和欧盟云服务运营商合作，并向美国政府保证不会与中国共享该技术。摘自“Nvidia 的 AI 业务与中美紧张局势发生冲突”
-《纽约时报》（12/19/24）Tripp Mickle； Paul Mozur 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/12/19/technology/nvidia-chip-sales-us-china.html</guid>
-      <pubDate>Mon, 23 Dec 2024 21:07:59 GMT</pubDate>
+      <title>日本航空遭受网络攻击</title>
+      <link>https://asia.nikkei.com/Spotlight/Cybersecurity/Japan-Airlines-hit-by-cyberattack-delaying-flights</link>
+      <description><![CDATA[日经亚洲日本航空周四宣布，网络攻击影响了其系统，导致国内和国际航班延误，而此时正值日本最繁忙的旅游季节之一。日航已向警方表示，它认为自己是 DDoS 攻击的受害者。摘自“日本航空遭受网络攻击”
+日经亚洲 (2024 年 12 月 26 日) Sayumi Take 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://asia.nikkei.com/Spotlight/Cybersecurity/Japan-Airlines-hit-by-cyberattack-delaying-flights</guid>
+      <pubDate>Fri, 27 Dec 2024 18:12:17 GMT</pubDate>
     </item>
     <item>
-      <title>CISA 就 NCIRP 更新征求公众意见</title>
-      <link>https://www.securityweek.com/cisa-seeking-public-comment-on-updated-national-cyber-incident-response-plan/</link>
-      <description><![CDATA[安全周美国网络安全和基础设施安全局 (CISA) 正在就其更新的国家网络事件响应计划 (NCIRP) 草案征询公众意见，截止日期为 2025 年 1 月 15 日。NCIRP 是政府机构和国际组织应对可能破坏关键基础设施或损坏设备的更严重网络事件的框架。该计划涵盖资产响应、威胁响应、情报支持和受影响实体响应。摘自“CISA 就更新的 NCIRP 征询公众意见”
-安全周 (12/17/24) Ionut Aghrire 查看全文]]></description>
-      <guid>https://www.securityweek.com/cisa-seeking-public-comment-on-updated-national-cyber-incident-response-plan/</guid>
-      <pubDate>Mon, 23 Dec 2024 21:07:59 GMT</pubDate>
+      <title>数学家发现并修正了 60 年前证明中的错误</title>
+      <link>https://www.newscientist.com/article/2461891-mathematicians-found-and-fixed-an-error-in-a-60-year-old-proof/</link>
+      <description><![CDATA[新科学家数学家们在将旧证明翻译成计算机语言（即形式化过程）时，意外发现了现代数学中一个广泛使用的分支的证明中存在一个错误。最近，伦敦帝国理工学院的 Kevin Buzzard 和同事开始形式化费马大定理的证明。该证明采用了许多不同的前沿数学分支，其中许多还不是机器可读的，因此必须先翻译它们。在翻译过程中，巴黎西岱大学的 Antoine Chambert-Loir遇到了一个错误，但很快就修复了。摘自“数学家发现并修复了 60 年前证明中的错误”
+《新科学家》（2024 年 12 月 26 日）Alex Wilkins 查看全文]]></description>
+      <guid>https://www.newscientist.com/article/2461891-mathematicians-found-and-fixed-an-error-in-a-60-year-old-proof/</guid>
+      <pubDate>Fri, 27 Dec 2024 18:12:17 GMT</pubDate>
     </item>
     <item>
-      <title>国会拨款拆除中国电信设备</title>
-      <link>https://www.washingtonpost.com/technology/2024/12/19/us-china-telecommunications-defense-rip-and-replace/</link>
-      <description><![CDATA[华盛顿邮报美国国会批准拨款 30 亿美元，用于在全国范围内移除中国设备，因为担心这些设备容易受到网络攻击。作为年度国防预算的一部分，国会批准拨款完成“拆除和更换”计划，以从美国农村电话网络中移除中国电信制造巨头华为技术和中兴通讯生产的设备。摘自“国会资助拆除中国电信设备”
-华盛顿邮报 (12/19/24) Eva Dou；Cate Cadell；Joseph Menn 查看全文]]></description>
-      <guid>https://www.washingtonpost.com/technology/2024/12/19/us-china-telecommunications-defense-rip-and-replace/</guid>
-      <pubDate>Mon, 23 Dec 2024 21:07:59 GMT</pubDate>
+      <title>科技行业是否正处于人工智能放缓的边缘？</title>
+      <link>https://www.nytimes.com/2024/12/19/technology/artificial-intelligence-data-openai-google.html</link>
+      <description><![CDATA[《纽约时报》人工智能研究人员依靠互联网数据来改进大型语言模型 (LLM)，但一些专家发出警告称，数据即将耗尽。今年获得诺贝尔化学奖的谷歌 DeepMind 首席执行官兼联合创始人 Demis Hassabis（如图）警告称，“收益递减”。Hassabis 和其他人现在正在开发方法，让 LLM 通过生成“合成数据”从自己的反复试验中学习。OpenAI 最近发布了一个以这种方式构建的新系统，但它只适用于数学和计算编程等领域，这些领域对错有明显区分。摘自“科技行业是否正处于人工智能放缓的边缘？”
+
+《纽约时报》（12/19/24）Cade Metz； Tripp Mickle 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2024/12/19/technology/artificial-intelligence-data-openai-google.html</guid>
+      <pubDate>Fri, 27 Dec 2024 18:12:16 GMT</pubDate>
     </item>
     <item>
-      <title>麻省理工学院工程师创建了 8,000 个人工智能电动汽车设计的数据库</title>
-      <link>https://www.livescience.com/technology/electric-vehicles/mits-massive-database-of-8-000-new-ai-generated-ev-designs-could-shape-how-the-future-of-cars-look</link>
-      <description><![CDATA[LiveScience麻省理工学院 (MIT) 的工程师们设计了 8,000 多种电动汽车 (EV) 设计，这些设计可以与人工智能相结合，快速制造汽车。DrivAerNet++ 开源数据库包含基于目前最常见的汽车类型的设计，这些设计以 3D 模型的形式显示，其中包含有关空气动力学和其他特征的数据。该数据集产生了 39 TB 的数据，同时消耗了 MIT SuperCloud 的 300 万个 CPU 小时。摘自“麻省理工学院工程师创建了 8,000 个 AI 生成的电动汽车设计数据库”
-LiveScience (2024 年 12 月 22 日) Andrea Saravia Pérez 查看全文]]></description>
-      <guid>https://www.livescience.com/technology/electric-vehicles/mits-massive-database-of-8-000-new-ai-generated-ev-designs-could-shape-how-the-future-of-cars-look</guid>
-      <pubDate>Mon, 23 Dec 2024 21:07:58 GMT</pubDate>
+      <title>特朗普任命 OSTP 主任加入白宫科技团队</title>
+      <link>https://www.science.org/content/article/trump-names-ostp-director-part-white-house-tech-team</link>
+      <description><![CDATA[科学当选总统唐纳德·特朗普将召回第一任期内技术政策团队的核心成员，领导白宫科学技术政策办公室 (OSTP)，该办公室负责监督联邦政府在科学和技术方面的全部 2000 亿美元投资。特朗普表示，他将提名技术专家迈克尔·克拉西奥斯 (Michael Kratsios)（如图）担任 OSTP 主任。克拉西奥斯在特朗普第一任期开始时是 OSTP 的实际经理。特朗普还任命计算机科学家林恩·帕克 (Lynne Parker) 为克拉西奥斯的继任者。顾问兼总统科学技术顾问委员会执行董事。帕克在 OSTP 工作了四年，并领导了其 AI 计划。摘自“特朗普任命 OSTP 主任加入白宫技术团队”
+科学 (12/23/24) Jeffrey Mervis 查看全文]]></description>
+      <guid>https://www.science.org/content/article/trump-names-ostp-director-part-white-house-tech-team</guid>
+      <pubDate>Fri, 27 Dec 2024 18:12:16 GMT</pubDate>
     </item>
     <item>
-      <title>显然这就是你越狱人工智能的方法</title>
-      <link>https://www.404media.co/apparently-this-is-how-you-jailbreak-ai/</link>
-      <description><![CDATA[404 MediaBest-of-N 算法能够越狱“跨模态的前沿 AI 系统”。该算法由 Anthropic、英国牛津大学、斯坦福大学和 ML Alignment &amp; Theory Scholars (MATS) 计划的研究人员创建，其工作原理是反复采样提示的变化，并结合增强功能，例如对文本提示进行随机打乱或大写，直到引发有害响应。即使对其他模态或提示 AI 模型的方法（例如语音或图像）进行微小更改，也可以绕过安全措施。摘自“显然这就是你越狱 AI 的方式”
-404 Media (12/19/24) Emanuel Maiberg 查看完整文章 - 可能需要免费注册]]></description>
-      <guid>https://www.404media.co/apparently-this-is-how-you-jailbreak-ai/</guid>
-      <pubDate>Mon, 23 Dec 2024 21:07:58 GMT</pubDate>
+      <title>美国将对中国芯片展开调查</title>
+      <link>https://www.bloomberg.com/news/articles/2024-12-23/biden-team-to-probe-chinese-chips-setting-up-trump-for-tariffs</link>
+      <description><![CDATA[彭博社美国周一对中国生产的旧款计算机芯片发起贸易调查，最终可能导致征收关税或其他措施，不过任何决定都将留给新一届政府。中国公司一直在加大这些基础芯片的生产，这些芯片继续为各种机械和电器提供动力。商务部长吉娜·雷蒙多 (Gina Raimondo) 表示：“我们需要为这些芯片建立有弹性的供应链，因为我们看到了在 COVID 期间发生的事情，当时我们需要芯片，但却得不到它。”摘自“美国将对中国芯片展开调查”
+彭博社 (2024 年 12 月 23 日) 格雷戈里·科特 (Gregory Korte)； Josh Wingrove 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-12-23/biden-team-to-probe-chinese-chips-setting-up-trump-for-tariffs</guid>
+      <pubDate>Fri, 27 Dec 2024 18:12:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>海底电缆被切断后芬兰登上与俄罗斯有关的油轮</title>
+      <link>https://news.sky.com/story/finland-boards-russian-linked-oil-tanker-after-undersea-power-and-internet-cables-cut-13280307</link>
+      <description><![CDATA[Sky News (英国)芬兰当局登上一艘向俄罗斯运输石油的油轮，该油轮涉嫌切断波罗的海的电力和互联网电缆。Eagle S 涉嫌导致周三连接芬兰和爱沙尼亚的海底电力电缆中断。三条互联网线路被切断，第四条受损，此事也正在接受调查。摘自“海底电缆被切断后，芬兰登上与俄罗斯有关的油轮”
+Sky News (英国) (2024 年 12 月 26 日) 查看全文]]></description>
+      <guid>https://news.sky.com/story/finland-boards-russian-linked-oil-tanker-after-undersea-power-and-internet-cables-cut-13280307</guid>
+      <pubDate>Fri, 27 Dec 2024 18:12:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
