@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 03 Jan 2025 18:12:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 21:07:51 GMT</lastBuildDate>
+    <item>
+      <title>一款图书应用利用人工智能“嘲讽”用户，结果却反其道而行之</title>
+      <link>https://www.wired.com/story/fable-controversy-ai-summaries/</link>
+      <description><![CDATA[Fable 是一款供人们分享所读书籍的社交应用，它在一年终总结中告诉用户，“别忘了偶尔关注一下白人作家，好吗？”]]></description>
+      <guid>https://www.wired.com/story/fable-controversy-ai-summaries/</guid>
+      <pubDate>Fri, 03 Jan 2025 20:01:04 GMT</pubDate>
+    </item>
     <item>
       <title>Facebook 和 Instagram 广告推销伪装成汽车零件的枪式消音器</title>
       <link>https://www.wired.com/story/fuel-filter-gun-silencer-ads-facebook-instagram/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>官方消息：无聊的城市不利于健康</title>
       <link>https://www.wired.com/story/boring-cities-are-bad-for-your-health/</link>
-      <description><![CDATA[压抑、乏味的城市建筑不仅会让人觉得碍眼，而且有证据表明，它们还会给居民带来实际伤害。为了在 2025 年解决这一问题，我们必须开始为快乐而建。]]></description>
+      <description><![CDATA[压抑、乏味的城市建筑不仅会让人觉得碍眼，而且有证据表明，它们还会给居民带来实际伤害。为了在 2025 年解决这个问题，我们必须开始为快乐而建。]]></description>
       <guid>https://www.wired.com/story/boring-cities-are-bad-for-your-health/</guid>
       <pubDate>Thu, 02 Jan 2025 10:00:00 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Sat, 21 Dec 2024 14:15:17 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 升级其最智能的 AI 模型，提高推理能力</title>
+      <title>OpenAI 升级其最智能的 AI 模型，提升推理能力</title>
       <link>https://www.wired.com/story/openai-o3-reasoning-model-google-gemini/</link>
       <description><![CDATA[在谷歌宣布其首个能够推理问题的模型的第二天，OpenAI 又推出了自己的改进版本。]]></description>
       <guid>https://www.wired.com/story/openai-o3-reasoning-model-google-gemini/</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>美国每起 AI 版权诉讼案的可视化</title>
       <link>https://www.wired.com/story/ai-copyright-case-tracker/</link>
-      <description><![CDATA[《连线》杂志一直在关注人工智能行业涉及的每一场版权之争，我们创建了一些方便的可视化图表，并将随着案件的进展进行更新。]]></description>
+      <description><![CDATA[《连线》杂志一直在关注每一起涉及人工智能行业的版权纠纷，并且我们制作了一些便捷的可视化图表，这些图表将随着案件的进展进行更新。]]></description>
       <guid>https://www.wired.com/story/ai-copyright-case-tracker/</guid>
       <pubDate>Thu, 19 Dec 2024 18:41:44 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[英国一名法官裁定，克雷格·赖特违反了法庭命令，该命令禁止他以虚假声称自己是比特币创始人中本聪为由提起诉讼。]]></description>
       <guid>https://www.wired.com/story/craig-wright-the-self-styled-creator-of-bitcoin-handed-suspended-prison-sentence/</guid>
       <pubDate>Thu, 19 Dec 2024 17:03:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚马逊全美仓库工人在节日高峰前罢工</title>
-      <link>https://www.wired.com/story/amazon-warehouse-workers-across-us-strike-ahead-of-holiday-rush/</link>
-      <description><![CDATA[周四上午，数千名工人在从纽约到加利福尼亚的七个亚马逊配送中心外形成罢工纠察线。]]></description>
-      <guid>https://www.wired.com/story/amazon-warehouse-workers-across-us-strike-ahead-of-holiday-rush/</guid>
-      <pubDate>Thu, 19 Dec 2024 16:47:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
