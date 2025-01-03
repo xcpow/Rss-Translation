@@ -4,102 +4,103 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Mon, 30 Dec 2024 18:12:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 18:11:57 GMT</lastBuildDate>
     <item>
-      <title>韩国加速建设龙仁半导体中心</title>
-      <link>https://siliconangle.com/2024/12/26/south-korea-accelerates-construction-yongin-semiconductor-hub-start-2026/</link>
-      <description><![CDATA[SiliconANGLE韩国政府已将世界最大的半导体中心龙仁半导体国家工业园区的建设时间提前到 2026 年 12 月。该国国土、基础设施和交通部已提前三个月将该集群指定为国家工业园区，并加快了监管部门的审批速度，以促进建设提前数年完成。摘自“韩国加速建设龙仁半导体中心
-SiliconANGLE (12/26/24) Duncan Riley 查看全文]]></description>
-      <guid>https://siliconangle.com/2024/12/26/south-korea-accelerates-construction-yongin-semiconductor-hub-start-2026/</guid>
-      <pubDate>Mon, 30 Dec 2024 18:12:00 GMT</pubDate>
+      <title>GitHub 项目上有数百万个虚假“星星”</title>
+      <link>https://www.bleepingcomputer.com/news/security/over-31-million-fake-stars-on-github-projects-used-to-boost-rankings/</link>
+      <description><![CDATA[BleepingComputer网络安全平台 Socket、卡内基梅隆大学和北卡罗来纳州立大学的研究人员进行的一项研究发现，GitHub 上有 450 万个疑似虚假“星星”。星星类似于社交媒体网站上的“赞”按钮；这些假星星被用来人为地提高存储库排名，并经常用于在 GitHub 上推广恶意内容。摘自“GitHub 项目中的数百万个虚假‘星星’”
+BleepingComputer (12/31/24) Bill Toulas 查看全文]]></description>
+      <guid>https://www.bleepingcomputer.com/news/security/over-31-million-fake-stars-on-github-projects-used-to-boost-rankings/</guid>
+      <pubDate>Fri, 03 Jan 2025 18:11:56 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能可能会重塑美国的经济地理</title>
-      <link>https://www.nytimes.com/2024/12/26/technology/ai-economy-workers.html</link>
-      <description><![CDATA[《纽约时报》随着人工智能的使用和好处超越少数大城市中心，美国中西部、中大西洋和南部曾经陷入困境的城市有望成为受益者之一。劳动经济学家的一项学术研究指出，这些城市受过良好教育的劳动力、负担得起的住房以及职业和行业不太可能被人工智能取代或颠覆，这是主要原因。这些城市完全有能力利用人工智能提高生产力，从而吸引更多人。摘自“人工智能可能重塑美国的经济地理”
-《纽约时报》（2024 年 12 月 26 日）史蒂夫·洛尔 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/12/26/technology/ai-economy-workers.html</guid>
-      <pubDate>Mon, 30 Dec 2024 18:11:59 GMT</pubDate>
+      <title>微信、TikTok 获得马来西亚新社交媒体规则下的首批牌照</title>
+      <link>https://www.wsj.com/business/wechat-tiktok-first-to-secure-licenses-under-malaysias-new-social-media-rules-ad7b8d0b</link>
+      <description><![CDATA[《华尔街日报》腾讯的微信和字节跳动的 TikTok 已获准继续在马来西亚运营其应用。马来西亚通信与多媒体委员会周三表示，这两家中国科技公司已获得目前在马来西亚运营网络通讯和社交媒体公司所需的许可证。去年公布的规则要求在该国拥有 800 万以上用户的公司必须获得许可，这是政府加强网络安全的努力之一，特别是针对儿童和弱势群体。摘自“微信、TikTok 在马来西亚新社交媒体规则下获得首批许可”
+华尔街日报 (01/02/25) Ying Xian Wong 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/business/wechat-tiktok-first-to-secure-licenses-under-malaysias-new-social-media-rules-ad7b8d0b</guid>
+      <pubDate>Fri, 03 Jan 2025 18:11:56 GMT</pubDate>
     </item>
     <item>
-      <title>第九电信公司遭中共支持组织攻击</title>
-      <link>https://www.reuters.com/technology/cybersecurity/us-adds-9th-telcom-list-companies-hacked-by-chinese-backed-salt-typhoon-2024-12-27/</link>
-      <description><![CDATA[路透社美国官员将第九家电信公司列入了与中国有关的网络间谍行动“盐台风”入侵实体名单。美国网络安全和基础设施安全局于 12 月 18 日敦促政府高级官员和政界人士将移动通信转移到端到端加密应用程序，以应对此次入侵。官员们表示，“大量美国人的元数据被窃取”，这是此次行动的一部分。摘自“第九家电信公司遭中国支持组织攻击”
-路透社 (12/27/24) A. J. Vicens 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/cybersecurity/us-adds-9th-telcom-list-companies-hacked-by-chinese-backed-salt-typhoon-2024-12-27/</guid>
-      <pubDate>Mon, 30 Dec 2024 18:11:59 GMT</pubDate>
+      <title>北京公布推动无人驾驶汽车应用的计划</title>
+      <link>https://www.reuters.com/world/china/beijing-unveils-plans-boost-driverless-vehicle-use-capital-2024-12-31/</link>
+      <description><![CDATA[路透社北京批准了新法规，鼓励该市自动驾驶技术的发展。据官方支持的《北京日报》报道，通过道路测试和安全评估的自动驾驶汽车将被允许申请道路试验。这些法规还支持智能道路基础设施的建设。摘自“北京公布促进无人驾驶汽车使用的计划”
+路透社 (12/31/24) Qiaoyi Li; Brenda Goh 查看全文]]></description>
+      <guid>https://www.reuters.com/world/china/beijing-unveils-plans-boost-driverless-vehicle-use-capital-2024-12-31/</guid>
+      <pubDate>Fri, 03 Jan 2025 18:11:56 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能、电工和华盛顿中部的新兴城镇</title>
-      <link>https://www.nytimes.com/2024/12/25/technology/ai-data-centers-electricians.html</link>
-      <description><![CDATA[《纽约时报》电工们正涌向全国各地，在目前电力充足的地区建设人工智能基础设施。这些流动电工正在改变华盛顿中部，在果园和农田上建立变电站。数百人来到哥伦比亚河沿岸由水电站连接起来的三角县。摘自《人工智能、电工和华盛顿中部的繁荣城镇》
-《纽约时报》（2024 年 12 月 25 日）Karen Weise 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2024/12/25/technology/ai-data-centers-electricians.html</guid>
-      <pubDate>Mon, 30 Dec 2024 18:11:59 GMT</pubDate>
+      <title>世界需要更懒惰的机器人</title>
+      <link>https://www.washingtonpost.com/climate-solutions/interactive/2024/ai-energy-consumption-robots/</link>
+      <description><![CDATA[《华盛顿邮报》运行人工智能的机器人不断处理数据，消耗了数据中心消耗的大量能源，因此它们产生的排放量可能超过其带来的好处。荷兰埃因霍温理工大学的 René van de Molengraft 提出了一种潜在解决方案，即“懒惰机器人”，即机器做得更少，走捷径学习，就像人类一样。摘自“世界需要更懒惰的机器人”
+《华盛顿邮报》（2024 年 12 月 31 日）Samanth Subramanian；Emily Wright 查看全文]]></description>
+      <guid>https://www.washingtonpost.com/climate-solutions/interactive/2024/ai-energy-consumption-robots/</guid>
+      <pubDate>Fri, 03 Jan 2025 18:11:55 GMT</pubDate>
     </item>
     <item>
-      <title>台积电日本首家芯片工厂开始量产</title>
-      <link>https://english.kyodonews.net/news/2024/12/2c5684e2454d-tsmc-begins-mass-production-at-1st-japan-chip-plant-in-kumamoto.html</link>
-      <description><![CDATA[共同社（日本）台湾半导体制造公司（TSMC）在日本的第一家工厂开始量产。这家位于熊本县的工厂采用 12 至 28 纳米工艺技术生产逻辑芯片，用于汽车和图像传感器。台积电计划在第一家工厂旁边再建一座工厂，在 2027 年底前开始生产更先进的 6 纳米芯片。日本已同意向台积电提供超过 1 万亿日元（63 亿美元）的补贴。摘自“台积电在日本第一家芯片工厂开始量产”
-共同社（日本）（2024 年 12 月 27 日） 查看全文]]></description>
-      <guid>https://english.kyodonews.net/news/2024/12/2c5684e2454d-tsmc-begins-mass-production-at-1st-japan-chip-plant-in-kumamoto.html</guid>
-      <pubDate>Mon, 30 Dec 2024 18:11:58 GMT</pubDate>
+      <title>Hinton 支持马斯克对 OpenAI 的诉讼</title>
+      <link>https://www.businessinsider.com/geoffrey-hinton-backs-elon-musk-openai-lawsuit-2024-12</link>
+      <description><![CDATA[商业内幕ACM A. M. 图灵奖获得者 Geoffrey Hinton 表示支持伊隆·马斯克的诉讼，该诉讼旨在阻止 OpenAI 重组为一家营利性公司。Hinton 在一份声明中表示，OpenAI“从其非营利地位中获得了众多税收和其他好处。当它变得不方便时允许它撕毁所有这些，会向生态系统中的其他参与者发出非常糟糕的信息。”摘自“Hinton 支持马斯克对 OpenAI 的诉讼”
+商业内幕 (12/31/24) Kwan Wei Kevin Tan 查看全文]]></description>
+      <guid>https://www.businessinsider.com/geoffrey-hinton-backs-elon-musk-openai-lawsuit-2024-12</guid>
+      <pubDate>Fri, 03 Jan 2025 18:11:55 GMT</pubDate>
     </item>
     <item>
-      <title>墨西哥测试针对面临美国拘留的移民的警报应用程序</title>
-      <link>https://apnews.com/article/mexico-app-migrants-deportations-consulates-09655e742f2918803881a32620e384ef</link>
-      <description><![CDATA[美联社墨西哥正在测试一款应用程序，该应用程序允许移民在认为自己即将被美国移民官员拘留时警告亲属和当地领事馆。墨西哥外交部长胡安·拉曼·德拉富恩特 (Juan Ramón de la Fuente) 表示，该应用程序已进行小规模测试，“似乎效果很好”。他说，该应用程序将允许用户向之前选择的亲属和最近的墨西哥领事馆发送警报通知。摘自“墨西哥测试针对面临美国拘留的移民的警报应用程序”
-美联社 (12/27/24) 查看全文]]></description>
-      <guid>https://apnews.com/article/mexico-app-migrants-deportations-consulates-09655e742f2918803881a32620e384ef</guid>
-      <pubDate>Mon, 30 Dec 2024 18:11:58 GMT</pubDate>
+      <title>中国推动在电动汽车中使用国产芯片</title>
+      <link>https://www.wsj.com/tech/beijing-pushes-to-use-china-made-chips-in-its-evs-d89212de</link>
+      <description><![CDATA[华尔街日报中国正推动其生产的电动汽车 (EV) 芯片由国内芯片制造商生产。低端商品芯片目前占中国生产的集成电路的大部分，而控制简单汽车部件的模拟和功率半导体是首批获得份额的国产芯片。摘自“中国推动在电动汽车中使用其芯片”
+华尔街日报 (2024 年 12 月 31 日) Liza Lin；Raffaele Huang 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/tech/beijing-pushes-to-use-china-made-chips-in-its-evs-d89212de</guid>
+      <pubDate>Fri, 03 Jan 2025 18:11:54 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普敦促最高法院推迟 TikTok 禁令</title>
-      <link>https://www.bbc.com/news/articles/cr4r1qrqw2vo</link>
-      <description><![CDATA[BBC 新闻美国当选总统唐纳德·特朗普已要求美国最高法院推迟即将实施的 TikTok 禁令，以便他能“政治解决”。他的律师周五向法院提交了一份法律简报，称特朗普“反对禁止 TikTok”，并“寻求上任后通过政治手段解决当前问题的能力”。摘自“特朗普敦促最高法院推迟 TikTok 禁令”
-BBC 新闻 (2024 年 12 月 28 日) Bernd Debusmann Jr. 查看全文]]></description>
-      <guid>https://www.bbc.com/news/articles/cr4r1qrqw2vo</guid>
-      <pubDate>Mon, 30 Dec 2024 18:11:57 GMT</pubDate>
+      <title>法官批准加州禁止向未成年人提供成瘾性食品</title>
+      <link>https://techcrunch.com/2024/12/31/judge-allows-californias-ban-on-addictive-feeds-for-minors-to-go-into-effect/</link>
+      <description><![CDATA[Tech Crunch在线商业贸易协会 NetChoice 对加州一项禁止公司向未成年人提供“成瘾性信息”的新法律的挑战被联邦法官阻止。根据参议院第 976 号法案，公司不得在未经父母明确同意的情况下向已知未成年人提供成瘾性信息（该算法根据用户行为选择和推荐内容）。从 2027 年 1 月开始，公司将需要使用“年龄保证技术”，包括年龄估计模型，来识别未成年人并相应地定制他们的信息。 摘自“法官允许加州禁止未成年人食用成瘾性食物”
+Tech Crunch (12/31/24) Kyle Wiggers 查看全文]]></description>
+      <guid>https://techcrunch.com/2024/12/31/judge-allows-californias-ban-on-addictive-feeds-for-minors-to-go-into-effect/</guid>
+      <pubDate>Fri, 03 Jan 2025 18:11:54 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能需要如此多的能量，以至于它让你的能力变得更糟</title>
-      <link>https://www.bloomberg.com/graphics/2024-ai-power-home-appliances/</link>
-      <description><![CDATA[彭博社彭博社的一项分析显示，根据 77 万个家用传感器的读数，全美超过 75% 的严重失真功率读数位于重要数据中心活动 50 英里范围内。该问题威胁到数十亿美元的家用电器和老化电力设备的损失，尤其是在芝加哥和北弗吉尼亚州的“数据中心巷”等地区，这些地区的失真功率读数超过了建议水平。摘自“AI 需要如此多的功率，它让你的功率变得更糟”
-彭博社 (2024 年 12 月 27 日) Leonardo Nicoletti；Naureen Malik；Andre Tartar 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.bloomberg.com/graphics/2024-ai-power-home-appliances/</guid>
-      <pubDate>Mon, 30 Dec 2024 18:11:57 GMT</pubDate>
+      <title>美国考虑禁止中国无人机</title>
+      <link>https://www.nytimes.com/2025/01/02/us/politics/drone-ban-china-security.html</link>
+      <description><![CDATA[《纽约时报》美国正在考虑实施一项新规定，限制或禁止中国无人机。美国商务部在周四的一份通知中表示，允许外国对手（尤其是中国和俄罗斯）继续参与无人机的设计、开发、制造或供应可能会对美国国家安全构成“过度或不可接受的风险”。总部位于中国的公司占据了美国无人机市场的至少 75%，提供了“充足的开发机会”，商务部已添加。摘自“美国考虑禁止中国无人机”
+纽约时报 (01/03/25) Ana Swanson 查看全文]]></description>
+      <guid>https://www.nytimes.com/2025/01/02/us/politics/drone-ban-china-security.html</guid>
+      <pubDate>Fri, 03 Jan 2025 18:11:53 GMT</pubDate>
     </item>
     <item>
-      <title>北约轨道备用互联网应急计划</title>
-      <link>https://spectrum.ieee.org/undersea-internet-cables-nato</link>
-      <description><![CDATA[IEEE Spectrum北大西洋公约组织 (NATO) 启动了一个试点项目，以应对最近海底互联网数据流量中断的情况。HEIST 项目的目标是确保当水下数据电缆受损时，运营商能够知道其准确位置，以减轻中断。该项目还旨在扩大数据传输路径的数量。特别是，HEIST 将研究将高优先级流量转移到轨道卫星的方法。摘自“北约的轨道备用互联网应急计划”
-IEEE Spectrum (12/24/24) Ned Potter 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/undersea-internet-cables-nato</guid>
-      <pubDate>Mon, 30 Dec 2024 18:11:57 GMT</pubDate>
+      <title>希腊正在开发一款应用程序，以遏制 15 岁以下儿童过度使用互联网</title>
+      <link>https://apnews.com/article/athens-greece-internet-safety-apps-government-3cf566a0dea4076c1a6ef68944789257</link>
+      <description><![CDATA[美联社希腊公布了一项计划，计划在 2025 年通过一款政府运营的应用程序加强家长对移动设备的监督。数字治理部长 Dimitris Papastergiou 表示，将于 3 月推出的儿童钱包应用程序旨在保护 15 岁以下儿童免受过度和不当使用互联网的风险。 Papastergiou 表示，这款应用“将使家长控制变得更加容易，它将成为我们官方的国家工具，用于验证用户年龄。”摘自“希腊正在开发一款应用，以遏制 15 岁以下儿童过度使用互联网”
+美联社 (12/30/24) Derek Gatopoulos 查看全文]]></description>
+      <guid>https://apnews.com/article/athens-greece-internet-safety-apps-government-3cf566a0dea4076c1a6ef68944789257</guid>
+      <pubDate>Fri, 03 Jan 2025 18:11:53 GMT</pubDate>
     </item>
     <item>
-      <title>科技领域外国工人的争论凸显特朗普阵营内部的紧张关系</title>
-      <link>https://apnews.com/article/trump-maga-immigration-visas-musk-40b78d2b413aa473e31ca063e4dd5fa8</link>
-      <description><![CDATA[美联社唐纳德·特朗普选择斯里拉姆·克里希南担任人工智能政策顾问一事引发了特朗普支持者派系之间的网络争论。克里希南支持允许更多技术移民进入美国，而右翼互联网名人劳拉·鲁默则表示，这一立场“不符合美国优先政策”。埃隆·马斯克 (Elon Musk) 以 H-1B 签证从南非来到美国，他发文称：“优秀的工程人才一直短缺。这是硅谷发展的根本限制因素。”摘自“科技界关于外国工人的争论表明特朗普联盟内部存在紧张关系”
-美联社 (2024 年 12 月 27 日) 米歇尔·L·普莱斯 查看全文]]></description>
-      <guid>https://apnews.com/article/trump-maga-immigration-visas-musk-40b78d2b413aa473e31ca063e4dd5fa8</guid>
-      <pubDate>Mon, 30 Dec 2024 18:11:56 GMT</pubDate>
+      <title>苹果将​​支付 9500 万美元解决 Siri 隐私诉讼</title>
+      <link>https://www.reuters.com/legal/apple-pay-95-million-settle-siri-privacy-lawsuit-2025-01-02/</link>
+      <description><![CDATA[路透社苹果将支付 9500 万美元以和解一宗潜在的集体诉讼，该诉讼声称其语音激活的 Siri 助手侵犯了用户的隐私。安装了 Siri 的移动设备的用户抱怨称，在他们无意中激活 Siri 后，苹果经常会记录私人对话，并将通过这种方式收集的信息分享给广告商等第三方。摘自“苹果将支付 9500 万美元以和解 Siri 隐私诉讼”
+路透社 (01/02/25) Jonathan Stempel 查看全文]]></description>
+      <guid>https://www.reuters.com/legal/apple-pay-95-million-settle-siri-privacy-lawsuit-2025-01-02/</guid>
+      <pubDate>Fri, 03 Jan 2025 18:11:53 GMT</pubDate>
     </item>
     <item>
-      <title>旨在限制医疗数据泄露影响的规则</title>
-      <link>https://www.reuters.com/technology/cybersecurity/biden-administration-proposes-new-cybersecurity-rules-limit-impact-healthcare-2024-12-27/</link>
-      <description><![CDATA[路透社周五，《联邦公报》上公布了一项拟议规则，要求医疗保健机构加强网络安全，防止敏感信息被泄露。该提案包括要求对数据进行加密，以便即使泄露也无法访问，并要求进行合规性检查，以确保网络符合网络安全规则。摘自“拟议限制医疗保健数据泄露影响的规则”
-路透社 (2024 年 12 月 27 日) A.J. Vicens 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/cybersecurity/biden-administration-proposes-new-cybersecurity-rules-limit-impact-healthcare-2024-12-27/</guid>
-      <pubDate>Mon, 30 Dec 2024 18:11:56 GMT</pubDate>
+      <title>美国财政部高层领导的电脑遭黑客入侵</title>
+      <link>https://www.bloomberg.com/news/articles/2025-01-02/computers-of-senior-us-treasury-leaders-accessed-in-latest-hack</link>
+      <description><![CDATA[彭博社据内部人士称，最近美国财政部高层领导的电脑遭到入侵，中国支持的黑客入侵了这些电脑，获取了财政部领导的政策决定草案和笔记、行程和旅行计划文件以及一些内部通讯。财政部在 12 月 30 日致国会的一封信中将此次入侵定性为“重大网络安全事件”，并表示黑客通过软件提供商 BeyondTrust 获取了访问权限。摘自“美国财政部高层领导的电脑遭黑客入侵”
+彭博社 (01/02/25) Jake Bleiberg； Jamie Tarabay 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-01-02/computers-of-senior-us-treasury-leaders-accessed-in-latest-hack</guid>
+      <pubDate>Fri, 03 Jan 2025 18:11:52 GMT</pubDate>
     </item>
     <item>
-      <title>Hinton 缩短了人工智能消灭人类的可能性</title>
-      <link>https://www.theguardian.com/technology/2024/dec/27/godfather-of-ai-raises-odds-of-the-technology-wiping-out-humanity-over-next-30-years</link>
-      <description><![CDATA[英国卫报ACM A. M. 图灵奖获得者杰弗里·辛顿 (Geoffrey Hinton) 缩短了人工智能在未来三十年内消灭人类的可能性，并警告称，技术变化的速度“比预期的要快得多”。在一次采访中，今年因在人工智能领域的工作而获得诺贝尔物理学奖的辛顿表示，未来三十年内消灭人类的可能性为“10% 到 20%”人工智能在未来 30 年内导致人类灭绝的可能性。摘自“Hinton 缩短了人工智能消灭人类的可能性”
-卫报 (英国) (2024 年 12 月 27 日) Dan Milmo 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.theguardian.com/technology/2024/dec/27/godfather-of-ai-raises-odds-of-the-technology-wiping-out-humanity-over-next-30-years</guid>
-      <pubDate>Mon, 30 Dec 2024 18:11:56 GMT</pubDate>
+      <title>上诉法院推翻网络中立规则</title>
+      <link>https://www.axios.com/2025/01/02/net-neutrality-fcc-struck-down-appeals-court</link>
+      <description><![CDATA[Axios美国辛辛那提第六巡回上诉法院裁定，美国联邦通信委员会 (FCC) 无权恢复网络中立规则。法院裁定宽带应归类为“信息服务”，而不是 FCC 去年下令称的监管更为严格的“电信服务”。
+摘自“上诉法院推翻网络中立规则”
+Axios (01/02/25) Angrej Singh 查看全文]]></description>
+      <guid>https://www.axios.com/2025/01/02/net-neutrality-fcc-struck-down-appeals-court</guid>
+      <pubDate>Fri, 03 Jan 2025 18:11:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
