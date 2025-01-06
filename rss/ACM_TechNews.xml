@@ -4,103 +4,102 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Fri, 03 Jan 2025 18:11:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 18:12:28 GMT</lastBuildDate>
     <item>
-      <title>GitHub 项目上有数百万个虚假“星星”</title>
-      <link>https://www.bleepingcomputer.com/news/security/over-31-million-fake-stars-on-github-projects-used-to-boost-rankings/</link>
-      <description><![CDATA[BleepingComputer网络安全平台 Socket、卡内基梅隆大学和北卡罗来纳州立大学的研究人员进行的一项研究发现，GitHub 上有 450 万个疑似虚假“星星”。星星类似于社交媒体网站上的“赞”按钮；这些假星星被用来人为地提高存储库排名，并经常用于在 GitHub 上推广恶意内容。摘自“GitHub 项目中的数百万个虚假‘星星’”
-BleepingComputer (12/31/24) Bill Toulas 查看全文]]></description>
-      <guid>https://www.bleepingcomputer.com/news/security/over-31-million-fake-stars-on-github-projects-used-to-boost-rankings/</guid>
-      <pubDate>Fri, 03 Jan 2025 18:11:56 GMT</pubDate>
+      <title>人工智能机器人进入公众世界，结果喜忧参半</title>
+      <link>https://www.wsj.com/articles/ai-robots-are-entering-the-public-worldwith-mixed-results-4ff8d11a</link>
+      <description><![CDATA[《华尔街日报》随着生成式人工智能 (Gen AI) 的出现，人们越来越希望在公共场所更多地采用机器人技术。机器人依靠代码来告诉它们如何执行功能或对特定场景做出反应，从而将它们限制在经过训练的特定操作范围内。ABB 的 Marc Segura 表示，Gen AI 可以让机器人更好地避开障碍物、了解某些物体是什么，甚至接受口头命令。摘自“人工智能机器人进入公共世界，结果喜忧参半”
+《华尔街日报》（2024 年 12 月 31 日）Isabelle Bousquette 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/articles/ai-robots-are-entering-the-public-worldwith-mixed-results-4ff8d11a</guid>
+      <pubDate>Mon, 06 Jan 2025 18:12:27 GMT</pubDate>
     </item>
     <item>
-      <title>微信、TikTok 获得马来西亚新社交媒体规则下的首批牌照</title>
-      <link>https://www.wsj.com/business/wechat-tiktok-first-to-secure-licenses-under-malaysias-new-social-media-rules-ad7b8d0b</link>
-      <description><![CDATA[《华尔街日报》腾讯的微信和字节跳动的 TikTok 已获准继续在马来西亚运营其应用。马来西亚通信与多媒体委员会周三表示，这两家中国科技公司已获得目前在马来西亚运营网络通讯和社交媒体公司所需的许可证。去年公布的规则要求在该国拥有 800 万以上用户的公司必须获得许可，这是政府加强网络安全的努力之一，特别是针对儿童和弱势群体。摘自“微信、TikTok 在马来西亚新社交媒体规则下获得首批许可”
-华尔街日报 (01/02/25) Ying Xian Wong 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/business/wechat-tiktok-first-to-secure-licenses-under-malaysias-new-social-media-rules-ad7b8d0b</guid>
-      <pubDate>Fri, 03 Jan 2025 18:11:56 GMT</pubDate>
+      <title>楔形文字技术使数据存储量增加四倍</title>
+      <link>https://newatlas.com/good-thinking/indent-data-storage/</link>
+      <description><![CDATA[New Atlas澳大利亚弗林德斯大学的 Abigail Mann 领导的团队开发了一种新系统，通过安装在原子力显微镜上的细尖探针在高科技聚合物上制造纳米级凹痕来存储数据。该方法允许通过廉价聚合物薄膜上的三态三元代码存储数据，与二进制编码相比，该系统的数据密度增加了四倍。该薄膜也是可重写的。摘自“楔形文字技术使数据存储量增加四倍”
+New Atlas (12/31/24) Ben Coxworth 查看全文]]></description>
+      <guid>https://newatlas.com/good-thinking/indent-data-storage/</guid>
+      <pubDate>Mon, 06 Jan 2025 18:12:27 GMT</pubDate>
     </item>
     <item>
-      <title>北京公布推动无人驾驶汽车应用的计划</title>
-      <link>https://www.reuters.com/world/china/beijing-unveils-plans-boost-driverless-vehicle-use-capital-2024-12-31/</link>
-      <description><![CDATA[路透社北京批准了新法规，鼓励该市自动驾驶技术的发展。据官方支持的《北京日报》报道，通过道路测试和安全评估的自动驾驶汽车将被允许申请道路试验。这些法规还支持智能道路基础设施的建设。摘自“北京公布促进无人驾驶汽车使用的计划”
-路透社 (12/31/24) Qiaoyi Li; Brenda Goh 查看全文]]></description>
-      <guid>https://www.reuters.com/world/china/beijing-unveils-plans-boost-driverless-vehicle-use-capital-2024-12-31/</guid>
-      <pubDate>Fri, 03 Jan 2025 18:11:56 GMT</pubDate>
+      <title>TikTok 被控明知直播剥削儿童</title>
+      <link>https://www.reuters.com/sustainability/boards-policy-regulation/tiktok-knew-its-livestreams-exploit-children-utah-lawsuit-claims-2025-01-03/</link>
+      <description><![CDATA[路透社犹他州指控 TikTok 明知其视频直播剥削儿童却不采取任何行动，因为它“从中获利颇丰”。这些指控于周五公开，是去年 6 月提起的一项指控 TikTok 剥削儿童的诉讼的一部分。周五的一份基本未经删节的投诉称，TikTok 通过一系列内部审查了解到其直播功能带来的威胁。摘自“TikTok 知道直播剥削儿童，诉讼声称”
+路透社 (01/03/25) Jonathan Stempel 查看全文]]></description>
+      <guid>https://www.reuters.com/sustainability/boards-policy-regulation/tiktok-knew-its-livestreams-exploit-children-utah-lawsuit-claims-2025-01-03/</guid>
+      <pubDate>Mon, 06 Jan 2025 18:12:26 GMT</pubDate>
     </item>
     <item>
-      <title>世界需要更懒惰的机器人</title>
-      <link>https://www.washingtonpost.com/climate-solutions/interactive/2024/ai-energy-consumption-robots/</link>
-      <description><![CDATA[《华盛顿邮报》运行人工智能的机器人不断处理数据，消耗了数据中心消耗的大量能源，因此它们产生的排放量可能超过其带来的好处。荷兰埃因霍温理工大学的 René van de Molengraft 提出了一种潜在解决方案，即“懒惰机器人”，即机器做得更少，走捷径学习，就像人类一样。摘自“世界需要更懒惰的机器人”
-《华盛顿邮报》（2024 年 12 月 31 日）Samanth Subramanian；Emily Wright 查看全文]]></description>
-      <guid>https://www.washingtonpost.com/climate-solutions/interactive/2024/ai-energy-consumption-robots/</guid>
-      <pubDate>Fri, 03 Jan 2025 18:11:55 GMT</pubDate>
+      <title>机械手知道挤压的力度</title>
+      <link>https://www.newscientist.com/article/2458259-delicate-robot-hands-know-just-how-hard-to-squeeze/</link>
+      <description><![CDATA[新科学家约翰霍普金斯大学研究人员开发的机械手可以在用一根手指触摸物体后感知物体的硬度，因此它可以确定抓握物体所需的力量。研究人员在机器人的指尖嵌入了压电传感器，在触摸物体后，将振动转换为电信号，由人工智能模型进行分析，以在 15 毫秒内估算物体的硬度。摘自“机械手知道挤压的力度”
+新科学家 (01/02/25) Matthew Sparkes 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.newscientist.com/article/2458259-delicate-robot-hands-know-just-how-hard-to-squeeze/</guid>
+      <pubDate>Mon, 06 Jan 2025 18:12:26 GMT</pubDate>
     </item>
     <item>
-      <title>Hinton 支持马斯克对 OpenAI 的诉讼</title>
-      <link>https://www.businessinsider.com/geoffrey-hinton-backs-elon-musk-openai-lawsuit-2024-12</link>
-      <description><![CDATA[商业内幕ACM A. M. 图灵奖获得者 Geoffrey Hinton 表示支持伊隆·马斯克的诉讼，该诉讼旨在阻止 OpenAI 重组为一家营利性公司。Hinton 在一份声明中表示，OpenAI“从其非营利地位中获得了众多税收和其他好处。当它变得不方便时允许它撕毁所有这些，会向生态系统中的其他参与者发出非常糟糕的信息。”摘自“Hinton 支持马斯克对 OpenAI 的诉讼”
-商业内幕 (12/31/24) Kwan Wei Kevin Tan 查看全文]]></description>
-      <guid>https://www.businessinsider.com/geoffrey-hinton-backs-elon-musk-openai-lawsuit-2024-12</guid>
-      <pubDate>Fri, 03 Jan 2025 18:11:55 GMT</pubDate>
+      <title>科学家寻找海上失踪移民的身份</title>
+      <link>https://www.theguardian.com/science/2025/jan/02/the-nameless-dead-scientists-hunt-for-identities-of-thousands-who-tried-to-reach-europe</link>
+      <description><![CDATA[卫报移民灾难受害者身份识别 (MDVI) 行动正在利用技术，希望能够识别数万名在试图抵达欧洲时死亡的移民。除了使用 DNA 和在社交媒体上发布照片外，MDVI 行动还部署了手持扫描仪来记录已故移民的特征，这些特征可用于创建个人的 3D 图像。摘自“科学家寻找海上失踪移民的身份”
+卫报 (01/02/25) Linda Geddes 查看全文]]></description>
+      <guid>https://www.theguardian.com/science/2025/jan/02/the-nameless-dead-scientists-hunt-for-identities-of-thousands-who-tried-to-reach-europe</guid>
+      <pubDate>Mon, 06 Jan 2025 18:12:26 GMT</pubDate>
     </item>
     <item>
-      <title>中国推动在电动汽车中使用国产芯片</title>
-      <link>https://www.wsj.com/tech/beijing-pushes-to-use-china-made-chips-in-its-evs-d89212de</link>
-      <description><![CDATA[华尔街日报中国正推动其生产的电动汽车 (EV) 芯片由国内芯片制造商生产。低端商品芯片目前占中国生产的集成电路的大部分，而控制简单汽车部件的模拟和功率半导体是首批获得份额的国产芯片。摘自“中国推动在电动汽车中使用其芯片”
-华尔街日报 (2024 年 12 月 31 日) Liza Lin；Raffaele Huang 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/tech/beijing-pushes-to-use-china-made-chips-in-its-evs-d89212de</guid>
-      <pubDate>Fri, 03 Jan 2025 18:11:54 GMT</pubDate>
+      <title>人工智能与灵性的交汇点</title>
+      <link>https://www.nytimes.com/2025/01/03/technology/ai-religious-leaders.html</link>
+      <description><![CDATA[《纽约时报》宗教领袖们正在寻求确定人工智能在他们的使命中的位置。这一探索导致了一个以信仰为基础的科技公司行业，这些公司提供人工智能工具，包括可以进行神​​学研究的助手和可以帮助撰写布道文的聊天机器人。虽然许多人同意使用人工智能进行研究或营销或将布道文翻译成不同语言是可以接受的，但其他人认为将其用于布道文写作等是不道德的。摘自“人工智能与灵性的交汇处”
+《纽约时报》（2025 年 1 月 3 日）Eli Tan 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2025/01/03/technology/ai-religious-leaders.html</guid>
+      <pubDate>Mon, 06 Jan 2025 18:12:25 GMT</pubDate>
     </item>
     <item>
-      <title>法官批准加州禁止向未成年人提供成瘾性食品</title>
-      <link>https://techcrunch.com/2024/12/31/judge-allows-californias-ban-on-addictive-feeds-for-minors-to-go-into-effect/</link>
-      <description><![CDATA[Tech Crunch在线商业贸易协会 NetChoice 对加州一项禁止公司向未成年人提供“成瘾性信息”的新法律的挑战被联邦法官阻止。根据参议院第 976 号法案，公司不得在未经父母明确同意的情况下向已知未成年人提供成瘾性信息（该算法根据用户行为选择和推荐内容）。从 2027 年 1 月开始，公司将需要使用“年龄保证技术”，包括年龄估计模型，来识别未成年人并相应地定制他们的信息。 摘自“法官允许加州禁止未成年人食用成瘾性食物”
-Tech Crunch (12/31/24) Kyle Wiggers 查看全文]]></description>
-      <guid>https://techcrunch.com/2024/12/31/judge-allows-californias-ban-on-addictive-feeds-for-minors-to-go-into-effect/</guid>
-      <pubDate>Fri, 03 Jan 2025 18:11:54 GMT</pubDate>
+      <title>美国因黑客行为制裁北京网络组织</title>
+      <link>https://www.newsweek.com/us-sanctions-beijing-cyber-group-hacking-2009427</link>
+      <description><![CDATA[新闻周刊美国财政部对总部位于中国的 Integrity Technology Group (ITG) 实施制裁，原因是该公司涉嫌参与针对美国关键基础设施的黑客事件。周五宣布的制裁指控这家网络安全公司参与了一系列攻击，这些攻击归因于 Flax Typhoon，这是一个由国家支持的黑客活动，据称与中国政府有关。摘自“美国因黑客行为制裁北京网络组织”
+新闻周刊 (01/03/25) Shannon McDonagh 查看全文]]></description>
+      <guid>https://www.newsweek.com/us-sanctions-beijing-cyber-group-hacking-2009427</guid>
+      <pubDate>Mon, 06 Jan 2025 18:12:25 GMT</pubDate>
     </item>
     <item>
-      <title>美国考虑禁止中国无人机</title>
-      <link>https://www.nytimes.com/2025/01/02/us/politics/drone-ban-china-security.html</link>
-      <description><![CDATA[《纽约时报》美国正在考虑实施一项新规定，限制或禁止中国无人机。美国商务部在周四的一份通知中表示，允许外国对手（尤其是中国和俄罗斯）继续参与无人机的设计、开发、制造或供应可能会对美国国家安全构成“过度或不可接受的风险”。总部位于中国的公司占据了美国无人机市场的至少 75%，提供了“充足的开发机会”，商务部已添加。摘自“美国考虑禁止中国无人机”
-纽约时报 (01/03/25) Ana Swanson 查看全文]]></description>
-      <guid>https://www.nytimes.com/2025/01/02/us/politics/drone-ban-china-security.html</guid>
-      <pubDate>Fri, 03 Jan 2025 18:11:53 GMT</pubDate>
+      <title>将 C 转换为 Rust</title>
+      <link>https://www.theregister.com/AMP/2025/01/03/mini_c_microsoft_inria/</link>
+      <description><![CDATA[The Register（英国）法国国家数字科学与技术研究所和微软的计算机科学家开发出一种方法，可以自动将一部分 C 代码转换为安全的 Rust 代码。通过创建 C 的一个子集，避免常见的 C 模式和无法直接转换为安全 Rust 的功能，研究人员生成了他们所说的安全 Rust 代码，尽管可能需要进行一些重构。摘自“将 C 转换为 Rust”
+The Register (英国) (01/03/25) Thomas Claburn 查看全文]]></description>
+      <guid>https://www.theregister.com/AMP/2025/01/03/mini_c_microsoft_inria/</guid>
+      <pubDate>Mon, 06 Jan 2025 18:12:24 GMT</pubDate>
     </item>
     <item>
-      <title>希腊正在开发一款应用程序，以遏制 15 岁以下儿童过度使用互联网</title>
-      <link>https://apnews.com/article/athens-greece-internet-safety-apps-government-3cf566a0dea4076c1a6ef68944789257</link>
-      <description><![CDATA[美联社希腊公布了一项计划，计划在 2025 年通过一款政府运营的应用程序加强家长对移动设备的监督。数字治理部长 Dimitris Papastergiou 表示，将于 3 月推出的儿童钱包应用程序旨在保护 15 岁以下儿童免受过度和不当使用互联网的风险。 Papastergiou 表示，这款应用“将使家长控制变得更加容易，它将成为我们官方的国家工具，用于验证用户年龄。”摘自“希腊正在开发一款应用，以遏制 15 岁以下儿童过度使用互联网”
-美联社 (12/30/24) Derek Gatopoulos 查看全文]]></description>
-      <guid>https://apnews.com/article/athens-greece-internet-safety-apps-government-3cf566a0dea4076c1a6ef68944789257</guid>
-      <pubDate>Fri, 03 Jan 2025 18:11:53 GMT</pubDate>
+      <title>乔治梅森大学斥资 2.54 亿美元开设科技中心</title>
+      <link>https://www.washingtonpost.com/education/2025/01/03/george-mason-fuse-building-tech-hub/</link>
+      <description><![CDATA[华盛顿邮报上个月，乔治梅森大学开设了一座耗资 2.54 亿美元的设施，旨在将教授和学生与行业聚集在一起，共同研究尖端技术。这项耗资 10 亿美元的全州努力旨在将北弗吉尼亚州打造为科技中心，部分是通过投资高等教育来实现的。这项努力还包括弗吉尼亚理工学院暨州立大学的创新园区，预计将于明年开放。摘自“乔治梅森开设 2.54 亿美元科技中心”
+华盛顿邮报 (01/03/25) Dan Rosenzweig-Ziff 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.washingtonpost.com/education/2025/01/03/george-mason-fuse-building-tech-hub/</guid>
+      <pubDate>Mon, 06 Jan 2025 18:12:24 GMT</pubDate>
     </item>
     <item>
-      <title>苹果将​​支付 9500 万美元解决 Siri 隐私诉讼</title>
-      <link>https://www.reuters.com/legal/apple-pay-95-million-settle-siri-privacy-lawsuit-2025-01-02/</link>
-      <description><![CDATA[路透社苹果将支付 9500 万美元以和解一宗潜在的集体诉讼，该诉讼声称其语音激活的 Siri 助手侵犯了用户的隐私。安装了 Siri 的移动设备的用户抱怨称，在他们无意中激活 Siri 后，苹果经常会记录私人对话，并将通过这种方式收集的信息分享给广告商等第三方。摘自“苹果将支付 9500 万美元以和解 Siri 隐私诉讼”
-路透社 (01/02/25) Jonathan Stempel 查看全文]]></description>
-      <guid>https://www.reuters.com/legal/apple-pay-95-million-settle-siri-privacy-lawsuit-2025-01-02/</guid>
-      <pubDate>Fri, 03 Jan 2025 18:11:53 GMT</pubDate>
+      <title>将生物化学带入网络空间的马丁·卡普拉斯去世，享年 94 岁</title>
+      <link>https://www.washingtonpost.com/obituaries/2025/01/05/martin-karplus-nobel-biochemistry-dies/</link>
+      <description><![CDATA[华盛顿邮报马丁·卡普拉斯因将分子物理学与计算机建模相结合而获得 2013 年诺贝尔化学奖，于 12 月 28 日去世，享年 94 岁。他帮助创建的虚拟模型使人们能够更深入地研究瞬间的生化反应。诺贝尔奖评选委员会主席斯文·利丁说，这些模型“将化学实验带入了网络空间”。摘自“将生物化学带入网络空间的马丁·卡普拉斯去世，享年 94 岁”
+华盛顿邮报 (01/05/25) 布莱恩·墨菲 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.washingtonpost.com/obituaries/2025/01/05/martin-karplus-nobel-biochemistry-dies/</guid>
+      <pubDate>Mon, 06 Jan 2025 18:12:23 GMT</pubDate>
     </item>
     <item>
-      <title>美国财政部高层领导的电脑遭黑客入侵</title>
-      <link>https://www.bloomberg.com/news/articles/2025-01-02/computers-of-senior-us-treasury-leaders-accessed-in-latest-hack</link>
-      <description><![CDATA[彭博社据内部人士称，最近美国财政部高层领导的电脑遭到入侵，中国支持的黑客入侵了这些电脑，获取了财政部领导的政策决定草案和笔记、行程和旅行计划文件以及一些内部通讯。财政部在 12 月 30 日致国会的一封信中将此次入侵定性为“重大网络安全事件”，并表示黑客通过软件提供商 BeyondTrust 获取了访问权限。摘自“美国财政部高层领导的电脑遭黑客入侵”
-彭博社 (01/02/25) Jake Bleiberg； Jamie Tarabay 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-01-02/computers-of-senior-us-treasury-leaders-accessed-in-latest-hack</guid>
-      <pubDate>Fri, 03 Jan 2025 18:11:52 GMT</pubDate>
+      <title>新奥尔良袭击者使用 Meta 眼镜记录波旁街的情景</title>
+      <link>https://www.independent.co.uk/news/world/americas/crime/new-orleans-attack-meta-glasses-b2674091.html</link>
+      <description><![CDATA[独立报（英国）在袭击发生前的几个月里，新奥尔良元旦袭击案的肇事者至少两次来到这座城市，使用 Meta 智能眼镜录制该地区的视频。在袭击现场，肇事者身上找到了这些眼镜，但警方并不认为肇事者在卡车屠杀期间启用了这些眼镜的直播功能。这位美国陆军退伍军人曾在军队中担任信息技术职务，后来在德勤和安永工作。摘自“新奥尔良袭击者使用 Meta Glasses 录制波旁街”
+英国独立报 (2025 年 1 月 5 日) Josh Marcus 查看全文]]></description>
+      <guid>https://www.independent.co.uk/news/world/americas/crime/new-orleans-attack-meta-glasses-b2674091.html</guid>
+      <pubDate>Mon, 06 Jan 2025 18:12:23 GMT</pubDate>
     </item>
     <item>
-      <title>上诉法院推翻网络中立规则</title>
-      <link>https://www.axios.com/2025/01/02/net-neutrality-fcc-struck-down-appeals-court</link>
-      <description><![CDATA[Axios美国辛辛那提第六巡回上诉法院裁定，美国联邦通信委员会 (FCC) 无权恢复网络中立规则。法院裁定宽带应归类为“信息服务”，而不是 FCC 去年下令称的监管更为严格的“电信服务”。
-摘自“上诉法院推翻网络中立规则”
-Axios (01/02/25) Angrej Singh 查看全文]]></description>
-      <guid>https://www.axios.com/2025/01/02/net-neutrality-fcc-struck-down-appeals-court</guid>
-      <pubDate>Fri, 03 Jan 2025 18:11:52 GMT</pubDate>
+      <title>Raspberry Pi RP2350 破解版</title>
+      <link>https://www.tomshardware.com/raspberry-pi/it-looks-like-the-raspberry-pi-rp2350-hacking-challenge-has-been-beaten-hacker-gains-access-to-the-otp-secret-by-glitching-the-risc-v-cores-to-enable-debugging</link>
+      <description><![CDATA[Tom&#39;s Hardware工程师 Aedan Cullen 在最近的第 38 届混沌通信大会 (38C3) 上透露了他如何破解新的 Raspberry Pi RP2350 微控制器，几周后，20,000 美元 Raspberry Pi 和 Hextree RP2350 黑客挑战赛的获胜者将于 1 月 14 日公布。挑战赛的赞助商在芯片上的 RP2350 的一次性可编程 (OTP) 内存中隐藏了一个秘密，据说是一个一旦设置但永远不会忘记的二进制代码。 Cullen 对 RP2350 芯片的第 53 针使用了电压注入故障攻击，从而打开了“永久禁用”的 RISC-V 内核及其调试访问端口，使他能够读取机密。摘自“Raspberry Pi RP2350 Hacked”
+Tom&#39;s Hardware (01/04/25) Mark Tyson 查看全文]]></description>
+      <guid>https://www.tomshardware.com/raspberry-pi/it-looks-like-the-raspberry-pi-rp2350-hacking-challenge-has-been-beaten-hacker-gains-access-to-the-otp-secret-by-glitching-the-risc-v-cores-to-enable-debugging</guid>
+      <pubDate>Mon, 06 Jan 2025 18:12:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
