@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Tue, 07 Jan 2025 09:09:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 12:16:18 GMT</lastBuildDate>
+    <item>
+      <title>欧洲希望引领电动汽车世界。但其汽车制造商无法跟上</title>
+      <link>https://www.wired.com/story/europe-wanted-to-lead-the-world-on-evs-carmakers-cant-keep-up/</link>
+      <description><![CDATA[廉价电动汽车的缺乏和对内燃机的依赖，使欧洲 2035 年前禁止新汽油汽车的计划面临风险。]]></description>
+      <guid>https://www.wired.com/story/europe-wanted-to-lead-the-world-on-evs-carmakers-cant-keep-up/</guid>
+      <pubDate>Tue, 07 Jan 2025 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Nvidia 的“Cosmos”人工智能帮助人形机器人探索世界</title>
       <link>https://www.wired.com/story/nvidia-cosmos-ai-helps-robots-self-driving-cars/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[尽管受到延迟、受制于竞争对手的电动平台，但福特在欧洲的电动汽车实验仍然聪明且具有创新精神，体现了该汽车制造商在电动汽车领域未能取得突破。]]></description>
       <guid>https://www.wired.com/story/ford-electric-explorer-ev-test-drive/</guid>
       <pubDate>Sat, 21 Dec 2024 14:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌表示不会强迫合作伙伴在反垄断救济方案中使用 Gemini</title>
-      <link>https://www.wired.com/story/google-gemini-antitrust-remedy-search/</link>
-      <description><![CDATA[谷歌在上一个搜索时代占据主导地位。现在，该公司和美国司法部正在就如何为生成式人工智能创造公平的竞争环境展开斗争。]]></description>
-      <guid>https://www.wired.com/story/google-gemini-antitrust-remedy-search/</guid>
-      <pubDate>Sat, 21 Dec 2024 14:15:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
