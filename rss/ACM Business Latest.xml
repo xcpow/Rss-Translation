@@ -4,7 +4,21 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Tue, 07 Jan 2025 03:16:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 06:13:05 GMT</lastBuildDate>
+    <item>
+      <title>Nvidia 的“Cosmos”人工智能帮助人形机器人探索世界</title>
+      <link>https://www.wired.com/story/nvidia-cosmos-ai-helps-robots-self-driving-cars/</link>
+      <description><![CDATA[Nvidia 首席执行官黄仁勋表示，新的基础 AI 模型系列经过了 2000 万小时“人类行走、手部移动和操纵物体”的训练。]]></description>
+      <guid>https://www.wired.com/story/nvidia-cosmos-ai-helps-robots-self-driving-cars/</guid>
+      <pubDate>Tue, 07 Jan 2025 04:31:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nvidia 售价 3000 美元的“个人 AI 超级计算机”将让你摆脱数据中心</title>
+      <link>https://www.wired.com/story/nvidia-personal-supercomputer-ces/</link>
+      <description><![CDATA[Nvidia 首席执行官黄仁勋还在 CES 的主题演讲中宣布了用于创建自主代理的新型 AI 工具。]]></description>
+      <guid>https://www.wired.com/story/nvidia-personal-supercomputer-ces/</guid>
+      <pubDate>Tue, 07 Jan 2025 04:24:50 GMT</pubDate>
+    </item>
     <item>
       <title>Memecoin 恶作剧才刚刚开始</title>
       <link>https://www.wired.com/story/memecoins-cryptocurrency-regulation/</link>
@@ -85,7 +99,7 @@
     <item>
       <title>电动探险者的噩梦发布会表明福特在电动汽车方面做对了什么，做错了什么</title>
       <link>https://www.wired.com/story/ford-electric-explorer-ev-test-drive/</link>
-      <description><![CDATA[尽管受到延迟、受制于竞争对手的电动平台，但福特在欧洲的电动汽车实验仍然聪明且具有创新精神，体现了该汽车制造商在电动汽车领域未能取得突破。]]></description>
+      <description><![CDATA[尽管受到延迟、受制于竞争对手的电动平台，但福特在欧洲的电动汽车实验仍然聪明且具有创新精神，体现了该汽车制造商在电动汽车领域的失败。]]></description>
       <guid>https://www.wired.com/story/ford-electric-explorer-ev-test-drive/</guid>
       <pubDate>Sat, 21 Dec 2024 14:30:00 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[谷歌在上一个搜索时代占据主导地位。现在，该公司和美国司法部正在就如何为生成式人工智能创造公平的竞争环境展开斗争。]]></description>
       <guid>https://www.wired.com/story/google-gemini-antitrust-remedy-search/</guid>
       <pubDate>Sat, 21 Dec 2024 14:15:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 升级其最智能的 AI 模型，提升推理能力</title>
-      <link>https://www.wired.com/story/openai-o3-reasoning-model-google-gemini/</link>
-      <description><![CDATA[在谷歌宣布其首个能够推理问题的模型的第二天，OpenAI 又推出了自己的改进版本。]]></description>
-      <guid>https://www.wired.com/story/openai-o3-reasoning-model-google-gemini/</guid>
-      <pubDate>Fri, 20 Dec 2024 18:00:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用人工智能完成所有节日购物</title>
-      <link>https://www.wired.com/story/chatbots-holiday-shopping-gifts/</link>
-      <description><![CDATA[聊天机器人不太擅长挑选礼物，但这并没有阻止我为了寻找完美的烘焙设备而毁掉整个地球。]]></description>
-      <guid>https://www.wired.com/story/chatbots-holiday-shopping-gifts/</guid>
-      <pubDate>Fri, 20 Dec 2024 17:24:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
