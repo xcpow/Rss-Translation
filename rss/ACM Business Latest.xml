@@ -4,12 +4,19 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Wed, 08 Jan 2025 15:09:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 18:12:16 GMT</lastBuildDate>
+    <item>
+      <title>人工智能社交媒体用户并不总是一个愚蠢的想法</title>
+      <link>https://www.wired.com/story/ai-social-media-users-are-not-always-a-totally-dumb-idea/</link>
+      <description><![CDATA[Meta 的 AI 角色用户可能看似无用，但虚假社交媒体用户有时可以为真实人类行为提供有价值的见解。]]></description>
+      <guid>https://www.wired.com/story/ai-social-media-users-are-not-always-a-totally-dumb-idea/</guid>
+      <pubDate>Wed, 08 Jan 2025 17:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>缺乏事实核查，仇恨言论增多：Meta Goes MAGA</title>
-      <link>https://www.wired.com/plaintext-meta-zuckerberg-maga-trump/</link>
+      <link>https://www.wired.com/story/plaintext-meta-zuckerberg-maga-trump/</link>
       <description><![CDATA[马克·扎克伯格完全采纳了他以前的右翼批评者关于审查制度的言论。]]></description>
-      <guid>https://www.wired.com/plaintext-meta-zuckerberg-maga-trump/</guid>
+      <guid>https://www.wired.com/story/plaintext-meta-zuckerberg-maga-trump/</guid>
       <pubDate>Wed, 08 Jan 2025 12:00:00 GMT</pubDate>
     </item>
     <item>
@@ -102,13 +109,6 @@
       <description><![CDATA[压抑、乏味的城市建筑不仅会让人觉得碍眼，而且有证据表明，它们还会给居民带来实际伤害。为了在 2025 年解决这个问题，我们必须开始为快乐而建。]]></description>
       <guid>https://www.wired.com/story/boring-cities-are-bad-for-your-health/</guid>
       <pubDate>Thu, 02 Jan 2025 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>为了打击人工智能搜索垃圾邮件，请优先考虑真实人类的声音</title>
-      <link>https://www.wired.com/story/optimize-for-authentic-voices-in-a-sea-of-ai-search-spam/</link>
-      <description><![CDATA[反算法策略和人类管理员需要保持网络的诚实。]]></description>
-      <guid>https://www.wired.com/story/optimize-for-authentic-voices-in-a-sea-of-ai-search-spam/</guid>
-      <pubDate>Mon, 30 Dec 2024 09:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

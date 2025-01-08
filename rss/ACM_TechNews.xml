@@ -4,102 +4,113 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Mon, 06 Jan 2025 18:12:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 18:12:11 GMT</lastBuildDate>
     <item>
-      <title>人工智能机器人进入公众世界，结果喜忧参半</title>
-      <link>https://www.wsj.com/articles/ai-robots-are-entering-the-public-worldwith-mixed-results-4ff8d11a</link>
-      <description><![CDATA[《华尔街日报》随着生成式人工智能 (Gen AI) 的出现，人们越来越希望在公共场所更多地采用机器人技术。机器人依靠代码来告诉它们如何执行功能或对特定场景做出反应，从而将它们限制在经过训练的特定操作范围内。ABB 的 Marc Segura 表示，Gen AI 可以让机器人更好地避开障碍物、了解某些物体是什么，甚至接受口头命令。摘自“人工智能机器人进入公共世界，结果喜忧参半”
-《华尔街日报》（2024 年 12 月 31 日）Isabelle Bousquette 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/articles/ai-robots-are-entering-the-public-worldwith-mixed-results-4ff8d11a</guid>
-      <pubDate>Mon, 06 Jan 2025 18:12:27 GMT</pubDate>
+      <title>迪尔将无人驾驶技术推广至中西部农场以外地区</title>
+      <link>https://www.bloomberg.com/news/articles/2025-01-06/deere-goes-driverless-beyond-midwest-farms-to-ease-labor-crunch</link>
+      <description><![CDATA[彭博社迪尔公司的机器人犁已经在中西部农场投入使用，该公司希望将其自动化机器推广到全国各地的果园、采石场和草坪。在拉斯维加斯举行的 CES 贸易展上，迪尔展示了其新的自动化车队，其中包括用于大型农作物农场的自动化拖拉机、用于采石场的自动化铰接式自卸卡车以及用于大型校园的电池供电的自动化割草机。
+
+摘自“Deere 将在中西部农场以外地区实现无人驾驶”
+彭博社 (01/06/25) Michael Hirtzer 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-01-06/deere-goes-driverless-beyond-midwest-farms-to-ease-labor-crunch</guid>
+      <pubDate>Wed, 08 Jan 2025 18:12:10 GMT</pubDate>
     </item>
     <item>
-      <title>楔形文字技术使数据存储量增加四倍</title>
-      <link>https://newatlas.com/good-thinking/indent-data-storage/</link>
-      <description><![CDATA[New Atlas澳大利亚弗林德斯大学的 Abigail Mann 领导的团队开发了一种新系统，通过安装在原子力显微镜上的细尖探针在高科技聚合物上制造纳米级凹痕来存储数据。该方法允许通过廉价聚合物薄膜上的三态三元代码存储数据，与二进制编码相比，该系统的数据密度增加了四倍。该薄膜也是可重写的。摘自“楔形文字技术使数据存储量增加四倍”
-New Atlas (12/31/24) Ben Coxworth 查看全文]]></description>
-      <guid>https://newatlas.com/good-thinking/indent-data-storage/</guid>
-      <pubDate>Mon, 06 Jan 2025 18:12:27 GMT</pubDate>
+      <title>台湾怀疑中国对海底光缆发起最新攻击</title>
+      <link>https://www.politico.eu/article/taiwan-china-undersea-cables-attack-international-telecom-cargo-ship-eu-russia/</link>
+      <description><![CDATA[Politico Europe台湾官员怀疑，一艘悬挂喀麦隆国旗的货船（由香港 Je Yang Trading Limited 所有，由中国公民郭文杰领导）于 1 月 3 日切断了一条国际海底电信电缆。顺鑫 39 号货船被台湾海岸警卫队拦截，但恶劣天气阻碍了船上调查，该船继续驶往韩国港口。摘自“台湾怀疑中国发动最新一次海底电缆袭击”
+Politico Europe (01/05/25) Tom Nicholson 查看全文]]></description>
+      <guid>https://www.politico.eu/article/taiwan-china-undersea-cables-attack-international-telecom-cargo-ship-eu-russia/</guid>
+      <pubDate>Wed, 08 Jan 2025 18:12:10 GMT</pubDate>
     </item>
     <item>
-      <title>TikTok 被控明知直播剥削儿童</title>
-      <link>https://www.reuters.com/sustainability/boards-policy-regulation/tiktok-knew-its-livestreams-exploit-children-utah-lawsuit-claims-2025-01-03/</link>
-      <description><![CDATA[路透社犹他州指控 TikTok 明知其视频直播剥削儿童却不采取任何行动，因为它“从中获利颇丰”。这些指控于周五公开，是去年 6 月提起的一项指控 TikTok 剥削儿童的诉讼的一部分。周五的一份基本未经删节的投诉称，TikTok 通过一系列内部审查了解到其直播功能带来的威胁。摘自“TikTok 知道直播剥削儿童，诉讼声称”
-路透社 (01/03/25) Jonathan Stempel 查看全文]]></description>
-      <guid>https://www.reuters.com/sustainability/boards-policy-regulation/tiktok-knew-its-livestreams-exploit-children-utah-lawsuit-claims-2025-01-03/</guid>
-      <pubDate>Mon, 06 Jan 2025 18:12:26 GMT</pubDate>
+      <title>HDMI 2.2、DisplayPort 2.1b 显示标准发布</title>
+      <link>https://www.tomshardware.com/tech-industry/hdmi-2-2-and-displayport-2-1b-display-standards-announced-offering-greater-bandwidth-and-strict-cable-requirements</link>
+      <description><![CDATA[Tom&#39;s HardwareHDMI 论坛宣布推出 HDMI 2.2，将带宽提高至 96 Gbps，以支持更高的分辨率和刷新率，供数据密集型应用使用。HDMI 2.2 还具有延迟指示协议，可以更好地协调音频和视频信号，防止出现延迟。与此同时，视频电子标准协会宣布了 DisplayPort 2.1b 规范，该规范允许更灵活的设备放置和设置配置。摘自“HDMI 2.2、DisplayPort 2.1b 显示标准公布”
+Tom&#39;s Hardware (01/06/25) Kunal Khullar 查看全文]]></description>
+      <guid>https://www.tomshardware.com/tech-industry/hdmi-2-2-and-displayport-2-1b-display-standards-announced-offering-greater-bandwidth-and-strict-cable-requirements</guid>
+      <pubDate>Wed, 08 Jan 2025 18:12:10 GMT</pubDate>
     </item>
     <item>
-      <title>机械手知道挤压的力度</title>
-      <link>https://www.newscientist.com/article/2458259-delicate-robot-hands-know-just-how-hard-to-squeeze/</link>
-      <description><![CDATA[新科学家约翰霍普金斯大学研究人员开发的机械手可以在用一根手指触摸物体后感知物体的硬度，因此它可以确定抓握物体所需的力量。研究人员在机器人的指尖嵌入了压电传感器，在触摸物体后，将振动转换为电信号，由人工智能模型进行分析，以在 15 毫秒内估算物体的硬度。摘自“机械手知道挤压的力度”
-新科学家 (01/02/25) Matthew Sparkes 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.newscientist.com/article/2458259-delicate-robot-hands-know-just-how-hard-to-squeeze/</guid>
-      <pubDate>Mon, 06 Jan 2025 18:12:26 GMT</pubDate>
+      <title>包含 14,000 份已撤回预印​​本的“WithdrarXiv”数据库正式启动</title>
+      <link>https://www.nature.com/articles/d41586-025-00011-8</link>
+      <description><![CDATA[《自然》计算机科学家创建了一个可搜索的数据库，其中包含自 1991 年预印本服务器推出以来从 arXiv 撤回的 14,000 多项研究。费城宾夕法尼亚大学的 Delip Rao 是描述该工具的一项研究的合著者，他表示，除了提供有关预印本被撤回的原因的见解之外，WithdrarXiv 数据集还旨在推动创建自动化工具，以便向希望提交手稿的研究人员标记潜在错误。
+摘自“‘WithdrarXiv&#39; 14,000 份撤回预印本数据库启动”
+《自然》 (01/06/25) Dalmeet Singh Chawla 查看全文]]></description>
+      <guid>https://www.nature.com/articles/d41586-025-00011-8</guid>
+      <pubDate>Wed, 08 Jan 2025 18:12:09 GMT</pubDate>
     </item>
     <item>
-      <title>科学家寻找海上失踪移民的身份</title>
-      <link>https://www.theguardian.com/science/2025/jan/02/the-nameless-dead-scientists-hunt-for-identities-of-thousands-who-tried-to-reach-europe</link>
-      <description><![CDATA[卫报移民灾难受害者身份识别 (MDVI) 行动正在利用技术，希望能够识别数万名在试图抵达欧洲时死亡的移民。除了使用 DNA 和在社交媒体上发布照片外，MDVI 行动还部署了手持扫描仪来记录已故移民的特征，这些特征可用于创建个人的 3D 图像。摘自“科学家寻找海上失踪移民的身份”
-卫报 (01/02/25) Linda Geddes 查看全文]]></description>
-      <guid>https://www.theguardian.com/science/2025/jan/02/the-nameless-dead-scientists-hunt-for-identities-of-thousands-who-tried-to-reach-europe</guid>
-      <pubDate>Mon, 06 Jan 2025 18:12:26 GMT</pubDate>
+      <title>人工智能解读喉咙振动来造句</title>
+      <link>https://www.newscientist.com/article/2458385-ai-uses-throat-vibrations-to-work-out-what-someone-is-trying-to-say/</link>
+      <description><![CDATA[《新科学家》杂志英国剑桥大学、伦敦大学学院和中国北京航空航天大学的研究人员开发了一种模型，可以根据喉咙肌肉振动和颈动脉脉搏判断说话困难的人想要表达的意思。这些数据是使用纺织应变传感器获取的，并被输入到两个大型语言模型中，这两个模型均基于 GPT-4o-mini。词法合成代理用于识别用户说出的单词并将它们排列成句子，而句子扩展代理则使用上下文信息和用户情绪状态的数据来扩展这些句子。摘自“AI 解读喉咙振动来造句”
+《新科学家》（2025 年 1 月 6 日）Matthew Sparkes 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.newscientist.com/article/2458385-ai-uses-throat-vibrations-to-work-out-what-someone-is-trying-to-say/</guid>
+      <pubDate>Wed, 08 Jan 2025 18:12:09 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能与灵性的交汇点</title>
-      <link>https://www.nytimes.com/2025/01/03/technology/ai-religious-leaders.html</link>
-      <description><![CDATA[《纽约时报》宗教领袖们正在寻求确定人工智能在他们的使命中的位置。这一探索导致了一个以信仰为基础的科技公司行业，这些公司提供人工智能工具，包括可以进行神​​学研究的助手和可以帮助撰写布道文的聊天机器人。虽然许多人同意使用人工智能进行研究或营销或将布道文翻译成不同语言是可以接受的，但其他人认为将其用于布道文写作等是不道德的。摘自“人工智能与灵性的交汇处”
-《纽约时报》（2025 年 1 月 3 日）Eli Tan 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2025/01/03/technology/ai-religious-leaders.html</guid>
-      <pubDate>Mon, 06 Jan 2025 18:12:25 GMT</pubDate>
+      <title>Meta 摆脱事实核查员</title>
+      <link>https://www.cnn.com/2025/01/07/tech/meta-censorship-moderation/index.html</link>
+      <description><![CDATA[CNN马克·扎克伯格周二表示，Meta 将调整其在 Facebook 和 Instagram 上的内容审核政策，用用户生成的“社区笔记”取代事实核查员。扎克伯格这样做是效仿埃隆·马斯克的脚步，后者在收购 Twitter 后解散了该公司的事实核查团队。扎克伯格表示，“事实核查员过于偏向政治，他们破坏的信任比他们创造的还要多。”摘自“Meta 摆脱事实核查员”
+CNN (01/07/25) Clare Duffy 查看全文]]></description>
+      <guid>https://www.cnn.com/2025/01/07/tech/meta-censorship-moderation/index.html</guid>
+      <pubDate>Wed, 08 Jan 2025 18:12:08 GMT</pubDate>
     </item>
     <item>
-      <title>美国因黑客行为制裁北京网络组织</title>
-      <link>https://www.newsweek.com/us-sanctions-beijing-cyber-group-hacking-2009427</link>
-      <description><![CDATA[新闻周刊美国财政部对总部位于中国的 Integrity Technology Group (ITG) 实施制裁，原因是该公司涉嫌参与针对美国关键基础设施的黑客事件。周五宣布的制裁指控这家网络安全公司参与了一系列攻击，这些攻击归因于 Flax Typhoon，这是一个由国家支持的黑客活动，据称与中国政府有关。摘自“美国因黑客行为制裁北京网络组织”
-新闻周刊 (01/03/25) Shannon McDonagh 查看全文]]></description>
-      <guid>https://www.newsweek.com/us-sanctions-beijing-cyber-group-hacking-2009427</guid>
-      <pubDate>Mon, 06 Jan 2025 18:12:25 GMT</pubDate>
+      <title>亚利桑那州立大学研究园区被评为微芯片旗舰研发机构</title>
+      <link>https://www.azcentral.com/story/money/business/tech/2025/01/06/asu-research-park-designated-flagship-rd-facility-for-microchips/77444460007/</link>
+      <description><![CDATA[亚利桑那共和报美国商务部和美国商务部下属非营利实体国家半导体技术进步中心 (Natcast) 周一宣布，亚利桑那州立大学 (ASU) 研究园区已被选为三大国家微芯片研究和开发旗舰设施之一的所在地。商务部长吉娜·雷蒙多表示：“这座新工厂将加强我们的国内供应链，推动先进制造业的突破，并确保美国在这个关键行业的领导地位。”摘自“亚利桑那州立大学研究园区被评为微芯片旗舰研发设施”
+亚利桑那共和报 (01/06/25) Corina Vanek 查看全文]]></description>
+      <guid>https://www.azcentral.com/story/money/business/tech/2025/01/06/asu-research-park-designated-flagship-rd-facility-for-microchips/77444460007/</guid>
+      <pubDate>Wed, 08 Jan 2025 18:12:08 GMT</pubDate>
     </item>
     <item>
-      <title>将 C 转换为 Rust</title>
-      <link>https://www.theregister.com/AMP/2025/01/03/mini_c_microsoft_inria/</link>
-      <description><![CDATA[The Register（英国）法国国家数字科学与技术研究所和微软的计算机科学家开发出一种方法，可以自动将一部分 C 代码转换为安全的 Rust 代码。通过创建 C 的一个子集，避免常见的 C 模式和无法直接转换为安全 Rust 的功能，研究人员生成了他们所说的安全 Rust 代码，尽管可能需要进行一些重构。摘自“将 C 转换为 Rust”
-The Register (英国) (01/03/25) Thomas Claburn 查看全文]]></description>
-      <guid>https://www.theregister.com/AMP/2025/01/03/mini_c_microsoft_inria/</guid>
-      <pubDate>Mon, 06 Jan 2025 18:12:24 GMT</pubDate>
+      <title>Uber、Lyft 为自动驾驶出租车革命做好准备</title>
+      <link>https://www.wsj.com/tech/uber-lyft-self-driving-taxis-a3659c9c</link>
+      <description><![CDATA[《华尔街日报》在疫情期间出售自动驾驶汽车部门后，Uber 和 Lyft 通过与已经成功部署机器人出租车技术的公司合作，进入自动驾驶汽车领域。Uber 已与 Waymo 合作，通过其应用程序在德克萨斯州奥斯汀和亚特兰大提供无人驾驶服务，而 Lyft 则与亚特兰大的 May Mobility 合作。这些拼车公司将负责维护摄像头、激光雷达传感器和其他车辆技术。摘自“Uber、Lyft 为机器人出租车革命做好准备”
+《华尔街日报》（2025 年 1 月 6 日）Preetika Rana 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/tech/uber-lyft-self-driving-taxis-a3659c9c</guid>
+      <pubDate>Wed, 08 Jan 2025 18:12:07 GMT</pubDate>
     </item>
     <item>
-      <title>乔治梅森大学斥资 2.54 亿美元开设科技中心</title>
-      <link>https://www.washingtonpost.com/education/2025/01/03/george-mason-fuse-building-tech-hub/</link>
-      <description><![CDATA[华盛顿邮报上个月，乔治梅森大学开设了一座耗资 2.54 亿美元的设施，旨在将教授和学生与行业聚集在一起，共同研究尖端技术。这项耗资 10 亿美元的全州努力旨在将北弗吉尼亚州打造为科技中心，部分是通过投资高等教育来实现的。这项努力还包括弗吉尼亚理工学院暨州立大学的创新园区，预计将于明年开放。摘自“乔治梅森开设 2.54 亿美元科技中心”
-华盛顿邮报 (01/03/25) Dan Rosenzweig-Ziff 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.washingtonpost.com/education/2025/01/03/george-mason-fuse-building-tech-hub/</guid>
-      <pubDate>Mon, 06 Jan 2025 18:12:24 GMT</pubDate>
+      <title>中国“计算机高铁”投入运营</title>
+      <link>https://www.scmp.com/news/china/science/article/3293547/chinas-high-speed-rail-computers-will-boost-ai-development-scientists</link>
+      <description><![CDATA[南华早报中国已完成中国网络创新环境（CENI）的建设，预计将成为该国的“计算机高铁”。紫金山实验室的研究人员领导了计算机网络的开发，它将通过光通信技术和确定性网络的结合，在中国各地扩展大容量数据服务。 摘自《中国‘计算机高铁’投入运营》
+南华早报 (01/06/25) 张彤 查看全文]]></description>
+      <guid>https://www.scmp.com/news/china/science/article/3293547/chinas-high-speed-rail-computers-will-boost-ai-development-scientists</guid>
+      <pubDate>Wed, 08 Jan 2025 18:12:07 GMT</pubDate>
     </item>
     <item>
-      <title>将生物化学带入网络空间的马丁·卡普拉斯去世，享年 94 岁</title>
-      <link>https://www.washingtonpost.com/obituaries/2025/01/05/martin-karplus-nobel-biochemistry-dies/</link>
-      <description><![CDATA[华盛顿邮报马丁·卡普拉斯因将分子物理学与计算机建模相结合而获得 2013 年诺贝尔化学奖，于 12 月 28 日去世，享年 94 岁。他帮助创建的虚拟模型使人们能够更深入地研究瞬间的生化反应。诺贝尔奖评选委员会主席斯文·利丁说，这些模型“将化学实验带入了网络空间”。摘自“将生物化学带入网络空间的马丁·卡普拉斯去世，享年 94 岁”
-华盛顿邮报 (01/05/25) 布莱恩·墨菲 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.washingtonpost.com/obituaries/2025/01/05/martin-karplus-nobel-biochemistry-dies/</guid>
-      <pubDate>Mon, 06 Jan 2025 18:12:23 GMT</pubDate>
+      <title>拉斯维加斯 Cyber​​truck 爆炸案司机使用 ChatGPT 策划爆炸</title>
+      <link>https://www.nbcnews.com/news/us-news/driver-las-vegas-cybertruck-explosion-used-chatgpt-plan-blast-authorit-rcna186704</link>
+      <description><![CDATA[NBC 新闻元旦当天，在拉斯维加斯特朗普国际酒店门前发生爆炸的特斯拉 Cyber​​truck 司机使用 ChatGPT 学习如何制造爆炸物以及攻击的其他方面。OpenAI 发言人表示，“ChatGPT 使用互联网上已经公开的信息做出回应，并警告不要进行有害或非法活动。”摘自“拉斯维加斯 Cyber​​truck 爆炸案司机使用 ChatGPT 策划爆炸”
+NBC 新闻 (01/07/25) Tom Winter；Andrew Blankstein；Antonio Planas 查看全文]]></description>
+      <guid>https://www.nbcnews.com/news/us-news/driver-las-vegas-cybertruck-explosion-used-chatgpt-plan-blast-authorit-rcna186704</guid>
+      <pubDate>Wed, 08 Jan 2025 18:12:06 GMT</pubDate>
     </item>
     <item>
-      <title>新奥尔良袭击者使用 Meta 眼镜记录波旁街的情景</title>
-      <link>https://www.independent.co.uk/news/world/americas/crime/new-orleans-attack-meta-glasses-b2674091.html</link>
-      <description><![CDATA[独立报（英国）在袭击发生前的几个月里，新奥尔良元旦袭击案的肇事者至少两次来到这座城市，使用 Meta 智能眼镜录制该地区的视频。在袭击现场，肇事者身上找到了这些眼镜，但警方并不认为肇事者在卡车屠杀期间启用了这些眼镜的直播功能。这位美国陆军退伍军人曾在军队中担任信息技术职务，后来在德勤和安永工作。摘自“新奥尔良袭击者使用 Meta Glasses 录制波旁街”
-英国独立报 (2025 年 1 月 5 日) Josh Marcus 查看全文]]></description>
-      <guid>https://www.independent.co.uk/news/world/americas/crime/new-orleans-attack-meta-glasses-b2674091.html</guid>
-      <pubDate>Mon, 06 Jan 2025 18:12:23 GMT</pubDate>
+      <title>网络安全专家 Amit Yoran 去世，享年 54 岁</title>
+      <link>https://edition.cnn.com/2025/01/04/business/amit-yoran-dies-tenable-ceo/index.html</link>
+      <description><![CDATA[CNN网络安全公司 Tenable Holdings 表示，其首席执行官兼董事长 Amit Yoran 于 1 月 3 日因癌症去世，享年 54 岁。Yoran 是总部位于弗吉尼亚州的 Riptech Inc. 的联合创始人，该公司建立了传感器网络来保护企业和政府计算机，创立了威胁检测和响应平台 NetWitness，并担任了一年的美国国土安全部国家网络安全部门主任。摘自“网络安全专家 Amit Yoran 去世，享年 54 岁”
+CNN (01/04/25) Auzinea Bacon 查看全文]]></description>
+      <guid>https://edition.cnn.com/2025/01/04/business/amit-yoran-dies-tenable-ceo/index.html</guid>
+      <pubDate>Wed, 08 Jan 2025 18:12:06 GMT</pubDate>
     </item>
     <item>
-      <title>Raspberry Pi RP2350 破解版</title>
-      <link>https://www.tomshardware.com/raspberry-pi/it-looks-like-the-raspberry-pi-rp2350-hacking-challenge-has-been-beaten-hacker-gains-access-to-the-otp-secret-by-glitching-the-risc-v-cores-to-enable-debugging</link>
-      <description><![CDATA[Tom&#39;s Hardware工程师 Aedan Cullen 在最近的第 38 届混沌通信大会 (38C3) 上透露了他如何破解新的 Raspberry Pi RP2350 微控制器，几周后，20,000 美元 Raspberry Pi 和 Hextree RP2350 黑客挑战赛的获胜者将于 1 月 14 日公布。挑战赛的赞助商在芯片上的 RP2350 的一次性可编程 (OTP) 内存中隐藏了一个秘密，据说是一个一旦设置但永远不会忘记的二进制代码。 Cullen 对 RP2350 芯片的第 53 针使用了电压注入故障攻击，从而打开了“永久禁用”的 RISC-V 内核及其调试访问端口，使他能够读取机密。摘自“Raspberry Pi RP2350 Hacked”
-Tom&#39;s Hardware (01/04/25) Mark Tyson 查看全文]]></description>
-      <guid>https://www.tomshardware.com/raspberry-pi/it-looks-like-the-raspberry-pi-rp2350-hacking-challenge-has-been-beaten-hacker-gains-access-to-the-otp-secret-by-glitching-the-risc-v-cores-to-enable-debugging</guid>
-      <pubDate>Mon, 06 Jan 2025 18:12:23 GMT</pubDate>
+      <title>五角大楼将中国社交媒体巨头列入军事黑名单</title>
+      <link>https://www.nytimes.com/2025/01/06/business/us-chinese-military-companies-tencent-catl.html</link>
+      <description><![CDATA[《纽约时报》美国周一将中国社交媒体和游戏巨头腾讯列为在美国运营的中国军工企业。美国国防部每年都会更新其“中国军工企业”名单，这些企业被认定为拥有军事和商业技术的实体。目前名单上有 134 家公司，该名单已发布在《联邦公报》上。中国芯片制造商长鑫存储科技和无人机制造商 Autel Robotics 也被列入名单。摘自“五角大楼将中国社交媒体巨头列入军事黑名单”
+纽约时报 (01/07/25) Alexandra Stevenson 查看全文 - 可能需要免费注册]]></description>
+      <guid>https://www.nytimes.com/2025/01/06/business/us-chinese-military-companies-tencent-catl.html</guid>
+      <pubDate>Wed, 08 Jan 2025 18:12:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>马来西亚罗兴亚人利用科技来维护身份</title>
+      <link>https://www.scmp.com/week-asia/politics/article/3293316/rohingya-malaysia-turn-tech-fight-erasure-have-identity</link>
+      <description><![CDATA[南华早报计算机科学家 Muhammad Noor（如图）设计了一项计划，利用区块链技术恢复罗兴亚穆斯林的身份，罗兴亚穆斯林是近 300 万无国籍人口。由于缅甸拒绝给予罗兴亚公民身份，许多罗兴亚人没有身份证件。罗兴亚项目正在努力创建一个数字框架，以承认该组织在缅甸的根源，并提供 Noor 所说的无人控制的“去中心化身份”。摘自“马来西亚罗兴亚人求助科技来维护身份”
+南华早报 (01/06/25) Aidan Jones；Hadi Azmi 查看全文]]></description>
+      <guid>https://www.scmp.com/week-asia/politics/article/3293316/rohingya-malaysia-turn-tech-fight-erasure-have-identity</guid>
+      <pubDate>Wed, 08 Jan 2025 18:12:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
