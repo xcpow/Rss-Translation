@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 09 Jan 2025 15:09:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 18:12:20 GMT</lastBuildDate>
+    <item>
+      <title>揭秘政府效率部</title>
+      <link>https://www.wired.com/story/demystifying-doge-elon-musk-vivek-ramaswamy/</link>
+      <description><![CDATA[本周，我们将详细分析由埃隆·马斯克和维韦克·拉马斯瓦米领导的新政府委员会。]]></description>
+      <guid>https://www.wired.com/story/demystifying-doge-elon-musk-vivek-ramaswamy/</guid>
+      <pubDate>Thu, 09 Jan 2025 18:02:47 GMT</pubDate>
+    </item>
     <item>
       <title>Meta 从 X 吸取了所有错误的教训</title>
       <link>https://www.wired.com/story/the-x-ification-of-meta/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[Facebook 上的一个页面网络一直在宣传“燃油滤清器”，但这种滤清器实际上是用来消音的，受到美国法律的严格管制。就连美国军方官员也对此感到担忧。]]></description>
       <guid>https://www.wired.com/story/fuel-filter-gun-silencer-ads-facebook-instagram/</guid>
       <pubDate>Fri, 03 Jan 2025 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>《科学杂志》编辑因不当使用人工智能、费用过高集体辞职</title>
-      <link>https://www.wired.com/story/editors-at-science-journal-resign-en-masse-over-bad-use-of-ai-high-fees/</link>
-      <description><![CDATA[爱思唯尔出版的《人类进化杂志》的成员辞职，理由是人工智能生产流程引入了错误、作者费用高昂以及对编辑独立性的担忧。]]></description>
-      <guid>https://www.wired.com/story/editors-at-science-journal-resign-en-masse-over-bad-use-of-ai-high-fees/</guid>
-      <pubDate>Thu, 02 Jan 2025 23:21:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
