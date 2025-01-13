@@ -4,112 +4,102 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Fri, 10 Jan 2025 18:12:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 18:12:43 GMT</lastBuildDate>
     <item>
-      <title>FCC 为物联网设备推出“网络信任标志”</title>
-      <link>https://thehackernews.com/2025/01/fcc-launches-cyber-trust-mark-for-iot.html</link>
-      <description><![CDATA[黑客新闻美国联邦通信委员会（FCC）推出了针对物联网（IoT）消费设备的网络安全标签。美国网络信任标志包括一个徽标和一个二维码，可将消费者引导至产品的安全信息，包括支持期限、是否提供自动软件补丁和安全更新，以及有关更改默认密码和确保安全设备配置的信息。摘自“FCC 为物联网设备推出‘网络信任标志’”
-The Hacker News (01/08/25) Ravie Lakshmanan 查看全文]]></description>
-      <guid>https://thehackernews.com/2025/01/fcc-launches-cyber-trust-mark-for-iot.html</guid>
-      <pubDate>Fri, 10 Jan 2025 18:12:28 GMT</pubDate>
+      <title>法官戴上 Oculus VR 头盔体验犯罪</title>
+      <link>https://www.forbes.com/sites/larsdaniel/2025/01/06/historic-first-judge-dons-oculus-vr-headset-to-experience-crime/</link>
+      <description><![CDATA[福布斯佛罗里达州布劳沃德县巡回法院法官安德鲁·西格尔成为首位在刑事诉讼中使用虚拟现实 (VR) 技术的美国法官。12 月 14 日，西格尔法官在一场坚守立场的听证会上佩戴了 Oculus Quest 2 VR 耳机，体验了辩护专家在婚礼场地所有者被控严重袭击罪的案件中对被告视角的重现。摘自“法官戴上 Oculus VR 耳机体验犯罪”
+福布斯 (01/06/25) Lars Daniel 查看全文]]></description>
+      <guid>https://www.forbes.com/sites/larsdaniel/2025/01/06/historic-first-judge-dons-oculus-vr-headset-to-experience-crime/</guid>
+      <pubDate>Mon, 13 Jan 2025 18:12:42 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年台湾平均每天遭受 240 万次网络攻击</title>
-      <link>https://www.reuters.com/technology/cybersecurity/chinese-cyberattacks-taiwan-government-averaged-24-mln-day-2024-report-says-2025-01-06/</link>
-      <description><![CDATA[路透社台湾国家安全局的一份报告显示，2024年台湾政府服务网络平均每天遭受240万次网络攻击，高于2023年每天平均120万次。台湾的电信、交通和国防机构是最受攻击的机构之一。报告指出，中国网络部队对大多数攻击事件负责，其中一些攻击与中国在台湾周边的军事演习同时发生。摘自“2024 年台湾平均每天遭受 240 万次网络攻击”
-路透社 (01/06/25) Yimou Lee 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/cybersecurity/chinese-cyberattacks-taiwan-government-averaged-24-mln-day-2024-report-says-2025-01-06/</guid>
-      <pubDate>Fri, 10 Jan 2025 18:12:27 GMT</pubDate>
+      <title>美国计算机协会 (ACM) 研究员 Cynthia Dwork 荣获国家科学奖章</title>
+      <link>https://seas.harvard.edu/news/2025/01/pioneer-modern-data-privacy-cynthia-dwork-wins-national-medal-science</link>
+      <description><![CDATA[哈佛大学约翰·保尔森工程与应用科学学院ACM 院士、哈佛大学计算机科学教授辛西娅·德沃克是 1 月 3 日由总统乔·拜登颁发的国家科学奖章的 14 名获得者之一。她因其在密码学、分布式计算、算法公平性和差分隐私方面的贡献而获得表彰。 Dwork 此前曾于 2022 年 ACM 计算理论研讨会上获得 30 年时间考验奖，并分享了 2007 年 Edsger W. Dijkstra 分布式计算奖。摘自“ACM 研究员 Cynthia Dwork 获得国家科学奖章”
+哈佛大学 John A. Paulson 工程与应用科学学院 (01/08/25) Anne J. Manning 查看全文]]></description>
+      <guid>https://seas.harvard.edu/news/2025/01/pioneer-modern-data-privacy-cynthia-dwork-wins-national-medal-science</guid>
+      <pubDate>Mon, 13 Jan 2025 18:12:41 GMT</pubDate>
     </item>
     <item>
-      <title>自动驾驶汽车无法应对雪天。解决方案可能是更智能的轮胎</title>
-      <link>https://www.wsj.com/articles/self-driving-cars-dont-do-snow-goodyear-says-the-solution-is-smarter-tires-6ccf0e85?mod=business_lead_pos1</link>
-      <description><![CDATA[《华尔街日报》结冰的道路状况是自动驾驶汽车广泛推广的一大障碍。固特异轮胎橡胶公司首席技术官克里斯·赫尔塞尔表示，目前车型的自动紧急制动系统是主要问题。在 2025 年国际消费电子展 (CES) 上，固特异推出了一款原型智能轮胎技术，该技术与荷兰应用科学研究组织合作开发，利用车辆轮胎信息以及车载摄像头获取的天气信息，改进特定条件下刹车时间的计算。摘自“自动驾驶汽车无法应对雪天。解决方案可能是更智能的轮胎”
-华尔街日报 (01/09/25) Isabelle Bousquette 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/articles/self-driving-cars-dont-do-snow-goodyear-says-the-solution-is-smarter-tires-6ccf0e85?mod=business_lead_pos1</guid>
-      <pubDate>Fri, 10 Jan 2025 18:12:27 GMT</pubDate>
+      <title>Chick-fil-A 的柠檬榨汁机器人每天可节省 10,000 小时的工作时间</title>
+      <link>https://www.bloomberg.com/features/2024-chick-fil-a-lemonade/?sref=db2f3qgr</link>
+      <description><![CDATA[彭博社Chick-fil-A 在洛杉矶附近的一家工厂使用大量机器人每天榨取多达 160 万磅的柠檬，几乎无需人工干预，榨出的柠檬汁将运往全国各地的餐厅。据该公司称，该工厂每天可为所有地点的员工节省多达 10,000 小时的工作时间，并减少手指受伤。取消这项杂务旨在让 Chick-fil-A 的工作更具吸引力，并让员工专注于客户。摘自“Chick-fil-A 的柠檬榨汁机器人每天节省 10,000 小时的工作时间”
+彭博社 (01/08/25) Daniela Sirtori 查看全文]]></description>
+      <guid>https://www.bloomberg.com/features/2024-chick-fil-a-lemonade/?sref=db2f3qgr</guid>
+      <pubDate>Mon, 13 Jan 2025 18:12:41 GMT</pubDate>
     </item>
     <item>
-      <title>智能环让用户控制家用设备</title>
-      <link>https://www.washington.edu/news/2025/01/08/smart-ring-camera-iris/</link>
-      <description><![CDATA[华盛顿大学新闻 华盛顿大学研究人员开发的智能戒指可以控制智能设备，为语音命令提供替代方案。IRIS 戒指配有一个小型摄像头，用户可以将其对准智能设备，然后单击内置按钮，该按钮会通过蓝牙将设备的图像发送到控制该设备的手机。戒指可用于调整设备，或操作渐变控件。摘自“智能戒指让用户控制家用设备”
-华盛顿大学新闻 (01/08/25) Stefan Milne 查看全文]]></description>
-      <guid>https://www.washington.edu/news/2025/01/08/smart-ring-camera-iris/</guid>
-      <pubDate>Fri, 10 Jan 2025 18:12:27 GMT</pubDate>
+      <title>空气动力学传感器可加速自动驾驶汽车</title>
+      <link>https://www.popsci.com/technology/autonomous-vehicles-sensors/</link>
+      <description><![CDATA[大众科学中国武汉理工大学的研究人员使用优化 AI 算法来识别自动驾驶汽车 (AV) 传感器堆栈的结构变化，使其更符合空气动力学。研究人员发现，调整车顶传感器的形状可能最有利于减少阻力。模拟显示，与标准传感器设置相比，优化的传感器设计的总气动阻力下降了 3.44%。摘自“空气动力学传感器可以加速自动驾驶汽车”
+大众科学 (01/07/25) Mack Degeurin 查看全文]]></description>
+      <guid>https://www.popsci.com/technology/autonomous-vehicles-sensors/</guid>
+      <pubDate>Mon, 13 Jan 2025 18:12:41 GMT</pubDate>
     </item>
     <item>
-      <title>北约派遣舰队护卫波罗的海电缆</title>
-      <link>https://www.politico.eu/article/nato-fleet-guard-baltic-sea-cables-finnish-ships-russia-moscow-estonia-mark-rutte/</link>
-      <description><![CDATA[Politico Europe北约正在向波罗的海部署 10 艘舰艇，以保护水下基础设施，特别是能源和数据电缆，免受破坏。此前，该地区最近发生了几起破坏事件，包括四条电信电缆断裂。作为这项努力的一部分，英国领导的联合远征军表示将使用人工智能来加强船舶交通监控。摘自“北约派遣舰队守卫波罗的海电缆”
-Politico Europe (01/07/25) Ketrin Jochecová 查看全文]]></description>
-      <guid>https://www.politico.eu/article/nato-fleet-guard-baltic-sea-cables-finnish-ships-russia-moscow-estonia-mark-rutte/</guid>
-      <pubDate>Fri, 10 Jan 2025 18:12:26 GMT</pubDate>
+      <title>OpenAI 关闭了开发 AI 驱动炮塔的开发人员</title>
+      <link>https://gizmodo.com/openai-shuts-down-developer-who-made-ai-powered-gun-turret-2000548092</link>
+      <description><![CDATA[GizmodoOpenAI 已切断一名开发人员的联系，该开发人员开发了一种设备，该设备可以响应 ChatGPT 发出的命令，瞄准并射击自动步枪。Reddit 上的一段视频显示，开发人员大声朗读射击命令，随后他身边的步枪开始瞄准并射击附近的墙壁，该设备因此而走红。Open AI 表示，在观看视频后，“我们主动发现了这种违反我们政策的行为，并通知开发人员停止这种活动。”摘自“OpenAI 关闭了制造人工智能枪塔的开发人员”
+Gizmodo (01/09/25) Thomas Maxwell 查看全文 - 链接至出版物主页]]></description>
+      <guid>https://gizmodo.com/openai-shuts-down-developer-who-made-ai-powered-gun-turret-2000548092</guid>
+      <pubDate>Mon, 13 Jan 2025 18:12:40 GMT</pubDate>
     </item>
     <item>
-      <title>欧盟法院因违反数据保护法对欧盟处以罚款</title>
-      <link>https://www.reuters.com/world/europe/first-eu-court-fines-eu-breaching-own-data-protection-law-2025-01-08/</link>
-      <description><![CDATA[路透社欧盟普通法院对欧盟委员会作出裁决，认定其在没有适当保护措施的情况下将一名德国公民的个人数据转移到美国，违反了欧盟的《通用数据保护条例》（GDPR）。在注册会议时，该个人使用了欧盟登录网页上的“使用 Facebook 登录”选项。根据 GDPR，随后将用户的 IP 地址转移到美国的 Meta Platforms 是不允许的。
-
-摘自“欧盟法院因违反数据保护法对欧盟处以罚款”
-路透社 (01/08/25) Charlotte Van Campenhout 查看全文]]></description>
-      <guid>https://www.reuters.com/world/europe/first-eu-court-fines-eu-breaching-own-data-protection-law-2025-01-08/</guid>
-      <pubDate>Fri, 10 Jan 2025 18:12:25 GMT</pubDate>
+      <title>研究发现无线网络技术存在重大漏洞</title>
+      <link>https://news.northeastern.edu/2025/01/09/wifi-security-vulnerability-research/</link>
+      <description><![CDATA[东北全球新闻据东北大学研究人员称，MU-MIMO（多用户、多输入、多输出）设置程序中的一个安全漏洞可能允许威胁行为者在 Wi-Fi 网络上部署恶意信息，从而大幅降低互联网速度。MU-MIMO 是 Wi-Fi 网络的一个关键组件，东北大学的 Francesco Restuccia 表示，可能需要更新 Wi-Fi 标准以解决此漏洞。摘自“研究发现无线网络技术的主要漏洞”
+东北全球新闻 (01/09/25) Cesareo Contreras 查看全文]]></description>
+      <guid>https://news.northeastern.edu/2025/01/09/wifi-security-vulnerability-research/</guid>
+      <pubDate>Mon, 13 Jan 2025 18:12:40 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 的新 o3 模型让计算机科学专业的学生大吃一惊</title>
-      <link>https://www.axios.com/2025/01/07/openai-o3-college-students-computer-science</link>
-      <description><![CDATA[Axios一些计算机科学 (CS) 专业的学生表示担心人工智能会让他们失业，并指出了 OpenAI 的新 o3 推理模型。X 上的一位用户说，“CS 毕业生可能真的被淘汰了”，而另一位用户说他们“可能需要转型”。佐治亚理工学院 AI Hub 的 Pascal Van Hentenryck 表示，人工智能不会取代对计算机科学家的需求，而是会减轻他们从事“简单而乏味的任务”的需求。摘自“OpenAI 的新 o3 模型让 CS 专业学生感到震惊”
-Axios (01/07/25) Angrej Singh 查看全文]]></description>
-      <guid>https://www.axios.com/2025/01/07/openai-o3-college-students-computer-science</guid>
-      <pubDate>Fri, 10 Jan 2025 18:12:25 GMT</pubDate>
+      <title>外骨骼帮助青少年在受伤后重新行走</title>
+      <link>https://www.post-gazette.com/news/health/2025/01/11/robotic-exoskeleton-mary-maloney-trampoline-pam-surano/stories/202501110020</link>
+      <description><![CDATA[匹兹堡邮报18 岁的 Mary Maloney 在 13 岁时因脊髓中风导致腰部以下瘫痪，现在她能够再次行走，这要归功于支撑她行走的机器人外骨骼。匹兹堡 AHN 郊区医院的 Gary Hoover 表示，eksoBionics 的 EksoNR 外骨骼可以检测到原本无法观察到的肌肉收缩的启动。 “反馈给我们一些迹象，表明我们之前认为没有的肌肉活动出现了。”摘自“外骨骼让青少年在受伤后重新行走”
+匹兹堡邮报 (01/11/25) Anya Sostek 查看全文]]></description>
+      <guid>https://www.post-gazette.com/news/health/2025/01/11/robotic-exoskeleton-mary-maloney-trampoline-pam-surano/stories/202501110020</guid>
+      <pubDate>Mon, 13 Jan 2025 18:12:39 GMT</pubDate>
     </item>
     <item>
-      <title>41% 的公司计划到 2030 年因人工智能而裁员</title>
-      <link>https://edition.cnn.com/2025/01/08/business/ai-job-losses-by-2030-intl/index.html</link>
-      <description><![CDATA[CNN根据世界经济论坛对数百家大公司的调查，随着人工智能自动化某些任务，全球约 41% 的雇主打算在本世纪末之前缩减员工规模。约四分之三的受访者表示，他们计划在 2025 年至 2030 年期间重新培训/提升员工技能，以便更好地与人工智能一起工作。摘自“41% 的公司计划到 2030 年因人工智能而减少员工数量”
-CNN (01/08/25) Olesya Dmitracova 查看全文]]></description>
-      <guid>https://edition.cnn.com/2025/01/08/business/ai-job-losses-by-2030-intl/index.html</guid>
-      <pubDate>Fri, 10 Jan 2025 18:12:24 GMT</pubDate>
+      <title>多用途光学量子计算机登陆日本</title>
+      <link>https://spectrum.ieee.org/optical-quantum-computer</link>
+      <description><![CDATA[IEEE Spectrum日本理化学研究所量子计算中心、日本电报电话公司和云计算平台 Fixstars Amplify 的研究人员开发的光学量子计算机据说是第一台为通用应用而开发的计算机。这台可编程量子计算机有 100 个模拟量子输入，使用光子而不是超导电子电路，由于没有冷却系统，因此很容易扩展。摘自“多用途光学量子计算机登陆日本”
+IEEE Spectrum (01/09/25) Tim Hornyak 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/optical-quantum-computer</guid>
+      <pubDate>Mon, 13 Jan 2025 18:12:39 GMT</pubDate>
     </item>
     <item>
-      <title>无人机揭秘高加索地区 3000 年历史的“巨型堡垒”</title>
-      <link>https://www.the-independent.com/news/science/archaeology/ancient-fortress-caucasus-mountains-europe-asia-b2675701.html</link>
-      <description><![CDATA[英国独立报英国克兰菲尔德大学的研究人员使用无人机对高加索山脉中一座拥有 3000 年历史的堡垒德马尼西斯戈拉进行了评估，发现其面积比之前想象的要大近 40 倍。克兰菲尔德大学的 Nathaniel Erb-Satullo 表示，无人机拍摄了近 11,000 张照片，先进的软件将这些照片转换为高分辨率数字高程模型和合成图片，这些图片可以显示每个点，就像您直视它一样。摘自“无人机揭示高加索 3,000 年历史的‘巨型堡垒’的秘密”
-英国《独立报》（2025 年 1 月 8 日）Vishwam Sankaran 查看全文]]></description>
-      <guid>https://www.the-independent.com/news/science/archaeology/ancient-fortress-caucasus-mountains-europe-asia-b2675701.html</guid>
-      <pubDate>Fri, 10 Jan 2025 18:12:24 GMT</pubDate>
+      <title>3 小时之内制作完成的 3D 打印显微镜</title>
+      <link>https://www.newscientist.com/article/2462618-worlds-first-fully-3d-printed-microscope-made-in-under-3-hours/</link>
+      <description><![CDATA[《新科学家》英国思克莱德大学的盖尔·麦康奈尔和同事在不到三个小时内就组装了一台 3D 打印显微镜，成本不到 50 英镑。显微镜主体采用了 OpenFlexure（一种公开的 3D 打印科学仪器资源）的设计。然后，该团队添加了他们设计的 3D 打印透明塑料镜片、从商店购买的相机和光源。该装置由 Raspberry Pi 计算机处理器控制。摘自“3 小时内制作完成的 3D 打印显微镜”
+《新科学家》（2025 年 1 月 10 日）Karmela Padavic-Callaghan 查看全文]]></description>
+      <guid>https://www.newscientist.com/article/2462618-worlds-first-fully-3d-printed-microscope-made-in-under-3-hours/</guid>
+      <pubDate>Mon, 13 Jan 2025 18:12:38 GMT</pubDate>
     </item>
     <item>
-      <title>CES 上“最差产品”存在数据风险并造成浪费</title>
-      <link>https://apnews.com/article/ces-worst-show-tech-ai-ba0f44b2befe4296f6ff46e7cd76903e</link>
-      <description><![CDATA[美联社电子商务网站 iFixit 发布了第四届年度“最差产品”奖，评选对象为今年消费电子展上展出的产品。Ultrahuman 的 Rare Luxury Smart Ring 被评为“最难修复”产品；它的价格为 2,200 美元，并且电池无法更换，否则会损坏设备。博世的 Revol 婴儿床因收集“过多”的婴儿数据而受到批评。iFixit 的 Liz Chamberlain 表示：“我们看到越来越多的这类产品内置了监控技术。”摘自“‘最差产品’ CES 产品风险数据，造成浪费”
-美联社 (01/09/25) Sarah Parvini 查看全文]]></description>
-      <guid>https://apnews.com/article/ces-worst-show-tech-ai-ba0f44b2befe4296f6ff46e7cd76903e</guid>
-      <pubDate>Fri, 10 Jan 2025 18:12:23 GMT</pubDate>
+      <title>全球最大超级计算机助力保障核武器安全</title>
+      <link>https://www.axios.com/2025/01/10/lawrence-livermore-lab-supercomputer</link>
+      <description><![CDATA[Axios劳伦斯利弗莫尔国家实验室的 El Capitan 是全球最强大的超级计算机，于周四正式投入使用。El Capitan 的峰值性能可达每秒 2.79 百亿亿次浮点运算，即每秒 2.79 千万亿次计算，将负责处理机密事务，包括帮助保护美国的核武器储备。摘自“全球最大的超级计算机帮助保护核武器”
+Axios (01/10/25) Ina Fried 查看全文]]></description>
+      <guid>https://www.axios.com/2025/01/10/lawrence-livermore-lab-supercomputer</guid>
+      <pubDate>Mon, 13 Jan 2025 18:12:38 GMT</pubDate>
     </item>
     <item>
-      <title>医学错误信息很容易被注入法学硕士课程</title>
-      <link>https://arstechnica.com/science/2025/01/its-remarkably-easy-to-inject-new-medical-misinformation-into-llms/</link>
-      <description><![CDATA[Ars Technica纽约大学的研究人员发现，一旦错误信息占训练数据的 0.001%，大型语言模型 (LLM) 就会受到损害。该团队使用 GPT 3.5 生成“高质量”的医学错误信息，然后将其插入到 The Pile 中，这是一个常用的 LLM 培训数据库。由此产生的 LLM 不仅针对其目标主题生成错误信息，还针对其他医学主题生成错误信息。摘自“医学错误信息很容易注入 LLM”
-Ars Technica (01/08/25) John Timmer 查看全文]]></description>
-      <guid>https://arstechnica.com/science/2025/01/its-remarkably-easy-to-inject-new-medical-misinformation-into-llms/</guid>
-      <pubDate>Fri, 10 Jan 2025 18:12:23 GMT</pubDate>
+      <title>ASML 支持的荷兰大学因网络攻击而停课</title>
+      <link>https://www.bloomberg.com/news/articles/2025-01-12/asml-backed-dutch-university-suspends-classes-after-cyber-attack?sref=db2f3qgr</link>
+      <description><![CDATA[彭博社荷兰埃因霍温理工大学在遭受网络攻击后关闭了计算机网络，该校至少暂停上课至周二。该大学是芯片机器制造商 ASML Holding NV 的人才输送基地，而 ASML Holding NV 是全球唯一一家生产高端芯片所需先进光刻机的制造商。该公司去年承诺向该大学提供约 8200 万美元，用于培训博士生并升级学校的洁净室大楼，这是研究芯片所需的无尘无污染环境。摘自“ASML 支持的荷兰大学在遭受网络攻击后停课”
+彭博社 (01/12/25) Cagan Koc 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-01-12/asml-backed-dutch-university-suspends-classes-after-cyber-attack?sref=db2f3qgr</guid>
+      <pubDate>Mon, 13 Jan 2025 18:12:37 GMT</pubDate>
     </item>
     <item>
-      <title>训练人工智能预测基因活动</title>
-      <link>https://www.washingtonpost.com/science/2025/01/09/ai-predicts-gene-activity/</link>
-      <description><![CDATA[华盛顿邮报哥伦比亚大学团队领导的科学家训练了一种人工智能算法，以预测细胞内的基因将如何驱动其行为。通用表达转换器 (GET) 算法的训练方法类似于 ChatGPT 学习语言语法的方法，在此过程中学习控制基因的基本规则。摘自“训练人工智能预测基因活动”
-华盛顿邮报 (01/09/25) 马克·约翰逊 查看全文]]></description>
-      <guid>https://www.washingtonpost.com/science/2025/01/09/ai-predicts-gene-activity/</guid>
-      <pubDate>Fri, 10 Jan 2025 18:12:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>“冰箱”让量子计算机实现自动纠错</title>
-      <link>https://www.newscientist.com/article/2463346-quantum-computers-get-automatic-error-correction-for-the-first-time/</link>
-      <description><![CDATA[《新科学家》瑞典查尔姆斯理工大学的 Simone Gasparinetti 及其同事开发了一种量子“制冷机”，可以确保量子计算机的计算从一开始就无错误，无需干预或额外硬件。研究人员从微型超导电路中设计了两个量子比特和一个量子三元组。这三个组件之间的相互作用经过精心设计，当目标量子比特拥有过多能量而导致错误时，热量会自动从中流出并流入其他两个元素。摘自“‘冰箱’让量子计算机自动纠错”
-《新科学家》（2025 年 1 月 9 日）Karmela Padavic-Callaghan 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.newscientist.com/article/2463346-quantum-computers-get-automatic-error-correction-for-the-first-time/</guid>
-      <pubDate>Fri, 10 Jan 2025 18:12:22 GMT</pubDate>
+      <title>美国宇航局将向月球发射耐辐射计算机</title>
+      <link>https://executivegov.com/2025/01/nasa-radiation-tolerant-computer-firefly-aerospace/</link>
+      <description><![CDATA[ExecutiveGov蒙大拿州立大学研究人员开发的耐辐射计算机将作为 NASA 商业月球有效载荷服务计划的一部分被送往月球。该任务旨在解决高能粒子撞击太空计算机时发生的级联系统故障问题。RadPC 计算机旨在识别粒子撞击的位置并在后台修复受影响的区域。摘自“NASA 将耐辐射计算机送上月球”
+ExecutiveGov (01/10/25) Elodie Collins 查看全文]]></description>
+      <guid>https://executivegov.com/2025/01/nasa-radiation-tolerant-computer-firefly-aerospace/</guid>
+      <pubDate>Mon, 13 Jan 2025 18:12:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
