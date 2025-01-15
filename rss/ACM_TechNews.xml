@@ -4,102 +4,102 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Mon, 13 Jan 2025 18:12:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 18:11:38 GMT</lastBuildDate>
     <item>
-      <title>法官戴上 Oculus VR 头盔体验犯罪</title>
-      <link>https://www.forbes.com/sites/larsdaniel/2025/01/06/historic-first-judge-dons-oculus-vr-headset-to-experience-crime/</link>
-      <description><![CDATA[福布斯佛罗里达州布劳沃德县巡回法院法官安德鲁·西格尔成为首位在刑事诉讼中使用虚拟现实 (VR) 技术的美国法官。12 月 14 日，西格尔法官在一场坚守立场的听证会上佩戴了 Oculus Quest 2 VR 耳机，体验了辩护专家在婚礼场地所有者被控严重袭击罪的案件中对被告视角的重现。摘自“法官戴上 Oculus VR 耳机体验犯罪”
-福布斯 (01/06/25) Lars Daniel 查看全文]]></description>
-      <guid>https://www.forbes.com/sites/larsdaniel/2025/01/06/historic-first-judge-dons-oculus-vr-headset-to-experience-crime/</guid>
-      <pubDate>Mon, 13 Jan 2025 18:12:42 GMT</pubDate>
+      <title>预测可持续人工智能模型的计算和能源成本</title>
+      <link>https://news.ncsu.edu/2025/01/forecasting-for-sustainable-ai/</link>
+      <description><![CDATA[北卡罗来纳州立大学新闻北卡罗来纳州立大学研究人员开发的一种方法可以预测更新 AI 模型时与计算资源和能源消耗相关的成本，从而让用户能够做出明智的决定，确定何时更新 AI 模型以提高其可持续性。表示偏移量化估计器 (RESQUE) 方法允许用户将深度学习模型最初训练的数据集与将用于更新模型的数据集进行比较。摘自“预测计算、可持续人工智能模型的能源成本”
+北卡罗来纳州立大学新闻 (01/13/25) Matt Shipman 查看全文]]></description>
+      <guid>https://news.ncsu.edu/2025/01/forecasting-for-sustainable-ai/</guid>
+      <pubDate>Wed, 15 Jan 2025 18:11:38 GMT</pubDate>
     </item>
     <item>
-      <title>美国计算机协会 (ACM) 研究员 Cynthia Dwork 荣获国家科学奖章</title>
-      <link>https://seas.harvard.edu/news/2025/01/pioneer-modern-data-privacy-cynthia-dwork-wins-national-medal-science</link>
-      <description><![CDATA[哈佛大学约翰·保尔森工程与应用科学学院ACM 院士、哈佛大学计算机科学教授辛西娅·德沃克是 1 月 3 日由总统乔·拜登颁发的国家科学奖章的 14 名获得者之一。她因其在密码学、分布式计算、算法公平性和差分隐私方面的贡献而获得表彰。 Dwork 此前曾于 2022 年 ACM 计算理论研讨会上获得 30 年时间考验奖，并分享了 2007 年 Edsger W. Dijkstra 分布式计算奖。摘自“ACM 研究员 Cynthia Dwork 获得国家科学奖章”
-哈佛大学 John A. Paulson 工程与应用科学学院 (01/08/25) Anne J. Manning 查看全文]]></description>
-      <guid>https://seas.harvard.edu/news/2025/01/pioneer-modern-data-privacy-cynthia-dwork-wins-national-medal-science</guid>
-      <pubDate>Mon, 13 Jan 2025 18:12:41 GMT</pubDate>
+      <title>FBI 从美国 Windows PC 中清除中国 PlugX 恶意软件</title>
+      <link>https://www.theregister.com/2025/01/14/fbi_french_cops_boot_chinas/</link>
+      <description><![CDATA[The Register（英国）美国联邦调查局 (FBI) 与法国执法部门合作，获得了授权，允许他们从数千台受感染的 Windows 计算机上远程清除 PlugX 恶意软件。FBI 表示，一个名为 Mustang Panda（又名 Twill Typhoon）的中国相关组织已经侵入美国、欧洲和印度太平洋地区的“众多政府和私人组织”。该恶意软件允许威胁行为者远程访问和控制受感染的机器、窃取文件并部署其他恶意软件。摘自“FBI 从美国 Windows PC 中清除中国 PlugX 恶意软件”
+The Register（英国）（2025 年 1 月 14 日）Jessica Lyons 查看全文]]></description>
+      <guid>https://www.theregister.com/2025/01/14/fbi_french_cops_boot_chinas/</guid>
+      <pubDate>Wed, 15 Jan 2025 18:11:37 GMT</pubDate>
     </item>
     <item>
-      <title>Chick-fil-A 的柠檬榨汁机器人每天可节省 10,000 小时的工作时间</title>
-      <link>https://www.bloomberg.com/features/2024-chick-fil-a-lemonade/?sref=db2f3qgr</link>
-      <description><![CDATA[彭博社Chick-fil-A 在洛杉矶附近的一家工厂使用大量机器人每天榨取多达 160 万磅的柠檬，几乎无需人工干预，榨出的柠檬汁将运往全国各地的餐厅。据该公司称，该工厂每天可为所有地点的员工节省多达 10,000 小时的工作时间，并减少手指受伤。取消这项杂务旨在让 Chick-fil-A 的工作更具吸引力，并让员工专注于客户。摘自“Chick-fil-A 的柠檬榨汁机器人每天节省 10,000 小时的工作时间”
-彭博社 (01/08/25) Daniela Sirtori 查看全文]]></description>
-      <guid>https://www.bloomberg.com/features/2024-chick-fil-a-lemonade/?sref=db2f3qgr</guid>
-      <pubDate>Mon, 13 Jan 2025 18:12:41 GMT</pubDate>
+      <title>发起“向亿万富翁免费开放社交媒体”活动</title>
+      <link>https://www.businessinsider.com/free-our-feeds-takes-on-billionaire-controlled-social-media-platforms-2025-1</link>
+      <description><![CDATA[商业内幕一群科技领袖和非营利组织高管发起了一场运动，旨在推动社交媒体摆脱“亿万富翁控制”。 “Free Our Feeds”运动旨在围绕 AT 协议创建独立的基础设施，AT 协议是一种开源技术，为 Bluesky 社交网络提供支持，并允许任何人构建自己的社交媒体应用程序。摘自“发起运动，让社交媒体摆脱亿万富翁的控制”
+商业内幕 (01/13/25) Pranav Dixit 查看全文]]></description>
+      <guid>https://www.businessinsider.com/free-our-feeds-takes-on-billionaire-controlled-social-media-platforms-2025-1</guid>
+      <pubDate>Wed, 15 Jan 2025 18:11:37 GMT</pubDate>
     </item>
     <item>
-      <title>空气动力学传感器可加速自动驾驶汽车</title>
-      <link>https://www.popsci.com/technology/autonomous-vehicles-sensors/</link>
-      <description><![CDATA[大众科学中国武汉理工大学的研究人员使用优化 AI 算法来识别自动驾驶汽车 (AV) 传感器堆栈的结构变化，使其更符合空气动力学。研究人员发现，调整车顶传感器的形状可能最有利于减少阻力。模拟显示，与标准传感器设置相比，优化的传感器设计的总气动阻力下降了 3.44%。摘自“空气动力学传感器可以加速自动驾驶汽车”
-大众科学 (01/07/25) Mack Degeurin 查看全文]]></description>
-      <guid>https://www.popsci.com/technology/autonomous-vehicles-sensors/</guid>
-      <pubDate>Mon, 13 Jan 2025 18:12:41 GMT</pubDate>
+      <title>这位图灵奖获得者认为人工智能前景光明，但也存在危险</title>
+      <link>https://timesofindia.indiatimes.com/technology/times-techies/for-this-turing-award-winner-ai-shows-great-promise-and-peril/articleshow/117101125.cms</link>
+      <description><![CDATA[《印度时报》ACM A.M. 图灵奖获得者 Raj Reddy 在最近于印度科学研究所举行的纪念演讲中讨论了人工智能的优点和潜在缺点。Reddy 表示，人工智能可以通过消除文盲和语言障碍以及促进个性化教学来实现教育的民主化。然而，他警告称，人工智能可能会取代工作岗位，并可能被用于军事目的和虚假宣传活动。摘自“这位图灵奖得主认为人工智能前景光明，但也存在危险”
+《印度时报》（2025 年 1 月 10 日）Akhil George 查看全文]]></description>
+      <guid>https://timesofindia.indiatimes.com/technology/times-techies/for-this-turing-award-winner-ai-shows-great-promise-and-peril/articleshow/117101125.cms</guid>
+      <pubDate>Wed, 15 Jan 2025 18:11:36 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 关闭了开发 AI 驱动炮塔的开发人员</title>
-      <link>https://gizmodo.com/openai-shuts-down-developer-who-made-ai-powered-gun-turret-2000548092</link>
-      <description><![CDATA[GizmodoOpenAI 已切断一名开发人员的联系，该开发人员开发了一种设备，该设备可以响应 ChatGPT 发出的命令，瞄准并射击自动步枪。Reddit 上的一段视频显示，开发人员大声朗读射击命令，随后他身边的步枪开始瞄准并射击附近的墙壁，该设备因此而走红。Open AI 表示，在观看视频后，“我们主动发现了这种违反我们政策的行为，并通知开发人员停止这种活动。”摘自“OpenAI 关闭了制造人工智能枪塔的开发人员”
-Gizmodo (01/09/25) Thomas Maxwell 查看全文 - 链接至出版物主页]]></description>
-      <guid>https://gizmodo.com/openai-shuts-down-developer-who-made-ai-powered-gun-turret-2000548092</guid>
-      <pubDate>Mon, 13 Jan 2025 18:12:40 GMT</pubDate>
+      <title>新型 3D 打印机或将改变太空建设</title>
+      <link>https://www.bbc.com/news/articles/cy4mnl40m9mo</link>
+      <description><![CDATA[BBC英国格拉斯哥大学的 Gilles Bailet 获得了一项专利，该专利是他开发的零重力 3D 打印技术。原型 3D 打印机使用颗粒材料代替细丝。Bailet 说：“我们的想法是能够使用 3D 打印直接在太空中制造物品，这样一来，我们就打开了太空回收的大门，实现了完整的循环经济。”摘自“新型 3D 打印机可以改变太空建设”
+BBC (01/13/25) 查看全文]]></description>
+      <guid>https://www.bbc.com/news/articles/cy4mnl40m9mo</guid>
+      <pubDate>Wed, 15 Jan 2025 18:11:36 GMT</pubDate>
     </item>
     <item>
-      <title>研究发现无线网络技术存在重大漏洞</title>
-      <link>https://news.northeastern.edu/2025/01/09/wifi-security-vulnerability-research/</link>
-      <description><![CDATA[东北全球新闻据东北大学研究人员称，MU-MIMO（多用户、多输入、多输出）设置程序中的一个安全漏洞可能允许威胁行为者在 Wi-Fi 网络上部署恶意信息，从而大幅降低互联网速度。MU-MIMO 是 Wi-Fi 网络的一个关键组件，东北大学的 Francesco Restuccia 表示，可能需要更新 Wi-Fi 标准以解决此漏洞。摘自“研究发现无线网络技术的主要漏洞”
-东北全球新闻 (01/09/25) Cesareo Contreras 查看全文]]></description>
-      <guid>https://news.northeastern.edu/2025/01/09/wifi-security-vulnerability-research/</guid>
-      <pubDate>Mon, 13 Jan 2025 18:12:40 GMT</pubDate>
+      <title>机器人可以帮助日本老年农民</title>
+      <link>https://www.cnn.com/science/japan-robot-farming-kisui-adam-spc/index.html</link>
+      <description><![CDATA[CNN受 Rover 启发的机器人可以补充日本老龄化的农业劳动力，其中 80% 的劳动力年龄在 60 岁以上。Kisui Tech 与千叶大学合作开发和测试半自动机器人，这些机器人能够采摘农产品、割草、喷洒农田和穿越崎岖地形。Adam 机器人将提供全尺寸版本，适用于苹果和梨农场，能够携带农产品或肥料，以及迷你版本，适用于葡萄和柿子农场。摘自“机器人可以帮助日本老龄农民”
+CNN (01/13/25) Jacopo Prisco；Evan John 查看全文]]></description>
+      <guid>https://www.cnn.com/science/japan-robot-farming-kisui-adam-spc/index.html</guid>
+      <pubDate>Wed, 15 Jan 2025 18:11:36 GMT</pubDate>
     </item>
     <item>
-      <title>外骨骼帮助青少年在受伤后重新行走</title>
-      <link>https://www.post-gazette.com/news/health/2025/01/11/robotic-exoskeleton-mary-maloney-trampoline-pam-surano/stories/202501110020</link>
-      <description><![CDATA[匹兹堡邮报18 岁的 Mary Maloney 在 13 岁时因脊髓中风导致腰部以下瘫痪，现在她能够再次行走，这要归功于支撑她行走的机器人外骨骼。匹兹堡 AHN 郊区医院的 Gary Hoover 表示，eksoBionics 的 EksoNR 外骨骼可以检测到原本无法观察到的肌肉收缩的启动。 “反馈给我们一些迹象，表明我们之前认为没有的肌肉活动出现了。”摘自“外骨骼让青少年在受伤后重新行走”
-匹兹堡邮报 (01/11/25) Anya Sostek 查看全文]]></description>
-      <guid>https://www.post-gazette.com/news/health/2025/01/11/robotic-exoskeleton-mary-maloney-trampoline-pam-surano/stories/202501110020</guid>
-      <pubDate>Mon, 13 Jan 2025 18:12:39 GMT</pubDate>
+      <title>美国禁止在汽车中使用俄罗斯和中国的软件和硬件</title>
+      <link>https://abcnews.go.com/Politics/us-ban-russian-chinese-software-hardware-vehicles/story?id=117627935</link>
+      <description><![CDATA[ABC 新闻周二，《联邦公报》公布了一项最终规定，禁止俄罗斯和中国的硬件和软件集成到美国乘用车的连接系统中，也禁止将软件集成到自动驾驶系统中。在制定规则的过程中，美国工业和安全局发现，源自这两个国家的某些技术对美国国家安全构成了不应有且不可接受的风险。摘自“美国禁止俄罗斯、中国汽车软件和硬件”
+ABC 新闻 (01/14/25) Luke Barr 查看全文]]></description>
+      <guid>https://abcnews.go.com/Politics/us-ban-russian-chinese-software-hardware-vehicles/story?id=117627935</guid>
+      <pubDate>Wed, 15 Jan 2025 18:11:35 GMT</pubDate>
     </item>
     <item>
-      <title>多用途光学量子计算机登陆日本</title>
-      <link>https://spectrum.ieee.org/optical-quantum-computer</link>
-      <description><![CDATA[IEEE Spectrum日本理化学研究所量子计算中心、日本电报电话公司和云计算平台 Fixstars Amplify 的研究人员开发的光学量子计算机据说是第一台为通用应用而开发的计算机。这台可编程量子计算机有 100 个模拟量子输入，使用光子而不是超导电子电路，由于没有冷却系统，因此很容易扩展。摘自“多用途光学量子计算机登陆日本”
-IEEE Spectrum (01/09/25) Tim Hornyak 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/optical-quantum-computer</guid>
-      <pubDate>Mon, 13 Jan 2025 18:12:39 GMT</pubDate>
+      <title>台湾商务部解除对台积电海外业务的限制</title>
+      <link>https://www.taipeitimes.com/News/biz/archives/2025/01/11/2003829992?s=31</link>
+      <description><![CDATA[台北时报（台湾）台湾经济部表示，不会禁止台湾半导体制造公司（台积电）在美国投资下一代 2 纳米芯片生产。经济部部长郭敬明（如图）表示：“私营企业应该根据自己的技术进步做出自己的商业决策。”台积电第一家美国晶圆厂将于今年上半年投产；第二座预计于 2028 年开放。摘自“台湾工信部解除对台积电的海外限制”
+台北时报（台湾）（2025 年 1 月 11 日）Lisa Wang 查看全文]]></description>
+      <guid>https://www.taipeitimes.com/News/biz/archives/2025/01/11/2003829992?s=31</guid>
+      <pubDate>Wed, 15 Jan 2025 18:11:35 GMT</pubDate>
     </item>
     <item>
-      <title>3 小时之内制作完成的 3D 打印显微镜</title>
-      <link>https://www.newscientist.com/article/2462618-worlds-first-fully-3d-printed-microscope-made-in-under-3-hours/</link>
-      <description><![CDATA[《新科学家》英国思克莱德大学的盖尔·麦康奈尔和同事在不到三个小时内就组装了一台 3D 打印显微镜，成本不到 50 英镑。显微镜主体采用了 OpenFlexure（一种公开的 3D 打印科学仪器资源）的设计。然后，该团队添加了他们设计的 3D 打印透明塑料镜片、从商店购买的相机和光源。该装置由 Raspberry Pi 计算机处理器控制。摘自“3 小时内制作完成的 3D 打印显微镜”
-《新科学家》（2025 年 1 月 10 日）Karmela Padavic-Callaghan 查看全文]]></description>
-      <guid>https://www.newscientist.com/article/2462618-worlds-first-fully-3d-printed-microscope-made-in-under-3-hours/</guid>
-      <pubDate>Mon, 13 Jan 2025 18:12:38 GMT</pubDate>
+      <title>拜登签署行政命令，确保人工智能数据中心的电力供应</title>
+      <link>https://www.reuters.com/technology/artificial-intelligence/biden-issue-executive-order-ensure-power-ai-data-centers-2025-01-14/</link>
+      <description><![CDATA[路透社拜登总统周二签署了一项行政命令，为数据中心建设提供联邦支持，以支持人工智能的发展。该命令要求租赁美国国防部和能源部拥有的联邦土地，以容纳千兆瓦级数据中心和新的清洁能源设施。它要求利用联邦土地建设数据中心的公司购买“适当份额”的美国制造的半导体。摘自“拜登签署行政命令，确保人工智能数据中心的电力供应”
+路透社 (01/14/25) David Shepardson 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/artificial-intelligence/biden-issue-executive-order-ensure-power-ai-data-centers-2025-01-14/</guid>
+      <pubDate>Wed, 15 Jan 2025 18:11:34 GMT</pubDate>
     </item>
     <item>
-      <title>全球最大超级计算机助力保障核武器安全</title>
-      <link>https://www.axios.com/2025/01/10/lawrence-livermore-lab-supercomputer</link>
-      <description><![CDATA[Axios劳伦斯利弗莫尔国家实验室的 El Capitan 是全球最强大的超级计算机，于周四正式投入使用。El Capitan 的峰值性能可达每秒 2.79 百亿亿次浮点运算，即每秒 2.79 千万亿次计算，将负责处理机密事务，包括帮助保护美国的核武器储备。摘自“全球最大的超级计算机帮助保护核武器”
-Axios (01/10/25) Ina Fried 查看全文]]></description>
-      <guid>https://www.axios.com/2025/01/10/lawrence-livermore-lab-supercomputer</guid>
-      <pubDate>Mon, 13 Jan 2025 18:12:38 GMT</pubDate>
+      <title>英国首相计划在全英国范围内“释放人工智能”以促进经济增长</title>
+      <link>https://www.bbc.com/news/articles/crr05jykzkxo</link>
+      <description><![CDATA[BBC英国首相凯尔·斯塔默爵士周一公布了《人工智能机遇行动计划》，政府计划通过该计划利用人工智能更有效地提供公共服务。该计划呼吁建立“人工智能增长区”并加强国内基础设施建设，科技公司将投入 140 亿英镑用于开发大型数据中心和技术中心。摘自“首相计划在英国‘释放人工智能’以促进增长”
+BBC (01/13/25) Liv McMahon；Zoe Kleinman；Charlotte Edwards 查看全文]]></description>
+      <guid>https://www.bbc.com/news/articles/crr05jykzkxo</guid>
+      <pubDate>Wed, 15 Jan 2025 18:11:34 GMT</pubDate>
     </item>
     <item>
-      <title>ASML 支持的荷兰大学因网络攻击而停课</title>
-      <link>https://www.bloomberg.com/news/articles/2025-01-12/asml-backed-dutch-university-suspends-classes-after-cyber-attack?sref=db2f3qgr</link>
-      <description><![CDATA[彭博社荷兰埃因霍温理工大学在遭受网络攻击后关闭了计算机网络，该校至少暂停上课至周二。该大学是芯片机器制造商 ASML Holding NV 的人才输送基地，而 ASML Holding NV 是全球唯一一家生产高端芯片所需先进光刻机的制造商。该公司去年承诺向该大学提供约 8200 万美元，用于培训博士生并升级学校的洁净室大楼，这是研究芯片所需的无尘无污染环境。摘自“ASML 支持的荷兰大学在遭受网络攻击后停课”
-彭博社 (01/12/25) Cagan Koc 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-01-12/asml-backed-dutch-university-suspends-classes-after-cyber-attack?sref=db2f3qgr</guid>
-      <pubDate>Mon, 13 Jan 2025 18:12:37 GMT</pubDate>
+      <title>美国出台规则指导人工智能全球传播</title>
+      <link>https://www.nytimes.com/2025/01/13/us/politics/biden-administration-rules-artificial-intelligence.html</link>
+      <description><![CDATA[《纽约时报》拜登政府周一发布了有关如何与外国共享人工智能芯片和模型的规则。这些规则本质上将世界分为三类：美国和 18 个盟国，不受任何限制；已经受到美国武器禁运的国家，将继续面临现有的人工智能芯片采购禁令；以及所有其他国家，将受到可协商的进口上限限制。摘自《美国制定规则指导人工智能的全球传播》
+《纽约时报》（2025 年 1 月 14 日）Ana Swanson 查看全文]]></description>
+      <guid>https://www.nytimes.com/2025/01/13/us/politics/biden-administration-rules-artificial-intelligence.html</guid>
+      <pubDate>Wed, 15 Jan 2025 18:11:33 GMT</pubDate>
     </item>
     <item>
-      <title>美国宇航局将向月球发射耐辐射计算机</title>
-      <link>https://executivegov.com/2025/01/nasa-radiation-tolerant-computer-firefly-aerospace/</link>
-      <description><![CDATA[ExecutiveGov蒙大拿州立大学研究人员开发的耐辐射计算机将作为 NASA 商业月球有效载荷服务计划的一部分被送往月球。该任务旨在解决高能粒子撞击太空计算机时发生的级联系统故障问题。RadPC 计算机旨在识别粒子撞击的位置并在后台修复受影响的区域。摘自“NASA 将耐辐射计算机送上月球”
-ExecutiveGov (01/10/25) Elodie Collins 查看全文]]></description>
-      <guid>https://executivegov.com/2025/01/nasa-radiation-tolerant-computer-firefly-aerospace/</guid>
-      <pubDate>Mon, 13 Jan 2025 18:12:37 GMT</pubDate>
+      <title>困扰欧洲的机器人问题</title>
+      <link>https://www.politico.eu/article/robot-europe-trails-korea-us-annual-single-market-and-competitiveness-report/</link>
+      <description><![CDATA[Politico Europe根据欧盟即将发布的一份新“竞争力指南”报告草案，欧洲在使用可执行工作相关任务的机器人方面落后于其他地区。欧盟委员会估计，欧盟平均每 1,000 名员工拥有 22 台机器人，而美国为 29 台，世界领先者韩国为 101 台。欧盟委员会还在草案中提出了对其科技行业的其他担忧。摘自“困扰欧洲的机器人问题”
+Politico Europe (01/13/25) Mathieu Pollet 查看全文]]></description>
+      <guid>https://www.politico.eu/article/robot-europe-trails-korea-us-annual-single-market-and-competitiveness-report/</guid>
+      <pubDate>Wed, 15 Jan 2025 18:11:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
