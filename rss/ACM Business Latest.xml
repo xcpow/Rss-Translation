@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Wed, 15 Jan 2025 21:07:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 00:40:49 GMT</lastBuildDate>
+    <item>
+      <title>毕竟，没有多少 Meta 员工需要搬到德克萨斯州</title>
+      <link>https://www.wired.com/story/not-many-meta-employees-move-to-texas-content-moderation/</link>
+      <description><![CDATA[马克·扎克伯格表示，加州的内容审核团队将迁往德克萨斯州，以帮助减少偏见。实际上，员工们并不认为会有太多的强制搬迁。]]></description>
+      <guid>https://www.wired.com/story/not-many-meta-employees-move-to-texas-content-moderation/</guid>
+      <pubDate>Wed, 15 Jan 2025 21:46:55 GMT</pubDate>
+    </item>
     <item>
       <title>为什么在人工智能领域“打败中国”也会带来风险</title>
       <link>https://www.wired.com/story/why-beating-china-in-ai-brings-its-own-risks/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[在周五发布的一项新提案中，消费者金融保护局正在寻求对 Roblox 和其他视频游戏中使用的虚拟货币（如美元）进行监管。]]></description>
       <guid>https://www.wired.com/story/the-government-wants-to-protect-robux-from-hackers-cfpb/</guid>
       <pubDate>Fri, 10 Jan 2025 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>最新未删节的法庭文件显示，Meta 秘密利用臭名昭著的盗版数据库训练其人工智能</title>
-      <link>https://www.wired.com/story/new-documents-unredacted-meta-copyright-ai-lawsuit/</link>
-      <description><![CDATA[最重要的人工智能版权法律纠纷之一刚刚出现重大转折。]]></description>
-      <guid>https://www.wired.com/story/new-documents-unredacted-meta-copyright-ai-lawsuit/</guid>
-      <pubDate>Thu, 09 Jan 2025 22:33:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
