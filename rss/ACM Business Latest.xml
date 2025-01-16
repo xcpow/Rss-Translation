@@ -4,7 +4,35 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 16 Jan 2025 09:09:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 12:15:40 GMT</lastBuildDate>
+    <item>
+      <title>为什么现在确定洛杉矶的空气质量如此令人困惑</title>
+      <link>https://www.wired.com/story/confusing-air-quality-los-angeles-aqi/</link>
+      <description><![CDATA[计算野火和其他事件造成的空气污染变得更加复杂。但这并不意味着它一定更准确。]]></description>
+      <guid>https://www.wired.com/story/confusing-air-quality-los-angeles-aqi/</guid>
+      <pubDate>Thu, 16 Jan 2025 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub 打击 Deepfake 色情内容的行动仍然没有奏效</title>
+      <link>https://www.wired.com/story/githubs-deepfake-porn-crackdown-still-isnt-working/</link>
+      <description><![CDATA[《连线》杂志发现，非经同意的露骨图片创作者使用的十多个程序逃避了开发者平台的检测。]]></description>
+      <guid>https://www.wired.com/story/githubs-deepfake-porn-crackdown-still-isnt-working/</guid>
+      <pubDate>Thu, 16 Jan 2025 11:02:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>唐纳德·特朗普的真相社交分享值多少钱？</title>
+      <link>https://www.wired.com/story/donald-trump-truth-social-stock-tracker/</link>
+      <description><![CDATA[这位即将上任的美国总统也是一位社交媒体大亨。我们正在统计他在 Truth Social 的持股情况，以及他的命运如何随着这家公司的起起伏伏而变化。]]></description>
+      <guid>https://www.wired.com/story/donald-trump-truth-social-stock-tracker/</guid>
+      <pubDate>Thu, 16 Jan 2025 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>首位比特币总统？追踪特朗普的加密货币关系</title>
+      <link>https://www.wired.com/story/mapping-donald-trump-crypto-connections/</link>
+      <description><![CDATA[加密货币高管投入了数百万美元的捐款来左右这次选举，现在他们的人掌权了。以下是唐纳德·特朗普的“加密货币内阁”可能如何塑造未来四年。]]></description>
+      <guid>https://www.wired.com/story/mapping-donald-trump-crypto-connections/</guid>
+      <pubDate>Thu, 16 Jan 2025 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>毕竟，没有多少 Meta 员工需要搬到德克萨斯州</title>
       <link>https://www.wired.com/story/not-many-meta-employees-move-to-texas-content-moderation/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[从隧道到特斯拉工厂，再到 SpaceX 发射设施，地球上几乎没有一个地方不受人类最富有的回复人的引力吸引。]]></description>
       <guid>https://www.wired.com/story/mapping-elon-musk-global-empire/</guid>
       <pubDate>Mon, 13 Jan 2025 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>富人统治世界</title>
-      <link>https://www.wired.com/story/editor-letter-rich-men-rule-the-world/</link>
-      <description><![CDATA[谁拥有世界上绝大多数的财富？男人。男人太多了——从特朗普、马斯克和普京到每一位首席执行官、加密货币专家和太阳能专家。]]></description>
-      <guid>https://www.wired.com/story/editor-letter-rich-men-rule-the-world/</guid>
-      <pubDate>Mon, 13 Jan 2025 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能财务顾问瞄准月光族年轻人</title>
-      <link>https://www.wired.com/story/ai-financial-advisers-apps-chatbots/</link>
-      <description><![CDATA[人工智能金融应用程序正在通过个性化的聊天机器人向 Z 世代和千禧一代用户提供理财建议，并大力推销他们。]]></description>
-      <guid>https://www.wired.com/story/ai-financial-advisers-apps-chatbots/</guid>
-      <pubDate>Mon, 13 Jan 2025 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>拉丁美洲事实核查人员为 Meta 的下一步行动做好准备</title>
-      <link>https://www.wired.com/story/hispanic-fact-checkers-react-meta-disinformation/</link>
-      <description><![CDATA[目前 Meta 仅在美国放弃了事实核查。一旦其扩张，这一举措将对拉丁美洲新闻生态系统造成重大打击。]]></description>
-      <guid>https://www.wired.com/story/hispanic-fact-checkers-react-meta-disinformation/</guid>
-      <pubDate>Sat, 11 Jan 2025 18:03:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>政府希望保护 Robux 免受黑客攻击</title>
-      <link>https://www.wired.com/story/the-government-wants-to-protect-robux-from-hackers-cfpb/</link>
-      <description><![CDATA[在周五发布的一项新提案中，消费者金融保护局正在寻求对 Roblox 和其他视频游戏中使用的虚拟货币（如美元）进行监管。]]></description>
-      <guid>https://www.wired.com/story/the-government-wants-to-protect-robux-from-hackers-cfpb/</guid>
-      <pubDate>Fri, 10 Jan 2025 14:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
