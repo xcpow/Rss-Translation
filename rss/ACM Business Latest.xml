@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 16 Jan 2025 21:08:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 00:40:29 GMT</lastBuildDate>
+    <item>
+      <title>Mira Murati 的 AI 初创公司首次招聘员工，包括前 OpenAI 高管</title>
+      <link>https://www.wired.com/story/mira-murati-startup-hire-staff/</link>
+      <description><![CDATA[对于穆拉蒂的神秘初创公司来说，这是一次重大收获，该公司还从许多其他知名人工智能公司挖走了工程师和研究人员。]]></description>
+      <guid>https://www.wired.com/story/mira-murati-startup-hire-staff/</guid>
+      <pubDate>Fri, 17 Jan 2025 00:01:56 GMT</pubDate>
+    </item>
     <item>
       <title>当你将自己的生活交给人工智能助手时会发生什么？</title>
       <link>https://www.wired.com/story/uncanny-valley-podcast-9-ai-assistants/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>你点击的体育新闻可能是人工智能的失误</title>
       <link>https://www.wired.com/story/ai-slop-sports-news-sites/</link>
-      <description><![CDATA[一份与《连线》杂志独家分享的新报告展示了拥有数百个网站的人工智能内容工厂如何成功将知名广告商拉入他们的计划。]]></description>
+      <description><![CDATA[一份独家向《连线》杂志分享的新报告展示了拥有数百个网站的人工智能内容工厂如何成功将知名广告商拉入他们的计划。]]></description>
       <guid>https://www.wired.com/story/ai-slop-sports-news-sites/</guid>
       <pubDate>Wed, 15 Jan 2025 12:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[有人说，他们加入小红书是为了在 TikTok 被禁的可能性越来越大后，对美国政府表示不满。]]></description>
       <guid>https://www.wired.com/story/red-note-tiktok-xiaohongshu/</guid>
       <pubDate>Mon, 13 Jan 2025 20:03:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国新规旨在通过限制世界来阻止中国获取人工智能芯片和模型</title>
-      <link>https://www.wired.com/story/new-us-rule-aims-to-block-chinas-access-to-ai-chips-and-models-by-restricting-the-world/</link>
-      <description><![CDATA[美国政府宣布了一项激进计划，以控制向大多数国家出口尖端人工智能技术。]]></description>
-      <guid>https://www.wired.com/story/new-us-rule-aims-to-block-chinas-access-to-ai-chips-and-models-by-restricting-the-world/</guid>
-      <pubDate>Mon, 13 Jan 2025 11:06:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
