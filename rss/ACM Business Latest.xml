@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Mon, 20 Jan 2025 18:11:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2025 21:07:51 GMT</lastBuildDate>
+    <item>
+      <title>特朗普 Memecoin 的“敛财”经济学</title>
+      <link>https://www.wired.com/story/the-trump-memecoins-money-grab-economics/</link>
+      <description><![CDATA[当唐纳德·特朗普推出自己的加密货币时，他凭空创造了难以想象的财富。但这需要有人付出代价。]]></description>
+      <guid>https://www.wired.com/story/the-trump-memecoins-money-grab-economics/</guid>
+      <pubDate>Mon, 20 Jan 2025 19:58:30 GMT</pubDate>
+    </item>
     <item>
       <title>在 TikTok 禁令不确定的情况下，RedNote 招募美国网红推广其应用</title>
       <link>https://www.wired.com/story/rednote-is-asking-american-influencers-to-promote-its-app/</link>
@@ -90,13 +97,6 @@
       <pubDate>Thu, 16 Jan 2025 11:02:58 GMT</pubDate>
     </item>
     <item>
-      <title>唐纳德·特朗普的真相社交分享值多少钱？</title>
-      <link>https://www.wired.com/story/donald-trump-truth-social-stock-tracker/</link>
-      <description><![CDATA[这位即将上任的美国总统也是一位社交媒体大亨。我们正在统计他在 Truth Social 的持股情况，以及他的命运如何随着这家公司的起起伏伏而变化。]]></description>
-      <guid>https://www.wired.com/story/donald-trump-truth-social-stock-tracker/</guid>
-      <pubDate>Thu, 16 Jan 2025 11:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>首位比特币总统？追踪特朗普的加密货币关系</title>
       <link>https://www.wired.com/story/mapping-donald-trump-crypto-connections/</link>
       <description><![CDATA[加密货币高管投入了数百万美元的捐款来左右这次选举，现在他们的人掌权了。以下是唐纳德·特朗普的“加密货币内阁”可能如何塑造未来四年。]]></description>
@@ -104,11 +104,11 @@
       <pubDate>Thu, 16 Jan 2025 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>毕竟，没有多少 Meta 员工需要搬到德克萨斯州</title>
-      <link>https://www.wired.com/story/not-many-meta-employees-move-to-texas-content-moderation/</link>
-      <description><![CDATA[马克·扎克伯格表示，加州的内容审核团队将迁往德克萨斯州，以帮助减少偏见。实际上，员工们并不认为会有太多的强制搬迁。]]></description>
-      <guid>https://www.wired.com/story/not-many-meta-employees-move-to-texas-content-moderation/</guid>
-      <pubDate>Wed, 15 Jan 2025 21:46:55 GMT</pubDate>
+      <title>唐纳德·特朗普的真相社交分享值多少钱？</title>
+      <link>https://www.wired.com/story/donald-trump-truth-social-stock-tracker/</link>
+      <description><![CDATA[这位即将上任的美国总统也是一位社交媒体大亨。我们正在统计他在 Truth Social 的持股情况，以及他的命运如何随着这家公司的起起伏伏而变化。]]></description>
+      <guid>https://www.wired.com/story/donald-trump-truth-social-stock-tracker/</guid>
+      <pubDate>Thu, 16 Jan 2025 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
