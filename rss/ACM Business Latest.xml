@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 23 Jan 2025 18:12:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 21:07:56 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 的 Operator 让 ChatGPT 为你使用网络</title>
+      <link>https://www.wired.com/story/openai-sets-chatgpt-loose-on-the-web/</link>
+      <description><![CDATA[这家引领人工智能聊天机器人热潮的公司现在希望人工智能不仅仅是说话。]]></description>
+      <guid>https://www.wired.com/story/openai-sets-chatgpt-loose-on-the-web/</guid>
+      <pubDate>Thu, 23 Jan 2025 18:27:11 GMT</pubDate>
+    </item>
     <item>
       <title>为什么马克·扎克伯格要抛弃人工事实核查员</title>
       <link>https://www.wired.com/story/uncanny-valley-podcast-10-meta-ends-fact-checking/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[这家中国控股的电动汽车品牌每售出一辆汽车就会亏损数万美元。随着美国对中国汽车的销售禁令迫在眉睫，该公司需要迅速扭转局面。]]></description>
       <guid>https://www.wired.com/story/polestars-plan-to-save-itself-from-ruin/</guid>
       <pubDate>Fri, 17 Jan 2025 11:56:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>RedNote 争相招聘英语内容版主</title>
-      <link>https://www.wired.com/story/xiaohongshu-english-moderators-red-note/</link>
-      <description><![CDATA[本周在中国发布的招聘信息显示，小红书（也称为 RedNote）正难以应对从 TikTok 加入该平台的大量新用户。]]></description>
-      <guid>https://www.wired.com/story/xiaohongshu-english-moderators-red-note/</guid>
-      <pubDate>Fri, 17 Jan 2025 02:07:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
