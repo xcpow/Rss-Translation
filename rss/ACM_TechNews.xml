@@ -4,112 +4,110 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Wed, 22 Jan 2025 18:12:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 18:11:45 GMT</lastBuildDate>
     <item>
-      <title>人工智能利用冷原子组装量子计算机</title>
-      <link>https://www.newscientist.com/article/2463469-ai-could-assemble-a-record-breaking-quantum-computer-out-of-cold-atoms/</link>
-      <description><![CDATA[新科学家中国科技大学研究人员开发的量子计算机具有 2,024 个原子，这些原子由人工智能组装成一个超冷网格。研究人员开发了一种人工智能算法，能够在 60 毫秒内推荐一系列激光束和原子来形成网格，而不管网格的大小如何。
-摘自“人工智能用冷原子组装量子计算机”
-新科学家 (2025 年 1 月 14 日) Karmela Padavic-Callaghan 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.newscientist.com/article/2463469-ai-could-assemble-a-record-breaking-quantum-computer-out-of-cold-atoms/</guid>
-      <pubDate>Wed, 22 Jan 2025 18:12:11 GMT</pubDate>
+      <title>欧盟要求 X 提供有关算法的内部文件</title>
+      <link>https://www.theguardian.com/technology/2025/jan/17/eu-asks-x-for-internal-documents-about-algorithms-as-it-steps-up-investigation</link>
+      <description><![CDATA[英国卫报欧盟委员会要求X提供与其“推荐系统”算法相关的内部文件，以调查该社交媒体平台是否违反了欧盟的内容审核规则。自2023年12月以来，X一直根据欧盟《数字服务法》接受调查，调查内容涉及其如何控制非法内容的传播和信息操纵。摘自“欧盟要求X提供有关算法的内部文件”
+英国卫报（2025年1月17日） 查看全文]]></description>
+      <guid>https://www.theguardian.com/technology/2025/jan/17/eu-asks-x-for-internal-documents-about-algorithms-as-it-steps-up-investigation</guid>
+      <pubDate>Fri, 24 Jan 2025 18:11:45 GMT</pubDate>
     </item>
     <item>
-      <title>联邦贸易委员会关于个性化“监控定价”的报告</title>
-      <link>https://www.pcmag.com/news/ftc-companies-are-using-your-data-to-set-individualized-prices</link>
-      <description><![CDATA[PC Magazine美国联邦贸易委员会 (FTC) 的一份新报告详细说明了一些公司如何使用个人数据来显示同一产品的不同价格，FTC 称之为“监视定价”。该机构表示，零售商正在雇用“中介公司”通过算法调整和确定他们的价格。这一发现是在去年 FTC 询问了八名“中间人”之后得出的。公司披露如何结合计算机算法和人们的个人信息来调整定价。摘自“FTC 关于个性化‘监控定价’的报告”
-PC Magazine (01/19/25) Will McCurdy 查看全文]]></description>
-      <guid>https://www.pcmag.com/news/ftc-companies-are-using-your-data-to-set-individualized-prices</guid>
-      <pubDate>Wed, 22 Jan 2025 18:12:11 GMT</pubDate>
+      <title>自学习芯片模仿大脑功能</title>
+      <link>https://biz.chosun.com/en/en-science/2025/01/17/D64AZNCJGJGURIC3VHP6P6M5EQ/</link>
+      <description><![CDATA[Chosun Biz (韩国)韩国研究人员开发的一种微型计算芯片可以像人脑一样自我学习和纠正错误。例如，在处理视频流时，该芯片会自学如何将移动物体与背景分开，从而随着时间的推移提高其性能。韩国科学技术高级研究院的研究人员表示，新芯片“就像一个智能工作空间，一切都触手可及，而不是在办公桌和文件柜之间移动。”摘自“自学芯片模仿大脑功能”
+Chosun Biz (韩国) (01/17/25) Hong A-reum 查看全文]]></description>
+      <guid>https://biz.chosun.com/en/en-science/2025/01/17/D64AZNCJGJGURIC3VHP6P6M5EQ/</guid>
+      <pubDate>Fri, 24 Jan 2025 18:11:44 GMT</pubDate>
     </item>
     <item>
-      <title>亚马逊因无人机坠毁事件暂停送货</title>
-      <link>https://www.bloomberg.com/news/articles/2025-01-17/amazon-pauses-drone-deliveries-after-aircraft-crashed-in-rain</link>
-      <description><![CDATA[彭博社亚马逊已暂停商用无人机送货服务，此前该公司两款最新型号的无人机在测试设施内因雨天坠毁。该公司表示，已暂停德克萨斯州和亚利桑那州的无人机送货服务，以修复飞机的软件。美国联邦航空管理局于 10 月批准 MK30 无人机开始运营。摘自“亚马逊在坠机后暂停无人机送货服务”
-彭博社 (01/17/25) Matt Day 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-01-17/amazon-pauses-drone-deliveries-after-aircraft-crashed-in-rain</guid>
-      <pubDate>Wed, 22 Jan 2025 18:12:10 GMT</pubDate>
+      <title>开源离子阱量子计算机问世</title>
+      <link>https://interestingengineering.com/innovation/worlds-first-open-source-trapped-ion-quantum-computer-unveiled</link>
+      <description><![CDATA[有趣的工程加拿大非营利组织开放量子设计 (OQD) 推出了一款开源、全栈、离子阱量子计算机，目标是让量子硬件、软件和教育材料免费提供。加入 OQD 平台的首批合作伙伴包括加拿大滑铁卢大学和 Xanadu Quantum Technologies、非营利组织 Unitary Foundation 和量子软件公司 Haiqu。该平台旨在帮助克服量子计算面临的挑战，包括缺乏硬件访问和熟练人才。摘自“开源离子阱量子计算机揭晓”
+有趣的工程 (01/17/25) Aman Tripathi 查看全文]]></description>
+      <guid>https://interestingengineering.com/innovation/worlds-first-open-source-trapped-ion-quantum-computer-unveiled</guid>
+      <pubDate>Fri, 24 Jan 2025 18:11:44 GMT</pubDate>
     </item>
     <item>
-      <title>Linux 内核更新降低数据中心的能源消耗</title>
-      <link>https://cs.uwaterloo.ca/news/cheriton-school-computer-science-researchers-update-linux</link>
-      <description><![CDATA[滑铁卢大学 Cheriton 计算机科学学院（加拿大）加拿大滑铁卢大学 Cheriton 计算机科学学院的研究人员对 Linux 内核进行了修改，可将数据中心的能耗降低多达 30%。这项修改在 ACM SIGMETRICS 2024 上进行了展示，它重新安排了 Linux 网络堆栈中的操作，提高了传统基于内核的网络的效率和性能。研究人员表示，内核更改仅通过 30 行代码即可完成。摘自“Linux 内核更新降低数据中心的能源使用”
-滑铁卢大学 Cheriton 计算机科学学院（加拿大）（2025 年 1 月 20 日） 查看全文]]></description>
-      <guid>https://cs.uwaterloo.ca/news/cheriton-school-computer-science-researchers-update-linux</guid>
-      <pubDate>Wed, 22 Jan 2025 18:12:10 GMT</pubDate>
+      <title>机器人在不打扰海底的情况下接近海底</title>
+      <link>https://spectrum.ieee.org/underwater-robotics</link>
+      <description><![CDATA[IEEE Spectrum中国哈尔滨工程大学研究人员开发的水下机器人可以让科学家在不干扰海底的情况下研究海底。该机器人具有角加速度反馈控制功能，还具有外部干扰观察算法和传感器，可以识别和抵抗外部干扰并实时绘制路线。研究人员表示，该机器人可以在不干扰海底的情况下在海底上方 20 厘米处行进。摘自“机器人在不干扰海底的情况下接近海底”
+IEEE Spectrum (01/21/25) Liam Critchley 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/underwater-robotics</guid>
+      <pubDate>Fri, 24 Jan 2025 18:11:43 GMT</pubDate>
     </item>
     <item>
-      <title>FBI 警告特工注意黑客窃取通话记录</title>
-      <link>https://www.reuters.com/technology/cybersecurity/fbi-warns-agents-call-log-thefts-by-hackers-bloomberg-news-reports-2025-01-16/</link>
-      <description><![CDATA[路透社美国联邦调查局 (FBI) 表示，2024 年 4 月 AT&amp;T 遭遇网络攻击，代理人员数月的通话和短信记录很可能被盗，此次攻击中，约 1.09 亿个客户账户的数据（包含 2022 年的通话和短信记录）被非法下载。据报道，此次攻击破坏了所有使用 AT&amp;T 公共安全服务的 FBI 设备。根据 FBI 的一份报告，被盗记录可能会将代理人员与其机密消息来源联系起来。摘自“FBI 警告代理人员黑客窃取通话记录”
-路透社 (01/16/25) Surbhi Misra；A.J. Vicens 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/cybersecurity/fbi-warns-agents-call-log-thefts-by-hackers-bloomberg-news-reports-2025-01-16/</guid>
-      <pubDate>Wed, 22 Jan 2025 18:12:10 GMT</pubDate>
+      <title>Lonestar 计划将数据中心建在月球上</title>
+      <link>https://www.reuters.com/technology/space/lonestars-moonshot-firm-aims-place-data-center-lunar-surface-2025-01-21/</link>
+      <description><![CDATA[路透社2 月底，Lonestar Data Holdings 计划通过 SpaceX 的猎鹰 9 号火箭将一个完全组装好的数据中心发射到月球。该数据中心将与 Intuitive Machines 制造的雅典娜月球着陆器集成，通过太阳能供电，并使用自然冷却的固态硬盘。数据中心公司 Flexential 将提供地面备份。摘自“Lonestar 计划在月球上建立数据中心”
+路透社 (01/21/25) Akash Sriram 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/space/lonestars-moonshot-firm-aims-place-data-center-lunar-surface-2025-01-21/</guid>
+      <pubDate>Fri, 24 Jan 2025 18:11:43 GMT</pubDate>
     </item>
     <item>
-      <title>机器人外骨骼可以训练钢琴家弹奏得更快</title>
-      <link>https://www.newscientist.com/article/2464473-robotic-exoskeleton-can-train-expert-pianists-to-play-faster/</link>
-      <description><![CDATA[新科学家日本索尼计算机科学实验室的 Shinichi Furuya 及其同事开发了一种机械手外骨骼，它可以帮助专业钢琴家通过移动手指来学习弹奏得更快。外骨骼可以使用连接到每根手指根部的单独马达，单独抬起和放下每根手指，速度高达每秒四次。摘自“机器人外骨骼可以训练钢琴家弹奏得更快”
-新科学家 (01/17/25) Alex Wilkins 查看全文]]></description>
-      <guid>https://www.newscientist.com/article/2464473-robotic-exoskeleton-can-train-expert-pianists-to-play-faster/</guid>
-      <pubDate>Wed, 22 Jan 2025 18:12:09 GMT</pubDate>
+      <title>特朗普下令对“国家数字资产储备”进行评估</title>
+      <link>https://www.nbcnews.com/business/markets/trump-bitcoin-digital-asset-stockpile-strategic-reserve-cryptocurrency-rcna188921</link>
+      <description><![CDATA[NBC 新闻美国总统唐纳德·特朗普周四发布了一项行政命令，根据该命令，他的政府将评估是否建立“国家数字资产储备”。该命令还推翻了拜登政府关于研究央行数字货币 (CBDC) 的指令，声称此类货币“威胁金融体系的稳定、个人隐私和美国的主权”。摘自“特朗普下令评估‘国家数字资产储备’”
+NBC 新闻 (01/23/25) Rob Wile 查看全文]]></description>
+      <guid>https://www.nbcnews.com/business/markets/trump-bitcoin-digital-asset-stockpile-strategic-reserve-cryptocurrency-rcna188921</guid>
+      <pubDate>Fri, 24 Jan 2025 18:11:42 GMT</pubDate>
     </item>
     <item>
-      <title>俄罗斯的虚假信息活动未能阻止 Meta 的阻拦</title>
-      <link>https://www.nytimes.com/2025/01/17/business/russia-disinformation-meta.html</link>
-      <description><![CDATA[《纽约时报》芬兰的 Check First、英国的 Reset.Tech 和法国的 AI Forensics 发现，一个与克里姆林宫影响力活动有关的俄罗斯组织不顾欧盟和美国的限制，在社交媒体平台上发布了 8,000 多条政治广告。这个名为 Social Design Agency 的组织规避了 Facebook 的松懈执法，在 15 个月的时间里投放了价值约 338,000 美元的广告，尽管该平台本身也强调了这一威胁。摘自“俄罗斯的虚假信息活动躲过了 Meta 的阻拦”
-《纽约时报》（2025 年 1 月 18 日）Steven Lee Myers； Adam Satariano 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2025/01/17/business/russia-disinformation-meta.html</guid>
-      <pubDate>Wed, 22 Jan 2025 18:12:09 GMT</pubDate>
+      <title>Anil Jain、Michael I. Jordan 荣获 BBVA 基金会知识前沿奖</title>
+      <link>https://www.bbva.com/en/innovation/frontiers-of-knowledge-award-goes-to-anil-jain-and-michael-i-jordan-for-their-core-contributions-in-developing-biometrics-and-ai/</link>
+      <description><![CDATA[BBVA密歇根州立大学的 Anil K. Jain 和加州大学伯克利分校的 Michael I. Jordan 因在机器学习方面做出的&amp;ld核心贡献”荣获 BBVA 基金会颁发的信息和通信技术知识前沿奖，推动生物识别和人工智能的发展。 Jain 的研究重点是模式识别，而 Jordan 的努力则集中在统计和概率推理的统一算法上。摘自“Anil Jain、Michael I. Jordan 获得 BBVA 基金会知识前沿奖”
+BBVA (01/21/25) 查看全文]]></description>
+      <guid>https://www.bbva.com/en/innovation/frontiers-of-knowledge-award-goes-to-anil-jain-and-michael-i-jordan-for-their-core-contributions-in-developing-biometrics-and-ai/</guid>
+      <pubDate>Fri, 24 Jan 2025 18:11:42 GMT</pubDate>
     </item>
     <item>
-      <title>世界上第一个聊天机器人复活</title>
-      <link>https://www.livescience.com/technology/eliza-the-worlds-1st-chatbot-was-just-resurrected-from-60-year-old-computer-code</link>
-      <description><![CDATA[LiveScience英国萨塞克斯大学、斯坦福大学及其同事的研究人员让世界上第一个聊天机器人 ELIZA 复活。ELIZA 是麻省理工学院教授 Joseph Weizenbaum（如图）在 20 世纪 60 年代使用一种现已不存在的编程语言开发的。复活 ELIZA 需要团队清理和调试代码，并创建一个模拟器，该模拟器可以模拟 20 世纪 60 年代运行 ELIZA 的计算机。摘自“世界上第一个聊天机器人复活”
-LiveScience (01/17/25) Kristina Killgrove 查看全文]]></description>
-      <guid>https://www.livescience.com/technology/eliza-the-worlds-1st-chatbot-was-just-resurrected-from-60-year-old-computer-code</guid>
-      <pubDate>Wed, 22 Jan 2025 18:12:09 GMT</pubDate>
+      <title>行政命令要求人工智能“摆脱意识形态偏见”</title>
+      <link>https://apnews.com/article/trump-ai-artificial-intelligence-executive-order-eef1e5b9bec861eaf9b36217d547929c</link>
+      <description><![CDATA[美联社特朗普总统周四签署行政命令，撤销过去政府关于人工智能的政策，这些政策“阻碍了美国的人工智能创新”。该命令指出，为了保持全球领导地位，“我们必须开发不受意识形态偏见或人为社会议程影响的人工智能系统”。虽然该命令没有具体说明哪些政策阻碍了人工智能的发展，但它要求对前任政府的人工智能行政命令所导致的“所有政策、指令、法规、命令和其他行动”进行审查。摘自“行政命令呼吁人工智能‘摆脱意识形态偏见’”
+美联社 (01/23/25) Matt O&#39;Brien； Sarah Parvini 查看全文]]></description>
+      <guid>https://apnews.com/article/trump-ai-artificial-intelligence-executive-order-eef1e5b9bec861eaf9b36217d547929c</guid>
+      <pubDate>Fri, 24 Jan 2025 18:11:41 GMT</pubDate>
     </item>
     <item>
-      <title>瘫痪男子利用脑植入物驾驶虚拟无人机</title>
-      <link>https://www.nature.com/articles/d41586-025-00167-3</link>
-      <description><![CDATA[《自然》一名 69 岁的瘫痪男子使用脑机接口 (BCI) 驾驶虚拟无人机。密歇根大学安娜堡分校的研究人员训练 BCI 区分当该男子想移动右手拇指、食指和中指或中指和无指时产生的神经信号。研究人员将解码的手指运动与屏幕上虚拟无人机的速度和方向联系起来，让该男子通过虚拟篮球场上的篮圈操纵无人机。摘自“瘫痪男子使用脑植入物驾驶虚拟无人机”
-《自然》 (01/20/25) Miryam Naddaf 查看全文]]></description>
-      <guid>https://www.nature.com/articles/d41586-025-00167-3</guid>
-      <pubDate>Wed, 22 Jan 2025 18:12:08 GMT</pubDate>
+      <title>苹果、谷歌移动生态系统面临英国调查</title>
+      <link>https://www.wsj.com/tech/apple-google-mobile-ecosystems-face-u-k-probe-under-new-tech-rules-35ab1ebb</link>
+      <description><![CDATA[华尔街日报英国竞争和市场管理局 (CMA) 正在调查苹果和谷歌的移动生态系统是否遵守该国新出台的《数字市场、竞争和消费者法案》，该法案旨在遏制大型科技公司的权力。调查将评估这些公司在手机操作系统、应用商店和网络浏览器等领域的主导地位，并确定对用户和开发者的影响。摘自“苹果、谷歌移动生态系统面临英国调查”
+华尔街日报 (01/24/25) Edith Hancock 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/tech/apple-google-mobile-ecosystems-face-u-k-probe-under-new-tech-rules-35ab1ebb</guid>
+      <pubDate>Fri, 24 Jan 2025 18:11:41 GMT</pubDate>
     </item>
     <item>
-      <title>中国调查美国芯片补贴 称对中国成熟节点芯片制造商造成“损害”</title>
-      <link>https://www.reuters.com/technology/china-investigate-us-subsidies-mature-node-chips-2025-01-16/</link>
-      <description><![CDATA[路透社中国商务部表示，将对美国政府向其半导体行业提供的补贴展开调查，以查明其是否对中国成熟节点芯片制造商造成了损害。商务部在宣布调查时表示，由于这些补贴，“美国企业获得了不公平的竞争优势，并以低价向中国出口相关成熟节点芯片产品，损害了中国国内产业的合法权益。”摘自“中国调查美国芯片补贴，指其对中国成熟节点芯片制造商造成‘损害’”
-路透社 (01/16/25) Eduardo Baptista 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/china-investigate-us-subsidies-mature-node-chips-2025-01-16/</guid>
-      <pubDate>Wed, 22 Jan 2025 18:12:08 GMT</pubDate>
+      <title>中国人工智能初创企业与硅谷巨头竞争</title>
+      <link>https://www.nytimes.com/2025/01/23/technology/deepseek-china-ai-chips.html</link>
+      <description><![CDATA[《纽约时报》中国初创公司 DeepSeek 最近推出了一款人工智能系统，其功能可与 OpenAI 和谷歌等公司的最新聊天机器人相媲美。在 DeepSeek-V3 发布时发表的一篇研究论文中，该团队解释了他们如何使用 Nvidia 的约 2,000 个专用计算机芯片来训练他们的系统。相比之下，世界领先的人工智能公司使用多达 16,000 个芯片甚至更多的超级计算机来训练他们的聊天机器人。摘自“中国人工智能初创公司与硅谷巨头竞争”
+《纽约时报》（2025 年 1 月 24 日）Cade Metz； Meaghan Tobin 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2025/01/23/technology/deepseek-china-ai-chips.html</guid>
+      <pubDate>Fri, 24 Jan 2025 18:11:41 GMT</pubDate>
     </item>
     <item>
-      <title>行政命令暂停美国对 TikTok 的禁令</title>
-      <link>https://www.npr.org/2025/01/20/nx-s1-5268701/trump-executive-order-tiktok-ban</link>
-      <description><![CDATA[NPR特朗普总统周一签署了一项行政命令，暂停在美国实施禁止 TikTok 的法律，并为该应用的商业伙伴提供责任保护。根据行政令文本，该行政令暂停实施该法律 75 天，让政府有时间“寻求一项既能保护国家安全又能挽救 1.7 亿美国人使用的平台的解决方案”。摘自“行政令暂停美国对 TikTok 的禁令”
-NPR (01/20/25) Bobby Allyn 查看全文]]></description>
-      <guid>https://www.npr.org/2025/01/20/nx-s1-5268701/trump-executive-order-tiktok-ban</guid>
-      <pubDate>Wed, 22 Jan 2025 18:12:07 GMT</pubDate>
+      <title>白宫解散网络安全审查委员会</title>
+      <link>https://www.csoonline.com/article/3807871/trump-administration-disbands-dhs-board-investigating-salt-typhoon-hacks.html</link>
+      <description><![CDATA[CSO特朗普政府已解雇了网络安全审查委员会 (CSRB) 的所有成员，包括调查与中国有关的黑客组织 Salt Typhoon 的成员。CSRB 是由上届政府通过行政命令成立的，其任务是审查影响美国政府的重大网络事件。摘自“白宫解散网络安全审查委员会”
+CSO (01/22/25) John Leyden 查看全文]]></description>
+      <guid>https://www.csoonline.com/article/3807871/trump-administration-disbands-dhs-board-investigating-salt-typhoon-hacks.html</guid>
+      <pubDate>Fri, 24 Jan 2025 18:11:40 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普废除拜登的全面人工智能命令</title>
-      <link>https://www.bloomberg.com/news/articles/2025-01-21/trump-scraps-biden-s-sweeping-ai-order-in-regulatory-reset?sref=db2f3qgr</link>
-      <description><![CDATA[彭博社美国总统特朗普撤销了前美国总统拜登关于监管人工智能的行政命令，立即停止了对人工智能开发者的安全和透明度要求的实施。拜登的命令要求领先的人工智能公司与联邦政府分享强大人工智能系统的安全测试结果和其他关键信息。它还促使美国商务部下属的美国人工智能安全研究所成立，为该技术的使用制定自愿指导方针和最佳实践。
-摘自“特朗普废除拜登的全面人工智能命令”
-彭博社 (01/21/25) Jackie Davalos; Oma Seddiq 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-01-21/trump-scraps-biden-s-sweeping-ai-order-in-regulatory-reset?sref=db2f3qgr</guid>
-      <pubDate>Wed, 22 Jan 2025 18:12:07 GMT</pubDate>
+      <title>西班牙首相桑切斯呼吁社交媒体问责</title>
+      <link>https://www.reuters.com/technology/spains-pm-sanchez-make-social-media-great-again-2025-01-22/</link>
+      <description><![CDATA[路透社周三，在瑞士达沃斯举行的世界经济论坛上，西班牙首相佩德罗·桑切斯告诉与会者，社交媒体所有者应该为损害社会和民主负责。“如果一家小餐馆的食物毒害了顾客，那么老板就要负责；如果社交媒体大亨的算法毒害了我们的社会，那么他们也要负责，”他说。摘自“西班牙首相桑切斯呼吁社交媒体问责制”
+路透社 (01/22/25) Inti Landauro；Charlie Devereu 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/spains-pm-sanchez-make-social-media-great-again-2025-01-22/</guid>
+      <pubDate>Fri, 24 Jan 2025 18:11:40 GMT</pubDate>
     </item>
     <item>
-      <title>科技巨头宣布价值高达 5000 亿美元的美国人工智能计划</title>
-      <link>https://www.bbc.com/news/articles/cy4m84d2xz2o</link>
-      <description><![CDATA[BBC 新闻OpenAI、甲骨文和软银周二宣布与阿联酋政府的技术投资部门 MGX 合作，建立数据中心和其他基础设施以支持人工智能。星际之门计划旨在“立即​​”投资 1000 亿美元，并在未来四年内投资 5000 亿美元。美国总统唐纳德·特朗普表示，该计划是“对美国潜力充满信心的响亮宣言”。摘自“科技巨头宣布价值高达 5000 亿美元的美国人工智能计划”
-BBC 新闻 (01/22/25) Joáo da Silva；Natalie Sherman 查看全文]]></description>
-      <guid>https://www.bbc.com/news/articles/cy4m84d2xz2o</guid>
-      <pubDate>Wed, 22 Jan 2025 18:12:06 GMT</pubDate>
+      <title>ACM 公布 2024 年院士名单</title>
+      <link>https://www.acm.org/media-center/2025/january/fellows-2024</link>
+      <description><![CDATA[ACM 媒体中心ACM 授予 55 名院士称号，以表彰他们对计算科学和技术的变革性贡献。2024 名院士来自全球各地的组织，工作领域包括计算机图形学、网络安全、人机交互、数据管理、机器学习、人工智能、算法、可视化等。 “计算技术对我们今天的生活和工作方式产生了巨大影响，”ACM 主席 Yannis Ioannidis 表示。“每年宣布一批新院士时，我们都会庆祝社区中一些先驱者所做出的贡献，并强调他们所从事的计算技术领域。”摘自“ACM 公布 2024 年院士”
+ACM 媒体中心 (01/22/25) 查看全文]]></description>
+      <guid>https://www.acm.org/media-center/2025/january/fellows-2024</guid>
+      <pubDate>Fri, 24 Jan 2025 18:11:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
