@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Mon, 27 Jan 2025 09:10:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 12:16:27 GMT</lastBuildDate>
+    <item>
+      <title>紧急制动可挽救生命。汽车制造商希望为此收取额外费用</title>
+      <link>https://www.wired.com/story/emergency-braking-will-save-lives-automakers-want-to-charge-extra-for-it/</link>
+      <description><![CDATA[这项技术已经存在，路上的车辆也已经配备了它，但汽车制造商联盟却不想让这种救生设备成为标准配置。原因很简单——钱。]]></description>
+      <guid>https://www.wired.com/story/emergency-braking-will-save-lives-automakers-want-to-charge-extra-for-it/</guid>
+      <pubDate>Mon, 27 Jan 2025 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>人们对人工智能了解得越少，就越喜欢它</title>
       <link>https://www.wired.com/story/the-less-people-know-about-ai-the-more-they-like-it/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[《连线》杂志获得的一份营销活动摘要揭示了这款中国应用程序如何试图利用其突然间在国际上走红的机会。]]></description>
       <guid>https://www.wired.com/story/rednote-is-asking-american-influencers-to-promote-its-app/</guid>
       <pubDate>Mon, 20 Jan 2025 16:01:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>TikTok 已恢复上线</title>
-      <link>https://www.wired.com/story/tiktok-is-back/</link>
-      <description><![CDATA[TikTok 表示，在该应用程序关闭不到 24 小时后，当选总统唐纳德·特朗普 (Donald Trump) 已给予其在美国恢复服务所需的保证。]]></description>
-      <guid>https://www.wired.com/story/tiktok-is-back/</guid>
-      <pubDate>Sun, 19 Jan 2025 18:08:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
