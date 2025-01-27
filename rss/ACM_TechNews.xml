@@ -4,110 +4,102 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Fri, 24 Jan 2025 18:11:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 18:11:55 GMT</lastBuildDate>
     <item>
-      <title>欧盟要求 X 提供有关算法的内部文件</title>
-      <link>https://www.theguardian.com/technology/2025/jan/17/eu-asks-x-for-internal-documents-about-algorithms-as-it-steps-up-investigation</link>
-      <description><![CDATA[英国卫报欧盟委员会要求X提供与其“推荐系统”算法相关的内部文件，以调查该社交媒体平台是否违反了欧盟的内容审核规则。自2023年12月以来，X一直根据欧盟《数字服务法》接受调查，调查内容涉及其如何控制非法内容的传播和信息操纵。摘自“欧盟要求X提供有关算法的内部文件”
-英国卫报（2025年1月17日） 查看全文]]></description>
-      <guid>https://www.theguardian.com/technology/2025/jan/17/eu-asks-x-for-internal-documents-about-algorithms-as-it-steps-up-investigation</guid>
-      <pubDate>Fri, 24 Jan 2025 18:11:45 GMT</pubDate>
+      <title>人工智能热潮催生“GPU 即服务”</title>
+      <link>https://spectrum.ieee.org/gpu-as-a-service</link>
+      <description><![CDATA[IEEE SpectrumKinesis、Hyperbolic、Runpod 和 Vast.ai 等公司通过 GPU 即服务 (GPUaaS) 为 AI 初创公司提供计算能力。GPUaaS 对 AI 初创公司来说更具成本效益，因为它无需购买和维护物理基础设施，初创公司只需支付其 GPU 使用量的确切费用。它也更具可持续性，因为它利用了现有的未使用的处理单元，不需要新的服务器。摘自“AI 热潮催生‘GPU 即服务’”
+IEEE Spectrum (01/20/25) Juan Pablo Perez 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/gpu-as-a-service</guid>
+      <pubDate>Mon, 27 Jan 2025 18:11:54 GMT</pubDate>
     </item>
     <item>
-      <title>自学习芯片模仿大脑功能</title>
-      <link>https://biz.chosun.com/en/en-science/2025/01/17/D64AZNCJGJGURIC3VHP6P6M5EQ/</link>
-      <description><![CDATA[Chosun Biz (韩国)韩国研究人员开发的一种微型计算芯片可以像人脑一样自我学习和纠正错误。例如，在处理视频流时，该芯片会自学如何将移动物体与背景分开，从而随着时间的推移提高其性能。韩国科学技术高级研究院的研究人员表示，新芯片“就像一个智能工作空间，一切都触手可及，而不是在办公桌和文件柜之间移动。”摘自“自学芯片模仿大脑功能”
-Chosun Biz (韩国) (01/17/25) Hong A-reum 查看全文]]></description>
-      <guid>https://biz.chosun.com/en/en-science/2025/01/17/D64AZNCJGJGURIC3VHP6P6M5EQ/</guid>
-      <pubDate>Fri, 24 Jan 2025 18:11:44 GMT</pubDate>
+      <title>降低 SOC 中 NIDS 噪声的原理</title>
+      <link>https://cybersecuritynews.com/network-intrusion-detection-systems-in-soc/</link>
+      <description><![CDATA[网络安全新闻荷兰埃因霍温理工大学的研究人员已经确定了可行的解决方案来提高安全运营中心 (SOC) 的效率，重点是网络入侵检测系统 (NIDS) 的低噪声检测规则。他们的研究调查了 11 个月内商业 SOC 生成的 290,000 条独特规则和 3000 万条警报。他们将于今年 8 月在河内举行的 ACM 亚洲计算机和通信安全会议 (ASIA CCS ’25) 上展示他们的工作。摘自“减少 SOC 中 NIDS 噪声的原则”
+网络安全新闻 (01/20/25) Balaji N 查看全文]]></description>
+      <guid>https://cybersecuritynews.com/network-intrusion-detection-systems-in-soc/</guid>
+      <pubDate>Mon, 27 Jan 2025 18:11:54 GMT</pubDate>
     </item>
     <item>
-      <title>开源离子阱量子计算机问世</title>
-      <link>https://interestingengineering.com/innovation/worlds-first-open-source-trapped-ion-quantum-computer-unveiled</link>
-      <description><![CDATA[有趣的工程加拿大非营利组织开放量子设计 (OQD) 推出了一款开源、全栈、离子阱量子计算机，目标是让量子硬件、软件和教育材料免费提供。加入 OQD 平台的首批合作伙伴包括加拿大滑铁卢大学和 Xanadu Quantum Technologies、非营利组织 Unitary Foundation 和量子软件公司 Haiqu。该平台旨在帮助克服量子计算面临的挑战，包括缺乏硬件访问和熟练人才。摘自“开源离子阱量子计算机揭晓”
-有趣的工程 (01/17/25) Aman Tripathi 查看全文]]></description>
-      <guid>https://interestingengineering.com/innovation/worlds-first-open-source-trapped-ion-quantum-computer-unveiled</guid>
-      <pubDate>Fri, 24 Jan 2025 18:11:44 GMT</pubDate>
+      <title>英国法院审理计算机证据的使用</title>
+      <link>https://www.gov.uk/government/news/use-of-computer-evidence-in-court-to-be-interrogated</link>
+      <description><![CDATA[Gov.UK英国司法部正在寻求反馈，假设在没有相反证据的情况下，计算机工作正常，任何软件生成的证据都是准确的。征集证据的呼吁是由邮局地平线丑闻引发的，在该丑闻中，邮局会计系统的缺陷导致数百名邮政局长被错误定罪。摘自“英国法院将审理计算机证据的使用”
+Gov.UK (01/21/25) 查看全文]]></description>
+      <guid>https://www.gov.uk/government/news/use-of-computer-evidence-in-court-to-be-interrogated</guid>
+      <pubDate>Mon, 27 Jan 2025 18:11:53 GMT</pubDate>
     </item>
     <item>
-      <title>机器人在不打扰海底的情况下接近海底</title>
-      <link>https://spectrum.ieee.org/underwater-robotics</link>
-      <description><![CDATA[IEEE Spectrum中国哈尔滨工程大学研究人员开发的水下机器人可以让科学家在不干扰海底的情况下研究海底。该机器人具有角加速度反馈控制功能，还具有外部干扰观察算法和传感器，可以识别和抵抗外部干扰并实时绘制路线。研究人员表示，该机器人可以在不干扰海底的情况下在海底上方 20 厘米处行进。摘自“机器人在不干扰海底的情况下接近海底”
-IEEE Spectrum (01/21/25) Liam Critchley 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/underwater-robotics</guid>
-      <pubDate>Fri, 24 Jan 2025 18:11:43 GMT</pubDate>
+      <title>电影剪辑师透露使用人工智能后，《野兽派》引发争议</title>
+      <link>https://www.nbcnews.com/pop-culture/movies/-brutalist-sparks-controversy-films-editor-reveals-use-ai-rcna188457</link>
+      <description><![CDATA[NBC 新闻在电影剪辑师大卫·扬科斯透露，人工智能工具 Respeecher 被用来增强主演阿德里安·布罗迪和菲丽希缇·琼斯说匈牙利语时的口音后，关于《野兽派》是否应该获得奥斯卡奖的争论出现了。扬科斯指出，“这是一种非常独特的语言”，他们“希望将其完善到连当地人都看不出任何差异”。人工智能还被用于制作电影中的建筑图纸和成品建筑。摘自“《野兽派》剪辑师透露使用人工智能后引发争议”
+NBC 新闻 (01/20/25) 丽贝卡·科恩；克洛伊·梅拉斯 查看全文]]></description>
+      <guid>https://www.nbcnews.com/pop-culture/movies/-brutalist-sparks-controversy-films-editor-reveals-use-ai-rcna188457</guid>
+      <pubDate>Mon, 27 Jan 2025 18:11:53 GMT</pubDate>
     </item>
     <item>
-      <title>Lonestar 计划将数据中心建在月球上</title>
-      <link>https://www.reuters.com/technology/space/lonestars-moonshot-firm-aims-place-data-center-lunar-surface-2025-01-21/</link>
-      <description><![CDATA[路透社2 月底，Lonestar Data Holdings 计划通过 SpaceX 的猎鹰 9 号火箭将一个完全组装好的数据中心发射到月球。该数据中心将与 Intuitive Machines 制造的雅典娜月球着陆器集成，通过太阳能供电，并使用自然冷却的固态硬盘。数据中心公司 Flexential 将提供地面备份。摘自“Lonestar 计划在月球上建立数据中心”
-路透社 (01/21/25) Akash Sriram 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/space/lonestars-moonshot-firm-aims-place-data-center-lunar-surface-2025-01-21/</guid>
-      <pubDate>Fri, 24 Jan 2025 18:11:43 GMT</pubDate>
+      <title>欧盟科技公司承诺加大力度打击网络仇恨言论</title>
+      <link>https://www.reuters.com/technology/facebook-x-youtube-do-more-against-online-hate-speech-eu-says-2025-01-20/</link>
+      <description><![CDATA[路透社欧盟委员会1月20日表示，针对网络仇恨言论的自愿行为准则已获得Facebook、X、YouTube、Dailymotion、Instagram、Jeuxvideo.com、LinkedIn、微软、Snapchat、Rakuten Viber、TikTok和Twitch的支持。根据将被纳入《数字服务法》的修订法规，各公司承诺，除其他事项外，将使用自动检测工具减少其平台上的仇恨言论，并在删除非法内容之前提供有关推荐系统的作用以及非法内容的有机和算法覆盖率的数据。摘自“科技公司承诺在欧盟加大打击网络仇恨言论力度”
+路透社 (01/20/25) Foo Yun Chee 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/facebook-x-youtube-do-more-against-online-hate-speech-eu-says-2025-01-20/</guid>
+      <pubDate>Mon, 27 Jan 2025 18:11:53 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普下令对“国家数字资产储备”进行评估</title>
-      <link>https://www.nbcnews.com/business/markets/trump-bitcoin-digital-asset-stockpile-strategic-reserve-cryptocurrency-rcna188921</link>
-      <description><![CDATA[NBC 新闻美国总统唐纳德·特朗普周四发布了一项行政命令，根据该命令，他的政府将评估是否建立“国家数字资产储备”。该命令还推翻了拜登政府关于研究央行数字货币 (CBDC) 的指令，声称此类货币“威胁金融体系的稳定、个人隐私和美国的主权”。摘自“特朗普下令评估‘国家数字资产储备’”
-NBC 新闻 (01/23/25) Rob Wile 查看全文]]></description>
-      <guid>https://www.nbcnews.com/business/markets/trump-bitcoin-digital-asset-stockpile-strategic-reserve-cryptocurrency-rcna188921</guid>
-      <pubDate>Fri, 24 Jan 2025 18:11:42 GMT</pubDate>
+      <title>大型科技公司希望将数据中心接入发电厂</title>
+      <link>https://apnews.com/article/power-electricity-amazon-microsoft-power-plants-data-centers-grid-f4763f73bc112425e18f30618dff0039</link>
+      <description><![CDATA[美联社科技巨头越来越多地寻求与发电厂业主达成协议，直接接入电网，从而避免接入其他电网的更艰巨过程。亚马逊网络服务与宾夕法尼亚州东部 Susquehanna 核电站之间的一项协议被称为“电表后”连接，这是美国联邦能源管理委员会 (FERC) 首次提出的协议。到目前为止，联邦能源管理委员会拒绝了这项协议，该协议可能会将足够的能源转移到数据中心，为超过 50 万户家庭供电。摘自“大型科技公司希望将数据中心接入发电厂”
+美联社 (01/25/25) Marc Levy 查看全文]]></description>
+      <guid>https://apnews.com/article/power-electricity-amazon-microsoft-power-plants-data-centers-grid-f4763f73bc112425e18f30618dff0039</guid>
+      <pubDate>Mon, 27 Jan 2025 18:11:52 GMT</pubDate>
     </item>
     <item>
-      <title>Anil Jain、Michael I. Jordan 荣获 BBVA 基金会知识前沿奖</title>
-      <link>https://www.bbva.com/en/innovation/frontiers-of-knowledge-award-goes-to-anil-jain-and-michael-i-jordan-for-their-core-contributions-in-developing-biometrics-and-ai/</link>
-      <description><![CDATA[BBVA密歇根州立大学的 Anil K. Jain 和加州大学伯克利分校的 Michael I. Jordan 因在机器学习方面做出的&amp;ld核心贡献”荣获 BBVA 基金会颁发的信息和通信技术知识前沿奖，推动生物识别和人工智能的发展。 Jain 的研究重点是模式识别，而 Jordan 的努力则集中在统计和概率推理的统一算法上。摘自“Anil Jain、Michael I. Jordan 获得 BBVA 基金会知识前沿奖”
-BBVA (01/21/25) 查看全文]]></description>
-      <guid>https://www.bbva.com/en/innovation/frontiers-of-knowledge-award-goes-to-anil-jain-and-michael-i-jordan-for-their-core-contributions-in-developing-biometrics-and-ai/</guid>
-      <pubDate>Fri, 24 Jan 2025 18:11:42 GMT</pubDate>
+      <title>加拿大向量子研究项目投资超过 5200 万美元</title>
+      <link>https://thequantuminsider.com/2025/01/21/canada-invests-over-52-million-in-107-quantum-research-projects-in-computing-communications-and-beyond/</link>
+      <description><![CDATA[Quantum Insider加拿大政府表示，将向量子算法和加密、量子通信、量子计算、量子材料和量子传感等领域的 107 个量子科学项目提供超过 7400 万加元（约合 5200 万美元）的资助。这些项目旨在为全国 500 多名研究生和博士后研究员提供高级培训；促进大学与其他组织之间的国内合作伙伴关系；并促进全国各地量子研究和创新中心之间的合作。摘自“加拿大在量子研究项目中投资超过 5200 万美元”
+Quantum Insider (01/21/25) Cierra Choucair 查看全文]]></description>
+      <guid>https://thequantuminsider.com/2025/01/21/canada-invests-over-52-million-in-107-quantum-research-projects-in-computing-communications-and-beyond/</guid>
+      <pubDate>Mon, 27 Jan 2025 18:11:52 GMT</pubDate>
     </item>
     <item>
-      <title>行政命令要求人工智能“摆脱意识形态偏见”</title>
-      <link>https://apnews.com/article/trump-ai-artificial-intelligence-executive-order-eef1e5b9bec861eaf9b36217d547929c</link>
-      <description><![CDATA[美联社特朗普总统周四签署行政命令，撤销过去政府关于人工智能的政策，这些政策“阻碍了美国的人工智能创新”。该命令指出，为了保持全球领导地位，“我们必须开发不受意识形态偏见或人为社会议程影响的人工智能系统”。虽然该命令没有具体说明哪些政策阻碍了人工智能的发展，但它要求对前任政府的人工智能行政命令所导致的“所有政策、指令、法规、命令和其他行动”进行审查。摘自“行政命令呼吁人工智能‘摆脱意识形态偏见’”
-美联社 (01/23/25) Matt O&#39;Brien； Sarah Parvini 查看全文]]></description>
-      <guid>https://apnews.com/article/trump-ai-artificial-intelligence-executive-order-eef1e5b9bec861eaf9b36217d547929c</guid>
-      <pubDate>Fri, 24 Jan 2025 18:11:41 GMT</pubDate>
+      <title>“第一位人工智能软件工程师”工作表现不佳</title>
+      <link>https://www.theregister.com/2025/01/23/ai_developer_devin_poor_reviews/</link>
+      <description><![CDATA[The Register（英国）自动编码员“Devin”于去年 3 月被 Cognition AI 推出时被称为“第一位 AI 软件工程师”，但在 Answer.AI 旗下数据科学家的考试中表现不佳，20 项任务中只有 3 项成功完成。该服务使用 Slack 作为其命令的主要接口，这些命令被发送到其计算环境，即托管终端、浏览器、代码编辑器和规划器的 Docker 容器。据考官称，Devin 经常陷入技术死胡同或提出过于复杂、无法使用的解决方案。摘自“‘第一位 AI 软件工程师’工作不力”
+The Register (英国) (2025 年 1 月 23 日) Thomas Claburn 查看全文]]></description>
+      <guid>https://www.theregister.com/2025/01/23/ai_developer_devin_poor_reviews/</guid>
+      <pubDate>Mon, 27 Jan 2025 18:11:51 GMT</pubDate>
     </item>
     <item>
-      <title>苹果、谷歌移动生态系统面临英国调查</title>
-      <link>https://www.wsj.com/tech/apple-google-mobile-ecosystems-face-u-k-probe-under-new-tech-rules-35ab1ebb</link>
-      <description><![CDATA[华尔街日报英国竞争和市场管理局 (CMA) 正在调查苹果和谷歌的移动生态系统是否遵守该国新出台的《数字市场、竞争和消费者法案》，该法案旨在遏制大型科技公司的权力。调查将评估这些公司在手机操作系统、应用商店和网络浏览器等领域的主导地位，并确定对用户和开发者的影响。摘自“苹果、谷歌移动生态系统面临英国调查”
-华尔街日报 (01/24/25) Edith Hancock 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/tech/apple-google-mobile-ecosystems-face-u-k-probe-under-new-tech-rules-35ab1ebb</guid>
-      <pubDate>Fri, 24 Jan 2025 18:11:41 GMT</pubDate>
+      <title>台湾报告史无前例的海底电缆损坏</title>
+      <link>https://asia.nikkei.com/Politics/International-relations/Taiwan-tensions/Taiwan-reports-unprecedented-undersea-cable-damage-this-year</link>
+      <description><![CDATA[日经亚洲 (日本)台湾政府表示，其通往马祖群岛的最后一条海底电缆链路于 1 月 22 日凌晨完全断开，而就在一周前，另一条电缆链路也发生故障。今年迄今为止，已有四条海底电缆中断，而 2024 年全年中断了三条。台湾拥有 14 条国际海底电缆和 10 条国内海底电缆。台湾总统赖清德表示支持开发通信卫星和其他技术作为备份。摘自“台湾报告前所未有的海底电缆损坏”
+日经亚洲 (日本) (2025 年 1 月 22 日) Lauly Li；Cheng Ting-Fang；周汤普森 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://asia.nikkei.com/Politics/International-relations/Taiwan-tensions/Taiwan-reports-unprecedented-undersea-cable-damage-this-year</guid>
+      <pubDate>Mon, 27 Jan 2025 18:11:51 GMT</pubDate>
     </item>
     <item>
-      <title>中国人工智能初创企业与硅谷巨头竞争</title>
-      <link>https://www.nytimes.com/2025/01/23/technology/deepseek-china-ai-chips.html</link>
-      <description><![CDATA[《纽约时报》中国初创公司 DeepSeek 最近推出了一款人工智能系统，其功能可与 OpenAI 和谷歌等公司的最新聊天机器人相媲美。在 DeepSeek-V3 发布时发表的一篇研究论文中，该团队解释了他们如何使用 Nvidia 的约 2,000 个专用计算机芯片来训练他们的系统。相比之下，世界领先的人工智能公司使用多达 16,000 个芯片甚至更多的超级计算机来训练他们的聊天机器人。摘自“中国人工智能初创公司与硅谷巨头竞争”
-《纽约时报》（2025 年 1 月 24 日）Cade Metz； Meaghan Tobin 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2025/01/23/technology/deepseek-china-ai-chips.html</guid>
-      <pubDate>Fri, 24 Jan 2025 18:11:41 GMT</pubDate>
+      <title>中国将举办人机半程马拉松</title>
+      <link>https://www.scmp.com/news/china/politics/article/3295384/china-host-worlds-first-human-robot-marathon-robotics-drives-national-goals</link>
+      <description><![CDATA[《南华早报》北京将于 4 月举行半程马拉松比赛，预计将有数十台类人机器人参赛。约有 12,000 人将参加比赛，与来自 20 多家公司的机器人一起奔跑，这些机器人外形与人类相似，但具有双足行走或跑步的机械结构。参赛机器人身高0.5-2米（1.6-6.5英尺），从髋关节到脚底的最大伸展距离至少为0.45米（1.5英尺）。摘自“中国将举办人机半程马拉松”
+南华早报 (01/20/25) Phoebe Zhang 查看全文]]></description>
+      <guid>https://www.scmp.com/news/china/politics/article/3295384/china-host-worlds-first-human-robot-marathon-robotics-drives-national-goals</guid>
+      <pubDate>Mon, 27 Jan 2025 18:11:50 GMT</pubDate>
     </item>
     <item>
-      <title>白宫解散网络安全审查委员会</title>
-      <link>https://www.csoonline.com/article/3807871/trump-administration-disbands-dhs-board-investigating-salt-typhoon-hacks.html</link>
-      <description><![CDATA[CSO特朗普政府已解雇了网络安全审查委员会 (CSRB) 的所有成员，包括调查与中国有关的黑客组织 Salt Typhoon 的成员。CSRB 是由上届政府通过行政命令成立的，其任务是审查影响美国政府的重大网络事件。摘自“白宫解散网络安全审查委员会”
-CSO (01/22/25) John Leyden 查看全文]]></description>
-      <guid>https://www.csoonline.com/article/3807871/trump-administration-disbands-dhs-board-investigating-salt-typhoon-hacks.html</guid>
-      <pubDate>Fri, 24 Jan 2025 18:11:40 GMT</pubDate>
+      <title>利用双码进行量子计算纠错</title>
+      <link>https://interestingengineering.com/science/scientists-demonstrate-first-ever-quantum-error-solving-with-dual-codes</link>
+      <description><![CDATA[有趣的工程奥地利因斯布鲁克大学和德国亚琛工业大学的研究人员开发的一种方法允许量子计算机在两种不同的校正码之间切换，以确保系统以无错误的方式执行所有计算任务。研究人员使用离子阱量子计算机上的全通用门组设计了一个量子电路。他们在两种不同的代码之间添加了容错代码切换，并准备了 12 种不同的逻辑状态，而这些状态无法由单个校正代码支持。摘自“使用双代码进行量子计算错误校正”
+有趣的工程 (01/25/25) Rupendra Brahambhatt 查看全文]]></description>
+      <guid>https://interestingengineering.com/science/scientists-demonstrate-first-ever-quantum-error-solving-with-dual-codes</guid>
+      <pubDate>Mon, 27 Jan 2025 18:11:50 GMT</pubDate>
     </item>
     <item>
-      <title>西班牙首相桑切斯呼吁社交媒体问责</title>
-      <link>https://www.reuters.com/technology/spains-pm-sanchez-make-social-media-great-again-2025-01-22/</link>
-      <description><![CDATA[路透社周三，在瑞士达沃斯举行的世界经济论坛上，西班牙首相佩德罗·桑切斯告诉与会者，社交媒体所有者应该为损害社会和民主负责。“如果一家小餐馆的食物毒害了顾客，那么老板就要负责；如果社交媒体大亨的算法毒害了我们的社会，那么他们也要负责，”他说。摘自“西班牙首相桑切斯呼吁社交媒体问责制”
-路透社 (01/22/25) Inti Landauro；Charlie Devereu 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/spains-pm-sanchez-make-social-media-great-again-2025-01-22/</guid>
-      <pubDate>Fri, 24 Jan 2025 18:11:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>ACM 公布 2024 年院士名单</title>
-      <link>https://www.acm.org/media-center/2025/january/fellows-2024</link>
-      <description><![CDATA[ACM 媒体中心ACM 授予 55 名院士称号，以表彰他们对计算科学和技术的变革性贡献。2024 名院士来自全球各地的组织，工作领域包括计算机图形学、网络安全、人机交互、数据管理、机器学习、人工智能、算法、可视化等。 “计算技术对我们今天的生活和工作方式产生了巨大影响，”ACM 主席 Yannis Ioannidis 表示。“每年宣布一批新院士时，我们都会庆祝社区中一些先驱者所做出的贡献，并强调他们所从事的计算技术领域。”摘自“ACM 公布 2024 年院士”
-ACM 媒体中心 (01/22/25) 查看全文]]></description>
-      <guid>https://www.acm.org/media-center/2025/january/fellows-2024</guid>
-      <pubDate>Fri, 24 Jan 2025 18:11:39 GMT</pubDate>
+      <title>亿万富翁在印度建造全球最大数据中心</title>
+      <link>https://www.bloomberg.com/news/articles/2025-01-23/billionaire-mukesh-ambani-plans-world-s-biggest-data-center-in-india-s-gujarat?sref=db2f3qgr</link>
+      <description><![CDATA[彭博社印度亿万富翁穆克什·安巴尼 (Mukesh Ambani) 的信实集团 (Reliance Group) 正在印度西部古吉拉特邦的贾姆讷格尔镇建造一座数据中心，这座数据中心的容量或将成为全球最大的数据中心。预计该数据中心的总容量将达到 3 千兆瓦；当今最大的数据中心的容量都不足 1 千兆瓦，并且都位于美国。摘自“亿万富翁在印度建造世界最大数据中心”
+彭博社 (01/24/25) Saritha Rai 查看全文]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-01-23/billionaire-mukesh-ambani-plans-world-s-biggest-data-center-in-india-s-gujarat?sref=db2f3qgr</guid>
+      <pubDate>Mon, 27 Jan 2025 18:11:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
