@@ -4,102 +4,111 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Mon, 27 Jan 2025 18:11:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 18:11:38 GMT</lastBuildDate>
     <item>
-      <title>人工智能热潮催生“GPU 即服务”</title>
-      <link>https://spectrum.ieee.org/gpu-as-a-service</link>
-      <description><![CDATA[IEEE SpectrumKinesis、Hyperbolic、Runpod 和 Vast.ai 等公司通过 GPU 即服务 (GPUaaS) 为 AI 初创公司提供计算能力。GPUaaS 对 AI 初创公司来说更具成本效益，因为它无需购买和维护物理基础设施，初创公司只需支付其 GPU 使用量的确切费用。它也更具可持续性，因为它利用了现有的未使用的处理单元，不需要新的服务器。摘自“AI 热潮催生‘GPU 即服务’”
-IEEE Spectrum (01/20/25) Juan Pablo Perez 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/gpu-as-a-service</guid>
-      <pubDate>Mon, 27 Jan 2025 18:11:54 GMT</pubDate>
+      <title>中国首个人形机器人实训基地正式启用</title>
+      <link>https://interestingengineering.com/innovation/china-first-humanoid-robot-base</link>
+      <description><![CDATA[有趣的工程中国在上海开设了首个人形机器人训练基地。据当地媒体报道，人形机器人麒麟训练场可同时训练 100 多个人形机器人，预计到 2027 年将同时训练 1,000 个通用机器人。该设施旨在加速先进机器人的商业化和广泛使用。摘自“中国开设首个人形机器人训练基地”
+有趣的工程 (01/22/25) Jijo Malayil 查看全文]]></description>
+      <guid>https://interestingengineering.com/innovation/china-first-humanoid-robot-base</guid>
+      <pubDate>Wed, 29 Jan 2025 18:11:38 GMT</pubDate>
     </item>
     <item>
-      <title>降低 SOC 中 NIDS 噪声的原理</title>
-      <link>https://cybersecuritynews.com/network-intrusion-detection-systems-in-soc/</link>
-      <description><![CDATA[网络安全新闻荷兰埃因霍温理工大学的研究人员已经确定了可行的解决方案来提高安全运营中心 (SOC) 的效率，重点是网络入侵检测系统 (NIDS) 的低噪声检测规则。他们的研究调查了 11 个月内商业 SOC 生成的 290,000 条独特规则和 3000 万条警报。他们将于今年 8 月在河内举行的 ACM 亚洲计算机和通信安全会议 (ASIA CCS ’25) 上展示他们的工作。摘自“减少 SOC 中 NIDS 噪声的原则”
-网络安全新闻 (01/20/25) Balaji N 查看全文]]></description>
-      <guid>https://cybersecuritynews.com/network-intrusion-detection-systems-in-soc/</guid>
-      <pubDate>Mon, 27 Jan 2025 18:11:54 GMT</pubDate>
+      <title>NASA 3D 打印天线将增材制造推向新高度</title>
+      <link>https://www.nasa.gov/technology/nasa-3d-printed-antenna-takes-additive-manufacturing-to-new-heights/</link>
+      <description><![CDATA[NASANASA 工程师设计的磁电偶极天线通过 3D 打印制成，表明 3D 打印可用于创建一种经济高效的数据传输到地球的方法。该天线采用低电阻和可调陶瓷填充聚合物材料制成，已通过 NASA 的近太空网络中继卫星进行测试，并搭载在大气气象气球上飞行。摘自“NASA 3D 打印天线将增材制造推向新高度”
+NASA (01/22/25) Kendall Murphy 查看全文]]></description>
+      <guid>https://www.nasa.gov/technology/nasa-3d-printed-antenna-takes-additive-manufacturing-to-new-heights/</guid>
+      <pubDate>Wed, 29 Jan 2025 18:11:38 GMT</pubDate>
     </item>
     <item>
-      <title>英国法院审理计算机证据的使用</title>
-      <link>https://www.gov.uk/government/news/use-of-computer-evidence-in-court-to-be-interrogated</link>
-      <description><![CDATA[Gov.UK英国司法部正在寻求反馈，假设在没有相反证据的情况下，计算机工作正常，任何软件生成的证据都是准确的。征集证据的呼吁是由邮局地平线丑闻引发的，在该丑闻中，邮局会计系统的缺陷导致数百名邮政局长被错误定罪。摘自“英国法院将审理计算机证据的使用”
-Gov.UK (01/21/25) 查看全文]]></description>
-      <guid>https://www.gov.uk/government/news/use-of-computer-evidence-in-court-to-be-interrogated</guid>
-      <pubDate>Mon, 27 Jan 2025 18:11:53 GMT</pubDate>
+      <title>Mirai 僵尸网络利用 13,000 多台物联网设备发起创纪录的 5.6 Tbps DDoS 攻击</title>
+      <link>https://thehackernews.com/2025/01/mirai-botnet-launches-record-56-tbps.html</link>
+      <description><![CDATA[Hacker NewsCloudflare 表示，有史以来最大的分布式拒绝服务 (DDoS) 攻击发生在 2024 年 10 月 29 日，仅持续了 80 秒就被发现和阻止了。这次基于 5.6 兆兆位每秒 (Tbps) UDP 协议的攻击源自 Mirai 变体僵尸网络，影响了超过 13,000 台物联网 (IoT) 设备，目标是东亚一家未具名的互联网服务提供商。此次攻击打破了此前最大的 DDoS 攻击记录，该记录发生于同月早些时候，峰值为 3.8 Tbps。摘自“Mirai 僵尸网络发起创纪录的 5.6 Tbps DDoS 攻击，攻击对象超过 13,000 台 IoT 设备”
+The Hacker News (01/22/25) Ravie Lakshmanan 查看全文]]></description>
+      <guid>https://thehackernews.com/2025/01/mirai-botnet-launches-record-56-tbps.html</guid>
+      <pubDate>Wed, 29 Jan 2025 18:11:37 GMT</pubDate>
     </item>
     <item>
-      <title>电影剪辑师透露使用人工智能后，《野兽派》引发争议</title>
-      <link>https://www.nbcnews.com/pop-culture/movies/-brutalist-sparks-controversy-films-editor-reveals-use-ai-rcna188457</link>
-      <description><![CDATA[NBC 新闻在电影剪辑师大卫·扬科斯透露，人工智能工具 Respeecher 被用来增强主演阿德里安·布罗迪和菲丽希缇·琼斯说匈牙利语时的口音后，关于《野兽派》是否应该获得奥斯卡奖的争论出现了。扬科斯指出，“这是一种非常独特的语言”，他们“希望将其完善到连当地人都看不出任何差异”。人工智能还被用于制作电影中的建筑图纸和成品建筑。摘自“《野兽派》剪辑师透露使用人工智能后引发争议”
-NBC 新闻 (01/20/25) 丽贝卡·科恩；克洛伊·梅拉斯 查看全文]]></description>
-      <guid>https://www.nbcnews.com/pop-culture/movies/-brutalist-sparks-controversy-films-editor-reveals-use-ai-rcna188457</guid>
-      <pubDate>Mon, 27 Jan 2025 18:11:53 GMT</pubDate>
+      <title>“DNA 书”售价 65 美元，但你不能阅读它</title>
+      <link>https://www.techradar.com/pro/worlds-first-ever-dna-book-sells-for-usd65-is-like-a-silver-bullet-and-is-500kb-in-size-shame-you-cant-actually-read-it</link>
+      <description><![CDATA[TechRadarDNA 数字数据存储公司 CATALOG 与阿西莫夫出版社合作，出版了一本 240 页的书，其中包含九篇论文和三部科幻小说，共计 481,280 字节数据，这些数据被编码成 500,000 个独特的合成 DNA 分子。这本书售价 65 美元，装在子弹形钢制 DNA 胶囊中，分子以干粉形式储存在惰性气体下，以便长期保存。然而，这本书的内容实际上无法阅读。
+摘自“‘DNA 书’售价 65 美元，但你无法阅读”
+TechRadar (01/22/25) Wayne Williams 查看全文]]></description>
+      <guid>https://www.techradar.com/pro/worlds-first-ever-dna-book-sells-for-usd65-is-like-a-silver-bullet-and-is-500kb-in-size-shame-you-cant-actually-read-it</guid>
+      <pubDate>Wed, 29 Jan 2025 18:11:37 GMT</pubDate>
     </item>
     <item>
-      <title>欧盟科技公司承诺加大力度打击网络仇恨言论</title>
-      <link>https://www.reuters.com/technology/facebook-x-youtube-do-more-against-online-hate-speech-eu-says-2025-01-20/</link>
-      <description><![CDATA[路透社欧盟委员会1月20日表示，针对网络仇恨言论的自愿行为准则已获得Facebook、X、YouTube、Dailymotion、Instagram、Jeuxvideo.com、LinkedIn、微软、Snapchat、Rakuten Viber、TikTok和Twitch的支持。根据将被纳入《数字服务法》的修订法规，各公司承诺，除其他事项外，将使用自动检测工具减少其平台上的仇恨言论，并在删除非法内容之前提供有关推荐系统的作用以及非法内容的有机和算法覆盖率的数据。摘自“科技公司承诺在欧盟加大打击网络仇恨言论力度”
-路透社 (01/20/25) Foo Yun Chee 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/facebook-x-youtube-do-more-against-online-hate-speech-eu-says-2025-01-20/</guid>
-      <pubDate>Mon, 27 Jan 2025 18:11:53 GMT</pubDate>
+      <title>Linux 内核源代码已超过 4000 万行</title>
+      <link>https://www.tomshardware.com/software/linux/linux-kernel-source-expands-beyond-40-million-lines-it-has-doubled-in-size-in-a-decade</link>
+      <description><![CDATA[Tom&#39;s Hardware随着 Linux 6.14 rc1 的发布，Linux 内核源代码已扩展到 40,063,856 行，是 2015 年的两倍。这一数字较 1 月初 Linux 6.13 发布时的 39,819,522 行有所增加。 Linux 内核源代码每两个月增加约 400,000 行代码，包括代码、注释、文档和用于结构和可读性的空行。摘自“Linux 内核源代码扩展到 4000 万行以上”
+Tom&#39;s Hardware (01/26/25) Mark Tyson 查看全文]]></description>
+      <guid>https://www.tomshardware.com/software/linux/linux-kernel-source-expands-beyond-40-million-lines-it-has-doubled-in-size-in-a-decade</guid>
+      <pubDate>Wed, 29 Jan 2025 18:11:36 GMT</pubDate>
     </item>
     <item>
-      <title>大型科技公司希望将数据中心接入发电厂</title>
-      <link>https://apnews.com/article/power-electricity-amazon-microsoft-power-plants-data-centers-grid-f4763f73bc112425e18f30618dff0039</link>
-      <description><![CDATA[美联社科技巨头越来越多地寻求与发电厂业主达成协议，直接接入电网，从而避免接入其他电网的更艰巨过程。亚马逊网络服务与宾夕法尼亚州东部 Susquehanna 核电站之间的一项协议被称为“电表后”连接，这是美国联邦能源管理委员会 (FERC) 首次提出的协议。到目前为止，联邦能源管理委员会拒绝了这项协议，该协议可能会将足够的能源转移到数据中心，为超过 50 万户家庭供电。摘自“大型科技公司希望将数据中心接入发电厂”
-美联社 (01/25/25) Marc Levy 查看全文]]></description>
-      <guid>https://apnews.com/article/power-electricity-amazon-microsoft-power-plants-data-centers-grid-f4763f73bc112425e18f30618dff0039</guid>
-      <pubDate>Mon, 27 Jan 2025 18:11:52 GMT</pubDate>
+      <title>巴基斯坦议会通过法案，对社交媒体实施全面管控</title>
+      <link>https://apnews.com/article/pakistan-cyber-law-social-media-6de3a878c434abb154b91012bc9ca33c</link>
+      <description><![CDATA[美联社巴基斯坦议会下院于 1 月 23 日通过了《防止电子犯罪法》，该法案将设立社交媒体保护和监管局，该局有权下令立即封锁“非法和攻击性”社交媒体内容以及发布此类内容的人。这包括批评法官、武装部队、议会或省议会的内容。此外，社交媒体平台必须向新机构注册，否则将面临被禁止的风险。摘自“巴基斯坦议会通过法案，全面控制社交媒体”
+美联社 (01/23/25) Munir Ahmed 查看全文]]></description>
+      <guid>https://apnews.com/article/pakistan-cyber-law-social-media-6de3a878c434abb154b91012bc9ca33c</guid>
+      <pubDate>Wed, 29 Jan 2025 18:11:36 GMT</pubDate>
     </item>
     <item>
-      <title>加拿大向量子研究项目投资超过 5200 万美元</title>
-      <link>https://thequantuminsider.com/2025/01/21/canada-invests-over-52-million-in-107-quantum-research-projects-in-computing-communications-and-beyond/</link>
-      <description><![CDATA[Quantum Insider加拿大政府表示，将向量子算法和加密、量子通信、量子计算、量子材料和量子传感等领域的 107 个量子科学项目提供超过 7400 万加元（约合 5200 万美元）的资助。这些项目旨在为全国 500 多名研究生和博士后研究员提供高级培训；促进大学与其他组织之间的国内合作伙伴关系；并促进全国各地量子研究和创新中心之间的合作。摘自“加拿大在量子研究项目中投资超过 5200 万美元”
-Quantum Insider (01/21/25) Cierra Choucair 查看全文]]></description>
-      <guid>https://thequantuminsider.com/2025/01/21/canada-invests-over-52-million-in-107-quantum-research-projects-in-computing-communications-and-beyond/</guid>
-      <pubDate>Mon, 27 Jan 2025 18:11:52 GMT</pubDate>
+      <title>一个人一次可以控制多少个机器人？</title>
+      <link>https://spectrum.ieee.org/darpa-robot</link>
+      <description><![CDATA[IEEE Spectrum由俄勒冈州立大学的 Julia A. Adams 领导的研究人员发现，单个人类可以有效地管理超过 100 架自主空中和地面无人机组成的异质群体。该研究由美国国防高级研究计划局资助，涉及观察人类控制者在管理异质机器人群体时的生理反应。观察到的最大任务包括 110 架无人机、30 辆地面车辆和多达 50 辆虚拟车辆，它们在物理城市环境和一系列复杂的虚拟危险中导航。摘自“一个人可以同时控制多少个机器人？”
+IEEE Spectrum (01/26/25) Michelle Hampson 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/darpa-robot</guid>
+      <pubDate>Wed, 29 Jan 2025 18:11:35 GMT</pubDate>
     </item>
     <item>
-      <title>“第一位人工智能软件工程师”工作表现不佳</title>
-      <link>https://www.theregister.com/2025/01/23/ai_developer_devin_poor_reviews/</link>
-      <description><![CDATA[The Register（英国）自动编码员“Devin”于去年 3 月被 Cognition AI 推出时被称为“第一位 AI 软件工程师”，但在 Answer.AI 旗下数据科学家的考试中表现不佳，20 项任务中只有 3 项成功完成。该服务使用 Slack 作为其命令的主要接口，这些命令被发送到其计算环境，即托管终端、浏览器、代码编辑器和规划器的 Docker 容器。据考官称，Devin 经常陷入技术死胡同或提出过于复杂、无法使用的解决方案。摘自“‘第一位 AI 软件工程师’工作不力”
-The Register (英国) (2025 年 1 月 23 日) Thomas Claburn 查看全文]]></description>
-      <guid>https://www.theregister.com/2025/01/23/ai_developer_devin_poor_reviews/</guid>
-      <pubDate>Mon, 27 Jan 2025 18:11:51 GMT</pubDate>
+      <title>德国大选前，网络平台将参与压力测试</title>
+      <link>https://www.euronews.com/next/2025/01/24/online-platforms-participate-in-stress-test-ahead-of-german-election</link>
+      <description><![CDATA[Euronews欧盟委员会发言人证实，将于 1 月 31 日举行压力测试，以确保在线平台在 2 月份德国大选之前实施了适当的风险缓解措施，以防止虚假信息。微软、TikTok、LinkedIn、谷歌、Snap、Meta 和 X 将参与压力测试，该测试由德国当局要求进行，并将涵盖各种场景。摘自“德国大选前参与压力测试的在线平台”
+Euronews (01/24/25) Cynthia Kroet 查看全文]]></description>
+      <guid>https://www.euronews.com/next/2025/01/24/online-platforms-participate-in-stress-test-ahead-of-german-election</guid>
+      <pubDate>Wed, 29 Jan 2025 18:11:35 GMT</pubDate>
     </item>
     <item>
-      <title>台湾报告史无前例的海底电缆损坏</title>
-      <link>https://asia.nikkei.com/Politics/International-relations/Taiwan-tensions/Taiwan-reports-unprecedented-undersea-cable-damage-this-year</link>
-      <description><![CDATA[日经亚洲 (日本)台湾政府表示，其通往马祖群岛的最后一条海底电缆链路于 1 月 22 日凌晨完全断开，而就在一周前，另一条电缆链路也发生故障。今年迄今为止，已有四条海底电缆中断，而 2024 年全年中断了三条。台湾拥有 14 条国际海底电缆和 10 条国内海底电缆。台湾总统赖清德表示支持开发通信卫星和其他技术作为备份。摘自“台湾报告前所未有的海底电缆损坏”
-日经亚洲 (日本) (2025 年 1 月 22 日) Lauly Li；Cheng Ting-Fang；周汤普森 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://asia.nikkei.com/Politics/International-relations/Taiwan-tensions/Taiwan-reports-unprecedented-undersea-cable-damage-this-year</guid>
-      <pubDate>Mon, 27 Jan 2025 18:11:51 GMT</pubDate>
+      <title>瑞典扣押疑似波罗的海电缆破坏事件船只</title>
+      <link>https://www.bbc.com/news/articles/cqx9g5wwp89o</link>
+      <description><![CDATA[BBC瑞典当局扣押了一艘悬挂马耳他国旗的船只，怀疑其破坏了拉脱维亚国家广播公司 LVRTC 在波罗的海海底的一条数据电缆。Vezhen 号的船锚似乎已损坏，但尽管检察官援引初步调查结果显示系蓄意破坏，但该船的船东保加利亚航运公司 Navigation Maritime Bulgare 表示，船锚在强风中触及海底。摘自“瑞典扣押疑似波罗的海电缆蓄意破坏船只”
+BBC (01/27/25) Ian Aikman 查看全文]]></description>
+      <guid>https://www.bbc.com/news/articles/cqx9g5wwp89o</guid>
+      <pubDate>Wed, 29 Jan 2025 18:11:34 GMT</pubDate>
     </item>
     <item>
-      <title>中国将举办人机半程马拉松</title>
-      <link>https://www.scmp.com/news/china/politics/article/3295384/china-host-worlds-first-human-robot-marathon-robotics-drives-national-goals</link>
-      <description><![CDATA[《南华早报》北京将于 4 月举行半程马拉松比赛，预计将有数十台类人机器人参赛。约有 12,000 人将参加比赛，与来自 20 多家公司的机器人一起奔跑，这些机器人外形与人类相似，但具有双足行走或跑步的机械结构。参赛机器人身高0.5-2米（1.6-6.5英尺），从髋关节到脚底的最大伸展距离至少为0.45米（1.5英尺）。摘自“中国将举办人机半程马拉松”
-南华早报 (01/20/25) Phoebe Zhang 查看全文]]></description>
-      <guid>https://www.scmp.com/news/china/politics/article/3295384/china-host-worlds-first-human-robot-marathon-robotics-drives-national-goals</guid>
-      <pubDate>Mon, 27 Jan 2025 18:11:50 GMT</pubDate>
+      <title>LeCun 称 DeepSeek 的成功证明了开源模型的优势</title>
+      <link>https://www.businessinsider.com/meta-ai-yann-lecun-deepseek-open-source-openai-2025-1</link>
+      <description><![CDATA[商业内幕ACM A.M. 图灵奖获得者 Yann LeCun 表示，中国人工智能公司 DeepSeek 最近发布的 R1 模型的成功表明了保持人工智能模型开源的价值。LeCun 在 Instagram 的 Threads 应用上发帖称，这并不是说中国的人工智能“超越了美国”，而是“开源模型正在超越专有模型”。“他们想出了新的想法，并在其他人的工作基础上构建了这些想法。因为他们的工作是公开的和开源的，所以每个人都可以从中获益。”摘自“LeCun 称 DeepSeek 的成功表明了开源模型的好处”
+商业内幕 (01/25/25) Katie Balevic；拉克希米·瓦拉纳西 查看全文]]></description>
+      <guid>https://www.businessinsider.com/meta-ai-yann-lecun-deepseek-open-source-openai-2025-1</guid>
+      <pubDate>Wed, 29 Jan 2025 18:11:34 GMT</pubDate>
     </item>
     <item>
-      <title>利用双码进行量子计算纠错</title>
-      <link>https://interestingengineering.com/science/scientists-demonstrate-first-ever-quantum-error-solving-with-dual-codes</link>
-      <description><![CDATA[有趣的工程奥地利因斯布鲁克大学和德国亚琛工业大学的研究人员开发的一种方法允许量子计算机在两种不同的校正码之间切换，以确保系统以无错误的方式执行所有计算任务。研究人员使用离子阱量子计算机上的全通用门组设计了一个量子电路。他们在两种不同的代码之间添加了容错代码切换，并准备了 12 种不同的逻辑状态，而这些状态无法由单个校正代码支持。摘自“使用双代码进行量子计算错误校正”
-有趣的工程 (01/25/25) Rupendra Brahambhatt 查看全文]]></description>
-      <guid>https://interestingengineering.com/science/scientists-demonstrate-first-ever-quantum-error-solving-with-dual-codes</guid>
-      <pubDate>Mon, 27 Jan 2025 18:11:50 GMT</pubDate>
+      <title>雪佛龙加入人工智能发电竞赛</title>
+      <link>https://www.nytimes.com/2025/01/28/business/energy-environment/chevron-power-plant-ai.html</link>
+      <description><![CDATA[《纽约时报》雪佛龙正与旧金山投资公司 Engine No. 1 合作，建设天然气发电厂，直接向 AI 数据中心输送能源，加入其他正在调整战略、更倾向于发电而非钻井和加工的石油和天然气生产商的行列。上个月，埃克森美孚表示，它也想涉足向数据中心出售电力的业务。摘自“雪佛龙加入为人工智能发电的竞争”
+纽约时报 (01/28/25) Rebecca F. Elliott 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2025/01/28/business/energy-environment/chevron-power-plant-ai.html</guid>
+      <pubDate>Wed, 29 Jan 2025 18:11:33 GMT</pubDate>
     </item>
     <item>
-      <title>亿万富翁在印度建造全球最大数据中心</title>
-      <link>https://www.bloomberg.com/news/articles/2025-01-23/billionaire-mukesh-ambani-plans-world-s-biggest-data-center-in-india-s-gujarat?sref=db2f3qgr</link>
-      <description><![CDATA[彭博社印度亿万富翁穆克什·安巴尼 (Mukesh Ambani) 的信实集团 (Reliance Group) 正在印度西部古吉拉特邦的贾姆讷格尔镇建造一座数据中心，这座数据中心的容量或将成为全球最大的数据中心。预计该数据中心的总容量将达到 3 千兆瓦；当今最大的数据中心的容量都不足 1 千兆瓦，并且都位于美国。摘自“亿万富翁在印度建造世界最大数据中心”
-彭博社 (01/24/25) Saritha Rai 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-01-23/billionaire-mukesh-ambani-plans-world-s-biggest-data-center-in-india-s-gujarat?sref=db2f3qgr</guid>
-      <pubDate>Mon, 27 Jan 2025 18:11:49 GMT</pubDate>
+      <title>桑德斯被任命为 RIT 校长</title>
+      <link>https://www.rit.edu/news/william-h-sanders-named-rits-11th-president</link>
+      <description><![CDATA[罗彻斯特理工学院ACM 院士 William H. Sanders 被任命为罗彻斯特理工学院 (RIT) 下一任校长。Sanders 目前担任卡内基梅隆大学工程学院院长，将于 7 月 1 日就任新职位。Sanders 的研究兴趣包括计算系统，重点是关键基础设施。他指导了国家努力使美国电网变得智能和有弹性的工作。摘自“Sanders 被任命为 RIT 校长”
+罗彻斯特理工学院 (01/28/25) Bob Finnerty 查看全文]]></description>
+      <guid>https://www.rit.edu/news/william-h-sanders-named-rits-11th-president</guid>
+      <pubDate>Wed, 29 Jan 2025 18:11:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普威胁对台湾芯片征收关税</title>
+      <link>https://www.pcmag.com/news/trump-to-tariff-chips-made-in-taiwan-targeting-tsmc</link>
+      <description><![CDATA[PC Magazine特朗普总统在周一的演讲中表示，他正准备对台湾生产的计算机芯片征收关税。他说：“他们离开我们，去了台湾。”他显然是在指许多领先的美国科技公司一直在从台湾的台积电采购处理器。“我们希望他们回来。”特朗普还批评了《芯片与科学法案》，称需要的不是财政激励来吸引制造业回到美国，而是关税。摘自“特朗普威胁对台湾生产的芯片征收关税”
+PC Magazine (01/28/25) Michael Kan 查看全文]]></description>
+      <guid>https://www.pcmag.com/news/trump-to-tariff-chips-made-in-taiwan-targeting-tsmc</guid>
+      <pubDate>Wed, 29 Jan 2025 18:11:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
