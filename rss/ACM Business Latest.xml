@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Wed, 29 Jan 2025 21:07:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 00:40:20 GMT</lastBuildDate>
+    <item>
+      <title>暴露的 DeepSeek 数据库揭示了聊天提示和内部数据</title>
+      <link>https://www.wired.com/story/exposed-deepseek-database-revealed-chat-prompts-and-internal-data/</link>
+      <description><![CDATA[总部位于中国的 DeepSeek 人气飙升，但也引发了更多关注。例如：安全研究人员在一个开放数据库中发现了超过 100 万条记录，其中包括用户数据和 API 密钥。]]></description>
+      <guid>https://www.wired.com/story/exposed-deepseek-database-revealed-chat-prompts-and-internal-data/</guid>
+      <pubDate>Wed, 29 Jan 2025 21:34:22 GMT</pubDate>
+    </item>
     <item>
       <title>伊隆·马斯克正在对联邦政府施行推特策略</title>
       <link>https://www.wired.com/story/elon-musk-twitter-playbook-federal-government/</link>
@@ -20,7 +27,7 @@
       <pubDate>Tue, 28 Jan 2025 22:50:58 GMT</pubDate>
     </item>
     <item>
-      <title>DeepSeek 的新 AI 模型引起美国竞争对手的震惊、敬畏和质疑</title>
+      <title>DeepSeek 的新 AI 模型引发美国竞争对手的震惊、敬畏和质疑</title>
       <link>https://www.wired.com/story/deepseek-executives-reaction-silicon-valley/</link>
       <description><![CDATA[一些人担心这家中国初创企业的出色技术表明美国正在失去人工智能领域的领先地位，但这实际上可能表明一种建立模型的新方法正在获得关注。]]></description>
       <guid>https://www.wired.com/story/deepseek-executives-reaction-silicon-valley/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[在唐纳德·特朗普的领导下，美国数字服务公司正在转变为伊隆·马斯克的成本削减机器。]]></description>
       <guid>https://www.wired.com/story/plaintext-trump-musk-us-digital-service-doge/</guid>
       <pubDate>Wed, 22 Jan 2025 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>新加坡的 Likee 不太可能成为 TikTok 禁令的赢家</title>
-      <link>https://www.wired.com/story/likee-tiktok-apps-rednote/</link>
-      <description><![CDATA[在美国一项法律暂时迫使美国人为他们的短视频习惯寻找新归宿后，TikTok 克隆版 Likee 的使用量激增。]]></description>
-      <guid>https://www.wired.com/story/likee-tiktok-apps-rednote/</guid>
-      <pubDate>Wed, 22 Jan 2025 17:27:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
