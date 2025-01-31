@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 31 Jan 2025 12:15:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 15:08:44 GMT</lastBuildDate>
+    <item>
+      <title>DeepSeek 让 OpenAI 兴奋不已</title>
+      <link>https://www.wired.com/story/openai-deepseek-stargate-sam-altman/</link>
+      <description><![CDATA[在中国初创企业震惊业界之后，OpenAI 提前做好了应对准备。]]></description>
+      <guid>https://www.wired.com/story/openai-deepseek-stargate-sam-altman/</guid>
+      <pubDate>Fri, 31 Jan 2025 15:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>专家称特朗普 Memecoin 的早期投资者可能已收到消息</title>
       <link>https://www.wired.com/story/trumpcoin-biggest-backers/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[当中国量化对冲基金创始人梁文峰进入人工智能研究领域时，他拿了一万块 Nvidia 芯片，组建了一支年轻有为的人才队伍。两年后，DeepSeek 一炮走红。]]></description>
       <guid>https://www.wired.com/story/deepseek-china-model-ai/</guid>
       <pubDate>Sat, 25 Jan 2025 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普加密货币复兴已经到来</title>
-      <link>https://www.wired.com/story/trump-crypto-executive-order/</link>
-      <description><![CDATA[美国总统唐纳德·特朗普不遗余力地向加密货币行业表示忠诚，该行业支持他 2024 年的竞选野心。业内人士认为，这一联盟可能预示着加密货币的黄金曙光。]]></description>
-      <guid>https://www.wired.com/story/trump-crypto-executive-order/</guid>
-      <pubDate>Thu, 23 Jan 2025 22:11:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
