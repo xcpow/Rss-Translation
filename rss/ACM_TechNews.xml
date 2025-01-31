@@ -4,111 +4,112 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Wed, 29 Jan 2025 18:11:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 18:11:42 GMT</lastBuildDate>
     <item>
-      <title>中国首个人形机器人实训基地正式启用</title>
-      <link>https://interestingengineering.com/innovation/china-first-humanoid-robot-base</link>
-      <description><![CDATA[有趣的工程中国在上海开设了首个人形机器人训练基地。据当地媒体报道，人形机器人麒麟训练场可同时训练 100 多个人形机器人，预计到 2027 年将同时训练 1,000 个通用机器人。该设施旨在加速先进机器人的商业化和广泛使用。摘自“中国开设首个人形机器人训练基地”
-有趣的工程 (01/22/25) Jijo Malayil 查看全文]]></description>
-      <guid>https://interestingengineering.com/innovation/china-first-humanoid-robot-base</guid>
-      <pubDate>Wed, 29 Jan 2025 18:11:38 GMT</pubDate>
+      <title>为早期侵袭性皮肤黑色素瘤提供计算启示</title>
+      <link>https://cs.uwaterloo.ca/news/shedding-computational-light-early-invasive-skin-melanoma</link>
+      <description><![CDATA[滑铁卢大学 Cheriton 计算机科学学院（加拿大）加拿大滑铁卢大学 Cheriton 计算机科学学院的研究人员利用皮肤计算模型模拟肿瘤进展早期阶段的生物物理变化，向无创检测早期侵袭性皮肤黑色素瘤迈进了一步。研究人员利用高光谱光照射皮肤 (HyLIoS) 模型，进行了计算机模拟实验，以模拟血管生成（从现有血管中形成新血管的过程）对早期黑色素瘤光谱特征的影响。摘自“为早期侵袭性皮肤黑色素瘤提供计算依据”
+滑铁卢大学 Cheriton 计算机科学学院（加拿大）（2025 年 1 月 29 日） 查看全文]]></description>
+      <guid>https://cs.uwaterloo.ca/news/shedding-computational-light-early-invasive-skin-melanoma</guid>
+      <pubDate>Fri, 31 Jan 2025 18:11:42 GMT</pubDate>
     </item>
     <item>
-      <title>NASA 3D 打印天线将增材制造推向新高度</title>
-      <link>https://www.nasa.gov/technology/nasa-3d-printed-antenna-takes-additive-manufacturing-to-new-heights/</link>
-      <description><![CDATA[NASANASA 工程师设计的磁电偶极天线通过 3D 打印制成，表明 3D 打印可用于创建一种经济高效的数据传输到地球的方法。该天线采用低电阻和可调陶瓷填充聚合物材料制成，已通过 NASA 的近太空网络中继卫星进行测试，并搭载在大气气象气球上飞行。摘自“NASA 3D 打印天线将增材制造推向新高度”
-NASA (01/22/25) Kendall Murphy 查看全文]]></description>
-      <guid>https://www.nasa.gov/technology/nasa-3d-printed-antenna-takes-additive-manufacturing-to-new-heights/</guid>
-      <pubDate>Wed, 29 Jan 2025 18:11:38 GMT</pubDate>
+      <title>梵蒂冈警告人工智能的风险</title>
+      <link>https://www.nytimes.com/2025/01/28/world/europe/vatican-artificial-intelligence-warning.html</link>
+      <description><![CDATA[《纽约时报》梵蒂冈 1 月 28 日发布的一份文件强调了对人工智能进行持续监督的必要性，指出该技术提供了大量机会，但也有“巨大风险”。这份由梵蒂冈团队与人工智能和其他专家联合撰写的文件表达了对人工智能通过传播错误信息破坏信任、造成孤立以及对人际关系可能产生有害影响的担忧。摘自“梵蒂冈警告人工智能的风险”
+《纽约时报》（2025 年 1 月 29 日）Elisabetta Povoledo 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2025/01/28/world/europe/vatican-artificial-intelligence-warning.html</guid>
+      <pubDate>Fri, 31 Jan 2025 18:11:42 GMT</pubDate>
     </item>
     <item>
-      <title>Mirai 僵尸网络利用 13,000 多台物联网设备发起创纪录的 5.6 Tbps DDoS 攻击</title>
-      <link>https://thehackernews.com/2025/01/mirai-botnet-launches-record-56-tbps.html</link>
-      <description><![CDATA[Hacker NewsCloudflare 表示，有史以来最大的分布式拒绝服务 (DDoS) 攻击发生在 2024 年 10 月 29 日，仅持续了 80 秒就被发现和阻止了。这次基于 5.6 兆兆位每秒 (Tbps) UDP 协议的攻击源自 Mirai 变体僵尸网络，影响了超过 13,000 台物联网 (IoT) 设备，目标是东亚一家未具名的互联网服务提供商。此次攻击打破了此前最大的 DDoS 攻击记录，该记录发生于同月早些时候，峰值为 3.8 Tbps。摘自“Mirai 僵尸网络发起创纪录的 5.6 Tbps DDoS 攻击，攻击对象超过 13,000 台 IoT 设备”
-The Hacker News (01/22/25) Ravie Lakshmanan 查看全文]]></description>
-      <guid>https://thehackernews.com/2025/01/mirai-botnet-launches-record-56-tbps.html</guid>
-      <pubDate>Wed, 29 Jan 2025 18:11:37 GMT</pubDate>
+      <title>蜘蛛侠主题编码活动汇聚包容性和解决问题能力</title>
+      <link>https://dailybruin.com/2025/01/29/spider-man-themed-coding-event-webs-together-inclusivity-problem-solving</link>
+      <description><![CDATA[Daily Bruin1 月 25 日，约有 100 名学生参加了由加州大学洛杉矶分校 (UCLA) 主办的编程活动“打破二进制：穿越蜘蛛侠宇宙”。ACM-Women 的 Anmol Gupta 表示，她希望此次活动能够包容计算机科学领域中代表性不足的群体。Gupta 表示：“只要看一下 ICPC（ACM 国际大学生程序设计大赛）的人口统计数据，就会发现有很多男性参与者。” “我们希望向女性、非二元性别者以及总体上代表性不足的群体开放，这些群体通常不参与竞争性编程。”摘自“蜘蛛侠主题编码活动将包容性和解决问题结合起来”
+Daily Bruin (01/29/25) Leilani Krantz；Alyssa Wong 查看全文]]></description>
+      <guid>https://dailybruin.com/2025/01/29/spider-man-themed-coding-event-webs-together-inclusivity-problem-solving</guid>
+      <pubDate>Fri, 31 Jan 2025 18:11:41 GMT</pubDate>
     </item>
     <item>
-      <title>“DNA 书”售价 65 美元，但你不能阅读它</title>
-      <link>https://www.techradar.com/pro/worlds-first-ever-dna-book-sells-for-usd65-is-like-a-silver-bullet-and-is-500kb-in-size-shame-you-cant-actually-read-it</link>
-      <description><![CDATA[TechRadarDNA 数字数据存储公司 CATALOG 与阿西莫夫出版社合作，出版了一本 240 页的书，其中包含九篇论文和三部科幻小说，共计 481,280 字节数据，这些数据被编码成 500,000 个独特的合成 DNA 分子。这本书售价 65 美元，装在子弹形钢制 DNA 胶囊中，分子以干粉形式储存在惰性气体下，以便长期保存。然而，这本书的内容实际上无法阅读。
-摘自“‘DNA 书’售价 65 美元，但你无法阅读”
-TechRadar (01/22/25) Wayne Williams 查看全文]]></description>
-      <guid>https://www.techradar.com/pro/worlds-first-ever-dna-book-sells-for-usd65-is-like-a-silver-bullet-and-is-500kb-in-size-shame-you-cant-actually-read-it</guid>
-      <pubDate>Wed, 29 Jan 2025 18:11:37 GMT</pubDate>
+      <title>该计划旨在实现道德编码法学硕士</title>
+      <link>https://spectrum.ieee.org/coding-ai</link>
+      <description><![CDATA[IEEE Spectrum非营利性软件遗产组织已启动 CodeCommons 项目，旨在创建最大的合乎道德的源代码库，用于训练 AI 模型。CodeCommons 将专注于开发一个统一的数据平台，让研究人员可以访问预先清理的代码集合，其中包含许可信息、相关研究论文的链接和其他元数据。摘自“旨在实现道德编码法学硕士的倡议”
+IEEE Spectrum (01/28/25) Edd Gent 查看全文]]></description>
+      <guid>https://spectrum.ieee.org/coding-ai</guid>
+      <pubDate>Fri, 31 Jan 2025 18:11:41 GMT</pubDate>
     </item>
     <item>
-      <title>Linux 内核源代码已超过 4000 万行</title>
-      <link>https://www.tomshardware.com/software/linux/linux-kernel-source-expands-beyond-40-million-lines-it-has-doubled-in-size-in-a-decade</link>
-      <description><![CDATA[Tom&#39;s Hardware随着 Linux 6.14 rc1 的发布，Linux 内核源代码已扩展到 40,063,856 行，是 2015 年的两倍。这一数字较 1 月初 Linux 6.13 发布时的 39,819,522 行有所增加。 Linux 内核源代码每两个月增加约 400,000 行代码，包括代码、注释、文档和用于结构和可读性的空行。摘自“Linux 内核源代码扩展到 4000 万行以上”
-Tom&#39;s Hardware (01/26/25) Mark Tyson 查看全文]]></description>
-      <guid>https://www.tomshardware.com/software/linux/linux-kernel-source-expands-beyond-40-million-lines-it-has-doubled-in-size-in-a-decade</guid>
-      <pubDate>Wed, 29 Jan 2025 18:11:36 GMT</pubDate>
+      <title>人工智能机器人和游戏帮助科学家识别深海物种</title>
+      <link>https://www.bloomberg.com/features/2025-ai-sea-creature-robot/</link>
+      <description><![CDATA[彭博社蒙特利湾水族馆研究所 (MBARI) 的科学家正在使用人工智能机器人 MiniROV 来自动定位和追踪海洋生物。MBARI 的 Kakani Katija 表示：“我们的目标是追踪单个动物长达 24 小时，这样我们就可以回答有关动物行为和生态的问题。”研究人员还推出了 FathomVerse，这是一款游戏，允许公民科学家探索虚拟海洋并对 FathomNet 数据库中的海洋生物进行分类，以训练人工智能。摘自“人工智能机器人和游戏帮助科学家识别深海物种”
+彭博社 (01/29/25) Todd Woody 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.bloomberg.com/features/2025-ai-sea-creature-robot/</guid>
+      <pubDate>Fri, 31 Jan 2025 18:11:40 GMT</pubDate>
     </item>
     <item>
-      <title>巴基斯坦议会通过法案，对社交媒体实施全面管控</title>
-      <link>https://apnews.com/article/pakistan-cyber-law-social-media-6de3a878c434abb154b91012bc9ca33c</link>
-      <description><![CDATA[美联社巴基斯坦议会下院于 1 月 23 日通过了《防止电子犯罪法》，该法案将设立社交媒体保护和监管局，该局有权下令立即封锁“非法和攻击性”社交媒体内容以及发布此类内容的人。这包括批评法官、武装部队、议会或省议会的内容。此外，社交媒体平台必须向新机构注册，否则将面临被禁止的风险。摘自“巴基斯坦议会通过法案，全面控制社交媒体”
-美联社 (01/23/25) Munir Ahmed 查看全文]]></description>
-      <guid>https://apnews.com/article/pakistan-cyber-law-social-media-6de3a878c434abb154b91012bc9ca33c</guid>
-      <pubDate>Wed, 29 Jan 2025 18:11:36 GMT</pubDate>
+      <title>“计算”市场会是下一件大事吗？</title>
+      <link>https://www.wsj.com/tech/ai/ai-needs-a-lot-of-computing-power-is-a-market-for-compute-the-next-big-thing-2302133c</link>
+      <description><![CDATA[《华尔街日报》初创公司 Compute Exchange 将允许数据中心运营商和云提供商通过拍卖出售其过剩的计算能力，其中人工智能公司可以购买不同芯片阵列的处理时间块。该交易平台的创始人 Donald Wilson Jr. 预测，未来十年，石油“将被计算取代”成为最大的商品。该初创公司预计约有 12 位卖家将参加 2 月 25 日的首次公开拍卖。摘自“‘计算’市场会成为下一件大事吗？”
+
+华尔街日报 (01/29/25) Alexander Osipovich 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/tech/ai/ai-needs-a-lot-of-computing-power-is-a-market-for-compute-the-next-big-thing-2302133c</guid>
+      <pubDate>Fri, 31 Jan 2025 18:11:40 GMT</pubDate>
     </item>
     <item>
-      <title>一个人一次可以控制多少个机器人？</title>
-      <link>https://spectrum.ieee.org/darpa-robot</link>
-      <description><![CDATA[IEEE Spectrum由俄勒冈州立大学的 Julia A. Adams 领导的研究人员发现，单个人类可以有效地管理超过 100 架自主空中和地面无人机组成的异质群体。该研究由美国国防高级研究计划局资助，涉及观察人类控制者在管理异质机器人群体时的生理反应。观察到的最大任务包括 110 架无人机、30 辆地面车辆和多达 50 辆虚拟车辆，它们在物理城市环境和一系列复杂的虚拟危险中导航。摘自“一个人可以同时控制多少个机器人？”
-IEEE Spectrum (01/26/25) Michelle Hampson 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/darpa-robot</guid>
-      <pubDate>Wed, 29 Jan 2025 18:11:35 GMT</pubDate>
+      <title>5,444 位数学天才齐聚西雅图</title>
+      <link>https://www.nytimes.com/2025/01/28/science/mathematics-ai-conference-jmm.html</link>
+      <description><![CDATA[《纽约时报》联合数学会议于 1 月 8 日至 11 日在西雅图举行，吸引了 5,444 名数学家参加，主题为“人工智能时代的数学”。Meta 首席人工智能科学家、ACM A.M. 图灵奖获得者 Yann LeCun 发表了主题演讲，探讨了机器学习的现状。 LeCun 还建议用“大规模世界模型”来替代生成式大型语言模型，并指出它“可以推理和规划，因为它有一个可以预测其行为后果的世界心理模型。”摘自“在西雅图，5,444 位数学头脑的汇聚”
+纽约时报 (01/28/25) Siobhan Roberts 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2025/01/28/science/mathematics-ai-conference-jmm.html</guid>
+      <pubDate>Fri, 31 Jan 2025 18:11:39 GMT</pubDate>
     </item>
     <item>
-      <title>德国大选前，网络平台将参与压力测试</title>
-      <link>https://www.euronews.com/next/2025/01/24/online-platforms-participate-in-stress-test-ahead-of-german-election</link>
-      <description><![CDATA[Euronews欧盟委员会发言人证实，将于 1 月 31 日举行压力测试，以确保在线平台在 2 月份德国大选之前实施了适当的风险缓解措施，以防止虚假信息。微软、TikTok、LinkedIn、谷歌、Snap、Meta 和 X 将参与压力测试，该测试由德国当局要求进行，并将涵盖各种场景。摘自“德国大选前参与压力测试的在线平台”
-Euronews (01/24/25) Cynthia Kroet 查看全文]]></description>
-      <guid>https://www.euronews.com/next/2025/01/24/online-platforms-participate-in-stress-test-ahead-of-german-election</guid>
-      <pubDate>Wed, 29 Jan 2025 18:11:35 GMT</pubDate>
+      <title>人工智能、全息图创建牢不可破的光学加密系统</title>
+      <link>https://www.optica.org/about/newsroom/news_releases/2025/researchers_combine_holograms_and_ai_to_create_uncrackable_optical_encryption_system/</link>
+      <description><![CDATA[Optica希腊克里特大学 Stelios Tzortzakis 领导的团队将人工智能与全息加密相结合，开发出一种超安全的数据保护系统，该系统使用神经网络检索以全息图形式存储的精心打乱的信息。研究人员发现，神经网络可以准确地检索编码图像，准确率达 90-95%。摘自“人工智能、全息图创建不可破解的光学加密系统”
+Optica (01/30/25) 查看全文]]></description>
+      <guid>https://www.optica.org/about/newsroom/news_releases/2025/researchers_combine_holograms_and_ai_to_create_uncrackable_optical_encryption_system/</guid>
+      <pubDate>Fri, 31 Jan 2025 18:11:39 GMT</pubDate>
     </item>
     <item>
-      <title>瑞典扣押疑似波罗的海电缆破坏事件船只</title>
-      <link>https://www.bbc.com/news/articles/cqx9g5wwp89o</link>
-      <description><![CDATA[BBC瑞典当局扣押了一艘悬挂马耳他国旗的船只，怀疑其破坏了拉脱维亚国家广播公司 LVRTC 在波罗的海海底的一条数据电缆。Vezhen 号的船锚似乎已损坏，但尽管检察官援引初步调查结果显示系蓄意破坏，但该船的船东保加利亚航运公司 Navigation Maritime Bulgare 表示，船锚在强风中触及海底。摘自“瑞典扣押疑似波罗的海电缆蓄意破坏船只”
-BBC (01/27/25) Ian Aikman 查看全文]]></description>
-      <guid>https://www.bbc.com/news/articles/cqx9g5wwp89o</guid>
-      <pubDate>Wed, 29 Jan 2025 18:11:34 GMT</pubDate>
+      <title>量子启发算法可以实现更好的天气预报</title>
+      <link>https://www.newscientist.com/article/2465610-quantum-inspired-algorithm-could-enable-better-weather-forecasts/</link>
+      <description><![CDATA[《新科学家》英国牛津大学的研究人员使用张量网络来表示湍流概率分布，然后使用这些量子启发算法来模拟湍流流体流动，这是准确预报天气的关键。研究人员在一台标准笔记本电脑上仅用几个小时就完成了这项工作，而使用现有工具在超级计算机上则需要几天时间。该团队利用张量网络将处理器需求减少了 1,000 倍，将内存需求减少了百万倍。摘自“量子启发算法可以实现更好的天气预报”
+
+《新科学家》（2025 年 1 月 29 日）Matthew Sparkes 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.newscientist.com/article/2465610-quantum-inspired-algorithm-could-enable-better-weather-forecasts/</guid>
+      <pubDate>Fri, 31 Jan 2025 18:11:39 GMT</pubDate>
     </item>
     <item>
-      <title>LeCun 称 DeepSeek 的成功证明了开源模型的优势</title>
-      <link>https://www.businessinsider.com/meta-ai-yann-lecun-deepseek-open-source-openai-2025-1</link>
-      <description><![CDATA[商业内幕ACM A.M. 图灵奖获得者 Yann LeCun 表示，中国人工智能公司 DeepSeek 最近发布的 R1 模型的成功表明了保持人工智能模型开源的价值。LeCun 在 Instagram 的 Threads 应用上发帖称，这并不是说中国的人工智能“超越了美国”，而是“开源模型正在超越专有模型”。“他们想出了新的想法，并在其他人的工作基础上构建了这些想法。因为他们的工作是公开的和开源的，所以每个人都可以从中获益。”摘自“LeCun 称 DeepSeek 的成功表明了开源模型的好处”
-商业内幕 (01/25/25) Katie Balevic；拉克希米·瓦拉纳西 查看全文]]></description>
-      <guid>https://www.businessinsider.com/meta-ai-yann-lecun-deepseek-open-source-openai-2025-1</guid>
-      <pubDate>Wed, 29 Jan 2025 18:11:34 GMT</pubDate>
+      <title>Apple CPU 侧通道攻击窃取浏览器数据</title>
+      <link>https://www.bleepingcomputer.com/news/security/new-apple-cpu-side-channel-attack-steals-data-from-browsers/</link>
+      <description><![CDATA[BleepingComputer在单独的论文中，佐治亚理工学院和德国波鸿鲁尔大学的研究人员详细介绍了涉及现代 Apple 处理器的新型 CPU 侧信道攻击，这些攻击可以通过 Web 浏览器使用包含 JavaScript 或 WebAssembly 代码的恶意网页远程执行。这些攻击被称为虚假加载输出预测 (FLOP) 和推测加载地址预测 (SLAP)，旨在预测未来指令的功能，以加速处理。Apple 表示计划解决这些漏洞。摘自“Apple CPU 侧信道攻击从浏览器窃取数据”
+BleepingComputer (01/28/25) Bill Toulas 查看全文]]></description>
+      <guid>https://www.bleepingcomputer.com/news/security/new-apple-cpu-side-channel-attack-steals-data-from-browsers/</guid>
+      <pubDate>Fri, 31 Jan 2025 18:11:38 GMT</pubDate>
     </item>
     <item>
-      <title>雪佛龙加入人工智能发电竞赛</title>
-      <link>https://www.nytimes.com/2025/01/28/business/energy-environment/chevron-power-plant-ai.html</link>
-      <description><![CDATA[《纽约时报》雪佛龙正与旧金山投资公司 Engine No. 1 合作，建设天然气发电厂，直接向 AI 数据中心输送能源，加入其他正在调整战略、更倾向于发电而非钻井和加工的石油和天然气生产商的行列。上个月，埃克森美孚表示，它也想涉足向数据中心出售电力的业务。摘自“雪佛龙加入为人工智能发电的竞争”
-纽约时报 (01/28/25) Rebecca F. Elliott 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2025/01/28/business/energy-environment/chevron-power-plant-ai.html</guid>
-      <pubDate>Wed, 29 Jan 2025 18:11:33 GMT</pubDate>
+      <title>参议员重新审议禁止 13 岁以下儿童使用社交媒体的法案</title>
+      <link>https://www.washingtonpost.com/politics/2025/01/28/senators-revive-bill-ban-kids-under-13-social-media/</link>
+      <description><![CDATA[《华盛顿邮报》美国参议员 Brian Schatz (D-HI) 和 Ted Cruz (R-TX) 重新提出的《儿童远离社交媒体法案》将禁止 13 岁以下儿童使用社交媒体，禁止社交媒体平台针对青少年用户进行个性化推荐，并使禁止学生使用社交媒体的学校有资格获得联邦互联网补贴。由于 Cruz 担任美国参议院商务委员会主席，该法案预计将成为有关社交媒体监管的更广泛辩论的一部分。摘自“参议员重新提出禁止 13 岁以下儿童使用社交媒体的法案”
+《华盛顿邮报》 (01/28/25) Cristiano Lima-Strong；安德里亚·吉米内斯 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.washingtonpost.com/politics/2025/01/28/senators-revive-bill-ban-kids-under-13-social-media/</guid>
+      <pubDate>Fri, 31 Jan 2025 18:11:38 GMT</pubDate>
     </item>
     <item>
-      <title>桑德斯被任命为 RIT 校长</title>
-      <link>https://www.rit.edu/news/william-h-sanders-named-rits-11th-president</link>
-      <description><![CDATA[罗彻斯特理工学院ACM 院士 William H. Sanders 被任命为罗彻斯特理工学院 (RIT) 下一任校长。Sanders 目前担任卡内基梅隆大学工程学院院长，将于 7 月 1 日就任新职位。Sanders 的研究兴趣包括计算系统，重点是关键基础设施。他指导了国家努力使美国电网变得智能和有弹性的工作。摘自“Sanders 被任命为 RIT 校长”
-罗彻斯特理工学院 (01/28/25) Bob Finnerty 查看全文]]></description>
-      <guid>https://www.rit.edu/news/william-h-sanders-named-rits-11th-president</guid>
-      <pubDate>Wed, 29 Jan 2025 18:11:33 GMT</pubDate>
+      <title>国际人工智能安全报告在行动峰会前发布</title>
+      <link>https://www.gov.uk/government/news/first-international-ai-safety-report-to-inform-discussions-at-ai-action-summit</link>
+      <description><![CDATA[Gov.UK周三，法国主办的人工智能行动峰会前夕发布了一份国际人工智能安全报告，该报告汇集了 100 位独立国际专家的见解。该报告的推动者、ACM A. M. 图灵奖获得者 Yoshua Bengio 表示，尽管人工智能对社会具有“巨大潜力”，但也存在“重大风险”。他说，该报告的目的是“促进围绕这些风险的建设性和基于证据的讨论，并为世界各地的政策制定者了解通用人工智能的能力、风险和可能的缓解措施提供共同基础。”摘自“行动峰会前发布的国际人工智能安全报告”
+Gov.UK (01/29/25) 查看全文]]></description>
+      <guid>https://www.gov.uk/government/news/first-international-ai-safety-report-to-inform-discussions-at-ai-action-summit</guid>
+      <pubDate>Fri, 31 Jan 2025 18:11:37 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普威胁对台湾芯片征收关税</title>
-      <link>https://www.pcmag.com/news/trump-to-tariff-chips-made-in-taiwan-targeting-tsmc</link>
-      <description><![CDATA[PC Magazine特朗普总统在周一的演讲中表示，他正准备对台湾生产的计算机芯片征收关税。他说：“他们离开我们，去了台湾。”他显然是在指许多领先的美国科技公司一直在从台湾的台积电采购处理器。“我们希望他们回来。”特朗普还批评了《芯片与科学法案》，称需要的不是财政激励来吸引制造业回到美国，而是关税。摘自“特朗普威胁对台湾生产的芯片征收关税”
-PC Magazine (01/28/25) Michael Kan 查看全文]]></description>
-      <guid>https://www.pcmag.com/news/trump-to-tariff-chips-made-in-taiwan-targeting-tsmc</guid>
-      <pubDate>Wed, 29 Jan 2025 18:11:32 GMT</pubDate>
+      <title>敏感的 DeepSeek 数据暴露在网络上</title>
+      <link>https://www.reuters.com/technology/artificial-intelligence/sensitive-deepseek-data-exposed-web-israeli-cyber-firm-says-2025-01-29/</link>
+      <description><![CDATA[路透社网络安全公司 Wiz 在一篇博文中表示，对中国 AI 初创公司 DeepSeek 基础设施的扫描显示，该公司无意中留下了超过一百万行未受保护的数据，包括数字软件密钥和聊天记录，这些数据似乎捕获了用户向该公司最近推出的 AI 助手发送的提示。在向 DeepSeek 通报这一发现后，该公司迅速保护了这些数据。摘自“敏感的 DeepSeek 数据暴露在网络上”
+路透社 (01/29/25) Raphael Satter 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/artificial-intelligence/sensitive-deepseek-data-exposed-web-israeli-cyber-firm-says-2025-01-29/</guid>
+      <pubDate>Fri, 31 Jan 2025 18:11:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
