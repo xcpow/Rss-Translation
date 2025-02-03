@@ -4,112 +4,95 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Fri, 31 Jan 2025 18:11:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 18:11:46 GMT</lastBuildDate>
     <item>
-      <title>为早期侵袭性皮肤黑色素瘤提供计算启示</title>
-      <link>https://cs.uwaterloo.ca/news/shedding-computational-light-early-invasive-skin-melanoma</link>
-      <description><![CDATA[滑铁卢大学 Cheriton 计算机科学学院（加拿大）加拿大滑铁卢大学 Cheriton 计算机科学学院的研究人员利用皮肤计算模型模拟肿瘤进展早期阶段的生物物理变化，向无创检测早期侵袭性皮肤黑色素瘤迈进了一步。研究人员利用高光谱光照射皮肤 (HyLIoS) 模型，进行了计算机模拟实验，以模拟血管生成（从现有血管中形成新血管的过程）对早期黑色素瘤光谱特征的影响。摘自“为早期侵袭性皮肤黑色素瘤提供计算依据”
-滑铁卢大学 Cheriton 计算机科学学院（加拿大）（2025 年 1 月 29 日） 查看全文]]></description>
-      <guid>https://cs.uwaterloo.ca/news/shedding-computational-light-early-invasive-skin-melanoma</guid>
-      <pubDate>Fri, 31 Jan 2025 18:11:42 GMT</pubDate>
+      <title>DeepSeek 的聊天机器人审计准确率达到 17%</title>
+      <link>https://www.reuters.com/world/china/deepseeks-chatbot-achieves-17-accuracy-trails-western-rivals-newsguard-audit-2025-01-29/</link>
+      <description><![CDATA[路透社可信度评级服务 NewsGuard 的审计发现，中国人工智能初创公司 DeepSeek 推出的聊天机器人在传递新闻和信息方面的准确率为 17%。DeepSeek 在 53% 的时间里提供模糊或无用的答案，在 30% 的时间里重复虚假声明，失败率为 83%。相比之下，包括 OpenAI 在内的西方竞争对手的平均失败率为 62%。摘自“DeepSeek 的聊天机器人在审计中实现了 17% 的准确率”
+路透社 (01/29/25) Rishi Kant 查看全文]]></description>
+      <guid>https://www.reuters.com/world/china/deepseeks-chatbot-achieves-17-accuracy-trails-western-rivals-newsguard-audit-2025-01-29/</guid>
+      <pubDate>Mon, 03 Feb 2025 18:11:46 GMT</pubDate>
     </item>
     <item>
-      <title>梵蒂冈警告人工智能的风险</title>
-      <link>https://www.nytimes.com/2025/01/28/world/europe/vatican-artificial-intelligence-warning.html</link>
-      <description><![CDATA[《纽约时报》梵蒂冈 1 月 28 日发布的一份文件强调了对人工智能进行持续监督的必要性，指出该技术提供了大量机会，但也有“巨大风险”。这份由梵蒂冈团队与人工智能和其他专家联合撰写的文件表达了对人工智能通过传播错误信息破坏信任、造成孤立以及对人际关系可能产生有害影响的担忧。摘自“梵蒂冈警告人工智能的风险”
-《纽约时报》（2025 年 1 月 29 日）Elisabetta Povoledo 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2025/01/28/world/europe/vatican-artificial-intelligence-warning.html</guid>
-      <pubDate>Fri, 31 Jan 2025 18:11:42 GMT</pubDate>
+      <title>中国、伊朗黑客利用美国人工智能产品加强网络攻击</title>
+      <link>https://www.wsj.com/tech/ai/chinese-and-iranian-hackers-are-using-u-s-ai-products-to-bolster-cyberattacks-ff3c5884</link>
+      <description><![CDATA[《华尔街日报》据美国官员和安全研究人员称，与中国、伊朗和其他外国政府有关的黑客正在使用最新的美国人工智能技术来加强他们的网络攻击。谷歌的网络威胁专家表示，去年，其他 20 多个国家的数十个黑客组织部署了谷歌的 Gemini 聊天机器人来协助编写恶意代码和定位。摘自“中国、伊朗黑客使用美国人工智能产品加强网络攻击”
+《华尔街日报》（2025 年 1 月 30 日）Dustin Volz； Robert McMillan 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/tech/ai/chinese-and-iranian-hackers-are-using-u-s-ai-products-to-bolster-cyberattacks-ff3c5884</guid>
+      <pubDate>Mon, 03 Feb 2025 18:11:45 GMT</pubDate>
     </item>
     <item>
-      <title>蜘蛛侠主题编码活动汇聚包容性和解决问题能力</title>
-      <link>https://dailybruin.com/2025/01/29/spider-man-themed-coding-event-webs-together-inclusivity-problem-solving</link>
-      <description><![CDATA[Daily Bruin1 月 25 日，约有 100 名学生参加了由加州大学洛杉矶分校 (UCLA) 主办的编程活动“打破二进制：穿越蜘蛛侠宇宙”。ACM-Women 的 Anmol Gupta 表示，她希望此次活动能够包容计算机科学领域中代表性不足的群体。Gupta 表示：“只要看一下 ICPC（ACM 国际大学生程序设计大赛）的人口统计数据，就会发现有很多男性参与者。” “我们希望向女性、非二元性别者以及总体上代表性不足的群体开放，这些群体通常不参与竞争性编程。”摘自“蜘蛛侠主题编码活动将包容性和解决问题结合起来”
-Daily Bruin (01/29/25) Leilani Krantz；Alyssa Wong 查看全文]]></description>
-      <guid>https://dailybruin.com/2025/01/29/spider-man-themed-coding-event-webs-together-inclusivity-problem-solving</guid>
-      <pubDate>Fri, 31 Jan 2025 18:11:41 GMT</pubDate>
+      <title>58% 的勒索软件受害者被迫关闭业务</title>
+      <link>https://www.infosecurity-magazine.com/news/ransomware-victims-shut-operations/</link>
+      <description><![CDATA[Infosecurity MagazinePonemon Institute 的一份报告发现，去年受勒索软件攻击影响的组织中有 58% 不得不停止运营，高于 2021 年的 45%。40% 的组织因此类攻击而遭受了重大收入损失，高于 22%，而 35% 的组织报告品牌受损，高于 21%。摘自“58% 的勒索软件受害者被迫关闭运营”
+Infosecurity Magazine (01/28/25) James Coker 查看全文]]></description>
+      <guid>https://www.infosecurity-magazine.com/news/ransomware-victims-shut-operations/</guid>
+      <pubDate>Mon, 03 Feb 2025 18:11:45 GMT</pubDate>
     </item>
     <item>
-      <title>该计划旨在实现道德编码法学硕士</title>
-      <link>https://spectrum.ieee.org/coding-ai</link>
-      <description><![CDATA[IEEE Spectrum非营利性软件遗产组织已启动 CodeCommons 项目，旨在创建最大的合乎道德的源代码库，用于训练 AI 模型。CodeCommons 将专注于开发一个统一的数据平台，让研究人员可以访问预先清理的代码集合，其中包含许可信息、相关研究论文的链接和其他元数据。摘自“旨在实现道德编码法学硕士的倡议”
-IEEE Spectrum (01/28/25) Edd Gent 查看全文]]></description>
-      <guid>https://spectrum.ieee.org/coding-ai</guid>
-      <pubDate>Fri, 31 Jan 2025 18:11:41 GMT</pubDate>
+      <title>美国青少年日益受到网上虚假内容的误导</title>
+      <link>https://edition.cnn.com/2025/01/30/tech/american-teens-ai-study/index.html</link>
+      <description><![CDATA[美国有线电视新闻网非营利性倡导组织 Common Sense Media 对 1,000 名 13 至 18 岁青少年进行的一项调查显示，约 35% 的受访者曾被虚假网络内容欺骗；另有 41% 的人承认曾看到过真实但具有误导性的内容，22% 的人曾分享过他们后来发现是虚假的信息。 Common Sense 表示，遇到虚假在线内容的受访者更有可能相信人工智能会让在线信息验证变得更加困难。摘自“美国青少年越来越多地被网上虚假内容误导”
+CNN (01/30/25) Liam Reilly 查看全文]]></description>
+      <guid>https://edition.cnn.com/2025/01/30/tech/american-teens-ai-study/index.html</guid>
+      <pubDate>Mon, 03 Feb 2025 18:11:44 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能机器人和游戏帮助科学家识别深海物种</title>
-      <link>https://www.bloomberg.com/features/2025-ai-sea-creature-robot/</link>
-      <description><![CDATA[彭博社蒙特利湾水族馆研究所 (MBARI) 的科学家正在使用人工智能机器人 MiniROV 来自动定位和追踪海洋生物。MBARI 的 Kakani Katija 表示：“我们的目标是追踪单个动物长达 24 小时，这样我们就可以回答有关动物行为和生态的问题。”研究人员还推出了 FathomVerse，这是一款游戏，允许公民科学家探索虚拟海洋并对 FathomNet 数据库中的海洋生物进行分类，以训练人工智能。摘自“人工智能机器人和游戏帮助科学家识别深海物种”
-彭博社 (01/29/25) Todd Woody 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.bloomberg.com/features/2025-ai-sea-creature-robot/</guid>
-      <pubDate>Fri, 31 Jan 2025 18:11:40 GMT</pubDate>
+      <title>OpenAI 向国家实验室提供模型</title>
+      <link>https://www.axios.com/2025/01/30/openai-microsoft-sam-altman-los-alamos-science</link>
+      <description><![CDATA[AxiosOpenAI 的 o1 推理模型或其 o 系列中的另一个模型将部署在洛斯阿拉莫斯国家实验室的 Venado 超级计算机上。与美国政府的协议将使该模型也可供劳伦斯利弗莫尔和桑迪亚国家实验室的研究人员使用。洛斯阿拉莫斯的 Thom Mason 表示：“随着对国家的威胁变得越来越复杂和紧迫，我们需要新的方法和先进的技术来维护美国的安全。”摘自“OpenAI 向国家实验室提供模型”
+Axios (01/30/25) Ina Fried 查看全文]]></description>
+      <guid>https://www.axios.com/2025/01/30/openai-microsoft-sam-altman-los-alamos-science</guid>
+      <pubDate>Mon, 03 Feb 2025 18:11:44 GMT</pubDate>
     </item>
     <item>
-      <title>“计算”市场会是下一件大事吗？</title>
-      <link>https://www.wsj.com/tech/ai/ai-needs-a-lot-of-computing-power-is-a-market-for-compute-the-next-big-thing-2302133c</link>
-      <description><![CDATA[《华尔街日报》初创公司 Compute Exchange 将允许数据中心运营商和云提供商通过拍卖出售其过剩的计算能力，其中人工智能公司可以购买不同芯片阵列的处理时间块。该交易平台的创始人 Donald Wilson Jr. 预测，未来十年，石油“将被计算取代”成为最大的商品。该初创公司预计约有 12 位卖家将参加 2 月 25 日的首次公开拍卖。摘自“‘计算’市场会成为下一件大事吗？”
-
-华尔街日报 (01/29/25) Alexander Osipovich 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/tech/ai/ai-needs-a-lot-of-computing-power-is-a-market-for-compute-the-next-big-thing-2302133c</guid>
-      <pubDate>Fri, 31 Jan 2025 18:11:40 GMT</pubDate>
+      <title>以色列初创企业在战争中发挥关键作用后制定全球计划</title>
+      <link>https://www.reuters.com/world/middle-east/israeli-startups-make-global-plans-after-key-role-war-2025-01-31/</link>
+      <description><![CDATA[路透社以色列初创公司正利用他们在战争中的成功，在全球范围内签订协议。例如，Xtend 已经与美国政府签订了合同，该公司制造的人工智能无人机能够在 9,000 公里（5,600 英里）外以最少的人工参与进行高精度打击。2023 年 10 月至 2024 年底期间，以色列国防部向 101 家初创公司和小型企业授予了 2.19 亿美元的合同，以支持战争努力。摘自“以色列初创公司在战争中发挥关键作用后制定全球计划”
+路透社 (01/31/25) Emily Rose；迈克尔·卡恩 查看全文]]></description>
+      <guid>https://www.reuters.com/world/middle-east/israeli-startups-make-global-plans-after-key-role-war-2025-01-31/</guid>
+      <pubDate>Mon, 03 Feb 2025 18:11:43 GMT</pubDate>
     </item>
     <item>
-      <title>5,444 位数学天才齐聚西雅图</title>
-      <link>https://www.nytimes.com/2025/01/28/science/mathematics-ai-conference-jmm.html</link>
-      <description><![CDATA[《纽约时报》联合数学会议于 1 月 8 日至 11 日在西雅图举行，吸引了 5,444 名数学家参加，主题为“人工智能时代的数学”。Meta 首席人工智能科学家、ACM A.M. 图灵奖获得者 Yann LeCun 发表了主题演讲，探讨了机器学习的现状。 LeCun 还建议用“大规模世界模型”来替代生成式大型语言模型，并指出它“可以推理和规划，因为它有一个可以预测其行为后果的世界心理模型。”摘自“在西雅图，5,444 位数学头脑的汇聚”
-纽约时报 (01/28/25) Siobhan Roberts 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2025/01/28/science/mathematics-ai-conference-jmm.html</guid>
-      <pubDate>Fri, 31 Jan 2025 18:11:39 GMT</pubDate>
+      <title>欧盟禁止使用具有“不可接受风险”的人工智能系统</title>
+      <link>https://techcrunch.com/2025/02/02/ai-systems-with-unacceptable-risk-are-now-banned-in-the-eu/</link>
+      <description><![CDATA[TechCrunch根据去年三月欧洲议会批准的欧盟人工智能法案，自周日起，欧盟监管机构可以禁止使用他们认为会带来“不可接受的风险”或危害的人工智能系统。不可接受的活动包括使用人工智能进行社交评分、欺骗性地操纵一个人的决定、根据外表预测人们是否会犯罪、试图推断人们的情绪等。摘自“欧盟现已禁止使用具有‘不可接受风险’的人工智能系统”
+TechCrunch (02/02/25) Kyle Wiggers 查看全文]]></description>
+      <guid>https://techcrunch.com/2025/02/02/ai-systems-with-unacceptable-risk-are-now-banned-in-the-eu/</guid>
+      <pubDate>Mon, 03 Feb 2025 18:11:43 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能、全息图创建牢不可破的光学加密系统</title>
-      <link>https://www.optica.org/about/newsroom/news_releases/2025/researchers_combine_holograms_and_ai_to_create_uncrackable_optical_encryption_system/</link>
-      <description><![CDATA[Optica希腊克里特大学 Stelios Tzortzakis 领导的团队将人工智能与全息加密相结合，开发出一种超安全的数据保护系统，该系统使用神经网络检索以全息图形式存储的精心打乱的信息。研究人员发现，神经网络可以准确地检索编码图像，准确率达 90-95%。摘自“人工智能、全息图创建不可破解的光学加密系统”
-Optica (01/30/25) 查看全文]]></description>
-      <guid>https://www.optica.org/about/newsroom/news_releases/2025/researchers_combine_holograms_and_ai_to_create_uncrackable_optical_encryption_system/</guid>
-      <pubDate>Fri, 31 Jan 2025 18:11:39 GMT</pubDate>
+      <title>随着各国大力推行数字支付，亚洲迈向无现金时代</title>
+      <link>https://asia.nikkei.com/Spotlight/Datawatch/Asia-goes-cashless-as-countries-push-for-digital-payments</link>
+      <description><![CDATA[日经亚洲 (日本)二维码和其他基于智能手机的技术正在迅速取代实物货币，成为消费者交易的支付方式，部分原因是印度和其他国家努力推广国内数字结算系统。2016 年，印度推出了统一支付接口 (UPI) 移动支付系统，实现了实时支付。2023 财年，通过 UPI 进行的交易超过 1310 亿笔。摘自“随着各国推动数字支付，亚洲走向无现金化”
+日经亚洲 (日本) (2025 年 2 月 2 日) 佐藤文香；冈部隆典 查看全文]]></description>
+      <guid>https://asia.nikkei.com/Spotlight/Datawatch/Asia-goes-cashless-as-countries-push-for-digital-payments</guid>
+      <pubDate>Mon, 03 Feb 2025 18:11:43 GMT</pubDate>
     </item>
     <item>
-      <title>量子启发算法可以实现更好的天气预报</title>
-      <link>https://www.newscientist.com/article/2465610-quantum-inspired-algorithm-could-enable-better-weather-forecasts/</link>
-      <description><![CDATA[《新科学家》英国牛津大学的研究人员使用张量网络来表示湍流概率分布，然后使用这些量子启发算法来模拟湍流流体流动，这是准确预报天气的关键。研究人员在一台标准笔记本电脑上仅用几个小时就完成了这项工作，而使用现有工具在超级计算机上则需要几天时间。该团队利用张量网络将处理器需求减少了 1,000 倍，将内存需求减少了百万倍。摘自“量子启发算法可以实现更好的天气预报”
-
-《新科学家》（2025 年 1 月 29 日）Matthew Sparkes 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.newscientist.com/article/2465610-quantum-inspired-algorithm-could-enable-better-weather-forecasts/</guid>
-      <pubDate>Fri, 31 Jan 2025 18:11:39 GMT</pubDate>
+      <title>中国制造的病人监护仪含有秘密后门</title>
+      <link>https://uk.pcmag.com/security/156508/chinese-made-patient-monitor-contains-a-secret-backdoor</link>
+      <description><![CDATA[PC Magazine美国网络安全和基础设施安全局 (CISA) 警告称，中国康泰医疗系统公司生产的一款病人监护仪的三个固件版本中发现了威胁。CISA 表示，该监护仪配置为连接到第三方大学的 IP 地址，与制造商没有任何联系，这使得该大学能够远程下载和执行病人监护仪上未经验证的文件。后门还会自动将病人数据发送到 IP 地址。摘自“中国制造的病人监护仪包含秘密后门”
+PC Magazine (01/31/25) Michael Kan 查看全文]]></description>
+      <guid>https://uk.pcmag.com/security/156508/chinese-made-patient-monitor-contains-a-secret-backdoor</guid>
+      <pubDate>Mon, 03 Feb 2025 18:11:42 GMT</pubDate>
     </item>
     <item>
-      <title>Apple CPU 侧通道攻击窃取浏览器数据</title>
-      <link>https://www.bleepingcomputer.com/news/security/new-apple-cpu-side-channel-attack-steals-data-from-browsers/</link>
-      <description><![CDATA[BleepingComputer在单独的论文中，佐治亚理工学院和德国波鸿鲁尔大学的研究人员详细介绍了涉及现代 Apple 处理器的新型 CPU 侧信道攻击，这些攻击可以通过 Web 浏览器使用包含 JavaScript 或 WebAssembly 代码的恶意网页远程执行。这些攻击被称为虚假加载输出预测 (FLOP) 和推测加载地址预测 (SLAP)，旨在预测未来指令的功能，以加速处理。Apple 表示计划解决这些漏洞。摘自“Apple CPU 侧信道攻击从浏览器窃取数据”
-BleepingComputer (01/28/25) Bill Toulas 查看全文]]></description>
-      <guid>https://www.bleepingcomputer.com/news/security/new-apple-cpu-side-channel-attack-steals-data-from-browsers/</guid>
-      <pubDate>Fri, 31 Jan 2025 18:11:38 GMT</pubDate>
+      <title>国际警察行动取缔网络犯罪市场</title>
+      <link>https://www.upi.com/Top_News/World-News/2025/01/31/police-Cracked-Nulled/4851738310596/</link>
+      <description><![CDATA[UPI国际执法行动摧毁了两个最大的网络犯罪市场。除了逮捕两人并没收服务器和其他设备外，此次行动还导致网络犯罪论坛 Cracked and Nulled 使用的 12 个账户和两个域名被关闭。
+摘自“国际警察行动摧毁网络犯罪市场”
+UPI (01/31/25) Darryl Coote 查看全文]]></description>
+      <guid>https://www.upi.com/Top_News/World-News/2025/01/31/police-Cracked-Nulled/4851738310596/</guid>
+      <pubDate>Mon, 03 Feb 2025 18:11:42 GMT</pubDate>
     </item>
     <item>
-      <title>参议员重新审议禁止 13 岁以下儿童使用社交媒体的法案</title>
-      <link>https://www.washingtonpost.com/politics/2025/01/28/senators-revive-bill-ban-kids-under-13-social-media/</link>
-      <description><![CDATA[《华盛顿邮报》美国参议员 Brian Schatz (D-HI) 和 Ted Cruz (R-TX) 重新提出的《儿童远离社交媒体法案》将禁止 13 岁以下儿童使用社交媒体，禁止社交媒体平台针对青少年用户进行个性化推荐，并使禁止学生使用社交媒体的学校有资格获得联邦互联网补贴。由于 Cruz 担任美国参议院商务委员会主席，该法案预计将成为有关社交媒体监管的更广泛辩论的一部分。摘自“参议员重新提出禁止 13 岁以下儿童使用社交媒体的法案”
-《华盛顿邮报》 (01/28/25) Cristiano Lima-Strong；安德里亚·吉米内斯 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.washingtonpost.com/politics/2025/01/28/senators-revive-bill-ban-kids-under-13-social-media/</guid>
-      <pubDate>Fri, 31 Jan 2025 18:11:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>国际人工智能安全报告在行动峰会前发布</title>
-      <link>https://www.gov.uk/government/news/first-international-ai-safety-report-to-inform-discussions-at-ai-action-summit</link>
-      <description><![CDATA[Gov.UK周三，法国主办的人工智能行动峰会前夕发布了一份国际人工智能安全报告，该报告汇集了 100 位独立国际专家的见解。该报告的推动者、ACM A. M. 图灵奖获得者 Yoshua Bengio 表示，尽管人工智能对社会具有“巨大潜力”，但也存在“重大风险”。他说，该报告的目的是“促进围绕这些风险的建设性和基于证据的讨论，并为世界各地的政策制定者了解通用人工智能的能力、风险和可能的缓解措施提供共同基础。”摘自“行动峰会前发布的国际人工智能安全报告”
-Gov.UK (01/29/25) 查看全文]]></description>
-      <guid>https://www.gov.uk/government/news/first-international-ai-safety-report-to-inform-discussions-at-ai-action-summit</guid>
-      <pubDate>Fri, 31 Jan 2025 18:11:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>敏感的 DeepSeek 数据暴露在网络上</title>
-      <link>https://www.reuters.com/technology/artificial-intelligence/sensitive-deepseek-data-exposed-web-israeli-cyber-firm-says-2025-01-29/</link>
-      <description><![CDATA[路透社网络安全公司 Wiz 在一篇博文中表示，对中国 AI 初创公司 DeepSeek 基础设施的扫描显示，该公司无意中留下了超过一百万行未受保护的数据，包括数字软件密钥和聊天记录，这些数据似乎捕获了用户向该公司最近推出的 AI 助手发送的提示。在向 DeepSeek 通报这一发现后，该公司迅速保护了这些数据。摘自“敏感的 DeepSeek 数据暴露在网络上”
-路透社 (01/29/25) Raphael Satter 查看全文]]></description>
-      <guid>https://www.reuters.com/technology/artificial-intelligence/sensitive-deepseek-data-exposed-web-israeli-cyber-firm-says-2025-01-29/</guid>
-      <pubDate>Fri, 31 Jan 2025 18:11:37 GMT</pubDate>
+      <title>日本将限制芯片和量子计算技术出口</title>
+      <link>https://www.bloomberg.com/news/articles/2025-01-31/japan-plans-to-curb-exports-of-chips-quantum-computing-tech?sref=db2f3qgr</link>
+      <description><![CDATA[彭博社根据日本外汇法的修订草案，日本政府正在扩大其出口管制物品清单，包括制造量子计算机所需的先进芯片、光刻设备和低温冷却器。经济产业省官员表示，企业需要获得出口这些物品的许可证，以防止其用于武器或开发。新的限制措施定于 5 月底生效。摘自“日本将限制芯片、量子计算技术的出口”
+彭博社 (01/31/25) Mayumi Negishi 查看全文]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-01-31/japan-plans-to-curb-exports-of-chips-quantum-computing-tech?sref=db2f3qgr</guid>
+      <pubDate>Mon, 03 Feb 2025 18:11:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
