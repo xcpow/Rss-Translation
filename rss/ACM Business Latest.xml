@@ -4,7 +4,21 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Tue, 04 Feb 2025 12:16:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 15:09:05 GMT</lastBuildDate>
+    <item>
+      <title>特朗普提高欧洲汽车价格的计划存在致命缺陷</title>
+      <link>https://www.wired.com/story/trumps-plan-to-make-european-cars-more-expensive-has-a-fatal-flaw/</link>
+      <description><![CDATA[特朗普总统威胁对欧盟进口汽车征收 25% 的关税，这可能引发汽车贸易战——这将导致所有汽车价格上涨，而且绝不会以欧洲消费者购买更多美国汽车而告终。]]></description>
+      <guid>https://www.wired.com/story/trumps-plan-to-make-european-cars-more-expensive-has-a-fatal-flaw/</guid>
+      <pubDate>Tue, 04 Feb 2025 14:42:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>克里斯·安德森将 TED 赠予对其未来有最佳构想的人</title>
+      <link>https://www.wired.com/story/chris-anderson-steps-down-ted/</link>
+      <description><![CDATA[在接受《连线》杂志的独家采访时，这位英国企业家分享了为什么是时候离开 TED 了。]]></description>
+      <guid>https://www.wired.com/story/chris-anderson-steps-down-ted/</guid>
+      <pubDate>Tue, 04 Feb 2025 14:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>揭秘帕维尔·杜罗夫被捕和 Telegram 被颠覆的内幕</title>
       <link>https://www.wired.com/story/pavel-durov-arrest-telegram-content-moderation/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[美国总统唐纳德·特朗普上任后的第一项行动就是下令重新命名墨西哥湾。但地图绘制者们仍在等待批准。]]></description>
       <guid>https://www.wired.com/story/trump-gulf-of-america-order-maps/</guid>
       <pubDate>Tue, 28 Jan 2025 22:50:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek 的新 AI 模型引起美国竞争对手的震惊、敬畏和质疑</title>
-      <link>https://www.wired.com/story/deepseek-executives-reaction-silicon-valley/</link>
-      <description><![CDATA[一些人担心这家中国初创企业的出色技术表明美国正在失去人工智能领域的领先地位，但这实际上可能表明一种建立模型的新方法正在获得关注。]]></description>
-      <guid>https://www.wired.com/story/deepseek-executives-reaction-silicon-valley/</guid>
-      <pubDate>Tue, 28 Jan 2025 11:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek 的热门 AI 应用程序明确将美国数据发送到中国</title>
-      <link>https://www.wired.com/story/deepseek-ai-china-privacy-data/</link>
-      <description><![CDATA[在人们对 TikTok 的担忧持续不断之际，中国生成 AI 平台 DeepSeek 表示，它正在将大量美国用户数据直接发送到其本国，这可能会为其受到更严格的审查奠定基础。]]></description>
-      <guid>https://www.wired.com/story/deepseek-ai-china-privacy-data/</guid>
-      <pubDate>Mon, 27 Jan 2025 22:10:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
