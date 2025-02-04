@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Tue, 04 Feb 2025 15:09:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 18:12:02 GMT</lastBuildDate>
+    <item>
+      <title>中国正在调查谷歌特朗普的关税政策</title>
+      <link>https://www.wired.com/story/google-china-antitrust-trump-tariffs/</link>
+      <description><![CDATA[如果唐纳德·特朗普总统的贸易战升级，谷歌在中国的业务有限将为北京方面提供更强劲的反击空间。]]></description>
+      <guid>https://www.wired.com/story/google-china-antitrust-trump-tariffs/</guid>
+      <pubDate>Tue, 04 Feb 2025 17:13:52 GMT</pubDate>
+    </item>
     <item>
       <title>特朗普提高欧洲汽车价格的计划存在致命缺陷</title>
       <link>https://www.wired.com/story/trumps-plan-to-make-european-cars-more-expensive-has-a-fatal-flaw/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>伊隆马斯克的 DOGE 仍在阻止免于削减外国援助的艾滋病毒/艾滋病救济</title>
       <link>https://www.wired.com/story/usaid-researchers-email-access/</link>
-      <description><![CDATA[特朗普政府声称它允许“拯救生命”的外国援助继续进行，但实际上，DOGE 正在阻止艾滋病毒和艾滋病相关重要工作挽救生命。]]></description>
+      <description><![CDATA[特朗普政府声称允许“拯救生命”的外国援助继续进行，但实际上，DOGE 正在阻止艾滋病毒和艾滋病相关重要工作挽救生命。]]></description>
       <guid>https://www.wired.com/story/usaid-researchers-email-access/</guid>
       <pubDate>Tue, 04 Feb 2025 01:59:01 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[美国人事管理办公室要求联邦工作人员排队，否则就离开。]]></description>
       <guid>https://www.wired.com/story/elon-musk-twitter-playbook-federal-government/</guid>
       <pubDate>Wed, 29 Jan 2025 02:12:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普的“美国湾”命令让地图绘制者彻底迷失</title>
-      <link>https://www.wired.com/story/trump-gulf-of-america-order-maps/</link>
-      <description><![CDATA[美国总统唐纳德·特朗普上任后的第一项行动就是下令重新命名墨西哥湾。但地图绘制者们仍在等待批准。]]></description>
-      <guid>https://www.wired.com/story/trump-gulf-of-america-order-maps/</guid>
-      <pubDate>Tue, 28 Jan 2025 22:50:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
