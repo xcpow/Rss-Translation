@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Tue, 04 Feb 2025 09:09:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 12:16:30 GMT</lastBuildDate>
+    <item>
+      <title>揭秘帕维尔·杜罗夫被捕和 Telegram 被颠覆的内幕</title>
+      <link>https://www.wired.com/story/pavel-durov-arrest-telegram-content-moderation/</link>
+      <description><![CDATA[这位出生于俄罗斯的首席执行官自诩为言论自由斗士和监控国家的祸害。以下是帕维尔·杜罗夫被捕的真实故事以及随后发生的事情。]]></description>
+      <guid>https://www.wired.com/story/pavel-durov-arrest-telegram-content-moderation/</guid>
+      <pubDate>Tue, 04 Feb 2025 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>伊隆马斯克的 DOGE 仍在阻止免于削减外国援助的艾滋病毒/艾滋病救济</title>
       <link>https://www.wired.com/story/usaid-researchers-email-access/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[在人们对 TikTok 的担忧持续不断之际，中国生成 AI 平台 DeepSeek 表示，它正在将大量美国用户数据直接发送到其本国，这可能会为其受到更严格的审查奠定基础。]]></description>
       <guid>https://www.wired.com/story/deepseek-ai-china-privacy-data/</guid>
       <pubDate>Mon, 27 Jan 2025 22:10:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国人工智能应用 DeepSeek 人气飙升，令竞争对手大吃一惊</title>
-      <link>https://www.wired.com/story/deepseek-app-popular-viral/</link>
-      <description><![CDATA[该公司周一表示，由于其服务遭受“大规模恶意攻击”，因此暂时限制新注册用户。]]></description>
-      <guid>https://www.wired.com/story/deepseek-app-popular-viral/</guid>
-      <pubDate>Mon, 27 Jan 2025 17:05:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
