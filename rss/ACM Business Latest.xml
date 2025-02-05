@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Wed, 05 Feb 2025 15:09:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 18:12:46 GMT</lastBuildDate>
+    <item>
+      <title>LinkedIn 正在测试一款可能改变人们求职方式的人工智能工具</title>
+      <link>https://www.wired.com/story/linkedin-job-search-artificial-intelligence/</link>
+      <description><![CDATA[该公司表示，人工智能可以帮助发现那些在典型搜索查询中隐藏的工作。]]></description>
+      <guid>https://www.wired.com/story/linkedin-job-search-artificial-intelligence/</guid>
+      <pubDate>Wed, 05 Feb 2025 17:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>美国邮政服务在意外暂停后恢复接收来自中国的包裹</title>
       <link>https://www.wired.com/story/tariffs-trump-ecommerce-amazon-temu/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>DeepSeek 审查制度的实际运作方式以及如何绕过它</title>
       <link>https://www.wired.com/story/deepseek-censorship/</link>
-      <description><![CDATA[《连线》杂志的调查显示，中国流行的人工智能模型在应用和训练层面都受到审查。]]></description>
+      <description><![CDATA[《连线》杂志的调查显示，中国流行的人工智能模型在应用和训练层面都受到了审查。]]></description>
       <guid>https://www.wired.com/story/deepseek-censorship/</guid>
       <pubDate>Fri, 31 Jan 2025 19:33:24 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[本周，在《恐怖谷》节目中，主持人讨论了硅谷的非官方教父马克·安德森。]]></description>
       <guid>https://www.wired.com/story/uncanny-valley-podcast-11-marc-andreessen/</guid>
       <pubDate>Thu, 30 Jan 2025 18:45:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>华盛顿特区飞机失事：迄今为止我们所知的一切</title>
-      <link>https://www.wired.com/story/washington-dc-plane-crash-everything-we-know-so-far-black-hawk-faa-potomac-american-airlines-psa/</link>
-      <description><![CDATA[空中交通管制员要求 5342 航班在降落时切换跑道。飞机和与其相撞的军用直升机的黑匣子记录将有助于揭示这是否是事故发生的原因。]]></description>
-      <guid>https://www.wired.com/story/washington-dc-plane-crash-everything-we-know-so-far-black-hawk-faa-potomac-american-airlines-psa/</guid>
-      <pubDate>Thu, 30 Jan 2025 14:30:23 GMT</pubDate>
     </item>
     </channel>
 </rss>

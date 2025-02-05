@@ -4,95 +4,112 @@
     <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM 技术新闻</description>
-    <lastBuildDate>Mon, 03 Feb 2025 18:11:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 18:12:41 GMT</lastBuildDate>
     <item>
-      <title>DeepSeek 的聊天机器人审计准确率达到 17%</title>
-      <link>https://www.reuters.com/world/china/deepseeks-chatbot-achieves-17-accuracy-trails-western-rivals-newsguard-audit-2025-01-29/</link>
-      <description><![CDATA[路透社可信度评级服务 NewsGuard 的审计发现，中国人工智能初创公司 DeepSeek 推出的聊天机器人在传递新闻和信息方面的准确率为 17%。DeepSeek 在 53% 的时间里提供模糊或无用的答案，在 30% 的时间里重复虚假声明，失败率为 83%。相比之下，包括 OpenAI 在内的西方竞争对手的平均失败率为 62%。摘自“DeepSeek 的聊天机器人在审计中实现了 17% 的准确率”
-路透社 (01/29/25) Rishi Kant 查看全文]]></description>
-      <guid>https://www.reuters.com/world/china/deepseeks-chatbot-achieves-17-accuracy-trails-western-rivals-newsguard-audit-2025-01-29/</guid>
-      <pubDate>Mon, 03 Feb 2025 18:11:46 GMT</pubDate>
+      <title>Waymo 将在 10 个新城市测试自动驾驶技术</title>
+      <link>https://www.reuters.com/business/autos-transportation/alphabets-waymo-test-its-autonomous-driving-technology-over-10-new-cities-2025-01-29/</link>
+      <description><![CDATA[路透社Alphabet 旗下的 Waymo 表示，其自动驾驶技术今年将在至少 10 个新城市进行测试，包括圣地亚哥和拉斯维加斯。该公司发言人表示，将在每个城市部署“有限的车辆”进行测试，并由经过培训的自动驾驶专家驾驶。该公司在发生多起涉及其技术的事故后，受到安全监管机构的严格审查。摘自“Waymo 将在 10 个新城市测试自动驾驶技术”
+路透社 (01/29/25) Juby Babu 查看全文]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/alphabets-waymo-test-its-autonomous-driving-technology-over-10-new-cities-2025-01-29/</guid>
+      <pubDate>Wed, 05 Feb 2025 18:12:41 GMT</pubDate>
     </item>
     <item>
-      <title>中国、伊朗黑客利用美国人工智能产品加强网络攻击</title>
-      <link>https://www.wsj.com/tech/ai/chinese-and-iranian-hackers-are-using-u-s-ai-products-to-bolster-cyberattacks-ff3c5884</link>
-      <description><![CDATA[《华尔街日报》据美国官员和安全研究人员称，与中国、伊朗和其他外国政府有关的黑客正在使用最新的美国人工智能技术来加强他们的网络攻击。谷歌的网络威胁专家表示，去年，其他 20 多个国家的数十个黑客组织部署了谷歌的 Gemini 聊天机器人来协助编写恶意代码和定位。摘自“中国、伊朗黑客使用美国人工智能产品加强网络攻击”
-《华尔街日报》（2025 年 1 月 30 日）Dustin Volz； Robert McMillan 查看全文 - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/tech/ai/chinese-and-iranian-hackers-are-using-u-s-ai-products-to-bolster-cyberattacks-ff3c5884</guid>
-      <pubDate>Mon, 03 Feb 2025 18:11:45 GMT</pubDate>
+      <title>人工智能无人机公司协助清理乌克兰农田地雷</title>
+      <link>https://kyivindependent.com/ai-powered-drone-company-to-assist-in-demining-ukrainian-farmlands/</link>
+      <description><![CDATA[基辅独立报（乌克兰）美国人工智能公司 Safe Pro Group 和乌克兰农业公司 Nibulon 将部署人工智能无人机来探测乌克兰农田中埋藏的地雷。此次合作将使用 Safe Pro 的 SpotlightAI 平台（托管在亚马逊网络服务上）来调查受影响的农田。 Safe Pro 的 AI 已处理了超过 931,000 张无人机图像，识别出 10,500 英亩土地上的 18,000 多个爆炸物残留物，以方便地探测地雷。摘自“AI 驱动的无人机公司协助清理乌克兰农田地雷”
+基辅独立报（乌克兰）（2025 年 2 月 1 日）Sonya Bandouil 查看全文]]></description>
+      <guid>https://kyivindependent.com/ai-powered-drone-company-to-assist-in-demining-ukrainian-farmlands/</guid>
+      <pubDate>Wed, 05 Feb 2025 18:12:40 GMT</pubDate>
     </item>
     <item>
-      <title>58% 的勒索软件受害者被迫关闭业务</title>
-      <link>https://www.infosecurity-magazine.com/news/ransomware-victims-shut-operations/</link>
-      <description><![CDATA[Infosecurity MagazinePonemon Institute 的一份报告发现，去年受勒索软件攻击影响的组织中有 58% 不得不停止运营，高于 2021 年的 45%。40% 的组织因此类攻击而遭受了重大收入损失，高于 22%，而 35% 的组织报告品牌受损，高于 21%。摘自“58% 的勒索软件受害者被迫关闭运营”
-Infosecurity Magazine (01/28/25) James Coker 查看全文]]></description>
-      <guid>https://www.infosecurity-magazine.com/news/ransomware-victims-shut-operations/</guid>
-      <pubDate>Mon, 03 Feb 2025 18:11:45 GMT</pubDate>
+      <title>Chick-fil-A 致力于让快餐变得更快</title>
+      <link>https://www.wsj.com/business/hospitality/chick-fil-a-drive-through-service-fast-food-innovation-ed5e2288</link>
+      <description><![CDATA[华尔街日报快餐连锁店 Chick-fil-A 使用技术和专业团队研究免下车交通和厨房运营情况，以找出瓶颈并提出改进建议以加快服务速度。Chick-fil-A 于 2020 年成立了一个电影研究部门，该部门使用无人机飞行员在繁忙时段拍摄停车场的镜头。这些镜头与厨房安全摄像头的视频相结合，制作出可以帮助餐厅改善工作流程的“游戏影片”。摘自“Chick-fil-A 让快餐更快的追求”
+华尔街日报 (02/01/25) Heather Haddon 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/business/hospitality/chick-fil-a-drive-through-service-fast-food-innovation-ed5e2288</guid>
+      <pubDate>Wed, 05 Feb 2025 18:12:40 GMT</pubDate>
     </item>
     <item>
-      <title>美国青少年日益受到网上虚假内容的误导</title>
-      <link>https://edition.cnn.com/2025/01/30/tech/american-teens-ai-study/index.html</link>
-      <description><![CDATA[美国有线电视新闻网非营利性倡导组织 Common Sense Media 对 1,000 名 13 至 18 岁青少年进行的一项调查显示，约 35% 的受访者曾被虚假网络内容欺骗；另有 41% 的人承认曾看到过真实但具有误导性的内容，22% 的人曾分享过他们后来发现是虚假的信息。 Common Sense 表示，遇到虚假在线内容的受访者更有可能相信人工智能会让在线信息验证变得更加困难。摘自“美国青少年越来越多地被网上虚假内容误导”
-CNN (01/30/25) Liam Reilly 查看全文]]></description>
-      <guid>https://edition.cnn.com/2025/01/30/tech/american-teens-ai-study/index.html</guid>
-      <pubDate>Mon, 03 Feb 2025 18:11:44 GMT</pubDate>
+      <title>联邦学习面临挑战</title>
+      <link>https://www.devdiscourse.com/article/technology/3245409-federated-learning-under-siege-the-silent-war-between-poisoning-attacks-and-security-defenses</link>
+      <description><![CDATA[Devdiscourse美国和中国的研究人员演示了针对联邦反学习的投毒攻击。该攻击名为 BadUnlearn，通过战略性地注入符合聚合规则的恶意模型更新，确保未学习的模型与中毒模型非常相似。研究人员随后引入了一个联邦反学习框架，旨在维护全局模型的完整性。该框架 UnlearnGuard 使用服务器存储的历史模型更新来帮助检测和过滤中毒更新。摘自“联邦学习陷入困境”
+Devdiscourse (02/03/25) 查看全文]]></description>
+      <guid>https://www.devdiscourse.com/article/technology/3245409-federated-learning-under-siege-the-silent-war-between-poisoning-attacks-and-security-defenses</guid>
+      <pubDate>Wed, 05 Feb 2025 18:12:39 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 向国家实验室提供模型</title>
-      <link>https://www.axios.com/2025/01/30/openai-microsoft-sam-altman-los-alamos-science</link>
-      <description><![CDATA[AxiosOpenAI 的 o1 推理模型或其 o 系列中的另一个模型将部署在洛斯阿拉莫斯国家实验室的 Venado 超级计算机上。与美国政府的协议将使该模型也可供劳伦斯利弗莫尔和桑迪亚国家实验室的研究人员使用。洛斯阿拉莫斯的 Thom Mason 表示：“随着对国家的威胁变得越来越复杂和紧迫，我们需要新的方法和先进的技术来维护美国的安全。”摘自“OpenAI 向国家实验室提供模型”
-Axios (01/30/25) Ina Fried 查看全文]]></description>
-      <guid>https://www.axios.com/2025/01/30/openai-microsoft-sam-altman-los-alamos-science</guid>
-      <pubDate>Mon, 03 Feb 2025 18:11:44 GMT</pubDate>
+      <title>机器人从波罗的海打捞倾倒的爆炸物</title>
+      <link>https://www.wired.com/story/these-robots-are-recovering-dumped-explosives-from-the-baltic-sea/</link>
+      <description><![CDATA[Wired德国政府正在资助一个项目，以回收和处置倾倒在波罗的海吕贝克湾的二战时期的弹药。在 2024 年 9 月和 10 月的大部分时间里，配备摄像头、强光灯和传感器的水下机器人一直在搜寻爆炸物，而专家们则在附近的平台上观察，在处理之前对每件物品进行评估和识别。最终，研究人员希望实现该过程的自动化。摘自“机器人从波罗的海回收倾倒的爆炸物”
+Wired (02/03/25) Bryan Stole 查看全文]]></description>
+      <guid>https://www.wired.com/story/these-robots-are-recovering-dumped-explosives-from-the-baltic-sea/</guid>
+      <pubDate>Wed, 05 Feb 2025 18:12:39 GMT</pubDate>
     </item>
     <item>
-      <title>以色列初创企业在战争中发挥关键作用后制定全球计划</title>
-      <link>https://www.reuters.com/world/middle-east/israeli-startups-make-global-plans-after-key-role-war-2025-01-31/</link>
-      <description><![CDATA[路透社以色列初创公司正利用他们在战争中的成功，在全球范围内签订协议。例如，Xtend 已经与美国政府签订了合同，该公司制造的人工智能无人机能够在 9,000 公里（5,600 英里）外以最少的人工参与进行高精度打击。2023 年 10 月至 2024 年底期间，以色列国防部向 101 家初创公司和小型企业授予了 2.19 亿美元的合同，以支持战争努力。摘自“以色列初创公司在战争中发挥关键作用后制定全球计划”
-路透社 (01/31/25) Emily Rose；迈克尔·卡恩 查看全文]]></description>
-      <guid>https://www.reuters.com/world/middle-east/israeli-startups-make-global-plans-after-key-role-war-2025-01-31/</guid>
-      <pubDate>Mon, 03 Feb 2025 18:11:43 GMT</pubDate>
+      <title>美国宇航局在演示前测试野火技术</title>
+      <link>https://www.nasa.gov/aeronautics/nasa-flight-tests-wildland-fire-tech-ahead-of-demonstration/</link>
+      <description><![CDATA[NASANASA 高级应急响应行动能力中心的研究人员开发了一种便携式空域管理系统 (PAMS)，可用于确保在野火响应期间无人机的安全操作。PAMS 单元配备了用于空域管理的计算机、用于在单元之间共享信息的无线电、用于检测附近空中交通的自动相关监视广播接收器，以及有助于防止空中无人机碰撞的 NASA 软件。摘自“NASA 在演示前测试野火技术”
+NASA (01/31/25) 希拉里·史密斯 查看全文]]></description>
+      <guid>https://www.nasa.gov/aeronautics/nasa-flight-tests-wildland-fire-tech-ahead-of-demonstration/</guid>
+      <pubDate>Wed, 05 Feb 2025 18:12:38 GMT</pubDate>
     </item>
     <item>
-      <title>欧盟禁止使用具有“不可接受风险”的人工智能系统</title>
-      <link>https://techcrunch.com/2025/02/02/ai-systems-with-unacceptable-risk-are-now-banned-in-the-eu/</link>
-      <description><![CDATA[TechCrunch根据去年三月欧洲议会批准的欧盟人工智能法案，自周日起，欧盟监管机构可以禁止使用他们认为会带来“不可接受的风险”或危害的人工智能系统。不可接受的活动包括使用人工智能进行社交评分、欺骗性地操纵一个人的决定、根据外表预测人们是否会犯罪、试图推断人们的情绪等。摘自“欧盟现已禁止使用具有‘不可接受风险’的人工智能系统”
-TechCrunch (02/02/25) Kyle Wiggers 查看全文]]></description>
-      <guid>https://techcrunch.com/2025/02/02/ai-systems-with-unacceptable-risk-are-now-banned-in-the-eu/</guid>
-      <pubDate>Mon, 03 Feb 2025 18:11:43 GMT</pubDate>
+      <title>美国陆军 3D 打印军营</title>
+      <link>https://www.newsweek.com/us-army-texas-3d-printed-barracks-2025736</link>
+      <description><![CDATA[新闻周刊美国陆军在得克萨斯州布利斯堡揭幕了 3D 打印的军营，每个军营可容纳 72 名士兵。军营采用防霉材料建造，可抵御恶劣天气和地震等环境挑战。该项目是一项计划的一部分，旨在探索新的建筑方法，以更低的成本为军人提供耐用、节能的住房解决方案。
+
+摘自“美国陆军 3D 打印军营”
+新闻周刊 (02/04/25) Theo Burman 查看全文]]></description>
+      <guid>https://www.newsweek.com/us-army-texas-3d-printed-barracks-2025736</guid>
+      <pubDate>Wed, 05 Feb 2025 18:12:38 GMT</pubDate>
     </item>
     <item>
-      <title>随着各国大力推行数字支付，亚洲迈向无现金时代</title>
-      <link>https://asia.nikkei.com/Spotlight/Datawatch/Asia-goes-cashless-as-countries-push-for-digital-payments</link>
-      <description><![CDATA[日经亚洲 (日本)二维码和其他基于智能手机的技术正在迅速取代实物货币，成为消费者交易的支付方式，部分原因是印度和其他国家努力推广国内数字结算系统。2016 年，印度推出了统一支付接口 (UPI) 移动支付系统，实现了实时支付。2023 财年，通过 UPI 进行的交易超过 1310 亿笔。摘自“随着各国推动数字支付，亚洲走向无现金化”
-日经亚洲 (日本) (2025 年 2 月 2 日) 佐藤文香；冈部隆典 查看全文]]></description>
-      <guid>https://asia.nikkei.com/Spotlight/Datawatch/Asia-goes-cashless-as-countries-push-for-digital-payments</guid>
-      <pubDate>Mon, 03 Feb 2025 18:11:43 GMT</pubDate>
+      <title>汗液传感器利用印刷纳米粒子墨水跟踪健康状况</title>
+      <link>https://interestingengineering.com/health/caltech-engineered-an-an-inkjet-sweat-sensor</link>
+      <description><![CDATA[有趣的工程加州理工学院的研究人员开发的可穿戴汗液传感器配备了特殊的纳米粒子，可以喷墨打印生物标记物，从而实现实时监测。“可打印分子选择性纳米粒子”依赖于核壳立方纳米粒子，包括研究人员想要测量的分子，例如药物或维生素 C。它们印上所需分子的形状，通过与汗液的电交换捕获人体内目标生物标记物的水平。摘自“汗液传感器使用印刷纳米粒子墨水跟踪健康状况”
+有趣的工程 (02/03/25) Maria Mocerino 查看全文]]></description>
+      <guid>https://interestingengineering.com/health/caltech-engineered-an-an-inkjet-sweat-sensor</guid>
+      <pubDate>Wed, 05 Feb 2025 18:12:38 GMT</pubDate>
     </item>
     <item>
-      <title>中国制造的病人监护仪含有秘密后门</title>
-      <link>https://uk.pcmag.com/security/156508/chinese-made-patient-monitor-contains-a-secret-backdoor</link>
-      <description><![CDATA[PC Magazine美国网络安全和基础设施安全局 (CISA) 警告称，中国康泰医疗系统公司生产的一款病人监护仪的三个固件版本中发现了威胁。CISA 表示，该监护仪配置为连接到第三方大学的 IP 地址，与制造商没有任何联系，这使得该大学能够远程下载和执行病人监护仪上未经验证的文件。后门还会自动将病人数据发送到 IP 地址。摘自“中国制造的病人监护仪包含秘密后门”
-PC Magazine (01/31/25) Michael Kan 查看全文]]></description>
-      <guid>https://uk.pcmag.com/security/156508/chinese-made-patient-monitor-contains-a-secret-backdoor</guid>
-      <pubDate>Mon, 03 Feb 2025 18:11:42 GMT</pubDate>
+      <title>人工智能先驱荣获 2025 年 QE 工程奖</title>
+      <link>https://www.thechemicalengineer.com/news/ai-pioneers-scoop-2025-qe-prize-for-engineering/</link>
+      <description><![CDATA[化学工程师2025 年伊丽莎白女王工程奖于周二颁发给七位人工智能技术先驱。该年度奖项颁发给那些创新造福全球人类的工程师，旨在表彰他们对现代机器学习 (ML) 发展做出的贡献。获奖者包括 ACM A.M. 图灵奖获得者 Yoshua Bengio、Geoffrey Hinton 和 Yann LeCun，他们因对已成为 ML 主导模型的人工神经网络的开创性研究而获得认可。摘自“人工智能先驱获得 2025 年 QE 工程奖”
+化学工程师 (02/04/25) Adam Duckett 查看全文]]></description>
+      <guid>https://www.thechemicalengineer.com/news/ai-pioneers-scoop-2025-qe-prize-for-engineering/</guid>
+      <pubDate>Wed, 05 Feb 2025 18:12:37 GMT</pubDate>
     </item>
     <item>
-      <title>国际警察行动取缔网络犯罪市场</title>
-      <link>https://www.upi.com/Top_News/World-News/2025/01/31/police-Cracked-Nulled/4851738310596/</link>
-      <description><![CDATA[UPI国际执法行动摧毁了两个最大的网络犯罪市场。除了逮捕两人并没收服务器和其他设备外，此次行动还导致网络犯罪论坛 Cracked and Nulled 使用的 12 个账户和两个域名被关闭。
-摘自“国际警察行动摧毁网络犯罪市场”
-UPI (01/31/25) Darryl Coote 查看全文]]></description>
-      <guid>https://www.upi.com/Top_News/World-News/2025/01/31/police-Cracked-Nulled/4851738310596/</guid>
-      <pubDate>Mon, 03 Feb 2025 18:11:42 GMT</pubDate>
+      <title>加州州立大学推出 ChatGPT</title>
+      <link>https://www.reuters.com/technology/openai-targets-higher-education-us-with-chatgpt-rollout-california-state-2025-02-04/</link>
+      <description><![CDATA[路透社OpenAI 正在向加州州立大学约 50 万名学生和教职员工推出其 ChatGPT 的教育专用版本，希望扩大其在学术领域的用户群。此次推出后，学生将能够通过聊天机器人获得个性化辅导和学习指南，而教师则可以使用它来完成行政任务。摘自“加州州立大学推出 ChatGPT”
+路透社 (02/04/25) Rishi Kant 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/openai-targets-higher-education-us-with-chatgpt-rollout-california-state-2025-02-04/</guid>
+      <pubDate>Wed, 05 Feb 2025 18:12:37 GMT</pubDate>
     </item>
     <item>
-      <title>日本将限制芯片和量子计算技术出口</title>
-      <link>https://www.bloomberg.com/news/articles/2025-01-31/japan-plans-to-curb-exports-of-chips-quantum-computing-tech?sref=db2f3qgr</link>
-      <description><![CDATA[彭博社根据日本外汇法的修订草案，日本政府正在扩大其出口管制物品清单，包括制造量子计算机所需的先进芯片、光刻设备和低温冷却器。经济产业省官员表示，企业需要获得出口这些物品的许可证，以防止其用于武器或开发。新的限制措施定于 5 月底生效。摘自“日本将限制芯片、量子计算技术的出口”
-彭博社 (01/31/25) Mayumi Negishi 查看全文]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-01-31/japan-plans-to-curb-exports-of-chips-quantum-computing-tech?sref=db2f3qgr</guid>
-      <pubDate>Mon, 03 Feb 2025 18:11:41 GMT</pubDate>
+      <title>谷歌放弃承诺不使用人工智能制造武器和进行监视</title>
+      <link>https://www.washingtonpost.com/technology/2025/02/04/google-ai-policies-weapons-harm/</link>
+      <description><![CDATA[《华盛顿邮报》谷歌周二更新了其人工智能道德准则，取消了不将该技术应用于武器或监视的承诺。谷歌高管在一篇博客文章中写道：“我们认为民主国家应该在人工智能发展中发挥领导作用，以自由、平等和尊重人权等核心价值观为指导。我们认为，拥有这些价值观的公司、政府和组织应该共同努力，创造保护人民、促进全球增长和支持国家安全的人工智能。”摘自“谷歌放弃不将人工智能用于武器和监视的承诺”
+《华盛顿邮报》（2025 年 2 月 4 日）Nitasha Tiku；Gerrit De Vynck 查看全文]]></description>
+      <guid>https://www.washingtonpost.com/technology/2025/02/04/google-ai-policies-weapons-harm/</guid>
+      <pubDate>Wed, 05 Feb 2025 18:12:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>DOGE 获得敏感政府数据库的访问权限</title>
+      <link>https://siliconangle.com/2025/02/03/concerns-grow-elon-musks-doge-team-gains-access-sensitive-government-databases/</link>
+      <description><![CDATA[Silicon Angle人们担心，埃隆·马斯克及其政府效率部 (DOGE) 的同事在美国人事管理办公室安装了一台商业服务器，从而控制了一个联邦数据库，其中包含政府雇员的姓名、地址、社会安全号码和病史。批评者认为，该商业服务器是非法安装的，DOGE 团队缺乏查看此类数据所需的安全许可。摘自“DOGE 获得敏感政府数据库访问权限”
+Silicon Angle (02/03/25) Mike Wheatley 查看全文]]></description>
+      <guid>https://siliconangle.com/2025/02/03/concerns-grow-elon-musks-doge-team-gains-access-sensitive-government-databases/</guid>
+      <pubDate>Wed, 05 Feb 2025 18:12:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>政府数据删除引发“疯狂争夺”</title>
+      <link>https://apnews.com/article/cdc-census-federal-data-trump-6a9ba7c01a42b72e2c0a119325ba3753</link>
+      <description><![CDATA[美联社上周，许多联邦政府网页被关闭，各机构匆忙遵守美国总统唐纳德·特朗普的行政命令，删除性别和跨性别术语。随着网站重新上线，研究人员发现很难确定哪些内容被更改或删除。有些人从联邦网站下载了数据以进行保存。摘自“政府数据删除引发‘疯狂争夺’”
+美联社 (02/03/25) Mike Stobbe；Mike Schneider 查看全文]]></description>
+      <guid>https://apnews.com/article/cdc-census-federal-data-trump-6a9ba7c01a42b72e2c0a119325ba3753</guid>
+      <pubDate>Wed, 05 Feb 2025 18:12:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
