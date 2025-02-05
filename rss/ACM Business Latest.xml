@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Wed, 05 Feb 2025 03:12:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 06:12:49 GMT</lastBuildDate>
+    <item>
+      <title>美国邮政服务暂停接收所有来自中国的包裹，电子商务行业陷入混乱</title>
+      <link>https://www.wired.com/story/tariffs-trump-ecommerce-amazon-temu/</link>
+      <description><![CDATA[作为对中国进口产品征收新关税的一部分，总统唐纳德·特朗普取消了小包裹的豁免，大大增加了美国海关和边境保护局需要检查的包裹数量。]]></description>
+      <guid>https://www.wired.com/story/tariffs-trump-ecommerce-amazon-temu/</guid>
+      <pubDate>Wed, 05 Feb 2025 03:33:47 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌解除了使用人工智能进行武器和监视的禁令</title>
       <link>https://www.wired.com/story/google-responsible-ai-principles/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[空中交通管制员要求 5342 航班在降落时切换跑道。飞机和与其相撞的军用直升机的黑匣子记录将有助于揭示这是否是事故发生的原因。]]></description>
       <guid>https://www.wired.com/story/washington-dc-plane-crash-everything-we-know-so-far-black-hawk-faa-potomac-american-airlines-psa/</guid>
       <pubDate>Thu, 30 Jan 2025 14:30:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>暴露的 DeepSeek 数据库揭示了聊天提示和内部数据</title>
-      <link>https://www.wired.com/story/exposed-deepseek-database-revealed-chat-prompts-and-internal-data/</link>
-      <description><![CDATA[总部位于中国的 DeepSeek 人气飙升，但也引发了更多关注。例如：安全研究人员在一个开放数据库中发现了超过 100 万条记录，其中包括用户数据和 API 密钥。]]></description>
-      <guid>https://www.wired.com/story/exposed-deepseek-database-revealed-chat-prompts-and-internal-data/</guid>
-      <pubDate>Wed, 29 Jan 2025 21:34:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
