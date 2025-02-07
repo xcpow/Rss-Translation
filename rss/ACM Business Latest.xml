@@ -4,7 +4,14 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 07 Feb 2025 15:09:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2025 18:12:07 GMT</lastBuildDate>
+    <item>
+      <title>2025年：AI应用程序的年份</title>
+      <link>https://www.wired.com/story/plaintext-ai-apps-foundation-models/</link>
+      <description><![CDATA[AI中的真正竞争与基础模型无关。这是关于在这些模型之上构建的应用程序。]]></description>
+      <guid>https://www.wired.com/story/plaintext-ai-apps-foundation-models/</guid>
+      <pubDate>Fri, 07 Feb 2025 15:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>埃隆·马斯克（Elon Musk</title>
       <link>https://www.wired.com/story/doge-chatbot-ai-first-agenda/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>Google取消了禁止使用其AI进行武器和监视的禁令</title>
       <link>https://www.wired.com/story/google-responsible-ai-principles/</link>
-      <description><![CDATA[Google在2018年发表了原则，禁止其AI技术用于敏感目的。唐纳德·特朗普（Donald Trump）第二任期的几周后，这些准则正在大修。]]></description>
+      <description><![CDATA[Google在2018年发表了原则，禁止其AI技术用于敏感目的。唐纳德·特朗普（Donald Trump）第二任期的数周，这些准则正在大修。]]></description>
       <guid>https://www.wired.com/story/google-responsible-ai-principles/</guid>
       <pubDate>Tue, 04 Feb 2025 20:47:25 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[有线调查表明，流行的中国AI模型在应用程序和培训级别都受到审查。]]></description>
       <guid>https://www.wired.com/story/deepseek-censorship/</guid>
       <pubDate>Fri, 31 Jan 2025 19:33:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Openai的O3-Mini是一种更苗条的AI模型，与DeepSeek保持同步</title>
-      <link>https://www.wired.com/story/openai-o3-mini-release/</link>
-      <description><![CDATA[在DeepSeek R1之后，Openai的最新车型有望以更便宜的价格更先进的功能。]]></description>
-      <guid>https://www.wired.com/story/openai-o3-mini-release/</guid>
-      <pubDate>Fri, 31 Jan 2025 19:27:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
