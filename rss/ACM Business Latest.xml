@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业最新</title>
+    <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 07 Feb 2025 00:42:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2025 03:13:48 GMT</lastBuildDate>
+    <item>
+      <title>埃隆·马斯克（Elon Musk</title>
+      <link>https://www.wired.com/story/doge-chatbot-ai-first-agenda/</link>
+      <description><![CDATA[该聊天机器人是埃隆·马斯克和唐纳德·特朗普总统利用人工智能和其他技术削减成本和实现美国政府现代化的宏伟计划的一部分。]]></description>
+      <guid>https://www.wired.com/story/doge-chatbot-ai-first-agenda/</guid>
+      <pubDate>Fri, 07 Feb 2025 02:20:03 GMT</pubDate>
+    </item>
     <item>
       <title>由于伊隆马斯克的 DOGE 计划导致美国国际开发署员工人数从 10,000 人减少到 300 人以下</title>
       <link>https://www.wired.com/story/doge-guts-usaid-workforce/</link>
-      <description><![CDATA[美国政府的主要对外援助机构正在失去绝大多数员工，导致该机构的救生工作陷入停顿。]]></description>
+      <description><![CDATA[美国政府的主要外国援助组织正在失去其绝大多数员工，迫使该机构的救生工作使人停滞不前。]]></description>
       <guid>https://www.wired.com/story/doge-guts-usaid-workforce/</guid>
       <pubDate>Thu, 06 Feb 2025 21:12:45 GMT</pubDate>
     </item>
@@ -20,14 +27,14 @@
       <pubDate>Thu, 06 Feb 2025 18:31:27 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普 Memecoin 狂热的不为人知的赢家</title>
+      <title>特朗普纪念Frenzy的无数赢家</title>
       <link>https://www.wired.com/story/trump-memecoin-solana-crypto-platforms-profit/</link>
-      <description><![CDATA[当美国总统唐纳德·特朗普推出自己的加密货币时，引发了一场交易狂潮。一批鲜为人知的加密平台悄然获利。]]></description>
+      <description><![CDATA[当美国总统唐纳德·特朗普（Donald Trump）发起自己的加密货币时，他引发了交易狂潮。一个鲜为人知的加密平台悄悄地获利。]]></description>
       <guid>https://www.wired.com/story/trump-memecoin-solana-crypto-platforms-profit/</guid>
       <pubDate>Thu, 06 Feb 2025 16:50:06 GMT</pubDate>
     </item>
     <item>
-      <title>美国购物者从中国寄包裹需缴纳高达 50 美元或以上的费用</title>
+      <title>美国购物者面临高达50美元或以上的费用，以从中国获得包裹</title>
       <link>https://www.wired.com/story/tariffs-china-prices-fees-shein-temu/</link>
       <description><![CDATA[消费者和小企业已经感受到特朗普总统新关税的影响，新关税取消了价值低于 800 美元的包裹的一项关键贸易豁免。]]></description>
       <guid>https://www.wired.com/story/tariffs-china-prices-fees-shein-temu/</guid>
@@ -43,7 +50,7 @@
     <item>
       <title>美国邮政服务在意外暂停后恢复接收来自中国的包裹</title>
       <link>https://www.wired.com/story/tariffs-trump-ecommerce-amazon-temu/</link>
-      <description><![CDATA[作为对中国进口产品征收新关税的一部分，总统唐纳德·特朗普取消了小包裹的豁免，大大增加了美国海关和边境保护局需要检查的包裹数量。]]></description>
+      <description><![CDATA[作为中国进口的新关税的一部分，唐纳德·特朗普总统取消了对小包裹的豁免，大大增加了美国海关和边境保护措施的数量。]]></description>
       <guid>https://www.wired.com/story/tariffs-trump-ecommerce-amazon-temu/</guid>
       <pubDate>Wed, 05 Feb 2025 03:33:47 GMT</pubDate>
     </item>
@@ -57,21 +64,21 @@
     <item>
       <title>中国正在调查谷歌特朗普的关税政策</title>
       <link>https://www.wired.com/story/google-china-antitrust-trump-tariffs/</link>
-      <description><![CDATA[如果唐纳德·特朗普总统的贸易战升级，谷歌在中国的业务有限将为北京方面提供更强劲的反击空间。]]></description>
+      <description><![CDATA[如果唐纳德·特朗普总统的贸易战升级，谷歌在中国的存在有限，使北京的余地更加努力。]]></description>
       <guid>https://www.wired.com/story/google-china-antitrust-trump-tariffs/</guid>
       <pubDate>Tue, 04 Feb 2025 17:13:52 GMT</pubDate>
     </item>
     <item>
       <title>特朗普提高欧洲汽车价格的计划存在致命缺陷</title>
       <link>https://www.wired.com/story/trumps-plan-to-make-european-cars-more-expensive-has-a-fatal-flaw/</link>
-      <description><![CDATA[特朗普总统威胁对欧盟进口汽车征收 25% 的关税，这可能引发汽车贸易战——这将导致所有汽车价格上涨，而且绝不会以欧洲消费者购买更多美国汽车而告终。]]></description>
+      <description><![CDATA[特朗普总统对欧盟汽车进口的25％关税的威胁可能会引发一场汽车贸易战，这将导致所有人的价格上涨，而在欧洲消费者购买更多美国汽车的价格将永远不会结束。]]></description>
       <guid>https://www.wired.com/story/trumps-plan-to-make-european-cars-more-expensive-has-a-fatal-flaw/</guid>
       <pubDate>Tue, 04 Feb 2025 14:42:36 GMT</pubDate>
     </item>
     <item>
       <title>克里斯·安德森将 TED 赠予对其未来有最佳构想的人</title>
       <link>https://www.wired.com/story/chris-anderson-steps-down-ted/</link>
-      <description><![CDATA[在接受《连线》杂志的独家采访时，这位英国企业家分享了为什么是时候离开 TED 了。]]></description>
+      <description><![CDATA[英国企业家在对Wired的独家采访中分享了为什么该从TED继续前进的时候了。]]></description>
       <guid>https://www.wired.com/story/chris-anderson-steps-down-ted/</guid>
       <pubDate>Tue, 04 Feb 2025 14:00:00 GMT</pubDate>
     </item>
@@ -90,9 +97,9 @@
       <pubDate>Tue, 04 Feb 2025 01:59:01 GMT</pubDate>
     </item>
     <item>
-      <title>DeepSeek 审查制度的实际运作方式以及如何绕过它</title>
+      <title>以下是DeepSeek审查制度实际工作的方式以及如何解决</title>
       <link>https://www.wired.com/story/deepseek-censorship/</link>
-      <description><![CDATA[《连线》杂志的调查显示，中国流行的人工智能模型在应用和训练层面都受到审查。]]></description>
+      <description><![CDATA[有线调查表明，流行的中国AI模型在应用程序和培训级别都受到审查。]]></description>
       <guid>https://www.wired.com/story/deepseek-censorship/</guid>
       <pubDate>Fri, 31 Jan 2025 19:33:24 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[继 DeepSeek R1 之后，OpenAI 的最新模型承诺以更低的价格提供更先进的功能。]]></description>
       <guid>https://www.wired.com/story/openai-o3-mini-release/</guid>
       <pubDate>Fri, 31 Jan 2025 19:27:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek 的安全护栏未能通过研究人员对其 AI 聊天机器人进行的所有测试</title>
-      <link>https://www.wired.com/story/deepseeks-ai-jailbreak-prompt-injection-attacks/</link>
-      <description><![CDATA[安全研究人员针对 DeepSeek 广受欢迎的新 AI 聊天机器人测试了 50 个知名越狱案例。但一个都没能阻止。]]></description>
-      <guid>https://www.wired.com/story/deepseeks-ai-jailbreak-prompt-injection-attacks/</guid>
-      <pubDate>Fri, 31 Jan 2025 18:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
