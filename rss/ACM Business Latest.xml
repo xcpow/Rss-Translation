@@ -4,7 +4,14 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 06 Feb 2025 21:08:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2025 00:42:00 GMT</lastBuildDate>
+    <item>
+      <title>由于伊隆马斯克的 DOGE 计划导致美国国际开发署员工人数从 10,000 人减少到 300 人以下</title>
+      <link>https://www.wired.com/story/doge-guts-usaid-workforce/</link>
+      <description><![CDATA[美国政府的主要对外援助机构正在失去绝大多数员工，导致该机构的救生工作陷入停顿。]]></description>
+      <guid>https://www.wired.com/story/doge-guts-usaid-workforce/</guid>
+      <pubDate>Thu, 06 Feb 2025 21:12:45 GMT</pubDate>
+    </item>
     <item>
       <title>TikTok 俘获了我们的心，但它能持续下去吗？</title>
       <link>https://www.wired.com/story/uncanny-valley-podcast-12-tiktok-stole-our-hearts/</link>
@@ -85,7 +92,7 @@
     <item>
       <title>DeepSeek 审查制度的实际运作方式以及如何绕过它</title>
       <link>https://www.wired.com/story/deepseek-censorship/</link>
-      <description><![CDATA[《连线》杂志的调查显示，中国流行的人工智能模型在应用和训练层面都受到了审查。]]></description>
+      <description><![CDATA[《连线》杂志的调查显示，中国流行的人工智能模型在应用和训练层面都受到审查。]]></description>
       <guid>https://www.wired.com/story/deepseek-censorship/</guid>
       <pubDate>Fri, 31 Jan 2025 19:33:24 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[安全研究人员针对 DeepSeek 广受欢迎的新 AI 聊天机器人测试了 50 个知名越狱案例。但一个都没能阻止。]]></description>
       <guid>https://www.wired.com/story/deepseeks-ai-jailbreak-prompt-injection-attacks/</guid>
       <pubDate>Fri, 31 Jan 2025 18:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek 让 OpenAI 兴奋不已</title>
-      <link>https://www.wired.com/story/openai-deepseek-stargate-sam-altman/</link>
-      <description><![CDATA[在中国初创企业震惊业界之后，OpenAI 提前做好了应对准备。]]></description>
-      <guid>https://www.wired.com/story/openai-deepseek-stargate-sam-altman/</guid>
-      <pubDate>Fri, 31 Jan 2025 15:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
