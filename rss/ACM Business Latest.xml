@@ -4,7 +4,14 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 07 Feb 2025 21:07:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2025 00:40:59 GMT</lastBuildDate>
+    <item>
+      <title>特朗普的联邦调查局选秀权卡什·帕特尔（Kash Patel）从中国电子商务巨头Shein中获得了500万美元</title>
+      <link>https://www.wired.com/story/kash-patel-elite-depot-shein/</link>
+      <description><![CDATA[唐纳德·特朗普（Donald Trump）为联邦调查局（FBI）董事的选择告诉参议员，他没有计划剥离他的股份，他的财务披露表被收到以换取咨询服务。]]></description>
+      <guid>https://www.wired.com/story/kash-patel-elite-depot-shein/</guid>
+      <pubDate>Fri, 07 Feb 2025 21:14:13 GMT</pubDate>
+    </item>
     <item>
       <title>2025年：AI应用程序的年份</title>
       <link>https://www.wired.com/story/plaintext-ai-apps-foundation-models/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[特朗普政府声称，它允许“救生”外国援助继续下去，但实际上，总督正在防止艾滋病毒和艾滋病的重要工作挽救生命。]]></description>
       <guid>https://www.wired.com/story/usaid-researchers-email-access/</guid>
       <pubDate>Tue, 04 Feb 2025 01:59:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>以下是DeepSeek审查制度实际工作的方式以及如何解决</title>
-      <link>https://www.wired.com/story/deepseek-censorship/</link>
-      <description><![CDATA[有线调查表明，流行的中国AI模型在应用程序和培训级别都受到审查。]]></description>
-      <guid>https://www.wired.com/story/deepseek-censorship/</guid>
-      <pubDate>Fri, 31 Jan 2025 19:33:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
