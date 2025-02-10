@@ -4,110 +4,102 @@
     <title>ACM技术</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM技术</description>
-    <lastBuildDate>Fri, 07 Feb 2025 18:12:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2025 18:12:34 GMT</lastBuildDate>
     <item>
-      <title>NASA揭开月球采矿机器人</title>
-      <link>https://interestingengineering.com/innovation/nasas-powerful-moon-mining-robot-could-dig-10000-kg-of-soil-in-a-single-lunar-day</link>
-      <description><![CDATA[有趣的工程 由美国国家航空航天管理局（NASA）推出的机器人系统将使从月球表面提取基本资源，例如氢，氧气和水。原位资源利用率挖掘机（IPEX）配备了旋转的桶形鼓和手臂，用于挖掘和收集月球岩石，以及高级算法，相机以及缓解尘埃，移动性和热控制系统。 IPEX可能会挖出每月10,000千克。
-有趣的工程（02/03/25）mrigakshi dixit  查看全文]]></description>
-      <guid>https://interestingengineering.com/innovation/nasas-powerful-moon-mining-robot-could-dig-10000-kg-of-soil-in-a-single-lunar-day</guid>
-      <pubDate>Fri, 07 Feb 2025 18:11:59 GMT</pubDate>
+      <title>CISA命令代理商来补丁Linux内核错误</title>
+      <link>https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-linux-kernel-bug-exploited-in-attacks/</link>
+      <description><![CDATA[BleepingComputer  美国网络安全和基础设施安全局（CISA）已命令联邦机构确保其系统免受攻击中积极利用的高度严重Linux内核缺陷。该错误被跟踪为CVE-2024-53104，首次在内核版本2.6.26中引入，此后已由Google为Android用户修补。根据Google的说法，该漏洞是由USB视频类驱动程序中的不合格写入弱点引起的。
+bleepingComputer（02/05/25）Sergiu Gatlan  查看全文]]></description>
+      <guid>https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-linux-kernel-bug-exploited-in-attacks/</guid>
+      <pubDate>Mon, 10 Feb 2025 18:12:33 GMT</pubDate>
     </item>
     <item>
-      <title>中毒的GO编程语言包三年未被发现</title>
-      <link>https://www.theregister.com/2025/02/04/golang_supply_chain_attack/</link>
-      <description><![CDATA[寄存器（英国）    套接字安全威胁情报分析师基里尔·博伊钦科（Kirill Boychenko）发现了涉及GO模块镜像模块无限镜的剥削案例之一。 Boychenko确定了BoltDB数据库模块上未发现三年的供应链攻击。任何属于打字技术的开发人员，用于诱使用户下载恶意模仿，称为boltdb-go，将启用允许远程代码执行的后门。三年
-登记册（英国）（02/04/25）Connor Jones ]]></description>
-      <guid>https://www.theregister.com/2025/02/04/golang_supply_chain_attack/</guid>
-      <pubDate>Fri, 07 Feb 2025 18:11:58 GMT</pubDate>
+      <title>相机以光速识别对象</title>
+      <link>https://interestingengineering.com/innovation/new-camera-identifies-objects-200x-faster</link>
+      <description><![CDATA[有趣的工程 华盛顿大学和普林斯顿大学的研究人员通过用50个层次的元透镜制成的工程光学元件来开发用于计算机视觉的摄像机，这些光学元件充当光学神经网络。最终的摄像机使用传统的计算机硬件比神经网络快200倍以上，以识别和分类图像。
+有趣的工程（02/06/25）prabhat ranjan mishra  ]]></description>
+      <guid>https://interestingengineering.com/innovation/new-camera-identifies-objects-200x-faster</guid>
+      <pubDate>Mon, 10 Feb 2025 18:12:31 GMT</pubDate>
     </item>
     <item>
-      <title>基于激光的人工神经元过程高速数据集</title>
-      <link>https://www.livescience.com/technology/artificial-intelligence/new-laser-based-artificial-neuron-processes-enormous-data-sets-at-high-speed</link>
-      <description><![CDATA[中国大学研究人员开发的Live Science  激光级的人工神经元可以自己操作，并且无需作为小型神经网络而没有其他连接，传输数据比人工尖峰神经元快地传输了100,000倍。研究人员将激光级的神经元集成到一个储层计算系统中，并扫描了700个心跳样品。该系统的处理速度为每秒1亿个心跳，在识别心律不齐的系统中，系统的精度超过98％。 从“基于激光的人工神经元过程中，都以高速为基础的人工神经元过程” 
-Live Science（02/04/25）Skyler Ware  查看完整文章]]></description>
-      <guid>https://www.livescience.com/technology/artificial-intelligence/new-laser-based-artificial-neuron-processes-enormous-data-sets-at-high-speed</guid>
-      <pubDate>Fri, 07 Feb 2025 18:11:57 GMT</pubDate>
+      <title>俄罗斯机器人军队试图挥舞德国选举</title>
+      <link>https://www.politico.eu/article/germany-election-flood-social-media-x-russia-bots-kremlin-operation-false-news/</link>
+      <description><![CDATA[欧洲政治欧洲 德国外交事务办公室归因于该国2月23日当选俄罗斯机器人的X上的虚假信息增加。该办公室发布了一份报告，指出了克里姆林宫支持的Doppelg＆Auml; nger广告系列正在使用AI生成的内容，伪新网站和卧铺帐户来传播虚假信息。根据该报告，Ghost帐户对X的活动在1月底的一天中的一天中跃升至3,000多个帖子，此前很少发布前两个月的每天50次以上。  “俄罗斯机器人军队试图挥舞德国选举” 
+欧洲Politico欧洲（02/06/25）Chris Lunday  查看完整文章]]></description>
+      <guid>https://www.politico.eu/article/germany-election-flood-social-media-x-russia-bots-kremlin-operation-false-news/</guid>
+      <pubDate>Mon, 10 Feb 2025 18:12:30 GMT</pubDate>
     </item>
     <item>
-      <title>研究人员计算了所有50个美国州的网络攻击风险</title>
-      <link>https://today.umd.edu/umd-researchers-calculate-cyberattack-risk-for-all-50-states</link>
-      <description><![CDATA[马里兰州的马里兰州 马里兰大学的研究人员根据来自3,065个县政府的数据开发了美国网络风险的“热图”，该数据显示，加利福尼亚州，弗吉尼亚州和佛罗里达州的网络攻击风险增加。他们还发现，大多数容易受到研究攻击方法的县位于东南部，域名服务错误配置和不安全授权是最常见的威胁类型。美国各州“ 
-马里兰州今日（02/04/25）约翰·塔克（John Tucker） “ _blank”&gt;查看全文]]></description>
-      <guid>https://today.umd.edu/umd-researchers-calculate-cyberattack-risk-for-all-50-states</guid>
-      <pubDate>Fri, 07 Feb 2025 18:11:56 GMT</pubDate>
+      <title>科技巨头在大量的AI支出上加倍</title>
+      <link>https://www.wsj.com/tech/ai/tech-giants-double-down-on-their-massive-ai-spending-b3040b33</link>
+      <description><![CDATA[华尔街日报 在去年在AI上进行创纪录的投资，微软，字母，元平台和亚马逊在最近的季度收益中分别表示，他们将增加2025年的投资。微软，Alphabet和Alphabet和META预计的总资本支出不少于2150亿美元，每年增长了45％以上。亚马逊表示，AI将使其业务总资本支出的大部分增加到超过1000亿美元。
+《华尔街日报》（02/06/25）内特·拉特纳； Jason Dean  查看全文   - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/tech/ai/tech-giants-double-down-on-their-massive-ai-spending-b3040b33</guid>
+      <pubDate>Mon, 10 Feb 2025 18:12:29 GMT</pubDate>
     </item>
     <item>
-      <title>AI有助于打开由Vesuvius烧焦的卷轴</title>
-      <link>https://www.independent.co.uk/news/scientists-ap-roman-pompeii-herculaneum-b2692805.html</link>
-      <description><![CDATA[据维苏维乌斯挑战赛的组织者称，独立（英国） 研究人员成功地在英国牛津大学的Bodleian图书馆中成功制作了古老的卷轴内部图像。纸莎草卷轴是公元79年79山塞维乌斯山的一座罗马别墅遗体中发现的数百种。在Vesuvius挑战中，研究人员必须破译卷轴，这些卷轴太脆弱了，无法展开。使用同步加速器扫描牛津卷轴，然后使用AI来生成几乎可以展开的滚动的3D图像。
-独立（英国）（02/05/25）吉尔·劳勒斯（Jill Lawless）； pan pylas  ]]></description>
-      <guid>https://www.independent.co.uk/news/scientists-ap-roman-pompeii-herculaneum-b2692805.html</guid>
-      <pubDate>Fri, 07 Feb 2025 18:11:55 GMT</pubDate>
+      <title>新的Nvidia游戏芯片的疯狂在东京引起混乱</title>
+      <link>https://www.cnn.com/2025/02/06/tech/tokyo-nvidia-gaming-chips-buy-frenzy-chaos-intl-hnk/index.html</link>
+      <description><![CDATA[CNN  日本电子商店PC Koubou在东京的Akihabara区被迫取消NVIDIA的GeForce RTX 50图形卡的出售，此前有400个潜在买家在附近造成了破坏。拥有电子连锁店的Unitcom的Taizo Hashida表示，讲中文的客户约占潜在买家的90％。由于美国对高级计算机芯片的出口限制，中国市场上的游戏玩家只能访问图形卡的修改版。 &gt;
+CNN（02/06/25）克里斯·劳； Minori Konishi； Joyce Jiang  查看全文]]></description>
+      <guid>https://www.cnn.com/2025/02/06/tech/tokyo-nvidia-gaming-chips-buy-frenzy-chaos-intl-hnk/index.html</guid>
+      <pubDate>Mon, 10 Feb 2025 18:12:28 GMT</pubDate>
     </item>
     <item>
-      <title>设备可以从几百米之外的3D扫描</title>
-      <link>https://www.newscientist.com/article/2467107-new-device-can-scan-your-face-in-3d-from-hundreds-of-metres-away/</link>
-      <description><![CDATA[新科学家 由苏格兰Heriot-watt University和同事的Aongus McCarthy创建的设备可以创建详细的三维（3D）图像，包括使用LIDAR距离百分之几毫米的小至1毫米的细节。研究人员使用了基于超薄超导电线的光检测传感器，使设备能够区分光的单个光颗粒。 “ 
-新科学家（02/06/25）karmela padavic-callaghan  查看全文]]></description>
-      <guid>https://www.newscientist.com/article/2467107-new-device-can-scan-your-face-in-3d-from-hundreds-of-metres-away/</guid>
-      <pubDate>Fri, 07 Feb 2025 18:11:54 GMT</pubDate>
+      <title>Google在AI奶酪gaffe之后重新制作超级碗广告</title>
+      <link>https://www.bbc.com/news/articles/cx2j15r1g09o</link>
+      <description><![CDATA[BBC News   Google编辑了其超级碗广告，该广告宣传了其双子座AI工具，此前博客作者在广告中标记了一项虚假的主张，该商业股票占全球奶酪消费量的50％至60％。 Google的Jerry Dischler表示，此错误不是AI的“幻觉”，并指出Gemini获取信息的多个网站引用了该统计信息。搜索引擎巨头让双子座重写广告中的产品的描述，而没有统计信息。
+BBC新闻（02/06/25）格雷厄姆·弗雷泽（Graham Fraser）； Tom Singleton  查看完整文章]]></description>
+      <guid>https://www.bbc.com/news/articles/cx2j15r1g09o</guid>
+      <pubDate>Mon, 10 Feb 2025 18:12:27 GMT</pubDate>
     </item>
     <item>
-      <title>字母删除多样性承诺</title>
-      <link>https://www.cnbc.com/2025/02/05/google-scraps-diversity-aspirations-as-a-federal-contractor.html</link>
-      <description><![CDATA[CNBC  在周三发布的年度报告中，Google父母字母排除了上一年的语言，说明了其对多样性，公平和包容性的承诺（DEI）。 Alphabet的Fiona Cicconi在一份备忘录中写道，该公司由于新的联邦合同要求而必须进行更改。科技公司已经渴望安抚新政府及其对DEI的看法。
-CNBC（02/05/25）Jennifer Elias  查看全文]]></description>
-      <guid>https://www.cnbc.com/2025/02/05/google-scraps-diversity-aspirations-as-a-federal-contractor.html</guid>
-      <pubDate>Fri, 07 Feb 2025 18:11:53 GMT</pubDate>
+      <title>轻巧的手指绑结，梳头</title>
+      <link>https://www.newscientist.com/article/2467328-dexterous-and-light-prosthetic-hand-can-tie-knots-and-comb-hair/</link>
+      <description><![CDATA[新科学家 由Shiwu Zhang及其中国科学技术大学的同事开发的轻巧的假体手几乎可以像人类手一样自由地移动，并帮助佩戴者打结，梳理头发并执行其他复杂的任务。语音控制的假肢重220克，约占典型人手的重量的一半，并且几乎可以在“轻proshetic Handet ties结，combs头发”中移动几乎很多方向。  &gt;
+新科学家（02/07/25）Alex Wilkins  查看全文]]></description>
+      <guid>https://www.newscientist.com/article/2467328-dexterous-and-light-prosthetic-hand-can-tie-knots-and-comb-hair/</guid>
+      <pubDate>Mon, 10 Feb 2025 18:12:26 GMT</pubDate>
     </item>
     <item>
-      <title>用于分发计算的量子传送</title>
-      <link>https://arstechnica.com/science/2025/02/quantum-teleportation-used-to-distribute-a-calculation/</link>
-      <description><![CDATA[英国牛津大学的ARS Technica  研究人员展示了使用量子传送的使用量子传送，在两种相距两米的量子硬件之间运行简单的算法。他们使用量子传送链接硬件来创建一个可以在差距的两侧执行操作的单个量子计算机。
-ARS Technica（02/05/25）John timmer  查看全文]]></description>
-      <guid>https://arstechnica.com/science/2025/02/quantum-teleportation-used-to-distribute-a-calculation/</guid>
-      <pubDate>Fri, 07 Feb 2025 18:11:52 GMT</pubDate>
+      <title>网络攻击破坏了报纸的出版</title>
+      <link>https://www.nytimes.com/2025/02/09/business/media/newspaper-cyberattack-lee-enterprises.html</link>
+      <description><![CDATA[上周李企业公司拥有的美国纽约时报 报纸无法打印，网站上有问题，并且由于网络攻击而发表了较小的问题。 Lee Enterprises是每日70多家每日报纸和近350份专业出版物的母公司。上周一开始的问题仍然很明显，截至昨天，在许多受影响的出版物的网站上。
+《纽约时报》（02/09/25）Amanda Holpuch  查看全文]]></description>
+      <guid>https://www.nytimes.com/2025/02/09/business/media/newspaper-cyberattack-lee-enterprises.html</guid>
+      <pubDate>Mon, 10 Feb 2025 18:12:25 GMT</pubDate>
     </item>
     <item>
-      <title>全球勒索软件付款减少了三分之一</title>
-      <link>https://www.theguardian.com/technology/2025/feb/05/global-ransomware-payments-plunge-by-a-third-amid-crackdown</link>
-      <description><![CDATA[根据研究公司Chainalysis，Guardian（英国） 勒索软件的支付去年下降了三分之一，至8.13亿美元，而2023年为12.5亿美元。这家区块链分析公司表示，下半年的付款急剧下降，这反映了执法部门对网络犯罪分子采取的行动的影响，并拒绝被勒索的人拒绝付款。 Chainalysis&#39;Jacqueline Burns Koven说，新数字表明“勒索软件启示录”已经避免了。
-卫报（英国）（02/05/25）丹·米尔莫]]></description>
-      <guid>https://www.theguardian.com/technology/2025/feb/05/global-ransomware-payments-plunge-by-a-third-amid-crackdown</guid>
-      <pubDate>Fri, 07 Feb 2025 18:11:51 GMT</pubDate>
+      <title>欧洲刑警组织敦促银行为量子计算机风险做准备</title>
+      <link>https://www.reuters.com/technology/cybersecurity/europol-body-banks-should-prepare-quantum-computer-risk-now-2025-02-07/</link>
+      <description><![CDATA[路透社 由欧盟执法合作署（Europol）领导的一个小组敦促银行现在开始准备量子计算机对敏感数据加密的风险。 “对于金融行业来说，量子计算机的出现对客户机密性和同行通信，身份验证过程和对数字签名的信任构成风险，” &gt;来自“欧洲刑警组织敦促银行为量子计算机风险做准备” 
+路透社（02/07/25） -2025-02-07/“ target =“ _ blank”&gt;查看全文]]></description>
+      <guid>https://www.reuters.com/technology/cybersecurity/europol-body-banks-should-prepare-quantum-computer-risk-now-2025-02-07/</guid>
+      <pubDate>Mon, 10 Feb 2025 18:12:24 GMT</pubDate>
     </item>
     <item>
-      <title>Doge将敏感的联邦数据馈送到AI中以削减目标</title>
-      <link>https://www.washingtonpost.com/nation/2025/02/06/elon-musk-doge-ai-department-education/</link>
-      <description><![CDATA[《华盛顿邮报》   来自埃隆·马斯克领导的美国政府效率部（DOGE）的代表将美国教育部门的敏感数据纳入AI软件，以调查该机构的计划和用于寻找削减机会的计划，并说内部人士。 Doge计划在其他部门和机构中复制此过程，访问政府不同部分的后端软件，并使用AI技术来提取有关员工和计划支出的信息。  “ Doge将敏感的联邦数据馈送到AI中，以削减目标” 
-《华盛顿邮报》（02/06/25）汉娜·纳坦森； Gerrit de vynck;伊丽莎白·德沃斯金（Elizabeth Dwoskin）； et al。全文]]></description>
-      <guid>https://www.washingtonpost.com/nation/2025/02/06/elon-musk-doge-ai-department-education/</guid>
-      <pubDate>Fri, 07 Feb 2025 18:11:50 GMT</pubDate>
+      <title>技术工作，2025年初的帖子激增</title>
+      <link>https://www.ciodive.com/news/tech-jobs-report-january-IT/739611/</link>
+      <description><![CDATA[根据Comptia对美国劳工统计局数据的分析，CIO Dive  全国雇主在一月份增加了228,000个技术就业机会，这是连续第二个增长的一个月。上个月，开放技术工作也跃升，因为公司增加了大约51,000个净新职位发布，总共有476,000个主动开放角色。尽管有所增加，但IT职位中的失业率也在1月份上升到2.9％，比前一个月的2％。
+CIO Dive（02/07/25）Roberto Torres  查看全文]]></description>
+      <guid>https://www.ciodive.com/news/tech-jobs-report-january-IT/739611/</guid>
+      <pubDate>Mon, 10 Feb 2025 18:12:22 GMT</pubDate>
     </item>
     <item>
-      <title>检察官调查俄罗斯在为欧盟边境系统购买软件中的角色</title>
-      <link>https://www.ft.com/content/15412552-32e3-4ec5-afc3-074cfeac20cb</link>
-      <description><![CDATA[《金融时报》  欧盟检察官正在研究IT承包商莫斯科办公室的参与，以建立欧盟延迟入境 /退出系统（EES）。比利时ATOS与IBM比利时和意大利的EES合同赢得了2019年的Leonardo。该分支机构是经许可运营的，该许可将授予俄罗斯的FSB安全服务访问该国的工作。
-《金融时报》（02/06/25）laura dubois     - 可能需要付费订阅]]></description>
-      <guid>https://www.ft.com/content/15412552-32e3-4ec5-afc3-074cfeac20cb</guid>
-      <pubDate>Fri, 07 Feb 2025 18:11:50 GMT</pubDate>
+      <title>英国要求访问Apple用户的加密数据</title>
+      <link>https://www.bbc.com/news/articles/c20g288yldko</link>
+      <description><![CDATA[英国新闻 英国政府已要求苹果赋予其访问Apple用户在其云服务中存储的加密数据。该要求由政府的内政部根据《调查权法》法案满足，并适用于使用“高级数据保护”（ADP）存储的所有内容。 ADP使用端到端加密，是用于用户的选择。
+BBC新闻（02/07/25）Zoe Kleinman  查看完整文章]]></description>
+      <guid>https://www.bbc.com/news/articles/c20g288yldko</guid>
+      <pubDate>Mon, 10 Feb 2025 18:12:22 GMT</pubDate>
     </item>
     <item>
-      <title>DeepSeek与被禁止的中国电信链接</title>
-      <link>https://apnews.com/article/deepseek-china-generative-ai-internet-security-concerns-c52562f8c4760a81c4f76bc5fbdebad0</link>
-      <description><![CDATA[美联社 中国DeepSeek的网站，其发行后不久，其聊天机器人成为美国下载最多的应用程序，其中包含计算机代码，可以将一些用户登录信息发送给中国国有的电信公司。从在美国加拿大网络安全公司运营，Feroot Security在聊天机器人的Web登录页面上确定了严重混淆的计算机脚本，显示了与中国移动设有的计算机基础设施的连接。 “ 
-美联社（02/05/25）Byron Tau  查看全文]]></description>
-      <guid>https://apnews.com/article/deepseek-china-generative-ai-internet-security-concerns-c52562f8c4760a81c4f76bc5fbdebad0</guid>
-      <pubDate>Fri, 07 Feb 2025 18:11:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>共和党人对网络安全机构的攻击</title>
-      <link>https://www.washingtonpost.com/technology/2025/02/03/cisa-china-trump-noem-hacking-cyberthreats/</link>
-      <description><![CDATA[《华盛顿邮报》  共和党议员在美国网络安全和基础设施安全局（CISA）方面似乎正在转移齿轮，并与美国国土安全部长克里斯蒂·诺姆（Kristi Noem来自民族国家黑客和勒索软件攻击。美国总统唐纳德·特朗普（Donald Trump）维持前总统乔·拜登（Joe Biden）关于网络安全的最后一项行政命令，该命令要求联邦机构的软件供应商表明他们的安全标准可以承受诸如Salt Typhoon之类的网络攻击。 。网络安全机构” 
-《华盛顿邮报》（02/03/25）约瑟夫·门恩 查看全文   - 可能需要付费订阅]]></description>
-      <guid>https://www.washingtonpost.com/technology/2025/02/03/cisa-china-trump-noem-hacking-cyberthreats/</guid>
-      <pubDate>Fri, 07 Feb 2025 18:11:47 GMT</pubDate>
+      <title>美国，中国的野心在巴黎的AI峰会上投射了影子</title>
+      <link>https://apnews.com/article/artificial-intelligence-france-ai-trump-deepseek-86109ba21f9e3ccc744f23cc74ff8a17</link>
+      <description><![CDATA[美联社 人工智能的地缘政治将从今天的AI行动峰会开始。美国副总统JD Vance将出席，这是他自任职以来的第一次出国旅行，而中国总统Xi Jinping则将副总理Zhang Guoqing派往XI＆Rsquo的特别代表。会议的目的是让各国达成道德，民主和环境可持续的AI。
+美联社（02/10/25）Sylvie Corbet; kelvin chan  &lt;a href =“ https://apnews.com/article/article/artcover-intelligence-france-france-ai-trump-deepseek-86109ba-86109ba21f9e3cc7444444f23cc74ff23cc74ff8a17]]></description>
+      <guid>https://apnews.com/article/artificial-intelligence-france-ai-trump-deepseek-86109ba21f9e3ccc744f23cc74ff8a17</guid>
+      <pubDate>Mon, 10 Feb 2025 18:12:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
