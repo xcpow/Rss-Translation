@@ -1,105 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>ACM技术</title>
+    <title>ACM 技术新闻</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
-    <description>ACM技术</description>
-    <lastBuildDate>Mon, 10 Feb 2025 18:12:34 GMT</lastBuildDate>
+    <description>ACM 技术新闻</description>
+    <lastBuildDate>Wed, 12 Feb 2025 18:12:26 GMT</lastBuildDate>
     <item>
-      <title>CISA命令代理商来补丁Linux内核错误</title>
-      <link>https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-linux-kernel-bug-exploited-in-attacks/</link>
-      <description><![CDATA[BleepingComputer  美国网络安全和基础设施安全局（CISA）已命令联邦机构确保其系统免受攻击中积极利用的高度严重Linux内核缺陷。该错误被跟踪为CVE-2024-53104，首次在内核版本2.6.26中引入，此后已由Google为Android用户修补。根据Google的说法，该漏洞是由USB视频类驱动程序中的不合格写入弱点引起的。
-bleepingComputer（02/05/25）Sergiu Gatlan  查看全文]]></description>
-      <guid>https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-linux-kernel-bug-exploited-in-attacks/</guid>
-      <pubDate>Mon, 10 Feb 2025 18:12:33 GMT</pubDate>
+      <title>马斯克领导的财团对 OpenAI 发起 970 亿美元收购</title>
+      <link>https://www.washingtonpost.com/technology/2025/02/10/elon-musk-openai-bid-valuation/</link>
+      <description><![CDATA[华盛顿邮报埃隆·马斯克和一群投资者提出以 974 亿美元收购 ChatGPT 制造商 OpenAI，远低于该公司最近的 1570 亿美元估值。OpenAI 首席执行官 Sam Altman 在 X 上拒绝了这一提议，他发帖称，“不用了，但如果你愿意，我们可以以 97.4 亿美元收购 Twitter。”马斯克于 2015 年帮助创立并资助了 OpenAI，但三年后，在 Altman 和其他领导人拒绝了他接管公司的建议后，他离开了。摘自“马斯克领导的集团发起 970 亿美元收购 OpenAI”
+华盛顿邮报 (02/10/25) Gerrit De Vynck； Elizabeth Dwoskin 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.washingtonpost.com/technology/2025/02/10/elon-musk-openai-bid-valuation/</guid>
+      <pubDate>Wed, 12 Feb 2025 18:12:26 GMT</pubDate>
     </item>
     <item>
-      <title>相机以光速识别对象</title>
-      <link>https://interestingengineering.com/innovation/new-camera-identifies-objects-200x-faster</link>
-      <description><![CDATA[有趣的工程 华盛顿大学和普林斯顿大学的研究人员通过用50个层次的元透镜制成的工程光学元件来开发用于计算机视觉的摄像机，这些光学元件充当光学神经网络。最终的摄像机使用传统的计算机硬件比神经网络快200倍以上，以识别和分类图像。
-有趣的工程（02/06/25）prabhat ranjan mishra  ]]></description>
-      <guid>https://interestingengineering.com/innovation/new-camera-identifies-objects-200x-faster</guid>
-      <pubDate>Mon, 10 Feb 2025 18:12:31 GMT</pubDate>
+      <title>白宫鼓励美国人为人工智能战略献计献策</title>
+      <link>https://www.foxnews.com/politics/white-house-encourages-americans-provide-policy-ideas-artificial-intelligence-plan</link>
+      <description><![CDATA[福克斯新闻白宫科技政策办公室呼吁美国人分享人工智能行动计划的政策想法和建议，该计划将根据美国总统唐纳德·特朗普上个月签署的行政命令制定。据官员称，人工智能行动计划将“确定优先政策行动，以增强美国作为人工智能强国的地位，并防止不必要的繁重要求阻碍私营部门的创新”。摘自“白宫鼓励美国人为人工智能战略提供想法”
+福克斯新闻 (02/06/25) Brooke Singman 查看全文]]></description>
+      <guid>https://www.foxnews.com/politics/white-house-encourages-americans-provide-policy-ideas-artificial-intelligence-plan</guid>
+      <pubDate>Wed, 12 Feb 2025 18:12:25 GMT</pubDate>
     </item>
     <item>
-      <title>俄罗斯机器人军队试图挥舞德国选举</title>
-      <link>https://www.politico.eu/article/germany-election-flood-social-media-x-russia-bots-kremlin-operation-false-news/</link>
-      <description><![CDATA[欧洲政治欧洲 德国外交事务办公室归因于该国2月23日当选俄罗斯机器人的X上的虚假信息增加。该办公室发布了一份报告，指出了克里姆林宫支持的Doppelg＆Auml; nger广告系列正在使用AI生成的内容，伪新网站和卧铺帐户来传播虚假信息。根据该报告，Ghost帐户对X的活动在1月底的一天中的一天中跃升至3,000多个帖子，此前很少发布前两个月的每天50次以上。  “俄罗斯机器人军队试图挥舞德国选举” 
-欧洲Politico欧洲（02/06/25）Chris Lunday  查看完整文章]]></description>
-      <guid>https://www.politico.eu/article/germany-election-flood-social-media-x-russia-bots-kremlin-operation-false-news/</guid>
-      <pubDate>Mon, 10 Feb 2025 18:12:30 GMT</pubDate>
+      <title>俄罗斯 Zservers 因支持勒索软件而受到制裁</title>
+      <link>https://www.upi.com/Top_News/US/2025/02/11/sanctions-Zservers-malware-Australian/1361739285347/</link>
+      <description><![CDATA[UPI美国财政部周二宣布与英国和澳大利亚联合对俄罗斯互联网托管服务提供商 Zservers 实施制裁，原因是该公司为 LockBit 等全球勒索软件组织提供支持。Zservers 已成为网络犯罪分子逃避执法调查的避风港。官员们指责 Zservers 转租 IP 地址并运行 LockBit 和其他与俄罗斯有关的网络犯罪分子使用的编程接口恶意软件。摘自“俄罗斯的 Zservers 因支持勒索软件而受到制裁”
+UPI (02/11/25) Clyde Hughes 查看全文]]></description>
+      <guid>https://www.upi.com/Top_News/US/2025/02/11/sanctions-Zservers-malware-Australian/1361739285347/</guid>
+      <pubDate>Wed, 12 Feb 2025 18:12:25 GMT</pubDate>
     </item>
     <item>
-      <title>科技巨头在大量的AI支出上加倍</title>
-      <link>https://www.wsj.com/tech/ai/tech-giants-double-down-on-their-massive-ai-spending-b3040b33</link>
-      <description><![CDATA[华尔街日报 在去年在AI上进行创纪录的投资，微软，字母，元平台和亚马逊在最近的季度收益中分别表示，他们将增加2025年的投资。微软，Alphabet和Alphabet和META预计的总资本支出不少于2150亿美元，每年增长了45％以上。亚马逊表示，AI将使其业务总资本支出的大部分增加到超过1000亿美元。
-《华尔街日报》（02/06/25）内特·拉特纳； Jason Dean  查看全文   - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/tech/ai/tech-giants-double-down-on-their-massive-ai-spending-b3040b33</guid>
-      <pubDate>Mon, 10 Feb 2025 18:12:29 GMT</pubDate>
+      <title>Meta 裁员以寻找 AI 人才</title>
+      <link>https://www.bloomberg.com/news/articles/2025-02-10/meta-starts-eliminating-jobs-in-shift-to-find-ai-talent</link>
+      <description><![CDATA[彭博社Meta Platforms 周一开始通知员工裁员，这一裁员流程最终将导致 5% 的员工（即 3,600 人）被解雇。Meta 首席执行官马克·扎克伯格告诉员工，裁员对象是“未达到预期”的员工，并告诉管理人员，裁员将创造机会，公司可以借此聘请“最优秀的人才”。摘自“Meta 裁员以寻找 AI 人才”
+彭博社 (02/10/25) Kurt Wagner； Riley Griffin 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-02-10/meta-starts-eliminating-jobs-in-shift-to-find-ai-talent</guid>
+      <pubDate>Wed, 12 Feb 2025 18:12:24 GMT</pubDate>
     </item>
     <item>
-      <title>新的Nvidia游戏芯片的疯狂在东京引起混乱</title>
-      <link>https://www.cnn.com/2025/02/06/tech/tokyo-nvidia-gaming-chips-buy-frenzy-chaos-intl-hnk/index.html</link>
-      <description><![CDATA[CNN  日本电子商店PC Koubou在东京的Akihabara区被迫取消NVIDIA的GeForce RTX 50图形卡的出售，此前有400个潜在买家在附近造成了破坏。拥有电子连锁店的Unitcom的Taizo Hashida表示，讲中文的客户约占潜在买家的90％。由于美国对高级计算机芯片的出口限制，中国市场上的游戏玩家只能访问图形卡的修改版。 &gt;
-CNN（02/06/25）克里斯·劳； Minori Konishi； Joyce Jiang  查看全文]]></description>
-      <guid>https://www.cnn.com/2025/02/06/tech/tokyo-nvidia-gaming-chips-buy-frenzy-chaos-intl-hnk/index.html</guid>
-      <pubDate>Mon, 10 Feb 2025 18:12:28 GMT</pubDate>
+      <title>在贝都因人和德鲁兹人的科技中心，年轻女性占据主导地位</title>
+      <link>https://www.jpost.com/israel-news/article-841154</link>
+      <description><![CDATA[耶路撒冷邮报 (以色列)通过与波特兰信托基金会合作建立的技术中心，以色列的德鲁兹和贝都因女性有机会进入高科技劳动力市场，同时接受她们的宗教传统。位于 Daliyat al-Karmel 的 Lotus 女性高科技中心和位于 Zarzir 的 Samana 中心分别使德鲁兹和贝都因女性能够学习编码和其他技术技能。这两个中心的领导人都与女性的家人合作，以便他们了解女性在接受培训的同时遵守所有社会规则。摘自“在贝都因、德鲁兹技术中心，年轻女性是游戏的佼佼者”
+耶路撒冷邮报 (以色列) (02/07/25) Felice Friedson； Giorgia Valente 查看全文]]></description>
+      <guid>https://www.jpost.com/israel-news/article-841154</guid>
+      <pubDate>Wed, 12 Feb 2025 18:12:24 GMT</pubDate>
     </item>
     <item>
-      <title>Google在AI奶酪gaffe之后重新制作超级碗广告</title>
-      <link>https://www.bbc.com/news/articles/cx2j15r1g09o</link>
-      <description><![CDATA[BBC News   Google编辑了其超级碗广告，该广告宣传了其双子座AI工具，此前博客作者在广告中标记了一项虚假的主张，该商业股票占全球奶酪消费量的50％至60％。 Google的Jerry Dischler表示，此错误不是AI的“幻觉”，并指出Gemini获取信息的多个网站引用了该统计信息。搜索引擎巨头让双子座重写广告中的产品的描述，而没有统计信息。
-BBC新闻（02/06/25）格雷厄姆·弗雷泽（Graham Fraser）； Tom Singleton  查看完整文章]]></description>
-      <guid>https://www.bbc.com/news/articles/cx2j15r1g09o</guid>
-      <pubDate>Mon, 10 Feb 2025 18:12:27 GMT</pubDate>
+      <title>台湾传统芯片产业面临大陆竞争</title>
+      <link>https://www.reuters.com/technology/taiwans-legacy-chip-industry-contemplates-future-china-eats-into-share-2025-02-10/</link>
+      <description><![CDATA[路透社台湾半导体行业担心，中国大陆代工厂在采用 28 纳米技术或更大工艺的传统或成熟节点芯片方面的市场份额不断增加。中国大陆的晶圆代工厂、华虹和中芯国际正在降价并实施积极的产能扩张计划，危及台湾力晶、联华电子和先锋国际的主导地位。台湾公司已表示需要适应，联华电子正与英特尔合作生产更小、更先进的芯片，并在传统芯片制造之外实现多元化。摘自“台湾传统芯片行业面临中国竞争”
+路透社 (02/10/25) Wen-Yee Lee 查看全文]]></description>
+      <guid>https://www.reuters.com/technology/taiwans-legacy-chip-industry-contemplates-future-china-eats-into-share-2025-02-10/</guid>
+      <pubDate>Wed, 12 Feb 2025 18:12:23 GMT</pubDate>
     </item>
     <item>
-      <title>轻巧的手指绑结，梳头</title>
-      <link>https://www.newscientist.com/article/2467328-dexterous-and-light-prosthetic-hand-can-tie-knots-and-comb-hair/</link>
-      <description><![CDATA[新科学家 由Shiwu Zhang及其中国科学技术大学的同事开发的轻巧的假体手几乎可以像人类手一样自由地移动，并帮助佩戴者打结，梳理头发并执行其他复杂的任务。语音控制的假肢重220克，约占典型人手的重量的一半，并且几乎可以在“轻proshetic Handet ties结，combs头发”中移动几乎很多方向。  &gt;
-新科学家（02/07/25）Alex Wilkins  查看全文]]></description>
-      <guid>https://www.newscientist.com/article/2467328-dexterous-and-light-prosthetic-hand-can-tie-knots-and-comb-hair/</guid>
-      <pubDate>Mon, 10 Feb 2025 18:12:26 GMT</pubDate>
+      <title>美国宇航局的耐辐射计算机在范艾伦带中幸存下来</title>
+      <link>https://www.theregister.com/2025/02/11/nasa_radpc_firefly_moon_mission/</link>
+      <description><![CDATA[The Register（英国）美国国家航空航天局 (NASA) 表示，其自修复抗辐射计算机 (RadPC) 于 1 月 15 日随 Firefly Aerospace 的 Blue Ghost 月球任务进入太空，在穿越范艾伦辐射带时幸存下来。RadPC 具有四个 RISC-V 处理器、一个微控制器、两千字节的数据存储器、现场可编程门阵列和三个用于测量辐射的剂量计。该计算机可以识别辐射袭击引起的故障并在后台修复问题。摘自“NASA 的抗辐射计算机在范艾伦辐射带中幸存下来”
+The Register（英国）（2025 年 2 月 11 日）Simon Sharwood]]></description>
+      <guid>https://www.theregister.com/2025/02/11/nasa_radpc_firefly_moon_mission/</guid>
+      <pubDate>Wed, 12 Feb 2025 18:12:23 GMT</pubDate>
     </item>
     <item>
-      <title>网络攻击破坏了报纸的出版</title>
-      <link>https://www.nytimes.com/2025/02/09/business/media/newspaper-cyberattack-lee-enterprises.html</link>
-      <description><![CDATA[上周李企业公司拥有的美国纽约时报 报纸无法打印，网站上有问题，并且由于网络攻击而发表了较小的问题。 Lee Enterprises是每日70多家每日报纸和近350份专业出版物的母公司。上周一开始的问题仍然很明显，截至昨天，在许多受影响的出版物的网站上。
-《纽约时报》（02/09/25）Amanda Holpuch  查看全文]]></description>
-      <guid>https://www.nytimes.com/2025/02/09/business/media/newspaper-cyberattack-lee-enterprises.html</guid>
-      <pubDate>Mon, 10 Feb 2025 18:12:25 GMT</pubDate>
+      <title>CISA 选举安全官员被停职</title>
+      <link>https://techcrunch.com/2025/02/11/cisa-election-security-officials-placed-on-leave-report/</link>
+      <description><![CDATA[TechCrunch美国网络安全和基础设施安全局 (CISA) 已将其选举安全团队成员停职。美国国土安全部助理部长 Tricia McLaughlin 证实，从事外国影响行动和虚假信息的 CISA 员工已被停职，等待审查。受影响的工作人员曾与选举官员合作应对一系列网络安全威胁。摘自“CISA 选举安全官员被停职”
+TechCrunch (02/11/25) Carly Page 查看全文]]></description>
+      <guid>https://techcrunch.com/2025/02/11/cisa-election-security-officials-placed-on-leave-report/</guid>
+      <pubDate>Wed, 12 Feb 2025 18:12:22 GMT</pubDate>
     </item>
     <item>
-      <title>欧洲刑警组织敦促银行为量子计算机风险做准备</title>
-      <link>https://www.reuters.com/technology/cybersecurity/europol-body-banks-should-prepare-quantum-computer-risk-now-2025-02-07/</link>
-      <description><![CDATA[路透社 由欧盟执法合作署（Europol）领导的一个小组敦促银行现在开始准备量子计算机对敏感数据加密的风险。 “对于金融行业来说，量子计算机的出现对客户机密性和同行通信，身份验证过程和对数字签名的信任构成风险，” &gt;来自“欧洲刑警组织敦促银行为量子计算机风险做准备” 
-路透社（02/07/25） -2025-02-07/“ target =“ _ blank”&gt;查看全文]]></description>
-      <guid>https://www.reuters.com/technology/cybersecurity/europol-body-banks-should-prepare-quantum-computer-risk-now-2025-02-07/</guid>
-      <pubDate>Mon, 10 Feb 2025 18:12:24 GMT</pubDate>
+      <title>中国前英国大使在人工智能峰会上与 Bengio 辩论</title>
+      <link>https://www.bbc.com/news/articles/cly7lneqj5xo</link>
+      <description><![CDATA[BBC在巴黎举行的人工智能行动峰会上，中国清华大学的傅莹抨击了由 ACM A.M. 图灵奖获得者、“人工智能教父”约书亚·本吉奥牵头、96 人共同撰写的一份国际人工智能安全报告。傅莹表示，开源是确保人工智能不造成危害的最佳方式，提供了“更好的机会来发现和解决问题”。本吉奥认为，开源让犯罪分子更容易滥用人工智能。摘自“中国前英国大使在人工智能峰会上与本吉奥辩论”
+BBC (02/09/25) Zoe Kleinman 查看全文]]></description>
+      <guid>https://www.bbc.com/news/articles/cly7lneqj5xo</guid>
+      <pubDate>Wed, 12 Feb 2025 18:12:22 GMT</pubDate>
     </item>
     <item>
-      <title>技术工作，2025年初的帖子激增</title>
-      <link>https://www.ciodive.com/news/tech-jobs-report-january-IT/739611/</link>
-      <description><![CDATA[根据Comptia对美国劳工统计局数据的分析，CIO Dive  全国雇主在一月份增加了228,000个技术就业机会，这是连续第二个增长的一个月。上个月，开放技术工作也跃升，因为公司增加了大约51,000个净新职位发布，总共有476,000个主动开放角色。尽管有所增加，但IT职位中的失业率也在1月份上升到2.9％，比前一个月的2％。
-CIO Dive（02/07/25）Roberto Torres  查看全文]]></description>
-      <guid>https://www.ciodive.com/news/tech-jobs-report-january-IT/739611/</guid>
-      <pubDate>Mon, 10 Feb 2025 18:12:22 GMT</pubDate>
+      <title>科技公司为儿童网络安全筹集 2700 万美元</title>
+      <link>https://thehill.com/policy/technology/5135919-tech-companies-raise-more-than-27-million-to-build-infrastructure-for-kids-online-safety/</link>
+      <description><![CDATA[The Hill一群科技公司为一项新计划筹集了超过 2700 万美元，该计划的重点是开发开源工具来提高儿童的网络安全。据该项目的新闻稿称，周一在巴黎人工智能行动峰会上宣布的强大在线安全工具 (ROOST) 项目将提供免费工具来检测、审查和报告儿童性虐待材料，并使用大型语言模型来“增强安全基础设施”。摘自“科技公司为儿童在线安全筹集 2700 万美元”
+The Hill (02/10/25) Miranda Nazzaro 查看全文]]></description>
+      <guid>https://thehill.com/policy/technology/5135919-tech-companies-raise-more-than-27-million-to-build-infrastructure-for-kids-online-safety/</guid>
+      <pubDate>Wed, 12 Feb 2025 18:12:22 GMT</pubDate>
     </item>
     <item>
-      <title>英国要求访问Apple用户的加密数据</title>
-      <link>https://www.bbc.com/news/articles/c20g288yldko</link>
-      <description><![CDATA[英国新闻 英国政府已要求苹果赋予其访问Apple用户在其云服务中存储的加密数据。该要求由政府的内政部根据《调查权法》法案满足，并适用于使用“高级数据保护”（ADP）存储的所有内容。 ADP使用端到端加密，是用于用户的选择。
-BBC新闻（02/07/25）Zoe Kleinman  查看完整文章]]></description>
-      <guid>https://www.bbc.com/news/articles/c20g288yldko</guid>
-      <pubDate>Mon, 10 Feb 2025 18:12:22 GMT</pubDate>
+      <title>特朗普任命共和党全国委员会高管担任国家网络主管</title>
+      <link>https://www.axios.com/2025/02/12/trump-names-rnc-executive-national-cyber-director</link>
+      <description><![CDATA[Axios美国总统特朗普提名共和党全国委员会 (RNC) 高管肖恩·凯恩克罗斯 (Sean Cairncross) 为其国家网络主管，这是该政府首次重大网络安全提名。如果得到确认，凯恩克罗斯将领导白宫国家网络总监办公室，该办公室成立于美国前总统乔·拜登上任前不久，是总统网络安全事务的首席顾问。摘自“特朗普任命共和党全国委员会高管为国家网络总监”
+Axios (02/11/25) Sam Sabin 查看全文]]></description>
+      <guid>https://www.axios.com/2025/02/12/trump-names-rnc-executive-national-cyber-director</guid>
+      <pubDate>Wed, 12 Feb 2025 18:12:21 GMT</pubDate>
     </item>
     <item>
-      <title>美国，中国的野心在巴黎的AI峰会上投射了影子</title>
-      <link>https://apnews.com/article/artificial-intelligence-france-ai-trump-deepseek-86109ba21f9e3ccc744f23cc74ff8a17</link>
-      <description><![CDATA[美联社 人工智能的地缘政治将从今天的AI行动峰会开始。美国副总统JD Vance将出席，这是他自任职以来的第一次出国旅行，而中国总统Xi Jinping则将副总理Zhang Guoqing派往XI＆Rsquo的特别代表。会议的目的是让各国达成道德，民主和环境可持续的AI。
-美联社（02/10/25）Sylvie Corbet; kelvin chan  &lt;a href =“ https://apnews.com/article/article/artcover-intelligence-france-france-ai-trump-deepseek-86109ba-86109ba21f9e3cc7444444f23cc74ff23cc74ff8a17]]></description>
-      <guid>https://apnews.com/article/artificial-intelligence-france-ai-trump-deepseek-86109ba21f9e3ccc744f23cc74ff8a17</guid>
-      <pubDate>Mon, 10 Feb 2025 18:12:21 GMT</pubDate>
+      <title>欧盟推出 2000 亿美元人工智能支出计划</title>
+      <link>https://www.wsj.com/tech/ai/eu-pledges-200-billion-in-ai-spending-in-bid-to-catch-up-with-u-s-china-7bf82ab5</link>
+      <description><![CDATA[《华尔街日报》欧盟周二公布了一项筹集 2000 亿欧元（2061.5 亿美元）投资人工智能的计划。该计划被称为 InvestAI，其中包括为人工智能超级工厂设立一个新的 200 亿欧元基金。欧盟委员会主席乌尔苏拉·冯德莱恩在巴黎人工智能行动峰会上表示。“我们希望欧洲成为领先的人工智能大陆之一，这意味着拥抱人工智能无处不在的生活。”摘自“欧盟制定 2000 亿美元人工智能支出计划”
+《华尔街日报》（2025 年 2 月 11 日）Edith Hancock； Mauro Orru 查看全文 - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/tech/ai/eu-pledges-200-billion-in-ai-spending-in-bid-to-catch-up-with-u-s-china-7bf82ab5</guid>
+      <pubDate>Wed, 12 Feb 2025 18:12:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国、英国拒绝签署巴黎峰会“包容性”人工智能宣言</title>
+      <link>https://www.theguardian.com/technology/2025/feb/11/us-uk-paris-ai-summit-artificial-intelligence-declaration</link>
+      <description><![CDATA[英国卫报美国和英国在法国举行的人工智能行动峰会上没有签署最终公报。该文件得到了包括中国在内的60个签署国的支持。英国政府发言人表示，该声明在解决人工智能的全球治理和该技术对国家安全的影响方面做得还不够。美国副总统JD Vance批评欧洲对技术的“过度监管”，并警告不要与中国合作。摘自“美国、英国拒绝签署巴黎峰会关于‘包容性’人工智能的宣言”
+英国卫报 (02/11/25) Dan Milmo; Eleni Courea]]></description>
+      <guid>https://www.theguardian.com/technology/2025/feb/11/us-uk-paris-ai-summit-artificial-intelligence-declaration</guid>
+      <pubDate>Wed, 12 Feb 2025 18:12:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
