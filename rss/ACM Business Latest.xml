@@ -4,7 +4,21 @@
     <title>商业最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Tue, 11 Feb 2025 21:08:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 00:42:03 GMT</lastBuildDate>
+    <item>
+      <title>CFPB 工作冻结使大型科技公司的监管陷入“冰点”</title>
+      <link>https://www.wired.com/story/cfpb-trump-freeze-tech-investigations/</link>
+      <description><![CDATA[消费者金融保护局的停工令不仅会影响诉讼和执法行动，还会阻碍管理苹果和谷歌等科技公司的法规的出台。]]></description>
+      <guid>https://www.wired.com/story/cfpb-trump-freeze-tech-investigations/</guid>
+      <pubDate>Tue, 11 Feb 2025 22:22:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>联邦工作人员发起新诉讼，以对抗 DOGE 的数据访问</title>
+      <link>https://www.wired.com/story/government-employees-lawsuit-privacy-doge/</link>
+      <description><![CDATA[电子前沿基金会代表美国联邦工作人员提出申诉，认为DOGE的数据访问是非法的，应该被切断。]]></description>
+      <guid>https://www.wired.com/story/government-employees-lawsuit-privacy-doge/</guid>
+      <pubDate>Tue, 11 Feb 2025 22:13:10 GMT</pubDate>
+    </item>
     <item>
       <title>汤森路透赢得美国首起重大人工智能版权诉讼</title>
       <link>https://www.wired.com/story/thomson-reuters-ai-copyright-lawsuit/</link>
@@ -27,17 +41,17 @@
       <pubDate>Tue, 11 Feb 2025 19:56:38 GMT</pubDate>
     </item>
     <item>
-      <title>你最喜欢的性玩具可能是药店里的“鸡蛋”</title>
-      <link>https://www.wired.com/story/japan-tenga-sex-toys-drug-store-egg/</link>
-      <description><![CDATA[Tenga 是一家源自日本的性玩具公司，拥有一批异常忠诚的粉丝。该公司最受欢迎的产品之一既充满未来感，又绝对不具备技术含量：一次性“蛋”。]]></description>
-      <guid>https://www.wired.com/story/japan-tenga-sex-toys-drug-store-egg/</guid>
-      <pubDate>Mon, 10 Feb 2025 11:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>一名加密货币犯罪分子落入尼日利亚监狱的不为人知的故事</title>
       <link>https://www.wired.com/story/untold-story-crypto-crimefighters-descent-nigerian-prison-binance/</link>
       <description><![CDATA[作为一名美国联邦特工，Tigran Gambaryan 开创了现代加密货币调查。后来在币安，他陷入了全球最大加密货币交易所和决心让其付出代价的政府之间的两难境地。]]></description>
       <guid>https://www.wired.com/story/untold-story-crypto-crimefighters-descent-nigerian-prison-binance/</guid>
+      <pubDate>Mon, 10 Feb 2025 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>你最喜欢的性玩具可能是药店里的“鸡蛋”</title>
+      <link>https://www.wired.com/story/japan-tenga-sex-toys-drug-store-egg/</link>
+      <description><![CDATA[Tenga 是一家源自日本的性玩具公司，拥有一批异常忠诚的粉丝。该公司最受欢迎的产品之一既充满未来感，又绝对不具备技术含量：一次性“蛋”。]]></description>
+      <guid>https://www.wired.com/story/japan-tenga-sex-toys-drug-store-egg/</guid>
       <pubDate>Mon, 10 Feb 2025 11:00:00 GMT</pubDate>
     </item>
     <item>
@@ -95,20 +109,6 @@
       <description><![CDATA[当美国总统唐纳德·特朗普推出自己的加密货币时，引发了一场交易狂潮。一批鲜为人知的加密平台悄然获利。]]></description>
       <guid>https://www.wired.com/story/trump-memecoin-solana-crypto-platforms-profit/</guid>
       <pubDate>Thu, 06 Feb 2025 16:50:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国购物者从中国寄包裹需缴纳高达 50 美元或以上的费用</title>
-      <link>https://www.wired.com/story/tariffs-china-prices-fees-shein-temu/</link>
-      <description><![CDATA[消费者和小企业已经感受到特朗普总统新关税的影响，新关税取消了价值低于 800 美元的包裹的一项关键贸易豁免。]]></description>
-      <guid>https://www.wired.com/story/tariffs-china-prices-fees-shein-temu/</guid>
-      <pubDate>Wed, 05 Feb 2025 23:29:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>LinkedIn 正在测试一款可能改变人们求职方式的人工智能工具</title>
-      <link>https://www.wired.com/story/linkedin-job-search-artificial-intelligence/</link>
-      <description><![CDATA[该公司表示，人工智能可以帮助发现那些在典型搜索查询中隐藏的工作。]]></description>
-      <guid>https://www.wired.com/story/linkedin-job-search-artificial-intelligence/</guid>
-      <pubDate>Wed, 05 Feb 2025 17:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
