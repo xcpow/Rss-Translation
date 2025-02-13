@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业最新</title>
+    <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 13 Feb 2025 18:12:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 21:08:24 GMT</lastBuildDate>
+    <item>
+      <title>Doge的网站只是一个大X广告</title>
+      <link>https://www.wired.com/story/doge-website-is-just-one-big-x-ad/</link>
+      <description><![CDATA[新的政府效率部门的“美国官方政府网站”的源代码指出X是其主要的权威来源，同时共享该网站的链接将用户发送到X.com。]]></description>
+      <guid>https://www.wired.com/story/doge-website-is-just-one-big-x-ad/</guid>
+      <pubDate>Thu, 13 Feb 2025 18:13:12 GMT</pubDate>
+    </item>
     <item>
       <title>约会应用程序是否变得越来越糟糕？</title>
       <link>https://www.wired.com/story/uncanny-valley-podcast-14-are-dating-apps-getting-worse/</link>
-      <description><![CDATA[在本周的“恐怖谷”节目中，我们对刷卡的现状进行了评估。]]></description>
+      <description><![CDATA[在本周的“恐怖谷”节目中，我们评估了滑动的状态。]]></description>
       <guid>https://www.wired.com/story/uncanny-valley-podcast-14-are-dating-apps-getting-worse/</guid>
       <pubDate>Thu, 13 Feb 2025 17:22:15 GMT</pubDate>
     </item>
     <item>
-      <title>我们如何关注 DOGE</title>
+      <title>我们如何保留Doge的标签</title>
       <link>https://www.wired.com/story/uncanny-valley-podcast-news-update-doge/</link>
       <description><![CDATA[在《恐怖谷》这期特别节目中，《连线》杂志的政治编辑和全球编辑总监向我们介绍了伊隆·马斯克在特朗普政府中的参与情况。]]></description>
       <guid>https://www.wired.com/story/uncanny-valley-podcast-news-update-doge/</guid>
@@ -22,7 +29,7 @@
     <item>
       <title>币安行动迅速，打破常规——并付出了代价。Richard Teng 正在清理</title>
       <link>https://www.wired.com/story/binance-richard-teng-cz-ceo/</link>
-      <description><![CDATA[在前币安首席执行官赵长鹏入狱后，理查德·滕开始表明加密货币交易所现在正处于最佳状态。]]></description>
+      <description><![CDATA[前Binance首席执行官Changpeng Zhao入狱后，Richard Teng开始表明加密货币交易所现在处于最佳行为。]]></description>
       <guid>https://www.wired.com/story/binance-richard-teng-cz-ceo/</guid>
       <pubDate>Wed, 12 Feb 2025 10:16:28 GMT</pubDate>
     </item>
@@ -34,14 +41,14 @@
       <pubDate>Tue, 11 Feb 2025 22:22:59 GMT</pubDate>
     </item>
     <item>
-      <title>联邦工作人员发起新诉讼，以对抗 DOGE 的数据访问</title>
+      <title>联邦工人发起了新的诉讼，以与Doge的数据访问作斗争</title>
       <link>https://www.wired.com/story/government-employees-lawsuit-privacy-doge/</link>
-      <description><![CDATA[电子前沿基金会代表美国联邦工作人员提出申诉，认为DOGE的数据访问是非法的，应该被切断。]]></description>
+      <description><![CDATA[电子边境基金会代表美国联邦工人提出了投诉，认为Doge的数据访问是非法的，应切断。]]></description>
       <guid>https://www.wired.com/story/government-employees-lawsuit-privacy-doge/</guid>
       <pubDate>Tue, 11 Feb 2025 22:13:10 GMT</pubDate>
     </item>
     <item>
-      <title>汤森路透赢得美国首起重大人工智能版权诉讼</title>
+      <title>汤森路透在美国赢得了第一个主要AI版权案件</title>
       <link>https://www.wired.com/story/thomson-reuters-ai-copyright-lawsuit/</link>
       <description><![CDATA[汤森路透的决定对于生成式人工智能公司和版权持有者之间的争斗具有重大影响。]]></description>
       <guid>https://www.wired.com/story/thomson-reuters-ai-copyright-lawsuit/</guid>
@@ -55,7 +62,7 @@
       <pubDate>Tue, 11 Feb 2025 20:03:50 GMT</pubDate>
     </item>
     <item>
-      <title>Sam Altman 在致员工的信中驳回了 Elon Musk 收购 OpenAI 的提议</title>
+      <title>山姆·奥特曼（Sam Altman）驳回了埃隆·马斯克（Elon Musk</title>
       <link>https://www.wired.com/story/sam-altman-openai-reject-elon-musk-bid/</link>
       <description><![CDATA[据消息人士称，OpenAI 首席执行官声称公司尚未收到埃隆马斯克团队的正式报价。]]></description>
       <guid>https://www.wired.com/story/sam-altman-openai-reject-elon-musk-bid/</guid>
@@ -64,12 +71,12 @@
     <item>
       <title>一名加密货币犯罪分子落入尼日利亚监狱的不为人知的故事</title>
       <link>https://www.wired.com/story/untold-story-crypto-crimefighters-descent-nigerian-prison-binance/</link>
-      <description><![CDATA[作为一名美国联邦特工，Tigran Gambaryan 开创了现代加密货币调查。后来在币安，他陷入了全球最大加密货币交易所和决心让其付出代价的政府之间的两难境地。]]></description>
+      <description><![CDATA[作为美国联邦特工，蒂格兰·甘巴里亚（Tigran Gambaryan）开创了现代加密调查。然后，他被困在世界上最大的加密交易所和决心付款的政府之间。]]></description>
       <guid>https://www.wired.com/story/untold-story-crypto-crimefighters-descent-nigerian-prison-binance/</guid>
       <pubDate>Mon, 10 Feb 2025 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>你最喜欢的性玩具可能是药店里的“鸡蛋”</title>
+      <title>您最喜欢的性爱玩具可能是药店的“鸡蛋”</title>
       <link>https://www.wired.com/story/japan-tenga-sex-toys-drug-store-egg/</link>
       <description><![CDATA[Tenga 是一家日本情趣玩具公司，拥有一批异常忠诚的粉丝。该公司最受欢迎的产品之一既充满未来感，又明显缺乏科技感：一次性“蛋”。]]></description>
       <guid>https://www.wired.com/story/japan-tenga-sex-toys-drug-store-egg/</guid>
@@ -85,30 +92,23 @@
     <item>
       <title>特朗普对华关税生效后，Temu 和 Shein 提高价格并下架产品</title>
       <link>https://www.wired.com/story/tariffs-shein-temu-ecommercce/</link>
-      <description><![CDATA[这两个网站上的卖家和购物者表示，在特朗普总统对中国进口商品加征关税后，他们看到商品消失，价格上涨。]]></description>
+      <description><![CDATA[这两个网站上的卖家和购物者表示，在特朗普总统对中国进口商品征收关税后，他们看到商品消失，价格上涨。]]></description>
       <guid>https://www.wired.com/story/tariffs-shein-temu-ecommercce/</guid>
       <pubDate>Sat, 08 Feb 2025 10:30:00 GMT</pubDate>
     </item>
     <item>
       <title>特朗普的 FBI 人选卡什·帕特尔 (Kash Patel) 从中国电商巨头 Shein 手中获得了价值高达 500 万美元的股票</title>
       <link>https://www.wired.com/story/kash-patel-elite-depot-shein/</link>
-      <description><![CDATA[唐纳德·特朗普挑选的联邦调查局局长告诉参议员，他没有出售股份的计划，他的财务披露表显示，这些股份是为了提供咨询服务而获得的。]]></description>
+      <description><![CDATA[唐纳德·特朗普（Donald Trump）为联邦调查局（FBI）董事的选择告诉参议员，他没有计划剥离他的股份，他的财务披露表被收到以换取咨询服务。]]></description>
       <guid>https://www.wired.com/story/kash-patel-elite-depot-shein/</guid>
       <pubDate>Fri, 07 Feb 2025 21:14:13 GMT</pubDate>
     </item>
     <item>
       <title>2025：人工智能应用之年</title>
       <link>https://www.wired.com/story/plaintext-ai-apps-foundation-models/</link>
-      <description><![CDATA[人工智能的真正竞争并不在于基础模型，而在于建立在这些模型之上的应用程序。]]></description>
+      <description><![CDATA[AI中的真正竞争与基础模型无关。这是关于在这些模型之上构建的应用程序。]]></description>
       <guid>https://www.wired.com/story/plaintext-ai-apps-foundation-models/</guid>
       <pubDate>Fri, 07 Feb 2025 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>伊隆马斯克的 DOGE 正在开发一款名为 GSAi 的定制聊天机器人</title>
-      <link>https://www.wired.com/story/doge-chatbot-ai-first-agenda/</link>
-      <description><![CDATA[该聊天机器人是埃隆·马斯克和唐纳德·特朗普总统利用人工智能和其他技术削减成本和实现美国政府现代化的宏伟计划的一部分。]]></description>
-      <guid>https://www.wired.com/story/doge-chatbot-ai-first-agenda/</guid>
-      <pubDate>Fri, 07 Feb 2025 02:20:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
