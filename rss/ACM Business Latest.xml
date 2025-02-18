@@ -4,7 +4,14 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Tue, 18 Feb 2025 18:13:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2025 21:08:29 GMT</lastBuildDate>
+    <item>
+      <title>Mira Murati启动思维机器实验室，使AI更容易访问</title>
+      <link>https://www.wired.com/story/mira-murati-thinking-machines-lab/</link>
+      <description><![CDATA[去年离开Openai后，Mira Murati终于准备好分享她的工作。]]></description>
+      <guid>https://www.wired.com/story/mira-murati-thinking-machines-lab/</guid>
+      <pubDate>Tue, 18 Feb 2025 18:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Memecoin丑闻威胁阿根廷总统Javier Milei</title>
       <link>https://www.wired.com/story/memecoin-scandal-threatens-argentine-president-javier-milei/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[Dan Hendrycks正在研究评估可用于塑造Grok政治的AI风险的新方法。]]></description>
       <guid>https://www.wired.com/story/xai-make-ai-more-like-trump/</guid>
       <pubDate>Tue, 11 Feb 2025 20:03:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>山姆·奥特曼（Sam Altman）驳回了埃隆·马斯克（Elon Musk</title>
-      <link>https://www.wired.com/story/sam-altman-openai-reject-elon-musk-bid/</link>
-      <description><![CDATA[消息人士称，Openai的首席执行官声称，该公司尚未收到Elon Musk团队的正式要约。]]></description>
-      <guid>https://www.wired.com/story/sam-altman-openai-reject-elon-musk-bid/</guid>
-      <pubDate>Tue, 11 Feb 2025 19:56:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
