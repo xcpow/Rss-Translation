@@ -4,7 +4,21 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 21 Feb 2025 09:09:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 12:16:27 GMT</lastBuildDate>
+    <item>
+      <title>在美国政府遍布整个美国政府的恐惧</title>
+      <link>https://www.wired.com/story/surveillance-privacy-doge-federal-employees/</link>
+      <description><![CDATA[在过去的十年中，美国政府增加了监测工具的使用。但是唐纳德·特朗普总统的雇员清除使工人担心如何滥用数据。]]></description>
+      <guid>https://www.wired.com/story/surveillance-privacy-doge-federal-employees/</guid>
+      <pubDate>Fri, 21 Feb 2025 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zizian的狂热，暴力，不可能的真实故事</title>
+      <link>https://www.wired.com/story/delirious-violent-impossible-true-story-zizians/</link>
+      <description><![CDATA[少数有天赋的年轻科技人开始拯救世界。多年来，Wired一直在追踪他们所谓的下降到混乱和死亡的每一个转折和转变。]]></description>
+      <guid>https://www.wired.com/story/delirious-violent-impossible-true-story-zizians/</guid>
+      <pubDate>Fri, 21 Feb 2025 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>国家标准和技术牙套的大规模射击</title>
       <link>https://www.wired.com/story/the-national-institute-of-standards-and-technology-braces-for-mass-firings/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>埃隆·马斯克（Elon Musk）和山姆·奥特曼（Sam Altman）之间的摊牌</title>
       <link>https://www.wired.com/story/uncanny-valley-podcast-15-sam-altman-elon-musk/</link>
-      <description><![CDATA[本周，怪异的山谷主持了在Openai上讨论诉讼，投标战和权力。]]></description>
+      <description><![CDATA[本周，怪异的山谷主持了在Openai上讨论诉讼，竞标战和权力。]]></description>
       <guid>https://www.wired.com/story/uncanny-valley-podcast-15-sam-altman-elon-musk/</guid>
       <pubDate>Thu, 20 Feb 2025 17:10:50 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[惊人的销售下降，swastika-daubed电动汽车，公司夺取车队模型以及销售汽车的粉丝队伍的所有者 - 埃隆·马斯克（Elon Musk）的alt右翼滑稽动作正在严重影响他的电动汽车业务。]]></description>
       <guid>https://www.wired.com/story/elon-musks-toxicity-could-spell-disaster-for-tesla/</guid>
       <pubDate>Fri, 14 Feb 2025 10:22:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tiktok回到美国应用商店</title>
-      <link>https://www.wired.com/story/tiktok-ban-back-in-ios-app-store-google-play-store/</link>
-      <description><![CDATA[据报道，此举是在美国总检察长帕姆·邦迪（Pam Bondi）向苹果公司保证的苹果和谷歌之后，他们不会因接待tiktok而被罚款。]]></description>
-      <guid>https://www.wired.com/story/tiktok-ban-back-in-ios-app-store-google-play-store/</guid>
-      <pubDate>Fri, 14 Feb 2025 02:11:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Doge的网站只是一个大X广告</title>
-      <link>https://www.wired.com/story/doge-website-is-just-one-big-x-ad/</link>
-      <description><![CDATA[新的政府效率部门的“美国官方政府网站”的源代码指出X是其主要的权威来源，同时共享该网站的链接将用户发送到X.com。]]></description>
-      <guid>https://www.wired.com/story/doge-website-is-just-one-big-x-ad/</guid>
-      <pubDate>Thu, 13 Feb 2025 18:13:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
