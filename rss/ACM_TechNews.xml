@@ -4,102 +4,104 @@
     <title>ACM技术</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM技术</description>
-    <lastBuildDate>Wed, 19 Feb 2025 18:12:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 18:12:26 GMT</lastBuildDate>
     <item>
-      <title>双臂HYQREAL在任何地方都有强大的触觉</title>
-      <link>https://spectrum.ieee.org/telepresence-robot</link>
-      <description><![CDATA[IEEE Spectrum  意大利技术学院开发了Hyqreal机器人系统，该机器人机器人系统将强大的四倍机器人与高级武器和近视系统结合在一起，以帮助人类在危险的，非结构化的环境中为人类提供帮助。 140公斤。机器人具有膝关节，最多可以输出300台牛顿电光的扭矩，并且可以携带5公斤的有效载荷。每臂。使用沉浸式虚拟现实和触觉反馈的遥控系统允许操作员远程控制机器人。 从“双臂hyqreal中都可以在任何地方放置强大的远程敏感” 
-IEEE Spectrum（02/11/25）Evan Ackerman  查看完整文章]]></description>
-      <guid>https://spectrum.ieee.org/telepresence-robot</guid>
-      <pubDate>Wed, 19 Feb 2025 18:12:09 GMT</pubDate>
+      <title>诺基亚将第一个蜂窝网络放在月球上</title>
+      <link>https://www.technologyreview.com/2025/02/18/1111984/nokia-is-putting-the-first-cellular-network-on-the-moon/</link>
+      <description><![CDATA[麻省理工学院技术评论 由诺基亚贝尔实验室解决方案研究人员开发的4G蜂窝网络将成为直觉机器的第二次月球任务的一部分。这个“盒子中的网络”具有能够在辐射，极端温度和实质性振动中生存的组件，并将促进着陆器，流浪者和料斗之间的通信。将第一个蜂窝网络放在月球上” 
+MIT技术评论（02/18/25）Jacek Krywko  查看全文]]></description>
+      <guid>https://www.technologyreview.com/2025/02/18/1111984/nokia-is-putting-the-first-cellular-network-on-the-moon/</guid>
+      <pubDate>Fri, 21 Feb 2025 18:12:24 GMT</pubDate>
     </item>
     <item>
-      <title>将美国和印度与世界上最长的海底电缆项目联系起来的元</title>
-      <link>https://www.theguardian.com/technology/2025/feb/17/meta-plans-to-build-worlds-longest-underwater-sub-sea-cable-venture</link>
-      <description><![CDATA[Guardian   Meta表示，它计划通过31,000英里（50,000公里）的海底电缆连接美国，印度，南非，巴西和其他地区。沃特沃思（Waterworth）电缆是迄今为止使用24光纤系统最长的电缆。梅塔说，电缆系统将被铺设长达7,000米，其“增强的埋葬技术”用于防止高风险断层区域（例如海岸附近的浅水区域）。”   “将美国和印度与世界上最长的海底电缆项目联系起来的元” 
-卫报（02/17/25）水下 -  sub-sea-cable-venture“ target =“ _ blank”&gt;查看完整文章]]></description>
-      <guid>https://www.theguardian.com/technology/2025/feb/17/meta-plans-to-build-worlds-longest-underwater-sub-sea-cable-venture</guid>
-      <pubDate>Wed, 19 Feb 2025 18:12:07 GMT</pubDate>
+      <title>开源LLM访问了欧洲的数字主权路线图</title>
+      <link>https://techcrunch.com/2025/02/16/open-source-llms-hit-europes-digital-sovereignty-roadmap/</link>
+      <description><![CDATA[TechCrunch   OpenEurollm项目，由布拉格查尔斯大学的计算语言学家Jan Hajic共同主持，而芬兰AI Lab Silo AI的首席执行官兼联合创始人彼得·萨林（Peter Sarlin）计划开发开放源AI所有欧盟语言的语言模型，以保留“语言和文化多样性”。该项目旨在确保透明度，保持语言多样性并在欧洲实现AI的增长。该倡议希望为欧洲企业改编而成的高质量的开源AI基础。
+TechCrunch（02/16/25）Paul Sawers  查看全文]]></description>
+      <guid>https://techcrunch.com/2025/02/16/open-source-llms-hit-europes-digital-sovereignty-roadmap/</guid>
+      <pubDate>Fri, 21 Feb 2025 18:12:22 GMT</pubDate>
     </item>
     <item>
-      <title>戈尔韦研究人员创建了“世界上最大的”数字微生物数据库</title>
-      <link>https://www.siliconrepublic.com/innovation/microbes-galway-research-apollo-database</link>
-      <description><![CDATA[爱尔兰戈尔韦大学的硅共和国 研究人员创建了世界上最大的数字微生物集合，这将帮助科学家研究人体中微生物的功能。 Apollo数据库包含247,092个高级计算机型号，每个模型代表细菌微生物组的独特代谢过程。该数据库可以帮助为个性化治疗和药物开发和诊断的改进铺平道路。 从“戈尔韦研究人员创建&#39;世界上最大的&#39;数字微生物数据库” 
-硅共和国（02/13/25）Colin Ryan  ]]></description>
-      <guid>https://www.siliconrepublic.com/innovation/microbes-galway-research-apollo-database</guid>
-      <pubDate>Wed, 19 Feb 2025 18:12:06 GMT</pubDate>
+      <title>美国与台湾的建筑晶圆厂：两倍的长度，是昂贵的两倍</title>
+      <link>https://www.semiconductor-digest.com/building-fabs-in-the-u-s-vs-taiwan-twice-as-long-twice-as-much/</link>
+      <description><![CDATA[半导体摘要  Semi的最新世界FAB预测报告显示，今年将开始18个新的Fab建筑项目，其中包括3个200毫米和15 300毫米的设施。在半工业战略研讨会上，Exyte的Herbert Blaschitz表示，从允许设计到在台湾建造大型工厂的设施大约需要20个月，而在美国为38个月，在欧洲为34个月。在美国与台湾建造一家工厂的费用也大约是两倍。
+半导体摘要（02/18/25） long Twice-as-much/“ target =“ _ blank”&gt;查看完整文章]]></description>
+      <guid>https://www.semiconductor-digest.com/building-fabs-in-the-u-s-vs-taiwan-twice-as-long-twice-as-much/</guid>
+      <pubDate>Fri, 21 Feb 2025 18:12:21 GMT</pubDate>
     </item>
     <item>
-      <title>立法者说，英国对苹果数据的后门的需求威胁到美国人。</title>
-      <link>https://www.washingtonpost.com/technology/2025/02/13/apple-uk-security-back-door-adp/</link>
-      <description><![CDATA[国会议员在美国国家情报局局长塔尔西（Tulsi）的一份票据中指出加巴德。他们敦促Gabbard要求英国撤销该命令，这可能使美国公民的数据容易受到黑客的影响，并将其暴露于外国监视。如果未撤回该命令，美国议员可以重新考虑与英国有关深度情报共享和网络安全的合作努力。 /&gt;
-华盛顿邮报（02/13/25）Joseph Menn  查看全文   - 可能需要付费订阅]]></description>
-      <guid>https://www.washingtonpost.com/technology/2025/02/13/apple-uk-security-back-door-adp/</guid>
-      <pubDate>Wed, 19 Feb 2025 18:12:05 GMT</pubDate>
+      <title>弗吉尼亚科技研究人员提出了有关混合现实安全性的危险信号</title>
+      <link>https://www.computerworld.com/article/3827231/virginia-tech-researchers-raise-red-flags-about-mixed-reality-security.html</link>
+      <description><![CDATA[Computerworld  弗吉尼亚理工学院和州立大学的研究人员发现，单击重定向攻击，对象遮挡攻击和延迟攻击可能会损害混合现实系统。他们的研究涉及微软的Hololens 2耳机，该耳机去年停产。承认HoloLens 2平台的研究人员呼吁将安全功能内置到混合现实的耳机中，以便用户知道周围的对象并受到安全威胁的警报。 来自”弗吉尼亚科技研究人员提出了有关混合现实安全的危险信号” 
+ComputerWorld（02/18/25）Agam Shah  查看全文]]></description>
+      <guid>https://www.computerworld.com/article/3827231/virginia-tech-researchers-raise-red-flags-about-mixed-reality-security.html</guid>
+      <pubDate>Fri, 21 Feb 2025 18:12:19 GMT</pubDate>
     </item>
     <item>
-      <title>微软：使用“设备代码网络钓鱼”到劫持帐户的俄罗斯链接黑客</title>
-      <link>https://thehackernews.com/2025/02/microsoft-russian-linked-hackers-using.html</link>
-      <description><![CDATA[黑客新闻  Microsoft研究人员已经确定了一个被称为Storm-2372的威胁集群，该群体似乎与俄罗斯有联系的黑客息息相关，并针对政府机构，非政府组织，IT服务，IT服务和技术，国防，国防，国防，国防，欧洲，北美，非洲和中东的电信，健康，高等教育以及能源/石油和天然气部门。攻击涉及使用“设备代码网络钓鱼”，该攻击允许威胁参与者获得可用于访问用户帐户和数据的身份验证令牌。劫持帐户的“设备代码网络钓鱼” 
-黑客新闻（02/14/25）Ravie Lakshmanan  查看全文]]></description>
-      <guid>https://thehackernews.com/2025/02/microsoft-russian-linked-hackers-using.html</guid>
-      <pubDate>Wed, 19 Feb 2025 18:12:03 GMT</pubDate>
+      <title>特朗普政府给学校截止日期以结束DEI计划</title>
+      <link>https://apnews.com/article/dei-critical-race-theory-colleges-diversity-db8317ad37931558dd5a396cf5ab3d42</link>
+      <description><![CDATA[美联社 美国教育部于2月14日发布的备忘录给学校和大学提供了两周的时间，以结束多样性计划，以确保他们不会失去联邦资金。该备忘录说，“种族偏好”不再被用作入学，经济援助，招聘或其他领域的因素。来自某些种族背景的学生的奖学金也是备忘录的目标。
+美联社（02/18/25）Collin Binkley; Jocelyn Gecker  &lt;a href =“ https://apnews.com/article/dei-critical-race-race-colleges-colleges-db8317ad379317931558ddd5a396cf5ab396cf5ab3d42]]></description>
+      <guid>https://apnews.com/article/dei-critical-race-theory-colleges-diversity-db8317ad37931558dd5a396cf5ab3d42</guid>
+      <pubDate>Fri, 21 Feb 2025 18:12:17 GMT</pubDate>
     </item>
     <item>
-      <title>中国寻找保护数据免受量子计算机的方法</title>
-      <link>https://www.newscientist.com/article/2467574-china-launches-hunt-for-ways-to-protect-data-from-quantum-computers/</link>
-      <description><![CDATA[新科学家 中国商业密码学标准研究所（ICC）正在开发自己的量词后加密摄影（PQC）算法，反对通过美国国家标准和技术研究所项目创建的算法（NIST） ）。 ICC尚未评论其努力的原因，但有些人认为中国担心NIST算法中的秘密“后门”，或者寻求用自己的后门开发算法。保护数据免受量子计算机的方法” 
-新科学家（02/17/25）Matthew Sparkes  查看全文]]></description>
-      <guid>https://www.newscientist.com/article/2467574-china-launches-hunt-for-ways-to-protect-data-from-quantum-computers/</guid>
-      <pubDate>Wed, 19 Feb 2025 18:12:02 GMT</pubDate>
+      <title>台湾官员说，无需一个国家控制芯片行业</title>
+      <link>https://www.reuters.com/technology/no-need-one-country-control-chip-industry-taiwan-official-says-2025-02-15/</link>
+      <description><![CDATA[台湾国家科学技术委员会负责人的路透社  wu cheng-wen说，一个国家无需一个国家控制半导体行业，该行业很复杂，需要劳动分工。他的评论发表在美国总统唐纳德·特朗普批评该岛的筹码优势之后。吴说，每个国家在筹码方面都有自己的力量，从日本制造化学药品和设备到美国，这是创新系统的设计和应用。台湾官员说，一个控制芯片行业的国家说：“ 
+路透社（02/15/25）Wen-Yee Lee； Ben Blanchard  查看全文]]></description>
+      <guid>https://www.reuters.com/technology/no-need-one-country-control-chip-industry-taiwan-official-says-2025-02-15/</guid>
+      <pubDate>Fri, 21 Feb 2025 18:12:16 GMT</pubDate>
     </item>
     <item>
-      <title>埃里森（Ellison）呼吁政府统一数据以喂养AI</title>
-      <link>https://www.bloomberg.com/news/articles/2025-02-12/oracle-s-ellison-calls-for-governments-to-unify-data-to-feed-ai?sref=db2f3qgr</link>
-      <description><![CDATA[彭博 在迪拜世界政府峰会前英国总理托尼·布莱尔（Tony Blair）的采访中，甲骨文主席拉里·埃里森（Larry Ellison）表示，政府应巩固所有国家数据以供AI模型消费。 Ellison说，有关人口的健康，农业，基础设施，采购和边界的零散数据应统一为一个安全的数据库，可以由AI模型访问，因为它将使拥有丰富人口数据集的国家 /改善公共服务，特别是医疗保健。
-彭博社（02/12/25）Omar El Chmouri  查看完整文章   - 可能需要付费订阅]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-02-12/oracle-s-ellison-calls-for-governments-to-unify-data-to-feed-ai?sref=db2f3qgr</guid>
-      <pubDate>Wed, 19 Feb 2025 18:12:01 GMT</pubDate>
+      <title>机器人的“超人”视觉系统</title>
+      <link>https://www.bbc.com/news/articles/cm2l1y73mz1o</link>
+      <description><![CDATA[BBC  宾夕法尼亚大学的研究人员开发了一种基于无线电的传感系统，可以使机器人能够“见”。通过烟雾和雨或拐角处。机器人上的旋转阵列在各个方向上发送无线电波；机器人可以感觉到这些无线电波的反射。板载AI系统使用该数据创建机器人周围环境的3D视图。
+BBC（02/13/25）Chris baraniuk  查看完整文章]]></description>
+      <guid>https://www.bbc.com/news/articles/cm2l1y73mz1o</guid>
+      <pubDate>Fri, 21 Feb 2025 18:12:14 GMT</pubDate>
     </item>
     <item>
-      <title>AI如何保护海底管道，电缆</title>
-      <link>https://www.wsj.com/tech/ai/ai-military-applications-mapping-aca7f486</link>
-      <description><![CDATA[《华尔街日报》   AI被利用以保护关键的水下基础设施，其最终目标是创建一个可以筛选大量数据以实时识别潜在威胁的海底图。德国初创公司North.io正在使用NVIDIA，IBM和其他人的技术来开发可以区分自然要素和潜在威胁海底技术的系统。 North.io研究人员正在培训AI，以分析来自多个来源的数据。 来自“ AI如何保护海底管道，电缆”
-《华尔街日报》（02/17/25）威廉·波士顿 查看全文   - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/tech/ai/ai-military-applications-mapping-aca7f486</guid>
-      <pubDate>Wed, 19 Feb 2025 18:12:00 GMT</pubDate>
+      <title>国家科学基金会解雇了10％的劳动力</title>
+      <link>https://www.npr.org/2025/02/18/nx-s1-5301049/national-science-foundation-fires-roughly-10-of-its-workforce</link>
+      <description><![CDATA[NPR  美国国家科学基金会（NSF）终止了168名员工，约占其劳动力的10％，而2月18日没有遣散，以遵守美国总统唐纳德·特朗普（Donald Trump）的行政命令呼吁降低联邦劳动力提高效率。试用员工和临时雇员被认为是“间歇专家”的主要目标。许多是计划管理研究计划的计划官员。
+NPR（02/18/25）Jonathan Lambert  查看完整文章]]></description>
+      <guid>https://www.npr.org/2025/02/18/nx-s1-5301049/national-science-foundation-fires-roughly-10-of-its-workforce</guid>
+      <pubDate>Fri, 21 Feb 2025 18:12:13 GMT</pubDate>
     </item>
     <item>
-      <title>韩国旨在为国家AI计算中心确保10,000 GPU</title>
-      <link>https://www.reuters.com/technology/artificial-intelligence/south-korea-aims-secure-10000-gpus-national-ai-computing-centre-2025-02-17/</link>
-      <description><![CDATA[路透社 要确保韩国政府计划在全球AI竞赛中竞争，计划通过公私合作获得10,000个高性能图形处理单位（GPU），以促进其早期开放。国家AI计算中心。韩国目前不受美国GPU出口的新法规的豁免。
-路透社（02/17/25）heekyong yang  查看全文]]></description>
-      <guid>https://www.reuters.com/technology/artificial-intelligence/south-korea-aims-secure-10000-gpus-national-ai-computing-centre-2025-02-17/</guid>
-      <pubDate>Wed, 19 Feb 2025 18:11:59 GMT</pubDate>
+      <title>中国以100倍的效率首次亮相双向脑部计算机界面</title>
+      <link>https://interestingengineering.com/science/worlds-first-2-way-bci-china</link>
+      <description><![CDATA[他们开发的有趣的工程 研究人员声称，他们开发的双向自适应脑部计算机界面（BCI）是第一个使大脑和设备互相学习的人。他们报告说，该系统的效率比传统的BCI高100倍，该系统仅解码大脑信号，而使用不到1％的能量。效率” 
+有趣的工程（02/19/25）sujita sinha  ]]></description>
+      <guid>https://interestingengineering.com/science/worlds-first-2-way-bci-china</guid>
+      <pubDate>Fri, 21 Feb 2025 18:12:11 GMT</pubDate>
     </item>
     <item>
-      <title>英国从AI身体下降的“安全”</title>
-      <link>https://techcrunch.com/2025/02/13/uk-drops-safety-from-its-ai-body-now-called-ai-security-institute-inks-mou-with-anthropic/</link>
-      <description><![CDATA[TechCrunch  英国已将AI安全研究所更名为AI安全研究所，这表明从检查诸如偏见等问题的大型语言模型转变。科学，创新和技术国务卿彼得·凯尔（Peter Kyle）说，AI安全学院的工作将遭到变化，但是这种重新的重点将确保我们的公民和我们的盟友受到保护，并受到保护的保护。对我们的机构，民主价值观和生活方式使用AI。 AI身体“ 
-TechCrunch（02/13/25）Ingrid Lunden  查看全文]]></description>
-      <guid>https://techcrunch.com/2025/02/13/uk-drops-safety-from-its-ai-body-now-called-ai-security-institute-inks-mou-with-anthropic/</guid>
-      <pubDate>Wed, 19 Feb 2025 18:11:58 GMT</pubDate>
+      <title>俄罗斯黑客在乌克兰信号帐户上</title>
+      <link>https://www.politico.eu/article/russian-hackers-snoop-ukrainian-signal-accounts-google-report/</link>
+      <description><![CDATA[Politico Europe   Google表示，俄罗斯与国家有联系的黑客团体已获得一些乌克兰军事人员的信号使者帐户的访问权。黑客利用“链接设备”功能将受害者的帐户连接到自己的设备，或使用恶意组邀请链接或QR码将受害者的帐户链接到其接口。信号通过推出新的用户界面，其他身份验证步骤以及新链接设备的通知来做出响应。
+
+ 来自“乌克兰信号帐户上的俄罗斯黑客窥探” 
+Politico Europe（02/19/25）Antoaneta Roussi  查看全文]]></description>
+      <guid>https://www.politico.eu/article/russian-hackers-snoop-ukrainian-signal-accounts-google-report/</guid>
+      <pubDate>Fri, 21 Feb 2025 18:12:10 GMT</pubDate>
     </item>
     <item>
-      <title>机器人外骨骼帮助中国游客攀登山</title>
-      <link>https://edition.cnn.com/travel/robotic-exoskeleton-hiking-china-intl-hnk/index.html</link>
-      <description><![CDATA[CNN  由Taishan文化旅游集团和Kenqing技术开发的机器人腿正在中国的TAI进行测试，它们可以帮助游客扩大到顶部的7,000多个步骤。 1.8公斤。 AI驱动的设备包裹在用户的腰部和大腿上，提供“同步的帮助”，以使他们的腿在爬升过程中减轻腿部。外骨骼将于下个月提供大众市场。
-CNN（02/14/25）Joyce Jiang; chris lau  查看完整文章]]></description>
-      <guid>https://edition.cnn.com/travel/robotic-exoskeleton-hiking-china-intl-hnk/index.html</guid>
-      <pubDate>Wed, 19 Feb 2025 18:11:57 GMT</pubDate>
+      <title>研究人员将数据储存在晶体记忆中</title>
+      <link>https://www.eenewseurope.com/en/researchers-store-terabytes-of-data-in-crystal-memory/</link>
+      <description><![CDATA[Eenews Europe  芝加哥大学（UCHICAGO）研究人员使用紫外线激光将晶体转换为能够持有数据的数据的存储器存储装置。激光刺激氧化物晶体中的lanthanides（稀土离子），从而释放出被晶体中缺陷困住的电子。研究人员指导了带电的缺陷（一个）和未充电的缺陷（ZEROS）来创建一个内存存储设备。
+Eenews Europe（02/17/25）Jean-pierre Joosting  查看全文]]></description>
+      <guid>https://www.eenewseurope.com/en/researchers-store-terabytes-of-data-in-crystal-memory/</guid>
+      <pubDate>Fri, 21 Feb 2025 18:12:09 GMT</pubDate>
     </item>
     <item>
-      <title>在中国对AI的信任要高于美国</title>
-      <link>https://www.axios.com/2025/02/13/trust-ai-china-us</link>
-      <description><![CDATA[Axios  由Edelman Trust晴雨表进行的全球调查发现，只有32％的美国居民信托AI。据报道，印度的信任程度最高，为77％，其次是尼日利亚（76％），泰国（73％）和中国（72％）。在加拿大（30％），德国（29％），荷兰（29％），英国（28％），澳大利亚（25％）和爱尔兰（24％）（24％）的信托最低。超过一半（58％）的受访者表示，他们担心自动化将使他们在劳动力中取代，而60％以上的人担心AI驱动的错误信息。比在美国。” 
-Axios（02/13/25）Ina Fried   view全文]]></description>
-      <guid>https://www.axios.com/2025/02/13/trust-ai-china-us</guid>
-      <pubDate>Wed, 19 Feb 2025 18:11:56 GMT</pubDate>
+      <title>韩国禁令下载DeepSeek的AI应用程序</title>
+      <link>https://www.nytimes.com/2025/02/17/business/south-korea-deepseek-china-ai.html</link>
+      <description><![CDATA[纽约时报 韩国周一表示，它暂时暂停了中国DeepSeek的AI聊天机器人的新下载。监管机构表示，该应用程序在验证韩国有关保护个人信息的法律后将恢复该应用程序。该应用已成为该国最受欢迎的下载量。本月早些时候，韩国指示许多政府雇员不要在官方设备上使用DeepSeek产品。
+纽约时报（02/17/25）Meaghan Tobin； Jin Yu Young  文章   - 可能需要付费订阅]]></description>
+      <guid>https://www.nytimes.com/2025/02/17/business/south-korea-deepseek-china-ai.html</guid>
+      <pubDate>Fri, 21 Feb 2025 18:12:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
