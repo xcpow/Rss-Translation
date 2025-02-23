@@ -4,7 +4,14 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Sat, 22 Feb 2025 21:08:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 00:45:24 GMT</lastBuildDate>
+    <item>
+      <title>埃隆·马斯克（Elon Musk</title>
+      <link>https://www.wired.com/story/doge-elon-musk-forced-resignation-email-twitter/</link>
+      <description><![CDATA[整个联邦政府的员工必须在美国东部时间周一晚上11:59之前详细介绍他们在上周完成的五件事。]]></description>
+      <guid>https://www.wired.com/story/doge-elon-musk-forced-resignation-email-twitter/</guid>
+      <pubDate>Sat, 22 Feb 2025 23:51:32 GMT</pubDate>
+    </item>
     <item>
       <title>微软的新Majorana 1处理器可以转换量子计算</title>
       <link>https://www.wired.com/story/microsoft-just-claimed-a-quantum-breakthrough-a-quantum-physicist-explains-what-it-means/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[去年离开Openai后，Mira Murati终于准备好分享她的工作。]]></description>
       <guid>https://www.wired.com/story/mira-murati-thinking-machines-lab/</guid>
       <pubDate>Tue, 18 Feb 2025 18:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Memecoin丑闻威胁阿根廷总统Javier Milei</title>
-      <link>https://www.wired.com/story/memecoin-scandal-threatens-argentine-president-javier-milei/</link>
-      <description><![CDATA[阿根廷总统贾维尔·米利（Javier Milei）正面临着弹imp的呼吁，并可能对他在纪念因素的崛起和快速崩溃中进行刑事调查。]]></description>
-      <guid>https://www.wired.com/story/memecoin-scandal-threatens-argentine-president-javier-milei/</guid>
-      <pubDate>Tue, 18 Feb 2025 14:55:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
