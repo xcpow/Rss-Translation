@@ -4,7 +4,14 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Mon, 24 Feb 2025 09:11:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2025 12:17:04 GMT</lastBuildDate>
+    <item>
+      <title>人工智能助手加入工厂地板</title>
+      <link>https://www.wired.com/story/ai-swaps-desk-work-for-the-factory-floor/</link>
+      <description><![CDATA[制造商已经拥有数据。 LLM驱动的工具可以帮助他们利用它。]]></description>
+      <guid>https://www.wired.com/story/ai-swaps-desk-work-for-the-factory-floor/</guid>
+      <pubDate>Mon, 24 Feb 2025 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>毕竟，比德的免费自动驾驶技术可能并不是一个福音</title>
       <link>https://www.wired.com/story/byd-free-self-driving-tech-gods-eye/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[有线测试使用生成AI的好处和局限性，特别是Chatgpt的高级语音模式，作为旅行者的语言导师。]]></description>
       <guid>https://www.wired.com/story/ai-lab-learning-japanese-with-chatgpt-tokyo/</guid>
       <pubDate>Wed, 19 Feb 2025 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>元将建造世界上最长的海底电缆</title>
-      <link>https://www.wired.com/story/meta-undersea-cables-internet-connectivity-india/</link>
-      <description><![CDATA[Meta的Waterworth项目将在五大洲提供互联网连接，并在印度，美国，巴西和南非提供登陆点。]]></description>
-      <guid>https://www.wired.com/story/meta-undersea-cables-internet-connectivity-india/</guid>
-      <pubDate>Wed, 19 Feb 2025 11:19:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
