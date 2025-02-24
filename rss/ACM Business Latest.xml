@@ -4,7 +4,14 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Mon, 24 Feb 2025 18:12:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2025 21:08:16 GMT</lastBuildDate>
+    <item>
+      <title>拟人化推出了世界上第一个“混合推理” AI模型</title>
+      <link>https://www.wired.com/story/anthropic-world-first-hybrid-reasoning-ai-model/</link>
+      <description><![CDATA[Claude 3.7是来自人类的最新模型，可以指示参与特定的推理以解决硬性问题。]]></description>
+      <guid>https://www.wired.com/story/anthropic-world-first-hybrid-reasoning-ai-model/</guid>
+      <pubDate>Mon, 24 Feb 2025 18:43:31 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能助手加入工厂地板</title>
       <link>https://www.wired.com/story/ai-swaps-desk-work-for-the-factory-floor/</link>
@@ -78,7 +85,7 @@
     <item>
       <title>埃隆·马斯克（Elon Musk）和山姆·奥特曼（Sam Altman）之间的摊牌</title>
       <link>https://www.wired.com/story/uncanny-valley-podcast-15-sam-altman-elon-musk/</link>
-      <description><![CDATA[本周，怪异的山谷主持了在Openai上讨论诉讼，竞标战和权力。]]></description>
+      <description><![CDATA[本周，怪异的山谷主持了在Openai上讨论诉讼，投标战和权力。]]></description>
       <guid>https://www.wired.com/story/uncanny-valley-podcast-15-sam-altman-elon-musk/</guid>
       <pubDate>Thu, 20 Feb 2025 17:10:50 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[饥荒的预警系统网络是美国国际开发署最受数据驱动的计划之一，但特朗普政府已经停滞不前。]]></description>
       <guid>https://www.wired.com/story/usaid-famine-system-dismantled/</guid>
       <pubDate>Wed, 19 Feb 2025 18:58:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>在去东京之前，我尝试与chatgpt一起学习日语</title>
-      <link>https://www.wired.com/story/ai-lab-learning-japanese-with-chatgpt-tokyo/</link>
-      <description><![CDATA[有线测试使用生成AI的好处和局限性，特别是Chatgpt的高级语音模式，作为旅行者的语言导师。]]></description>
-      <guid>https://www.wired.com/story/ai-lab-learning-japanese-with-chatgpt-tokyo/</guid>
-      <pubDate>Wed, 19 Feb 2025 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
