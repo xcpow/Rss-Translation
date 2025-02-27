@@ -4,7 +4,14 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 27 Feb 2025 18:12:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 21:08:45 GMT</lastBuildDate>
+    <item>
+      <title>Openai推出了GPT-4.5用于Chatgpt，这是巨大而算法的</title>
+      <link>https://www.wired.com/story/openai-gpt-45/</link>
+      <description><![CDATA[GPT-4.5在内部称为Orion，是OpenAI迄今为止最大的型号，它首次通过该公司每月200美元的ChatGpt订阅提供。]]></description>
+      <guid>https://www.wired.com/story/openai-gpt-45/</guid>
+      <pubDate>Thu, 27 Feb 2025 20:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>波士顿动力学领导了机器人革命。现在它的机器正在自我教育新技巧</title>
       <link>https://www.wired.com/story/boston-dynamics-led-a-robot-revolution-now-its-machines-are-teaching-themselves-new-tricks/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>一组女性创始人正在推出云安全技术，该技术可能会大修AI保护</title>
       <link>https://www.wired.com/story/edera-cloud-tech-security/</link>
-      <description><![CDATA[云“容器”防御有矛盾，可以使攻击者过多访问。一家新公司埃德拉（Edera）正在承担这一挑战以及男性主导的创业界的问题。]]></description>
+      <description><![CDATA[云“容器”防御有矛盾，可以使攻击者过多访问。一家新公司Edera正在承担这一挑战以及男性主导的创业界的问题。]]></description>
       <guid>https://www.wired.com/story/edera-cloud-tech-security/</guid>
       <pubDate>Tue, 25 Feb 2025 19:43:33 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[剧院制作的注定剂和麦克尼尔（McNeal）解决了AI对人类和创作过程的影响。]]></description>
       <guid>https://www.wired.com/story/plaintext-ai-doomers-mcneal/</guid>
       <pubDate>Fri, 21 Feb 2025 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>在美国政府遍布整个美国政府的恐惧</title>
-      <link>https://www.wired.com/story/surveillance-privacy-doge-federal-employees/</link>
-      <description><![CDATA[在过去的十年中，美国政府增加了监测工具的使用。但是唐纳德·特朗普总统的雇员清除使工人担心如何滥用数据。]]></description>
-      <guid>https://www.wired.com/story/surveillance-privacy-doge-federal-employees/</guid>
-      <pubDate>Fri, 21 Feb 2025 11:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
