@@ -4,104 +4,112 @@
     <title>ACM技术</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM技术</description>
-    <lastBuildDate>Wed, 26 Feb 2025 18:13:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 18:12:38 GMT</lastBuildDate>
     <item>
-      <title>黑客从有史以来最大的加密抢劫中从交易所bybit窃取了15亿美元</title>
-      <link>https://www.cnbc.com/2025/02/21/hackers-steal-1point5-billion-from-exchange-bybit-biggest-crypto-heist.html</link>
-      <description><![CDATA[CNBC  威胁性参与者与朝鲜州资助的黑客黑客集体Lazarus集团有关，从加密货币交易所Bybit中偷走了15亿美元，迄今为止最大的加密抢劫案报道。攻击者获得了BYBIT的离线安全存储系统的访问权，称为冷钱包。这些资金主要在以太币中，在许多钱包中转移，然后使用多个平台清算。区块链分析公司Elliptic的汤姆·罗宾逊（Tom Robinson）表示，黑客的地址已在其软件中标记为停止通过其他交易所停止被盗资金的现金。 从黑客那里窃取了hackers of hackers of arth hackers of arth hackers oth hackers of treach hackers of the harker有史以来最大的加密抢劫” 
-CNBC（02/22/25）Mackenzie Sigalos  查看完整文章]]></description>
-      <guid>https://www.cnbc.com/2025/02/21/hackers-steal-1point5-billion-from-exchange-bybit-biggest-crypto-heist.html</guid>
-      <pubDate>Wed, 26 Feb 2025 18:13:00 GMT</pubDate>
+      <title>AI正在改变硅谷建造初创公司的方式</title>
+      <link>https://www.nytimes.com/2025/02/20/technology/ai-silicon-valley-start-ups.html</link>
+      <description><![CDATA[《纽约时报》  今天的AI初创公司正在与小型团队一起获得数亿至数亿美元的收入，利用AI提高效率，许多人不需要投资者。在Capital的Gaurav Jain以前，它将其比作在亚马逊推出低成本云计算服务后出现的公司浪潮，但指出：“这次，我们正在自动化人类，而不是只有数据中心。”  。
+《纽约时报》（02/20/25）]]></description>
+      <guid>https://www.nytimes.com/2025/02/20/technology/ai-silicon-valley-start-ups.html</guid>
+      <pubDate>Fri, 28 Feb 2025 18:12:37 GMT</pubDate>
     </item>
     <item>
-      <title>用AI工具从血液样本中诊断出糖尿病，艾滋病毒，互联</title>
-      <link>https://www.nature.com/articles/d41586-025-00528-y</link>
-      <description><![CDATA[大自然 斯坦福大学计算机科学家已经开发了一种AI工具，可以筛选血液样本中的免疫细胞基因序列，以诊断诸如COVID-19，1型糖尿病，HIV和狼疮等状况个人已收到流感疫苗。该工具包含六个机器学习模型，这些模型可以分析编码B细胞和T细胞受体中关键区域的基因序列，并检测指示某些疾病的模式。 从诊断糖尿病，HIV，covid covid a a a a a a a a a a a niv。使用AI工具的血液样本“ 
-Nature（02/20/25）Miryam Naddaf     - 可能需要付费订阅]]></description>
-      <guid>https://www.nature.com/articles/d41586-025-00528-y</guid>
-      <pubDate>Wed, 26 Feb 2025 18:12:59 GMT</pubDate>
+      <title>特朗普团队试图使拜登的芯片控制权更加坚强</title>
+      <link>https://www.bloomberg.com/news/articles/2025-02-25/trump-administration-seeks-more-restrictions-on-china-tech-weighs-nvidia-curbs</link>
+      <description><![CDATA[彭博 特朗普政府正在努力扩大拜登政府为防止中国在半导体行业中获得优势而努力的努力。美国官员最近会见了来自日本和荷兰的同行，涉及限制东京电子有限公司和ASML持有NV工程师在中国维持半导体装备。政府可能会对无许可无许可的AI芯片的数量施加额外的限制，并且可以加强对中国电信巨头Huawei Technologies Co.的主要芯片制造伙伴，半导体制造商，半导体制造商的限制。
+彭博（02/24/25）Mackenzie Hawkins; Cagan Koc;詹妮·伦纳德（Jenny Leonard） ]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-02-25/trump-administration-seeks-more-restrictions-on-china-tech-weighs-nvidia-curbs</guid>
+      <pubDate>Fri, 28 Feb 2025 18:12:36 GMT</pubDate>
     </item>
     <item>
-      <title>Google AI共同科学家帮助生物医学研究人员</title>
-      <link>https://www.reuters.com/technology/artificial-intelligence/google-develops-ai-co-scientist-aid-researchers-2025-02-19/</link>
-      <description><![CDATA[路透社 由Google开发的AI工具，并由斯坦福大学的研究人员和英国伦敦帝国学院的研究人员进行了测试，旨在作为生物医学科学家的助手。多代理AI共同科学家帮助研究人员合成文献，并通过使用先进的推理产生新的假设。在涉及肝纤维化的测试中，Google找到了推荐的预防疾病的有希望的解决方案，并表示可以改善其随着时间的推移提供的解决方案。 /&gt;
-路透社（02/19/25）Muvija M; kenrick cai  查看全文]]></description>
-      <guid>https://www.reuters.com/technology/artificial-intelligence/google-develops-ai-co-scientist-aid-researchers-2025-02-19/</guid>
-      <pubDate>Wed, 26 Feb 2025 18:12:57 GMT</pubDate>
+      <title>加利福尼亚的激进数据隐私概念：执行法律</title>
+      <link>https://www.washingtonpost.com/technology/2025/02/21/delete-information-data-brokers-california/</link>
+      <description><![CDATA[《华盛顿邮报》  加利福尼亚州要求数据经纪人每天注册200美元或面部罚款，这一要求在不遵守州数据隐私法的时候可以使其删除ACT有些牙齿有些重大问题。该州的隐私监管机构最近针对国家公共数据提起诉讼，原因是未遵守注册要求。
+《华盛顿邮报》（02/21/25）Shira Ovide  ]]></description>
+      <guid>https://www.washingtonpost.com/technology/2025/02/21/delete-information-data-brokers-california/</guid>
+      <pubDate>Fri, 28 Feb 2025 18:12:34 GMT</pubDate>
     </item>
     <item>
-      <title>尽管有2024年的裁员，但技术职位预计会起飞</title>
-      <link>https://spectrum.ieee.org/tech-jobs</link>
-      <description><![CDATA[IEEE Spectrum   layoffs.fyi报告说，去年全球科技行业裁员的步伐有所放缓，当时数百家公司裁员了15万多个工作岗位。现在，美国劳工统计局（BLS）预测，从2023年到2033年，美国电气工程师的就业人数增长了9％，而在所有职业中的收益为4％。 BLS预计在该时期内的电气和电子工程师在半导体制造中的需求会增加15％。
-IEEE Spectrum（02/22/25）gwendolyn rak  查看完整文章]]></description>
-      <guid>https://spectrum.ieee.org/tech-jobs</guid>
-      <pubDate>Wed, 26 Feb 2025 18:12:55 GMT</pubDate>
+      <title>欧盟要花费近十亿欧元来保护海底电缆</title>
+      <link>https://www.reuters.com/world/europe/eu-will-propose-establishing-fleet-vessels-emergency-undersea-cable-repairs-2025-02-21/</link>
+      <description><![CDATA[Henna Virkkunen在2月21日表示，路透社 欧盟委员会执行副总裁负责安全副总裁，其预算中的近10亿欧元将被重定向，以增加底面有线监视，并组装了一支紧急维修舰队。 Virkkunen说：“我们要确保欧洲不仅能够预防和发现对电缆的破坏，还可以积极地阻止，维修和应对对关键基础设施的任何威胁。”
+路透社（02/21/25）莉莉·拜耳（Lili Bayer）； Anne Kauranen  &lt;a href =“ https://www.reuters.com/world/europe/eu-will-propose-propose-establishing-fleet-fleet-fleet-vessels-emergens-emergencel-emergency-emergency-emergency-emergence-cable-cable-repair--2025-02-21/一下]]></description>
+      <guid>https://www.reuters.com/world/europe/eu-will-propose-establishing-fleet-vessels-emergency-undersea-cable-repairs-2025-02-21/</guid>
+      <pubDate>Fri, 28 Feb 2025 18:12:33 GMT</pubDate>
     </item>
     <item>
-      <title>大型语言模型构成不断增长的安全风险</title>
-      <link>https://www.wsj.com/articles/large-language-models-pose-growing-security-risks-f3c84ea9</link>
-      <description><![CDATA[《华尔街日报》  在没有政府关于大语模型安全性（LLM）的政策的情况下，公司面临着新的网络安全挑战，尤其是从用户互动的非结构化和对话性质中。除了员工将敏感公司数据输入LLM的可能性外，公司还应担心LLMS生成的信息可能包含恶意代码，侵犯知识产权或侵犯版权。此外，威胁参与者可以使用及时的注射攻击来操纵模型来执行某些动作。
-《华尔街日报》（02/20/25）史蒂文·罗森布什 查看全文   - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/articles/large-language-models-pose-growing-security-risks-f3c84ea9</guid>
-      <pubDate>Wed, 26 Feb 2025 18:12:54 GMT</pubDate>
+      <title>中国努力掌握高端机床</title>
+      <link>https://www.ft.com/content/ccaae6a2-5212-4b6b-ad45-ac975b62a5f6</link>
+      <description><![CDATA[《金融时报》  中国长期以来在开发运营高精度计算机数值控制（CNC）机床的硬件和软件方面面临困难。挑战范围从政府的重点转变为机器人技术，盈利能力问题以及西门子和FANUC的市场优势。尽管中国公司主导了该行业的中层和低端，但香港理工大学的罗伯特·沃伊尔（Robert Voyle）充满信心中国最终将进入高端CNC市场。
+《金融时报》（02/25/25）William Sandlund  &lt;a href =“ https://www.ft.com/content/content/ccaae6a2-5212-5212-5212-4b6b-ad45-ac975b62a75b62a5b62a5f6]]></description>
+      <guid>https://www.ft.com/content/ccaae6a2-5212-4b6b-ad45-ac975b62a5f6</guid>
+      <pubDate>Fri, 28 Feb 2025 18:12:32 GMT</pubDate>
     </item>
     <item>
-      <title>小型6克机器人轻松地在狭窄的空间中游泳</title>
-      <link>https://scitechdaily.com/scientists-develop-tiny-6-gram-robot-that-swims-through-tight-spaces-with-ease/</link>
-      <description><![CDATA[Scitechdaily  由瑞士的研究人员开发的六克灵活的游泳机器人; cole＆acute; cole polytechnique f＆ececute; d＆ecute; d＆ecute; rale de lausanne可以承受的重量超过其体重和繁华的狭窄空间。该机器人的默默散发鳍被默默起伏的鳍，使其能够每秒行驶12厘米（2.6个体长），机器人配备了四种人造肌肉来移动鳍，使其可以转动和游泳，向前，向后和侧面。此外，机器人可以自动识别并遵循光源。
+      <title>AI可以在几分钟内解码存储在DNA中的数字数据</title>
+      <link>https://www.newscientist.com/article/2469449-ai-can-decode-digital-data-stored-in-dna-in-minutes-instead-of-days/</link>
+      <description><![CDATA[加利福尼亚大学圣地亚哥分校的新科学家 研究人员和技术以色列技术研究所已经开发了一个AI系统，该系统可以在10分钟内准确地解码存储在DNA序列中的数据。该系统称为DNAFormer，具有深度学习模型，可以重建DNA序列，错误检测和校正算法以及一个解码算法，该算法可以纠正任何剩余错误，同时将信息转换为数字数据。
+新科学家（02/21/25）Jeremy HSU  ]]></description>
+      <guid>https://www.newscientist.com/article/2469449-ai-can-decode-digital-data-stored-in-dna-in-minutes-instead-of-days/</guid>
+      <pubDate>Fri, 28 Feb 2025 18:12:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>头部安装机器人艾滋病眼科手术</title>
+      <link>https://www.theengineer.co.uk/content/news/head-mounted-robot-aids-eye-surgery</link>
+      <description><![CDATA[工程师 由犹他大学研究人员开发的机器人手术装置可以帮助外科医生在进行眼科手术时进行小而精确的运动。该机器人安装在患者头上，采用了触觉界面，可以补偿手动震颤和头部运动，并将外科医生的运动缩放至1千米。
+工程师（02/21/25） &lt;a href =“ https://www.theengineer.co.uk/content/content/news/head-mounted-mounted-mounted-mounted-mounted-robot-aids-eye-suregery” target =“ _ blank”]]></description>
+      <guid>https://www.theengineer.co.uk/content/news/head-mounted-robot-aids-eye-surgery</guid>
+      <pubDate>Fri, 28 Feb 2025 18:12:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果在英国政府安全行之后拉动数据保护工具</title>
+      <link>https://www.bbc.com/news/articles/cgj54eq4vejo</link>
+      <description><![CDATA[BBC  苹果的高级数据保护（ADP）工具是根据《调查权力法案》根据内政部的请求来访问Apple本身无法访问的用户数据的，英国不可用的客户。 ADP工具允许帐户持有人通过端到端加密查看Apple iCloud上存储的照片，文档和其他项目。截至2月21日，英国Apple用户一直无法激活ADP服务，并且在某个时候将禁用现有用户的访问。
+BBC（02/22/25）Zoe Kleinman  查看完整文章]]></description>
+      <guid>https://www.bbc.com/news/articles/cgj54eq4vejo</guid>
+      <pubDate>Fri, 28 Feb 2025 18:12:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>计算领导者提出措施，以打击技术实力的伴侣暴力，人口贩运，儿童剥削</title>
+      <link>https://www.acm.org/media-center/2025/february/techbrief-tech-abuse</link>
+      <description><![CDATA[ACM   ACM技术政策委员会（TPC）的一份新报告介绍了如何使用计算机技术来实施亲密伴侣暴力，人口贩运和儿童剥削。在“ Techbrief：技术政策可以遏制家庭暴力，人口贩运和针对儿童犯罪”中，TPC呼吁立法者和政策制定者评估促进技术滥用犯罪的技术，并扩大法律，法规和政策，以增强对技术滥用的保护。 
 
- 来自“小型6克机器人轻松游泳” 
-scitechdaily（02/24/25） 查看全文]]></description>
-      <guid>https://scitechdaily.com/scientists-develop-tiny-6-gram-robot-that-swims-through-tight-spaces-with-ease/</guid>
-      <pubDate>Wed, 26 Feb 2025 18:12:52 GMT</pubDate>
+ “计算领导者提出措施，以打击技术实力的伴侣暴力，人口贩运，儿童剥削” 
+ACM（02/25/25） 查看完整文章]]></description>
+      <guid>https://www.acm.org/media-center/2025/february/techbrief-tech-abuse</guid>
+      <pubDate>Fri, 28 Feb 2025 18:12:26 GMT</pubDate>
     </item>
     <item>
-      <title>苹果在特朗普会议后宣布了数十亿美元的美国投资</title>
-      <link>https://www.washingtonpost.com/technology/2025/02/24/apple-announces-500-billion-investment-us-over-next-four-years/</link>
-      <description><![CDATA[华盛顿邮报 首席执行官蒂姆·库克（Tim Cook）最近与美国总统唐纳德·特朗普（Donald Trump）会面后，苹果表示，未来四年将向美国投资5000亿美元。该计划包括开发休斯敦AI计算机服务器的生产线，以及从台湾半导体制造公司的亚利桑那州工厂购买计算机芯片的数十亿美元承诺。但是，苹果并未承诺在美国 的“苹果在特朗普会议后宣布数十亿美元的投资” 
-《华盛顿邮报》（02/24/25）香农·纳贾马巴迪； gerrit de vynck  查看全文 可能需要付费订阅]]></description>
-      <guid>https://www.washingtonpost.com/technology/2025/02/24/apple-announces-500-billion-investment-us-over-next-four-years/</guid>
-      <pubDate>Wed, 26 Feb 2025 18:12:50 GMT</pubDate>
+      <title>莫桑比克改造天气技术以有效预测</title>
+      <link>https://spectrum.ieee.org/disaster-response-tech-mozambique</link>
+      <description><![CDATA[IEEE Spectrum  莫桑比克国家灾难管理研究所和意大利国际环境监测研究基金会（CIMA）已合作改进莫桑比克的早期警告系统，以改善对极端天气的预测和响应。该研究所实施了CIMA的MyDewetra平台的升级版，该平台基于卫星图像，气象站数据和数值模型生成地图和发出警报。该系统已被更新，以将莫桑比克的灾难风险数据集成到非洲多危险预警和早期动作系统中。
+IEEE Spectrum（02/22/25）Maurizio Arseni  查看完整文章]]></description>
+      <guid>https://spectrum.ieee.org/disaster-response-tech-mozambique</guid>
+      <pubDate>Fri, 28 Feb 2025 18:12:24 GMT</pubDate>
     </item>
     <item>
-      <title>Yoshua Bengio提出了“科学家AI”，以减轻超级智能代理的灾难性风险</title>
-      <link>https://analyticsindiamag.com/ai-news-updates/yoshua-bengio-proposes-scientist-ai-to-mitigate-catastrophic-risks-from-superintelligent-agents/</link>
-      <description><![CDATA[分析印度  acm a.m. Turing Award奖获得者Yoshua Benjio是AI研究人员之一，他提出了“科学家AI”，这是一种AI系统，该系统经过培训，可以根据观测来解释世界。与代理AI不同，他们将其描述为“不安全”科学家AI没有受过训练来追求目标，而是要解释事件并估计其可能性。研究人员说，该系统不使用强化学习，这很容易导致目标错误指定和错误归类。“ Yoshua Bengio的 ”  ，从Yoshua Bengio提出的“科学家AI”来减轻灾难性的风险。 
-Analytics India（02/25/25）supreeth koundinya  查看完整文章]]></description>
-      <guid>https://analyticsindiamag.com/ai-news-updates/yoshua-bengio-proposes-scientist-ai-to-mitigate-catastrophic-risks-from-superintelligent-agents/</guid>
-      <pubDate>Wed, 26 Feb 2025 18:12:48 GMT</pubDate>
+      <title>拉里·埃里森（Larry Ellison）的五亿美元追求改变农业是一个破产</title>
+      <link>https://www.wsj.com/tech/larry-ellison-hawaii-greenhouse-farm-food-2d260e1f</link>
+      <description><![CDATA[《华尔街日报》   oracle的拉里·埃里森（Larry Ellison）在夏威夷拉奈岛（Lanai）共同创立了Sensei AG，目的是利用技术彻底改变人们的饮食方式和养活世界。消息人士称，老师面临的挑战来自该岛的风，天气等，导致该公司只生产足够的生菜和樱桃番茄来提供当地的杂货和餐馆。该公司的重点已转移到开发软件 /硬件软件包，以提高室内农业的生产力。
+《华尔街日报》（02/23/25）汤姆·多丹 &lt;a href =“ https://www.ws.com/tech/tech/larry-ellison-ellison-hawaii--greenhouse-greenhouse-farm-farm-farm-farm-farm-farm-farm-farm-farm-farm-farm-farm-farm-farm-farm-farm-farm-farm-farm-farm-farm-farm-2d260e1e1f，]]></description>
+      <guid>https://www.wsj.com/tech/larry-ellison-hawaii-greenhouse-farm-food-2d260e1f</guid>
+      <pubDate>Fri, 28 Feb 2025 18:12:22 GMT</pubDate>
     </item>
     <item>
-      <title>Openai发现了AI驱动的中国监视工具的证据</title>
-      <link>https://www.nytimes.com/2025/02/21/technology/openai-chinese-surveillance.html</link>
-      <description><![CDATA[《纽约时报》   Openai说，它发现了证据表明，中国安全行动开发了一种由AI驱动的监视工具，可以在西方社交媒体上汇集有关反中国帖子的实时报告。 OpenAI研究人员发现了该工具，当时其开发人员之一使用OpenAI模型调试其基础计算机代码。研究人员还确定了另一项运动，中国开发人员使用OpenAI的技术来生产批评中国持不同政见者的英语帖子。 &gt;
-《纽约时报》（02/21/25）CADE METZ  查看全文   - 可能需要付费订阅]]></description>
-      <guid>https://www.nytimes.com/2025/02/21/technology/openai-chinese-surveillance.html</guid>
-      <pubDate>Wed, 26 Feb 2025 18:12:46 GMT</pubDate>
+      <title>中国团队的创纪录传输台上量子互联网的地面</title>
+      <link>https://www.scmp.com/news/china/science/article/3300013/back-future-record-chinese-transmission-lays-ground-future-quantum-internet</link>
+      <description><![CDATA[中国南中国晨报 中国的Tsinghua大学的研究人员，北京量子信息科学学院和北中国技术大学开发了一种准Quantum Secure Direct Communication（QSDC）协议，该协议的数据传输速率达到了104.8 km（65英里）的2.38 kbps（65英里）的创纪录数据传输速率。该协议可以检测到窃听，可以为量子互联网铺平道路。
+南中国晨报（02/25/25）维多利亚·贝拉（Victoria Bela）； Holly Chik  &lt;a href =“ https://www.scmp.com/news/china/china/science/article/3300013/back-future-record-chinese-chinese-chinese-chinese-chinese-chinese-transismis-lays-lays-lays-future-future-future-future-quantum-quantum-internet-internet”]]></description>
+      <guid>https://www.scmp.com/news/china/science/article/3300013/back-future-record-chinese-transmission-lays-ground-future-quantum-internet</guid>
+      <pubDate>Fri, 28 Feb 2025 18:12:21 GMT</pubDate>
     </item>
     <item>
-      <title>政府努力的互联网中断创下了高记录</title>
-      <link>https://www.axios.com/2025/02/24/global-internet-blackouts</link>
-      <description><![CDATA[Axios  数字公民权利非营利组织的一份报告现在确定了2024年54个国家 /地区在54个国家 /地区进行了296次政府互联网关闭，其中越来越多的政府在冲突，抗议和选举中使用它们来使持不同政见者保持沉默。自2018年以来，缅甸首次以85次关闭为单位，而印度首次将印度撞倒，而在印度为84。总关闭的70％以上（210）次在印度，缅甸，巴基斯坦和俄罗斯。
-Axios（02/23/25）Ina Fried  ]]></description>
-      <guid>https://www.axios.com/2025/02/24/global-internet-blackouts</guid>
-      <pubDate>Wed, 26 Feb 2025 18:12:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>韩国研究人员通过文件访问系统增强DNA存储技术</title>
-      <link>https://biz.chosun.com/en/en-science/2025/02/25/LOIUBWNLUVEZVFETQWW535IFWY/</link>
-      <description><![CDATA[Chosun Biz（韩国） 韩国的研究人员Gwangju科学技术研究所，首尔国立大学和生物技术公司ATG Lifetech开发了一种新方法，用于查找和操纵DNA数据中的特定文件。新方法消除了为每个DNA文件设计和合成一对引物的需求，而是允许在单个基础级别使用条形码。研究人员说，新方法将可区分DNA文件的数量至少增加了7400万次。 从“韩国研究人员使用文件访问系统增强DNA存储技术” 
-Chosun Biz（韩国）（02/25/25）Hong a-Reum  查看全文]]></description>
-      <guid>https://biz.chosun.com/en/en-science/2025/02/25/LOIUBWNLUVEZVFETQWW535IFWY/</guid>
-      <pubDate>Wed, 26 Feb 2025 18:12:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>天气预报与欧洲的新AI系统迈出了一步</title>
-      <link>https://www.ft.com/content/5642ef4d-5f42-4987-9034-92a4500b807c</link>
-      <description><![CDATA[《金融时报》  欧洲中范围的天气预报中心（ECMWF）启动了AI预测系统，可以预测热带气管轨道提前12小时。还发现它比常规预测方法要准确20％，以预测可长达15天。该系统可以预测标准温度，降水量和风，以及太阳辐射和100米的风速，即典型的风力涡轮机的高度，这对于可再生能源部门来说将是有用的数据。 从“天气预报迈向欧洲新的AI系统” 
-《金融时报》（02/24/25）克莱夫·库克森    - 可能需要付费订阅]]></description>
-      <guid>https://www.ft.com/content/5642ef4d-5f42-4987-9034-92a4500b807c</guid>
-      <pubDate>Wed, 26 Feb 2025 18:12:40 GMT</pubDate>
+      <title>英国政府延迟了六个月的新AI法案</title>
+      <link>https://www.computing.co.uk/news/2025/legislation-regulation/government-delays-new-ai-bill-for-six-months</link>
+      <description><![CDATA[计算 英国政府已将其AI法案的发布推迟到夏天。预计该法案将要求公司向英国AI安全研究所提交其AI模型进行测试。一位高级工党消息人士指出，“关于立法的面貌，仍然没有“没有艰难的提议”。 来自“英国政府延误了六个月的新AI法案” 
+计算（02/25/25）Graeme Burton  &lt;a href =“ https://www.computing.co.uk/news/news/2025/legislation-regulation-regulation-regulation-regulation/government-delays-delays-new-ai-ai-new-ai-bill-for-bill-for-for-for-for-for-six-months”]]></description>
+      <guid>https://www.computing.co.uk/news/2025/legislation-regulation/government-delays-new-ai-bill-for-six-months</guid>
+      <pubDate>Fri, 28 Feb 2025 18:12:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
