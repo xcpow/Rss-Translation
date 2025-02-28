@@ -4,7 +4,14 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 28 Feb 2025 12:16:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 15:09:25 GMT</lastBuildDate>
+    <item>
+      <title>Google的Taara希望引入一个由Light推动的互联网的新时代</title>
+      <link>https://www.wired.com/story/plaintext-google-taara-chip-internet-by-light/</link>
+      <description><![CDATA[字母“ Moonshot”项目正在推出一个新的芯片，以用光而不是无线电波传递高速互联网。]]></description>
+      <guid>https://www.wired.com/story/plaintext-google-taara-chip-internet-by-light/</guid>
+      <pubDate>Fri, 28 Feb 2025 15:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>SEC放弃了最大的加密诉讼</title>
       <link>https://www.wired.com/story/sec-is-giving-up-biggest-crypto-lawsuits/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[整个联邦政府的员工必须在美国东部时间周一晚上11:59之前详细介绍他们在上周完成的五件事。]]></description>
       <guid>https://www.wired.com/story/doge-elon-musk-forced-resignation-email-twitter/</guid>
       <pubDate>Sat, 22 Feb 2025 23:51:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软的新Majorana 1处理器可以转换量子计算</title>
-      <link>https://www.wired.com/story/microsoft-just-claimed-a-quantum-breakthrough-a-quantum-physicist-explains-what-it-means/</link>
-      <description><![CDATA[处理器使用可以无误衡量的量子位，并且对外部干扰具有抵抗力，该公司表示，这标志着“朝实际量子计算的变革性飞跃”。]]></description>
-      <guid>https://www.wired.com/story/microsoft-just-claimed-a-quantum-breakthrough-a-quantum-physicist-explains-what-it-means/</guid>
-      <pubDate>Sat, 22 Feb 2025 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
