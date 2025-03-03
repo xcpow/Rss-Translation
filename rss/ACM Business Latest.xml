@@ -4,7 +4,21 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Mon, 03 Mar 2025 09:11:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Mar 2025 12:17:08 GMT</lastBuildDate>
+    <item>
+      <title>亚马逊的交付无人机扎根。这个德克萨斯小镇的鸟类和狗很感激</title>
+      <link>https://www.wired.com/story/texas-amazon-drones-stop-flying/</link>
+      <description><![CDATA[亚马逊的无人机在德克萨斯州大学车站的抵抗力比美国的其他任何城市都要多。现在他们已经走了 - 恢复了和平与隐私的感觉。]]></description>
+      <guid>https://www.wired.com/story/texas-amazon-drones-stop-flying/</guid>
+      <pubDate>Mon, 03 Mar 2025 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>林林如何成为中国互联网文化的非官方大使</title>
+      <link>https://www.wired.com/story/candise-lin-influencer-china-tiktok/</link>
+      <description><![CDATA[在蒂克托克难民发现红色钞票之前，坎迪斯·林（Candise Lin）为美国人提供了一个进入中国社交媒体的狂野，热闹的世界的门户网站。]]></description>
+      <guid>https://www.wired.com/story/candise-lin-influencer-china-tiktok/</guid>
+      <pubDate>Mon, 03 Mar 2025 10:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Doge在软件许可证上的错位战争</title>
       <link>https://www.wired.com/story/doge-software-license-cancel-federal-budget/</link>
@@ -57,7 +71,7 @@
     <item>
       <title>一组女性创始人正在推出云安全技术，该技术可能会大修AI保护</title>
       <link>https://www.wired.com/story/edera-cloud-tech-security/</link>
-      <description><![CDATA[云“容器”防御有矛盾，可以使攻击者过多访问。一家新公司埃德拉（Edera）正在承担这一挑战以及男性主导的创业界的问题。]]></description>
+      <description><![CDATA[云“容器”防御有矛盾，可以使攻击者过多访问。一家新公司Edera正在承担这一挑战以及男性主导的创业界的问题。]]></description>
       <guid>https://www.wired.com/story/edera-cloud-tech-security/</guid>
       <pubDate>Tue, 25 Feb 2025 19:43:33 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[Claude 3.7是来自人类的最新模型，可以指示参与特定的推理以解决硬性问题。]]></description>
       <guid>https://www.wired.com/story/anthropic-world-first-hybrid-reasoning-ai-model/</guid>
       <pubDate>Mon, 24 Feb 2025 18:43:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能助手加入工厂地板</title>
-      <link>https://www.wired.com/story/ai-swaps-desk-work-for-the-factory-floor/</link>
-      <description><![CDATA[制造商已经拥有数据。 LLM驱动的工具可以帮助他们利用它。]]></description>
-      <guid>https://www.wired.com/story/ai-swaps-desk-work-for-the-factory-floor/</guid>
-      <pubDate>Mon, 24 Feb 2025 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>毕竟，比德的免费自动驾驶技术可能并不是一个福音</title>
-      <link>https://www.wired.com/story/byd-free-self-driving-tech-gods-eye/</link>
-      <description><![CDATA[除了与竞争对手的高级驾驶员系统的不利比较外，称其为上帝的眼睛可能像特斯拉的完整自动驾驶一样误导了绰号。]]></description>
-      <guid>https://www.wired.com/story/byd-free-self-driving-tech-gods-eye/</guid>
-      <pubDate>Sun, 23 Feb 2025 13:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
