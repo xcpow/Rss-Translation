@@ -4,7 +4,21 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Mon, 03 Mar 2025 21:09:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 00:43:43 GMT</lastBuildDate>
+    <item>
+      <title>特朗普的FDA削减使毒品开发处于危险之中</title>
+      <link>https://www.wired.com/story/trump-fda-cuts-drug-development-delays/</link>
+      <description><![CDATA[制药公司的新SEC文件显示，唐纳德·特朗普（Donald Trump）和埃隆·马斯克（Elon Musk）的削减成本措施可能会减慢药物研究并延迟FDA的批准。]]></description>
+      <guid>https://www.wired.com/story/trump-fda-cuts-drug-development-delays/</guid>
+      <pubDate>Mon, 03 Mar 2025 22:44:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>埃隆·马斯克（Elon Musk）的1美元支出限额瘫痪了联邦机构</title>
+      <link>https://www.wired.com/story/doge-elon-musk-spending-cuts-federal-workers/</link>
+      <description><![CDATA[总督规定的信用卡冻结正在推迟关键用品的运输，停滞不前的旅行，并阻止员工从事工作。]]></description>
+      <guid>https://www.wired.com/story/doge-elon-musk-spending-cuts-federal-workers/</guid>
+      <pubDate>Mon, 03 Mar 2025 22:24:36 GMT</pubDate>
+    </item>
     <item>
       <title>亚马逊的交付无人机扎根。这个德克萨斯小镇的鸟类和狗很感激</title>
       <link>https://www.wired.com/story/texas-amazon-drones-stop-flying/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[一系列的绑架派派遣了加密高管和富裕的投资者，以寻求保护自己的方式。]]></description>
       <guid>https://www.wired.com/story/after-a-violent-kidnapping-crypto-elites-hire-bodyguards/</guid>
       <pubDate>Tue, 25 Feb 2025 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>“ Openai”骗局通过电报针对国际工人</title>
-      <link>https://www.wired.com/story/openai-job-scam/</link>
-      <description><![CDATA[根据韦德（Wired）获得的FTC投诉，由“ Openai”的“ Openai”的“ Aiden”领导的一个涉嫌工作骗局在一夜之间消失了几个月，然后消失了几个月。]]></description>
-      <guid>https://www.wired.com/story/openai-job-scam/</guid>
-      <pubDate>Tue, 25 Feb 2025 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>拟人化推出了世界上第一个“混合推理” AI模型</title>
-      <link>https://www.wired.com/story/anthropic-world-first-hybrid-reasoning-ai-model/</link>
-      <description><![CDATA[Claude 3.7是来自人类的最新模型，可以指示参与特定的推理以解决硬性问题。]]></description>
-      <guid>https://www.wired.com/story/anthropic-world-first-hybrid-reasoning-ai-model/</guid>
-      <pubDate>Mon, 24 Feb 2025 18:43:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
