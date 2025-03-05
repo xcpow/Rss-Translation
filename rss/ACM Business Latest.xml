@@ -4,9 +4,16 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Tue, 04 Mar 2025 21:09:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Mar 2025 00:43:52 GMT</lastBuildDate>
     <item>
-      <title>尽管TSMC交易1000亿美元，但特朗普仍在考虑台湾筹码的关税</title>
+      <title>特朗普的关税将如何破坏墨西哥的关键行业</title>
+      <link>https://www.wired.com/story/how-trumps-tariffs-will-disrupt-key-industries-in-mexico/</link>
+      <description><![CDATA[专家说，对墨西哥和加拿大的关税征收代表了违反USMCA的行为，并可能引发关税战争。]]></description>
+      <guid>https://www.wired.com/story/how-trumps-tariffs-will-disrupt-key-industries-in-mexico/</guid>
+      <pubDate>Tue, 04 Mar 2025 23:11:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>尽管TSMC交易1000亿美元，但特朗普仍在考虑对台湾筹码的关税</title>
       <link>https://www.wired.com/story/tsmc-tariffs-trump-impacts/</link>
       <description><![CDATA[专家告诉《连线》，台湾上的关税将很困难，而且它们不一定足以有意义地增加美国的半导体制造业。]]></description>
       <guid>https://www.wired.com/story/tsmc-tariffs-trump-impacts/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[波士顿Dynamics创始人马克·雷伯特（Marc Raibert）表示，加强学习正在帮助他的创造获得更多的独立性。]]></description>
       <guid>https://www.wired.com/story/boston-dynamics-led-a-robot-revolution-now-its-machines-are-teaching-themselves-new-tricks/</guid>
       <pubDate>Wed, 26 Feb 2025 18:42:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>一组女性创始人正在推出云安全技术，该技术可能会大修AI保护</title>
-      <link>https://www.wired.com/story/edera-cloud-tech-security/</link>
-      <description><![CDATA[云“容器”防御有矛盾，可以使攻击者过多访问。一家新公司Edera正在承担这一挑战以及男性主导的创业界的问题。]]></description>
-      <guid>https://www.wired.com/story/edera-cloud-tech-security/</guid>
-      <pubDate>Tue, 25 Feb 2025 19:43:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
