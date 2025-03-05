@@ -4,94 +4,110 @@
     <title>ACM技术</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM技术</description>
-    <lastBuildDate>Mon, 03 Mar 2025 18:12:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Mar 2025 18:13:19 GMT</lastBuildDate>
     <item>
-      <title>ACM杰出成员ORSO任命UGA工程学院的院长</title>
-      <link>https://news.uga.edu/alex-orso-named-dean-of-ugas-college-of-engineering/</link>
-      <description><![CDATA[今日UGA  乔治亚理工学院的Alessandro“ Alex” Orso将于7月1日担任佐治亚大学（UGA）工程学院的院长。他已经开发了改善软件可靠性，安全性和可信赖性的方法。
-UGA今日（02/28/25）Mike Wooten  &lt;a href =“ https://news.uga.edu/alex-orso-orso-orso-named-dean-dean-dean-dean-dean-dean-dean-ougas-college-ogneering/”]]></description>
-      <guid>https://news.uga.edu/alex-orso-named-dean-of-ugas-college-of-engineering/</guid>
-      <pubDate>Mon, 03 Mar 2025 18:12:05 GMT</pubDate>
+      <title>任何蓝牙设备都可以变成airtag</title>
+      <link>https://cybernews.com/security/hackers-can-track-bluetooth-device-like-airtag/</link>
+      <description><![CDATA[Cyber​​news  乔治·梅森大学的研究人员展示了远程攻击者如何利用苹果中的漏洞找到我的网络，以将任何蓝牙设备转换为类似Airtag的跟踪器。使用“ Nroottag”，攻击者可以创建与蓝牙地址匹配的公共/私钥对，而无需根本特权。只需几美元就可以使用GPU集群开发匹配对的彩虹表。苹果说，它将发布修复漏洞的补丁。
+Cyber​​news（02/28/25）Ernestas Naprys ]]></description>
+      <guid>https://cybernews.com/security/hackers-can-track-bluetooth-device-like-airtag/</guid>
+      <pubDate>Wed, 05 Mar 2025 18:13:17 GMT</pubDate>
     </item>
     <item>
-      <title>Google的Brin敦促工人每工作日“至少”“至少”</title>
-      <link>https://www.nytimes.com/2025/02/27/technology/google-sergey-brin-return-to-office.html</link>
-      <description><![CDATA[纽约时报  Google联合创始人谢尔盖·布林（Sergey Brin）上周表示，当机器匹配或比人类更聪明时，他的公司可以领导该行业，但前提是员工工作更加努力。我建议至少每个工作日都在办公室里，＆rdquo;他在内部发布的备忘录中写道。他补充说，每周60小时是生产力的最佳选择。在给在Gemini工作的员工的消息中，Google的AI模型和应用程序阵容。
-《纽约时报》（02/28/25）NICO GRANT  &lt;a href =“ https://www.nytimes.com/2025/02/02/02/27/technology/technology/google-sergey-brin-brin-brin-return-return-return-return-return-return-return-return-return-return-return-return-return-return-return-to-office，html一下]]></description>
-      <guid>https://www.nytimes.com/2025/02/27/technology/google-sergey-brin-return-to-office.html</guid>
-      <pubDate>Mon, 03 Mar 2025 18:12:03 GMT</pubDate>
+      <title>MTA使用Google像素来识别地铁轨道缺陷</title>
+      <link>https://www.engadget.com/ai/mta-strapped-google-pixels-to-subway-cars-to-spot-track-defects-133046252.html</link>
+      <description><![CDATA[Engadget  纽约市的大都会运输管理局部署了Google的TrackInspect AI工具，以识别地铁轨道上的缺陷。从去年9月到1月，四辆地铁汽车配备了Google Pixel手机，该手机使用其加速度计，磁力计和麦克风发现了有问题的噪音和其他问题。机器学习算法用于分析数据并产生预测性见解。 TrackInspect位于检查员确定的缺陷中的92％。
+Engadget（02/28/25）Sarah Fielding  &lt;a href =“ https://www.engadget.com/ai/mta-strapped-google-plapped-google-pixels-pixels-pixels-to-subway-cars-subway-cars-cars-cars-cars-cars-spot-spot-track-track-defects-133046252.html target =”]]></description>
+      <guid>https://www.engadget.com/ai/mta-strapped-google-pixels-to-subway-cars-to-spot-track-defects-133046252.html</guid>
+      <pubDate>Wed, 05 Mar 2025 18:13:15 GMT</pubDate>
     </item>
     <item>
-      <title>各州考虑应用商店年龄验证法律</title>
-      <link>https://www.wsj.com/tech/child-online-safety-protections-laws-0ffb9308</link>
-      <description><![CDATA[《华尔街日报》  九个州的立法者提出了立法，该立法将要求应用商店运营商验证用户的年龄并获得父母同意，然后才能允许未成年人下载应用程序。 Meta，Snap和X竞争APP商店应负责年龄验证，因为它们已经收集了用户信息。苹果不同意，认为通过应用程序商店处理年龄验证可能会导致几乎每个应用程序共享用户年龄。 Google计划在今年晚些时候测试机器学习年龄估计模型。
-《华尔街日报》（02/25/25）Amrith Ramkumar； Meghan Bobrowsky  查看完整文章]]></description>
-      <guid>https://www.wsj.com/tech/child-online-safety-protections-laws-0ffb9308</guid>
-      <pubDate>Mon, 03 Mar 2025 18:12:02 GMT</pubDate>
+      <title>Apple Watch有助于NHL裁判</title>
+      <link>https://www.espn.com/nhl/story/_/id/44051056/new-apple-watch-technology-assists-nhl-referees</link>
+      <description><![CDATA[ESPN  国家曲棍球联盟（NHL）裁判可以通过Apple Watch应用程序获得实时的，游戏中的情境通知，该应用程序从NHL的Oasis Feed中提取25个数据点。 NHL Watch Comms应用程序显示游戏时钟和罚球框中的玩家数字。它还在强力游戏结束时也会发送触觉通知，并且当游戏时钟在一个时期结束时滴答滴答作用时，每个都有不同的振动。
+ESPN（02/28/25）Greg Wyshynski  &lt;a href =“ https://www.espn.com/nhl/story/story/_/story/_/_/44051056/new-apple-apple-watch-watch-watch-technologic-technologic-technologic-technologic-technologic-technologic-nhl-referees-nhl-refererees-]]></description>
+      <guid>https://www.espn.com/nhl/story/_/id/44051056/new-apple-watch-technology-assists-nhl-referees</guid>
+      <pubDate>Wed, 05 Mar 2025 18:13:13 GMT</pubDate>
     </item>
     <item>
-      <title>Microsoft关闭Skype</title>
-      <link>https://apnews.com/article/microsoft-closing-skype-7ac4e86f55acb40098476e01d8d4a473</link>
-      <description><![CDATA[美联社   Microsoft计划在5月关闭Skype，将其一些服务转移到Microsoft团队。 Skype由爱沙尼亚工程师于2003年创立，是通过互联网而不是座机打电话的先驱。它在2005年购买了该服务后添加了视频电话。 从“ Microsoft关闭Skype” 
-美联社（02/28/25）Matt O&#39;Brien  &lt;a href =“ https://apnews.com/article/microsoft-closes-skype-7ac4e86f5555acb40098476e01d8d4a4a4773]]></description>
-      <guid>https://apnews.com/article/microsoft-closing-skype-7ac4e86f55acb40098476e01d8d4a473</guid>
-      <pubDate>Mon, 03 Mar 2025 18:12:00 GMT</pubDate>
+      <title>美国科学家重建从政府网站删除的气候风险图</title>
+      <link>https://www.newscientist.com/article/2470279-us-scientists-rebuild-climate-risk-map-deleted-from-government-site/</link>
+      <description><![CDATA[新科学家 软件工程师杰里米·赫尔佐格（Jeremy Herzog）和拉扬·德赛（Rajan Desai）已重新发布了一张互动地图，详细介绍了气候变化对飓风，洪水，野火，野火和美国其他危害的风险的影响，这些危害已从美国联邦紧急管理机构的网站上删除。赫尔佐格（Herzog）和德赛（Desai）在将地图相关的数据被删除之前删除了该网站的屏幕截图。该地图从头开始重建，重新出现在GitHub托管的网页上，功能提高。
+新科学家（02/28/25）订阅]]></description>
+      <guid>https://www.newscientist.com/article/2470279-us-scientists-rebuild-climate-risk-map-deleted-from-government-site/</guid>
+      <pubDate>Wed, 05 Mar 2025 18:13:11 GMT</pubDate>
     </item>
     <item>
-      <title>亚马逊与“猫Qubit”有动力芯片一起加入量子比赛</title>
-      <link>https://www.bbc.com/news/articles/cly331r4p48o</link>
-      <description><![CDATA[BBC  亚马逊说，它通过建立在“猫量子”技术的原型芯片上取得了量子计算的突破，该技术工程师对Qubit Design进行了错误的阻力。 Ocelot芯片有14个关键组件，包括5个猫量。与现有方法相比，亚马逊表示，Ocelot可以将量子误差校正成本降低90％。
-BBC（02/27/25）Chris Vallance  查看完整文章]]></description>
-      <guid>https://www.bbc.com/news/articles/cly331r4p48o</guid>
-      <pubDate>Mon, 03 Mar 2025 18:11:58 GMT</pubDate>
+      <title>人工智能机器人帮助护士日本的人口老龄化</title>
+      <link>https://www.reuters.com/technology/artificial-intelligence/ai-robots-may-hold-key-nursing-japans-ageing-population-2025-02-28/</link>
+      <description><![CDATA[路透社 日本正在转向机器人和其他技术，以帮助照顾其老龄化人口。例如，一个名为AIREC的AI驱动的人形机器人最近被证明，该机器人在床上的一个男人身边轻轻地帮助了他的身边。  瓦萨德大学（Waseda University）负责Airec机器人项目的Shigeki Sugano说：“鉴于我们高度高级的衰老社会和出生的下降，我们将需要机器人对医疗和老年护理以及我们日常生活的支持。
+路透社（02/28/25）kiyoshi takaka  &lt;a href =“ https://wwwww.reuters.com/technology/technology/technology/artager-ratever-robots/ai-robots-mobots-may-hold-key-nursing-nursing-nursing-japans-japans-gopans-ageing-population-population-population-population-population-population-population-population-population-population-population-populati 时候，]]></description>
+      <guid>https://www.reuters.com/technology/artificial-intelligence/ai-robots-may-hold-key-nursing-japans-ageing-population-2025-02-28/</guid>
+      <pubDate>Wed, 05 Mar 2025 18:13:10 GMT</pubDate>
     </item>
     <item>
-      <title>这些计算机专业的学生赚取$ 10万美元</title>
-      <link>https://www.edsurge.com/news/2025-02-27-as-some-high-schoolers-fret-over-college-costs-these-majors-earn-students-100k</link>
-      <description><![CDATA[EdSurge  数字新闻 /研究出版物的分析 edsurge &lt; /em&gt;来自美国教育部的数据的数据表明，毕业后一年中最高薪水的大学毕业生在加利福尼亚大学 - 贝尔基尔大学的年度竞争中毕业的人是毕业后中位数最高的薪水的人，他们的年度计算机科学是$ 130 $ 150 $ 130 $ 130 $ 130，$ 150，$ 130，$ 150，$ 130，$ 130，$ 150，$ 150，$ 150，$ 150，$ 150，$ 150，000 $ 150，$ 150，000，000，000，000。在计算机工程学领域，华盛顿大学座位校园的毕业生每年赚取141,588美元，债务为15,422美元。
-EdSurge (02/27/25) Nadia Tamez-Robledo View Full Article]]></description>
-      <guid>https://www.edsurge.com/news/2025-02-27-as-some-high-schoolers-fret-over-college-costs-these-majors-earn-students-100k</guid>
-      <pubDate>Mon, 03 Mar 2025 18:11:56 GMT</pubDate>
+      <title>德克萨斯州需要30个反应堆以满足数据中心电源需求</title>
+      <link>https://www.bloomberg.com/news/articles/2025-02-28/texas-needs-equivalent-of-30-reactors-to-meet-data-center-demand</link>
+      <description><![CDATA[彭博 得克萨斯州电力电网的电力可靠性委员会（ERCOT）预测能源需求的增加，需要在2030年到2030年增加30个核电站的电力，这要归功于预期的数据中心将AI供电AI向电网供电的数据中心。 Ercot＆rsquo; ldquo;“我们从来没有在一个真正影响网格的可靠性的地方存在，现在我们正在进入这个世界。
+彭博社（02/28/25） class =“ linksuffix”&gt;  - 可能需要付费订阅]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-02-28/texas-needs-equivalent-of-30-reactors-to-meet-data-center-demand</guid>
+      <pubDate>Wed, 05 Mar 2025 18:13:08 GMT</pubDate>
     </item>
     <item>
-      <title>爱沙尼亚与美国科技集团的高中启动AI</title>
-      <link>https://www.ft.com/content/897c43a1-e366-415e-9472-4607604aa483</link>
-      <description><![CDATA[《金融时报》  爱沙尼亚政府正在与OpenAI和Anthropic合作启动AI LEAP计划，从9月开始为20,000名高中学生提供免费的AI学习工具。明年，该计划将扩展到职业学校，也可能是年轻的学生。爱沙尼亚总统阿拉尔·卡里斯（Alar Karis）表示，AI Leap的目标是培养对学生中对AI的认识和批判性思考，而不是取代教育工作者。
-《金融时报》（02/26/25）约翰·索恩希尔（John Thornhill）；理查德·米尔恩（Richard Milne） ]]></description>
-      <guid>https://www.ft.com/content/897c43a1-e366-415e-9472-4607604aa483</guid>
-      <pubDate>Mon, 03 Mar 2025 18:11:53 GMT</pubDate>
+      <title>智能摄像机在传播之前发现野火</title>
+      <link>https://www.wsj.com/tech/ai/these-ai-cameras-detect-wildfires-before-they-spread-6b6e3229</link>
+      <description><![CDATA[《华尔街日报》  加利福尼亚大学圣地亚哥的Alertcalifornia摄像头网络使用AI机器人作为数字射击现场，在全州范围内易于火灾区域扫描了1,150多个摄像机。由于机器人于2023年部署，因此他们发现了1,200多次确认的大火，并且比911个呼叫者快33％的时间快。当检测到大火并通知当局时，在发现大火时通知人造的指挥中心。  来自“智能摄像机在传播之前斑点野火” 
+《华尔街日报》（03/02/25）订阅]]></description>
+      <guid>https://www.wsj.com/tech/ai/these-ai-cameras-detect-wildfires-before-they-spread-6b6e3229</guid>
+      <pubDate>Wed, 05 Mar 2025 18:13:06 GMT</pubDate>
     </item>
     <item>
-      <title>军事以测试智能纤维计算机服装进行北极操作</title>
-      <link>https://interestingengineering.com/innovation/mit-develops-smart-fiber-computers</link>
-      <description><![CDATA[有趣的工程 是由马萨诸塞州技术研究院研究人员设计的基于先进的纤维计算机可以嵌入纺织织物中，使其能够跟踪健康并实时对潜在的健康风险发出警报。美国陆军和海军服务人员将在即将进行的第一次现实世界测试中使用该技术在即将进行的北极探险中跟踪生理反应。
-有趣的工程（02/26/25）Srishti Gupta  &lt;a href =“ https://interestingengengineering.com/innovation/mit-develops-smart-smart-fiber-fiber-computer]]></description>
-      <guid>https://interestingengineering.com/innovation/mit-develops-smart-fiber-computers</guid>
-      <pubDate>Mon, 03 Mar 2025 18:11:52 GMT</pubDate>
+      <title>使用开源软件的“流”赢得了奥斯卡最佳动画功能</title>
+      <link>https://in.mashable.com/tech/90653/latvias-flow-wins-best-animated-feature-using-open-source-3d-software-blender</link>
+      <description><![CDATA[Mashable India  拉脱维亚电影“ Flow”在2025年的奥斯卡金像奖上获得了奥斯卡最佳动画作品。 “ Flow”讲述了一只猫在船上寻求庇护的故事，并由其他动物陪同，在洪水破坏了家园之后，他们在一起。这部电影是使用Blender制作的，Blender是一款由捐赠支持的免费开源3D计算机图形软件。与Blender合作使导演Gints Zilbalodis与其他艺术家和开发人员合作，尤其是在掌握电影情节至关重要的水上模拟时。
+Mashable India（03/03/25）Priya Singh  &lt;a href =“ https://in.mashable.com/tech/90653/latvias-flow-wins-wins-wins-best-animat-best-animat--animat--feature-feature-feature-usis-usis-source-open-source-source-source-3d-software-blender-3d-software-blender” target =“]]></description>
+      <guid>https://in.mashable.com/tech/90653/latvias-flow-wins-best-animated-feature-using-open-source-3d-software-blender</guid>
+      <pubDate>Wed, 05 Mar 2025 18:13:04 GMT</pubDate>
     </item>
     <item>
-      <title>人形机器人终于获得了真正的工作</title>
-      <link>https://www.wsj.com/tech/ai/humanoid-robot-workers-ai-brain-08027439</link>
-      <description><![CDATA[《华尔街日报》  人类机器人在AI的帮助下被用来执行人类工人通常完成的任务，或者用作其他仓库和工厂中常见的其他较欠佳的自动化机器之间的桥梁。机器人组件的大规模制造和下降成本正在使其更便宜，并且最新的AI技术甚至在几年前都以无法做到的方式使机器人身体动画。现在，全球有十几个初创公司提供这样的人形机器人。
-《华尔街日报》（02/27/25）Christopher Mims  &lt;a href =“ https://www.wsj.com/tech/tech/tech/ai/humanoid-humanoid-thar--workers-workers-workers-workers-workers-workers-brain-08027439]]></description>
-      <guid>https://www.wsj.com/tech/ai/humanoid-robot-workers-ai-brain-08027439</guid>
-      <pubDate>Mon, 03 Mar 2025 18:11:50 GMT</pubDate>
+      <title>五角大楼拒绝报告网络运营与俄罗斯的报告</title>
+      <link>https://www.bloomberg.com/news/articles/2025-03-04/pentagon-denies-report-of-halt-in-cyber-operations-versus-russia</link>
+      <description><![CDATA[彭博 五角大楼否认美国国防部长皮特·赫格斯（Pete Hegseth）下令停止针对俄罗斯的进攻性网络行动，此前网络安全出版物的报告《纪录》 &lt; /em&gt;赫格斯（Hegseth）命令美国网络命令命令美国网络司令部拒绝所有反对俄罗斯的计划。故事之后是《华盛顿邮报》 和《纽约时报》 ，这增加了他们对未透露姓名官员的确认。五角大楼高级官员说，赫格斯既没有取消，也没有延迟针对恶意俄罗斯目标的任何网络行动，也没有降低命令。
+彭博社（03/03/25）Anthony capaccio    - 可能需要付费订阅]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-03-04/pentagon-denies-report-of-halt-in-cyber-operations-versus-russia</guid>
+      <pubDate>Wed, 05 Mar 2025 18:13:02 GMT</pubDate>
     </item>
     <item>
-      <title>CASC谴责科学机构员工的大规模解雇</title>
-      <link>https://casc.org/policy-publications/casc-condemns-mass-firing-of-science-agency-employees-urges-preservation-of-u-s-scientific-leadership/</link>
-      <description><![CDATA[代表105个成员机构的非营利组织，学术科学计算联盟（CASC）的学术科学计算联盟 发表声明，谴责谴责在联邦科学机构中终止数千名员工的声明。该声明部分地读到：“ CASC认为这些急剧变化将限制我们支持创新和发现的能力，并带来深远的后果。”该组织呼吁政策制定者认识到联邦科学家的必不可少的作用，并确保研究机构保持完整的人员和充分的支持。
-Coalition for Academic Sc​​ientific Computation (02/26/25) View Full Article]]></description>
-      <guid>https://casc.org/policy-publications/casc-condemns-mass-firing-of-science-agency-employees-urges-preservation-of-u-s-scientific-leadership/</guid>
-      <pubDate>Mon, 03 Mar 2025 18:11:48 GMT</pubDate>
+      <title>特朗普告诉国会结束筹码法</title>
+      <link>https://www.politico.com/live-updates/2025/03/04/trump-joint-address-to-congress/trump-tells-congress-to-end-chips-act-00212871</link>
+      <description><![CDATA[美国总统唐纳德·特朗普（Donald Trump）在星期二致其致辞中的政治 告诉立法者，请“摆脱”拜登政府签署为法律的《筹码和科学法》。该法案为在美国建立新的半导体制造地点的公司拨出了390亿美元的赠款，其中大多数被许诺在拜登政府结束时签订合同。 。
+Politico (03/04/25) Christine Mui View Full Article]]></description>
+      <guid>https://www.politico.com/live-updates/2025/03/04/trump-joint-address-to-congress/trump-tells-congress-to-end-chips-act-00212871</guid>
+      <pubDate>Wed, 05 Mar 2025 18:13:01 GMT</pubDate>
     </item>
     <item>
-      <title>美国工人持怀疑态度的AI将帮助他们</title>
-      <link>https://www.washingtonpost.com/technology/2025/02/25/ai-work-americans-pew-survey/</link>
-      <description><![CDATA[《华盛顿邮报》  少于三分之一的受访者对皮尤研究中心的调查，约有5300名美国人说，他们对在未来的工作场所中使用AI感到“兴奋”。根据调查，大约有80％的美国人不使用AI，大多数这样做的人都不会对结果印象深刻。除其他发现外，有52％的工人表示，他们“担心”在将来的工作场所中如何使用AI。 来自“美国工人怀疑的AI会帮助他们” 
-《华盛顿邮报》（02/25/25）Shira Ovide； Danielle Abril  查看完整文章查看完整文章]]></description>
-      <guid>https://www.washingtonpost.com/technology/2025/02/25/ai-work-americans-pew-survey/</guid>
-      <pubDate>Mon, 03 Mar 2025 18:11:46 GMT</pubDate>
+      <title>中国在提高技术独立的努力</title>
+      <link>https://www.wsj.com/economy/beijing-ramps-up-efforts-for-tech-independence-735affda</link>
+      <description><![CDATA[《华尔街日报》  中国总理李·齐安（Li Qiang）在周三对该国议员的演讲中说，AI对于加强中国的数字经济至关重要。李承诺，中国将增强对大型AI模型和AI硬件的应用的支持。同一天，中国的顶级经济计划机构表示，该国旨在开发开源AI模型系统，同时继续投资于技术的计算能力和数据。
+《华尔街日报》（03/05/25）Raffaele Huang  &lt;a href =“ https://www.wsonomy/economy/ecomony/beijing-ramps--ramps-up---------------------------------------------------------------------------------------------]]></description>
+      <guid>https://www.wsj.com/economy/beijing-ramps-up-efforts-for-tech-independence-735affda</guid>
+      <pubDate>Wed, 05 Mar 2025 18:12:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>TSMC在美国花费1000亿美元：特朗普</title>
+      <link>https://www.nytimes.com/2025/03/03/technology/tsmc-investment-trump.html</link>
+      <description><![CDATA[《纽约时报》   u.s。唐纳德·特朗普总统周一表示，台湾半导体制造公司（TSMC）将在未来四年内在美国花费1000亿美元，以扩大其生产能力，并将其最先进的半导体流程带入其在亚利桑那州的业务。这项承诺使TSMC＆rsquo在美国计划的总支出达到1650亿美元。半导体是21世纪经济的骨干，实际上没有半导体，没有经济性，特朗普说。
+《纽约时报》（03/04/25）Tripp Mickle  &lt;a href =“ https://wwwww.nytimes.com/2025/03/03/03/03/tsmc-investment-tsmc-investment-troump-troump.html-]]></description>
+      <guid>https://www.nytimes.com/2025/03/03/technology/tsmc-investment-trump.html</guid>
+      <pubDate>Wed, 05 Mar 2025 18:12:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Barto，Sutton获得2024 ACM A.M.图灵奖</title>
+      <link>https://awards.acm.org/about/2024-turing</link>
+      <description><![CDATA[ACM媒体中心  Andrew G. Barto，马萨诸塞大学，阿默斯特大学的信息与计算机科学教授和加拿大艾伯塔省大学计算机科学的计算机科学教授理查德·S·萨顿（Richard S.图灵（Turing）因发展强化学习的概念和算法基础而奖。在从1980年代开始的一系列论文中，两者引入了主要概念，建立了数学基础，并在该领域开发了重要的算法。 ACM总裁Yannis Ioannidis说，他们的工作“为AI的一些最重要进步奠定了基础。”
+ACM媒体中心（03/05/25） 查看全文]]></description>
+      <guid>https://awards.acm.org/about/2024-turing</guid>
+      <pubDate>Wed, 05 Mar 2025 18:12:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
