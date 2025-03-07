@@ -4,7 +4,14 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 07 Mar 2025 12:16:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Mar 2025 15:10:01 GMT</lastBuildDate>
+    <item>
+      <title>AI认为它破裂了。背后的艺术家说没有机会</title>
+      <link>https://www.wired.com/story/plaintext-kryptos-code-artificial-intelligence/</link>
+      <description><![CDATA[吉姆·桑伯恩（Jim Sanborn）的收件箱充满了业余密码学家，他们说他们已经用Grok 3之类的聊天机器人破解了代码。]]></description>
+      <guid>https://www.wired.com/story/plaintext-kryptos-code-artificial-intelligence/</guid>
+      <pubDate>Fri, 07 Mar 2025 15:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>看一个非常硅谷的重生方法</title>
       <link>https://www.wired.com/story/uncanny-valley-podcast-18-babies-repopulation-silicon-valley/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[Doge声称政府机构的软件许可证是员工的三倍。专家说，有很多充分的理由。]]></description>
       <guid>https://www.wired.com/story/doge-software-license-cancel-federal-budget/</guid>
       <pubDate>Fri, 28 Feb 2025 21:47:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google的Taara希望引入一个由Light推动的互联网的新时代</title>
-      <link>https://www.wired.com/story/plaintext-google-taara-chip-internet-by-light/</link>
-      <description><![CDATA[字母“ Moonshot”项目正在推出一个新的芯片，以用光而不是无线电波传递高速互联网。]]></description>
-      <guid>https://www.wired.com/story/plaintext-google-taara-chip-internet-by-light/</guid>
-      <pubDate>Fri, 28 Feb 2025 15:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
