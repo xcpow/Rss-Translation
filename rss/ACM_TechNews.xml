@@ -4,110 +4,110 @@
     <title>ACM技术</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM技术</description>
-    <lastBuildDate>Wed, 05 Mar 2025 18:13:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Mar 2025 18:12:31 GMT</lastBuildDate>
     <item>
-      <title>任何蓝牙设备都可以变成airtag</title>
-      <link>https://cybernews.com/security/hackers-can-track-bluetooth-device-like-airtag/</link>
-      <description><![CDATA[Cyber​​news  乔治·梅森大学的研究人员展示了远程攻击者如何利用苹果中的漏洞找到我的网络，以将任何蓝牙设备转换为类似Airtag的跟踪器。使用“ Nroottag”，攻击者可以创建与蓝牙地址匹配的公共/私钥对，而无需根本特权。只需几美元就可以使用GPU集群开发匹配对的彩虹表。苹果说，它将发布修复漏洞的补丁。
-Cyber​​news（02/28/25）Ernestas Naprys ]]></description>
-      <guid>https://cybernews.com/security/hackers-can-track-bluetooth-device-like-airtag/</guid>
-      <pubDate>Wed, 05 Mar 2025 18:13:17 GMT</pubDate>
+      <title>AI重塑了编码劳动力</title>
+      <link>https://www.wsj.com/articles/how-ai-tools-are-reshaping-the-coding-workforce-6ad24c86</link>
+      <description><![CDATA[《华尔街日报》  增加的AI编码工具的采用正在改变软件开发团队的规模和范围，通常允许完成相同数量或更多工作或更多工作的更精益团队。这些工具可自动化大量代码开发，旨在补充人类编码人员。公司发现，这种工具可以使开发人员在自动化的样板编码时专注于复杂的问题解决。
+《华尔街日报》（03/04/25）isabelle bousquette  ]]></description>
+      <guid>https://www.wsj.com/articles/how-ai-tools-are-reshaping-the-coding-workforce-6ad24c86</guid>
+      <pubDate>Fri, 07 Mar 2025 18:12:31 GMT</pubDate>
     </item>
     <item>
-      <title>MTA使用Google像素来识别地铁轨道缺陷</title>
-      <link>https://www.engadget.com/ai/mta-strapped-google-pixels-to-subway-cars-to-spot-track-defects-133046252.html</link>
-      <description><![CDATA[Engadget  纽约市的大都会运输管理局部署了Google的TrackInspect AI工具，以识别地铁轨道上的缺陷。从去年9月到1月，四辆地铁汽车配备了Google Pixel手机，该手机使用其加速度计，磁力计和麦克风发现了有问题的噪音和其他问题。机器学习算法用于分析数据并产生预测性见解。 TrackInspect位于检查员确定的缺陷中的92％。
-Engadget（02/28/25）Sarah Fielding  &lt;a href =“ https://www.engadget.com/ai/mta-strapped-google-plapped-google-pixels-pixels-pixels-to-subway-cars-subway-cars-cars-cars-cars-cars-spot-spot-track-track-defects-133046252.html target =”]]></description>
-      <guid>https://www.engadget.com/ai/mta-strapped-google-pixels-to-subway-cars-to-spot-track-defects-133046252.html</guid>
-      <pubDate>Wed, 05 Mar 2025 18:13:15 GMT</pubDate>
+      <title>芯片使用光束提供高速互联网</title>
+      <link>https://www.engadget.com/big-tech/alphabets-taara-chip-uses-light-beams-to-provide-high-speed-internet-140040922.html</link>
+      <description><![CDATA[Engadget  字母单元Taara宣布了新的芯片技术，该技术使用光线通过空中传输高速数据。芯片的最新迭代是指甲的大小，并使用软件指导光线所需的光线。该芯片也名为Taara，最初是为字母卫星工厂X＆rsquo的Project loon互联网广播气球开发的。
+Engadget (03/01/25) Mariella Moon View Full Article]]></description>
+      <guid>https://www.engadget.com/big-tech/alphabets-taara-chip-uses-light-beams-to-provide-high-speed-internet-140040922.html</guid>
+      <pubDate>Fri, 07 Mar 2025 18:12:30 GMT</pubDate>
     </item>
     <item>
-      <title>Apple Watch有助于NHL裁判</title>
-      <link>https://www.espn.com/nhl/story/_/id/44051056/new-apple-watch-technology-assists-nhl-referees</link>
-      <description><![CDATA[ESPN  国家曲棍球联盟（NHL）裁判可以通过Apple Watch应用程序获得实时的，游戏中的情境通知，该应用程序从NHL的Oasis Feed中提取25个数据点。 NHL Watch Comms应用程序显示游戏时钟和罚球框中的玩家数字。它还在强力游戏结束时也会发送触觉通知，并且当游戏时钟在一个时期结束时滴答滴答作用时，每个都有不同的振动。
-ESPN（02/28/25）Greg Wyshynski  &lt;a href =“ https://www.espn.com/nhl/story/story/_/story/_/_/44051056/new-apple-apple-watch-watch-watch-technologic-technologic-technologic-technologic-technologic-technologic-nhl-referees-nhl-refererees-]]></description>
-      <guid>https://www.espn.com/nhl/story/_/id/44051056/new-apple-watch-technology-assists-nhl-referees</guid>
-      <pubDate>Wed, 05 Mar 2025 18:13:13 GMT</pubDate>
+      <title>亚马逊失去了豁免数据中心不受能源法规的斗争</title>
+      <link>https://www.washingtonpost.com/technology/2025/03/01/amazon-data-center-minnesota-diesel-generators/</link>
+      <description><![CDATA[《华盛顿邮报》  亚马逊在避免对明尼苏达州拟议的数据中心的监管方面的努力不成功。这家在线零售巨头试图避免在贝克尔小城市提议的数据中心的250个柴油备用发电机的许可过程中，认为由于它不是效用，并且发电机将不连接到网格，因此该项目应免除所需的其他本地监督。明尼苏达州公用事业委员会一致投票反对亚马逊的请愿书。
+《华盛顿邮报》（03/01/25）Caroline O&#39;Donovan  ]]></description>
+      <guid>https://www.washingtonpost.com/technology/2025/03/01/amazon-data-center-minnesota-diesel-generators/</guid>
+      <pubDate>Fri, 07 Mar 2025 18:12:29 GMT</pubDate>
     </item>
     <item>
-      <title>美国科学家重建从政府网站删除的气候风险图</title>
-      <link>https://www.newscientist.com/article/2470279-us-scientists-rebuild-climate-risk-map-deleted-from-government-site/</link>
-      <description><![CDATA[新科学家 软件工程师杰里米·赫尔佐格（Jeremy Herzog）和拉扬·德赛（Rajan Desai）已重新发布了一张互动地图，详细介绍了气候变化对飓风，洪水，野火，野火和美国其他危害的风险的影响，这些危害已从美国联邦紧急管理机构的网站上删除。赫尔佐格（Herzog）和德赛（Desai）在将地图相关的数据被删除之前删除了该网站的屏幕截图。该地图从头开始重建，重新出现在GitHub托管的网页上，功能提高。
-新科学家（02/28/25）订阅]]></description>
-      <guid>https://www.newscientist.com/article/2470279-us-scientists-rebuild-climate-risk-map-deleted-from-government-site/</guid>
-      <pubDate>Wed, 05 Mar 2025 18:13:11 GMT</pubDate>
+      <title>芬兰推出了欧洲的第一台Qubit量子计算机</title>
+      <link>https://www.helsinkitimes.fi/themes/themes/science-and-technology/26235-finland-launches-europe-s-first-50-qubit-quantum-computer.html</link>
+      <description><![CDATA[赫尔辛基时报（芬兰） 芬兰的VTT技术研究中心和IQM量子计算机已在欧洲构建了第一台50秒的超导量子计算机。研究人员和企业可以通过VTT QX量子计算服务访问系统。该系统采用新的芯片技术来提高值稳定性并最大程度地减少噪声，是为研究应用而设计的，包括材料建模，优化，AI和量子模拟。
+赫尔辛基时报（芬兰）（03/04/25） 文章]]></description>
+      <guid>https://www.helsinkitimes.fi/themes/themes/science-and-technology/26235-finland-launches-europe-s-first-50-qubit-quantum-computer.html</guid>
+      <pubDate>Fri, 07 Mar 2025 18:12:28 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能机器人帮助护士日本的人口老龄化</title>
-      <link>https://www.reuters.com/technology/artificial-intelligence/ai-robots-may-hold-key-nursing-japans-ageing-population-2025-02-28/</link>
-      <description><![CDATA[路透社 日本正在转向机器人和其他技术，以帮助照顾其老龄化人口。例如，一个名为AIREC的AI驱动的人形机器人最近被证明，该机器人在床上的一个男人身边轻轻地帮助了他的身边。  瓦萨德大学（Waseda University）负责Airec机器人项目的Shigeki Sugano说：“鉴于我们高度高级的衰老社会和出生的下降，我们将需要机器人对医疗和老年护理以及我们日常生活的支持。
-路透社（02/28/25）kiyoshi takaka  &lt;a href =“ https://wwwww.reuters.com/technology/technology/technology/artager-ratever-robots/ai-robots-mobots-may-hold-key-nursing-nursing-nursing-japans-japans-gopans-ageing-population-population-population-population-population-population-population-population-population-population-population-populati 时候，]]></description>
-      <guid>https://www.reuters.com/technology/artificial-intelligence/ai-robots-may-hold-key-nursing-japans-ageing-population-2025-02-28/</guid>
-      <pubDate>Wed, 05 Mar 2025 18:13:10 GMT</pubDate>
+      <title>苹果在英国数据隐私行采取法律行动</title>
+      <link>https://www.bbc.com/news/articles/c8rkpv50x01o</link>
+      <description><![CDATA[英国广播公司新闻 苹果公司试图推翻英国政府在要求时提供其私人数据的需求。这家科技巨头呼吁调查权法庭，该法庭有权调查针对安全局的主张。一月份，内政部向苹果公司发出了秘密命令，以与英国执法部门共享属于全球苹果用户的加密数据。
+BBC新闻（03/04/25）Zoe Kleinman  查看完整文章]]></description>
+      <guid>https://www.bbc.com/news/articles/c8rkpv50x01o</guid>
+      <pubDate>Fri, 07 Mar 2025 18:12:26 GMT</pubDate>
     </item>
     <item>
-      <title>德克萨斯州需要30个反应堆以满足数据中心电源需求</title>
-      <link>https://www.bloomberg.com/news/articles/2025-02-28/texas-needs-equivalent-of-30-reactors-to-meet-data-center-demand</link>
-      <description><![CDATA[彭博 得克萨斯州电力电网的电力可靠性委员会（ERCOT）预测能源需求的增加，需要在2030年到2030年增加30个核电站的电力，这要归功于预期的数据中心将AI供电AI向电网供电的数据中心。 Ercot＆rsquo; ldquo;“我们从来没有在一个真正影响网格的可靠性的地方存在，现在我们正在进入这个世界。
-彭博社（02/28/25） class =“ linksuffix”&gt;  - 可能需要付费订阅]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-02-28/texas-needs-equivalent-of-30-reactors-to-meet-data-center-demand</guid>
-      <pubDate>Wed, 05 Mar 2025 18:13:08 GMT</pubDate>
+      <title>墨尔本初创公司启动由人脑细胞制成的“生物计算机”</title>
+      <link>https://www.abc.net.au/news/science/2025-03-05/cortical-labs-neuron-brain-chip/104996484</link>
+      <description><![CDATA[ABC新闻（澳大利亚） 澳大利亚初创企业皮质实验室已推出了一款生物计算机，其中包含一个小硅芯片，其中包含数十万实验室成长的人类神经元。 CL1系统中仅使用几瓦功率的神经元是由使用志愿者血液样本产生的诱导的茎细胞生长的。神经元从芯片提供的随机或图案信息中学习。
+ABC新闻（澳大利亚）（03/04/25）]]></description>
+      <guid>https://www.abc.net.au/news/science/2025-03-05/cortical-labs-neuron-brain-chip/104996484</guid>
+      <pubDate>Fri, 07 Mar 2025 18:12:25 GMT</pubDate>
     </item>
     <item>
-      <title>智能摄像机在传播之前发现野火</title>
-      <link>https://www.wsj.com/tech/ai/these-ai-cameras-detect-wildfires-before-they-spread-6b6e3229</link>
-      <description><![CDATA[《华尔街日报》  加利福尼亚大学圣地亚哥的Alertcalifornia摄像头网络使用AI机器人作为数字射击现场，在全州范围内易于火灾区域扫描了1,150多个摄像机。由于机器人于2023年部署，因此他们发现了1,200多次确认的大火，并且比911个呼叫者快33％的时间快。当检测到大火并通知当局时，在发现大火时通知人造的指挥中心。  来自“智能摄像机在传播之前斑点野火” 
-《华尔街日报》（03/02/25）订阅]]></description>
-      <guid>https://www.wsj.com/tech/ai/these-ai-cameras-detect-wildfires-before-they-spread-6b6e3229</guid>
-      <pubDate>Wed, 05 Mar 2025 18:13:06 GMT</pubDate>
+      <title>AI在迪拜沙漠下发现了5000年历史的文明</title>
+      <link>https://www.jpost.com/archaeology/archaeology-around-the-world/article-844445</link>
+      <description><![CDATA[耶路撒冷邮报 研究人员在AI和Synthetic Aperture Radar（SAR）技术的帮助下，在迪拜的Rub&#39;Al Khali沙漠中找到了5000年历史的城市和道路。一位研究人员说：“考古学中[AI]的应用就像有时间机器一样，现在我们可以从全新的角度看历史。”  “ AI的“ AI”在迪拜沙漠下找到了5,000年历史的文明” 
+耶路撒冷邮报（03/03/25） &lt;a href =“ https://www.jpost.com/archaeology/archaeology/arakaeology-around-the-world/article-844444-]]></description>
+      <guid>https://www.jpost.com/archaeology/archaeology-around-the-world/article-844445</guid>
+      <pubDate>Fri, 07 Mar 2025 18:12:23 GMT</pubDate>
     </item>
     <item>
-      <title>使用开源软件的“流”赢得了奥斯卡最佳动画功能</title>
-      <link>https://in.mashable.com/tech/90653/latvias-flow-wins-best-animated-feature-using-open-source-3d-software-blender</link>
-      <description><![CDATA[Mashable India  拉脱维亚电影“ Flow”在2025年的奥斯卡金像奖上获得了奥斯卡最佳动画作品。 “ Flow”讲述了一只猫在船上寻求庇护的故事，并由其他动物陪同，在洪水破坏了家园之后，他们在一起。这部电影是使用Blender制作的，Blender是一款由捐赠支持的免费开源3D计算机图形软件。与Blender合作使导演Gints Zilbalodis与其他艺术家和开发人员合作，尤其是在掌握电影情节至关重要的水上模拟时。
-Mashable India（03/03/25）Priya Singh  &lt;a href =“ https://in.mashable.com/tech/90653/latvias-flow-wins-wins-wins-best-animat-best-animat--animat--feature-feature-feature-usis-usis-source-open-source-source-source-3d-software-blender-3d-software-blender” target =“]]></description>
-      <guid>https://in.mashable.com/tech/90653/latvias-flow-wins-best-animated-feature-using-open-source-3d-software-blender</guid>
-      <pubDate>Wed, 05 Mar 2025 18:13:04 GMT</pubDate>
+      <title>NASA首次在月球上使用GPS</title>
+      <link>https://www.popsci.com/science/blue-ghost-gps-moon/</link>
+      <description><![CDATA[根据美国国家航空航天局（NASA）的数据，流行科学 萤火虫航空航天的蓝色幽灵是第一个成功降落在月球表面上的商业月球着陆器。蓝色幽灵上的月球全球导航卫星系统（GNSS）接收器实验（Lugre）涉及将数据从GNSS传输到月球表面，从而可以自主测量时间，速度和位置。
+流行科学（03/04/25）Andrew Paul  查看完整文章]]></description>
+      <guid>https://www.popsci.com/science/blue-ghost-gps-moon/</guid>
+      <pubDate>Fri, 07 Mar 2025 18:12:22 GMT</pubDate>
     </item>
     <item>
-      <title>五角大楼拒绝报告网络运营与俄罗斯的报告</title>
-      <link>https://www.bloomberg.com/news/articles/2025-03-04/pentagon-denies-report-of-halt-in-cyber-operations-versus-russia</link>
-      <description><![CDATA[彭博 五角大楼否认美国国防部长皮特·赫格斯（Pete Hegseth）下令停止针对俄罗斯的进攻性网络行动，此前网络安全出版物的报告《纪录》 &lt; /em&gt;赫格斯（Hegseth）命令美国网络命令命令美国网络司令部拒绝所有反对俄罗斯的计划。故事之后是《华盛顿邮报》 和《纽约时报》 ，这增加了他们对未透露姓名官员的确认。五角大楼高级官员说，赫格斯既没有取消，也没有延迟针对恶意俄罗斯目标的任何网络行动，也没有降低命令。
-彭博社（03/03/25）Anthony capaccio    - 可能需要付费订阅]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-03-04/pentagon-denies-report-of-halt-in-cyber-operations-versus-russia</guid>
-      <pubDate>Wed, 05 Mar 2025 18:13:02 GMT</pubDate>
+      <title>美国筹码法案办公室失去了五分之二的员工</title>
+      <link>https://www.bloomberg.com/news/articles/2025-03-03/us-chips-act-office-is-losing-two-fifths-of-staff-to-trump-purge</link>
+      <description><![CDATA[内部人士称，彭博 美国政府办公室负责执行《筹码和科学法》，将损失约五分之二，这是特朗普政府裁员削减联邦劳动力的一部分。内部人士说，大约有20名员工接受了自愿递延辞职，而另外40名被认为是试用期的雇员将在周一终止。上一届政府在负责R＆amp; D资金的工作人员之外，建立了约140人，负责监督Chips Act制造支出。
+彭博社（03/03/25）Mackenzie Hawkins    - 可能需要付费订阅]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-03-03/us-chips-act-office-is-losing-two-fifths-of-staff-to-trump-purge</guid>
+      <pubDate>Fri, 07 Mar 2025 18:12:20 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普告诉国会结束筹码法</title>
-      <link>https://www.politico.com/live-updates/2025/03/04/trump-joint-address-to-congress/trump-tells-congress-to-end-chips-act-00212871</link>
-      <description><![CDATA[美国总统唐纳德·特朗普（Donald Trump）在星期二致其致辞中的政治 告诉立法者，请“摆脱”拜登政府签署为法律的《筹码和科学法》。该法案为在美国建立新的半导体制造地点的公司拨出了390亿美元的赠款，其中大多数被许诺在拜登政府结束时签订合同。 。
-Politico (03/04/25) Christine Mui View Full Article]]></description>
-      <guid>https://www.politico.com/live-updates/2025/03/04/trump-joint-address-to-congress/trump-tells-congress-to-end-chips-act-00212871</guid>
-      <pubDate>Wed, 05 Mar 2025 18:13:01 GMT</pubDate>
+      <title>美国向中国黑客收取广泛网络犯罪运动的政府官员</title>
+      <link>https://apnews.com/article/justice-department-china-fbi-hacking-0bd01004160d63904374bb25cf3eae6c</link>
+      <description><![CDATA[美联社 美国司法部与全球网络犯罪竞选活动有关12名中国国民。在一项起诉书中，据称私人黑客公司I-Soon的八名领导人和雇员被指控针对以美国的中国持不同政见者，宗教组织，媒体，一所研究大学和国防情报局的计算机违规行为。在另一项起诉书中，两名中国黑客被指控针对针对美国技术公司，智囊团，国防承包商和医疗保健系统的一项旨在的营利性黑客运动。
+美联社（03/06/25）埃里克·塔克（Eric Tucker）； dake kang  &lt;a href =“ https://apnews.com/article/justice-department-china-fbi-hacking-0bd01004160d63904374bb25cf25cf3eaee6 eae6 eae6c” targe]]></description>
+      <guid>https://apnews.com/article/justice-department-china-fbi-hacking-0bd01004160d63904374bb25cf3eae6c</guid>
+      <pubDate>Fri, 07 Mar 2025 18:12:19 GMT</pubDate>
     </item>
     <item>
-      <title>中国在提高技术独立的努力</title>
-      <link>https://www.wsj.com/economy/beijing-ramps-up-efforts-for-tech-independence-735affda</link>
-      <description><![CDATA[《华尔街日报》  中国总理李·齐安（Li Qiang）在周三对该国议员的演讲中说，AI对于加强中国的数字经济至关重要。李承诺，中国将增强对大型AI模型和AI硬件的应用的支持。同一天，中国的顶级经济计划机构表示，该国旨在开发开源AI模型系统，同时继续投资于技术的计算能力和数据。
-《华尔街日报》（03/05/25）Raffaele Huang  &lt;a href =“ https://www.wsonomy/economy/ecomony/beijing-ramps--ramps-up---------------------------------------------------------------------------------------------]]></description>
-      <guid>https://www.wsj.com/economy/beijing-ramps-up-efforts-for-tech-independence-735affda</guid>
-      <pubDate>Wed, 05 Mar 2025 18:12:59 GMT</pubDate>
+      <title>无人机改变了乌克兰的战争</title>
+      <link>https://www.nytimes.com/interactive/2025/03/03/world/europe/ukraine-russia-war-drones-deaths.html</link>
+      <description><![CDATA[纽约时报 由于使用武器的无人机，乌克兰的战争在第三年的战争比头两年总计要比头两年。根据乌克兰议会国防与情报委员会主席罗马·科斯滕科（Roman Kostenko）的说法，俄罗斯和乌克兰伤亡人数中约有70％归因于无人机。乌克兰和俄罗斯官员都估计，今年每个国家将制造300万至400万次无人机。乌克兰上校Vadym Sukharevsky说，该国采用了“机器人第一”军事战略。 来自“无人机改变乌克兰战争” 
+《纽约时报》（03/03/25）马克·桑托拉（Marc Santora）；劳拉·杰克斯（Lara Jakes）；安德鲁·克莱默（Andrew E. Kramer）； et al。]]></description>
+      <guid>https://www.nytimes.com/interactive/2025/03/03/world/europe/ukraine-russia-war-drones-deaths.html</guid>
+      <pubDate>Fri, 07 Mar 2025 18:12:18 GMT</pubDate>
     </item>
     <item>
-      <title>TSMC在美国花费1000亿美元：特朗普</title>
-      <link>https://www.nytimes.com/2025/03/03/technology/tsmc-investment-trump.html</link>
-      <description><![CDATA[《纽约时报》   u.s。唐纳德·特朗普总统周一表示，台湾半导体制造公司（TSMC）将在未来四年内在美国花费1000亿美元，以扩大其生产能力，并将其最先进的半导体流程带入其在亚利桑那州的业务。这项承诺使TSMC＆rsquo在美国计划的总支出达到1650亿美元。半导体是21世纪经济的骨干，实际上没有半导体，没有经济性，特朗普说。
-《纽约时报》（03/04/25）Tripp Mickle  &lt;a href =“ https://wwwww.nytimes.com/2025/03/03/03/03/tsmc-investment-tsmc-investment-troump-troump.html-]]></description>
-      <guid>https://www.nytimes.com/2025/03/03/technology/tsmc-investment-trump.html</guid>
-      <pubDate>Wed, 05 Mar 2025 18:12:57 GMT</pubDate>
+      <title>贸易大修“全部互联网”计划</title>
+      <link>https://www.wsj.com/politics/policy/commerce-to-overhaul-internet-for-all-plan-expanding-starlink-funding-prospects-74664efc</link>
+      <description><![CDATA[《华尔街日报》  美国商务部可以改造拜登时代的宽带权益，访问和部署计划，该计划旨在在全国范围内增加互联网访问。消息人士称，商务部长霍华德·卢特尼克（Howard Lutnick）希望赠款计划成为“技术中立”，允许各州为卫星互联网提供商提供更多资金，而不是主要关注光纤服务。这将使埃隆·马斯克（Elon Musk）的星条链接更容易获得农村宽带资金。
+《华尔街日报》（03/04/25） class =“ linksuffix”&gt;  - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/politics/policy/commerce-to-overhaul-internet-for-all-plan-expanding-starlink-funding-prospects-74664efc</guid>
+      <pubDate>Fri, 07 Mar 2025 18:12:17 GMT</pubDate>
     </item>
     <item>
-      <title>Barto，Sutton获得2024 ACM A.M.图灵奖</title>
-      <link>https://awards.acm.org/about/2024-turing</link>
-      <description><![CDATA[ACM媒体中心  Andrew G. Barto，马萨诸塞大学，阿默斯特大学的信息与计算机科学教授和加拿大艾伯塔省大学计算机科学的计算机科学教授理查德·S·萨顿（Richard S.图灵（Turing）因发展强化学习的概念和算法基础而奖。在从1980年代开始的一系列论文中，两者引入了主要概念，建立了数学基础，并在该领域开发了重要的算法。 ACM总裁Yannis Ioannidis说，他们的工作“为AI的一些最重要进步奠定了基础。”
-ACM媒体中心（03/05/25） 查看全文]]></description>
-      <guid>https://awards.acm.org/about/2024-turing</guid>
-      <pubDate>Wed, 05 Mar 2025 18:12:55 GMT</pubDate>
+      <title>美国政府在没有警告的情况下削减关键软件部门</title>
+      <link>https://www.techradar.com/pro/us-government-cuts-key-software-division-without-warning</link>
+      <description><![CDATA[techradar   实际上已经消除了美国通用服务管理局第18F单元的预算。该部门开发了登录名和其他面向公共的IT服务，其任务是帮助政府机构获取和建立技术，增强用户体验并确保可以访问服务。停止该单位的工作影响了约70名软件工程师和战略家，以及研究人员，服务设计师和采购专家。
+techradar（03/03/25）]]></description>
+      <guid>https://www.techradar.com/pro/us-government-cuts-key-software-division-without-warning</guid>
+      <pubDate>Fri, 07 Mar 2025 18:12:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
