@@ -4,7 +4,14 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Sat, 08 Mar 2025 09:08:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 12:12:12 GMT</lastBuildDate>
+    <item>
+      <title>是什么驱动特斯拉的困境？</title>
+      <link>https://www.wired.com/story/whats-driving-teslas-woes/</link>
+      <description><![CDATA[当特斯拉面临全球销售低迷时，并且连续第七周的股票下跌了，埃隆·马斯克（Elon Musk）的滑稽动作真的可以归咎于吗？]]></description>
+      <guid>https://www.wired.com/story/whats-driving-teslas-woes/</guid>
+      <pubDate>Sat, 08 Mar 2025 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>司法部仍然希望Google出售Chrome</title>
       <link>https://www.wired.com/story/the-doj-still-wants-google-to-divest-chrome/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[当美国总统唐纳德·特朗普（Donald Trump）挑选了一些加密货币以将其纳入国家战略储备中时，他引发了交易狂潮，并提出了关于谁受益的问题。]]></description>
       <guid>https://www.wired.com/story/trump-crypto-reserve-new-coins/</guid>
       <pubDate>Tue, 04 Mar 2025 17:26:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普的FDA削减使毒品开发处于危险之中</title>
-      <link>https://www.wired.com/story/trump-fda-cuts-drug-development-delays/</link>
-      <description><![CDATA[制药公司的新SEC文件显示，唐纳德·特朗普（Donald Trump）和埃隆·马斯克（Elon Musk）的削减成本措施可能会减慢药物研究并延迟FDA的批准。]]></description>
-      <guid>https://www.wired.com/story/trump-fda-cuts-drug-development-delays/</guid>
-      <pubDate>Mon, 03 Mar 2025 22:44:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
