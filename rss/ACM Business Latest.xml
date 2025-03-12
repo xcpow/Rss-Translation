@@ -4,7 +4,14 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Wed, 12 Mar 2025 15:10:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 18:13:16 GMT</lastBuildDate>
+    <item>
+      <title>Google的双子座机器人AI模型进入了物理世界</title>
+      <link>https://www.wired.com/story/googles-gemini-robotics-ai-model-that-reaches-into-the-physical-world/</link>
+      <description><![CDATA[Google开发了一种AI模型，该模型可为人形生物和其他机器人提供更多的智能，并旨在为他们提供道德指南针。]]></description>
+      <guid>https://www.wired.com/story/googles-gemini-robotics-ai-model-that-reaches-into-the-physical-world/</guid>
+      <pubDate>Wed, 12 Mar 2025 15:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>中国公司急于将所有内容放在所有方面</title>
       <link>https://www.wired.com/story/deepseek-china-nationalism/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[专家说，对墨西哥和加拿大的关税征收代表了违反USMCA的行为，并可能引发关税战争。]]></description>
       <guid>https://www.wired.com/story/how-trumps-tariffs-will-disrupt-key-industries-in-mexico/</guid>
       <pubDate>Tue, 04 Mar 2025 23:11:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>尽管TSMC交易1000亿美元，但特朗普仍在考虑台湾筹码的关税</title>
-      <link>https://www.wired.com/story/tsmc-tariffs-trump-impacts/</link>
-      <description><![CDATA[专家告诉《连线》，台湾上的关税将很困难，而且它们不一定足以有意义地增加美国的半导体制造业。]]></description>
-      <guid>https://www.wired.com/story/tsmc-tariffs-trump-impacts/</guid>
-      <pubDate>Tue, 04 Mar 2025 20:27:09 GMT</pubDate>
     </item>
     </channel>
 </rss>

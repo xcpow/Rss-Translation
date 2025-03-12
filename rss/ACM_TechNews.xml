@@ -4,102 +4,110 @@
     <title>ACM技术</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM技术</description>
-    <lastBuildDate>Mon, 10 Mar 2025 18:11:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 18:13:12 GMT</lastBuildDate>
     <item>
-      <title>英国告诉社交媒体网站以揭示停止非法内容的计划</title>
-      <link>https://www.independent.co.uk/tech/ofcom-b2707983.html</link>
-      <description><![CDATA[独立（英国） 英国通信办公室（OFCOM）启动了一项执法计划，以评估技术公司是否符合《在线安全法》。在线监管机构Ofcom表示，直到3月31日，平台必须报告他们的第一次风险评估，并提出用户在服务上遇到非法内容的可能性。 《在线安全法》要求社交媒体平台遵循各种主题的新实践守则。
-独立（英国）（03/03/25）martyn landi  查看完整文章]]></description>
-      <guid>https://www.independent.co.uk/tech/ofcom-b2707983.html</guid>
-      <pubDate>Mon, 10 Mar 2025 18:11:25 GMT</pubDate>
+      <title>研究人员释放套件以利用Zen芯片中的脆弱性</title>
+      <link>https://www.tomshardware.com/pc-components/cpus/you-can-now-jailbreak-your-amd-cpu-google-researchers-release-kit-to-exploit-microcode-vulnerability-in-zen-1-to-zen-4-chips</link>
+      <description><![CDATA[汤姆（Tom）的硬件  Google的研究人员发现并发布了利用的详细信息，这些详细信息本质上允许任何人越狱自己的AMD CPU。所谓的输入标记漏洞使用户使用ZEN 1到ZEN 4架构将自定义的Microcode发送到任何AMD CPU，以更改处理器的运行方式，这将使他们能够访问内部CPU缓冲区并加强或削弱虚拟机（VM）安全性（VM）安全性。
+汤姆的硬件（03/07/25）达林·格林（Dallin Grimm） View Full Article]]></description>
+      <guid>https://www.tomshardware.com/pc-components/cpus/you-can-now-jailbreak-your-amd-cpu-google-researchers-release-kit-to-exploit-microcode-vulnerability-in-zen-1-to-zen-4-chips</guid>
+      <pubDate>Wed, 12 Mar 2025 18:13:11 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能寻找我们体内数万亿个病毒</title>
-      <link>https://www.nytimes.com/2025/02/19/health/human-virome-program.html</link>
-      <description><![CDATA[纽约时报  五所大学正在参加人类病毒蛋白计划，旨在确定更多生活在人体中的几万亿个病毒。该项目已获得1.71亿美元的联邦资金，将使用AI系统来分析成千上万志愿者的唾液，凳子，血液，牛奶和其他样本。研究人员希望该计划将提供有关病毒素如何影响健康的见解。
-《纽约时报》（03/04/25）Carl Zimmer  &lt;a href =“ https://wwwww.nytimes.com/2025/02/02/02/19/health/health/human-virome-program.htmlogam.html]]></description>
-      <guid>https://www.nytimes.com/2025/02/19/health/human-virome-program.html</guid>
-      <pubDate>Mon, 10 Mar 2025 18:11:24 GMT</pubDate>
+      <title>低功耗脑芯片预测用户的意图</title>
+      <link>https://spectrum.ieee.org/brain-computer-interface-2671224658</link>
+      <description><![CDATA[IEEE Spectrum  由圣地亚哥州立大学研究人员开发的心脏内脑计算机界面（IBCI）消除了用户手动打开脑芯片的需求。植入后，IBCI监测局部场电位（LFP）或一系列神经元的一般活性，当达到神经活动的某些阈值时会激活。测试表明，LFP方法消耗的能量要少得多，同时与监测单个神经元的常规脑芯片相当。
+IEEE Spectrum（03/06/25）Michelle Hampson  查看完整文章]]></description>
+      <guid>https://spectrum.ieee.org/brain-computer-interface-2671224658</guid>
+      <pubDate>Wed, 12 Mar 2025 18:13:10 GMT</pubDate>
     </item>
     <item>
-      <title>马来西亚在筹码上赌25亿美元的ARM交易</title>
-      <link>https://asia.nikkei.com/Business/Technology/Malaysia-bets-big-on-chips-with-250m-Arm-deal</link>
-      <description><![CDATA[Nikkei Asia  与马来西亚政府合作，软银的手臂持有人士将在该国为东盟和大洋洲创造一个运营基地。马来西亚政府的2.5亿美元，10年的投资将使当地的筹码开发商访问ARM Neoverse Compesute子系统（CSS）和ARM灵活访问（AFA）计划。将授予本地半导体公司七个CSS许可证，25家本地初创公司和Midtier公司将通过AFA计划获得ARM的IP库。
-Nikkei Asia（03/05/25）Norman Goh  &lt;a href =“ https://asia.nikkei.com/business/busines/busins/technology/technology/malaysia/malaysia-bets-bets-big-on-chips-big-on-chips-big-on-chips-with-with-with-with-with-250m-arm-arm-arm-arm-arm-deal--arm-arm-deal” target =“ _ _ smblister =”]]></description>
-      <guid>https://asia.nikkei.com/Business/Technology/Malaysia-bets-big-on-chips-with-250m-Arm-deal</guid>
-      <pubDate>Mon, 10 Mar 2025 18:11:22 GMT</pubDate>
+      <title>猫网机器人在日本餐馆等待桌子</title>
+      <link>https://www.bloomberg.com/news/features/2025-03-06/thousands-of-cat-eared-robots-are-waiting-tables-in-japan</link>
+      <description><![CDATA[彭博 日本的服务部门业务越来越依靠机器人与老年人或外国工人一起工作，扮演更多的身体角色或在该国面临严重劳动力短缺的时候导致语言障碍。日本最大的餐桌餐厅连锁店Skylark Holdings Co.部署了约3,000个以猫为主题的机器人，向其餐厅的客户提供订单。
+彭博（03/06/25）Erica Yokoyama; MOMOKA YOKOYAMA  &lt;A HREF =“ https://www.bloomberg.com/news/news/features/2025-03-03-06/th千千分之一/]]></description>
+      <guid>https://www.bloomberg.com/news/features/2025-03-06/thousands-of-cat-eared-robots-are-waiting-tables-in-japan</guid>
+      <pubDate>Wed, 12 Mar 2025 18:13:10 GMT</pubDate>
     </item>
     <item>
-      <title>麦当劳给了餐厅的AI改头换面</title>
-      <link>https://www.wsj.com/articles/mcdonalds-gives-its-restaurants-an-ai-makeover-2134f01e</link>
-      <description><![CDATA[《华尔街日报》  麦当劳正在向其餐厅推出边缘计算，使他们能够在现场处理和分析数据，以改善客户和员工的体验。 AI将用于分析来自Internet连接的厨房设备的数据以预测维护问题，而店内安装的相机将使用计算机视觉来确保订单准确性。此外，语音AI将在驱动器中使用，生成的AI虚拟经理将处理班次调度和其他管理任务。   “麦当劳为餐厅提供了AI改头换面” 
-《华尔街日报》（03/05/25）Isabelle Bousquette； belle lin  查看完整文章]]></description>
-      <guid>https://www.wsj.com/articles/mcdonalds-gives-its-restaurants-an-ai-makeover-2134f01e</guid>
-      <pubDate>Mon, 10 Mar 2025 18:11:21 GMT</pubDate>
+      <title>欧洲在RISC-V上押注超级计算主权</title>
+      <link>https://www.theregister.com/2025/03/07/dare_europe_risc_v_project/</link>
+      <description><![CDATA[寄存器（英国）  超过三十多名科技玩家在欧洲（DARE）与RISC-V共同创立了数字自主权，该小组的目标是在三年内开发三个RISC-V chiplets，以推动欧洲的超级计算机和其他高性能计算机。该倡议以2.4亿欧元的资金支持，由巴塞罗那超级计算中心协调，并得到了欧洲PC联合承诺的支持。
+寄存器（英国）（03/07/25）Tobias Mann ]]></description>
+      <guid>https://www.theregister.com/2025/03/07/dare_europe_risc_v_project/</guid>
+      <pubDate>Wed, 12 Mar 2025 18:13:09 GMT</pubDate>
     </item>
     <item>
-      <title>Uber，Waymo在奥斯丁无人驾驶的合作伙伴</title>
-      <link>https://apnews.com/article/uber-waymo-robotaxis-austin-texas-988aba46988e649be8cf59979587a8e5</link>
-      <description><![CDATA[美联社 通过与Alphabet Unit Waymo的合作伙伴关系，Uber为用户提供了在德克萨斯州奥斯汀召唤自动驾驶出租车的选项，尽管其乘车应用程序。该伙伴关系始于奥斯汀，预计将于今年晚些时候扩展到亚特兰大。 Uber竞争对手Lyft还计划在年底之前在亚特兰大推出自动驾驶出租车。
-美联社（03/04/25）Michael LiEDTKE  &lt;a href =“ https://apnews.com/article/uber-waymo-robobotaxis-obotaxis-austin-eaustin-texas-98888.6988e6498e649be8649be8cf59999999799799799799799799799799797a8ee target =”]]></description>
-      <guid>https://apnews.com/article/uber-waymo-robotaxis-austin-texas-988aba46988e649be8cf59979587a8e5</guid>
-      <pubDate>Mon, 10 Mar 2025 18:11:19 GMT</pubDate>
+      <title>历史上最大的加密抢劫如何倒闭</title>
+      <link>https://www.nytimes.com/2025/03/06/technology/bybit-crypto-hack-north-korea.html</link>
+      <description><![CDATA[根据美国联邦调查局（FBI）的说法，《纽约时报》  通过利用加密货币交换的安全漏洞来实现历史上最大的加密货币抢劫。 /&gt; 来自“历史上最大的加密抢劫” 
+《纽约时报》（03/07/25）David yaffe-bellany  ]]></description>
+      <guid>https://www.nytimes.com/2025/03/06/technology/bybit-crypto-hack-north-korea.html</guid>
+      <pubDate>Wed, 12 Mar 2025 18:13:08 GMT</pubDate>
     </item>
     <item>
-      <title>支持AI的BCI允许瘫痪的人控制机器人臂</title>
-      <link>https://interestingengineering.com/innovation/bci-lets-paralyzed-man-move-arm</link>
-      <description><![CDATA[旧金山大学研究人员开发的有趣的工程 是由加利福尼亚大学开发的脑部计算机界面（BCI），使一名患者在遭受中风后瘫痪的患者可以操作机器人臂七个月，而无需进行大量校准。研究人员创建了一个AI模型，该模型针对大脑活动的日常转变进行了调整，克服了与BCIS相关的共同挑战。 AI从患者的大脑信号中学到了，他可视化简单运动并使用虚拟机器人臂进行练习。
-有趣的工程（03/06/25）srishti gupta  ]]></description>
-      <guid>https://interestingengineering.com/innovation/bci-lets-paralyzed-man-move-arm</guid>
-      <pubDate>Mon, 10 Mar 2025 18:11:18 GMT</pubDate>
+      <title>光速芯片公开了</title>
+      <link>https://www.scmp.com/news/china/science/article/3301145/light-speed-chip-unveiled-china-led-team-future-ultra-fast-processing</link>
+      <description><![CDATA[中国南部晨报 中国北京大学的研究人员，中国科学院的航空航天信息研究所和加利福尼亚大学圣塔芭芭拉分校开发了一种100 gigahertz光学芯片，该光芯片通过光子产生时钟信号。因为光的传播速度比电力快，因此可以使用光子时钟更快地处理信息。同时，一个片上的微型炸弹合成了单频和宽带信号，涵盖了宽频带。
+南中国晨报（03/07/25）Holly Chik  &lt;a href =“ https://www.scmp.com/news/china/china/china/cience/article/3301145/light-speed-chip-chip-chip-chip-unveiled-china-china-china-deam-future-team-future-future-team-future-future-future-future-future-future-future-future-ultra-fast-fast-fast-fast-pranm full full fult]]></description>
+      <guid>https://www.scmp.com/news/china/science/article/3301145/light-speed-chip-unveiled-china-led-team-future-ultra-fast-processing</guid>
+      <pubDate>Wed, 12 Mar 2025 18:13:07 GMT</pubDate>
     </item>
     <item>
-      <title>欧盟立法者推迟对美国对技术反托拉斯法规的批评</title>
-      <link>https://www.wsj.com/tech/eu-lawmakers-push-back-on-u-s-criticism-of-tech-antitrust-regulation-70b73e1d</link>
-      <description><![CDATA[《华尔街日报  在3月5日给美国官员的信中，欧洲议会的成员抹黑了该主张，即《欧盟数字市场法》（DMA）不公平地针对美国公司。欧盟委员会去年在DMA下对苹果，Google和Meta进行了调查，但这封信指出，中国兽人拥有的Tiktok和总部位于荷兰的Booking.com也面临调查。这封信还引用了几家希望利用法律利用法律的美国公司。
-《华尔街日报》（03/06/25）伊迪丝·汉考克 ]]></description>
-      <guid>https://www.wsj.com/tech/eu-lawmakers-push-back-on-u-s-criticism-of-tech-antitrust-regulation-70b73e1d</guid>
-      <pubDate>Mon, 10 Mar 2025 18:11:16 GMT</pubDate>
+      <title>网络犯罪的钴罢工使用局面80％</title>
+      <link>https://www.darkreading.com/threat-intelligence/cybercrime-cobalt-strike-use-plummets-worldwide</link>
+      <description><![CDATA[Dark Reading  自2023年以来，恶意使用Fortra的钴罢工下降了80％，这是一种红色团队的工具，该工具通常用于模拟威胁并在目标系统中发现弱点。在此期间，网络安全解决方案公司Fortra与微软的数字犯罪部门和非营利性健康信息共享和分析中心合作，已经抓住了数百台与钴罢工的破裂版本相关的服务器。
+黑暗阅读（03/07/25）NATE NATE NELSON  &lt;a href =“ https://www.darkreading.com/threat-intelligence/cybercrime-cobalt-cobalt-cobalt-cobalt-strike-use-plummets-plummets-worldwide-]]></description>
+      <guid>https://www.darkreading.com/threat-intelligence/cybercrime-cobalt-strike-use-plummets-worldwide</guid>
+      <pubDate>Wed, 12 Mar 2025 18:13:07 GMT</pubDate>
     </item>
     <item>
-      <title>美国使用AI来审查外国学生签证持有人恐怖分子同情</title>
-      <link>https://www.axios.com/2025/03/06/state-department-ai-revoke-foreign-student-visas-hamas</link>
-      <description><![CDATA[Axios   u.s。消息人士称，国务卿马可·卢比奥（Marco Rubio）正在发起一项支持AI的“接球和撤销”努力，以取消似乎支持指定恐怖组织的外国国民的签证。这项努力包括对成千上万的学生签证持有人社交媒体帐户的AI辅助评论，重点介绍了所谓的恐怖同情的证据。
-Axios（03/06/25）Marc Caputo  &lt;a href =“ https://www.axios.com/2025/03/06/state-department-revartment-revoke-foreign-foreign-foreign-foreign-student-student-visas-visas-hamas-hamas--hamas--hamas--hamas” target = _ _ _ _ _ _ _]]></description>
-      <guid>https://www.axios.com/2025/03/06/state-department-ai-revoke-foreign-student-visas-hamas</guid>
-      <pubDate>Mon, 10 Mar 2025 18:11:15 GMT</pubDate>
+      <title>激光，磁铁和存储世界数据的斗争</title>
+      <link>https://www.wsj.com/tech/seagate-hard-drive-technology-innovation-0365da3f</link>
+      <description><![CDATA[《华尔街日报》  数据存储公司Seagate押注其热辅助磁记录（HAMR）技术将有助于硬盘驱动器保持其市场优势，因为固态驱动器获得比前辈更快的读写能力获得了动力。 Seagate的新驱动器具有一个小的激光器，该激光器可施加纳米秒的热量，以比以前使用的磁性钻头小。每个晶圆都有100,000个编码数据的读写头。
+《华尔街日报》（03/09/25）John Keilman  &lt;a href =“ https://wwww.wsj.com/tech/tech/seagate-hard-drive-drive-technology-innovation-innovation-0365da3da3da3da3f”]]></description>
+      <guid>https://www.wsj.com/tech/seagate-hard-drive-technology-innovation-0365da3f</guid>
+      <pubDate>Wed, 12 Mar 2025 18:13:06 GMT</pubDate>
     </item>
     <item>
-      <title>十亿个设备使用的蓝牙芯片中发现的后门</title>
-      <link>https://www.bleepingcomputer.com/news/security/undocumented-commands-found-in-bluetooth-chip-used-by-a-billion-devices/</link>
-      <description><![CDATA[欧洲网络安全服务提供商Tarlogic Security的BleepingComputer  的研究人员表示，他们在2023年截至2023年使用了超过10亿IOT设备的ESP32 Microchip中发现了无证件的命令，可用于发动攻击。研究人员说，ESP32微控制器中的后门“将允许敌对的演员进行模仿攻击，并通过绕过代码审核控制措施，永久感染诸如手机，计算机，智能锁或医疗设备等敏感设备。
-BleepingComputer（03/08/25）Bill Toulas  &lt;a href =“ https://wwwww.bleepingcomputer.com/news/news/security/security/security/undocummands-commands-found-in-nbound-in-bluetoot-in-bluetoot-chip-chip-chip-chip-chip-chip-chip-chip-chip-chip-chip-us--by-a-by-a-by-a-billion-devices/]]></description>
-      <guid>https://www.bleepingcomputer.com/news/security/undocumented-commands-found-in-bluetooth-chip-used-by-a-billion-devices/</guid>
-      <pubDate>Mon, 10 Mar 2025 18:11:14 GMT</pubDate>
+      <title>假肢知道它可以挤压东西有多难</title>
+      <link>https://newatlas.com/robotics/prosthetic-hand-hard-squeeze-johns-hopkins/</link>
+      <description><![CDATA[新的Atlas  约翰·霍普金斯大学的研究人员开发了一只配备了三层生物启发的触觉传感器的机器人手，可以帮助其区分对象并用适当的压力抓住它们。假肢有五个铰接的手指，由橡胶类似聚合物和僵硬的3D打印骨架组成。通过肌电图信号控制，机器人手使用机器学习算法将其传感器的信号转化为电神经刺激。
+New Atlas（03/07/25）Abhimanyu Ghoshal  &lt;a href =“ https://newatlas.com/robotics/robotics/prosthetic hard-hard-hard-squeeke-johns-hopkins/]]></description>
+      <guid>https://newatlas.com/robotics/prosthetic-hand-hard-squeeze-johns-hopkins/</guid>
+      <pubDate>Wed, 12 Mar 2025 18:13:05 GMT</pubDate>
     </item>
     <item>
-      <title>北京为孩子们推出AI课程</title>
-      <link>https://www.bloomberg.com/news/articles/2025-03-09/beijing-to-roll-out-ai-courses-for-kids-to-build-on-deepseek-boom</link>
-      <description><![CDATA[彭博 从秋季开始，北京的学校将向小学和中学生介绍AI课程。根据北京市政教育委员会的说法，每个学年将至少提供八个小时的AI课程，该委员会表示，学校将能够作为独立课程运行或与现有课程集成。
-彭博（03/09/25） ]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-03-09/beijing-to-roll-out-ai-courses-for-kids-to-build-on-deepseek-boom</guid>
-      <pubDate>Mon, 10 Mar 2025 18:11:13 GMT</pubDate>
+      <title>DOJ根据要求打破了Google的要求</title>
+      <link>https://www.nytimes.com/2025/03/07/technology/trump-google-search-antitrust.html</link>
+      <description><![CDATA[纽约时报  美国美国地方法院法官阿米特·P·梅塔（Amit P. Mehta）的裁决在美国华盛顿特区的法官阿米特·P·梅塔（Amit P.法官计划于4月听取双方提出的解决方案的论点。
+《纽约时报》（03/10/25）David McCabe  &lt;a href =“ https://www.nytimes.com/2025/03/03/07/trump-google-google-google-google-search-antitrust.html-]]></description>
+      <guid>https://www.nytimes.com/2025/03/07/technology/trump-google-search-antitrust.html</guid>
+      <pubDate>Wed, 12 Mar 2025 18:13:04 GMT</pubDate>
     </item>
     <item>
-      <title>五角大楼签署AI交易，以帮助指挥官计划军事演习</title>
-      <link>https://www.washingtonpost.com/technology/2025/03/05/pentagon-ai-military-scale/</link>
-      <description><![CDATA[《华盛顿邮报》  说明了五角大楼在美国军事和私人科技领域之间日益增长的合作，已经签订了启动量表AI，以寻找使用AI加快军事决策的方法。规模将开发AI计划，指挥官可以向建议询问有关如何最有效地在整个地区移动资源的建议，并将来自情报来源和战场传感器的数据结合在一起。
-《华盛顿邮报》（03/05/25）gerrit de vynck  &lt;a href =“ https://www.washingtonpost.com/technology/2025/03/03/03/03/pentagon-ai-ai-military-scale/]]></description>
-      <guid>https://www.washingtonpost.com/technology/2025/03/05/pentagon-ai-military-scale/</guid>
-      <pubDate>Mon, 10 Mar 2025 18:11:11 GMT</pubDate>
+      <title>它的失业率在2月跃升</title>
+      <link>https://www.ciodive.com/news/IT-unemployment-february-compTIA-2025/741954/</link>
+      <description><![CDATA[COMPTIA对美国劳工统计数据的Comptia审查显示，CIO Dive  的失业率上个月将近一半的百分点增加到3.3％，是2024年8月以来最高的。雇主在2月在所有行业中估计增加了177,000个技术职位，而技术角色仍有近500,000个职位发帖。 Comptia的蒂姆·赫伯特（Tim Herbert）说：“由于许多公司以不确定性采取了待遇的方法，招聘停顿的增加可能会使潜在的技术员工等待。”  从“ IT失业率失业率”跃升为“ ”
+CIO Dive（03/07/25）Roberto Torres  &lt;a href =“ https://www.ciodive.com/news/news/it-unemployment-february-comptia-comptia-2025/741954/]]></description>
+      <guid>https://www.ciodive.com/news/IT-unemployment-february-compTIA-2025/741954/</guid>
+      <pubDate>Wed, 12 Mar 2025 18:13:03 GMT</pubDate>
     </item>
     <item>
-      <title>成千上万的抗议特朗普研究削减</title>
-      <link>https://www.nature.com/articles/d41586-025-00704-0</link>
-      <description><![CDATA[大自然 在周五在美国和欧洲的30多个城市中抗议的成千上万的研究人员和科学支持者，针对特朗普政府为减少美国科学劳动力和联邦研究支出而采取的行动。科学集会的立场是由五位美国科学家组织的，他们将抗议活动视为运动的开始。 ＆ldquo;这不是一件事情，盖恩斯维尔佛罗里达大学的组织者萨曼莎·戈德斯坦说。
-自然（03/07/25）朱利安·诺格罗德兹基（Julian Nowogrodzki）； Humberto Basilio；海蒂·莱德福德；等人 查看全文]]></description>
-      <guid>https://www.nature.com/articles/d41586-025-00704-0</guid>
-      <pubDate>Mon, 10 Mar 2025 18:11:09 GMT</pubDate>
+      <title>五角大楼转移软件购买过程</title>
+      <link>https://www.reuters.com/world/us/pentagon-software-buying-process-shifts-towards-more-access-2025-03-07/</link>
+      <description><![CDATA[路透社 美国国防部（DOD）正在更改其购买软件的方式，以更加访问商业和非传统软件。国防部长皮特·海格斯（Pete Hegseth）的3月6日备忘录指示国防部优先考虑新的软件采集方法，以最大化“杀人性”。美国军方的。
+路透社（03/07/25）Mike Stone  &lt;a href =“ https://www.reuters.com/world/world/us/pentagon-softagon-software-software-software-buying-process-shifts-shifts-shifts-shifts-towards-towards-more-access-more-access-more-access-2025-03-03-07/一下]]></description>
+      <guid>https://www.reuters.com/world/us/pentagon-software-buying-process-shifts-towards-more-access-2025-03-07/</guid>
+      <pubDate>Wed, 12 Mar 2025 18:13:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>NIST选择HQC作为量子后加密的第五算法</title>
+      <link>https://www.nist.gov/news-events/news/2025/03/nist-selects-hqc-fifth-algorithm-post-quantum-encryption</link>
+      <description><![CDATA[NIST新闻  美国国家标准技术研究所（NIST）宣布选择其第五算法以进行后量化后加密。 HQC算法将作为ML-KEM的备份，ML-KEM是一般加密的主要算法。 HQC基于与ML-KEM不同的数学基础，如果在ML-KEM中发现漏洞，这可能很重要。 NIST计划在明年发布标准草案，并将在2027年进行最终标准。
+NIST新闻（03/11/25） &lt;a href =“ https://www.nist.gov/news-events/news/news/2025/03/nist-selects-selects-selects-hqc-fifth-algorith-algorith-algorith-post-post-post-post-quantum-quantum-quantum-quantum-quantum-eccortum-quantum-eccortum-quantum-eccryptim-]]></description>
+      <guid>https://www.nist.gov/news-events/news/2025/03/nist-selects-hqc-fifth-algorithm-post-quantum-encryption</guid>
+      <pubDate>Wed, 12 Mar 2025 18:13:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
