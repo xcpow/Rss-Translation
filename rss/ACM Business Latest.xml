@@ -4,7 +4,14 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 13 Mar 2025 18:12:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Mar 2025 21:08:41 GMT</lastBuildDate>
+    <item>
+      <title>当人司机走了什么时候会丢失什么？</title>
+      <link>https://www.wired.com/story/uncanny-valley-podcast-self-driving-cars/</link>
+      <description><![CDATA[本周在奇特的山谷上，我们展望了一个​​未来，无人驾驶汽车是主流的。]]></description>
+      <guid>https://www.wired.com/story/uncanny-valley-podcast-self-driving-cars/</guid>
+      <pubDate>Thu, 13 Mar 2025 18:24:24 GMT</pubDate>
+    </item>
     <item>
       <title>研究人员提出了一种更好的方式来报告危险AI缺陷</title>
       <link>https://www.wired.com/story/ai-researchers-new-system-report-bugs/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[研究表明，飞机机翼上的自由移动面板可以提高稳定性，降低湍流并增加燃油效率。]]></description>
       <guid>https://www.wired.com/story/airplanes-of-the-future-could-be-fitted-with-feather-like-flaps/</guid>
       <pubDate>Wed, 05 Mar 2025 11:44:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>加固学习的开拓者赢得了图灵奖</title>
-      <link>https://www.wired.com/story/pioneers-of-reward-based-machine-learning-win-turing-award/</link>
-      <description><![CDATA[让机器从经验中学到的东西曾经被认为是死胡同。现在，这对于人工智能至关重要，在该领域的工作赢得了两名计算机科学中最高荣誉的人。]]></description>
-      <guid>https://www.wired.com/story/pioneers-of-reward-based-machine-learning-win-turing-award/</guid>
-      <pubDate>Wed, 05 Mar 2025 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
