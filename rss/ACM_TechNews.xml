@@ -4,110 +4,102 @@
     <title>ACM技术</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM技术</description>
-    <lastBuildDate>Wed, 12 Mar 2025 18:13:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Mar 2025 18:12:20 GMT</lastBuildDate>
     <item>
-      <title>研究人员释放套件以利用Zen芯片中的脆弱性</title>
-      <link>https://www.tomshardware.com/pc-components/cpus/you-can-now-jailbreak-your-amd-cpu-google-researchers-release-kit-to-exploit-microcode-vulnerability-in-zen-1-to-zen-4-chips</link>
-      <description><![CDATA[汤姆（Tom）的硬件  Google的研究人员发现并发布了利用的详细信息，这些详细信息本质上允许任何人越狱自己的AMD CPU。所谓的输入标记漏洞使用户使用ZEN 1到ZEN 4架构将自定义的Microcode发送到任何AMD CPU，以更改处理器的运行方式，这将使他们能够访问内部CPU缓冲区并加强或削弱虚拟机（VM）安全性（VM）安全性。
-汤姆的硬件（03/07/25）达林·格林（Dallin Grimm） View Full Article]]></description>
-      <guid>https://www.tomshardware.com/pc-components/cpus/you-can-now-jailbreak-your-amd-cpu-google-researchers-release-kit-to-exploit-microcode-vulnerability-in-zen-1-to-zen-4-chips</guid>
-      <pubDate>Wed, 12 Mar 2025 18:13:11 GMT</pubDate>
+      <title>台风罢工马萨诸塞州电力实用程序</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/volt-typhoon-strikes-massachusetts-power-utility</link>
+      <description><![CDATA[Dark ReadingChina-linked advanced persistent threat (APT) actor Volt Typhoon launched a cyberattack on Massachusetts utility Little Electric Light and Water Departments (LELWD) in 2023. A new report by cybersecurity firm Dragos, which assisted federal agents in the ensuing investigation, indicated the Volt Typhoon subgroup Voltzite infiltrated LELWD&#39;s基础架构超过300天，并执行了“服务器消息块遍历操作和远程桌面协议横向移动。”  来自“伏特台风罢工马萨诸塞州Power Utility” 
+黑暗阅读（03/12/25）伊丽莎白·蒙塔尔巴诺]]></description>
+      <guid>https://www.darkreading.com/cyberattacks-data-breaches/volt-typhoon-strikes-massachusetts-power-utility</guid>
+      <pubDate>Fri, 14 Mar 2025 18:12:20 GMT</pubDate>
     </item>
     <item>
-      <title>低功耗脑芯片预测用户的意图</title>
-      <link>https://spectrum.ieee.org/brain-computer-interface-2671224658</link>
-      <description><![CDATA[IEEE Spectrum  由圣地亚哥州立大学研究人员开发的心脏内脑计算机界面（IBCI）消除了用户手动打开脑芯片的需求。植入后，IBCI监测局部场电位（LFP）或一系列神经元的一般活性，当达到神经活动的某些阈值时会激活。测试表明，LFP方法消耗的能量要少得多，同时与监测单个神经元的常规脑芯片相当。
-IEEE Spectrum（03/06/25）Michelle Hampson  查看完整文章]]></description>
-      <guid>https://spectrum.ieee.org/brain-computer-interface-2671224658</guid>
-      <pubDate>Wed, 12 Mar 2025 18:13:10 GMT</pubDate>
+      <title>AI进入葡萄园</title>
+      <link>https://apnews.com/article/ai-artificial-intelligence-wineries-vineyards-9afba3e163e8efc6c710210a83970dd1</link>
+      <description><![CDATA[美联社 葡萄酒行业越来越多地采用AI来补充其劳动力并提高决策，效率和可持续性，同时减少浪费。自主拖拉机可帮助农民减少燃料的使用和污染，而自动灌溉系统通过监测土壤和葡萄藤来提高用水的效率。智能传感器有助于靶向杀虫剂或其他材料以保留作物的剂量，而AI驱动的农场管理平台侦察侦察员可以分析图像以监测农作物的健康并预测“ AI的 ”，“ AI从AI到葡萄园” 
+美联社（03/10/25）Sarah Parvini  &lt;a href =“ https://apnews.com/article/ai-article/ai-article-ai--aigrigence-wineries-wineries-vineyards-vineyards-9afba3e163e163e163e.8efc6c6c710210210210210a83970dd1”]]></description>
+      <guid>https://apnews.com/article/ai-artificial-intelligence-wineries-vineyards-9afba3e163e8efc6c710210a83970dd1</guid>
+      <pubDate>Fri, 14 Mar 2025 18:12:20 GMT</pubDate>
     </item>
     <item>
-      <title>猫网机器人在日本餐馆等待桌子</title>
-      <link>https://www.bloomberg.com/news/features/2025-03-06/thousands-of-cat-eared-robots-are-waiting-tables-in-japan</link>
-      <description><![CDATA[彭博 日本的服务部门业务越来越依靠机器人与老年人或外国工人一起工作，扮演更多的身体角色或在该国面临严重劳动力短缺的时候导致语言障碍。日本最大的餐桌餐厅连锁店Skylark Holdings Co.部署了约3,000个以猫为主题的机器人，向其餐厅的客户提供订单。
-彭博（03/06/25）Erica Yokoyama; MOMOKA YOKOYAMA  &lt;A HREF =“ https://www.bloomberg.com/news/news/features/2025-03-03-06/th千千分之一/]]></description>
-      <guid>https://www.bloomberg.com/news/features/2025-03-06/thousands-of-cat-eared-robots-are-waiting-tables-in-japan</guid>
-      <pubDate>Wed, 12 Mar 2025 18:13:10 GMT</pubDate>
+      <title>研究人员建立了一个用于量子网络的操作系统</title>
+      <link>https://www.newscientist.com/article/2471543-the-first-operating-system-for-quantum-networks-has-been-built/</link>
+      <description><![CDATA[荷兰代尔夫特技术大学的新科学家 研究人员已经建立了他们所谓的量子网络的第一个操作系统。该操作系统称为Qnodeos，无论量子类型如何，操作系统都可以在量子网络上控制设备，并且可以处理古典计算机的量子信息和传统信号。在测试中，Qnodeos可以处理由特殊处理的钻石或电动原子制成的量子计算机，并同时成功运行了两个程序。
+新科学家（03/12/25）karmela padavic-callaghan    - 可能需要付费订阅]]></description>
+      <guid>https://www.newscientist.com/article/2471543-the-first-operating-system-for-quantum-networks-has-been-built/</guid>
+      <pubDate>Fri, 14 Mar 2025 18:12:19 GMT</pubDate>
     </item>
     <item>
-      <title>欧洲在RISC-V上押注超级计算主权</title>
-      <link>https://www.theregister.com/2025/03/07/dare_europe_risc_v_project/</link>
-      <description><![CDATA[寄存器（英国）  超过三十多名科技玩家在欧洲（DARE）与RISC-V共同创立了数字自主权，该小组的目标是在三年内开发三个RISC-V chiplets，以推动欧洲的超级计算机和其他高性能计算机。该倡议以2.4亿欧元的资金支持，由巴塞罗那超级计算中心协调，并得到了欧洲PC联合承诺的支持。
-寄存器（英国）（03/07/25）Tobias Mann ]]></description>
-      <guid>https://www.theregister.com/2025/03/07/dare_europe_risc_v_project/</guid>
-      <pubDate>Wed, 12 Mar 2025 18:13:09 GMT</pubDate>
+      <title>Meta的社区注意到使用X的开源技术</title>
+      <link>https://www.cnbc.com/2025/03/13/meta-community-notes-to-use-open-source-technology-from-elon-musks-x.html</link>
+      <description><![CDATA[CNBC   Meta即将推出的社区笔记功能将采用与X社区注释相同的开源算法，尽管Meta在博客文章中表示，随着时间的推移，它将适应其平台的算法。社区注释是一种众包内容审核工具，将取代第三方事实检查，它使用贡献者在发布到Meta平台上发布的内容（广告除外）提供了额外的背景。已经申请了大约20万人成为贡献者。
+CNBC（03/13/25）Jonathan vanian  &lt;a href =“ https://wwwww.cnbc.com/2025/2025/03/meta-community-notes-notes-notes-notes-to--use-use-open-sour-source-tech-source-technologe-technologic-technologic--from--elon-musks-musks-musks-musks-musks-musks-musks-x-x.html一下]]></description>
+      <guid>https://www.cnbc.com/2025/03/13/meta-community-notes-to-use-open-source-technology-from-elon-musks-x.html</guid>
+      <pubDate>Fri, 14 Mar 2025 18:12:18 GMT</pubDate>
     </item>
     <item>
-      <title>历史上最大的加密抢劫如何倒闭</title>
-      <link>https://www.nytimes.com/2025/03/06/technology/bybit-crypto-hack-north-korea.html</link>
-      <description><![CDATA[根据美国联邦调查局（FBI）的说法，《纽约时报》  通过利用加密货币交换的安全漏洞来实现历史上最大的加密货币抢劫。 /&gt; 来自“历史上最大的加密抢劫” 
-《纽约时报》（03/07/25）David yaffe-bellany  ]]></description>
-      <guid>https://www.nytimes.com/2025/03/06/technology/bybit-crypto-hack-north-korea.html</guid>
-      <pubDate>Wed, 12 Mar 2025 18:13:08 GMT</pubDate>
+      <title>英特尔名称lip-bu tan为首席执行官</title>
+      <link>https://www.wsj.com/tech/intel-new-ceo-lip-bu-tan-8b43c12b?mod=hp_lead_pos2</link>
+      <description><![CDATA[《华尔街日报》  英特尔被任命为前董事会成员和长期行业执行lip-bu tan，为新的首席执行官。 TAN是前Cadence Design Systems的前首席执行官，加入了一家陷入困境的半导体公司，该公司失去了市场份额，并且一直在努力执行与竞争对手芯片制造商保持同步的战略。
+《华尔街日报》（03/12/25）Connor Hart  ]]></description>
+      <guid>https://www.wsj.com/tech/intel-new-ceo-lip-bu-tan-8b43c12b?mod=hp_lead_pos2</guid>
+      <pubDate>Fri, 14 Mar 2025 18:12:17 GMT</pubDate>
     </item>
     <item>
-      <title>光速芯片公开了</title>
-      <link>https://www.scmp.com/news/china/science/article/3301145/light-speed-chip-unveiled-china-led-team-future-ultra-fast-processing</link>
-      <description><![CDATA[中国南部晨报 中国北京大学的研究人员，中国科学院的航空航天信息研究所和加利福尼亚大学圣塔芭芭拉分校开发了一种100 gigahertz光学芯片，该光芯片通过光子产生时钟信号。因为光的传播速度比电力快，因此可以使用光子时钟更快地处理信息。同时，一个片上的微型炸弹合成了单频和宽带信号，涵盖了宽频带。
-南中国晨报（03/07/25）Holly Chik  &lt;a href =“ https://www.scmp.com/news/china/china/china/cience/article/3301145/light-speed-chip-chip-chip-chip-unveiled-china-china-china-deam-future-team-future-future-team-future-future-future-future-future-future-future-future-ultra-fast-fast-fast-fast-pranm full full fult]]></description>
-      <guid>https://www.scmp.com/news/china/science/article/3301145/light-speed-chip-unveiled-china-led-team-future-ultra-fast-processing</guid>
-      <pubDate>Wed, 12 Mar 2025 18:13:07 GMT</pubDate>
+      <title>日产在繁忙的城市街道上测试无人驾驶的车辆</title>
+      <link>https://apnews.com/article/driverless-japan-nissan-autonomous-technology-5c12444c3931d1c7a0280789d2b0cba9</link>
+      <description><![CDATA[美联社 日产汽车正在日本横滨街上的塞雷纳·小型货车（Serena Minivan）与其他车辆和行人一起测试其无人驾驶技术。目前，该技术是该行业的第二级，在遥控器面板后面有一个人的人，在车轮的车轮后面，每个人都准备接管。
+美联社（03/10/25）Yuri kageyama  &lt;a href =“ https://apnews.com/article/article/driverless/driverless-japan-nissan-autonolous-technology-technology-5c1244444bc393931d1c7a021c7a0280280289d2b0cbaba bland florm &lt;/___________________________________3]]></description>
+      <guid>https://apnews.com/article/driverless-japan-nissan-autonomous-technology-5c12444c3931d1c7a0280789d2b0cba9</guid>
+      <pubDate>Fri, 14 Mar 2025 18:12:16 GMT</pubDate>
     </item>
     <item>
-      <title>网络犯罪的钴罢工使用局面80％</title>
-      <link>https://www.darkreading.com/threat-intelligence/cybercrime-cobalt-strike-use-plummets-worldwide</link>
-      <description><![CDATA[Dark Reading  自2023年以来，恶意使用Fortra的钴罢工下降了80％，这是一种红色团队的工具，该工具通常用于模拟威胁并在目标系统中发现弱点。在此期间，网络安全解决方案公司Fortra与微软的数字犯罪部门和非营利性健康信息共享和分析中心合作，已经抓住了数百台与钴罢工的破裂版本相关的服务器。
-黑暗阅读（03/07/25）NATE NATE NELSON  &lt;a href =“ https://www.darkreading.com/threat-intelligence/cybercrime-cobalt-cobalt-cobalt-cobalt-strike-use-plummets-plummets-worldwide-]]></description>
-      <guid>https://www.darkreading.com/threat-intelligence/cybercrime-cobalt-strike-use-plummets-worldwide</guid>
-      <pubDate>Wed, 12 Mar 2025 18:13:07 GMT</pubDate>
+      <title>中国的顶级大学优先考虑AI，其他“国家战略需求”</title>
+      <link>https://www.reuters.com/world/china/chinas-top-universities-expand-enrolment-beef-up-capabilities-ai-strategic-areas-2025-03-10/</link>
+      <description><![CDATA[路透社 中国的北京，香民和上海乔·汤汤大学（Shanghai Jiao Tong Universities）将扩大本科入学率，因为他们优先考虑“国家战略需求”，例如发展AI人才。北京大学计划今年增加150个本科景点，重点是“国家战略重要性”，基本学科和“新兴边境领域”，例如信息科学和技术。一月份，中国发布了第一个国家行动计划，在未来10年内建立“强大的教育国家”。
+路透社（03/10/25）法拉大师； Eduardo baptista  &lt;a href =“ https://www.reuters.com/world/world/china/chinas/chinas-top-universites-top--expand-expand-expand-enrolment-beef-beef-capabilities-capabielsion-ai-ai-strategic-areas-areas-2025-03-10/-2025-03-10/]]></description>
+      <guid>https://www.reuters.com/world/china/chinas-top-universities-expand-enrolment-beef-up-capabilities-ai-strategic-areas-2025-03-10/</guid>
+      <pubDate>Fri, 14 Mar 2025 18:12:15 GMT</pubDate>
     </item>
     <item>
-      <title>激光，磁铁和存储世界数据的斗争</title>
-      <link>https://www.wsj.com/tech/seagate-hard-drive-technology-innovation-0365da3f</link>
-      <description><![CDATA[《华尔街日报》  数据存储公司Seagate押注其热辅助磁记录（HAMR）技术将有助于硬盘驱动器保持其市场优势，因为固态驱动器获得比前辈更快的读写能力获得了动力。 Seagate的新驱动器具有一个小的激光器，该激光器可施加纳米秒的热量，以比以前使用的磁性钻头小。每个晶圆都有100,000个编码数据的读写头。
-《华尔街日报》（03/09/25）John Keilman  &lt;a href =“ https://wwww.wsj.com/tech/tech/seagate-hard-drive-drive-technology-innovation-innovation-0365da3da3da3da3f”]]></description>
-      <guid>https://www.wsj.com/tech/seagate-hard-drive-technology-innovation-0365da3f</guid>
-      <pubDate>Wed, 12 Mar 2025 18:13:06 GMT</pubDate>
+      <title>技术专业支持到2050年核电三倍</title>
+      <link>https://www.cnbc.com/2025/03/12/amazon-google-and-meta-support-tripling-nuclear-power-by-2050.html</link>
+      <description><![CDATA[CNBC  在Ceraweek期间举行的S＆amp; p全球能源会议在休斯敦，亚马逊，Google和Meta平台签署了一种无约束力的承诺，以支持在2050年到2050年至少提高全球核能生产的努力。到2050年，全球范围内至少三倍。誓言在2023年12月在2023年12月由BR &lt;2023年以上的国家和其他行业&lt; &lt;&lt; &lt;专业支持到2050年的核电三倍” 
+CNBC（03/12/25）Pippa Stevens; spencer kimball  &lt;a href =“ https://www.cnbc.com/2025/03/12/amazon-google-anda-meta-meta-meta-meta-support-tripling-tripling-nuclear-nuclear-nuclear-nuclear-by-2050.html-]]></description>
+      <guid>https://www.cnbc.com/2025/03/12/amazon-google-and-meta-support-tripling-nuclear-power-by-2050.html</guid>
+      <pubDate>Fri, 14 Mar 2025 18:12:14 GMT</pubDate>
     </item>
     <item>
-      <title>假肢知道它可以挤压东西有多难</title>
-      <link>https://newatlas.com/robotics/prosthetic-hand-hard-squeeze-johns-hopkins/</link>
-      <description><![CDATA[新的Atlas  约翰·霍普金斯大学的研究人员开发了一只配备了三层生物启发的触觉传感器的机器人手，可以帮助其区分对象并用适当的压力抓住它们。假肢有五个铰接的手指，由橡胶类似聚合物和僵硬的3D打印骨架组成。通过肌电图信号控制，机器人手使用机器学习算法将其传感器的信号转化为电神经刺激。
-New Atlas（03/07/25）Abhimanyu Ghoshal  &lt;a href =“ https://newatlas.com/robotics/robotics/prosthetic hard-hard-hard-squeeke-johns-hopkins/]]></description>
-      <guid>https://newatlas.com/robotics/prosthetic-hand-hard-squeeze-johns-hopkins/</guid>
-      <pubDate>Wed, 12 Mar 2025 18:13:05 GMT</pubDate>
+      <title>Fortran，Delphi在Tiobe Purruity指数中的上升</title>
+      <link>https://www.infoworld.com/article/3842376/fortran-delphi-rise-in-tiobe-popularity-index.html</link>
+      <description><![CDATA[infoworld   较旧的编程语言（例如Fortran和Delphi）正在卷土重来，这是根据Tiobe的3月份语言受欢迎程度的结果。 Delphi/Object Pascal在最新排名中排名第10，Fortran排名第11。遗产语言ADA排名第18位，而Cobol排名第20。Tiobe首席执行官Paul Jansen将这些“恐龙”语言归因于“使世界运行的许多重要的遗产系统。
+Infoworld（03/10/25）Paul Krill  &lt;a href =“ https://www.infoworld.com/article/3842376/3842376/fortran-delphi-rise-in-tiobe-in-tiobe-popular-popularity-index.htex.htex.html]]></description>
+      <guid>https://www.infoworld.com/article/3842376/fortran-delphi-rise-in-tiobe-popularity-index.html</guid>
+      <pubDate>Fri, 14 Mar 2025 18:12:13 GMT</pubDate>
     </item>
     <item>
-      <title>DOJ根据要求打破了Google的要求</title>
-      <link>https://www.nytimes.com/2025/03/07/technology/trump-google-search-antitrust.html</link>
-      <description><![CDATA[纽约时报  美国美国地方法院法官阿米特·P·梅塔（Amit P. Mehta）的裁决在美国华盛顿特区的法官阿米特·P·梅塔（Amit P.法官计划于4月听取双方提出的解决方案的论点。
-《纽约时报》（03/10/25）David McCabe  &lt;a href =“ https://www.nytimes.com/2025/03/03/07/trump-google-google-google-google-search-antitrust.html-]]></description>
-      <guid>https://www.nytimes.com/2025/03/07/technology/trump-google-search-antitrust.html</guid>
-      <pubDate>Wed, 12 Mar 2025 18:13:04 GMT</pubDate>
+      <title>技术计划中的五分之一的女性换工作</title>
+      <link>https://www.ciodive.com/news/women-in-tech-attrition-skills-AI-impact-RTO/742068/</link>
+      <description><![CDATA[根据Ensono对1,500名女性身份的全职技术专业人员的调查，CIO Dive                                。几乎有90％的受访者表示拥有生成AI的知识增强了他们的工作绩效并解锁了新的机会。近20％的人打算今年离开其现有公司，这一比率类似于2022年的“大辞职”。
+CIO Dive（03/10/25）Lindsey Wilkinson  &lt;a href =“ https://www.ciodive.com/news/news/women-women-in-women-in-tech-tech-attrition-skills-ai-impact-rto/7442068/]]></description>
+      <guid>https://www.ciodive.com/news/women-in-tech-attrition-skills-AI-impact-RTO/742068/</guid>
+      <pubDate>Fri, 14 Mar 2025 18:12:13 GMT</pubDate>
     </item>
     <item>
-      <title>它的失业率在2月跃升</title>
-      <link>https://www.ciodive.com/news/IT-unemployment-february-compTIA-2025/741954/</link>
-      <description><![CDATA[COMPTIA对美国劳工统计数据的Comptia审查显示，CIO Dive  的失业率上个月将近一半的百分点增加到3.3％，是2024年8月以来最高的。雇主在2月在所有行业中估计增加了177,000个技术职位，而技术角色仍有近500,000个职位发帖。 Comptia的蒂姆·赫伯特（Tim Herbert）说：“由于许多公司以不确定性采取了待遇的方法，招聘停顿的增加可能会使潜在的技术员工等待。”  从“ IT失业率失业率”跃升为“ ”
-CIO Dive（03/07/25）Roberto Torres  &lt;a href =“ https://www.ciodive.com/news/news/it-unemployment-february-comptia-comptia-2025/741954/]]></description>
-      <guid>https://www.ciodive.com/news/IT-unemployment-february-compTIA-2025/741954/</guid>
-      <pubDate>Wed, 12 Mar 2025 18:13:03 GMT</pubDate>
+      <title>D波声称“量子优势”</title>
+      <link>https://www.nature.com/articles/d41586-025-00765-1</link>
+      <description><![CDATA[自然 是由加拿大D-Wave量子系统研究人员创建的“量子处理器”，该公司声称，某些固体中的磁性行为解决了一个物理问题，该物理问题需要数十万年来计算最大的常规超级计算机。尽管其他人声称已经比古典计算机实现了这种量子优势，但D-Wave的研究人员说，他们的结果是第一个解决了实际物理问题的结果。
+自然（03/12/25）Davide Castelvecchi  &lt;a href =“ https://www.nature.com/articles/d41586-025-00765-1]]></description>
+      <guid>https://www.nature.com/articles/d41586-025-00765-1</guid>
+      <pubDate>Fri, 14 Mar 2025 18:12:12 GMT</pubDate>
     </item>
     <item>
-      <title>五角大楼转移软件购买过程</title>
-      <link>https://www.reuters.com/world/us/pentagon-software-buying-process-shifts-towards-more-access-2025-03-07/</link>
-      <description><![CDATA[路透社 美国国防部（DOD）正在更改其购买软件的方式，以更加访问商业和非传统软件。国防部长皮特·海格斯（Pete Hegseth）的3月6日备忘录指示国防部优先考虑新的软件采集方法，以最大化“杀人性”。美国军方的。
-路透社（03/07/25）Mike Stone  &lt;a href =“ https://www.reuters.com/world/world/us/pentagon-softagon-software-software-software-buying-process-shifts-shifts-shifts-shifts-towards-towards-more-access-more-access-more-access-2025-03-03-07/一下]]></description>
-      <guid>https://www.reuters.com/world/us/pentagon-software-buying-process-shifts-towards-more-access-2025-03-07/</guid>
-      <pubDate>Wed, 12 Mar 2025 18:13:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>NIST选择HQC作为量子后加密的第五算法</title>
-      <link>https://www.nist.gov/news-events/news/2025/03/nist-selects-hqc-fifth-algorithm-post-quantum-encryption</link>
-      <description><![CDATA[NIST新闻  美国国家标准技术研究所（NIST）宣布选择其第五算法以进行后量化后加密。 HQC算法将作为ML-KEM的备份，ML-KEM是一般加密的主要算法。 HQC基于与ML-KEM不同的数学基础，如果在ML-KEM中发现漏洞，这可能很重要。 NIST计划在明年发布标准草案，并将在2027年进行最终标准。
-NIST新闻（03/11/25） &lt;a href =“ https://www.nist.gov/news-events/news/news/2025/03/nist-selects-selects-selects-hqc-fifth-algorith-algorith-algorith-post-post-post-post-quantum-quantum-quantum-quantum-quantum-eccortum-quantum-eccortum-quantum-eccryptim-]]></description>
-      <guid>https://www.nist.gov/news-events/news/2025/03/nist-selects-hqc-fifth-algorithm-post-quantum-encryption</guid>
-      <pubDate>Wed, 12 Mar 2025 18:13:01 GMT</pubDate>
+      <title>Ethan Klein攻入美国首席执行官</title>
+      <link>https://fedscoop.com/trump-tech-policy-ethan-klein-federal-cto/</link>
+      <description><![CDATA[fedScoop   美国科学技术政策办公室（OSTP）说，第一任特朗普政府期间新兴的技术政策顾问Ethan Klein已被提名为白宫首席技术官（CTO），这一职务是在先前的政府下未完成的。如果被确认为CTO，克莱因将扮演迈克尔·克拉西奥斯（Michael Kratsios）在第一个特朗普政府中扮演的角色。克拉西奥斯（Kratsios
+fedscoop（03/11/25）Caroline Nihill  &lt;a href =“ https://fedscoop.com/trump-tech-policy-ethan-klein-klein-klein-federal-cto/”]]></description>
+      <guid>https://fedscoop.com/trump-tech-policy-ethan-klein-federal-cto/</guid>
+      <pubDate>Fri, 14 Mar 2025 18:12:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
