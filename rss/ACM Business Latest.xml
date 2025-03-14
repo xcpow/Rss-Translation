@@ -4,7 +4,21 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 14 Mar 2025 09:10:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Mar 2025 21:08:47 GMT</lastBuildDate>
+    <item>
+      <title>元试图埋葬一本明智的书</title>
+      <link>https://www.wired.com/story/plaintext/careless-people-meta-mark-zuckerberg/</link>
+      <description><![CDATA[马克·扎克伯格（Mark Zuckerberg）可能在他的事后检查时代。但这并没有阻止梅塔追随粗心的人的作者。]]></description>
+      <guid>https://www.wired.com/story/plaintext/careless-people-meta-mark-zuckerberg/</guid>
+      <pubDate>Fri, 14 Mar 2025 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>想要建造“地球上天堂”的硅谷基督徒</title>
+      <link>https://www.wired.com/story/christians-silicon-valley-religion-venture-capital/</link>
+      <description><![CDATA[工作宗教是宗教吗？两个都。]]></description>
+      <guid>https://www.wired.com/story/christians-silicon-valley-religion-venture-capital/</guid>
+      <pubDate>Fri, 14 Mar 2025 10:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>当人司机走了什么时候会丢失什么？</title>
       <link>https://www.wired.com/story/uncanny-valley-podcast-self-driving-cars/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[OneWeb，Kuiper Project和Iris2可以及时取代Elon Musk在乌克兰的卫星通信系统，但他们将很难复制Starlink的覆盖范围和可用性。]]></description>
       <guid>https://www.wired.com/story/starlink-replacement-ukraine-eutelsat-oneweb-project-kuiper-amazon-iris2-elon-musk/</guid>
       <pubDate>Thu, 06 Mar 2025 18:42:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>聊天机器人，就像我们其他人一样，只想被爱</title>
-      <link>https://www.wired.com/story/chatbots-like-the-rest-of-us-just-want-to-be-loved/</link>
-      <description><![CDATA[一项研究表明，大型语言模型何时被研究，并将其行为更改为更讨人喜欢。]]></description>
-      <guid>https://www.wired.com/story/chatbots-like-the-rest-of-us-just-want-to-be-loved/</guid>
-      <pubDate>Wed, 05 Mar 2025 17:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>未来的飞机可能装有类似羽毛的襟翼</title>
-      <link>https://www.wired.com/story/airplanes-of-the-future-could-be-fitted-with-feather-like-flaps/</link>
-      <description><![CDATA[研究表明，飞机机翼上的自由移动面板可以提高稳定性，降低湍流并增加燃油效率。]]></description>
-      <guid>https://www.wired.com/story/airplanes-of-the-future-could-be-fitted-with-feather-like-flaps/</guid>
-      <pubDate>Wed, 05 Mar 2025 11:44:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
