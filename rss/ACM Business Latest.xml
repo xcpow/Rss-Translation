@@ -4,7 +4,14 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Sat, 15 Mar 2025 06:11:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Mar 2025 09:08:35 GMT</lastBuildDate>
+    <item>
+      <title>AI编码助手拒绝编写代码，并建议用户自己学习自己做</title>
+      <link>https://www.wired.com/story/ai-coding-assistant-refused-to-write-code-suggested-user-learn-himself/</link>
+      <description><![CDATA[旧的“教男人要钓鱼”谚语，但为AI聊天机器人。]]></description>
+      <guid>https://www.wired.com/story/ai-coding-assistant-refused-to-write-code-suggested-user-learn-himself/</guid>
+      <pubDate>Sat, 15 Mar 2025 09:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>在特朗普的领导下，AI科学家被告知要从强大的模型中消除“意识形态偏见”</title>
       <link>https://www.wired.com/story/ai-safety-institute-new-directive-america-first/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[吉姆·桑伯恩（Jim Sanborn）的收件箱充满了业余密码学家，他们说他们已经用Grok 3之类的聊天机器人破解了代码。]]></description>
       <guid>https://www.wired.com/story/plaintext-kryptos-code-artificial-intelligence/</guid>
       <pubDate>Fri, 07 Mar 2025 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>看一个非常硅谷的重生方法</title>
-      <link>https://www.wired.com/story/uncanny-valley-podcast-18-babies-repopulation-silicon-valley/</link>
-      <description><![CDATA[在本周的《怪异山谷》上，我们的主人谈论了原则运动，以及提高出生率的推动如何在硅谷一些最大和最富有的名字中趋势。]]></description>
-      <guid>https://www.wired.com/story/uncanny-valley-podcast-18-babies-repopulation-silicon-valley/</guid>
-      <pubDate>Thu, 06 Mar 2025 20:48:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
