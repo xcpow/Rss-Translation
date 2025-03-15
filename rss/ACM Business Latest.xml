@@ -4,7 +4,14 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 14 Mar 2025 21:08:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Mar 2025 00:43:09 GMT</lastBuildDate>
+    <item>
+      <title>在特朗普的领导下，AI科学家被告知要从强大的模型中消除“意识形态偏见”</title>
+      <link>https://www.wired.com/story/ai-safety-institute-new-directive-america-first/</link>
+      <description><![CDATA[美国国家标准技术研究所的指令消除了提及“ AI安全”和“ AI公平”。]]></description>
+      <guid>https://www.wired.com/story/ai-safety-institute-new-directive-america-first/</guid>
+      <pubDate>Fri, 14 Mar 2025 23:29:46 GMT</pubDate>
+    </item>
     <item>
       <title>元试图埋葬一本明智的书</title>
       <link>https://www.wired.com/story/plaintext/careless-people-meta-mark-zuckerberg/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[在本周的《怪异山谷》上，我们的主人谈论了原则运动，以及提高出生率的推动如何在硅谷一些最大和最富有的名字中趋势。]]></description>
       <guid>https://www.wired.com/story/uncanny-valley-podcast-18-babies-repopulation-silicon-valley/</guid>
       <pubDate>Thu, 06 Mar 2025 20:48:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果乌克兰失去了Starlink，这是最好的选择</title>
-      <link>https://www.wired.com/story/starlink-replacement-ukraine-eutelsat-oneweb-project-kuiper-amazon-iris2-elon-musk/</link>
-      <description><![CDATA[OneWeb，Kuiper Project和Iris2可以及时取代Elon Musk在乌克兰的卫星通信系统，但他们将很难复制Starlink的覆盖范围和可用性。]]></description>
-      <guid>https://www.wired.com/story/starlink-replacement-ukraine-eutelsat-oneweb-project-kuiper-amazon-iris2-elon-musk/</guid>
-      <pubDate>Thu, 06 Mar 2025 18:42:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
