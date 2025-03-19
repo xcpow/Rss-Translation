@@ -4,21 +4,7 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Wed, 19 Mar 2025 18:13:21 GMT</lastBuildDate>
-    <item>
-      <title>Openai的深层研究代理人即将进行白领工作</title>
-      <link>https://www.wired.com/story/openais-deep-research-agent-is-coming-for-white-collar-work/</link>
-      <description><![CDATA[以研究为重点的代理展示了新一代功能更强大的AI模型如何自动化某些办公室任务。]]></description>
-      <guid>https://www.wired.com/story/openais-deep-research-agent-is-coming-for-white-collar-work/</guid>
-      <pubDate>Wed, 19 Mar 2025 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA押注合成数据</title>
-      <link>https://www.wired.com/story/nvidia-gretel-acquisition-synthetic-training-data/</link>
-      <description><![CDATA[NVIDIA已收购了合成数据启动Gretel，以加强芯片制造商客户和开发人员使用的AI培训数据。]]></description>
-      <guid>https://www.wired.com/story/nvidia-gretel-acquisition-synthetic-training-data/</guid>
-      <pubDate>Wed, 19 Mar 2025 15:27:27 GMT</pubDate>
-    </item>
+    <lastBuildDate>Wed, 19 Mar 2025 21:08:56 GMT</lastBuildDate>
     <item>
       <title>Doge在USDA的削减可能会导致美国杂货价格上涨，而入侵物种则会传播</title>
       <link>https://www.wired.com/story/usda-food-supply-chains/</link>
@@ -109,6 +95,20 @@
       <description><![CDATA[在Google反托拉斯案中的最终提议的补救措施中，司法部重申，Google应该停止向合作伙伴支付搜索位置，并剥离其主要的Chrome浏览器。]]></description>
       <guid>https://www.wired.com/story/the-doj-still-wants-google-to-divest-chrome/</guid>
       <pubDate>Fri, 07 Mar 2025 23:26:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Doge已为1,500名联邦工人部署了其GSAI定制聊天机器人</title>
+      <link>https://www.wired.com/story/gsai-chatbot-1500-federal-workers/</link>
+      <description><![CDATA[埃隆·马斯克（Elon Musk）的总督团队正在自动化任务，因为它继续清除联邦劳动力。]]></description>
+      <guid>https://www.wired.com/story/gsai-chatbot-1500-federal-workers/</guid>
+      <pubDate>Fri, 07 Mar 2025 23:22:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>“创业国家”团体表示，他们正在与特朗普官员见面，以推动放松管制的“自由城市”</title>
+      <link>https://www.wired.com/story/startup-nations-donald-trump-legislation/</link>
+      <description><![CDATA[Próspera这样的项目的建筑师正在起草立法，以创建美国不受联邦法规的城市。]]></description>
+      <guid>https://www.wired.com/story/startup-nations-donald-trump-legislation/</guid>
+      <pubDate>Fri, 07 Mar 2025 19:48:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
