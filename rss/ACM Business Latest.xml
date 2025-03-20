@@ -4,7 +4,14 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 20 Mar 2025 12:17:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Mar 2025 15:10:33 GMT</lastBuildDate>
+    <item>
+      <title>X上的一个直播悲剧火花狂热的狂热</title>
+      <link>https://www.wired.com/story/livestreamed-tragedy-x-memecoin-frenzy/</link>
+      <description><![CDATA[当一个来自加利福尼亚州的年轻人在X上播放他的死时，渴望利润的商人堆积在他的形象中创造的加密货币中。]]></description>
+      <guid>https://www.wired.com/story/livestreamed-tragedy-x-memecoin-frenzy/</guid>
+      <pubDate>Thu, 20 Mar 2025 14:35:29 GMT</pubDate>
+    </item>
     <item>
       <title>Openai的深层研究代理人即将进行白领工作</title>
       <link>https://www.wired.com/story/openais-deep-research-agent-is-coming-for-white-collar-work/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[当特斯拉面临全球销售低迷时，并且连续第七周的股票下跌了，埃隆·马斯克（Elon Musk）的滑稽动作真的可以归咎于吗？]]></description>
       <guid>https://www.wired.com/story/whats-driving-teslas-woes/</guid>
       <pubDate>Sat, 08 Mar 2025 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>司法部仍然希望Google出售Chrome</title>
-      <link>https://www.wired.com/story/the-doj-still-wants-google-to-divest-chrome/</link>
-      <description><![CDATA[在Google反托拉斯案中的最终提议的补救措施中，司法部重申，Google应该停止向合作伙伴支付搜索位置，并剥离其主要的Chrome浏览器。]]></description>
-      <guid>https://www.wired.com/story/the-doj-still-wants-google-to-divest-chrome/</guid>
-      <pubDate>Fri, 07 Mar 2025 23:26:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
