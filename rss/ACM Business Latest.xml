@@ -4,7 +4,14 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Tue, 25 Mar 2025 12:17:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Mar 2025 18:13:51 GMT</lastBuildDate>
+    <item>
+      <title>特朗普管理员计划削减负责关键原子测量数据的团队</title>
+      <link>https://www.wired.com/story/nist-doge-layoffs-atomic-spectroscopy/</link>
+      <description><![CDATA[随着特朗普政府继续努力削减美国联邦劳动力的努力，负责发布天体物理学，核融合和其他领域的高级研究数据的团队似乎在斩波街区。]]></description>
+      <guid>https://www.wired.com/story/nist-doge-layoffs-atomic-spectroscopy/</guid>
+      <pubDate>Tue, 25 Mar 2025 15:34:53 GMT</pubDate>
+    </item>
     <item>
       <title>“超过100万”的人想要塞伯卡克。他们在哪里？</title>
       <link>https://www.wired.com/story/where-did-the-one-million-people-who-wanted-a-cybertruck-go/</link>
@@ -27,10 +34,10 @@
       <pubDate>Mon, 24 Mar 2025 20:51:59 GMT</pubDate>
     </item>
     <item>
-      <title>量子计算已死。实时量子计算！</title>
-      <link>https://www.wired.com/story/quantum-computing-is-dead-alive/</link>
-      <description><![CDATA[Schrödinger的猫还活着，同时死亡。具有讽刺意味的是，量子计算也是如此。]]></description>
-      <guid>https://www.wired.com/story/quantum-computing-is-dead-alive/</guid>
+      <title>互联网的重量会让您震惊</title>
+      <link>https://www.wired.com/story/weight-of-the-internet/</link>
+      <description><![CDATA[根据您的要求，互联网的重量不过是土豆，草莓，或者要小得多。有线调查。]]></description>
+      <guid>https://www.wired.com/story/weight-of-the-internet/</guid>
       <pubDate>Mon, 24 Mar 2025 10:00:00 GMT</pubDate>
     </item>
     <item>
@@ -41,17 +48,10 @@
       <pubDate>Mon, 24 Mar 2025 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>互联网的重量会让您震惊</title>
-      <link>https://www.wired.com/story/weight-of-the-internet/</link>
-      <description><![CDATA[根据您的要求，互联网的重量不过是土豆，草莓，或者要小得多。有线调查。]]></description>
-      <guid>https://www.wired.com/story/weight-of-the-internet/</guid>
-      <pubDate>Mon, 24 Mar 2025 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>热的新热力学芯片可以胜过古典计算机</title>
-      <link>https://www.wired.com/story/thermodynamic-computing-ai-guillaume-verdon-based-beff-jezos/</link>
-      <description><![CDATA[Guillaume Verdon正在建造一种新型的芯片，以加速AI。他的改变自我希望加速人类本身。]]></description>
-      <guid>https://www.wired.com/story/thermodynamic-computing-ai-guillaume-verdon-based-beff-jezos/</guid>
+      <title>量子计算已死。实时量子计算！</title>
+      <link>https://www.wired.com/story/quantum-computing-is-dead-alive/</link>
+      <description><![CDATA[Schrödinger的猫还活着，同时死亡。具有讽刺意味的是，量子计算也是如此。]]></description>
+      <guid>https://www.wired.com/story/quantum-computing-is-dead-alive/</guid>
       <pubDate>Mon, 24 Mar 2025 10:00:00 GMT</pubDate>
     </item>
     <item>
@@ -59,6 +59,13 @@
       <link>https://www.wired.com/story/q-day-apocalypse-quantum-computers-encryption/</link>
       <description><![CDATA[当量子计算机最终可以破解加密并闯入世界上最佳保存的秘密时会发生什么？这就是Q-Day，这是有史以来最糟糕的假期。]]></description>
       <guid>https://www.wired.com/story/q-day-apocalypse-quantum-computers-encryption/</guid>
+      <pubDate>Mon, 24 Mar 2025 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>热的新热力学芯片可以胜过古典计算机</title>
+      <link>https://www.wired.com/story/thermodynamic-computing-ai-guillaume-verdon-based-beff-jezos/</link>
+      <description><![CDATA[Guillaume Verdon正在建造一种新型的芯片，以加速AI。他的改变自我希望加速人类本身。]]></description>
+      <guid>https://www.wired.com/story/thermodynamic-computing-ai-guillaume-verdon-based-beff-jezos/</guid>
       <pubDate>Mon, 24 Mar 2025 10:00:00 GMT</pubDate>
     </item>
     <item>
@@ -102,13 +109,6 @@
       <description><![CDATA[在对大型科技公司与特朗普政府政策保持一致的越来越多的担忧之中，人们开始将其数字生活转移到基于服务的海外。这是您需要知道的。]]></description>
       <guid>https://www.wired.com/story/trump-era-digital-expat/</guid>
       <pubDate>Fri, 21 Mar 2025 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>在Google的两年狂热中，赶上Openai</title>
-      <link>https://www.wired.com/story/google-openai-gemini-chatgpt-artificial-intelligence/</link>
-      <description><![CDATA[搜索巨头应该首先是聊天机器人革命。不是。因此，它充满了深夜，裁员并降低了一些护栏。]]></description>
-      <guid>https://www.wired.com/story/google-openai-gemini-chatgpt-artificial-intelligence/</guid>
-      <pubDate>Fri, 21 Mar 2025 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
