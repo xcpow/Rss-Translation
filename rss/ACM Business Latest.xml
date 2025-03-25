@@ -4,7 +4,14 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Tue, 25 Mar 2025 18:13:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Mar 2025 21:09:18 GMT</lastBuildDate>
+    <item>
+      <title>Databricks具有一个使AI模型改善自己的技巧</title>
+      <link>https://www.wired.com/story/databricks-has-a-trick-that-lets-ai-models-improve-themselves/</link>
+      <description><![CDATA[使用最近的几项创新，该公司的数据助剂将使客户即使没有吱吱作响的清洁数据，也可以提高其AI模型的智商。]]></description>
+      <guid>https://www.wired.com/story/databricks-has-a-trick-that-lets-ai-models-improve-themselves/</guid>
+      <pubDate>Tue, 25 Mar 2025 20:00:11 GMT</pubDate>
+    </item>
     <item>
       <title>特朗普管理员计划削减负责关键原子测量数据的团队</title>
       <link>https://www.wired.com/story/nist-doge-layoffs-atomic-spectroscopy/</link>
@@ -34,6 +41,13 @@
       <pubDate>Mon, 24 Mar 2025 20:51:59 GMT</pubDate>
     </item>
     <item>
+      <title>量子计算已死。实时量子计算！</title>
+      <link>https://www.wired.com/story/quantum-computing-is-dead-alive/</link>
+      <description><![CDATA[Schrödinger的猫还活着，同时死亡。具有讽刺意味的是，量子计算也是如此。]]></description>
+      <guid>https://www.wired.com/story/quantum-computing-is-dead-alive/</guid>
+      <pubDate>Mon, 24 Mar 2025 10:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>互联网的重量会让您震惊</title>
       <link>https://www.wired.com/story/weight-of-the-internet/</link>
       <description><![CDATA[根据您的要求，互联网的重量不过是土豆，草莓，或者要小得多。有线调查。]]></description>
@@ -45,13 +59,6 @@
       <link>https://www.wired.com/story/how-software-engineers-coders-actually-use-ai/</link>
       <description><![CDATA[我们调查了730名编码人员和开发人员，以了解他们（以及多久）如何在工作中使用AI聊天机器人。结果使我们感到惊讶并打扰了我们。]]></description>
       <guid>https://www.wired.com/story/how-software-engineers-coders-actually-use-ai/</guid>
-      <pubDate>Mon, 24 Mar 2025 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>量子计算已死。实时量子计算！</title>
-      <link>https://www.wired.com/story/quantum-computing-is-dead-alive/</link>
-      <description><![CDATA[Schrödinger的猫还活着，同时死亡。具有讽刺意味的是，量子计算也是如此。]]></description>
-      <guid>https://www.wired.com/story/quantum-computing-is-dead-alive/</guid>
       <pubDate>Mon, 24 Mar 2025 10:00:00 GMT</pubDate>
     </item>
     <item>
@@ -102,13 +109,6 @@
       <description><![CDATA[即使Yahoo 30岁时，首席执行官Jim Lanzone表示，该公司仍处于“建筑模式”。]]></description>
       <guid>https://www.wired.com/story/plaintext-yahoo-turns-30-jim-lanzone/</guid>
       <pubDate>Fri, 21 Mar 2025 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何避免基于美国的数字服务以及为什么您可能想</title>
-      <link>https://www.wired.com/story/trump-era-digital-expat/</link>
-      <description><![CDATA[在对大型科技公司与特朗普政府政策保持一致的越来越多的担忧之中，人们开始将其数字生活转移到基于服务的海外。这是您需要知道的。]]></description>
-      <guid>https://www.wired.com/story/trump-era-digital-expat/</guid>
-      <pubDate>Fri, 21 Mar 2025 10:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
