@@ -4,7 +4,14 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 27 Mar 2025 12:18:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Mar 2025 15:10:42 GMT</lastBuildDate>
+    <item>
+      <title>内部梅塞·马斯克（Maye Musk）与中国的舒适关系</title>
+      <link>https://www.wired.com/story/maye-musk-china-influencer-brands/</link>
+      <description><![CDATA[随着埃隆·马斯克（Elon Musk）继续扩大他在美国的政治力量，他的母亲一再前往中国参加活动，中国品牌的模式以及推广特斯拉。]]></description>
+      <guid>https://www.wired.com/story/maye-musk-china-influencer-brands/</guid>
+      <pubDate>Thu, 27 Mar 2025 14:10:45 GMT</pubDate>
+    </item>
     <item>
       <title>内部Arxiv  - 所有科学中最具变革性的平台</title>
       <link>https://www.wired.com/story/inside-arxiv-most-transformative-code-science/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>世界末日最好的编程语言</title>
       <link>https://www.wired.com/story/forth-collapse-os-apocalypse-programming-language/</link>
-      <description><![CDATA[一旦电网掉下来，一种旧的编程语言称为thor，一个名为Collapse OS的新操作系统，可能是我们唯一的救赎。]]></description>
+      <description><![CDATA[一旦电网掉下来，一种旧的编程语言称为thor，一个名为Collapse OS的新操作系统可能是我们唯一的救赎。]]></description>
       <guid>https://www.wired.com/story/forth-collapse-os-apocalypse-programming-language/</guid>
       <pubDate>Wed, 26 Mar 2025 10:00:00 GMT</pubDate>
     </item>
@@ -101,13 +108,6 @@
       <link>https://www.wired.com/story/thermodynamic-computing-ai-guillaume-verdon-based-beff-jezos/</link>
       <description><![CDATA[Guillaume Verdon正在建造一种新型的芯片，以加速AI。他的改变自我希望加速人类本身。]]></description>
       <guid>https://www.wired.com/story/thermodynamic-computing-ai-guillaume-verdon-based-beff-jezos/</guid>
-      <pubDate>Mon, 24 Mar 2025 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>量子启示录即将到来。害怕</title>
-      <link>https://www.wired.com/story/q-day-apocalypse-quantum-computers-encryption/</link>
-      <description><![CDATA[当量子计算机最终可以破解加密并闯入世界上最佳保存的秘密时会发生什么？这就是Q-Day，这是有史以来最糟糕的假期。]]></description>
-      <guid>https://www.wired.com/story/q-day-apocalypse-quantum-computers-encryption/</guid>
       <pubDate>Mon, 24 Mar 2025 10:00:00 GMT</pubDate>
     </item>
     </channel>
