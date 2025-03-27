@@ -4,7 +4,42 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Tue, 25 Mar 2025 21:09:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Mar 2025 12:18:19 GMT</lastBuildDate>
+    <item>
+      <title>内部Arxiv  - 所有科学中最具变革性的平台</title>
+      <link>https://www.wired.com/story/inside-arxiv-most-transformative-code-science/</link>
+      <description><![CDATA[如果没有在线研究存储库ARXIV，那么现代科学就不会存在。三十年来，它的创造者仍然无法放手。]]></description>
+      <guid>https://www.wired.com/story/inside-arxiv-most-transformative-code-science/</guid>
+      <pubDate>Thu, 27 Mar 2025 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>外部计划如何使NVIDIA脱颖而出</title>
+      <link>https://www.wired.com/story/how-extropic-plans-to-unseat-nvidia/</link>
+      <description><![CDATA[用一种全新的计算机芯片挑战世界上最成功的芯片制造商似乎很荒谬，但这并不比AI种族本身更荒谬。]]></description>
+      <guid>https://www.wired.com/story/how-extropic-plans-to-unseat-nvidia/</guid>
+      <pubDate>Wed, 26 Mar 2025 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在加密货币的“鱿鱼游戏”的回答中秘密秘密。这几乎使我感到不安</title>
+      <link>https://www.wired.com/story/crypto-the-game-undercover/</link>
+      <description><![CDATA[我花了10天的时间参加Crypto：The Game，这是一场赢家全力竞赛，数百名玩家试图精巧和背刺以获得140,000美元的加密货币奖。]]></description>
+      <guid>https://www.wired.com/story/crypto-the-game-undercover/</guid>
+      <pubDate>Wed, 26 Mar 2025 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>世界末日最好的编程语言</title>
+      <link>https://www.wired.com/story/forth-collapse-os-apocalypse-programming-language/</link>
+      <description><![CDATA[一旦电网掉下来，一种旧的编程语言称为thor，一个名为Collapse OS的新操作系统，可能是我们唯一的救赎。]]></description>
+      <guid>https://www.wired.com/story/forth-collapse-os-apocalypse-programming-language/</guid>
+      <pubDate>Wed, 26 Mar 2025 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>没有计算机科学家可以破解的蠕虫</title>
+      <link>https://www.wired.com/story/openworm-worm-simulator-biology-code/</link>
+      <description><![CDATA[世界上最简单，最简单的生物之一是秀丽隐杆线虫线虫。在13年的时间里，一个名为OpenWorm的项目一直尝试过（完全失败）来模拟它。]]></description>
+      <guid>https://www.wired.com/story/openworm-worm-simulator-biology-code/</guid>
+      <pubDate>Wed, 26 Mar 2025 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Databricks具有一个使AI模型改善自己的技巧</title>
       <link>https://www.wired.com/story/databricks-has-a-trick-that-lets-ai-models-improve-themselves/</link>
@@ -41,17 +76,17 @@
       <pubDate>Mon, 24 Mar 2025 20:51:59 GMT</pubDate>
     </item>
     <item>
-      <title>量子计算已死。实时量子计算！</title>
-      <link>https://www.wired.com/story/quantum-computing-is-dead-alive/</link>
-      <description><![CDATA[Schrödinger的猫还活着，同时死亡。具有讽刺意味的是，量子计算也是如此。]]></description>
-      <guid>https://www.wired.com/story/quantum-computing-is-dead-alive/</guid>
-      <pubDate>Mon, 24 Mar 2025 10:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>互联网的重量会让您震惊</title>
       <link>https://www.wired.com/story/weight-of-the-internet/</link>
       <description><![CDATA[根据您的要求，互联网的重量不过是土豆，草莓，或者要小得多。有线调查。]]></description>
       <guid>https://www.wired.com/story/weight-of-the-internet/</guid>
+      <pubDate>Mon, 24 Mar 2025 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>量子计算已死。实时量子计算！</title>
+      <link>https://www.wired.com/story/quantum-computing-is-dead-alive/</link>
+      <description><![CDATA[Schrödinger的猫还活着，同时死亡。具有讽刺意味的是，量子计算也是如此。]]></description>
+      <guid>https://www.wired.com/story/quantum-computing-is-dead-alive/</guid>
       <pubDate>Mon, 24 Mar 2025 10:00:00 GMT</pubDate>
     </item>
     <item>
@@ -62,13 +97,6 @@
       <pubDate>Mon, 24 Mar 2025 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>量子启示录即将到来。害怕</title>
-      <link>https://www.wired.com/story/q-day-apocalypse-quantum-computers-encryption/</link>
-      <description><![CDATA[当量子计算机最终可以破解加密并闯入世界上最佳保存的秘密时会发生什么？这就是Q-Day，这是有史以来最糟糕的假期。]]></description>
-      <guid>https://www.wired.com/story/q-day-apocalypse-quantum-computers-encryption/</guid>
-      <pubDate>Mon, 24 Mar 2025 10:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>热的新热力学芯片可以胜过古典计算机</title>
       <link>https://www.wired.com/story/thermodynamic-computing-ai-guillaume-verdon-based-beff-jezos/</link>
       <description><![CDATA[Guillaume Verdon正在建造一种新型的芯片，以加速AI。他的改变自我希望加速人类本身。]]></description>
@@ -76,39 +104,11 @@
       <pubDate>Mon, 24 Mar 2025 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普的侵略性欧洲在美国云巨人队</title>
-      <link>https://www.wired.com/story/trump-us-cloud-services-europe/</link>
-      <description><![CDATA[欧盟公司开始寻找抛弃亚马逊，Google和Microsoft Cloud Services的方法，因为担心美国的安全风险上升。但是切割关系并不容易。]]></description>
-      <guid>https://www.wired.com/story/trump-us-cloud-services-europe/</guid>
-      <pubDate>Mon, 24 Mar 2025 06:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Openai的Sora受到性别歧视，种族主义者和能干的偏见的困扰</title>
-      <link>https://www.wired.com/story/openai-sora-video-generator-bias/</link>
-      <description><![CDATA[有线测试了OpenAI的流行AI视频生成器，发现它放大了性别歧视的刻板印象和能力师的比喻，从而使AI Image Tools中已经存在的相同偏见永存。]]></description>
-      <guid>https://www.wired.com/story/openai-sora-video-generator-bias/</guid>
-      <pubDate>Sun, 23 Mar 2025 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个神秘的创业公司正在开发一种新的太阳能工程</title>
-      <link>https://www.wired.com/story/a-mysterious-startup-is-developing-a-new-form-of-solar-geoengineering/</link>
-      <description><![CDATA[以色列 - 美国初创公司Stardust旨在为其独特的气溶胶技术专利，以临时冷却地球。]]></description>
-      <guid>https://www.wired.com/story/a-mysterious-startup-is-developing-a-new-form-of-solar-geoengineering/</guid>
-      <pubDate>Sat, 22 Mar 2025 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>联邦调查局正在调查对特斯拉的袭击为“家庭恐怖主义”。这就是为什么重要的</title>
-      <link>https://www.wired.com/story/fbi-tesla-arson-domestic-terrorism-protests/</link>
-      <description><![CDATA[公民自由专家警告说，国内恐怖主义的指定可以使执法机构赋予执法权力，以监视抗议埃隆·马斯克（Elon Musk）在美国联邦政府中的作用的人。]]></description>
-      <guid>https://www.wired.com/story/fbi-tesla-arson-domestic-terrorism-protests/</guid>
-      <pubDate>Sat, 22 Mar 2025 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>雅虎还在这里 - 它为人工智能制定了巨大的计划</title>
-      <link>https://www.wired.com/story/plaintext-yahoo-turns-30-jim-lanzone/</link>
-      <description><![CDATA[即使Yahoo 30岁时，首席执行官Jim Lanzone表示，该公司仍处于“建筑模式”。]]></description>
-      <guid>https://www.wired.com/story/plaintext-yahoo-turns-30-jim-lanzone/</guid>
-      <pubDate>Fri, 21 Mar 2025 14:00:00 GMT</pubDate>
+      <title>量子启示录即将到来。害怕</title>
+      <link>https://www.wired.com/story/q-day-apocalypse-quantum-computers-encryption/</link>
+      <description><![CDATA[当量子计算机最终可以破解加密并闯入世界上最佳保存的秘密时会发生什么？这就是Q-Day，这是有史以来最糟糕的假期。]]></description>
+      <guid>https://www.wired.com/story/q-day-apocalypse-quantum-computers-encryption/</guid>
+      <pubDate>Mon, 24 Mar 2025 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,102 +4,114 @@
     <title>ACM技术</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM技术</description>
-    <lastBuildDate>Tue, 25 Mar 2025 12:17:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Mar 2025 12:18:11 GMT</lastBuildDate>
     <item>
-      <title>AI驱动的天气预测突破报告</title>
-      <link>https://www.theguardian.com/technology/2025/mar/20/ai-aardvark-weather-prediction-forecasting-artificial-intelligence</link>
-      <description><![CDATA[根据英国Aardvark大学的研究人员的说法，AI模型（英国） 可以替换天气预测过程中的数值求解器步骤，以产生比当今超级计算机更快，更准确的预测。系统。
-监护人（英国）（03/20/25）雷切尔·霍尔（Rachel Hall）； Ian样本]]></description>
-      <guid>https://www.theguardian.com/technology/2025/mar/20/ai-aardvark-weather-prediction-forecasting-artificial-intelligence</guid>
-      <pubDate>Tue, 25 Mar 2025 12:17:43 GMT</pubDate>
+      <title>我们可以减少渴望的动力吗？这些研究人员正在努力</title>
+      <link>https://arstechnica.com/ai/2025/03/can-we-make-ai-less-power-hungry-these-researchers-are-working-on-it/</link>
+      <description><![CDATA[ARS Technica  与ML Energy计划合作的研究人员正在尝试减少AI功耗而不会影响性能。为了改变AI模型的内部工作，研究人员利用技术来减少模型的参数和优化，以减少其余参数所需的内存量。为了优化数据中心如何运行AI模型，他们开发了一种软件工具，该工具可以减慢集群中的某些GPU以使用更少的能量，同时确保GPUS完成处理工作负载。
+Ars Technica (03/24/25) Jacek Krywko View Full Article]]></description>
+      <guid>https://arstechnica.com/ai/2025/03/can-we-make-ai-less-power-hungry-these-researchers-are-working-on-it/</guid>
+      <pubDate>Thu, 27 Mar 2025 12:18:11 GMT</pubDate>
     </item>
     <item>
-      <title>勒索软件攻击在2月猛增了50％</title>
-      <link>https://www.cfodive.com/news/ransomware-attacks-surged-50-in-february-ncc/743135/</link>
-      <description><![CDATA[根据网络安全公司NCC Group的一份报告，CFO Dive  全球勒索软件水平上个月比1月份增加了50％，这主要是由网络犯罪行动称为Clop的攻击。 2月的袭击达到了886的历史最高点，而1月份为590，近40％的事件归因于CLOP活动。
-CFO潜水（03/20/25）Alexei Alexis  &lt;a href =“ https://www.cfodive.com/news/news/ransomware-attacks-sure-------------50-in-februation-ncc/743135/]]></description>
-      <guid>https://www.cfodive.com/news/ransomware-attacks-surged-50-in-february-ncc/743135/</guid>
-      <pubDate>Tue, 25 Mar 2025 12:17:41 GMT</pubDate>
+      <title>科学家使用激光无人机来计算中国的树木</title>
+      <link>https://www.livescience.com/planet-earth/plants/chinese-scientists-use-laser-drones-to-count-the-countrys-trees-all-142-6-billion-of-them</link>
+      <description><![CDATA[LiveScienceResearchers at China&#39;s Peking University estimate the country has 142.6 billion trees, based on data collected by LiDAR-equipped drones over 540 square miles since 2015. The data, analyzed by the Lidar360 AI-powered software system, produced a tree density estimate that was used to calculate the national figure, which Peking University’s Qinghua Guo said could actually被低估。这些数据可用于监测森林生态系统状况，并将其集中在该国的生态和气候目标的一部分。
+LivesCience（03/21/25）Sascha Pare ]]></description>
+      <guid>https://www.livescience.com/planet-earth/plants/chinese-scientists-use-laser-drones-to-count-the-countrys-trees-all-142-6-billion-of-them</guid>
+      <pubDate>Thu, 27 Mar 2025 12:18:10 GMT</pubDate>
     </item>
     <item>
-      <title>当AI护士改造医院护理时，人类护士向后推</title>
-      <link>https://apnews.com/article/artificial-intelligence-ai-nurses-hospitals-health-care-3e41c0a2768a3b4c5e002270cc2abe23</link>
-      <description><![CDATA[美联社 医院越来越多地使用AI执行先前由护士处理的任务。医院说，人工智能在解决倦怠和人手不足的同时帮助护士更有效地工作，但护士认为，这项技术正在超越其专业知识和降级护理质量。美国国家护士联合会是美国最大的护理联盟，正在推动更多地投入对AI的使用方式，并防止纪律保护如果护士决定忽略自动化建议。
-美联社（03/16/25）MATTHEW PERRONE  &lt;a href =“ https://apnews.com/article/article/articer-covery-intelligence-intelligence-ai-nurses-hospitals-hospitals-health-care-care-3e41c0a2768a3b4a3b4a3b4a3b4c5e002e002270270cc2abe2abe2abe2abe2abe2abe2abe2abe2abe23”]]></description>
-      <guid>https://apnews.com/article/artificial-intelligence-ai-nurses-hospitals-health-care-3e41c0a2768a3b4c5e002270cc2abe23</guid>
-      <pubDate>Tue, 25 Mar 2025 12:17:40 GMT</pubDate>
+      <title>云数据中心变得更大，更密集</title>
+      <link>https://www.ciodive.com/news/cloud-ai-data-center-aws-microsof-google-oracle/743218/</link>
+      <description><![CDATA[Synergy研究小组（SRG）的CIO Dive  研究发现，高度规模提供商运营的数据中心数量从2023年底的992上升到1,136。 SRG。 Srg＆rsquo的约翰·丁斯达尔（John Dinsdal）说，新开放的数据中心的平均规模最近增加并将继续增加，这意味着总超尺度数据中心容量的增加甚至比数据中心计数更快地增加。
+CIO Dive（03/21/25）Matt Ashare  &lt;a href =“ https://www.ciodive.com/news/news/cloud-ai-data-center-aws-aws-center-aws-microsof-google-google-oracle-oracle-oracle-7443218/]]></description>
+      <guid>https://www.ciodive.com/news/cloud-ai-data-center-aws-microsof-google-oracle/743218/</guid>
+      <pubDate>Thu, 27 Mar 2025 12:18:09 GMT</pubDate>
     </item>
     <item>
-      <title>感官训练机器人帮助钢琴家打破技能限制</title>
-      <link>https://www.asahi.com/ajw/articles/15673310</link>
-      <description><![CDATA[Asahi Shimbun（日本） 由Sony Computer Science Laboratories的Shinichi Furuya领导的团队发明了一种机器人设备，专注于“感官培训”，为了帮助钢琴家超出他们的限制。该设备像手套一样适合一个人的手和手指，并将佩戴者的手指自动移动到预先编程的音乐作品中，从而增强了感觉输入。 Furuya说，他曾经渴望成为一名专业的钢琴家，我想使用科学来提高实践质量，解锁隐藏的潜力，并为音乐家带来了曾经不可能取得的成就的乐趣。
-Asahi Shimbun（日本）（03/18/25）]]></description>
-      <guid>https://www.asahi.com/ajw/articles/15673310</guid>
-      <pubDate>Tue, 25 Mar 2025 12:17:38 GMT</pubDate>
+      <title>计算机科学家反对BSi-Google Cloud Deal</title>
+      <link>https://www.heise.de/en/news/Blackmailability-concerns-Computer-scientists-oppose-BSI-Google-cloud-deal-10325001.html</link>
+      <description><![CDATA[Heise Online（德国）  德国信息学协会（GI）反对德国联邦信息安全办公室（BSI）和Google之间的合作协议，以创建“为公共当局的安全和主权云解决方案”。 GI工作组的一项分析得出的结论是，该协议提出了“重要的安全和经济政策以及竞争和数据保护问题”，“是美国对美国数字依赖和勒索的潜在助推器”。  来自“计算机科学家反对BSi-Google Cloud Deal” 
+Heise Online（德国）（03/21/25）Stefan krempl  文章]]></description>
+      <guid>https://www.heise.de/en/news/Blackmailability-concerns-Computer-scientists-oppose-BSI-Google-cloud-deal-10325001.html</guid>
+      <pubDate>Thu, 27 Mar 2025 12:18:08 GMT</pubDate>
     </item>
     <item>
-      <title>汽车制造商，技术行业敦促美国加快自动驾驶汽车部署</title>
-      <link>https://www.reuters.com/business/autos-transportation/automakers-tech-industry-urge-trump-speed-self-driving-car-deployment-2025-03-18/</link>
-      <description><![CDATA[路透社 在致美国运输部长肖恩·达菲（Sean Duffy）的信中，一群汽车制造商和科技集团呼吁快速实施用于自动驾驶汽车的国家绩效框架。除其他外，这封信要求国家公路交通安全管理局被认为是自动驾驶汽车硬件，软件和操作的唯一调节器。这些团体还希望美国运输部不需要人类驾驶员操作自动驾驶商用汽车。
-路透社（03/18/25）David Shepardson  ]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/automakers-tech-industry-urge-trump-speed-self-driving-car-deployment-2025-03-18/</guid>
-      <pubDate>Tue, 25 Mar 2025 12:17:37 GMT</pubDate>
+      <title>传感器戳植物的叶子，让农民知道他们是否有压力</title>
+      <link>https://newatlas.com/science/leaf-sensor-plant-stress/</link>
+      <description><![CDATA[爱荷华州立大学研究人员开发的新图集 传感器可以提醒农民植物中过氧化氢的水平升高，表明存在压力源，例如感染，害虫损伤和干旱。平坦的柔性聚合物贴片具有一系列金色涂层的微针，进入叶子上的组织顶层。如果过氧化氢的水平表明存在压力，则通过蓝牙或Wi-Fi提醒农民。 来自“传感器戳植物的叶子，让农民知道他们是否有压力” 
+new Atlas（03/22/25）Ben Coxworth  查看完整文章]]></description>
+      <guid>https://newatlas.com/science/leaf-sensor-plant-stress/</guid>
+      <pubDate>Thu, 27 Mar 2025 12:18:07 GMT</pubDate>
     </item>
     <item>
-      <title>NOAA推出了风暴潮虚拟现实体验</title>
-      <link>https://www.washingtonpost.com/science/2025/03/23/virtual-reality-storm-surge-dangers/</link>
-      <description><![CDATA[《华盛顿邮报》  由美国国家海洋和大气管理局（NOAA）资助的新的虚拟现实模拟显示，风暴潮的水域迅速上升会威胁生命和结构。在佐治亚大学和克莱姆森大学的研究人员的帮助下创建的“天气暴风雨”模拟旨在通过戏剧化激烈的飓风期间在海滨别墅中发生的事情来改善风暴潮的准备。
-《华盛顿邮报》（03/23/25）]]></description>
-      <guid>https://www.washingtonpost.com/science/2025/03/23/virtual-reality-storm-surge-dangers/</guid>
-      <pubDate>Tue, 25 Mar 2025 12:17:36 GMT</pubDate>
+      <title>AI突破使DNA数据检索更快，更准确</title>
+      <link>https://www.tomshardware.com/pc-components/storage/ai-breakthrough-claimed-to-make-dna-data-retrieval-3-200x-faster-with-better-accuracy-but-still-slower-than-standard-storage</link>
+      <description><![CDATA[汤姆（Tom）的硬件 由研究人员在Technion＆Ndash开发的AI工具;与最佳当前方法相比，以色列理工学院的时间更快3200次，在检索DNA中存储的数字信息时最多高达40％。使用新的DNAFormer方法，可以在短短10分钟内处理100MB的数据，而使用当前技术几天。尽管对于商业市场而言，新工具仍然太慢，但研究人员认为它们正在朝着正确的方向移动。
+Tom&#39;s Hardware (03/23/25) Anton Shilov 查看全文]]></description>
+      <guid>https://www.tomshardware.com/pc-components/storage/ai-breakthrough-claimed-to-make-dna-data-retrieval-3-200x-faster-with-better-accuracy-but-still-slower-than-standard-storage</guid>
+      <pubDate>Thu, 27 Mar 2025 12:18:06 GMT</pubDate>
     </item>
     <item>
-      <title>Facebook在法律斗争后停止针对英国妇女的广告</title>
-      <link>https://www.bbc.com/news/articles/c1en1yjv4dpo</link>
-      <description><![CDATA[英国广播公司新闻  Facebook已同意停止针对一名英国妇女的广告，该妇女于2022年起诉Meta，停止使用她的个人数据，以基于认为自己感兴趣的主题的有针对性的广告来填补她的社交媒体供稿。该案是基于以下论点：英国对直接营销的定义涵盖了Facebook的有针对性广告系统，这使个人有权进行反对的权利，信息专员办公室同意。
-BBC新闻（03/22/25）Grace Dean  查看完整文章]]></description>
-      <guid>https://www.bbc.com/news/articles/c1en1yjv4dpo</guid>
-      <pubDate>Tue, 25 Mar 2025 12:17:35 GMT</pubDate>
+      <title>超过300万申请人的数据在纽约大学网站上泄漏</title>
+      <link>https://nyunews.com/news/2025/03/22/nyu-website-hacked-data-leak/</link>
+      <description><![CDATA[华盛顿广场新闻 黑客在3月22日渗透了纽约大学（NYU）网站至少两个小时，暴露了至少300万申请人的数据，可追溯至至少1989年。暴露的数据包括申请人的姓名，测试分数，专业，邮政编码，ZIP代码，以及与家庭成员和经济援助有关的信息。该黑客还发布了图表，声称是2024-25录取周期的公认的SAT分数，ACT分数和GPA。
+华盛顿广场新闻（03/22/25）Dharma Niles;克里希·迪（Krish Dev）； Yezen Saadah  查看完整文章]]></description>
+      <guid>https://nyunews.com/news/2025/03/22/nyu-website-hacked-data-leak/</guid>
+      <pubDate>Thu, 27 Mar 2025 12:18:06 GMT</pubDate>
     </item>
     <item>
-      <title>安全协议可保护无线医疗植入物免受网络威胁</title>
-      <link>https://news.rice.edu/news/2025/rice-engineer-develops-new-security-protocol-protect-miniaturized-wireless-medical</link>
-      <description><![CDATA[莱斯大学研究人员开发的莱斯大学新闻 旨在保护无线植入物免受网络威胁的范围，同时使紧急访问能够保护无线植入物。磁性数据报道层安全性（ME-DTLS）协议利用了无线功率传输的缺陷，其中横向或侧面移动触发信号未对准。 Rice的Kaiyuan Yang解释说：“我们通过将二进制价值传输到具有充分认识的患者的特定运动中，将其变成了安全功能。”  从“安全协议”保护无线医疗植入物免受网络的影响“ 
-莱斯大学新闻（03/20/25）Silvia Cernea Clark  &lt;a href =“ https://news.rice.edu/news/2025/2025/rice-engineer-deevelos-new-security-new-security-security-protocol-protot-protect-protect-minature-protect-minatured-protect-minatured-wireless-wireless-medical target”目标=]]></description>
-      <guid>https://news.rice.edu/news/2025/rice-engineer-develops-new-security-protocol-protect-miniaturized-wireless-medical</guid>
-      <pubDate>Tue, 25 Mar 2025 12:17:34 GMT</pubDate>
+      <title>马来西亚在美国压力下打击NVIDIA芯片流动</title>
+      <link>https://www.ft.com/content/d0267fb8-36b2-41dc-9c0c-d493976812c7</link>
+      <description><![CDATA[《金融时报》  马来西亚贸易部长Zafrul Aziz表示，美国政府已敦促他的国家监视高端NVIDIA芯片的运输，因为许多人担心许多人通过马来西亚进入中国，违反了美国出口规则。 Zafrul说，他已经与数字部长Gobind Singh Deo建立了一个工作组，以加强对新兴的国内数据中心部门的法规，该部门依赖于NVIDIA的筹码。 从马来西亚开始对Nvidia Chip Flows crespition ocking of neu n vidia Chip Flow。
+《金融时报》（03/24/25）欧文·沃克； Alec Russell  ]]></description>
+      <guid>https://www.ft.com/content/d0267fb8-36b2-41dc-9c0c-d493976812c7</guid>
+      <pubDate>Thu, 27 Mar 2025 12:18:05 GMT</pubDate>
     </item>
     <item>
-      <title>马德里计划限制计算机，小学的平板电脑使用</title>
-      <link>https://www.theguardian.com/world/2025/mar/20/madrid-plans-to-limit-computer-and-tablet-use-in-primary-schools-to-two-hours-a-week</link>
-      <description><![CDATA[西班牙政府的监护人（英国） 马德里（Madrid）提出了对在小学中使用计算机和平板电脑的限制，这些限制将于9月生效。将禁止使用屏幕的儿童使用屏幕，3至6岁的学生每周将允许一个有监督的计算机时间。在小学三年级和四年级的学生中，学生每周最长的计算机时间将增加到90分钟，而在五年级和六年中，学生将增加两个小时的时间。此外，教师将受到限制分配涉及使用“在学校时间表之外的设备”的家庭作业。
-监护人（英国）（03/20/25）萨姆·琼斯（Sam Jones）]]></description>
-      <guid>https://www.theguardian.com/world/2025/mar/20/madrid-plans-to-limit-computer-and-tablet-use-in-primary-schools-to-two-hours-a-week</guid>
-      <pubDate>Tue, 25 Mar 2025 12:17:33 GMT</pubDate>
+      <title>AI驱动的数据库增强了阿尔茨海默氏症的药物发现过程</title>
+      <link>https://www.wsj.com/articles/ai-powered-databases-boost-the-alzheimers-drug-discovery-process-b9b75180</link>
+      <description><![CDATA[《华尔街日报》  英国牛津药物发现研究所的研究人员与Graphise合作，生成了其生命科学研究信息的大规模知识图，这可以加快治疗阿尔茨海默氏病的潜在药物的发现过程。知识图使研究人员能够筛选大量的生物医学数据，包括科学期刊和数据集，以确定有关特定基因或蛋白质的信息，几乎比以前可能快10倍。
+《华尔街日报》（03/24/25）Belle lin  ]]></description>
+      <guid>https://www.wsj.com/articles/ai-powered-databases-boost-the-alzheimers-drug-discovery-process-b9b75180</guid>
+      <pubDate>Thu, 27 Mar 2025 12:18:04 GMT</pubDate>
     </item>
     <item>
-      <title>行政命令合并了GSA下的联邦IT合同</title>
-      <link>https://fedscoop.com/trump-executive-order-consolidates-federal-it-contracting-under-gsa/</link>
-      <description><![CDATA[FedScoop&lt;img align=&quot;right&quot; alt=&quot;&quot; height=&quot;120&quot; src=&quot;https://news.content.smithbucklin.com/acm_TechNews/images/thumbnails/Seal_of_the_General_Services_Administration.svg.png&quot; style=&quot;margin-left: 20px;边缘右：20px;”根据唐纳德·特朗普总统于3月20日签署的行政命令，宽度=“ 120” /&gt;，包括IT在内的普通商品和服务的签约将在一般服务管理局（GSA）下合并。 GSA将在30天内担任所有政府范围内收购合同的执行代理人的角色。必要时，GSA管理员可以在必要时“推迟或拒绝”成为政府范围的合同的执行代理人，以确保服务的连续性或其他适当的合适性。
-FedScoop（03/20/25）Billy Mitchell  &lt;a href =“ https://fedscoop.com/trump-execnetun-corecle-corn-consolidates-consolidates-federal-it-contracter-contractering-under-dunder-dunder-dunder-dunder-gesa/”]]></description>
-      <guid>https://fedscoop.com/trump-executive-order-consolidates-federal-it-contracting-under-gsa/</guid>
-      <pubDate>Tue, 25 Mar 2025 12:17:32 GMT</pubDate>
+      <title>ICBS 2025年终身获奖者的图灵获奖者</title>
+      <link>https://news.cgtn.com/news/2025-03-21/ICBS-2025-Six-scientists-honored-with-Basic-Science-Lifetime-Awards-1BVoeJS4Ihi/p.html</link>
+      <description><![CDATA[CGTN（中国） 在周五获得了2025年国际基础科学国际基础科学大会（BASSQUO）的基础科学寿命奖（BSLA）的获奖者，荣誉他们在过去三十年或更长时间以来对他们的学科进行了根本性变化。六位科学家认可的包括斯坦福大学的诺贝尔奖获得者史蒂文·楚和ACM A.M.普林斯顿大学的图灵奖得主罗伯特·恩德尔·塔里扬（Robert Endre Tarjan），两者均授予2025年信息科学与工程学的BSLA。
+
+ 来自“ ICBS 2025终生获奖者中的图灵获奖者” 
+CGTN（中国）（03/21/25）Liu Jiaxin  全文]]></description>
+      <guid>https://news.cgtn.com/news/2025-03-21/ICBS-2025-Six-scientists-honored-with-Basic-Science-Lifetime-Awards-1BVoeJS4Ihi/p.html</guid>
+      <pubDate>Thu, 27 Mar 2025 12:18:03 GMT</pubDate>
     </item>
     <item>
-      <title>Alexnet源代码是开源的</title>
-      <link>https://spectrum.ieee.org/alexnet-source-code</link>
-      <description><![CDATA[IEEE Spectrum  与Google合作，计算机历史博物馆（CHM）已将源代码发布给Alexnet，Alexnet是一种人工神经网络，该神经网络旨在识别摄影图像的内容。当时的多伦多大学研究生Alex Krizhevsky和Ilya Sutskever及其教职顾问ACM A.M. Turing Award奖获得者Geoffrey Hinton，源代码可作为Chm＆rsquo的Github页面上的开源代码。
-IEEE Spectrum（03/21/25）Hansen HSU  查看完整文章]]></description>
-      <guid>https://spectrum.ieee.org/alexnet-source-code</guid>
-      <pubDate>Tue, 25 Mar 2025 12:17:31 GMT</pubDate>
+      <title>为什么政府工作人员，军事规划人员现在使用信号</title>
+      <link>https://www.washingtonpost.com/technology/2025/03/25/signal-government-trump-administration-federal-workers/</link>
+      <description><![CDATA[《华盛顿邮报》   本周的启示，美国官员计划最近对也门发动军事袭击，这重点介绍了美国政府工人对消息传递应用程序的越来越多，以与同事，记者和家庭成员进行交流，而不必担心监督或报复。联邦工人和高级政府官员之间发出信号的转换引起了人们对透明度和保存政府信件和内部通讯的担忧。
+《华盛顿邮报》（03/25/25）Shira Ovide；丹妮尔·阿布里尔（Danielle Abril）；汉娜·纳坦森（Hannah Natanson）； et al。]]></description>
+      <guid>https://www.washingtonpost.com/technology/2025/03/25/signal-government-trump-administration-federal-workers/</guid>
+      <pubDate>Thu, 27 Mar 2025 12:18:02 GMT</pubDate>
     </item>
     <item>
-      <title>中国发表面部识别技术指南</title>
-      <link>https://www.globaltimes.cn/page/202503/1330593.shtml</link>
-      <description><![CDATA[全球时报（中国） 中国的网络空间管理和该国公共安全部在周五共同发布了面部识别技术的详细措施。该措施将于6月1日生效，该措施规定，该技术的使用应具有特定的目的和足够的必要性，同时最大程度地减少对个人权利的影响并实施严格的保护措施。
-全球时报（中国）（03/21/25）yin yeping  查看完整文章]]></description>
-      <guid>https://www.globaltimes.cn/page/202503/1330593.shtml</guid>
-      <pubDate>Tue, 25 Mar 2025 12:17:30 GMT</pubDate>
+      <title>DNA测试站点23和破产文件</title>
+      <link>https://www.bbc.com/news/articles/c9q4r9xy9wro</link>
+      <description><![CDATA[英国广播公司新闻  DNA测试公司23andMe已申请破产保护，现在将试图在法院的监督下出售自己。 23AndMe在新闻稿中说，它计划在整个销售过程中继续运营，“公司对客户数据的存储，管理或保护客户数据的方式没有更改”。星期五，加利福尼亚州23AndMe的总检察长发布了一个消费者警报，建议客户从该网站上删除其数据。
+
+ 来自“ DNA测试站点23andMe破产” 
+BBC新闻（03/24/25）Lily Jamali  查看完整文章]]></description>
+      <guid>https://www.bbc.com/news/articles/c9q4r9xy9wro</guid>
+      <pubDate>Thu, 27 Mar 2025 12:18:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hoefler获得2024 ACM计算奖</title>
+      <link>https://www.acm.org/media-center/2025/march/acm-prize-2024</link>
+      <description><![CDATA[ACM媒体中心  Torsten Hoefler是指导瑞士Eth Zurich的可扩展平行计算实验室的教授，已被任命为获得2024 ACM计算机奖，以获得对高性能计算和AI的基本贡献。 Hoefler开发了现代超级计算机的许多核心功能，并定义了用于在其上分发AI模型的算法的关键方面。 ACM主席Yannis Ioannidis说：“尽管Hoefler在学生仍然是学生时介绍了许多创新，但它们仍然是当今计划大规模平行系统的确定方式。”  “ Hoefler获得了2024 ACM ACM计算中的ACM奖励” ” 
+ACM媒体中心（03/26/25） 查看完整文章]]></description>
+      <guid>https://www.acm.org/media-center/2025/march/acm-prize-2024</guid>
+      <pubDate>Thu, 27 Mar 2025 12:18:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
