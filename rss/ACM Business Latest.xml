@@ -4,7 +4,14 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 28 Mar 2025 12:17:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Mar 2025 15:10:12 GMT</lastBuildDate>
+    <item>
+      <title>人类的克劳德（Claude）擅长诗歌，而夸张</title>
+      <link>https://www.wired.com/story/plaintext-anthropic-claude-brain-research/</link>
+      <description><![CDATA[研究人员看着聊天机器人的“大脑”。结果令人惊讶。]]></description>
+      <guid>https://www.wired.com/story/plaintext-anthropic-claude-brain-research/</guid>
+      <pubDate>Fri, 28 Mar 2025 14:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>如果拟人化成功，那么一个仁慈的AI天才的国家就可以诞生</title>
       <link>https://www.wired.com/story/anthropic-benevolent-artificial-intelligence/</link>
@@ -97,17 +104,10 @@
       <pubDate>Mon, 24 Mar 2025 20:51:59 GMT</pubDate>
     </item>
     <item>
-      <title>互联网的重量会让您震惊</title>
-      <link>https://www.wired.com/story/weight-of-the-internet/</link>
-      <description><![CDATA[根据您的要求，互联网的重量不过是土豆，草莓，或者要小得多。有线调查。]]></description>
-      <guid>https://www.wired.com/story/weight-of-the-internet/</guid>
-      <pubDate>Mon, 24 Mar 2025 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>量子计算已死。实时量子计算！</title>
-      <link>https://www.wired.com/story/quantum-computing-is-dead-alive/</link>
-      <description><![CDATA[Schrödinger的猫还活着，同时死亡。具有讽刺意味的是，量子计算也是如此。]]></description>
-      <guid>https://www.wired.com/story/quantum-computing-is-dead-alive/</guid>
+      <title>软件工程师实际上如何使用AI</title>
+      <link>https://www.wired.com/story/how-software-engineers-coders-actually-use-ai/</link>
+      <description><![CDATA[我们调查了730名编码人员和开发人员，以了解他们（以及多久）如何在工作中使用AI聊天机器人。结果使我们感到惊讶并打扰了我们。]]></description>
+      <guid>https://www.wired.com/story/how-software-engineers-coders-actually-use-ai/</guid>
       <pubDate>Mon, 24 Mar 2025 10:00:00 GMT</pubDate>
     </item>
     </channel>
