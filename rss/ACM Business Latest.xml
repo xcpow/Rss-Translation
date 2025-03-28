@@ -4,7 +4,14 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 28 Mar 2025 09:10:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Mar 2025 12:17:20 GMT</lastBuildDate>
+    <item>
+      <title>如果拟人化成功，那么一个仁慈的AI天才的国家就可以诞生</title>
+      <link>https://www.wired.com/story/anthropic-benevolent-artificial-intelligence/</link>
+      <description><![CDATA[兄弟继续进行视觉任务。姐姐是前英语专业。他们一起从Openai叛逃，开始了人类，并建立了（他们说）AI最杰出的公民Claude。]]></description>
+      <guid>https://www.wired.com/story/anthropic-benevolent-artificial-intelligence/</guid>
+      <pubDate>Fri, 28 Mar 2025 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>解开“好任务”，基督教和鱼子酱颠簸</title>
       <link>https://www.wired.com/story/uncanny-valley-podcast-will-religion-save-silicon-valley/</link>
@@ -90,10 +97,10 @@
       <pubDate>Mon, 24 Mar 2025 20:51:59 GMT</pubDate>
     </item>
     <item>
-      <title>软件工程师实际上如何使用AI</title>
-      <link>https://www.wired.com/story/how-software-engineers-coders-actually-use-ai/</link>
-      <description><![CDATA[我们调查了730名编码人员和开发人员，以了解他们（以及多久）如何在工作中使用AI聊天机器人。结果使我们感到惊讶并打扰了我们。]]></description>
-      <guid>https://www.wired.com/story/how-software-engineers-coders-actually-use-ai/</guid>
+      <title>互联网的重量会让您震惊</title>
+      <link>https://www.wired.com/story/weight-of-the-internet/</link>
+      <description><![CDATA[根据您的要求，互联网的重量不过是土豆，草莓，或者要小得多。有线调查。]]></description>
+      <guid>https://www.wired.com/story/weight-of-the-internet/</guid>
       <pubDate>Mon, 24 Mar 2025 10:00:00 GMT</pubDate>
     </item>
     <item>
@@ -101,13 +108,6 @@
       <link>https://www.wired.com/story/quantum-computing-is-dead-alive/</link>
       <description><![CDATA[Schrödinger的猫还活着，同时死亡。具有讽刺意味的是，量子计算也是如此。]]></description>
       <guid>https://www.wired.com/story/quantum-computing-is-dead-alive/</guid>
-      <pubDate>Mon, 24 Mar 2025 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>互联网的重量会让您震惊</title>
-      <link>https://www.wired.com/story/weight-of-the-internet/</link>
-      <description><![CDATA[根据您的要求，互联网的重量不过是土豆，草莓，或者要小得多。有线调查。]]></description>
-      <guid>https://www.wired.com/story/weight-of-the-internet/</guid>
       <pubDate>Mon, 24 Mar 2025 10:00:00 GMT</pubDate>
     </item>
     </channel>
