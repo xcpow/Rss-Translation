@@ -4,7 +4,14 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Thu, 27 Mar 2025 15:10:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Mar 2025 00:44:38 GMT</lastBuildDate>
+    <item>
+      <title>解开“好任务”，基督教和鱼子酱颠簸</title>
+      <link>https://www.wired.com/story/uncanny-valley-podcast-will-religion-save-silicon-valley/</link>
+      <description><![CDATA[本周在奇特的山谷上，我们的房东询问宗教对硅谷有什么影响。]]></description>
+      <guid>https://www.wired.com/story/uncanny-valley-podcast-will-religion-save-silicon-valley/</guid>
+      <pubDate>Thu, 27 Mar 2025 20:16:28 GMT</pubDate>
+    </item>
     <item>
       <title>内部梅塞·马斯克（Maye Musk）与中国的舒适关系</title>
       <link>https://www.wired.com/story/maye-musk-china-influencer-brands/</link>
@@ -101,13 +108,6 @@
       <link>https://www.wired.com/story/how-software-engineers-coders-actually-use-ai/</link>
       <description><![CDATA[我们调查了730名编码人员和开发人员，以了解他们（以及多久）如何在工作中使用AI聊天机器人。结果使我们感到惊讶并打扰了我们。]]></description>
       <guid>https://www.wired.com/story/how-software-engineers-coders-actually-use-ai/</guid>
-      <pubDate>Mon, 24 Mar 2025 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>热的新热力学芯片可以胜过古典计算机</title>
-      <link>https://www.wired.com/story/thermodynamic-computing-ai-guillaume-verdon-based-beff-jezos/</link>
-      <description><![CDATA[Guillaume Verdon正在建造一种新型的芯片，以加速AI。他的改变自我希望加速人类本身。]]></description>
-      <guid>https://www.wired.com/story/thermodynamic-computing-ai-guillaume-verdon-based-beff-jezos/</guid>
       <pubDate>Mon, 24 Mar 2025 10:00:00 GMT</pubDate>
     </item>
     </channel>
