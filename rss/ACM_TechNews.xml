@@ -4,112 +4,104 @@
     <title>ACM技术</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM技术</description>
-    <lastBuildDate>Fri, 28 Mar 2025 18:13:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Mar 2025 18:13:32 GMT</lastBuildDate>
     <item>
-      <title>绕过绕过社交媒体中间人的长期赌注</title>
-      <link>https://www.nytimes.com/2025/03/06/technology/mike-mccue-surf-browser-decentralized-internet.html</link>
-      <description><![CDATA[纽约时报   Flipboard即将到来的冲浪浏览器将与Bluesky和Mastodon一起，作为分散社交媒体选项社区的一部分，旨在绕过Facebook和Tiktok等大型平台，允许在线出版商直接连接到他们的观众。 Surf建立在新的技术标准ActivityPub上，该活动允许使用协议之间的社交媒体平台之间进行通信。
-《纽约时报》（03/25/25）John Markoff  ]]></description>
-      <guid>https://www.nytimes.com/2025/03/06/technology/mike-mccue-surf-browser-decentralized-internet.html</guid>
-      <pubDate>Fri, 28 Mar 2025 18:13:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>NASA测试技术以改善空中消防</title>
-      <link>https://www.cbsnews.com/sanfrancisco/news/nasa-ames-researchers-technology-improve-aerial-firefighting-acero/</link>
-      <description><![CDATA[CBS新闻 美国国家航空管理局的研究人员最近在加利福尼亚州的AMES研究中心完成了野火测试飞行任务，目的是使飞机能够帮助24/7全天候与野火战斗。研究人员正在测试便携式飞机管理系统（PAMS），该系统旨在将无人机和遥控飞机保持在野火操作区域内的批准飞行路径上，并防止空中碰撞。使用PAM，无人机和远程试验的飞机将能够在夜间和浓烟中飞行。
-CBS新闻（03/25/25）Mary Lee  &lt;a href =“ https://www.cbsnews.com/sanfrancisco/sanfrancisco/news/nasa-ames-search--searcher-technology-technology-improve--improve-aerial-aerial-aerial-firefightighting-fireighting-fireighting-firetighting-ighighting-acero-]]></description>
-      <guid>https://www.cbsnews.com/sanfrancisco/news/nasa-ames-researchers-technology-improve-aerial-firefighting-acero/</guid>
-      <pubDate>Fri, 28 Mar 2025 18:13:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gen AI浏览器助手扩展到云到云</title>
-      <link>https://www.theregister.com/2025/03/25/generative_ai_browser_extensions_privacy/</link>
-      <description><![CDATA[登记册（英国） 由加州大学戴维斯分校的Yash Vekaria领导的计算机科学家发现，生成的AI浏览器扩展通常会收获用户的敏感数据，并与自己的服务器和第三方跟踪器共享。在某些情况下，这违反了浏览器扩展名的隐私承诺以及有关健康和学生数据的美国法规。对10个生成AI Chrome扩展的研究发现，一些从Web表单或用户访问的页面的完整文档对象模型收集敏感信息。
-登记册（英国）（03/25/25）托马斯·克拉伯恩]]></description>
-      <guid>https://www.theregister.com/2025/03/25/generative_ai_browser_extensions_privacy/</guid>
-      <pubDate>Fri, 28 Mar 2025 18:13:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>3D打印机用于在日本建造火车站大楼</title>
-      <link>https://www.japantimes.co.jp/news/2025/03/26/japan/station-3d-printer/</link>
-      <description><![CDATA[据报道，《日本时报》  西日本铁路的Hatsushima车站大楼是世界上第一个用3D打印材料建造的世界上第一个。该建筑的四个部分计划于7月开放，由日本住房制造商Serendix生产。砂浆与3D打印机一起使用，以创建模板，并增加了加强钢以确保地震阻力。施工比使用钢筋混凝土大约需要2.5个小时，费用少50％。
-日本时报（03/26/25） &lt;a href =“ https://www.japantimes.co.jp/news/2025/2025/03/26/26/japan/station-3dd-printer/”]]></description>
-      <guid>https://www.japantimes.co.jp/news/2025/03/26/japan/station-3d-printer/</guid>
-      <pubDate>Fri, 28 Mar 2025 18:13:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>与唱片公司的AI版权纠纷中的人道分数赢得胜利</title>
-      <link>https://www.wsj.com/tech/ai/anthropic-scores-win-in-ai-copyright-dispute-with-record-labels-3f84be1c</link>
-      <description><![CDATA[《华尔街日报》   美国法院周二否认了环球音乐集团和其他唱片公司寻求的禁令，以防止AI创业人人类人类使用其受版权保护的歌词来训练其Claude Chatbot。音乐公司说，拟人化的侵犯了至少500首歌曲的版权歌词，并试图禁止该公司使用其作品训练其AI模型。
-《华尔街日报》（03/27/25）Mauro Orru  ]]></description>
-      <guid>https://www.wsj.com/tech/ai/anthropic-scores-win-in-ai-copyright-dispute-with-record-labels-3f84be1c</guid>
-      <pubDate>Fri, 28 Mar 2025 18:13:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>技术负责人，外国领导人敦促美国重新考虑AI芯片遏制</title>
-      <link>https://www.bloomberg.com/news/articles/2025-03-25/tech-chiefs-foreign-leaders-urge-trump-to-rethink-ai-chip-curbs</link>
-      <description><![CDATA[彭博 在不到两个月的时间内遵守美国在全球范围内控制AI开发的框架，科技公司都对国外市场的业务表示关注，而美国盟友正在寻求豁免。 “ AI扩散规则”将限制可以出口到大多数国家的AI处理器的数量，并要求数据中心遵守美国的安全标准。一些官员已经浮出水面消除了三层筹码访问和相关的计算上限，同时维持大多数国家的出口许可要求。 “技术负责人，外国领导人，外国领导人敦促美国重新思考AI Chip Curbs” 
-彭博（03/25/25）Mackenzie Hawkins;珍妮·伦纳德（Jenny Leonard）；布罗迪·福特； et al。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-03-25/tech-chiefs-foreign-leaders-urge-trump-to-rethink-ai-chip-curbs</guid>
-      <pubDate>Fri, 28 Mar 2025 18:13:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>加密突破为保护隐私的AI模型奠定了基础。</title>
-      <link>https://engineering.nyu.edu/news/encryption-breakthrough-lays-groundwork-privacy-preserving-ai-models</link>
-      <description><![CDATA[纽约大学工程学院 由纽约大学研究人员开发的框架使完全同型加密（FHE）进行了深度学习，从而使AI模型可以直接在加密数据上运行，而无需首先解密。研究人员使用猎户座框架，使用Yolo-V1（一种具有1.39亿个参数的深度学习模型）证明了有史以来第一个高分辨率的对象检测。
+      <title>意大利寻求美国科技公司的税款</title>
+      <link>https://www.reuters.com/technology/italy-hands-vat-bill-meta-x-linkedin-landmark-tax-case-2025-03-26/</link>
+      <description><![CDATA[路透社 意大利在对美国科技巨头的增值税（增值税）索赔的最后一步中要求Meta，X和LinkedIn缴纳税款。意大利声称Meta欠了8.876亿欧元（9.61亿美元）的税收，而X则欠它1.25亿欧元（1,350万美元），LinkedIn欠1.4亿欧元（1.515亿美元）。意大利税务机构表示，应将三家平台的用户注册视为应税交易。 
 
- 来自“加密突破为保护AI模型的基础工作” 
-纽约大学工程学院（03/25/2025） &lt;a href =”]]></description>
-      <guid>https://engineering.nyu.edu/news/encryption-breakthrough-lays-groundwork-privacy-preserving-ai-models</guid>
-      <pubDate>Fri, 28 Mar 2025 18:13:45 GMT</pubDate>
+ 来自“意大利寻求美国科技公司的税款” 
+路透社（03/26/25）]]></description>
+      <guid>https://www.reuters.com/technology/italy-hands-vat-bill-meta-x-linkedin-landmark-tax-case-2025-03-26/</guid>
+      <pubDate>Mon, 31 Mar 2025 18:13:31 GMT</pubDate>
     </item>
     <item>
-      <title>超级计算工具使数据存储更有效</title>
-      <link>https://www.ornl.gov/news/supercomputing-memory-management-tool-makes-data-storage-more-efficient</link>
-      <description><![CDATA[橡树岭国家实验室 美国能源部的橡树岭国家实验室（ORNL）和田纳西州诺克斯维尔大学的研究人员开发了提高超级计算机内存系统效率的应用程序。 Ornl＆rsquo os Terry Jones解释说：“我们的工作是在更快的内存层中自动将常用的对象放入正确的位置，并将较少使用的对象放置在不经常访问的物体中，而不会经常访问速度较慢的内存。”系统会根据需求自动对数据进行自动对数据进行分类，从而使检索更有效。 从“超级计算工具”使数据存储更有效” 
-橡树岭国家实验室（03/26/25） &lt;a href =“ https://www.ornl.gov/news/supercomputing-memory-management-management-management-management-makes-makes-makes-mokes-mokes-data-storage-more-felid-more-felid-more-fficifity-]]></description>
-      <guid>https://www.ornl.gov/news/supercomputing-memory-management-tool-makes-data-storage-more-efficient</guid>
-      <pubDate>Fri, 28 Mar 2025 18:13:44 GMT</pubDate>
+      <title>联邦CIO呼吁代理商与“前5个软件供应商”库存许可</title>
+      <link>https://fedscoop.com/top-5-software-license-inventory-federal-cio-greg-barbaccia/</link>
+      <description><![CDATA[FedScoop u.s。首席信息官（CIO）Greg Barbaccia已向政府机构CIO提供了CIOS，直到4月2日（星期三），与五个软件供应商库存许可证，这些软件供应商占多数联邦合同：Microsoft，Adobe，Salesforce，Salesforce，Oracle，Oracle和ServiceNow。 Barbaccia在致机构CIO的电子邮件中说，该计划旨在确定重复的购买和节省成本。 Barbaccia还要求库存“安全记录和监视软件，包括但不限于DataDog，Elastic SaaS，Splunk和Sumo Logic”。
+FedScoop（03/26/25）丽贝卡·海尔维尔（Rebecca Heilweil）； Billy Mitchell  查看完整文章]]></description>
+      <guid>https://fedscoop.com/top-5-software-license-inventory-federal-cio-greg-barbaccia/</guid>
+      <pubDate>Mon, 31 Mar 2025 18:13:30 GMT</pubDate>
     </item>
     <item>
-      <title>使图形更容易成为盲目的低视觉读者</title>
-      <link>https://news.mit.edu/2025/making-graphs-more-accessible-blind-low-vision-readers-0325</link>
-      <description><![CDATA[麻省新闻 马萨诸塞州技术研究所开发的一种工具简化了创建触觉图表的过程，以使盲人和低视觉读者更容易理解条形图或线图。借助Trotile Vega-Lite，用户可以将Excel电子表格和其他程序的数据转换为标准的基于视觉和基于触摸的图表。该工具的一部分是代码编辑器，允许用户自定义图表的元素，例如轴标签和刻度标记。
-麻省理工学院新闻（03/25/25）Alex Shipps  &lt;a href =“ https://news.mit.mit.mit.edu/2025/making-graphs-more-accessible-blind-blind-vision-vision-vision-vision-vision-vision-vision-vision-dreaders-0325]]></description>
-      <guid>https://news.mit.edu/2025/making-graphs-more-accessible-blind-low-vision-readers-0325</guid>
-      <pubDate>Fri, 28 Mar 2025 18:13:43 GMT</pubDate>
+      <title>网络安全公司黑客勒索勒索软件集团</title>
+      <link>https://uk.pcmag.com/security/157300/cybersecurity-firm-hacks-ransomware-group-alerts-potential-victims</link>
+      <description><![CDATA[PC MAG  网络安全公司的重新安全性通过在Dark Web上利用该小组的网站中的缺陷来渗透到Blacklock勒索软件帮派。本地文件包含相关的缺陷使公司能够检索帮派数据泄漏站点后面的网络基础架构以及配置文件和帐户凭据。访问揭示了在管理数据泄漏站点的服务器时使用的命令的记录历史记录。
+PC MAG（03/27/25）Michael Kan  &lt;a href =“ https://uk.pcmag.com/security/157300/157300/cybersecurity-firm-hacks-firm-hacks-ransomware--------------------------------------]]></description>
+      <guid>https://uk.pcmag.com/security/157300/cybersecurity-firm-hacks-ransomware-group-alerts-potential-victims</guid>
+      <pubDate>Mon, 31 Mar 2025 18:13:30 GMT</pubDate>
     </item>
     <item>
-      <title>美国在安全问题上增加了向更多中国科技公司的出口限制</title>
-      <link>https://www.nytimes.com/2025/03/25/business/economy/trump-chinese-tech-firms-chips-security.html</link>
-      <description><![CDATA[纽约时报 特朗普政府于3月25日在3月25日增加了80家公司和组织，列出了由于国家安全问题而被禁止购买美国技术和其他出口的公司。在80个中有54家中国公司和组织，包括Nettrix信息行业，它们生产用于生产AI的服务器和北京人工智能学院，据报道，该行业试图购买AI模型和芯片，以增强中国军事现代化。
-《纽约时报》（03/25/25）ana swanson  ]]></description>
-      <guid>https://www.nytimes.com/2025/03/25/business/economy/trump-chinese-tech-firms-chips-security.html</guid>
-      <pubDate>Fri, 28 Mar 2025 18:13:42 GMT</pubDate>
+      <title>摩根大通说量子实验产生了真正的随机数</title>
+      <link>https://www.bloomberg.com/news/articles/2025-03-26/jpmorgan-says-quantum-experiment-generated-truly-random-numbers</link>
+      <description><![CDATA[彭博 的团队包括摩根大通（JPMorgan Chase＆Co。）的研究人员。它使用量子计算机来生成真正的随机数。 JPMorgan密码学家创建了一种算法来生成随机数，并在Honeywell的Quantinuum Quantum计算机上运行。美国能源部的Argonne和Oak Ridge国家实验室的超级计算机证明了该输出是真正的随机性，这很重要，因为大多数用于加密敏感数据的随机数发生器并非真正随机。
+彭博（03/26/25）伊莎贝拉·沃德（Isabella Ward）； Charles Capel  &lt;a href =“ https://www.bloomberg.com/news/articles/2025-03-26/jpmorgan-says-quantum-quantum-quantum-quantum-quantim----------------------------------------------------------------------------------------26/]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-03-26/jpmorgan-says-quantum-experiment-generated-truly-random-numbers</guid>
+      <pubDate>Mon, 31 Mar 2025 18:13:29 GMT</pubDate>
     </item>
     <item>
-      <title>MEP警告欧盟不要削弱地标AI规则</title>
-      <link>https://www.computing.co.uk/news/2025/ai/meps-warn-eu-against-weakening-ai-rules</link>
-      <description><![CDATA[计算 欧洲议会（MEPS）的成员在起草欧盟的人工智能法中发挥了作用，因为欧盟官员会考虑是否缓解对人工智能公司的要求，这表示了担忧。官员们正在权衡是否要对该法案进行某些规定。该守则由包括ACM A.M.的专家小组起草。图灵奖奖获得者Yoshua Bengio，预计将在5月最终确定。
-计算（03/26/25）Vikki Davies  &lt;a href =“ https://www.computing.co.uk/news/2025/2025/2025/ai/eps-warn-eu-eu-eu-eu-eu-eu-eu-eu-against-weakenst-weak-weak-weak-weak-weak-weak-weak-weak-weak-weak-weak-weak-in-.-rules-rules-rules--rules” target =“ _ _ smblister”]]></description>
-      <guid>https://www.computing.co.uk/news/2025/ai/meps-warn-eu-against-weakening-ai-rules</guid>
-      <pubDate>Fri, 28 Mar 2025 18:13:41 GMT</pubDate>
+      <title>太阳逆变器缺陷可能被利用以攻击电网</title>
+      <link>https://www.bleepingcomputer.com/news/security/dozens-of-solar-inverter-flaws-could-be-exploited-to-attack-power-grids/</link>
+      <description><![CDATA[ForeScout的Vedere Labs的BleepingComputer  安全研究人员从主要制造商Sungrow，Growatt和SMA的太阳逆变器中确定了46个缺陷，这些逆变器可能会被黑客索取，这些缺点可能会被黑客使用来影响电网稳定性，违反用户的私密性，甚至可能会损害发电或损害电源之间的不足或破坏电源之间的无效。研究人员说，这些漏洞可以使未经授权访问云平台中的资源，远程代码执行，设备接管，信息披露，物理损坏和拒绝服务。
+bleepingComputer（03/27/25）ionut Ilascu  &lt;a href =“ https://wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww.computer.com/news/news/news/security/security/dozens-oldozens-oldozens-oldo-solar-inverter-inverter-flaws-flaws-could-be-be-be-be-be-be-be-explo一下至时候，至一下至上]]></description>
+      <guid>https://www.bleepingcomputer.com/news/security/dozens-of-solar-inverter-flaws-could-be-exploited-to-attack-power-grids/</guid>
+      <pubDate>Mon, 31 Mar 2025 18:13:28 GMT</pubDate>
     </item>
     <item>
-      <title>在线发现的美国高级安全官员的私人数据和密码</title>
-      <link>https://www.spiegel.de/international/world/pete-hegseth-mike-waltz-tulsi-gabbard-private-data-and-passwords-of-senior-u-s-security-officials-found-online-a-14221f90-e5c2-48e5-bc63-10b705521fb7</link>
-      <description><![CDATA[Der Spiegel（德国） 美国安全顾问的私人联系方式，包括国家安全顾问Mike Waltz，国家情报局塔尔西·加巴德（Tulsi Gabbard）和国防部长皮特·海格斯（Pete Pete Hegseth），在 der spiegel  der spiegel &lt; /em&gt;的网络上发现了国防部。记者能够使用商业搜索引擎找到属于官员的手机号码，电子邮件地址和一些密码以及已发布的黑客客户数据。
-Der Spiegel（德国）（03/27/25）Patrick Beuth； j＆ouml; rg diehl; Roman H＆Ouml; fner;等 查看全文]]></description>
-      <guid>https://www.spiegel.de/international/world/pete-hegseth-mike-waltz-tulsi-gabbard-private-data-and-passwords-of-senior-u-s-security-officials-found-online-a-14221f90-e5c2-48e5-bc63-10b705521fb7</guid>
-      <pubDate>Fri, 28 Mar 2025 18:13:41 GMT</pubDate>
+      <title>类似脑的计算机转向机器人，功率很小</title>
+      <link>https://news.engin.umich.edu/2025/03/brain-like-computer-steers-rolling-robot-with-0-25-of-the-power-needed-by-conventional-controllers/</link>
+      <description><![CDATA[密歇根州工程 由密歇根大学研究人员设计的一个自主控制器使用模拟计算来操纵具有最小功率的滚动机器人。该机器人以12.5 microwatts运行，能够以与传统数字控制器相同的速度和准确性追求目标曲折的目标。密歇根大学的小liang被称为控制器，一种开创性的纳米电子设备，旨在彻底改变可以通过神经网络体系结构进行有效计算的硬件平台。  来自“具有最小功率的大脑般的计算机转向机器人” 
+Michigan Engineering (03/27/25) Kate McAlpine View Full Article]]></description>
+      <guid>https://news.engin.umich.edu/2025/03/brain-like-computer-steers-rolling-robot-with-0-25-of-the-power-needed-by-conventional-controllers/</guid>
+      <pubDate>Mon, 31 Mar 2025 18:13:27 GMT</pubDate>
     </item>
     <item>
-      <title>美国公司推动国家机器人技术战略</title>
-      <link>https://apnews.com/article/united-states-robotics-competition-china-tech-702796f1584fe1920e5fd86f15a99b4f</link>
-      <description><![CDATA[美联社  3月26日，机器人公司的代表与美国立法者会面，呼吁采取国家机器人技术战略，以促进该行业。 Automation Automation协会表示，美国将在没有这样的领导地位的情况下失去全球机器人技术和AI比赛。该协会支持创建联邦机器人办公室，税收优惠，联邦资助的培训计划以及用于商业创新和学术研究的联邦资金。
-美联社（03/26/25）didi tang; matt o&#39;brien  &lt;a href =“ https://apnews.com/article/united-states-s-robotics-competition-competition-china-china-tech-702796f1584fe1920e5fd86f15a999999999b4f]]></description>
-      <guid>https://apnews.com/article/united-states-robotics-competition-china-tech-702796f1584fe1920e5fd86f15a99b4f</guid>
-      <pubDate>Fri, 28 Mar 2025 18:13:40 GMT</pubDate>
+      <title>犹他州法律要求Apple，Google验证App Store用户年龄</title>
+      <link>https://www.cnbc.com/2025/03/26/utah-adopts-child-safety-law-requiring-apple-google-to-verify-user-ages.html</link>
+      <description><![CDATA[CNBC  犹他州州长斯宾塞·考克斯（Spencer Cox）周三签署了一项账单，要求Apple和Google的移动应用程序商店验证用户年龄，并要求使用18岁以下的人使用某些应用程序的父母许可。该法律是美国的第一个法律，将年龄验证的责任转移到移动应用程序商店而不是单个应用程序上。该法律计划于5月7日生效，但有望面临法律挑战。
+CNBC（03/27/25）KIF LESWING  &lt;a href =“ https://www.cnbc.com/2025/2025/03/03/26/26/26/utah-adopts-child-child-safety-safety-safety-safety-safety-safeth-safeth-safet-safle-requir--requir-------------------------------------------------------------]]></description>
+      <guid>https://www.cnbc.com/2025/03/26/utah-adopts-child-safety-law-requiring-apple-google-to-verify-user-ages.html</guid>
+      <pubDate>Mon, 31 Mar 2025 18:13:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>无人机实验揭示了格陵兰冰盖的变化</title>
+      <link>https://www.colorado.edu/today/2025/03/27/drone-experiment-reveals-how-greenland-ice-sheet-changing</link>
+      <description><![CDATA[Cu Boulder今天  科罗拉多大学博尔德大学的研究人员使用定制设计的无人机对水蒸气进行测量，近乎5,000英尺，近5,000英尺。配备了空气采样设备的无人机在不同高度上捕获了空气样品，以评估氢和氧原子的不同组合。当将这些数据与北极水周期的现有计算机模拟进行比较时，研究人员发现，仅模拟了Greenland的降水量总计。 “无人机实验”揭示了格陵兰冰盖的变化” 
+Cu Boulder今天（03/27/25）yvaine ye  &lt;a href =“ https://www.colorado.edu.edu/today/2025/03/03/03/27/drone-experiment-experiment-experiment-experiment-reveals-reveals-how-greenland-cep----------------------------------]]></description>
+      <guid>https://www.colorado.edu/today/2025/03/27/drone-experiment-reveals-how-greenland-ice-sheet-changing</guid>
+      <pubDate>Mon, 31 Mar 2025 18:13:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>双子座黑客可以在...双子座的帮助下发动有力的攻击</title>
+      <link>https://arstechnica.com/security/2025/03/gemini-hackers-can-deliver-more-potent-attacks-with-a-helping-hand-from-gemini/</link>
+      <description><![CDATA[ARS Technica   威斯康星大学和加利福尼亚大学的研究人员，对对双子座的计算机生成的及时注射速度比手动制作的速度高得多。新方法滥用微调，该功能由一些封闭式模型提供，以培训它们以处理大量私人或专业数据，Google可以免费提供。研究人员的技术提供了一种用于离散优化工作提示注射的算法。 来自“双子座黑客可以在... gemini的帮助下进行有效的攻击” 
+ARS Technica（03/28/25）Dan Goodin  &lt;a href =“ https://arstechnica.com/security/security/2025/2025/03/gemini-hackers-can-deliver-can-deliver-more-potent-potent-potent-potent-potent-potent-potent-potent-potent-potent-pat,-----------------]]></description>
+      <guid>https://arstechnica.com/security/2025/03/gemini-hackers-can-deliver-more-potent-attacks-with-a-helping-hand-from-gemini/</guid>
+      <pubDate>Mon, 31 Mar 2025 18:13:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Oracle警告健康客户患者数据泄露</title>
+      <link>https://www.bloomberg.com/news/articles/2025-03-28/oracle-warns-health-customers-of-patient-data-breach</link>
+      <description><![CDATA[消息人士称，彭博 黑客违反了Oracle的计算机系统偷走了患者数据，以试图勒索美国医疗提供者。 3月的Oracle向一些医疗保健客户提醒，黑客在今年早些时候访问了公司服务器，并将患者数据复制到外部位置。联邦调查局正在调查此事。
+彭博（03/28/25）杰克·布利贝格（Jake Bleiberg）；玛吉·墨菲（Margi Murphy）； Brody Ford  &lt;a href =“ https://www.bloomberg.com/news/articles/2025-03-28/oracle-warns-warns-health-customers-of-patient-data-breach--patient-data-breach” target =“ _空白”]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-03-28/oracle-warns-health-customers-of-patient-data-breach</guid>
+      <pubDate>Mon, 31 Mar 2025 18:13:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>人形机器人是糟糕的同事。中国想改变这一点</title>
+      <link>https://www.wsj.com/tech/ai/humanoid-robots-are-lousy-co-workers-china-wants-to-be-first-to-change-that-0fe8528c?mod=tech_lead_pos3</link>
+      <description><![CDATA[《华尔街日报》  中国政府表示希望该国在2027年成为人类机器人的世界领导者。中国促进自动化协会主席杰夫·伯恩斯坦（Jeff Burnstein）说，比其他任何人都有更多的公司发展类人动物和政府支持。因此，现在，他们可能具有优势。＆rdquo;与此同时，美国仍然在半导体，软件和一些精确组件方面具有优势。
+《华尔街日报》（03/31/25）Raffaele Huang； Josh Chin  ]]></description>
+      <guid>https://www.wsj.com/tech/ai/humanoid-robots-are-lousy-co-workers-china-wants-to-be-first-to-change-that-0fe8528c?mod=tech_lead_pos3</guid>
+      <pubDate>Mon, 31 Mar 2025 18:13:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>知识工作的下降已经开始吗？</title>
+      <link>https://www.nytimes.com/2025/03/25/business/economy/white-collar-layoffs.html</link>
+      <description><![CDATA[《纽约时报  ，尽管经济学家认为劳动力市场按历史标准保持强劲，但白领工人的工资增长速度较慢，失业率比近年来其他群体较大。某些工作损失可以归因于与大流行有关的雇用后的重新平衡，但是人们担心AI的进展表明知识工作的永久性下降。在科技行业中，高管和投资者在减少了员工时依靠AI。
+《纽约时报》（03/31/25）]]></description>
+      <guid>https://www.nytimes.com/2025/03/25/business/economy/white-collar-layoffs.html</guid>
+      <pubDate>Mon, 31 Mar 2025 18:13:21 GMT</pubDate>
     </item>
     </channel>
 </rss>

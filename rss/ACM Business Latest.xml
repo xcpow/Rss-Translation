@@ -4,7 +4,14 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Mon, 31 Mar 2025 12:17:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Mar 2025 18:13:38 GMT</lastBuildDate>
+    <item>
+      <title>亚马逊的AGI实验室揭示了其第一项工作：高级AI代理商</title>
+      <link>https://www.wired.com/story/amazon-ai-agents-nova-web-browsing/</link>
+      <description><![CDATA[亚马逊的AI实验室由前OpenAI主管领导，专注于下一代软件代理的决策能力，并借鉴了物理机器人的见解。]]></description>
+      <guid>https://www.wired.com/story/amazon-ai-agents-nova-web-browsing/</guid>
+      <pubDate>Mon, 31 Mar 2025 13:00:18 GMT</pubDate>
+    </item>
     <item>
       <title>特朗普的贸易战推动加拿大科技工人重新思考硅谷</title>
       <link>https://www.wired.com/story/canada-startups-silicon-valley-trump-annexation/</link>
@@ -78,7 +85,7 @@
     <item>
       <title>世界末日最好的编程语言</title>
       <link>https://www.wired.com/story/forth-collapse-os-apocalypse-programming-language/</link>
-      <description><![CDATA[一旦电网掉下来，一种旧的编程语言称为thor，一个名为Collapse OS的新操作系统，可能是我们唯一的救赎。]]></description>
+      <description><![CDATA[一旦电网掉下来，一种旧的编程语言称为thor，一个名为Collapse OS的新操作系统可能是我们唯一的救赎。]]></description>
       <guid>https://www.wired.com/story/forth-collapse-os-apocalypse-programming-language/</guid>
       <pubDate>Wed, 26 Mar 2025 10:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[随着特朗普政府继续努力削减美国联邦劳动力的努力，负责发布天体物理学，核融合和其他领域的高级研究数据的团队似乎在斩波街区。]]></description>
       <guid>https://www.wired.com/story/nist-doge-layoffs-atomic-spectroscopy/</guid>
       <pubDate>Tue, 25 Mar 2025 15:34:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>“超过100万”的人想要塞伯卡克。他们在哪里？</title>
-      <link>https://www.wired.com/story/where-did-the-one-million-people-who-wanted-a-cybertruck-go/</link>
-      <description><![CDATA[“需求不在图表上！”埃隆·马斯克（Elon Musk）在2023年底乌鸦（Elon Musk）乌鸦（Elon Musk），理由是特斯拉（Tesla）两极分化的多边形皮卡的预订超过一百万，那么为什么它仍然售出少于50,000呢？]]></description>
-      <guid>https://www.wired.com/story/where-did-the-one-million-people-who-wanted-a-cybertruck-go/</guid>
-      <pubDate>Tue, 25 Mar 2025 10:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
