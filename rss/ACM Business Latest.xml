@@ -4,7 +4,21 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Mon, 31 Mar 2025 09:11:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Mar 2025 12:17:56 GMT</lastBuildDate>
+    <item>
+      <title>特朗普的贸易战推动加拿大科技工人重新思考硅谷</title>
+      <link>https://www.wired.com/story/canada-startups-silicon-valley-trump-annexation/</link>
+      <description><![CDATA[加拿大顶尖的技术人才长期以来一直搬到美国寻求更好的机会，但是唐纳德·特朗普的关税和威胁正在引发有关如何在家中建立更强大的生态系统的问题。]]></description>
+      <guid>https://www.wired.com/story/canada-startups-silicon-valley-trump-annexation/</guid>
+      <pubDate>Mon, 31 Mar 2025 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>创业创始人声称埃隆·马斯克（Elon Musk）正在偷“ grok”这个名字</title>
+      <link>https://www.wired.com/story/grok-trademark-dispute-name/</link>
+      <description><![CDATA[埃隆·马斯克（Elon Musk）说，他从1960年代的科幻小说中借了这个名字，但在Xai推出聊天机器人之前，另一家AI初创公司将其应用于商标。]]></description>
+      <guid>https://www.wired.com/story/grok-trademark-dispute-name/</guid>
+      <pubDate>Mon, 31 Mar 2025 09:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>埃隆·马斯克（Elon Musk）的Xai获得了X，因为</title>
       <link>https://www.wired.com/story/xai-x-acquisition-deal/</link>
@@ -64,7 +78,7 @@
     <item>
       <title>世界末日最好的编程语言</title>
       <link>https://www.wired.com/story/forth-collapse-os-apocalypse-programming-language/</link>
-      <description><![CDATA[一旦电网掉下来，一种旧的编程语言称为thor，一个名为Collapse OS的新操作系统可能是我们唯一的救赎。]]></description>
+      <description><![CDATA[一旦电网掉下来，一种旧的编程语言称为thor，一个名为Collapse OS的新操作系统，可能是我们唯一的救赎。]]></description>
       <guid>https://www.wired.com/story/forth-collapse-os-apocalypse-programming-language/</guid>
       <pubDate>Wed, 26 Mar 2025 10:00:00 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[“需求不在图表上！”埃隆·马斯克（Elon Musk）在2023年底乌鸦（Elon Musk）乌鸦（Elon Musk），理由是特斯拉（Tesla）两极分化的多边形皮卡的预订超过一百万，那么为什么它仍然售出少于50,000呢？]]></description>
       <guid>https://www.wired.com/story/where-did-the-one-million-people-who-wanted-a-cybertruck-go/</guid>
       <pubDate>Tue, 25 Mar 2025 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>RISC架构确实改变了一切</title>
-      <link>https://www.wired.com/story/angelina-jolie-was-right-about-risc-architecture/</link>
-      <description><![CDATA[“ RISC建筑将改变一切。”这些荒谬的怪异，令人难以置信的预言词是30年前说的。今天，它们比以往任何时候都更加真实。]]></description>
-      <guid>https://www.wired.com/story/angelina-jolie-was-right-about-risc-architecture/</guid>
-      <pubDate>Tue, 25 Mar 2025 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何从23andMe中删除数据</title>
-      <link>https://www.wired.com/story/how-to-delete-your-data-from-23andme/</link>
-      <description><![CDATA[DNA测试公司23andMe已申请破产，这意味着该公司广阔的客户数据的未来是未知的。这就是您的遗传数据的意义。]]></description>
-      <guid>https://www.wired.com/story/how-to-delete-your-data-from-23andme/</guid>
-      <pubDate>Mon, 24 Mar 2025 20:51:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
