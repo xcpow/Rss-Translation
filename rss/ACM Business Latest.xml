@@ -4,7 +4,14 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Mon, 31 Mar 2025 18:13:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Mar 2025 21:08:57 GMT</lastBuildDate>
+    <item>
+      <title>山姆·奥特曼（Sam Altman）说，Openai将于今年夏天发布“开放重量” AI模型</title>
+      <link>https://www.wired.com/story/openai-sam-altman-announce-open-source-model/</link>
+      <description><![CDATA[该消息是在DeepSeek的突破性成功之后以及来自Meta等竞争对手的压力不断增长。]]></description>
+      <guid>https://www.wired.com/story/openai-sam-altman-announce-open-source-model/</guid>
+      <pubDate>Mon, 31 Mar 2025 20:12:10 GMT</pubDate>
+    </item>
     <item>
       <title>亚马逊的AGI实验室揭示了其第一项工作：高级AI代理商</title>
       <link>https://www.wired.com/story/amazon-ai-agents-nova-web-browsing/</link>
@@ -85,7 +92,7 @@
     <item>
       <title>世界末日最好的编程语言</title>
       <link>https://www.wired.com/story/forth-collapse-os-apocalypse-programming-language/</link>
-      <description><![CDATA[一旦电网掉下来，一种旧的编程语言称为thor，一个名为Collapse OS的新操作系统可能是我们唯一的救赎。]]></description>
+      <description><![CDATA[一旦电网掉下来，一种旧的编程语言称为thor，一个名为Collapse OS的新操作系统，可能是我们唯一的救赎。]]></description>
       <guid>https://www.wired.com/story/forth-collapse-os-apocalypse-programming-language/</guid>
       <pubDate>Wed, 26 Mar 2025 10:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[使用最近的几项创新，该公司的数据助剂将使客户即使没有吱吱作响的清洁数据，也可以提高其AI模型的智商。]]></description>
       <guid>https://www.wired.com/story/databricks-has-a-trick-that-lets-ai-models-improve-themselves/</guid>
       <pubDate>Tue, 25 Mar 2025 20:00:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普管理员计划削减负责关键原子测量数据的团队</title>
-      <link>https://www.wired.com/story/nist-doge-layoffs-atomic-spectroscopy/</link>
-      <description><![CDATA[随着特朗普政府继续努力削减美国联邦劳动力的努力，负责发布天体物理学，核融合和其他领域的高级研究数据的团队似乎在斩波街区。]]></description>
-      <guid>https://www.wired.com/story/nist-doge-layoffs-atomic-spectroscopy/</guid>
-      <pubDate>Tue, 25 Mar 2025 15:34:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
