@@ -4,7 +4,14 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Tue, 01 Apr 2025 06:14:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 09:11:12 GMT</lastBuildDate>
+    <item>
+      <title>尤瓦尔·诺亚·哈拉里（Yuval Noah Harari）：“我们如何与这个新的超级智能分享地球？”</title>
+      <link>https://www.wired.com/story/questions-answered-by-yuval-noah-harari-for-wired-ai-artificial-intelligence-singularity/</link>
+      <description><![CDATA[学者和作者讨论了从奇点，对自动校正机制的需求以及对超级智能保护民主的希望。]]></description>
+      <guid>https://www.wired.com/story/questions-answered-by-yuval-noah-harari-for-wired-ai-artificial-intelligence-singularity/</guid>
+      <pubDate>Tue, 01 Apr 2025 09:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>法庭文件显示</title>
       <link>https://www.wired.com/story/doge-takes-control-usip-office-building/</link>
@@ -99,15 +106,8 @@
     <item>
       <title>世界末日最好的编程语言</title>
       <link>https://www.wired.com/story/forth-collapse-os-apocalypse-programming-language/</link>
-      <description><![CDATA[一旦电网掉下来，一种旧的编程语言称为thor，一个名为Collapse OS的新操作系统可能是我们唯一的救赎。]]></description>
+      <description><![CDATA[一旦电网掉下来，一种旧的编程语言称为thor，一个名为Collapse OS的新操作系统，可能是我们唯一的救赎。]]></description>
       <guid>https://www.wired.com/story/forth-collapse-os-apocalypse-programming-language/</guid>
-      <pubDate>Wed, 26 Mar 2025 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>没有计算机科学家可以破解的蠕虫</title>
-      <link>https://www.wired.com/story/openworm-worm-simulator-biology-code/</link>
-      <description><![CDATA[世界上最简单，最简单的生物之一是秀丽隐杆线虫线虫。在13年的时间里，一个名为OpenWorm的项目一直尝试过（完全失败）来模拟它。]]></description>
-      <guid>https://www.wired.com/story/openworm-worm-simulator-biology-code/</guid>
       <pubDate>Wed, 26 Mar 2025 10:00:00 GMT</pubDate>
     </item>
     </channel>
