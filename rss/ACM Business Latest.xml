@@ -4,7 +4,14 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Mon, 31 Mar 2025 21:08:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 00:52:50 GMT</lastBuildDate>
+    <item>
+      <title>法庭文件显示</title>
+      <link>https://www.wired.com/story/doge-takes-control-usip-office-building/</link>
+      <description><![CDATA[这些文件显示，一名门卫的会员正在试图将独立智囊团的总部（美国和平研究所）无偿地转移给政府。]]></description>
+      <guid>https://www.wired.com/story/doge-takes-control-usip-office-building/</guid>
+      <pubDate>Tue, 01 Apr 2025 00:06:27 GMT</pubDate>
+    </item>
     <item>
       <title>山姆·奥特曼（Sam Altman）说，Openai将于今年夏天发布“开放重量” AI模型</title>
       <link>https://www.wired.com/story/openai-sam-altman-announce-open-source-model/</link>
@@ -92,7 +99,7 @@
     <item>
       <title>世界末日最好的编程语言</title>
       <link>https://www.wired.com/story/forth-collapse-os-apocalypse-programming-language/</link>
-      <description><![CDATA[一旦电网掉下来，一种旧的编程语言称为thor，一个名为Collapse OS的新操作系统，可能是我们唯一的救赎。]]></description>
+      <description><![CDATA[一旦电网掉下来，一种旧的编程语言称为thor，一个名为Collapse OS的新操作系统可能是我们唯一的救赎。]]></description>
       <guid>https://www.wired.com/story/forth-collapse-os-apocalypse-programming-language/</guid>
       <pubDate>Wed, 26 Mar 2025 10:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[世界上最简单，最简单的生物之一是秀丽隐杆线虫线虫。在13年的时间里，一个名为OpenWorm的项目一直尝试过（完全失败）来模拟它。]]></description>
       <guid>https://www.wired.com/story/openworm-worm-simulator-biology-code/</guid>
       <pubDate>Wed, 26 Mar 2025 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Databricks具有一个使AI模型改善自己的技巧</title>
-      <link>https://www.wired.com/story/databricks-has-a-trick-that-lets-ai-models-improve-themselves/</link>
-      <description><![CDATA[使用最近的几项创新，该公司的数据助剂将使客户即使没有吱吱作响的清洁数据，也可以提高其AI模型的智商。]]></description>
-      <guid>https://www.wired.com/story/databricks-has-a-trick-that-lets-ai-models-improve-themselves/</guid>
-      <pubDate>Tue, 25 Mar 2025 20:00:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
