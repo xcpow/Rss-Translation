@@ -4,7 +4,14 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Tue, 01 Apr 2025 21:08:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Apr 2025 00:45:31 GMT</lastBuildDate>
+    <item>
+      <title>联邦法官允许Doge免费获得超过5亿美元的办公大楼</title>
+      <link>https://www.wired.com/story/judge-approves-doge-usip-office-building/</link>
+      <description><![CDATA[这是埃隆·马斯克（Elon Musk）的总督团队与美国和平学院之间长达数周的对峙的高潮。]]></description>
+      <guid>https://www.wired.com/story/judge-approves-doge-usip-office-building/</guid>
+      <pubDate>Tue, 01 Apr 2025 21:32:28 GMT</pubDate>
+    </item>
     <item>
       <title>Doge斧头是图书馆和博物馆</title>
       <link>https://www.wired.com/story/institute-museum-library-services-layoffs/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[用一种全新的计算机芯片挑战世界上最成功的芯片制造商似乎很荒谬，但这并不比AI种族本身更荒谬。]]></description>
       <guid>https://www.wired.com/story/how-extropic-plans-to-unseat-nvidia/</guid>
       <pubDate>Wed, 26 Mar 2025 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在加密货币的“鱿鱼游戏”的回答中秘密秘密。这几乎使我感到不安</title>
-      <link>https://www.wired.com/story/crypto-the-game-undercover/</link>
-      <description><![CDATA[我花了10天的时间参加Crypto：The Game，这是一场赢家全力竞赛，数百名玩家试图精巧和背刺以获得140,000美元的加密货币奖。]]></description>
-      <guid>https://www.wired.com/story/crypto-the-game-undercover/</guid>
-      <pubDate>Wed, 26 Mar 2025 10:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
