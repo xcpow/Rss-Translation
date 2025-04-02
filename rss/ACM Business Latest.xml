@@ -4,7 +4,14 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Wed, 02 Apr 2025 12:18:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Apr 2025 18:14:00 GMT</lastBuildDate>
+    <item>
+      <title>该工具探究了智能失误的前沿AI模型</title>
+      <link>https://www.wired.com/story/this-tool-probes-frontier-ai-models-for-lapses-in-intelligence/</link>
+      <description><![CDATA[来自数据培训公司规模的新平台AI将使人工智能开发人员发现其模型的弱点。]]></description>
+      <guid>https://www.wired.com/story/this-tool-probes-frontier-ai-models-for-lapses-in-intelligence/</guid>
+      <pubDate>Wed, 02 Apr 2025 16:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>这家初创公司说它可以清洁您的微塑料血液</title>
       <link>https://www.wired.com/story/this-startup-promises-to-clean-your-blood-of-microplastics-clarify-clinics/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[随着埃隆·马斯克（Elon Musk）继续扩大他在美国的政治力量，他的母亲一再前往中国参加活动，中国品牌的模式以及推广特斯拉。]]></description>
       <guid>https://www.wired.com/story/maye-musk-china-influencer-brands/</guid>
       <pubDate>Thu, 27 Mar 2025 14:10:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>内部Arxiv  - 所有科学中最具变革性的平台</title>
-      <link>https://www.wired.com/story/inside-arxiv-most-transformative-code-science/</link>
-      <description><![CDATA[如果没有在线研究存储库ARXIV，那么现代科学就不会存在。三十年来，它的创造者仍然无法放手。]]></description>
-      <guid>https://www.wired.com/story/inside-arxiv-most-transformative-code-science/</guid>
-      <pubDate>Thu, 27 Mar 2025 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
