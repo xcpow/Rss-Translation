@@ -4,7 +4,14 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Wed, 02 Apr 2025 09:10:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Apr 2025 12:18:30 GMT</lastBuildDate>
+    <item>
+      <title>这家初创公司说它可以清洁您的微塑料血液</title>
+      <link>https://www.wired.com/story/this-startup-promises-to-clean-your-blood-of-microplastics-clarify-clinics/</link>
+      <description><![CDATA[选举医学行业正在兑现塑料污染的担忧，但是微塑料受到伤害的证据仍然不确定。]]></description>
+      <guid>https://www.wired.com/story/this-startup-promises-to-clean-your-blood-of-microplastics-clarify-clinics/</guid>
+      <pubDate>Wed, 02 Apr 2025 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>联邦法官允许Doge免费获得超过5亿美元的办公大楼</title>
       <link>https://www.wired.com/story/judge-approves-doge-usip-office-building/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[如果没有在线研究存储库ARXIV，那么现代科学就不会存在。三十年来，它的创造者仍然无法放手。]]></description>
       <guid>https://www.wired.com/story/inside-arxiv-most-transformative-code-science/</guid>
       <pubDate>Thu, 27 Mar 2025 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>外部计划如何使NVIDIA脱颖而出</title>
-      <link>https://www.wired.com/story/how-extropic-plans-to-unseat-nvidia/</link>
-      <description><![CDATA[用一种全新的计算机芯片挑战世界上最成功的芯片制造商似乎很荒谬，但这并不比AI种族本身更荒谬。]]></description>
-      <guid>https://www.wired.com/story/how-extropic-plans-to-unseat-nvidia/</guid>
-      <pubDate>Wed, 26 Mar 2025 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
