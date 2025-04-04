@@ -4,7 +4,14 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 04 Apr 2025 12:17:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Apr 2025 15:09:52 GMT</lastBuildDate>
+    <item>
+      <title>特朗普总统在“信息孤岛”上的战争是您个人数据的坏消息</title>
+      <link>https://www.wired.com/story/plaintext-trump-executive-order-information-silos-privacy/</link>
+      <description><![CDATA[唐纳德·特朗普（Donald Trump）3月20日的行政命令旨在消除数据孤岛。它可能在此过程中破坏隐私。]]></description>
+      <guid>https://www.wired.com/story/plaintext-trump-executive-order-information-silos-privacy/</guid>
+      <pubDate>Fri, 04 Apr 2025 14:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>特朗普的关税可以重塑美国科技界</title>
       <link>https://www.wired.com/story/trump-global-tariffs-tech-industry-impacts/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[埃隆·马斯克（Elon Musk）接任后，社交平台X挣扎，但在美国总统唐纳德·特朗普（Donald Trump）赢得连任后，其命运得到了巨大改善。现在，它将成为马斯克AI初创公司Xai的一部分。]]></description>
       <guid>https://www.wired.com/story/xai-x-acquisition-deal/</guid>
       <pubDate>Fri, 28 Mar 2025 22:35:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>人类的克劳德（Claude）擅长诗歌，而夸张</title>
-      <link>https://www.wired.com/story/plaintext-anthropic-claude-brain-research/</link>
-      <description><![CDATA[研究人员看着聊天机器人的“大脑”。结果令人惊讶。]]></description>
-      <guid>https://www.wired.com/story/plaintext-anthropic-claude-brain-research/</guid>
-      <pubDate>Fri, 28 Mar 2025 14:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
