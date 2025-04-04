@@ -4,102 +4,104 @@
     <title>ACM技术</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM技术</description>
-    <lastBuildDate>Wed, 02 Apr 2025 18:13:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Apr 2025 18:13:06 GMT</lastBuildDate>
     <item>
-      <title>数百个AI数据中心在中国未使用</title>
-      <link>https://www.technologyreview.com/2025/03/26/1113802/china-ai-data-centers-unused/</link>
-      <description><![CDATA[中国政府和私人投资者驱动的数据中心建设繁荣，麻省理工学院技术评论 放慢了速度，当地商店报告说，多达80％的新建计算资源仍未使用。这是因为急于开发大型语言模型正在失去蒸汽，较小的科技公司在DeepSeek的成功中放弃了其AI模型的预培训，并且该行业正在转向改善GPU。
-MIT技术评论（03/26/25）Caiwei Chen  &lt;a href =“ https://www.technologyreview.com/2025/2025/03/26/1113802/china-ai-ai-ai-ai-data-data-centa-center-centa-centers-unduse/ target/]]></description>
-      <guid>https://www.technologyreview.com/2025/03/26/1113802/china-ai-data-centers-unused/</guid>
-      <pubDate>Wed, 02 Apr 2025 18:13:42 GMT</pubDate>
+      <title>AI增强的3D打印可以改变食品生产</title>
+      <link>https://hkust.edu.hk/news/hkust-researchers-set-transform-food-production-ai-enhanced-3d-food-printing-solution-0</link>
+      <description><![CDATA[香港科学技术大学 香港科学技术大学研究人员开发了一种AI辅助的3D食品印刷系统，结合了红外供暖和基于挤出的印刷。生成算法和Python脚本用于设计复杂的食物图案，石墨烯加热器精确地是基于淀粉的食物，以确保形状和质量。大学说，我们对这项技术的潜力提供了有效且易于访问的过程。
+香港科学技术大学（03/31/25）]]></description>
+      <guid>https://hkust.edu.hk/news/hkust-researchers-set-transform-food-production-ai-enhanced-3d-food-printing-solution-0</guid>
+      <pubDate>Fri, 04 Apr 2025 18:13:05 GMT</pubDate>
     </item>
     <item>
-      <title>可穿戴模拟的触觉</title>
-      <link>https://newatlas.com/vr/wearable-lifelike-haptic-sense-touch-feedback/</link>
-      <description><![CDATA[New Atlas  由西北大学研究人员开发的一种轻巧的可穿戴设备通过几种居住在皮肤中不同深度的不同种类的执行器中模拟虚拟应用中的触摸感。通过将新开发的执行器与运动自由，蓝牙连接，加速度计和电池相结合，该设备无线模拟一系列感觉，包括振动，拉伸，压力，滑动和扭曲。  来自“可穿戴模拟的触摸感” 
-新地图集（03/27/25）Abhimanyu Ghoshal  &lt;a href =“ https://newatlas.com/vr/wearby-lifelable-lifelike-haptic-haptic-sense-touch-feedback/”]]></description>
-      <guid>https://newatlas.com/vr/wearable-lifelike-haptic-sense-touch-feedback/</guid>
-      <pubDate>Wed, 02 Apr 2025 18:13:40 GMT</pubDate>
+      <title>朝鲜工人的问题比您想象的要大</title>
+      <link>https://cyberscoop.com/north-korea-technical-workers-full-time-jobs/</link>
+      <description><![CDATA[Cyber​​sCoop  内部风险管理公司DTEX表示，朝鲜国民对公司的全球渗透延伸到传统IT之外的角色。该公司估计，朝鲜特工已经渗透了成千上万的关键基础设施组织。 DTEX的Mohan Koo说，该公司正在积极调查其7％的客户群，其中包括《财富》全球2,000个组织。 Koo说，其中一些调查发现渗透者获得了“王国的钥匙”。
+Cyber​​sCoop（03/31/25）Matt Kapko  查看完整文章]]></description>
+      <guid>https://cyberscoop.com/north-korea-technical-workers-full-time-jobs/</guid>
+      <pubDate>Fri, 04 Apr 2025 18:13:04 GMT</pubDate>
     </item>
     <item>
-      <title>机器人UMP会进入MLB吗？</title>
-      <link>https://edition.cnn.com/2025/03/27/sport/mlb-automated-ball-strike-challenge-system-spt/index.html</link>
-      <description><![CDATA[CNN  尽管美国职棒大联盟（MLB）在2025年春季训练比赛中测试了Hawk-Eye的自动球击球（ABS）挑战系统，但常规赛的“机器人裁判”技术将不会部署。 ABS系统可以让击球手，投手或接球手挑战裁判的电话。这导致了一个图像，并实时在体育场和电视上显示了俯仰位置和挑战结果。  来自“机器人UMP来MLB？” 
-CNN（03/27/25）Julia Andersen  &lt;a href =“ https:/ https://edition.cnn.com/2025/2025/03/03/27/sport/mlb-automaty-ball-automated-ball-strike-challenge-challenge-challenge-challenge-stregn-stregn-stregn-strenge-strenge-strenge-strenge-system-system-spt/index-spt/index，index.htex.htex.htex.html一下]]></description>
-      <guid>https://edition.cnn.com/2025/03/27/sport/mlb-automated-ball-strike-challenge-system-spt/index.html</guid>
-      <pubDate>Wed, 02 Apr 2025 18:13:38 GMT</pubDate>
+      <title>甲骨文告诉客户第二次骇客</title>
+      <link>https://www.bloomberg.com/news/articles/2025-04-02/oracle-tells-clients-of-second-recent-hack-log-in-data-stolen?sref=db2f3qgr</link>
+      <description><![CDATA[彭博  Oracle告诉客户，黑客闯入了计算机系统并偷走了旧客户登录凭据，第二个网络安全违反了该软件公司在上个月向客户承认。据消息人士称，甲骨文工作人员本周通知一些客户，攻击者可以访问用户名，通行证和加密密码，他们补充说，攻击者寻求公司的勒索付款。
+彭博社（04/02/25）Jake Bleiberg     - 可能需要付费订阅]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-04-02/oracle-tells-clients-of-second-recent-hack-log-in-data-stolen?sref=db2f3qgr</guid>
+      <pubDate>Fri, 04 Apr 2025 18:13:03 GMT</pubDate>
     </item>
     <item>
-      <title>欧洲委员会宣布为战略技术分配13亿美元</title>
-      <link>https://www.brusselstimes.com/1510016/european-commission-announces-e1-3-billion-allocation-for-strategic-technologies</link>
-      <description><![CDATA[布鲁塞尔时报（比利时） 欧洲委员会表示，将在未来三年内分发13亿美元（14亿美元），以支持AI，网络安全，云服务和其他战略数字技术的开发。优先事项包括将生成性AI纳入业务和公共部门，开发欧洲数字创新枢纽，创建可靠的网络安全服务提供商储备，资助数字技能教育，并改善目的地地球数字模型，以进行气候变化和自然灾害准备。
-布鲁塞尔时报（比利时）（03/28/25） &lt;a href =“ https://www.brusselstimes.com/1510016/european-commiss-comms-ances-announces-eances-e1-e1-3-billion-billion-allocation-allocation-fillion-allocation-fortor-for--for--stategic-technologies target =”]]></description>
-      <guid>https://www.brusselstimes.com/1510016/european-commission-announces-e1-3-billion-allocation-for-strategic-technologies</guid>
-      <pubDate>Wed, 02 Apr 2025 18:13:37 GMT</pubDate>
+      <title>帕帕·约翰斯（Papa Johns）希望AI改变披萨订购</title>
+      <link>https://www.reuters.com/technology/artificial-intelligence/papa-johns-wants-ai-transform-pizza-ordering-2025-04-03/</link>
+      <description><![CDATA[Reuters帕帕·约翰国际（Papa John&#39;s International）周四宣布与Google Cloud建立了扩展的合作伙伴关系，旨在将AI带入披萨订购领域。该公司的计划是使用AI个性化电话推送通知，建议基于对过去客户行为和其他环境的分析，建议订单，营销电子邮件和忠诚度计划。披萨连锁店还计划添加一个新的在线聊天机器人以及通过虚拟助手下订单的能力。
+路透社（04/03/25）Waylon Cunningham  &lt;a href =“ https://www.reuters.com/technology/technology/artivery-artsover-intercer-intelligence/papa-johns-johns-johns-wants-ai-ai-ai-ai-transform-pizza-pizza-pizza-pizza-pizza-pizza-pizza-pizza-pording-2025-2025-04-04-03/]]></description>
+      <guid>https://www.reuters.com/technology/artificial-intelligence/papa-johns-wants-ai-transform-pizza-ordering-2025-04-03/</guid>
+      <pubDate>Fri, 04 Apr 2025 18:13:01 GMT</pubDate>
     </item>
     <item>
-      <title>为在线广告商淘汰虚假用户的努力不足</title>
-      <link>https://www.wsj.com/business/media/efforts-to-weed-out-fake-users-for-online-advertisers-fall-short-0a5ec1a6</link>
-      <description><![CDATA[《华尔街日报   ADALYTICS报告发现，DoubleVerify，Inteballify AD Science和人类安全是广告商付费的前三家公司来检测和过滤机器人，即使在过去的七年中，即使在BOTS自我识别的情况下，也经常错过了非人类的交通。该报告显示，在此期间，将大型品牌的广告展示给数千个网站上的机器人。
-《华尔街日报》（03/28/25）订阅]]></description>
-      <guid>https://www.wsj.com/business/media/efforts-to-weed-out-fake-users-for-online-advertisers-fall-short-0a5ec1a6</guid>
-      <pubDate>Wed, 02 Apr 2025 18:13:36 GMT</pubDate>
+      <title>NFL使用相机技术测量第一次倒数</title>
+      <link>https://www.npr.org/2025/04/01/nx-s1-5347990/nfl-first-downs-measurements-hawk-eye</link>
+      <description><![CDATA[NPR  国家橄榄球联盟（NFL）已在其30个体育场中的每个体育场中的每个体育场中安装了索尼体育评论科技公司Hawk-Eye的六台摄像机，这是一个新系统的一部分，该系统将自动衡量第一名。 NFL表示，基于摄像机的系统每次测量的速度比传统的连锁船员快40秒。该系统将在体育场内和电视上显示虚拟娱乐。
+NPR（04/01/25）Becky Sullivan  &lt;a href =“ https://www.npr.org/2025/04/01/nx-s1-5347990/nfl-first-downs-downs-measurements-measurements-measurents-hawk-eye-hawk-eye-hawk-eye-hawk-eye target =”]]></description>
+      <guid>https://www.npr.org/2025/04/01/nx-s1-5347990/nfl-first-downs-measurements-hawk-eye</guid>
+      <pubDate>Fri, 04 Apr 2025 18:13:00 GMT</pubDate>
     </item>
     <item>
-      <title>大学面临新的美国竞标审查中国，俄罗斯资助</title>
-      <link>https://www.bloomberg.com/news/articles/2025-03-27/house-revives-bid-to-scrutinize-foreign-funding-to-colleges?sref=db2f3qgr</link>
-      <description><![CDATA[彭博  u.s。立法者正在重新努力调查美国大学的外国资金，警告某些国家使用学术伙伴关系来访问对AI和其他高级技术的敏感研究的风险。众议院上周通过两党支持通过的立法将降低披露外国捐款和合同的门槛。这还将要求大学报告来自中国和俄罗斯在内的国家安全威胁的国家 /地区的任何数量。
-彭博社（03/28/25）Janet Lorin  &lt;a href =“ https:/ https://wwwww.bloomberg.com/news/news/articles/2025-03-27/house-revives-revives-bid-to-bid-to-scrutinize-foreign-foreign-foreign-funding-fund-fund-fund-fund-fund-fund-t-colleges一下]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-03-27/house-revives-bid-to-scrutinize-foreign-funding-to-colleges?sref=db2f3qgr</guid>
-      <pubDate>Wed, 02 Apr 2025 18:13:33 GMT</pubDate>
+      <title>3D Tech Paves方法进行下一代眼动追踪</title>
+      <link>https://news.arizona.edu/news/new-3d-technology-paves-way-next-generation-eye-tracking</link>
+      <description><![CDATA[亚利桑那大学新闻 亚利桑那大学的研究人员将3D成像技术偏差测定法和高级计算结合在一起，以改善吸引人的应用程序。使用挠度测量法可以从一个从一个瞬时相机图像中提取的40,000多个表面点捕获方向信息，相比之下，只有十几个表面点具有当前的眼睛追踪技术。计算重建使用来自角膜和巩膜的3D表面数据准确预测凝视方向。
+亚利桑那大学新闻（04/01/25）丹尼尔·斯托尔特]]></description>
+      <guid>https://news.arizona.edu/news/new-3d-technology-paves-way-next-generation-eye-tracking</guid>
+      <pubDate>Fri, 04 Apr 2025 18:12:59 GMT</pubDate>
     </item>
     <item>
-      <title>使用深度学习为立方体供电</title>
-      <link>https://www.universetoday.com/articles/how-to-power-cubesats-using-deep-learning</link>
-      <description><![CDATA[今天的宇宙 由埃塞俄比亚太空科学和地理空间研究所的阿卜杜拉泽兹·阿巴格罗（Abdulazez Abagero）领导的研究人员开发了一个深层喂养神经网络（DFFNN），以优化立方体功耗。连接到标准比例综合控制器，发现DFFNN优于所有其他最大功率跟踪控制算法，这些算法旨在在任何给定环境中从系统中获得最大的功率。 DFFNN具有基于模拟的效率97％的效率，使用线性切线和Neville解释来简化Cubesat轨迹计算。
-今日宇宙（03/29/25）Andy Tomaswick  ]]></description>
-      <guid>https://www.universetoday.com/articles/how-to-power-cubesats-using-deep-learning</guid>
-      <pubDate>Wed, 02 Apr 2025 18:13:32 GMT</pubDate>
+      <title>波兰总理说，他的政党在选举前是针对网络攻击</title>
+      <link>https://apnews.com/article/poland-cyberattack-tusk-2773f16eacae3186e5bf0a18964c9bdc</link>
+      <description><![CDATA[美联社 波兰总理（PM）唐纳德·图斯克（PM）唐纳德·图斯克（PM）说，他的公民平台派对的计算机系统是由网络攻击的目标。 “外国对选举的干预开始”。服务指向东部痕迹，＆rdquo;图斯克说。 Tusk＆rsquo of Office的负责人Jan Grabiec说，网络攻击包括试图控制公民平台办公室的员工和选举员工的计算机，周三大约十几个小时。波兰距离总统大选的第一轮还只有几周的路程。
+
+ 来自“波兰总理说他的政党在选举之前是针对网络攻击的目标” 
+联合出版社（04/02/25） &lt;a href =“ https://apnews.com/article/poland-cyberattack-tusk-27773f16ecae3186e5bf0a18964c964c9bdc”]]></description>
+      <guid>https://apnews.com/article/poland-cyberattack-tusk-2773f16eacae3186e5bf0a18964c9bdc</guid>
+      <pubDate>Fri, 04 Apr 2025 18:12:57 GMT</pubDate>
     </item>
     <item>
-      <title>TSMC肯定了新的国内工厂对台湾的承诺</title>
-      <link>https://www.reuters.com/technology/tsmc-affirms-commitment-taiwan-with-new-domestic-fab-amid-overseas-expansion-2025-03-31/</link>
-      <description><![CDATA[路透社   TSMC在3月31日在台湾Kaohsiung的新工厂表示，向岛上正在进行的扩张计划，并增加了7,000个技术工作。 TSMC宣布计划向美国TSMC的Y.P.投资1000亿美元的计划。 Chyn说，新的Fab将于2025年下半年开始生产2纳米晶圆。添加，TSMC将永远是我们的国家队。
-路透社（03/31/25）本·布兰查德；信仰hand  &lt;a href =“ https://www.reuters.com/technology/tsmc-affirms-commitment-commitment-taiwan-with-new-new-new-domestic-fab-amid-amid-amid-mid-ab-mid-mid-overseas-expansion-2025-03-03-31/]]></description>
-      <guid>https://www.reuters.com/technology/tsmc-affirms-commitment-taiwan-with-new-domestic-fab-amid-overseas-expansion-2025-03-31/</guid>
-      <pubDate>Wed, 02 Apr 2025 18:13:30 GMT</pubDate>
+      <title>世界银行支持非洲数字数据推动</title>
+      <link>https://www.reuters.com/world/africa/world-bank-backs-africa-digital-data-push-with-100-million-raxio-deal-2025-04-03/</link>
+      <description><![CDATA[路透社  世界银行将在Raxio集团投资1亿美元，以资助从埃塞俄比亚到安哥拉的数据中心。非洲占全球数据中心容量的1％，而全球移动数据的使用量每年增长约40％。世界银行国际金融公司国际金融公司的债务资金是迄今为止最大的此类投资。随着全球科技巨头和基础设施投资者将非洲视为云服务的下一个战场。
+路透社（04/03/25）colleen goko  &lt;a href =“ https://www.reuters.com/world/world/world/world/world/world/world-back-backs-africa-digital-data-data-push-with-with-with-with-100-100-100-100-100-100-100-100-100-RAXIO-DEAL-20255-2025-0444-04-04-04-04-04-03/ TALTER &lt;//____________________________________________________________________/]]></description>
+      <guid>https://www.reuters.com/world/africa/world-bank-backs-africa-digital-data-push-with-100-million-raxio-deal-2025-04-03/</guid>
+      <pubDate>Fri, 04 Apr 2025 18:12:56 GMT</pubDate>
     </item>
     <item>
-      <title>社会保障网站崩溃，因为代理商将用户推向在线</title>
-      <link>https://www.bloomberg.com/news/articles/2025-03-31/social-security-website-crashes-as-agency-pushes-users-online</link>
-      <description><![CDATA[彭博 美国社会保障局（SSA）说，3月31日，MySSA门户“完全停机”的根本原因仍在调查中。中断是最近发生的一系列崩溃中的最新一次，当时该机构鼓励人们使用在线和面对面的服务。 SSA发言人说，一些用户在登录其在线帐户时遇到困难，并补充说，该网站在最近的事件中仍在运营。
-彭博（03/31/25）格雷戈里·科特（Gregory Korte）； Emily Birnbaum  ]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-03-31/social-security-website-crashes-as-agency-pushes-users-online</guid>
-      <pubDate>Wed, 02 Apr 2025 18:13:28 GMT</pubDate>
+      <title>澳大利亚的养老金资金受到网络攻击的打击</title>
+      <link>https://www.abc.net.au/news/2025-04-04/superannuation-cyber-attack-rest-afsa/105137820</link>
+      <description><![CDATA[澳大利亚广播公司 几项澳大利亚退休金受到涉嫌网络攻击的打击，一位基金的成员损失了总计500,000美元的退休储蓄。 Australiansuper在周五下午确认，成员一直在努力进入他们的帐户，一些帐户显示为零资金。澳大利亚退休金协会表示，其他基金在周末也经历了试图的网络攻击。
+澳大利亚广播公司（04/04/25）Emilia Terzon； Tony Ibrahim  &lt;a href =“ https://www.abc.net.au/news/2025-04-04/superannation-cyberantaulion-cyber-attack-rest-rest-rest-rest-afsa/105137820]]></description>
+      <guid>https://www.abc.net.au/news/2025-04-04/superannuation-cyber-attack-rest-afsa/105137820</guid>
+      <pubDate>Fri, 04 Apr 2025 18:12:55 GMT</pubDate>
     </item>
     <item>
-      <title>法国将苹果1.5亿欧元用于隐私功能</title>
-      <link>https://www.france24.com/en/live-news/20250331-france-fines-apple-150-million-euros-over-privacy-feature</link>
-      <description><![CDATA[France 24法国竞争管理局周一因其应用程序跟踪软件的隐私功能而罚款1.5亿欧元（1.62亿美元），该功能要求应用程序通过弹出窗口获得用户同意，然后再在其他应用程序和网站上跟踪其活动。监管机构说，苹果实施其应用程序跟踪透明度（ATT）软件的方式“既不是必要的，也不与公司既定的保护用户数据的目标既不必要”；它还惩罚了第三方出版商。  来自“法国罚款1.5亿欧元的隐私功能” 
-法国24（03/31/25） &lt;a href =“ https://www.france24.com/en/live-news/20250331-france-france-fince-fines-fines-150-50-50-50-50--ouros-euros-ever-privacy-feature”]]></description>
-      <guid>https://www.france24.com/en/live-news/20250331-france-fines-apple-150-million-euros-over-privacy-feature</guid>
-      <pubDate>Wed, 02 Apr 2025 18:13:27 GMT</pubDate>
+      <title>瑞士扩大出口控制，包括量子技术</title>
+      <link>https://thequantuminsider.com/2025/04/02/switzerland-expands-export-controls-to-include-quantum-technologies-aligning-with-u-s-and-eu-measures/</link>
+      <description><![CDATA[量子内部人  瑞士已宣布计划扩大其出口控制框架，以涵盖一系列双重使用的新兴技术，包括量子计算，半导体，AI和增材制造。该更改旨在确保瑞士出口实践与国际标准保持一致，同时维持对国内工业和研究机构的基本技术的访问。去年在美国和法国引入了类似的控制。
+Quantum Insider (04/02/25) Cierra Choucair View Full文章]]></description>
+      <guid>https://thequantuminsider.com/2025/04/02/switzerland-expands-export-controls-to-include-quantum-technologies-aligning-with-u-s-and-eu-measures/</guid>
+      <pubDate>Fri, 04 Apr 2025 18:12:54 GMT</pubDate>
     </item>
     <item>
-      <title>在中国致命的车祸后，辅助驾驶技术受到审查</title>
-      <link>https://www.nytimes.com/2025/04/01/business/xiaomi-driverless-electric-car-china.html</link>
-      <description><![CDATA[纽约时报 由小米制作的SU7轿车于周六在中国东部的高速公路上开车进入混凝土护栏，炸死了三人。小米说，汽车在自动驾驶辅助驾驶功能上导航时，汽车以约70 m.p.h的速度行驶。 （113 K.P.H.）在正在维修的道路的一部分中到达了一个障碍。中国积极促进了辅助驾驶和无人驾驶技术。
-《纽约时报》（04/01/25）瓦卡巴亚西大道； claire fu  查看完整文章]]></description>
-      <guid>https://www.nytimes.com/2025/04/01/business/xiaomi-driverless-electric-car-china.html</guid>
-      <pubDate>Wed, 02 Apr 2025 18:13:26 GMT</pubDate>
+      <title>其他技术专家Cerf警告过度依赖AI</title>
+      <link>https://edition.cnn.com/2025/04/02/tech/ai-future-of-humanity-2035-report/index.html</link>
+      <description><![CDATA[CNN  在周三ACM A.M. Elon University的研究人员发布的报告中图灵（Turing）获奖者Vint Cerf和其他300位技术专家警告说，过度依赖AI可能对诸如深思熟虑和道德判断之类的技能产生负面影响。该报告的贡献者期望从三个领域中看到该技术的好处：好奇心和学习能力；决策;以及解决问题和创新思维和创造力。
+CNN（04/02/25）Clare Duffy  &lt;a href =“ https://edition.cnn.com/2025/04/04/02/tech/tech/ai-future-of-humanity-2035-2035-report/index.htex.htex.htex.htex.html]]></description>
+      <guid>https://edition.cnn.com/2025/04/02/tech/ai-future-of-humanity-2035-report/index.html</guid>
+      <pubDate>Fri, 04 Apr 2025 18:12:52 GMT</pubDate>
     </item>
     <item>
-      <title>BCI帮助中风幸存者再次讲话</title>
-      <link>https://apnews.com/article/brain-computer-interface-technology-26606f91ce9bb32883cae3a753c63419</link>
-      <description><![CDATA[美联社 加利福尼亚大学（UC），伯克利研究人员开发了配备AI模型的脑部计算机界面（BCI），该模型将神经活动实时转化为声音。该植入物被置于一名四肢瘫痪的47岁妇女中，由于中风而无法讲话18年。当她想到言语时，电极记录了她的大脑活动，并使用用她的受伤前声音制作的合成器制作的口语句子。
-美联社（03/31/25）laura ungar  &lt;a href =“ https://apnews.com/article/article/brain-computer/brain-computer-interface-technology-26606f91ce9bb328832883cae3a753a753c63c63419 target =”]]></description>
-      <guid>https://apnews.com/article/brain-computer-interface-technology-26606f91ce9bb32883cae3a753c63419</guid>
-      <pubDate>Wed, 02 Apr 2025 18:13:25 GMT</pubDate>
+      <title>Guerraoui获得2024 ACM Barroso奖</title>
+      <link>https://www.acm.org/media-center/2025/april/barroso-award-2024</link>
+      <description><![CDATA[ACM媒体中心  Rachid Guerraoui是瑞士的Cole; Cole Polytechnique f＆eacute; d＆eac​​ute; d＆eac​​ute; Rale de Lausanne的教授，是首个Acm Luiz andr＆Ecute ocm aCm luiz andr＆ecute;巴罗索（Barroso）奖（Barroso）授予分布式计算的理论和应用贡献，以及在非洲促进计算机科学方面的有影响力的工作。该奖项的旨在表彰从历史上代表性不足的社区中为计算机科学做出基本贡献的研究人员。 ACM总裁Yannis Ioannidis说，“本着Luiz Barroso的精神，Guerraoui的技术成就具有广泛的影响力，并且具有很大的影响力。
+ACM媒体中心（04/02/25） 查看完整文章]]></description>
+      <guid>https://www.acm.org/media-center/2025/april/barroso-award-2024</guid>
+      <pubDate>Fri, 04 Apr 2025 18:12:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
