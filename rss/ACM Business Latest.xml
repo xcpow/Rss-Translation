@@ -4,7 +4,14 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Sat, 05 Apr 2025 09:09:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Apr 2025 12:15:25 GMT</lastBuildDate>
+    <item>
+      <title>特朗普的关税威胁到美国半导体复兴</title>
+      <link>https://www.wired.com/story/trump-tariffs-impact-semiconductors-chips/</link>
+      <description><![CDATA[虽然白宫对某些半导体进口造成了狭窄的豁免，但唐纳德·特朗普总统的大量关税仍适用于GPU和芯片制造设备。]]></description>
+      <guid>https://www.wired.com/story/trump-tariffs-impact-semiconductors-chips/</guid>
+      <pubDate>Sat, 05 Apr 2025 09:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>特朗普总统在“信息孤岛”上的战争是您个人数据的坏消息</title>
       <link>https://www.wired.com/story/plaintext-trump-executive-order-information-silos-privacy/</link>
@@ -78,7 +85,7 @@
     <item>
       <title>山姆·奥特曼（Sam Altman）说，Openai将于今年夏天发布“开放重量” AI模型</title>
       <link>https://www.wired.com/story/openai-sam-altman-announce-open-source-model/</link>
-      <description><![CDATA[该消息是在DeepSeek的突破性成功之后，以及来自Meta等竞争对手的压力不断增长。]]></description>
+      <description><![CDATA[该消息是在DeepSeek的突破性成功之后以及来自Meta等竞争对手的压力不断增长。]]></description>
       <guid>https://www.wired.com/story/openai-sam-altman-announce-open-source-model/</guid>
       <pubDate>Mon, 31 Mar 2025 20:12:10 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[埃隆·马斯克（Elon Musk）说，他从1960年代的科幻小说中借了这个名字，但在Xai推出聊天机器人之前，另一家AI初创公司将其应用于商标。]]></description>
       <guid>https://www.wired.com/story/grok-trademark-dispute-name/</guid>
       <pubDate>Mon, 31 Mar 2025 09:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>埃隆·马斯克（Elon Musk）的Xai获得了X，因为</title>
-      <link>https://www.wired.com/story/xai-x-acquisition-deal/</link>
-      <description><![CDATA[埃隆·马斯克（Elon Musk）接任后，社交平台X挣扎，但在美国总统唐纳德·特朗普（Donald Trump）赢得连任后，其命运得到了巨大改善。现在，它将成为马斯克AI初创公司Xai的一部分。]]></description>
-      <guid>https://www.wired.com/story/xai-x-acquisition-deal/</guid>
-      <pubDate>Fri, 28 Mar 2025 22:35:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
