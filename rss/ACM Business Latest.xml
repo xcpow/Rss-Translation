@@ -4,7 +4,14 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Mon, 07 Apr 2025 09:11:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Apr 2025 12:18:12 GMT</lastBuildDate>
+    <item>
+      <title>人工智能种族变得拥挤了，中国正在美国关闭</title>
+      <link>https://www.wired.com/story/stanford-study-global-artificial-intelligence-index/</link>
+      <description><![CDATA[斯坦福大学的新研究表明，随着整个美国，中国和法国的竞争增加，人工智能并不是由Openai和Google统治的。]]></description>
+      <guid>https://www.wired.com/story/stanford-study-global-artificial-intelligence-index/</guid>
+      <pubDate>Mon, 07 Apr 2025 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>特朗普的关税威胁到美国半导体复兴</title>
       <link>https://www.wired.com/story/trump-tariffs-impact-semiconductors-chips/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[加拿大顶尖的技术人才长期以来一直搬到美国寻求更好的机会，但是唐纳德·特朗普的关税和威胁正在引发有关如何在家中建立更强大的生态系统的问题。]]></description>
       <guid>https://www.wired.com/story/canada-startups-silicon-valley-trump-annexation/</guid>
       <pubDate>Mon, 31 Mar 2025 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>创业创始人声称埃隆·马斯克（Elon Musk）正在偷“ grok”这个名字</title>
-      <link>https://www.wired.com/story/grok-trademark-dispute-name/</link>
-      <description><![CDATA[埃隆·马斯克（Elon Musk）说，他从1960年代的科幻小说中借了这个名字，但在Xai推出聊天机器人之前，另一家AI初创公司将其应用于商标。]]></description>
-      <guid>https://www.wired.com/story/grok-trademark-dispute-name/</guid>
-      <pubDate>Mon, 31 Mar 2025 09:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
