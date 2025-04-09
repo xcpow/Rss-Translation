@@ -4,94 +4,110 @@
     <title>ACM技术</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM技术</description>
-    <lastBuildDate>Mon, 07 Apr 2025 18:13:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Apr 2025 18:13:43 GMT</lastBuildDate>
     <item>
-      <title>彭博与AI摘要有一个艰难的开端</title>
-      <link>https://www.nytimes.com/2025/03/29/business/media/bloomberg-ai-summaries.html</link>
-      <description><![CDATA[纽约时报 彭博社纠正了今年发表的文章的至少三打AI生成的摘要。这些摘要出现在新闻文章上面，据称由三个项目符号组成，概述了文章的要点。彭博社说，“目前有99％的人工智能摘要符合我们的编辑标准”，并补充说，AI摘要是为了补充我们的新闻业，而不是代替我们的新闻业。
-《纽约时报》（04/03/25）凯蒂·罗伯逊 &lt;a href =“ https://wwwww.nytimes.com/2025/2025/03/03/29/business/media/media/bloomberg-ai-summaries.html-]]></description>
-      <guid>https://www.nytimes.com/2025/03/29/business/media/bloomberg-ai-summaries.html</guid>
-      <pubDate>Mon, 07 Apr 2025 18:13:35 GMT</pubDate>
+      <title>研究人员研究软件开发中的AI威胁</title>
+      <link>https://www.utsa.edu/today/2025/04/story/utsa-researchers-investigate-AI-threats.html</link>
+      <description><![CDATA[今天，由德克萨斯大学圣安东尼奥计算机科学博士生Joe Spracklen领导的UTSA  研究人员分析了与包装幻觉相关的安全风险，其中大语言模型（LLMS）生成了链接到不存在的第三方软件库的代码。这将使黑客能够创建一个与幻觉软件包相同名称并注入恶意代码的新软件包。研究人员发现，产生包装幻觉的开源LLM的可能性是GPT系列模型的四倍，而JavaScript比Python更容易受到幻觉的影响。
+今日UTSA（04/07/25）Ari Casta＆ntilde; eda  &lt;a href =“ https://wwwww.utsa.edu/today/2025/204/story/story/story/story/story/story/utsa-researchers-ingeachers-investigate-investigate-investigate-investigate-investigate-iai-ai-threats.html-threats.html-]]></description>
+      <guid>https://www.utsa.edu/today/2025/04/story/utsa-researchers-investigate-AI-threats.html</guid>
+      <pubDate>Wed, 09 Apr 2025 18:13:41 GMT</pubDate>
     </item>
     <item>
-      <title>公司忽略您的隐私要求</title>
-      <link>https://www.washingtonpost.com/technology/2025/04/01/data-privacy-laws-ignoring/</link>
-      <description><![CDATA[《华盛顿邮报》  消费者报告研究人员发现，公司可能不遵守州法律，使居民选择退出让网站出售或共享其个人信息。研究人员使用的软件看起来像是在科罗拉多州或加利福尼亚州，居民可以使用网络浏览器来完成隐私退出表格。尽管选择了出去，但研究人员仍然在40个相对著名的网站中至少看到了高度针对性的广告。
-《华盛顿邮报》（04/01/25）Shira Ovide  &lt;a href =“ https://www.washingtonpost.com/technology/technology/2025/04/01/data-privacylaws-igns-ignoring/]]></description>
-      <guid>https://www.washingtonpost.com/technology/2025/04/01/data-privacy-laws-ignoring/</guid>
-      <pubDate>Mon, 07 Apr 2025 18:13:34 GMT</pubDate>
+      <title>细菌风格的机器人在水下漫游</title>
+      <link>https://www.newscientist.com/article/2474732-bacteria-inspired-robot-uses-12-spinning-flagella-to-roam-underwater/</link>
+      <description><![CDATA[新科学家 由阿联酋哈利法大学研究人员开发的细菌启发的水下无人机具有12个灵活的手臂，能够朝任何方向进行控制。受细菌的鞭毛的启发，允许其游泳的细长螺纹结构，每个手臂都有一个电动机，该电动机在板上覆盆子Pi计算机控制的基座上。
+新科学家（04/07/25）MATTHEW激发 ]]></description>
+      <guid>https://www.newscientist.com/article/2474732-bacteria-inspired-robot-uses-12-spinning-flagella-to-roam-underwater/</guid>
+      <pubDate>Wed, 09 Apr 2025 18:13:40 GMT</pubDate>
     </item>
     <item>
-      <title>Microsoft撤回数据中心</title>
-      <link>https://www.bloomberg.com/news/articles/2025-04-03/microsoft-pulls-back-on-data-centers-from-chicago-to-jakarta</link>
-      <description><![CDATA[彭博  Microsoft已在全球数据中心项目上退缩，这表明该公司谨慎地扩展其云计算基础架构过快。消息人士称，这家科技巨头已经停止了谈判或延迟了英国，印度尼西亚和澳大利亚数据中心的网站的开发，以及“ Microsoft返回数据中心”的美国 
-彭博社（04/03/25） ]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-04-03/microsoft-pulls-back-on-data-centers-from-chicago-to-jakarta</guid>
-      <pubDate>Mon, 07 Apr 2025 18:13:32 GMT</pubDate>
+      <title>NIST呼吁披露的较旧漏洞的时间</title>
+      <link>https://www.computerweekly.com/news/366622153/NIST-calls-time-on-older-vulnerabilities-amid-surging-disclosures</link>
+      <description><![CDATA[Computerweekly.com   美国国家标准技术研究所（NIST）表示，在2018年1月1日之前出版的国家漏洞数据库（NVD）中，所有常见的漏洞和暴露（CVE）将在NVD数据集中标记为“ deferred”，并且将不再提供更新。 NIST说：“我们将此状态分配给较旧的CVE，以表明我们不打算优先考虑由于CVE年龄而更新NVD富集或初始NVD富集数据。”  从NIST呼叫的时间 。
+Computerweekly.com（04/07/25）Alex scroxton  &lt;a href =“ https:///wwwww.computerweekly.com/news/news/366622153/nist-calls-calls-calls-calls-calls time-mon-on-on-onem-on good-- vulnerbilities-amid-amid-surnerability-amid-surging-surging-disclosures-disclosures]]></description>
+      <guid>https://www.computerweekly.com/news/366622153/NIST-calls-time-on-older-vulnerabilities-amid-surging-disclosures</guid>
+      <pubDate>Wed, 09 Apr 2025 18:13:39 GMT</pubDate>
     </item>
     <item>
-      <title>人在法律上诉中雇用AI头像。法官没有逗乐</title>
-      <link>https://www.nytimes.com/2025/04/04/nyregion/ai-lawyer-replica-new-york.html</link>
-      <description><![CDATA[《纽约时报》  杰罗姆·德瓦尔德（Jerome Dewald）在视频中部署了一个AI训练的数字化身，他被允许向纽约州法官组成的小组辩护，要求撤销下级法院在与前雇主的纠纷中的决定。当法官问视频中的一个人是否是他的律师时，杜瓦尔德回答说：“我产生了。法官说，她没有“不欣赏被误导，”在订购视频之前。法官没有逗乐” 
-《纽约时报》（04/04/25）shayla colon  &lt;a href =“ https://wwwww.nytimes.com/2025/2025/04/04/nyregion/nyregion/nyregion/nyregion/ai-lawyer-replica-replica-replica-replica-newew-new-new-york.html一下]]></description>
-      <guid>https://www.nytimes.com/2025/04/04/nyregion/ai-lawyer-replica-new-york.html</guid>
-      <pubDate>Mon, 07 Apr 2025 18:13:31 GMT</pubDate>
+      <title>将个人物品带入混合现实</title>
+      <link>https://news.mit.edu/2025/interecon-brings-personal-items-to-mixed-reality-0407</link>
+      <description><![CDATA[麻省理工学院新闻 马萨诸塞州技术研究所研究人员开发了一种工具，使用户可以生产物理物品的数字双胞胎，并在混合现实环境中捕获其交互功能。研究人员创建了一个iPhone应用程序，可让用户扫描该项目以生成3D模型。一旦在Interecon工具界面中导入模型，可以通过混合现实耳机访问，用户可以从“将个人物品带入混合现实” 中选择要制作交互式的方面。
+麻省理工学院新闻（04/07/25）Alex Shipps  &lt;a href =“ https://news.mit.mit.mit.edu/2025/interecon-brings-personal-items-personal-items-to-mixed-reality-0407]]></description>
+      <guid>https://news.mit.edu/2025/interecon-brings-personal-items-to-mixed-reality-0407</guid>
+      <pubDate>Wed, 09 Apr 2025 18:13:39 GMT</pubDate>
     </item>
     <item>
-      <title>佳能打印机驱动程序中发现的关键漏洞</title>
-      <link>https://www.securityweek.com/critical-vulnerability-found-in-canon-printer-drivers/</link>
-      <description><![CDATA[安全周 佳能最近发表了一项咨询，该咨询说明了与其几台生产打印机，办公室多功能打印机和激光打印机相关的驱动程序，受到了越野脆弱性的影响。安全孔被跟踪为CVE-2025-1268，其CVSS严重性得分为9.4。佳能告诉用户对漏洞的开发可以使攻击者可以防止打印或可能执行任意代码＆ldquo＆ldquo＆ldquo＆ldquo＆ldquo＆ldquo＆ldquo＆ldquo＆ldquo＆ldquo＆ldquo。
-安全周（04/04/25）Eduard Kovacs  &lt;a href =“ https://www.securityweek.com/critical-vulnerability-found-found-in-canon-printer-printer-drivers/”]]></description>
-      <guid>https://www.securityweek.com/critical-vulnerability-found-in-canon-printer-drivers/</guid>
-      <pubDate>Mon, 07 Apr 2025 18:13:30 GMT</pubDate>
+      <title>台湾说，中国利用生成的AI来逐渐增加虚假信息</title>
+      <link>https://www.reuters.com/world/asia-pacific/taiwan-says-china-using-generative-ai-ramp-up-disinformation-divide-island-2025-04-08/</link>
+      <description><![CDATA[路透社 台湾国家安全局在向议会的一份报告中说，中国正在努力通过使用生成的AI来传播虚假信息来分裂公众。该报告表明，今年到目前为止，已经分发了500,000个“有争议的消息”，主要是在社交媒体平台上。该局说，北京正在进行“认知战”，并正在寻求“在我们的社会之间建立分裂”。 来自“台湾说中国使用生成的AI来加剧虚假信息” 
+Reuters (04/08/25) Yimou Lee View Full Article]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/taiwan-says-china-using-generative-ai-ramp-up-disinformation-divide-island-2025-04-08/</guid>
+      <pubDate>Wed, 09 Apr 2025 18:13:38 GMT</pubDate>
     </item>
     <item>
-      <title>随着带宽飙升50％，AI机器人应变Wikimedia</title>
-      <link>https://arstechnica.com/information-technology/2025/04/ai-bots-strain-wikimedia-as-bandwidth-surges-50/</link>
-      <description><![CDATA[ARS Technica   Wikimedia Foundation报告说，自2024年1月以来，用于下载多媒体内容的带宽跃升，这归因于自动机器人刮擦数据以训练大型语言模型。这些机器人仅占总浏览量的35％，但最昂贵的请求的65％是其核心基础架构。由此产生的交通浪潮是Wikimedia的网站可靠性团队，代码审核工具和错误跟踪器。
-ARS Technica（04/02/25）Benj Edwards  &lt;a href =“ https://arstechnica.com/information-technology/2025/2025/04/ai-bots-bots-wikimedia-astrain-wikimedia-as-as-as-as-bandwidth-surges-50/]]></description>
-      <guid>https://arstechnica.com/information-technology/2025/04/ai-bots-strain-wikimedia-as-bandwidth-surges-50/</guid>
-      <pubDate>Mon, 07 Apr 2025 18:13:29 GMT</pubDate>
+      <title>苹果与英国的加密行不应该是秘密，法院规则</title>
+      <link>https://www.bbc.com/news/articles/cvgn1lz3v4no</link>
+      <description><![CDATA[英国广播公司新闻 法官支持由公民自由组织和新闻机构组成的联盟，裁定英国和苹果之间的数据隐私不能秘密地掩盖。英国希望能够通过Apple的高级数据保护（ADP）系统获得的访问信息。这样的访问将要求苹果创建一个“后门”，它说它不想为此担心而做，最终将被黑客和罪犯利用。
+BBC新闻（04/07/25）汤姆·辛格尔顿； liv mcmahon  查看完整文章]]></description>
+      <guid>https://www.bbc.com/news/articles/cvgn1lz3v4no</guid>
+      <pubDate>Wed, 09 Apr 2025 18:13:37 GMT</pubDate>
     </item>
     <item>
-      <title>美国天气机构保存研究网站</title>
-      <link>https://www.bloomberg.com/news/articles/2025-04-04/us-weather-agency-to-preserve-research-websites-in-reversal?sref=db2f3qgr</link>
-      <description><![CDATA[彭博  美国国家海洋和大气局（NOAA）将在此前搬家取消支持其许多页面的云网络服务合同后，将保留与其研究部门相关的网站的访问。 NOAA和大气研究办公室的服务合同将终止，危及进入大多数面向公共公共的网站的访问权限。 ＆ldquo;服务不会中断，＆rdquo; NOAA上周说。 ＆ldquo;所有NOAA研究网站都将保持在线。
-彭博社（04/04/25）Lauren Rosenthal  &lt;a href =“ https://wwwww.bloomberg.com/news/news/news/articles/2025-04-04/us-weather-weather-weather-weather-weather-weather-weather-weather-weather-weather-weather-weather-weather-agency-to-presearch-presearch-preasearch-presearch-presearch-websites-websites-in-websites-in-----------------]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-04-04/us-weather-agency-to-preserve-research-websites-in-reversal?sref=db2f3qgr</guid>
-      <pubDate>Mon, 07 Apr 2025 18:13:28 GMT</pubDate>
+      <title>美国AI领导中国迅速萎缩</title>
+      <link>https://www.axios.com/2025/04/07/china-ai-race-stanford-report</link>
+      <description><![CDATA[Axios  斯坦福大学的最新人工智能指数发现中国即将在最先进的AI上倒闭。该报告说，去年美国的机构制作了40个AI票据模型，而另外15个是由中国生产的，欧洲制作了3个。该报告称，中国模型正在缩小质量差距，与美国模型几乎取得了两个关键基准的均等，而中国在AI出版物和专利中领先于美国。
+Axios（04/07/25）Ina Fried  &lt;a href =“ https://www.axios.com/2025/04/07/china-ai-race-race-stanford-stanford-report-report--Report-]]></description>
+      <guid>https://www.axios.com/2025/04/07/china-ai-race-stanford-report</guid>
+      <pubDate>Wed, 09 Apr 2025 18:13:36 GMT</pubDate>
     </item>
     <item>
-      <title>孩子们正在与“ AI同伴”交谈。议员们想规范</title>
-      <link>https://www.washingtonpost.com/politics/2025/04/01/ai-companions-kids-ca-ny-bill-ban/</link>
-      <description><![CDATA[《华盛顿邮报》  至少在加利福尼亚州考虑的三项法案旨在限制“ AI Companion Bot”如何与未成年人互动。 S.B. 243将对AI Companion Bot中的成瘾设计功能施加限制，实施协议来处理有关自我伤害或自杀的讨论，要求这些机器人的制造商进行定期合规性审核，并允许用户因公司不遵守而遭受损害。其他法案将禁止16岁及以下的人的AI同伴，并建立一个全州标准委员会，以评估和规范未成年人的AI工具。立法者想规范“ ”
-《华盛顿邮报》（04/01/25）Will Oremus； Andrea Jim＆Ecute; nez  &lt;a href =“ https://www.washingtonpost.com/politics/politics/2025/04/04/01/ai-companions-kids-kids-kids-kids-ca-ny-bill-ban/-bill-bill-ban/-]]></description>
-      <guid>https://www.washingtonpost.com/politics/2025/04/01/ai-companions-kids-ca-ny-bill-ban/</guid>
-      <pubDate>Mon, 07 Apr 2025 18:13:27 GMT</pubDate>
+      <title>研究人员发现了35亿美元的加密货币崩溃的隐藏模式</title>
+      <link>https://www.qmul.ac.uk/eecs/news-and-events/news/items/eecs-researchers-uncover-the-hidden-patterns-behind-a-35-billion-cryptocurrency-collapse-.html</link>
+      <description><![CDATA[伦敦皇后大学（英国） 来自英国伦敦皇后大学的研究人员和一家大学衍生公司的公司开发了软件，该软件在2022年5月的Terrausd Stablecoin及其相关货币Luna的倒闭背后识别出模式。研究人员使用时间多层图分析来绘制以太坊区块链上交易的不同加密货币之间的关系。他们发现五到六个交易员在关键日内占几乎所有交易活动，他们说，这表明交易者可能会串通造成崩溃的伙伴。
+玛丽皇后伦敦大学（英国）（04/04/25） 查看全文]]></description>
+      <guid>https://www.qmul.ac.uk/eecs/news-and-events/news/items/eecs-researchers-uncover-the-hidden-patterns-behind-a-35-billion-cryptocurrency-collapse-.html</guid>
+      <pubDate>Wed, 09 Apr 2025 18:13:35 GMT</pubDate>
     </item>
     <item>
-      <title>DARPA选择量子计算机开发的公司</title>
-      <link>https://executivegov.com/2025/04/darpa-quantum-computer-development-project-entries/</link>
-      <description><![CDATA[ExecutiveGov   美国国防高级研究项目局（DARPA）在7月推出的量子基准计划（QBI）的初始阶段（QBI）选择了前15家公司，以探索十年内建造工业量子计算机的可行性。在一组美国量子专家筛选所有提议者＆rsquo;之后，选择了这些公司。 QBI的Joe Altepeter所说的书面摘要和口头演示。
-ExecupeyGov（04/04/25）Arthur McMiler  &lt;a href =“ https://execnetungov.com/2025/04/darpa-quantum-computer-development-provement-provement-projempt-project-project-provement-provement-project-project-project-provement-provement-endries/]]></description>
-      <guid>https://executivegov.com/2025/04/darpa-quantum-computer-development-project-entries/</guid>
-      <pubDate>Mon, 07 Apr 2025 18:13:25 GMT</pubDate>
+      <title>联合国机构警告说，AI可能会影响未来十年的全球40％的工作</title>
+      <link>https://www.euronews.com/next/2025/04/07/ai-could-impact-40-per-cent-of-jobs-worldwide-in-the-next-decade-un-agency-warns</link>
+      <description><![CDATA[EURONEWS  根据联合国贸易和发展部的一份报告，在未来十年中，全球40％的工作可能受到AI的影响。该报告还指出，AI的全球研发支出中有将近一半归因于100家公司，其中大多数位于美国和中国。  “ AI可能会影响未来十年的全球40％的工作，联合国机构警告” 
+Euronews (04/07/25) Anna Desmarais View Full Article]]></description>
+      <guid>https://www.euronews.com/next/2025/04/07/ai-could-impact-40-per-cent-of-jobs-worldwide-in-the-next-decade-un-agency-warns</guid>
+      <pubDate>Wed, 09 Apr 2025 18:13:34 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普第二次延长了蒂克托克的截止日期</title>
-      <link>https://www.cnbc.com/2025/04/04/trumps-extends-tiktok-second-time.html</link>
-      <description><![CDATA[cnbc   u.s。周五，特朗普总统再次延长了一个截止日期，要求中国的界限出售美国的蒂克托克行动，或在该国面临有效的禁令。特朗普说，Tiktok协议需要更多的工作，以确保签署所有必要的批准。”最新的扩展名将Tiktok的截止日期推向了6月中旬。 Bytedance面临4月5日的截止日期，根据前美国总统Biden去年签署的一项国家安全法出售Tiktok。最初的截止日期是1月19日，但特朗普的行政命令给了该公司75天。
-CNBC（04/04/25）Jonathan Vanian  &lt;a href =“ https://www.cnbc.com/2025/04/04/04/trumps-extends-extends-trumps-extends-tiktok-second time.html time.html]]></description>
-      <guid>https://www.cnbc.com/2025/04/04/trumps-extends-tiktok-second-time.html</guid>
-      <pubDate>Mon, 07 Apr 2025 18:13:24 GMT</pubDate>
+      <title>梅塔（Meta）对中国主张的审查进行了审查</title>
+      <link>https://www.bloomberg.com/news/articles/2025-04-07/meta-draws-congressional-scrutiny-over-ex-employee-claims</link>
+      <description><![CDATA[彭博  u.s。立法者正在调查一位前Facebook雇员的主张，该雇员元首席执行官马克·扎克伯格（Mark Zuckerberg）就该公司在中国启动其社交网络的努力向国会撒谎。该调查专注于涉嫌工作以审查内容并向中国共产党提供包括监视软件在内的AI工具。据称，审查制度的努力扩展到了中国以外的持不同政见者，包括在美国。议员们写道，援引内部文件。
+彭博社（04/07/25）Riley Griffin  &lt;a href =“ https://wwwww.bloomberg.com/news/news/articles/2025-04-04-04-04-04-META-META-DRAVS-DRAVS-DRAVS-CONGRUTINAL-SCRUTINY-SCRUTINY-EXCRUTINY-EXCRUTINY-EXCRUTINY-EXCRUTINY-EXCRUTINY-OVER-EX-EX-EX--EX-- EXCHIEEEE-COMPLOYEEE-COMPLOYEE-CLOMPLOYEE-CLAIMEEE]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-04-07/meta-draws-congressional-scrutiny-over-ex-employee-claims</guid>
+      <pubDate>Wed, 09 Apr 2025 18:13:34 GMT</pubDate>
     </item>
     <item>
-      <title>美国计划在联邦土地上建造AI数据中心</title>
-      <link>https://thehill.com/homenews/administration/5230334-trump-ai-data-centers/</link>
-      <description><![CDATA[山 已经确定了16个地点，以开发美国能源部（DOE）拥有的土地上的AI数据中心。 ＆ldquo&#39;AI主导地位是下一个曼哈顿项目，Rdquo;能源部长克里斯·赖特（Chris Wright）周四表示。 ＆ldquo&#39;如今的行动，美国能源部正在采取重要步骤来利用我们的国内资源为AI革命提供动力。”计划在联邦土地上建立AI数据中心“ 
-山（04/03/25）Ashleigh Fields  &lt;a href =“ https://thehill.com/homenews/administration/5230334-trump-ai-data-centers/”]]></description>
-      <guid>https://thehill.com/homenews/administration/5230334-trump-ai-data-centers/</guid>
-      <pubDate>Mon, 07 Apr 2025 18:13:23 GMT</pubDate>
+      <title>美国政府的磁带即将到来</title>
+      <link>https://www.economist.com/united-states/2025/04/08/doge-is-coming-for-american-officials-magnetic-tape</link>
+      <description><![CDATA[经济学家 美国政府效率部（DOGE）本周发推文说，它通过在美国通用服务管理局的录音带上转换为“永久现代现代数字记录”，节省了100万美元。他们指出，磁带是70岁的录音带。技术。该推文引发了政府技术人员之间的辩论，其中一些人指出，如果存储得当，磁带的持续时间比硬盘驱动器的持续时间更长。他们也可以免受黑客攻击，并且不需要维护。
+经济学家（04/08/25） &lt;a href =“ https://www.economist.com/united-states/2025/204/04/08/doge-is-is-coming-for-american-for-merican-forials-foricials-mericans-mericans-magnetic-magnetic-magnetic-magnetic-magnetic-tape-tape target” target = _ _ _ _ _ _]]></description>
+      <guid>https://www.economist.com/united-states/2025/04/08/doge-is-coming-for-american-officials-magnetic-tape</guid>
+      <pubDate>Wed, 09 Apr 2025 18:13:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>白宫命令机构制定AI策略</title>
+      <link>https://www.reuters.com/technology/artificial-intelligence/white-house-orders-agencies-name-chief-ai-officers-it-expands-use-2025-04-07/</link>
+      <description><![CDATA[路透社  白宫管理和预算办公室的4月7日备忘录使政府机构六个月“制定了AI战略，以识别和消除其负责使用AI并实现其应用成熟企业范围的改善的障碍”。该备忘录还指示联邦机构命名AI官员并制定生成的AI政策。一个单独的白宫指令呼吁“在政府中有效地收购[AI]，并要求机构专注于互操作性并“最大化使用美国制造的AI”。
+路透社（04/07/25）David Shepardson  ]]></description>
+      <guid>https://www.reuters.com/technology/artificial-intelligence/white-house-orders-agencies-name-chief-ai-officers-it-expands-use-2025-04-07/</guid>
+      <pubDate>Wed, 09 Apr 2025 18:13:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cons在计算奖中获得ACM突破</title>
+      <link>https://insidehpc.com/2025/04/jason-cong-wins-acm-breakthrough-in-computing-award-for-contributions-to-fpgas/</link>
+      <description><![CDATA[InsideHPC    ACM Jingsheng Jason Cong被任命为2024 ACM Charles P.＆ldquo; rdquo; Thacker在计算奖中的基本贡献和自动化的基本贡献（FPGA）和可自定义计算的基本贡献。制造后更改FPGA功能的能力使它们成为数据中心，电信，航空航天，防御和汽车工程的标准硬件的一部分。 ACM总裁Yannis Ioannidis说，Cong&#39;正在为促使综合电路进行编程或重新编程，从而为广泛的应用程序提供了新的多功能性，效率和权力。
+InsideHPC（04/08/25） &lt;a href =“ https://insidehpc.com/2025/04/jason-cong-wins-wins-wins-wins-acm-bremb-breampthrough-in-computing-in-computing-award-for-for-contrutions-for-contriest-to-fpgas/-fpgas/]]></description>
+      <guid>https://insidehpc.com/2025/04/jason-cong-wins-acm-breakthrough-in-computing-award-for-contributions-to-fpgas/</guid>
+      <pubDate>Wed, 09 Apr 2025 18:13:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
