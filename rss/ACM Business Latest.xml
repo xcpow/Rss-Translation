@@ -4,7 +4,14 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 11 Apr 2025 18:13:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Apr 2025 21:08:36 GMT</lastBuildDate>
+    <item>
+      <title>美国对加密犯罪视而不见</title>
+      <link>https://www.wired.com/story/the-us-is-turning-a-blind-eye-to-crypto-crimes/</link>
+      <description><![CDATA[在特朗普政府的领导下，联邦当局拒绝向加密货币公司犯有各种罪行，提出有关适用哪些规则的问题，以及谁将执行这些规则。]]></description>
+      <guid>https://www.wired.com/story/the-us-is-turning-a-blind-eye-to-crypto-crimes/</guid>
+      <pubDate>Fri, 11 Apr 2025 18:29:52 GMT</pubDate>
+    </item>
     <item>
       <title>特朗普的关税对技术意味着什么，而您</title>
       <link>https://www.wired.com/story/uncanny-valley-podcast-trump-tariffs-tech-industry/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[来自数据培训公司规模的新平台AI将使人工智能开发人员发现其模型的弱点。]]></description>
       <guid>https://www.wired.com/story/this-tool-probes-frontier-ai-models-for-lapses-in-intelligence/</guid>
       <pubDate>Wed, 02 Apr 2025 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>这家初创公司说它可以清洁您的微塑料血液</title>
-      <link>https://www.wired.com/story/this-startup-promises-to-clean-your-blood-of-microplastics-clarify-clinics/</link>
-      <description><![CDATA[选举医学行业正在兑现塑料污染的担忧，但是微塑料受到伤害的证据仍然不确定。]]></description>
-      <guid>https://www.wired.com/story/this-startup-promises-to-clean-your-blood-of-microplastics-clarify-clinics/</guid>
-      <pubDate>Wed, 02 Apr 2025 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
