@@ -4,110 +4,86 @@
     <title>ACM技术</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM技术</description>
-    <lastBuildDate>Wed, 09 Apr 2025 18:13:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Apr 2025 18:13:34 GMT</lastBuildDate>
     <item>
-      <title>研究人员研究软件开发中的AI威胁</title>
-      <link>https://www.utsa.edu/today/2025/04/story/utsa-researchers-investigate-AI-threats.html</link>
-      <description><![CDATA[今天，由德克萨斯大学圣安东尼奥计算机科学博士生Joe Spracklen领导的UTSA  研究人员分析了与包装幻觉相关的安全风险，其中大语言模型（LLMS）生成了链接到不存在的第三方软件库的代码。这将使黑客能够创建一个与幻觉软件包相同名称并注入恶意代码的新软件包。研究人员发现，产生包装幻觉的开源LLM的可能性是GPT系列模型的四倍，而JavaScript比Python更容易受到幻觉的影响。
-今日UTSA（04/07/25）Ari Casta＆ntilde; eda  &lt;a href =“ https://wwwww.utsa.edu/today/2025/204/story/story/story/story/story/story/utsa-researchers-ingeachers-investigate-investigate-investigate-investigate-investigate-iai-ai-threats.html-threats.html-]]></description>
-      <guid>https://www.utsa.edu/today/2025/04/story/utsa-researchers-investigate-AI-threats.html</guid>
-      <pubDate>Wed, 09 Apr 2025 18:13:41 GMT</pubDate>
+      <title>泄漏暴露了黑色巴斯塔的影响策略</title>
+      <link>https://arstechnica.com/security/2025/04/leaked-messages-expose-trade-secrets-of-prolific-black-basta-ransomware-group/</link>
+      <description><![CDATA[ARS Technica  安全公司Trustwave的SpiderLabs的研究人员分析了上个月泄露的Black Basta Ransomware Group成员的190,000个俄罗斯语言聊天消息。分析表明，该小组具有高度结构化和高效，成员在开发开发，基础设施优化，社会工程和其他专业方面具有经验。聊天记录最近被泄漏到文件共享网站Mega，这与黑暗网络上的黑色Basta网站的无法解释的相吻合；从那以后，该网站一直保持不变。
+ARS Technica（04/08/25）Dan Goodin  &lt;a href =“ https://arstechnica.com/security/security/2025/04/leaked-messages-messages-messages-messages-messages-messages-messages-trade-secrets-of-prolific-prolific-prolific-basta-basta-basta-basta-basta-basta-basta-basta-basta-ransomware-group/]]></description>
+      <guid>https://arstechnica.com/security/2025/04/leaked-messages-expose-trade-secrets-of-prolific-black-basta-ransomware-group/</guid>
+      <pubDate>Fri, 11 Apr 2025 18:13:34 GMT</pubDate>
     </item>
     <item>
-      <title>细菌风格的机器人在水下漫游</title>
-      <link>https://www.newscientist.com/article/2474732-bacteria-inspired-robot-uses-12-spinning-flagella-to-roam-underwater/</link>
-      <description><![CDATA[新科学家 由阿联酋哈利法大学研究人员开发的细菌启发的水下无人机具有12个灵活的手臂，能够朝任何方向进行控制。受细菌的鞭毛的启发，允许其游泳的细长螺纹结构，每个手臂都有一个电动机，该电动机在板上覆盆子Pi计算机控制的基座上。
-新科学家（04/07/25）MATTHEW激发 ]]></description>
-      <guid>https://www.newscientist.com/article/2474732-bacteria-inspired-robot-uses-12-spinning-flagella-to-roam-underwater/</guid>
-      <pubDate>Wed, 09 Apr 2025 18:13:40 GMT</pubDate>
+      <title>3D打印的开源机器人自动材料合成</title>
+      <link>https://www.global.hokudai.ac.jp/blog/3d-printed-open-source-robot-offers-accessible-solution-for-materials-synthesis/</link>
+      <description><![CDATA[北海道大学（日本） 日本北海道大学的研究人员开发了一种开源机器人系统来自动化材料合成。流体（流动液体利用交互式设备）系统是由3D打印机和现成的电子组件制成的。流体具有四个独立的模块，每个模块都有一个注射器，两个阀门，一个伺服电动机和一个与微控制器板相连的步进电动机。它的软件允许用户进行阀门调整，控制注射器并实时接收状态更新和传感器数据。
+北海道大学（日本）（04/09/25） &lt;a href =“ https:/ https://www.global.hokudai.ac.ac.jp/blog/blog/3d-printed-open-open-source-robot-source-robot-sour-source-robot-sour-sour-souble-scess-suble-scessible-solution-solution-solution-solution-solution-solution-for-materials-synthesis/martials-materials-synthesis/]]></description>
+      <guid>https://www.global.hokudai.ac.jp/blog/3d-printed-open-source-robot-offers-accessible-solution-for-materials-synthesis/</guid>
+      <pubDate>Fri, 11 Apr 2025 18:13:33 GMT</pubDate>
     </item>
     <item>
-      <title>NIST呼吁披露的较旧漏洞的时间</title>
-      <link>https://www.computerweekly.com/news/366622153/NIST-calls-time-on-older-vulnerabilities-amid-surging-disclosures</link>
-      <description><![CDATA[Computerweekly.com   美国国家标准技术研究所（NIST）表示，在2018年1月1日之前出版的国家漏洞数据库（NVD）中，所有常见的漏洞和暴露（CVE）将在NVD数据集中标记为“ deferred”，并且将不再提供更新。 NIST说：“我们将此状态分配给较旧的CVE，以表明我们不打算优先考虑由于CVE年龄而更新NVD富集或初始NVD富集数据。”  从NIST呼叫的时间 。
-Computerweekly.com（04/07/25）Alex scroxton  &lt;a href =“ https:///wwwww.computerweekly.com/news/news/366622153/nist-calls-calls-calls-calls-calls time-mon-on-on-onem-on good-- vulnerbilities-amid-amid-surnerability-amid-surging-surging-disclosures-disclosures]]></description>
-      <guid>https://www.computerweekly.com/news/366622153/NIST-calls-time-on-older-vulnerabilities-amid-surging-disclosures</guid>
-      <pubDate>Wed, 09 Apr 2025 18:13:39 GMT</pubDate>
+      <title>AI为拉斯维加斯球体重新创建了“绿野仙踪”</title>
+      <link>https://www.wsj.com/articles/how-google-used-ai-to-re-create-the-wizard-of-oz-for-the-las-vegas-sphere-004ee6d6</link>
+      <description><![CDATA[《华尔街日报》   Sphere Entertainment转向Google重现了一部86年历史的电影《绿野仙踪》（The The Ozard of Oz），并用35mm的相机拍摄，并在拉斯维加斯球体的160,000平方英尺，弯曲的，弯曲的，沉浸式的屏幕上显示。为此，Google Cloud和Google DeepMind研究人员开发了新的AI技术，“性能生成”和“支出”，以改善分辨率并扩展背景，以包括最初不存在的角色和风景。该过程还涉及使用Google的VEO 2和Imagen 3 Generative AI模型以及添加感官元素。
+《华尔街日报》（04/08/25）isabelle bousquette    - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/articles/how-google-used-ai-to-re-create-the-wizard-of-oz-for-the-las-vegas-sphere-004ee6d6</guid>
+      <pubDate>Fri, 11 Apr 2025 18:13:32 GMT</pubDate>
     </item>
     <item>
-      <title>将个人物品带入混合现实</title>
-      <link>https://news.mit.edu/2025/interecon-brings-personal-items-to-mixed-reality-0407</link>
-      <description><![CDATA[麻省理工学院新闻 马萨诸塞州技术研究所研究人员开发了一种工具，使用户可以生产物理物品的数字双胞胎，并在混合现实环境中捕获其交互功能。研究人员创建了一个iPhone应用程序，可让用户扫描该项目以生成3D模型。一旦在Interecon工具界面中导入模型，可以通过混合现实耳机访问，用户可以从“将个人物品带入混合现实” 中选择要制作交互式的方面。
-麻省理工学院新闻（04/07/25）Alex Shipps  &lt;a href =“ https://news.mit.mit.mit.edu/2025/interecon-brings-personal-items-personal-items-to-mixed-reality-0407]]></description>
-      <guid>https://news.mit.edu/2025/interecon-brings-personal-items-to-mixed-reality-0407</guid>
-      <pubDate>Wed, 09 Apr 2025 18:13:39 GMT</pubDate>
+      <title>英国研究人员展示了长距离量子网络链接</title>
+      <link>https://www.hpcwire.com/off-the-wire/researchers-demonstrate-1st-long-distance-quantum-network-link-in-uk/</link>
+      <description><![CDATA[英国布里斯托尔大学和剑桥大学的HPCWIRE  研究人员开发了一个量子通信网络，能够在分隔机构的超过410公里（近255英里）上传输数据。该网络使用隐藏在光颗粒内部和分布式纠缠的加密键。研究人员展示了该网络传输加密医学数据，进行量子安全视频调用并安全远程访问到分布式数据中心的能力。
+hpcwire（04/08/25） &lt;a href =“ https://www.hpcwire.com/off-the-wire/researchers-demstrate-demstrate-1st-long-distance-distance-quantum-network-network-network-network-network-network-network-network-network-in-net-network-in-net-in-uk/”]]></description>
+      <guid>https://www.hpcwire.com/off-the-wire/researchers-demonstrate-1st-long-distance-quantum-network-link-in-uk/</guid>
+      <pubDate>Fri, 11 Apr 2025 18:13:31 GMT</pubDate>
     </item>
     <item>
-      <title>台湾说，中国利用生成的AI来逐渐增加虚假信息</title>
-      <link>https://www.reuters.com/world/asia-pacific/taiwan-says-china-using-generative-ai-ramp-up-disinformation-divide-island-2025-04-08/</link>
-      <description><![CDATA[路透社 台湾国家安全局在向议会的一份报告中说，中国正在努力通过使用生成的AI来传播虚假信息来分裂公众。该报告表明，今年到目前为止，已经分发了500,000个“有争议的消息”，主要是在社交媒体平台上。该局说，北京正在进行“认知战”，并正在寻求“在我们的社会之间建立分裂”。 来自“台湾说中国使用生成的AI来加剧虚假信息” 
-Reuters (04/08/25) Yimou Lee View Full Article]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/taiwan-says-china-using-generative-ai-ramp-up-disinformation-divide-island-2025-04-08/</guid>
-      <pubDate>Wed, 09 Apr 2025 18:13:38 GMT</pubDate>
+      <title>研究人员目录文本输入技术以改进XR中的键入</title>
+      <link>https://www.roadtovr.com/xr-text-trove-vr-ar-text-input-typing-technique-catalog-max-di-luca/</link>
+      <description><![CDATA[通往英国伯明翰大学的VR   Massimiliano di Luca的道路领导了一支国际团队，该团队开发了XR Text Trove，该团队将超过170多个与扩展现实（XR）兼容的文本输入技术分类。 Text Trove使用32个代码，包括13个交互属性和14个性能指标，例如每分钟单词（WPM），以对这些技术进行分类。研究人员发现，键盘格式仍然可以达到最高的WPM，但是使用触觉反馈，外表面和仅指尖的可视化可以提高键入性能。   “研究人员目录文本输入技术可以改善在XR中的键入“ ”。
+通往VR的道路（04/08/25）Max Di Luca  &lt;a href =“ https://www.rodtovr.com/xr-text-trove-trove-vr-rove-vr-ar-text-input-typt--input-teping-technique-catalog-catalog-max-max-di-luca/]]></description>
+      <guid>https://www.roadtovr.com/xr-text-trove-vr-ar-text-input-typing-technique-catalog-max-di-luca/</guid>
+      <pubDate>Fri, 11 Apr 2025 18:13:30 GMT</pubDate>
     </item>
     <item>
-      <title>苹果与英国的加密行不应该是秘密，法院规则</title>
-      <link>https://www.bbc.com/news/articles/cvgn1lz3v4no</link>
-      <description><![CDATA[英国广播公司新闻 法官支持由公民自由组织和新闻机构组成的联盟，裁定英国和苹果之间的数据隐私不能秘密地掩盖。英国希望能够通过Apple的高级数据保护（ADP）系统获得的访问信息。这样的访问将要求苹果创建一个“后门”，它说它不想为此担心而做，最终将被黑客和罪犯利用。
-BBC新闻（04/07/25）汤姆·辛格尔顿； liv mcmahon  查看完整文章]]></description>
-      <guid>https://www.bbc.com/news/articles/cvgn1lz3v4no</guid>
-      <pubDate>Wed, 09 Apr 2025 18:13:37 GMT</pubDate>
+      <title>政府数据的合并可能会揭示有关我们的</title>
+      <link>https://www.nytimes.com/2025/04/09/us/politics/trump-musk-data-access.html</link>
+      <description><![CDATA[纽约时报 根据唐纳德·特朗普总统的行政命令，美国政府效率部（DOGE）正在努力巩固联邦政府各种脱节数据系统中持有的美国居民的个人数据。 Doge工人正在寻求跨八个机构的23个数据系统的访问。根据《纽约时报》，这些数据系统中包含了300多种有关美国居民的数据。
+《纽约时报》（04/09/25）艾米丽·雷德（Emily Badger）； Sheera Frenkel； Nicholas Nehamas； et al。]]></description>
+      <guid>https://www.nytimes.com/2025/04/09/us/politics/trump-musk-data-access.html</guid>
+      <pubDate>Fri, 11 Apr 2025 18:13:29 GMT</pubDate>
     </item>
     <item>
-      <title>美国AI领导中国迅速萎缩</title>
-      <link>https://www.axios.com/2025/04/07/china-ai-race-stanford-report</link>
-      <description><![CDATA[Axios  斯坦福大学的最新人工智能指数发现中国即将在最先进的AI上倒闭。该报告说，去年美国的机构制作了40个AI票据模型，而另外15个是由中国生产的，欧洲制作了3个。该报告称，中国模型正在缩小质量差距，与美国模型几乎取得了两个关键基准的均等，而中国在AI出版物和专利中领先于美国。
-Axios（04/07/25）Ina Fried  &lt;a href =“ https://www.axios.com/2025/04/07/china-ai-race-race-stanford-stanford-report-report--Report-]]></description>
-      <guid>https://www.axios.com/2025/04/07/china-ai-race-stanford-report</guid>
-      <pubDate>Wed, 09 Apr 2025 18:13:36 GMT</pubDate>
+      <title>Kotlin，Swift，Ruby失去流行</title>
+      <link>https://www.infoworld.com/article/3956262/kotlin-swift-and-ruby-losing-popularity-tiobe-index.html</link>
+      <description><![CDATA[InfoWorldThe April Tiobe index of programming language popularity showed Kotlin, Swift, and Ruby all dropping out of the top 20. Tiobe CEO Paul Jansen said these programming languages &quot;are likely to go out of fashion&quot; given their use for particular mobile platforms at a time when there are suitable languages and frameworks for cross-platform development.From &quot;Kotlin, Swift, Ruby失去知名度“ 
+Infoworld（04/07/25）Paul Krill  &lt;a href =“ https://www.infoworld.com/article/3956262/3956262/kotlin-swift-and-ruby-luby-losing-popullity-popularity-popularity-tiobe-tiobe-index.htex.htex.htex.htex.htex.htex.htex.html” target =]]></description>
+      <guid>https://www.infoworld.com/article/3956262/kotlin-swift-and-ruby-losing-popularity-tiobe-index.html</guid>
+      <pubDate>Fri, 11 Apr 2025 18:13:28 GMT</pubDate>
     </item>
     <item>
-      <title>研究人员发现了35亿美元的加密货币崩溃的隐藏模式</title>
-      <link>https://www.qmul.ac.uk/eecs/news-and-events/news/items/eecs-researchers-uncover-the-hidden-patterns-behind-a-35-billion-cryptocurrency-collapse-.html</link>
-      <description><![CDATA[伦敦皇后大学（英国） 来自英国伦敦皇后大学的研究人员和一家大学衍生公司的公司开发了软件，该软件在2022年5月的Terrausd Stablecoin及其相关货币Luna的倒闭背后识别出模式。研究人员使用时间多层图分析来绘制以太坊区块链上交易的不同加密货币之间的关系。他们发现五到六个交易员在关键日内占几乎所有交易活动，他们说，这表明交易者可能会串通造成崩溃的伙伴。
-玛丽皇后伦敦大学（英国）（04/04/25） 查看全文]]></description>
-      <guid>https://www.qmul.ac.uk/eecs/news-and-events/news/items/eecs-researchers-uncover-the-hidden-patterns-behind-a-35-billion-cryptocurrency-collapse-.html</guid>
-      <pubDate>Wed, 09 Apr 2025 18:13:35 GMT</pubDate>
+      <title>美国人担心AI来这些工作</title>
+      <link>https://www.washingtonpost.com/business/2025/04/08/ai-job-loss-work/</link>
+      <description><![CDATA[《华盛顿邮报》  对美国成年人的皮尤研究中心调查确定了公众认为将在未来20年被AI取代的工作。其中包括收银员（73％），工厂工人（67％），记者（59％）和软件工程师（48％）。这些发现还证实了人们对技术的焦虑正在上升。大约有51％的人说，他们担心AI的使用增加，而2021年和2022年约有40％，大部分焦虑与工作有关。
+《华盛顿邮报》（04/08/25）Danielle Abril  &lt;a href =“ https:/ https://www.washingtonpost.com/business./business/2025/04/04/04/ai-job-loss-work/]]></description>
+      <guid>https://www.washingtonpost.com/business/2025/04/08/ai-job-loss-work/</guid>
+      <pubDate>Fri, 11 Apr 2025 18:13:28 GMT</pubDate>
     </item>
     <item>
-      <title>联合国机构警告说，AI可能会影响未来十年的全球40％的工作</title>
-      <link>https://www.euronews.com/next/2025/04/07/ai-could-impact-40-per-cent-of-jobs-worldwide-in-the-next-decade-un-agency-warns</link>
-      <description><![CDATA[EURONEWS  根据联合国贸易和发展部的一份报告，在未来十年中，全球40％的工作可能受到AI的影响。该报告还指出，AI的全球研发支出中有将近一半归因于100家公司，其中大多数位于美国和中国。  “ AI可能会影响未来十年的全球40％的工作，联合国机构警告” 
-Euronews (04/07/25) Anna Desmarais View Full Article]]></description>
-      <guid>https://www.euronews.com/next/2025/04/07/ai-could-impact-40-per-cent-of-jobs-worldwide-in-the-next-decade-un-agency-warns</guid>
-      <pubDate>Wed, 09 Apr 2025 18:13:34 GMT</pubDate>
+      <title>黑客监视了美国银行监管机构的100封电子邮件一年多</title>
+      <link>https://www.bloomberg.com/news/articles/2025-04-08/hackers-spied-on-100-bank-regulators-emails-for-over-a-year</link>
+      <description><![CDATA[彭博 美国货币审计长办公室（OCC）披露了一个网络安全事件，其中黑客访问了103个银行监管机构的电子邮件。根据Occ Cio Kristen Baldwin给国会的一封信，黑客在2023年5月从今年早些时候发现违规的高级副主管，国际银行监督员和其他员工的邮箱中访问了大约15万封电子邮件，直到今年早些时候被发现。
+彭博（04/08/25）Margi Murphy；杰克·布利贝格（Jake Bleiberg）； Daniel Flatley  &lt;a href =“ https://www.bloomberg.com/news/articles/2025-04-04-04/hackers-spied-on-100-bank-regulators-emails-emails-emails-for-over-over-a------------------------ emails-for-over-a------ for-over-a are]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-04-08/hackers-spied-on-100-bank-regulators-emails-for-over-a-year</guid>
+      <pubDate>Fri, 11 Apr 2025 18:13:27 GMT</pubDate>
     </item>
     <item>
-      <title>梅塔（Meta）对中国主张的审查进行了审查</title>
-      <link>https://www.bloomberg.com/news/articles/2025-04-07/meta-draws-congressional-scrutiny-over-ex-employee-claims</link>
-      <description><![CDATA[彭博  u.s。立法者正在调查一位前Facebook雇员的主张，该雇员元首席执行官马克·扎克伯格（Mark Zuckerberg）就该公司在中国启动其社交网络的努力向国会撒谎。该调查专注于涉嫌工作以审查内容并向中国共产党提供包括监视软件在内的AI工具。据称，审查制度的努力扩展到了中国以外的持不同政见者，包括在美国。议员们写道，援引内部文件。
-彭博社（04/07/25）Riley Griffin  &lt;a href =“ https://wwwww.bloomberg.com/news/news/articles/2025-04-04-04-04-04-META-META-DRAVS-DRAVS-DRAVS-CONGRUTINAL-SCRUTINY-SCRUTINY-EXCRUTINY-EXCRUTINY-EXCRUTINY-EXCRUTINY-EXCRUTINY-OVER-EX-EX-EX--EX-- EXCHIEEEE-COMPLOYEEE-COMPLOYEE-CLOMPLOYEE-CLAIMEEE]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-04-07/meta-draws-congressional-scrutiny-over-ex-employee-claims</guid>
-      <pubDate>Wed, 09 Apr 2025 18:13:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国政府的磁带即将到来</title>
-      <link>https://www.economist.com/united-states/2025/04/08/doge-is-coming-for-american-officials-magnetic-tape</link>
-      <description><![CDATA[经济学家 美国政府效率部（DOGE）本周发推文说，它通过在美国通用服务管理局的录音带上转换为“永久现代现代数字记录”，节省了100万美元。他们指出，磁带是70岁的录音带。技术。该推文引发了政府技术人员之间的辩论，其中一些人指出，如果存储得当，磁带的持续时间比硬盘驱动器的持续时间更长。他们也可以免受黑客攻击，并且不需要维护。
-经济学家（04/08/25） &lt;a href =“ https://www.economist.com/united-states/2025/204/04/08/doge-is-is-coming-for-american-for-merican-forials-foricials-mericans-mericans-magnetic-magnetic-magnetic-magnetic-magnetic-tape-tape target” target = _ _ _ _ _ _]]></description>
-      <guid>https://www.economist.com/united-states/2025/04/08/doge-is-coming-for-american-officials-magnetic-tape</guid>
-      <pubDate>Wed, 09 Apr 2025 18:13:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>白宫命令机构制定AI策略</title>
-      <link>https://www.reuters.com/technology/artificial-intelligence/white-house-orders-agencies-name-chief-ai-officers-it-expands-use-2025-04-07/</link>
-      <description><![CDATA[路透社  白宫管理和预算办公室的4月7日备忘录使政府机构六个月“制定了AI战略，以识别和消除其负责使用AI并实现其应用成熟企业范围的改善的障碍”。该备忘录还指示联邦机构命名AI官员并制定生成的AI政策。一个单独的白宫指令呼吁“在政府中有效地收购[AI]，并要求机构专注于互操作性并“最大化使用美国制造的AI”。
-路透社（04/07/25）David Shepardson  ]]></description>
-      <guid>https://www.reuters.com/technology/artificial-intelligence/white-house-orders-agencies-name-chief-ai-officers-it-expands-use-2025-04-07/</guid>
-      <pubDate>Wed, 09 Apr 2025 18:13:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cons在计算奖中获得ACM突破</title>
-      <link>https://insidehpc.com/2025/04/jason-cong-wins-acm-breakthrough-in-computing-award-for-contributions-to-fpgas/</link>
-      <description><![CDATA[InsideHPC    ACM Jingsheng Jason Cong被任命为2024 ACM Charles P.＆ldquo; rdquo; Thacker在计算奖中的基本贡献和自动化的基本贡献（FPGA）和可自定义计算的基本贡献。制造后更改FPGA功能的能力使它们成为数据中心，电信，航空航天，防御和汽车工程的标准硬件的一部分。 ACM总裁Yannis Ioannidis说，Cong&#39;正在为促使综合电路进行编程或重新编程，从而为广泛的应用程序提供了新的多功能性，效率和权力。
-InsideHPC（04/08/25） &lt;a href =“ https://insidehpc.com/2025/04/jason-cong-wins-wins-wins-wins-acm-bremb-breampthrough-in-computing-in-computing-award-for-for-contrutions-for-contriest-to-fpgas/-fpgas/]]></description>
-      <guid>https://insidehpc.com/2025/04/jason-cong-wins-acm-breakthrough-in-computing-award-for-contributions-to-fpgas/</guid>
-      <pubDate>Wed, 09 Apr 2025 18:13:31 GMT</pubDate>
+      <title>欧洲计划成为“ AI大陆”</title>
+      <link>https://www.cnbc.com/2025/04/09/eu-ai-continent-plan-to-boost-artificial-intelligence-industry.html</link>
+      <description><![CDATA[cnbc   &lt;img align =“ right” alt =“”高=“ 113” src=&quot;https://news.content.smithbucklin.com/acm_TechNews/images/thumbnails/108076909-1734442724354-gettyimages-2189857611-avils-notitle241217_npzK2.jpg&quot; style=&quot;margin-left: 20px;边缘右：20px;”宽度=“ 200” /&gt;欧洲委员会于4月9日揭幕了“ AI大陆行动计划”，使该集团能够更好地在AI中与美国和中国竞争。该委员会表示，该计划旨在“将欧洲强大的传统产业及其出色的人才库转变为AI创新和加速的强大引擎。”该计划要求建立一个AI工厂网络“ Gigafactories”和专门实验室，以提高创业公司访问高质量的培训数据。 “欧洲揭幕计划成为&#39;ai donconent&#39;” 
+CNBC（04/09/25）Ryan Browne  &lt;a href =“ https://www.cnbc.com/2025/2025/04/09/eu-ai-continound-continouct-continouct-plan-to-boost-boost-boost-boost-boost-artercost-ainter-co.]]></description>
+      <guid>https://www.cnbc.com/2025/04/09/eu-ai-continent-plan-to-boost-artificial-intelligence-industry.html</guid>
+      <pubDate>Fri, 11 Apr 2025 18:13:26 GMT</pubDate>
     </item>
     </channel>
 </rss>

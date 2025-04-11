@@ -4,7 +4,14 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Fri, 11 Apr 2025 15:10:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Apr 2025 18:13:39 GMT</lastBuildDate>
+    <item>
+      <title>特朗普的关税对技术意味着什么，而您</title>
+      <link>https://www.wired.com/story/uncanny-valley-podcast-trump-tariffs-tech-industry/</link>
+      <description><![CDATA[本周在《怪异山谷》上，我们的主人探讨了这场贸易战对我们所有人使用的产品的影响，以及如何最好地导航这一新常态。]]></description>
+      <guid>https://www.wired.com/story/uncanny-valley-podcast-trump-tariffs-tech-industry/</guid>
+      <pubDate>Fri, 11 Apr 2025 18:10:59 GMT</pubDate>
+    </item>
     <item>
       <title>Big Tech的首席执行官在哪里关税？</title>
       <link>https://www.wired.com/story/plaintext-tech-ceos-silent-trump-tariffs/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[选举医学行业正在兑现塑料污染的担忧，但是微塑料受到伤害的证据仍然不确定。]]></description>
       <guid>https://www.wired.com/story/this-startup-promises-to-clean-your-blood-of-microplastics-clarify-clinics/</guid>
       <pubDate>Wed, 02 Apr 2025 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>联邦法官允许Doge免费获得超过5亿美元的办公大楼</title>
-      <link>https://www.wired.com/story/judge-approves-doge-usip-office-building/</link>
-      <description><![CDATA[这是埃隆·马斯克（Elon Musk）的总督团队与美国和平学院之间长达数周的对峙的高潮。]]></description>
-      <guid>https://www.wired.com/story/judge-approves-doge-usip-office-building/</guid>
-      <pubDate>Tue, 01 Apr 2025 21:32:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
