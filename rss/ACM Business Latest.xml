@@ -4,7 +4,21 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Mon, 14 Apr 2025 15:10:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 18:13:37 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI的新GPT 4.1车型在编码方面表现出色</title>
+      <link>https://www.wired.com/story/openai-announces-4-1-ai-model-coding/</link>
+      <description><![CDATA[GPT 4.1，GPT 4.1 Mini和GPT 4.1 Nano现在都可以使用，并将帮助Openai与Google和Anthropic竞争。]]></description>
+      <guid>https://www.wired.com/story/openai-announces-4-1-ai-model-coding/</guid>
+      <pubDate>Mon, 14 Apr 2025 17:40:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Objective-C的主观魅力</title>
+      <link>https://www.wired.com/story/objective-c-programming-language-verbose/</link>
+      <description><![CDATA[冗长的编程语言感觉就像是一种通用的交流形式 - 直到没有。]]></description>
+      <guid>https://www.wired.com/story/objective-c-programming-language-verbose/</guid>
+      <pubDate>Mon, 14 Apr 2025 15:19:38 GMT</pubDate>
+    </item>
     <item>
       <title>拥抱的脸收购花粉机器人以释放开源AI机器人</title>
       <link>https://www.wired.com/story/hugging-face-acquires-open-source-robot-startup/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[虽然白宫对某些半导体进口造成了狭窄的豁免，但唐纳德·特朗普总统的大量关税仍适用于GPU和芯片制造设备。]]></description>
       <guid>https://www.wired.com/story/trump-tariffs-impact-semiconductors-chips/</guid>
       <pubDate>Sat, 05 Apr 2025 09:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普总统在“信息孤岛”上的战争是您个人数据的坏消息</title>
-      <link>https://www.wired.com/story/plaintext-trump-executive-order-information-silos-privacy/</link>
-      <description><![CDATA[唐纳德·特朗普（Donald Trump）3月20日的行政命令旨在消除数据孤岛。它可能在此过程中破坏隐私。]]></description>
-      <guid>https://www.wired.com/story/plaintext-trump-executive-order-information-silos-privacy/</guid>
-      <pubDate>Fri, 04 Apr 2025 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普的关税可以重塑美国科技界</title>
-      <link>https://www.wired.com/story/trump-global-tariffs-tech-industry-impacts/</link>
-      <description><![CDATA[苹果，亚马逊和其他依赖全球供应链的科技公司将从特朗普总统的贸易政策中损失最大的损失，但一些软件公司期望对其服务的需求更多。]]></description>
-      <guid>https://www.wired.com/story/trump-global-tariffs-tech-industry-impacts/</guid>
-      <pubDate>Thu, 03 Apr 2025 02:23:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
