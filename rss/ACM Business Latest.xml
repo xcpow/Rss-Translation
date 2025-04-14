@@ -4,7 +4,14 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Sun, 13 Apr 2025 21:08:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 00:49:59 GMT</lastBuildDate>
+    <item>
+      <title>FTC诉Meta试验：Instagram和WhatsApp的未来受到威胁</title>
+      <link>https://www.wired.com/story/meta-ftc-trial-begins-instagram-whatsapp/</link>
+      <description><![CDATA[大片反托拉斯案开始于周一。它的结果可能会影响大型科技公司的成长方式，但是政府有很长的路要证明其案件。]]></description>
+      <guid>https://www.wired.com/story/meta-ftc-trial-begins-instagram-whatsapp/</guid>
+      <pubDate>Sun, 13 Apr 2025 23:34:03 GMT</pubDate>
+    </item>
     <item>
       <title>美国对加密犯罪视而不见</title>
       <link>https://www.wired.com/story/the-us-is-turning-a-blind-eye-to-crypto-crimes/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[Heard和McDonald群岛是唐纳德·特朗普总统最新一轮关税的数十个目标之一。但是他们没有出口，因为没有人住在那里。]]></description>
       <guid>https://www.wired.com/story/trump-tariffs-antarctic-islands-heard-mcdonald/</guid>
       <pubDate>Wed, 02 Apr 2025 23:39:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>该工具探究了智能失误的前沿AI模型</title>
-      <link>https://www.wired.com/story/this-tool-probes-frontier-ai-models-for-lapses-in-intelligence/</link>
-      <description><![CDATA[来自数据培训公司规模的新平台AI将使人工智能开发人员发现其模型的弱点。]]></description>
-      <guid>https://www.wired.com/story/this-tool-probes-frontier-ai-models-for-lapses-in-intelligence/</guid>
-      <pubDate>Wed, 02 Apr 2025 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
