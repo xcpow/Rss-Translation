@@ -4,7 +4,14 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Mon, 14 Apr 2025 09:11:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 12:18:33 GMT</lastBuildDate>
+    <item>
+      <title>为什么大多数小型企业不可能在美国生产</title>
+      <link>https://www.wired.com/story/tariffs-small-businesses-why-make-things-in-china/</link>
+      <description><![CDATA[从钥匙扣到床垫的所有公司都说中国制造业的一切都很高，而且关税不足以将生产转移到美国。]]></description>
+      <guid>https://www.wired.com/story/tariffs-small-businesses-why-make-things-in-china/</guid>
+      <pubDate>Mon, 14 Apr 2025 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>FTC诉Meta试验：Instagram和WhatsApp的未来受到威胁</title>
       <link>https://www.wired.com/story/meta-ftc-trial-begins-instagram-whatsapp/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[唐纳德·特朗普总统说，对进口征税将加强国内制造业。在宣布新的关税之前数小时，他的政府削减了对帮助我们公司做到这一点的中心的支持。]]></description>
       <guid>https://www.wired.com/story/nist-trump-manufacturing-extension-partnership/</guid>
       <pubDate>Wed, 02 Apr 2025 23:59:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普的关税袭击了零人类和许多企鹅居住的南极岛屿</title>
-      <link>https://www.wired.com/story/trump-tariffs-antarctic-islands-heard-mcdonald/</link>
-      <description><![CDATA[Heard和McDonald群岛是唐纳德·特朗普总统最新一轮关税的数十个目标之一。但是他们没有出口，因为没有人住在那里。]]></description>
-      <guid>https://www.wired.com/story/trump-tariffs-antarctic-islands-heard-mcdonald/</guid>
-      <pubDate>Wed, 02 Apr 2025 23:39:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
