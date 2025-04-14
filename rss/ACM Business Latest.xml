@@ -4,7 +4,14 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Mon, 14 Apr 2025 12:18:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 15:10:47 GMT</lastBuildDate>
+    <item>
+      <title>拥抱的脸收购花粉机器人以释放开源AI机器人</title>
+      <link>https://www.wired.com/story/hugging-face-acquires-open-source-robot-startup/</link>
+      <description><![CDATA[Hugging Face已获得开源机器人初创企业花粉机器人技术，以帮助“民主化”机器人技术。]]></description>
+      <guid>https://www.wired.com/story/hugging-face-acquires-open-source-robot-startup/</guid>
+      <pubDate>Mon, 14 Apr 2025 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>为什么大多数小型企业不可能在美国生产</title>
       <link>https://www.wired.com/story/tariffs-small-businesses-why-make-things-in-china/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[苹果，亚马逊和其他依赖全球供应链的科技公司将从特朗普总统的贸易政策中损失最大的损失，但一些软件公司期望对其服务的需求更多。]]></description>
       <guid>https://www.wired.com/story/trump-global-tariffs-tech-industry-impacts/</guid>
       <pubDate>Thu, 03 Apr 2025 02:23:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普和门槛罚款计划，该计划促进了美国制造业数十年</title>
-      <link>https://www.wired.com/story/nist-trump-manufacturing-extension-partnership/</link>
-      <description><![CDATA[唐纳德·特朗普总统说，对进口征税将加强国内制造业。在宣布新的关税之前数小时，他的政府削减了对帮助我们公司做到这一点的中心的支持。]]></description>
-      <guid>https://www.wired.com/story/nist-trump-manufacturing-extension-partnership/</guid>
-      <pubDate>Wed, 02 Apr 2025 23:59:39 GMT</pubDate>
     </item>
     </channel>
 </rss>

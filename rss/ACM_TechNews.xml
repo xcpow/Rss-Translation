@@ -4,86 +4,104 @@
     <title>ACM技术</title>
     <link>http://news.content.smithbucklin.com/acm/TechNews_rss.xml</link>
     <description>ACM技术</description>
-    <lastBuildDate>Fri, 11 Apr 2025 18:13:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 15:10:44 GMT</lastBuildDate>
     <item>
-      <title>泄漏暴露了黑色巴斯塔的影响策略</title>
-      <link>https://arstechnica.com/security/2025/04/leaked-messages-expose-trade-secrets-of-prolific-black-basta-ransomware-group/</link>
-      <description><![CDATA[ARS Technica  安全公司Trustwave的SpiderLabs的研究人员分析了上个月泄露的Black Basta Ransomware Group成员的190,000个俄罗斯语言聊天消息。分析表明，该小组具有高度结构化和高效，成员在开发开发，基础设施优化，社会工程和其他专业方面具有经验。聊天记录最近被泄漏到文件共享网站Mega，这与黑暗网络上的黑色Basta网站的无法解释的相吻合；从那以后，该网站一直保持不变。
-ARS Technica（04/08/25）Dan Goodin  &lt;a href =“ https://arstechnica.com/security/security/2025/04/leaked-messages-messages-messages-messages-messages-messages-messages-trade-secrets-of-prolific-prolific-prolific-basta-basta-basta-basta-basta-basta-basta-basta-basta-ransomware-group/]]></description>
-      <guid>https://arstechnica.com/security/2025/04/leaked-messages-expose-trade-secrets-of-prolific-black-basta-ransomware-group/</guid>
-      <pubDate>Fri, 11 Apr 2025 18:13:34 GMT</pubDate>
+      <title>早期发现自闭症的新系统</title>
+      <link>https://www.upv.es/noticias-upv/noticia-15133-nuevo-sistema-en.html</link>
+      <description><![CDATA[政治与埃格雷夫大学; cnica de val＆egrave; ncia（西班牙） 是由西班牙研究人员开发的系统。该系统在墙壁或大型屏幕上投射一个模拟环境，并将孩子的图像集成到场景中，并在执行多个任务时使用相机捕获其动作。 UPV的Mariano Alca＆ntilde; iz说VR允许他们“研究更多的真正反应”，而不是传统的ASD检测方法。
+政治与Egrave Universitat; cnica de Val＆Egrave; Ncia（西班牙）（04/07/25） &lt;a href =“ https:///www.upv.es/noticias/noticias-upv/noticias-upv/noticia-15133-nuevo-sistema-sistema-sistema-sistema-sistema-sistema-sistema-sistema-sistema-stema一下]]></description>
+      <guid>https://www.upv.es/noticias-upv/noticia-15133-nuevo-sistema-en.html</guid>
+      <pubDate>Mon, 14 Apr 2025 15:10:42 GMT</pubDate>
     </item>
     <item>
-      <title>3D打印的开源机器人自动材料合成</title>
-      <link>https://www.global.hokudai.ac.jp/blog/3d-printed-open-source-robot-offers-accessible-solution-for-materials-synthesis/</link>
-      <description><![CDATA[北海道大学（日本） 日本北海道大学的研究人员开发了一种开源机器人系统来自动化材料合成。流体（流动液体利用交互式设备）系统是由3D打印机和现成的电子组件制成的。流体具有四个独立的模块，每个模块都有一个注射器，两个阀门，一个伺服电动机和一个与微控制器板相连的步进电动机。它的软件允许用户进行阀门调整，控制注射器并实时接收状态更新和传感器数据。
-北海道大学（日本）（04/09/25） &lt;a href =“ https:/ https://www.global.hokudai.ac.ac.jp/blog/blog/3d-printed-open-open-source-robot-source-robot-sour-source-robot-sour-sour-souble-scess-suble-scessible-solution-solution-solution-solution-solution-solution-for-materials-synthesis/martials-materials-synthesis/]]></description>
-      <guid>https://www.global.hokudai.ac.jp/blog/3d-printed-open-source-robot-offers-accessible-solution-for-materials-synthesis/</guid>
-      <pubDate>Fri, 11 Apr 2025 18:13:33 GMT</pubDate>
+      <title>仅看到重要的东西，3D流逐渐变得更苗条</title>
+      <link>https://engineering.nyu.edu/news/3d-streaming-gets-leaner-seeing-only-what-matters</link>
+      <description><![CDATA[Nyu Tandon工程学院  纽约大学的研究人员已经设计了一种方法，可以预测沉浸式3D环境中可见内容，以保持视觉质量，同时减少带宽要求。当前方法可以预测用户将在哪里看和计算内容可见性，而新方法通过将3D空间划分为“单元格”直接预测内容可见性，每个单元格在图形网络中用作节点。基于变压器的图形神经网络用于确定相邻细胞之间的空间关系，因为复发性神经网络随着时间的流逝分析可见性模式的演变。
+纽约大学工程学院（04/08/2025） &lt;a href =”]]></description>
+      <guid>https://engineering.nyu.edu/news/3d-streaming-gets-leaner-seeing-only-what-matters</guid>
+      <pubDate>Mon, 14 Apr 2025 15:10:41 GMT</pubDate>
     </item>
     <item>
-      <title>AI为拉斯维加斯球体重新创建了“绿野仙踪”</title>
-      <link>https://www.wsj.com/articles/how-google-used-ai-to-re-create-the-wizard-of-oz-for-the-las-vegas-sphere-004ee6d6</link>
-      <description><![CDATA[《华尔街日报》   Sphere Entertainment转向Google重现了一部86年历史的电影《绿野仙踪》（The The Ozard of Oz），并用35mm的相机拍摄，并在拉斯维加斯球体的160,000平方英尺，弯曲的，弯曲的，沉浸式的屏幕上显示。为此，Google Cloud和Google DeepMind研究人员开发了新的AI技术，“性能生成”和“支出”，以改善分辨率并扩展背景，以包括最初不存在的角色和风景。该过程还涉及使用Google的VEO 2和Imagen 3 Generative AI模型以及添加感官元素。
-《华尔街日报》（04/08/25）isabelle bousquette    - 可能需要付费订阅]]></description>
-      <guid>https://www.wsj.com/articles/how-google-used-ai-to-re-create-the-wizard-of-oz-for-the-las-vegas-sphere-004ee6d6</guid>
-      <pubDate>Fri, 11 Apr 2025 18:13:32 GMT</pubDate>
+      <title>AI驱动的设备评估金枪鱼脂肪含量</title>
+      <link>https://www.asahi.com/ajw/articles/15705032</link>
+      <description><![CDATA[Asahi Shimbun（日本） 由富士通开发的超声检查装置和日本的研究人员的Tokai University使用AI来确定冷冻Albacore Tuna的脂肪含量，该脂肪含量在确定其市场价值方面起着重要作用。该设备使用超声波来分析冷冻金枪鱼的内部结构。它可以完成通常需要在12秒内需要一分钟的评估。
+asahi shimbun（日本）（04/10/25）kenichiro shino  &lt;a href =“ https://www.asahi.com/ajw/articles/15705032/15705032” target =“ _ blank”]]></description>
+      <guid>https://www.asahi.com/ajw/articles/15705032</guid>
+      <pubDate>Mon, 14 Apr 2025 15:10:41 GMT</pubDate>
     </item>
     <item>
-      <title>英国研究人员展示了长距离量子网络链接</title>
-      <link>https://www.hpcwire.com/off-the-wire/researchers-demonstrate-1st-long-distance-quantum-network-link-in-uk/</link>
-      <description><![CDATA[英国布里斯托尔大学和剑桥大学的HPCWIRE  研究人员开发了一个量子通信网络，能够在分隔机构的超过410公里（近255英里）上传输数据。该网络使用隐藏在光颗粒内部和分布式纠缠的加密键。研究人员展示了该网络传输加密医学数据，进行量子安全视频调用并安全远程访问到分布式数据中心的能力。
-hpcwire（04/08/25） &lt;a href =“ https://www.hpcwire.com/off-the-wire/researchers-demstrate-demstrate-1st-long-distance-distance-quantum-network-network-network-network-network-network-network-network-network-in-net-network-in-net-in-uk/”]]></description>
-      <guid>https://www.hpcwire.com/off-the-wire/researchers-demonstrate-1st-long-distance-quantum-network-link-in-uk/</guid>
-      <pubDate>Fri, 11 Apr 2025 18:13:31 GMT</pubDate>
+      <title>IEA说</title>
+      <link>https://www.wsj.com/business/energy-oil/ai-boom-to-fuel-surge-in-data-center-energy-needs-iea-99f90810</link>
+      <description><![CDATA[《华尔街日报》  国际能源机构（IEA）的报告预测，到2030年，对AI优化数据中心的能源需求将四倍，此类数据中心在该跨越中占美国电力需求的一半增长。虽然将使用广泛的能源来满足数据中心的不断增长的电气需求，但由于其成本竞争力和主要市场的可再生能源和天然气都引起了人们的注意。
+《华尔街日报》（04/10/25）Giulia Petroni    - 可能需要付费订阅]]></description>
+      <guid>https://www.wsj.com/business/energy-oil/ai-boom-to-fuel-surge-in-data-center-energy-needs-iea-99f90810</guid>
+      <pubDate>Mon, 14 Apr 2025 15:10:40 GMT</pubDate>
     </item>
     <item>
-      <title>研究人员目录文本输入技术以改进XR中的键入</title>
-      <link>https://www.roadtovr.com/xr-text-trove-vr-ar-text-input-typing-technique-catalog-max-di-luca/</link>
-      <description><![CDATA[通往英国伯明翰大学的VR   Massimiliano di Luca的道路领导了一支国际团队，该团队开发了XR Text Trove，该团队将超过170多个与扩展现实（XR）兼容的文本输入技术分类。 Text Trove使用32个代码，包括13个交互属性和14个性能指标，例如每分钟单词（WPM），以对这些技术进行分类。研究人员发现，键盘格式仍然可以达到最高的WPM，但是使用触觉反馈，外表面和仅指尖的可视化可以提高键入性能。   “研究人员目录文本输入技术可以改善在XR中的键入“ ”。
-通往VR的道路（04/08/25）Max Di Luca  &lt;a href =“ https://www.rodtovr.com/xr-text-trove-trove-vr-rove-vr-ar-text-input-typt--input-teping-technique-catalog-catalog-max-max-di-luca/]]></description>
-      <guid>https://www.roadtovr.com/xr-text-trove-vr-ar-text-input-typing-technique-catalog-max-di-luca/</guid>
-      <pubDate>Fri, 11 Apr 2025 18:13:30 GMT</pubDate>
+      <title>NSF扩展了对科学研究的高级云计算的访问</title>
+      <link>https://www.nsf.gov/news/nsf-expands-access-advanced-cloud-computing-scientific</link>
+      <description><![CDATA[NSF新闻  由美国国家科学基金会（NSF）授予的一项耗资2000万美元的赠款将用于扩展NSF CloudBank计划，该计划可访问商业云计算服务以加速科学和工程研究。 Cloudbank 2.0倡议由加利福尼亚大学，圣地亚哥大学的超级计算机中心和信息技术服务部，加利福尼亚大学，伯克利大学计算机，数据科学和社会学院以及华盛顿大学的Escience Institute。
+NSF新闻（04/09/25） &lt;a href =“ https://www.nsf.gov/news/nsf-expands-access-access-access-access-advanced-cloud-cloud-computing-computing-compienting-scientific-scientific” target =“ _ _空白”]]></description>
+      <guid>https://www.nsf.gov/news/nsf-expands-access-advanced-cloud-computing-scientific</guid>
+      <pubDate>Mon, 14 Apr 2025 15:10:39 GMT</pubDate>
     </item>
     <item>
-      <title>政府数据的合并可能会揭示有关我们的</title>
-      <link>https://www.nytimes.com/2025/04/09/us/politics/trump-musk-data-access.html</link>
-      <description><![CDATA[纽约时报 根据唐纳德·特朗普总统的行政命令，美国政府效率部（DOGE）正在努力巩固联邦政府各种脱节数据系统中持有的美国居民的个人数据。 Doge工人正在寻求跨八个机构的23个数据系统的访问。根据《纽约时报》，这些数据系统中包含了300多种有关美国居民的数据。
-《纽约时报》（04/09/25）艾米丽·雷德（Emily Badger）； Sheera Frenkel； Nicholas Nehamas； et al。]]></description>
-      <guid>https://www.nytimes.com/2025/04/09/us/politics/trump-musk-data-access.html</guid>
-      <pubDate>Fri, 11 Apr 2025 18:13:29 GMT</pubDate>
+      <title>NIH阻止了中国的研究人员，俄罗斯来自多个数据库</title>
+      <link>https://www.fiercebiotech.com/research/nih-bans-researchers-china-russia-and-other-countries-multiple-databases</link>
+      <description><![CDATA[激烈的生物技术 自4月4日生效，中国，俄罗斯和其他“关注国家”的研究人员被阻止了美国国立卫生研究院维护的众多受控数据存储库（CADR）。受影响的CADR包含有关癌症，阿尔茨海默氏病，精神健康疾病，药物滥用，青少年脑发育和其他主题的数据。据报道，该禁令源于美国前总统乔·拜登（Joe Biden）签署的2024年2月的行政命令，以防止目标国家进入大量美国人＆rsquo;健康和基因组学数据。
+凶猛的生物技术（04/08/25）Darren Incorvaia  &lt;a href =“ https://www.fiercebiotech.com/research/research/nih-bans-research--china-china-china-russia-alussia-allsia-and-chine-al--------------------------------------------------------------------------------------]]></description>
+      <guid>https://www.fiercebiotech.com/research/nih-bans-researchers-china-russia-and-other-countries-multiple-databases</guid>
+      <pubDate>Mon, 14 Apr 2025 15:10:39 GMT</pubDate>
     </item>
     <item>
-      <title>Kotlin，Swift，Ruby失去流行</title>
-      <link>https://www.infoworld.com/article/3956262/kotlin-swift-and-ruby-losing-popularity-tiobe-index.html</link>
-      <description><![CDATA[InfoWorldThe April Tiobe index of programming language popularity showed Kotlin, Swift, and Ruby all dropping out of the top 20. Tiobe CEO Paul Jansen said these programming languages &quot;are likely to go out of fashion&quot; given their use for particular mobile platforms at a time when there are suitable languages and frameworks for cross-platform development.From &quot;Kotlin, Swift, Ruby失去知名度“ 
-Infoworld（04/07/25）Paul Krill  &lt;a href =“ https://www.infoworld.com/article/3956262/3956262/kotlin-swift-and-ruby-luby-losing-popullity-popularity-popularity-tiobe-tiobe-index.htex.htex.htex.htex.htex.htex.htex.html” target =]]></description>
-      <guid>https://www.infoworld.com/article/3956262/kotlin-swift-and-ruby-losing-popularity-tiobe-index.html</guid>
-      <pubDate>Fri, 11 Apr 2025 18:13:28 GMT</pubDate>
+      <title>婴儿通过机器人精子注射系统出生</title>
+      <link>https://interestingengineering.com/health/scientists-announce-first-baby-born-via-robotic-sperm-injection-system</link>
+      <description><![CDATA[有趣的工程 可以想象的生命科学的研究人员开发了一个AI驱动的平台，用于自动化胞质内精子注射（ICSI）系统，用于将精子细胞注入成熟的卵中，从而导致一个健康的男婴诞生40岁的女性。该系统使用激光固定并引导精子细胞进入鸡蛋，从精度上胜过手动过程。
+有趣的工程（04/09/25）srishti gupta  &lt;a href =“ https://interestingengengineering.com/health/scientist-announce-annouse-first-baby-barby-born-via-born-via-robotic-spermotic-sperm-sperm-indoction-sperm-intoction-sperm-intoction-system”]]></description>
+      <guid>https://interestingengineering.com/health/scientists-announce-first-baby-born-via-robotic-sperm-injection-system</guid>
+      <pubDate>Mon, 14 Apr 2025 15:10:38 GMT</pubDate>
     </item>
     <item>
-      <title>美国人担心AI来这些工作</title>
-      <link>https://www.washingtonpost.com/business/2025/04/08/ai-job-loss-work/</link>
-      <description><![CDATA[《华盛顿邮报》  对美国成年人的皮尤研究中心调查确定了公众认为将在未来20年被AI取代的工作。其中包括收银员（73％），工厂工人（67％），记者（59％）和软件工程师（48％）。这些发现还证实了人们对技术的焦虑正在上升。大约有51％的人说，他们担心AI的使用增加，而2021年和2022年约有40％，大部分焦虑与工作有关。
-《华盛顿邮报》（04/08/25）Danielle Abril  &lt;a href =“ https:/ https://www.washingtonpost.com/business./business/2025/04/04/04/ai-job-loss-work/]]></description>
-      <guid>https://www.washingtonpost.com/business/2025/04/08/ai-job-loss-work/</guid>
-      <pubDate>Fri, 11 Apr 2025 18:13:28 GMT</pubDate>
+      <title>保护敏感的AI培训数据</title>
+      <link>https://news.mit.edu/2025/new-method-efficiently-safeguards-sensitive-ai-training-data-0411</link>
+      <description><![CDATA[MIT新闻  马萨诸塞州技术研究所研究人员开发的框架已经改善了AI模型性能和数据安全性，因此它可以私有化任何算法，而无需访问其内部工作。 PAC隐私框架估计必须仅使用输出差异将必须添加到算法中以达到目标隐私级别的噪声量。更新的算法估计各向异性噪声，因此达到同一隐私水平所需的总噪声较少。
+
+ 从“保护敏感的AI培训数据” 
+麻省理工学院新闻（04/11/25）Adam Zewe  &lt;a href =“ https://news.mit.mit.mit.edu/2025/new-method-efficely-safeguards-safeguards-safeguards-sentive-sentive-ai-ai-training-data-data-0411”]]></description>
+      <guid>https://news.mit.edu/2025/new-method-efficiently-safeguards-sensitive-ai-training-data-0411</guid>
+      <pubDate>Mon, 14 Apr 2025 15:10:37 GMT</pubDate>
     </item>
     <item>
-      <title>黑客监视了美国银行监管机构的100封电子邮件一年多</title>
-      <link>https://www.bloomberg.com/news/articles/2025-04-08/hackers-spied-on-100-bank-regulators-emails-for-over-a-year</link>
-      <description><![CDATA[彭博 美国货币审计长办公室（OCC）披露了一个网络安全事件，其中黑客访问了103个银行监管机构的电子邮件。根据Occ Cio Kristen Baldwin给国会的一封信，黑客在2023年5月从今年早些时候发现违规的高级副主管，国际银行监督员和其他员工的邮箱中访问了大约15万封电子邮件，直到今年早些时候被发现。
-彭博（04/08/25）Margi Murphy；杰克·布利贝格（Jake Bleiberg）； Daniel Flatley  &lt;a href =“ https://www.bloomberg.com/news/articles/2025-04-04-04/hackers-spied-on-100-bank-regulators-emails-emails-emails-for-over-over-a------------------------ emails-for-over-a------ for-over-a are]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-04-08/hackers-spied-on-100-bank-regulators-emails-for-over-a-year</guid>
-      <pubDate>Fri, 11 Apr 2025 18:13:27 GMT</pubDate>
+      <title>美国准备挑战META的社交媒体主导地位</title>
+      <link>https://www.nytimes.com/2025/04/13/technology/meta-ftc-trial-whatsapp-instagram.html</link>
+      <description><![CDATA[《纽约时报》  今天，美国哥伦比亚特区地方法院将开始考虑涉及元件的垄断案件，该案件涉及该公司是否通过获取初创竞争者违反法律的问题。美国联邦贸易委员会认为，梅塔（Meta）通过获得竞争对手在社交网络中维持其垄断地位，违反了法律，在此案件下，它是在第一个特朗普政府下发起的。  梅塔（Meta）保持了足够的竞争，监管机构当时批准了收购。
+《纽约时报》（04/14/25）Cecilia kang  ]]></description>
+      <guid>https://www.nytimes.com/2025/04/13/technology/meta-ftc-trial-whatsapp-instagram.html</guid>
+      <pubDate>Mon, 14 Apr 2025 15:10:36 GMT</pubDate>
     </item>
     <item>
-      <title>欧洲计划成为“ AI大陆”</title>
-      <link>https://www.cnbc.com/2025/04/09/eu-ai-continent-plan-to-boost-artificial-intelligence-industry.html</link>
-      <description><![CDATA[cnbc   &lt;img align =“ right” alt =“”高=“ 113” src=&quot;https://news.content.smithbucklin.com/acm_TechNews/images/thumbnails/108076909-1734442724354-gettyimages-2189857611-avils-notitle241217_npzK2.jpg&quot; style=&quot;margin-left: 20px;边缘右：20px;”宽度=“ 200” /&gt;欧洲委员会于4月9日揭幕了“ AI大陆行动计划”，使该集团能够更好地在AI中与美国和中国竞争。该委员会表示，该计划旨在“将欧洲强大的传统产业及其出色的人才库转变为AI创新和加速的强大引擎。”该计划要求建立一个AI工厂网络“ Gigafactories”和专门实验室，以提高创业公司访问高质量的培训数据。 “欧洲揭幕计划成为&#39;ai donconent&#39;” 
-CNBC（04/09/25）Ryan Browne  &lt;a href =“ https://www.cnbc.com/2025/2025/04/09/eu-ai-continound-continouct-continouct-plan-to-boost-boost-boost-boost-boost-artercost-ainter-co.]]></description>
-      <guid>https://www.cnbc.com/2025/04/09/eu-ai-continent-plan-to-boost-artificial-intelligence-industry.html</guid>
-      <pubDate>Fri, 11 Apr 2025 18:13:26 GMT</pubDate>
+      <title>与中国联系的在线运营重点关注加拿大PM Carney</title>
+      <link>https://www.cbc.ca/news/politics/carney-wechat-china-1.7503711</link>
+      <description><![CDATA[根据加拿大对选举工作组的安全和情报威胁，CBC  一项针对加拿大总理马克·卡尼（Mark Carney）的一项重点是加拿大总理马克·卡尼（Mark Carney）的在线总理马克·卡尼（Mark Carney）的企业已被追溯到流行的微信新闻账户尤利米安（Youli-Youmian）。 Youli-Youmian帐户与中国共产党的中央政治和法律事务委员会有关。安全工作组表示，旨在影响加拿大中国社区的信息行动并形成对卡尼的看法。
+CBC（04/07/25）]]></description>
+      <guid>https://www.cbc.ca/news/politics/carney-wechat-china-1.7503711</guid>
+      <pubDate>Mon, 14 Apr 2025 15:10:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>国会对国会的行业：“我们需要能源”</title>
+      <link>https://www.washingtonpost.com/politics/2025/04/10/ai-race-china-energy-congress/</link>
+      <description><![CDATA[华盛顿邮报 上周在美国众议院能源和商业委员会的听证会上，AI领导人告诉立法者，如果美国希望赢得AI竞赛，则需要更多的能量。 Google前首席执行官埃里克·施密特（Eric Sc​​hmidt）（如图）的特殊竞争研究项目智囊团表示，环境考虑不应阻碍赢得AI竞赛的方式，认为AI将解决一旦美国击败了中国的超级智慧。
+《华盛顿邮报》（04/10/25）Will Oremus； Andrea Jim＆Ecute; nez  查看全文&gt;]]></description>
+      <guid>https://www.washingtonpost.com/politics/2025/04/10/ai-race-china-energy-congress/</guid>
+      <pubDate>Mon, 14 Apr 2025 15:10:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普在筹码上发出新的关税，称排除临时性</title>
+      <link>https://www.nytimes.com/2025/04/13/us/politics/trump-tariffs-china-chips-technology.html</link>
+      <description><![CDATA[《纽约时报》   u.s。特朗普总统周日表示，他将在计算机芯片上征收新的关税，两天后，他的政府将各种电子产品排除在最近施加的关税之后。周五，美国海关和边境保护局发布了一项规则，该规则免除了高科技进口，例如来自相互关税的计算机，智能手机，调制解调器和闪存驱动器，包括中国的关税。但是在周日，政府将缓刑定为临时，而政府为关键技术准备了更多有针对性的进口税。
+《纽约时报》（04/14/25）托尼·罗姆（Tony Romm）；安娜·斯旺森； tripp mickle  ]]></description>
+      <guid>https://www.nytimes.com/2025/04/13/us/politics/trump-tariffs-china-chips-technology.html</guid>
+      <pubDate>Mon, 14 Apr 2025 15:10:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
