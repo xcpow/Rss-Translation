@@ -4,7 +4,14 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Tue, 15 Apr 2025 09:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 12:18:34 GMT</lastBuildDate>
+    <item>
+      <title>一名新墨西哥州男子因涉嫌向特斯拉展厅着火而面临联邦指控</title>
+      <link>https://www.wired.com/story/doj-pam-bondi-federal-indictment-tesla-protest/</link>
+      <description><![CDATA[贾米森·瓦格纳（Jamison Wagner）还被指控涉嫌对新墨西哥州共和党办公室的纵火袭击。]]></description>
+      <guid>https://www.wired.com/story/doj-pam-bondi-federal-indictment-tesla-protest/</guid>
+      <pubDate>Tue, 15 Apr 2025 11:09:03 GMT</pubDate>
+    </item>
     <item>
       <title>在联邦调查局搜索中，网络安全教授消失了。他的家人“决心打架”</title>
       <link>https://www.wired.com/story/professor-xiaofeng-wang-update/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[卡内基·梅隆（Carnegie Mellon）教授兼OpenAI董事会成员Zico Kolter向Wired讲述了AI代理人相互互动的危险，以及为什么模特需要更具耐药性。]]></description>
       <guid>https://www.wired.com/story/zico-kolter-ai-agents-game-theory/</guid>
       <pubDate>Wed, 09 Apr 2025 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能种族变得拥挤了，中国正在美国关闭</title>
-      <link>https://www.wired.com/story/stanford-study-global-artificial-intelligence-index/</link>
-      <description><![CDATA[斯坦福大学的新研究表明，随着整个美国，中国和法国的竞争增加，人工智能并不是由Openai和Google统治的。]]></description>
-      <guid>https://www.wired.com/story/stanford-study-global-artificial-intelligence-index/</guid>
-      <pubDate>Mon, 07 Apr 2025 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
