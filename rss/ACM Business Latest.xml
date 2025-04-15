@@ -4,7 +4,14 @@
     <title>业务最新</title>
     <link>https://www.wired.com</link>
     <description>频道描述</description>
-    <lastBuildDate>Mon, 14 Apr 2025 21:08:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 00:47:15 GMT</lastBuildDate>
+    <item>
+      <title>在联邦调查局搜索中，网络安全教授消失了。他的家人“决心打架”</title>
+      <link>https://www.wired.com/story/professor-xiaofeng-wang-update/</link>
+      <description><![CDATA[上个月从印第安纳大学（Indiana University）从印第安纳大学（Indiana University）突然开火，震惊了学术界，并震惊了担心中国出生的学者的目标。]]></description>
+      <guid>https://www.wired.com/story/professor-xiaofeng-wang-update/</guid>
+      <pubDate>Mon, 14 Apr 2025 22:21:15 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI的新GPT 4.1车型在编码方面表现出色</title>
       <link>https://www.wired.com/story/openai-announces-4-1-ai-model-coding/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[斯坦福大学的新研究表明，随着整个美国，中国和法国的竞争增加，人工智能并不是由Openai和Google统治的。]]></description>
       <guid>https://www.wired.com/story/stanford-study-global-artificial-intelligence-index/</guid>
       <pubDate>Mon, 07 Apr 2025 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普的关税威胁到美国半导体复兴</title>
-      <link>https://www.wired.com/story/trump-tariffs-impact-semiconductors-chips/</link>
-      <description><![CDATA[虽然白宫对某些半导体进口造成了狭窄的豁免，但唐纳德·特朗普总统的大量关税仍适用于GPU和芯片制造设备。]]></description>
-      <guid>https://www.wired.com/story/trump-tariffs-impact-semiconductors-chips/</guid>
-      <pubDate>Sat, 05 Apr 2025 09:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
